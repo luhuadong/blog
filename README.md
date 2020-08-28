@@ -14,3 +14,11 @@ npm install
 hexo server
 ```
 
+部署
+
+```shell
+hexo deploy
+```
+
+免费用户记得要在 Gitee Pages 页面手动更新！
+
