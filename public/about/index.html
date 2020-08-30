@@ -17,10 +17,20 @@
   <meta name="description" content="卢华东的个人网站">
   <meta name="author" content="Rudy Lo">
   <meta name="keywords" content="">
-  <title>友链 - 小滑同学</title>
+  <title>关于 - 小滑同学</title>
 
   <link  rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.4.1/css/bootstrap.min.css" />
 
+
+  <link  rel="stylesheet" href="https://cdn.staticfile.org/github-markdown-css/4.0.0/github-markdown.min.css" />
+  <link  rel="stylesheet" href="/blog/lib/hint/hint.min.css" />
+
+  
+    
+    <link  rel="stylesheet" href="https://cdn.staticfile.org/highlight.js/10.0.0/styles/github-gist.min.css" />
+  
+
+  
 
 
 <!-- 主题依赖的图标库，不要自行修改 -->
@@ -161,64 +171,62 @@
         <div class="py-5" id="board"
           >
           
+            <div class="about-avatar">
+              <img src="/blog/img/avatar.png" srcset="/blog/img/loading.gif"
+                   class="img-fluid" alt="avatar">
+            </div>
+          
           <div class="container">
             <div class="row">
               <div class="col-12 col-md-10 m-auto">
                 
 
-<div class="row links">
-  
-    
-    <div class="card col-lg-4 col-md-6 col-sm-12">
-      <a href="https://hexo.fluid-dev.com/docs/" class="card-body hover-with-bg" target="_blank" rel="noopener">
-        <div class="card-content">
+<div class="text-center">
+  <div class="about-info">
+    <div class="about-name">盧華東 Rudy</div>
+    <div class="about-intro">一句简短的介绍</div>
+    <div class="about-icons">
+      
+        
+        
+        
+        <a target="_blank" rel="noopener" href="https://github.com/luhuadong" class="
+           hint--bottom hint--rounded"
+           aria-label=GitHub
+        >
+          <i class="iconfont icon-github-fill" aria-hidden="true"></i>
           
-            <div class="link-avatar my-auto">
-              <img src="/img/favicon.png" srcset="/blog/img/loading.gif" alt="Fluid Docs" />
-            </div>
+        </a>
+      
+        
+        
+        
+        <a target="_blank" rel="noopener" href="https://www.douban.com/people/97382837/" class="
+           hint--bottom hint--rounded"
+           aria-label=豆瓣
+        >
+          <i class="iconfont icon-douban-fill" aria-hidden="true"></i>
           
-          <div class="link-text">
-            <div class="link-title">Fluid Docs</div>
-            <div class="link-intro">主题使用指南</div>
-          </div>
-        </div>
-      </a>
+        </a>
+      
+        
+        
+        
+        <a href="javascript:;" class="qr-trigger
+           "
+           
+        >
+          <i class="iconfont icon-wechat-fill" aria-hidden="true"></i>
+          
+            <img class="qr-img" src="/blog/img/qrcode_8cm.jpg" srcset="/blog/img/loading.gif" alt="qrcode" />
+          
+        </a>
+      
     </div>
-  
-    
-    <div class="card col-lg-4 col-md-6 col-sm-12">
-      <a href="https://github.com/fluid-dev/hexo-theme-fluid" class="card-body hover-with-bg" target="_blank" rel="noopener">
-        <div class="card-content">
-          
-            <div class="link-avatar my-auto">
-              <img src="/img/favicon.png" srcset="/blog/img/loading.gif" alt="Fluid Repo" />
-            </div>
-          
-          <div class="link-text">
-            <div class="link-title">Fluid Repo</div>
-            <div class="link-intro">主题 GitHub 仓库</div>
-          </div>
-        </div>
-      </a>
-    </div>
-  
-    
-    <div class="card col-lg-4 col-md-6 col-sm-12">
-      <a href="https://hexo.fluid-dev.com/docs/example/" class="card-body hover-with-bg" target="_blank" rel="noopener">
-        <div class="card-content">
-          
-            <div class="link-avatar my-auto">
-              <img src="/img/favicon.png" srcset="/blog/img/loading.gif" alt="Fluid Example" />
-            </div>
-          
-          <div class="link-text">
-            <div class="link-title">Fluid Example</div>
-            <div class="link-intro">主题操作示例</div>
-          </div>
-        </div>
-      </a>
-    </div>
-  
+  </div>
+</div>
+<div class="mt-5 markdown-body">
+  <h1 id="我是谁？"><a href="#我是谁？" class="headerlink" title="我是谁？"></a>我是谁？</h1>
 </div>
 
               </div>
@@ -310,7 +318,7 @@
     var typed = new Typed('#subtitle', {
       strings: [
         '  ',
-        "友情链接&nbsp;",
+        "关于&nbsp;",
       ],
       cursorChar: "_",
       typeSpeed: 70,
@@ -324,6 +332,21 @@
   </script>
 
 
+
+  <script  src="https://cdn.staticfile.org/anchor-js/4.2.2/anchor.min.js" ></script>
+  <script>
+    anchors.options = {
+      placement: "right",
+      visible: "hover",
+      
+    };
+    var el = "h1,h2,h3,h4,h5,h6".split(",");
+    var res = [];
+    for (item of el) {
+      res.push(".markdown-body > " + item)
+    }
+    anchors.add(res.join(", "))
+  </script>
 
 
 
