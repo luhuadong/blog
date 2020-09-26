@@ -20,6 +20,11 @@ hexo server
 hexo deploy
 ```
 
+```shell
+hexo clean
+hexo g d
+```
+
 免费用户记得要在 Gitee Pages 页面手动更新！
 
 
