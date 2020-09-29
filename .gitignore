@@ -1,4 +1,5 @@
 *.zip
+.idea/
 .DS_Store
 debug.log
 node_modules/
