@@ -35,3 +35,12 @@ hexo new [layout] <title>
 ```
 
 layout 是指 Hexo 的三种默认布局：`post`、`page` 和 `draft`。
+
+
+引用本地文件
+
+```yml
+# 开始使用本地静态资源
+post_asset_folder: true
+
+```

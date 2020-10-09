@@ -6,7 +6,7 @@ tags: 学习力
 
 ## 分享两个决策方法WCCA和WADM
 
-前几天，朋友给我推荐 MJ DeMarco 的《The Millionaire Fastlane》，里面提到两个帮助我们更好地作出决策的方法，非常实用，分享给大家！
+前几天，朋友给我推荐 MJ DeMarco 的[《The Millionaire Fastlane》](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQETAVQdXxMyVlgNRQQlW1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWRtYFAQTAVEdaxZ0Z2MSbT5zYHlHL0gaQ31ncyYfWVMOHjdUK1sUAxACVR9eFwQiN1Uca0NsEgZUGloUBxEFUStaJQIVBlYYWRcHFwZdE1olBRIOZUYfR1haUgVYCV0yIjdWK2slAiIEZVk1FFdGUwEdCxMHF1MFHlkRVhsHAR8IEwBFU1YSXhwFGwRlGVoUBhs%3D)，里面提到两个帮助我们更好地作出决策的方法，非常实用，分享给大家！
 
 - **WCCA**（最坏情况后果分析，Worst Case Consequence Analysis）
 - **WADM**（加权平均决策矩阵，The Weighted Average Decision Matrix）
