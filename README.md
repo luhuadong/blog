@@ -51,3 +51,7 @@ layout 是指 Hexo 的三种默认布局：`post`、`page` 和 `draft`。
 post_asset_folder: true
 
 ```
+
+## 主题
+
+- [Next](https://github.com/next-theme/hexo-theme-next)
