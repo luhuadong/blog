@@ -1,5 +1,9 @@
 *.zip
 .idea/
 .DS_Store
-debug.log
+Thumbs.db
+db.json
+*.log
 node_modules/
+public/
+.deploy*/
