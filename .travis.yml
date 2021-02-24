@@ -1,0 +1,22 @@
+sudo: false
+language: node_js
+node_js:
+  - 12 # use nodejs v12 LTS
+cache: npm
+branches:
+  only:
+    - master # 仅从 main 分支构建
+script:
+  - hexo generate # generate static files
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GH_TOKEN
+  keep-history: true
+  committer_from_gh: true
+  target_branch: deploy # 部署到 deploy 分支
+  on:
+    branch: master
+  local-dir: public
+include:
+  - .nojekyll  # 避免出错，需要在 source 目录下创建一个空的 .nojekyll 文件
