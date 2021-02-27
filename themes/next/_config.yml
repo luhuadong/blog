@@ -28,7 +28,7 @@ custom_file_path:
   #bodyEnd: source/_data/body-end.njk
   #variable: source/_data/variables.styl
   #mixin: source/_data/mixins.styl
-  #style: source/_data/styles.styl
+  style: source/_data/styles.styl
 
 
 # ---------------------------------------------------------------
@@ -57,7 +57,7 @@ favicon:
   #android_manifest: /manifest.json
 
 # Custom Logo (Warning: Do not support scheme Mist)
-custom_logo: #/uploads/custom-logo.jpg
+custom_logo: /uploads/qrcode_8cm.jpg
 
 # Creative Commons 4.0 International License.
 # See: https://creativecommons.org/about/cclicenses/
@@ -253,6 +253,10 @@ post_meta:
     enable: true
     another_day: true
   categories: true
+
+auto_excerpt:
+    enable: true
+    lines: 3
 
 # Post wordcount display settings
 # Dependencies: https://github.com/next-theme/hexo-word-counter
