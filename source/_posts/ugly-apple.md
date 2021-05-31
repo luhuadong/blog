@@ -4,7 +4,6 @@ date: 2021-03-15 00:47:09
 tags:
   - 思考
 categories: 成长之路
-sticky: 100
 ---
 
 ![](/images/diary/ugly-apple-01.jpeg)

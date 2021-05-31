@@ -6,6 +6,7 @@ tags:
   - 激励
   - 力量
 categories: 读书笔记
+sticky: 100
 ---
 
 > Make the most of everyday.
