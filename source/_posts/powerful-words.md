@@ -24,3 +24,5 @@ sticky: 100
 
 > "You got a dream, you gotta protect it. people can’t do something themselves, they wanna tell you you can’t do it. If you want something, go get it." 
 > 不要別人告訴你該做什麼，有夢想，就自己去保護。他人做不成什麼事情，就會跟你說你也做不成。如果你想要什麼，就要去爭取！ ——《當幸福來敲門》
+
+> 如果有一天：你不再寻找爱情，只是去爱；你不再渴望成功，只是去做；你不再追求空泛的成长，只是开始修养自己的性情；你的人生一切，才真正开始。—— 纪伯伦
