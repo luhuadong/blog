@@ -140,10 +140,10 @@ site_state: true
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
   GitHub: https://github.com/luhuadong || fab fa-github
-  Gitee: https://gitee.com/luhuadong
+  #Gitee: https://gitee.com/luhuadong
   CSDN: https://luhuadong.blog.csdn.net
   哔哩哔哩: https://space.bilibili.com/410684166
-  Weibo: https://weibo.com/luc2 || fab fa-weibo
+  #Weibo: https://weibo.com/luc2 || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
@@ -152,8 +152,10 @@ social:
   #Instagram: https://instagram.com/yourname || fab fa-instagram
   #Skype: skype:yourname?call|chat || fab fa-skype
   知乎: https://www.zhihu.com/people/armstrong2014
-  豆瓣: https://www.douban.com/people/97382837
-  简书: https://www.jianshu.com/u/375875fb8a2a
+  #豆瓣: https://www.douban.com/people/97382837
+  #简书: https://www.jianshu.com/u/375875fb8a2a
+  人人都懂物联网: https://getiot.tech
+  零聚社区: https://zerotogether.net
   E-Mail: mailto:luhuadong@163.com || fa fa-envelope
 
 social_icons:
