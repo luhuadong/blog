@@ -6,7 +6,6 @@ tags:
   - 奋斗
   - 成长
 categories: 成长之路
-sticky: 100
 ---
 
 ![](/images/rethink.jpeg)
