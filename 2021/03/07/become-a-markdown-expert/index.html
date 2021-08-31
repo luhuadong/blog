@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.0.2">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/avatar_mini.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/avatar_mini.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/avatar_mini.png">
+  <link rel="mask-icon" href="/images/avatar_mini.png" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
+
+<script class="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}};
+  </script>
+<meta name="description" content="三分钟成为 Markdown 专家 当你点开这篇文章的时候，相信你已经听过，甚至使用过 Markdown 了。现在，你希望进一步了解，使用好 Markdown。  那么，请先回答 3 个问题：   1. Markdown 是什么？  2. Markdown 不是什么？  3. 为什么使用 Markdown？  Markdown 是什么 Markdown 是一种轻量级标记语言。别被「标记语言」这个词">
+<meta property="og:type" content="article">
+<meta property="og:title" content="三分钟成为 Markdown 专家">
+<meta property="og:url" content="https://luhuadong.com/2021/03/07/become-a-markdown-expert/index.html">
+<meta property="og:site_name" content="成为自由人">
+<meta property="og:description" content="三分钟成为 Markdown 专家 当你点开这篇文章的时候，相信你已经听过，甚至使用过 Markdown 了。现在，你希望进一步了解，使用好 Markdown。  那么，请先回答 3 个问题：   1. Markdown 是什么？  2. Markdown 不是什么？  3. 为什么使用 Markdown？  Markdown 是什么 Markdown 是一种轻量级标记语言。别被「标记语言」这个词">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://luhuadong.com/images/md/markdown_show.png">
+<meta property="og:image" content="https://luhuadong.com/images/md/text-to-html.png">
+<meta property="article:published_time" content="2021-03-07T01:51:19.000Z">
+<meta property="article:modified_time" content="2021-03-14T17:37:28.663Z">
+<meta property="article:author" content="Rudy Lo">
+<meta property="article:tag" content="Markdown">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://luhuadong.com/images/md/markdown_show.png">
+
+
+<link rel="canonical" href="https://luhuadong.com/2021/03/07/become-a-markdown-expert/">
+
+
+<script class="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+<title>三分钟成为 Markdown 专家 | 成为自由人</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
+    <script>
+      if (CONFIG.hostname === location.hostname) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-190737867-1');
+      }
+    </script>
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+  <noscript>
+  <style>
+  body { margin-top: 2rem; }
+
+  .use-motion .menu-item,
+  .use-motion .sidebar,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header {
+    visibility: visible;
+  }
+
+  .use-motion .header,
+  .use-motion .site-brand-container .toggle,
+  .use-motion .footer { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle,
+  .use-motion .custom-logo-image {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line {
+    transform: scaleX(1);
+  }
+
+  .search-pop-overlay, .sidebar-nav { display: none; }
+  .sidebar-panel { display: block; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <h1 class="site-title">成为自由人</h1>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
+      <img class="custom-logo-image" src="/uploads/qrcode_8cm.jpg" alt="成为自由人">
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu">
+        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
+        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
+        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
+        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
+        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
+        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
+        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
+        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
+  </ul>
+</nav>
+
+
+
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%B8%89%E5%88%86%E9%92%9F%E6%88%90%E4%B8%BA-Markdown-%E4%B8%93%E5%AE%B6"><span class="nav-number">1.</span> <span class="nav-text">三分钟成为 Markdown 专家</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#Markdown-%E6%98%AF%E4%BB%80%E4%B9%88"><span class="nav-number">1.1.</span> <span class="nav-text">Markdown 是什么</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Markdown-%E4%B8%8D%E6%98%AF%E4%BB%80%E4%B9%88"><span class="nav-number">1.2.</span> <span class="nav-text">Markdown 不是什么</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%BF%E7%94%A8-Markdown"><span class="nav-number">1.3.</span> <span class="nav-text">为什么使用 Markdown</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%B0%8F%E7%BB%93"><span class="nav-number">1.4.</span> <span class="nav-text">小结</span></a></li></ol></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
+      src="/images/avatar.jpg">
+  <p class="site-author-name" itemprop="name">Rudy Lo</p>
+  <div class="site-description" itemprop="description">卢华东的个人网站</div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">20</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">4</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">26</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author site-overview-item animated">
+      <span class="links-of-author-item">
+        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://zerotogether.net/" title="零聚社区 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零聚社区</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+  </div>
+  <div class="cc-license site-overview-item animated" itemprop="license">
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
+  </div>
+
+
+
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="back-to-top" role="button">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/2021/03/07/become-a-markdown-expert/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="卢华东的个人网站">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          三分钟成为 Markdown 专家
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2021-03-07 09:51:19" itemprop="dateCreated datePublished" datetime="2021-03-07T09:51:19+08:00">2021-03-07</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2021-03-15 01:37:28" itemprop="dateModified" datetime="2021-03-15T01:37:28+08:00">2021-03-15</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/Markdown%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/" itemprop="url" rel="index"><span itemprop="name">Markdown从入门到精通</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <h1 id="三分钟成为-Markdown-专家"><a href="#三分钟成为-Markdown-专家" class="headerlink" title="三分钟成为 Markdown 专家"></a>三分钟成为 Markdown 专家</h1><p>当你点开这篇文章的时候，相信你已经听过，甚至使用过 Markdown 了。现在，你希望进一步了解，使用好 Markdown。</p>
+<p>那么，请先回答 3 个问题：</p>
+<ol>
+<li>Markdown 是什么？</li>
+<li>Markdown 不是什么？</li>
+<li>为什么使用 Markdown？</li>
+</ol>
+<h2 id="Markdown-是什么"><a href="#Markdown-是什么" class="headerlink" title="Markdown 是什么"></a>Markdown 是什么</h2><p>Markdown 是一种轻量级标记语言。别被「标记语言」这个词吓到，其实就是用一些足够简单的符号作为标记来对文本内容进行修饰。比如像下面这张图，左边就是用 Markdown 进行标记的文本，右边是经过渲染后呈现给用户的效果。</p>
+<p><img src="/images/md/markdown_show.png"></p>
+<p><strong>Markdown 简史</strong></p>
+<blockquote>
+<p><a target="_blank" rel="noopener" href="https://zh.wikipedia.org/wiki/Markdown">Markdown</a> 最早在 2004 年由著名科技博客 <a target="_blank" rel="noopener" href="https://daringfireball.net/">Daring Fireball</a> 的作者 <a target="_blank" rel="noopener" href="https://daringfireball.net/projects/markdown/">John Gruber</a> 所发布，并与 <a target="_blank" rel="noopener" href="https://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83%E8%8C%A8">Aaron Swartz</a>（互联网之子）共同完成语法设计与实现。因此 Markdown 从诞生之初就是为了更方便地进行互联网写作，也许是由于大家受够了 HTML 复杂的标签和糟糕的写作体验，Markdown 很快就在互联网上广泛流传开来。到 2014 年，已经出现了由多种语言编写的数十种 Markdown 实现，造成了许多不同的 Markdown 规范和兼容问题（Markdown-like language）。为了解决该问题，<a href="jgm@berkeley.edu">John MacFarlane</a> 等人成立了 <a target="_blank" rel="noopener" href="https://commonmark.org/">CommonMark</a> 项目，旨在为 Markdown 提供一个具体、无歧义的语法规范。从一定程度上来说，CommonMark 已经成为了 Markdown 语法规范的事实标准。</p>
+</blockquote>
+<p>现在，你知道 Markdown 是什么了吧？</p>
+<p>Markdown 有两层含义，一是对文本格式的规范性约束（也就是轻量级标签语言）；二是完成 text-to-html 过程的工具（也就是背后默默奉献的 Markdown 解释器，通常集成在 Markdown 编辑器中）。</p>
+<p><img src="/images/md/text-to-html.png"></p>
+<h2 id="Markdown-不是什么"><a href="#Markdown-不是什么" class="headerlink" title="Markdown 不是什么"></a>Markdown 不是什么</h2><p>随着 Markdown 的流行，有些小伙伴会产生一些误解，为了让大家在真正使用之前对 Markdown 有一个正确的认知。我觉得还是有必要捋一捋 Markdown 不是什么。</p>
+<p>Markdown 不是用来替代 HTML。虽然 Markdown 的目标是转换成 HTML，但并不是为了取代 HTML。虽然 HTML 的语法复杂、标签繁多，但它已经形成工业标准，有其存在的重要价值。</p>
+<p>Markdown 也不是用来替代 Word、Pages、PowerPoint 等工具。虽然 Markdown 流行至今，早已出圈，在网络写作之外的领域，如撰写书籍，文章，幻灯片，信件和讲义等也被广泛应用起来了。但 Markdown 作为轻量级的标签语言，在图文排版方面仍然难以胜任。</p>
+<h2 id="为什么使用-Markdown"><a href="#为什么使用-Markdown" class="headerlink" title="为什么使用 Markdown"></a>为什么使用 Markdown</h2><p>既然 Markdown 比不过 HTML，也比不过 Word、Pages 等工具，为什么还有推荐呢？</p>
+<p>Less is More，Markdown 的优势恰恰就在于足够简单！</p>
+<ul>
+<li><strong>容易编写</strong>（将文字变成标题只需要在前面加上一个 <code>#</code> 符号，还有比这更简单的吗？）</li>
+<li><strong>可读性强</strong>（Markdown 文本本身的可读性也很好，即便与其他许多轻量级标记语言相比，比如 AsciiDoc、rST）</li>
+<li><strong>易于转换</strong>（Markdown 语法很容易转换为 HTML，因此有许多编辑软件和网站都支持 Markdown 格式，你不用担心找不到好用的工具。如果你是作家，那更应该使用 Markdown，因为它也很容易转换成 azw3、ePub、mobi、pdf 等电子书格式）</li>
+<li><strong>便于保存</strong>（Markdown 是纯文档格式保存的，跟 txt 一样，因此在文档分享和保存方面有很大优势，你还可以结合 Git 等版本管理工具对文档进行精确控制）</li>
+<li><strong>无处不在</strong>（哪怕你现在还没开始用 Markdown，但你很可能早已看过 Markdown 渲染出来的网页，因为许多静态网站生成器都支持 Markdown）</li>
+<li><strong>永不过时</strong>（足够简洁的语法，是我们相信 Markdown 永不过时的理由，你什么时候学都不会晚！）</li>
+<li><strong>专注写作</strong>（别忘了，Markdown 的初衷，也是最重要的功能，是让用户专注于内容创作，而不是处理烦人的标签）</li>
+</ul>
+<h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><p>看到这里，相信你对 Markdown 的理解又加深了一些。下次跟朋友介绍 Markdown 的时候，如果你能把这 3 个问题娓娓道来，一定会成为别人眼中的 Markdown 专家！</p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>本文作者： </strong>Rudy Lo
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接：</strong>
+      <a href="https://luhuadong.com/2021/03/07/become-a-markdown-expert/" title="三分钟成为 Markdown 专家">https://luhuadong.com/2021/03/07/become-a-markdown-expert/</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/Markdown/" rel="tag"># Markdown</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/2021/03/06/The-Story-of-Aaron-Swartz/" rel="prev" title="互联网之子 - Aaron Swartz">
+                  <i class="fa fa-chevron-left"></i> 互联网之子 - Aaron Swartz
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/2021/03/14/how-are-you-today/" rel="next" title="「每日一问」你今天过得怎么样？">
+                  「每日一问」你今天过得怎么样？ <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      const commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
+<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+</body>
+</html>
