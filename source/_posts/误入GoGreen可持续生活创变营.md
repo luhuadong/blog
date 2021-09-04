@@ -4,7 +4,7 @@ date: 2020-10-29 09:41:22
 tags: 可持续生活
 ---
 
-![](GoGreen_Vloveit_2020.png)
+![](/images/static/GoGreen_Vloveit_2020.png)
 
 ## 创变营
 
@@ -12,7 +12,7 @@ tags: 可持续生活
 
 报名之后，发现我手上的工作越来越多，也够忙好久了，腾出两个周末参加活动其实有点困难，于是纠结要不要参加。碍于已经答应主办方，并且交了押金，所以还是参加一下吧，反正提供酒店住宿，就当周末度假、学习好了。害，可我还是想得太简单了，于是度过了两个有点累、有点魔幻的周末。
 
-![](2020_GoGreen_003.jpeg)
+![](/images/static/2020_GoGreen_003.jpeg)
 
 ## 感想
 
@@ -41,6 +41,7 @@ tags: 可持续生活
 
 <br>
 
-![](2020_GoGreen_052.jpeg)
+![](/images/static/2020_GoGreen_052.jpeg)
 
-![](2020_GoGreen_055.jpeg)
+![](/images/static/2020_GoGreen_055.jpeg)
+

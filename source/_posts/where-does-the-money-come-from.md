@@ -9,7 +9,7 @@ categories: 读书笔记
 ---
 
 
-![](001.jpeg)
+![](/images/static/book_money-come_001.jpeg)
 
 香帅老师的这本书，讲的是中国家庭财富积累的底层逻辑。不是理财、投资的具体策略，而是分析在当代社会，一个普通家庭该如何积累财富，也就是 —— 钱从哪里来？
 
@@ -17,7 +17,7 @@ categories: 读书笔记
 
 ## 职业方向
 
-![](002.png)
+![](/images/static/book_money-come_002.png)
 
 首先是**职业方向**。普通家庭的主要收入来源其实还是工资收入，一份“**滚雪球型**”的职业，能够帮助家庭较快地积累财富。而一份“**推石头型**”的职业，则会延缓财富的积累，这种职业往往也是创造价值增速低、折旧率高的，因此在未来很可能会被机器所取代，面临失业的尴尬。
 
@@ -30,7 +30,7 @@ categories: 读书笔记
     <p>年资溢价 —— 随着工作经验要求上升，招聘薪酬上涨。</p>
 </div>
 
-![](003.gif)
+![](/images/static/book_money-come_003.gif)
 
 
 <div class="note info"><p>小结：要尽量选择职业坡道长、能快速成长、折旧率低、收入高的职业。</p></div>
@@ -48,7 +48,7 @@ categories: 读书笔记
 
 那小城镇是不是就此没落？也不一定，大城市发展带来规模溢出效应，实际上就是城市规模在进一步扩张。生长在大城市周边的小城镇会夺得先机，形成具备生产能力、产业聚集、劳动力充足的小城镇。而不在大城市群周边的城镇，比如鄂尔多斯依靠便宜的电价、土地以及得天独厚的气候，吸引了众多云计算厂商；甘孜藏族自治州丹巴县八科村依靠新零售物流体系，使得特色农产品进入大城市的市场。
 
-![](004.gif)
+![](/images/static/book_money-come_004.gif)
 
 <div class="note info"><p>小结：大城市基础设施好、创新能力强、市场发育完善，有助于个人成长和财富积累。</p></div>
 
@@ -62,7 +62,7 @@ categories: 读书笔记
 
 至于其他金融资产，比如股票、基金、债券等，先配置低风险的再配置高风险的。受国际经济形势影响，更要理性投资、适当投资。
 
-![](005.gif)
+![](/images/static/book_money-come_005.gif)
 
 <div class="note info"><p>小结：中国的经济增速放缓，但不必过度悲观，作为个人要理性投资，作为企业要增强核心竞争力。</p></div>
 
@@ -75,7 +75,8 @@ categories: 读书笔记
 - 继续努力
 
 
-![](006.gif)
+![](/images/static/book_money-come_006.gif)
 
 
 > 购买链接：[京东](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQEUAV0cWxwyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVARQBXRxbHB1LQglGaxRKUx0THyNgYnFXIGkCZlwTXgdML0MOHjdUK1sUAxACVR9eFwQiN1Uca0NsEgZUGloUBxEFUStaJQIVB1AfUx0LFgNVHVslBRIOZUYfR1haUgVYCV0yIjdWK2slAiIEZVk1ElYVBgJOXBABQgEGHgtBUEJSUksPFlEQU1MSUxwCGg9lGVoUBhs%3D)、[淘宝](https://s.click.taobao.com/t?e=m%3D2%26s%3DyZLdPy06FwYcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67hNZ6tPKWe%2F8PLNzIt%2Fz56inFi3wFBXvYUtYIXyQ5%2BdaGX93X4IFTwPx%2FVncyXNiWXW0BscCR%2FBjdZr7RBnLmJomXO35yxsacVu%2FAug5mCZctaSVhgwkRkCwTfVrJiO1T2RsSsXPAUZ0&scm=null&pvid=null&app_pvid=59590_33.5.62.17_633_1614599968567&ptl=floorId%3A17741&originalFloorId%3A17741&app_pvid%3A59590_33.5.62.17_633_1614599968567&union_lens=lensId%3APUB%401614599948%400b1a2517_0e71_177eda808d8_308f%40026Hzwm1WaB5Mq75ZsMWKJJh)
+
