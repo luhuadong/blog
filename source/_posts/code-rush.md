@@ -4,7 +4,7 @@ date: 2020-02-03 14:45:49
 tags:
   - 纪录片
   - 互联网
-categories: 纪录片
+categories: movies
 ---
 
 《Code Rush》是 David Winton 导演于 1998 年至 2000 年间拍摄的纪录片，记录了硅谷的 Netscape 工程师们将浏览器源代码开源，成立 Mozilla 项目的经历；同时 Netscape 也正经历被 AOL 并购的过程。本片描绘了 Netscape 的工程师们，牺牲日常生活与家庭，努力防止他们的公司倒闭的经历。

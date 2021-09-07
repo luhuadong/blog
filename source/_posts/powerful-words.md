@@ -5,7 +5,7 @@ tags:
   - 名言
   - 激励
   - 力量
-categories: 读书笔记
+categories: reading
 sticky: 100
 ---
 

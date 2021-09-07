@@ -4,7 +4,7 @@ date: 2021-08-30 21:17:54
 tags: 
   - 成长
   - 幸福
-categories: 成长之路
+categories: journal
 ---
 
 

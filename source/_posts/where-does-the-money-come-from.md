@@ -5,7 +5,7 @@ tags:
   - 财富
   - 职业
   - 城市
-categories: 读书笔记
+categories: reading
 ---
 
 

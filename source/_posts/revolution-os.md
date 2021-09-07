@@ -5,7 +5,7 @@ tags:
   - 纪录片
   - 自由软件
   - 操作系统
-categories: 纪录片
+categories: movies
 ---
 
 <iframe src="//player.bilibili.com/player.html?aid=796140504&bvid=BV1iC4y187nT&cid=235560964&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

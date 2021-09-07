@@ -3,7 +3,8 @@ title: 秘密 —— 宇宙吸引力法则
 date: 2021-02-06 20:43:26
 tags:
   - 心理学
-categories: 读书笔记
+  - 读书笔记
+categories: reading
 ---
 
 

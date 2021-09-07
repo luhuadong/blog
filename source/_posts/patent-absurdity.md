@@ -5,7 +5,7 @@ tags:
   - 纪录片
   - 自由软件
   - 开源软件
-categories: 纪录片
+categories: movies
 ---
 
 <iframe src="//player.bilibili.com/player.html?aid=15221360&bvid=BV1sx411u7qy&cid=24774214&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

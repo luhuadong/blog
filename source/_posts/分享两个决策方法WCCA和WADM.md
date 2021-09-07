@@ -1,10 +1,12 @@
 ---
 title: 分享两个决策方法WCCA和WADM
 date: 2020-10-09 16:15:04
-tags: 学习力
+tags: 
+  - 学习力
+  - 思维
+categories: reading
 ---
 
-## 分享两个决策方法WCCA和WADM
 
 前几天，朋友给我推荐 MJ DeMarco 的[《The Millionaire Fastlane》](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQETAVQdXxMyVlgNRQQlW1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWRtYFAQTAVEdaxZ0Z2MSbT5zYHlHL0gaQ31ncyYfWVMOHjdUK1sUAxACVR9eFwQiN1Uca0NsEgZUGloUBxEFUStaJQIVBlYYWRcHFwZdE1olBRIOZUYfR1haUgVYCV0yIjdWK2slAiIEZVk1FFdGUwEdCxMHF1MFHlkRVhsHAR8IEwBFU1YSXhwFGwRlGVoUBhs%3D)，里面提到两个帮助我们更好地作出决策的方法，非常实用，分享给大家！
 

@@ -5,7 +5,7 @@ tags:
   - 修身
   - 思考
   - 总结
-categories: 成长之路
+categories: journal
 ---
 
 

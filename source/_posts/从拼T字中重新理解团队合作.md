@@ -1,7 +1,11 @@
 ---
 title: 从拼T字中重新理解团队合作
 date: 2020-11-15 01:30:52
-tags: 创业
+tags: 
+  - 创业
+  - 管理
+  - 团队合作
+categories: journal
 ---
 
 

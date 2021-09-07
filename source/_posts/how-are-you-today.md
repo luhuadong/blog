@@ -5,7 +5,7 @@ tags:
   - 修身
   - 奋斗
   - 成长
-categories: 成长之路
+categories: journal
 ---
 
 ![](/images/rethink.jpeg)

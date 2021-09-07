@@ -1,7 +1,10 @@
 ---
 title: 误入 GoGreen! 可持续生活创变营
 date: 2020-10-29 09:41:22
-tags: 可持续生活
+tags: 
+  - 可持续生活
+  - 环保
+categories: zerowaste
 ---
 
 ![](/images/static/GoGreen_Vloveit_2020.png)
