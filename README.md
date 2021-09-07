@@ -55,3 +55,14 @@ post_asset_folder: true
 ## 主题
 
 - [Next](https://github.com/next-theme/hexo-theme-next)
+
+## 栏目
+
+- [x] Journal（日记）
+- [x] Reading（读书笔记）
+- [x] Movies（纪录片、TED演讲）
+- [x] ZeroWaste（环保）
+- [x] Markdown（教程）
+- [ ] English（英语学习：diary 和 journal 的区别）
+- [ ] Money（赚钱思维、理财）
+
