@@ -23,17 +23,17 @@
     var NexT = window.NexT || {};
     var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}};
   </script>
-<meta name="description" content="真正有才华的人 往往不是天赋异禀 而是习惯了勤奋 如果你的才华配不上梦想 脚步跟不上目光 所有的任性不过是一念幻想    大家好，我是 Rudy， 一个想不上班，想肆意追逐梦想的人。 欢迎订阅微信公众号「成为自由人」    认真生活，快乐工作">
+<meta name="description" content="真正有才华的人 往往不是天赋异禀 而是习惯了勤奋 如果你的才华配不上梦想 脚步跟不上目光 所有的任性不过是一念幻想    大家好，我是 Rudy，一个有梦想的人。 我想有一份对社会有益的事业， 也想有自由的时间陪伴重要的人； 我希望是因为可以从工作中得到快乐才去上班的， 也希望可以同时兼顾到自己的个人生活； 我想在郊区买幢房子，生个孩子，一家人安贫乐道地过日子。 看山，看云，看花，看海…… 欢迎订">
 <meta property="og:type" content="website">
 <meta property="og:title" content="关于">
 <meta property="og:url" content="https://luhuadong.com/about/index.html">
 <meta property="og:site_name" content="成为自由人">
-<meta property="og:description" content="真正有才华的人 往往不是天赋异禀 而是习惯了勤奋 如果你的才华配不上梦想 脚步跟不上目光 所有的任性不过是一念幻想    大家好，我是 Rudy， 一个想不上班，想肆意追逐梦想的人。 欢迎订阅微信公众号「成为自由人」    认真生活，快乐工作">
+<meta property="og:description" content="真正有才华的人 往往不是天赋异禀 而是习惯了勤奋 如果你的才华配不上梦想 脚步跟不上目光 所有的任性不过是一念幻想    大家好，我是 Rudy，一个有梦想的人。 我想有一份对社会有益的事业， 也想有自由的时间陪伴重要的人； 我希望是因为可以从工作中得到快乐才去上班的， 也希望可以同时兼顾到自己的个人生活； 我想在郊区买幢房子，生个孩子，一家人安贫乐道地过日子。 看山，看云，看花，看海…… 欢迎订">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://luhuadong.com/images/avatar.png">
 <meta property="og:image" content="https://luhuadong.com/images/qrcode_8cm.jpg">
 <meta property="article:published_time" content="2020-08-30T07:54:17.000Z">
-<meta property="article:modified_time" content="2021-09-07T14:35:14.887Z">
+<meta property="article:modified_time" content="2021-09-08T14:39:58.392Z">
 <meta property="article:author" content="Rudy Lo">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="https://luhuadong.com/images/avatar.png">
@@ -302,7 +302,7 @@
 
 <p><img src="/images/avatar.png"></p>
 <blockquote class="blockquote-center">
-<p>大家好，我是 Rudy，<br>一个想不上班，想肆意追逐梦想的人。<br>欢迎订阅微信公众号「成为自由人」</p>
+<p>大家好，我是 Rudy，一个有梦想的人。<br>我想有一份对社会有益的事业，<br>也想有自由的时间陪伴重要的人；<br>我希望是因为可以从工作中得到快乐才去上班的，<br>也希望可以同时兼顾到自己的个人生活；<br>我想在郊区买幢房子，生个孩子，一家人安贫乐道地过日子。<br>看山，看云，看花，看海……<br>欢迎订阅微信公众号「成为自由人」<br>（虽然我不会定期更新，但还是欢迎您~）</p>
 
 </blockquote>
 
@@ -320,6 +320,7 @@
     
 
 
+    <div class="comments" id="valine-comments"></div>
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -379,6 +380,18 @@
 
 
 
+
+<script>
+NexT.utils.loadComments('#valine-comments', () => {
+  NexT.utils.getScript('https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js', () => {
+    new Valine(Object.assign({"enable":true,"appId":"6hrjjOTKL5yC0nVxpfKzdw1b-gzGzoHsz","appKey":"wGcDnHp1q8puQOkcRCpvOM7n","serverURLs":null,"placeholder":"Just go go","avatar":"mm","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":false,"requiredFields":[]}, {
+      el: '#valine-comments',
+      path: "/about/",
+      serverURLs: "https://6hrjjotk.api.lncldglobal.com"
+    }));
+  }, window.Valine);
+});
+</script>
 
 </body>
 </html>
