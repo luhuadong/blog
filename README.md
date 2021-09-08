@@ -56,6 +56,12 @@ post_asset_folder: true
 
 - [Next](https://github.com/next-theme/hexo-theme-next)
 
+## 评论
+
+```shell
+npm install next-theme/hexo-next-valine
+```
+
 ## 栏目
 
 - [x] Journal（日记）
