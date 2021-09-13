@@ -785,7 +785,7 @@
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2021-09-11 23:25:31" itemprop="dateModified" datetime="2021-09-11T23:25:31+08:00">2021-09-11</time>
+        <time title="修改时间：2021-09-13 10:21:40" itemprop="dateModified" datetime="2021-09-13T10:21:40+08:00">2021-09-13</time>
       </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -809,13 +809,14 @@
     
     
     <div class="post-body" itemprop="articleBody">
-          说到卫星定位系统，大家都会想到 GPS（Global Positioning System，全球定位系统）。GPS 是美国从上世纪 70 年代开始研制，历时 20 年，耗资 200 亿美元，于 1994 年全面建成，具有在海、陆、空进行全方位实时三维导航与定位能力的新一代卫星导航与定位系统。早期仅限于军方使用，时至今日，GPS 早已开放给民间做为定位使用，广泛应用于资源勘查、航空、交通、灾害现场等领域。
+          引言
+说到卫星定位系统，大家都会想到 GPS（Global Positioning System，全球定位系统）。GPS 是美国从上世纪 70 年代开始研制，历时 20 年，耗资 200 亿美元，于 1994 年全面建成，具有在海、陆、空进行全方位实时三维导航与定位能力的新一代卫星导航与定位系统。早期仅限于军方使用，时至今日，GPS 早已开放给民间做为定位使用，广泛应用于资源勘查、航空、交通、灾害现场等领域。
 
 除了美国的 GPS 系统，世界上知名的卫星导航与定位系统还有：俄罗斯的 GLONASS、欧盟的 GALILEO 以及中国的北斗卫星导航系统（BDS）。
 
 
 
-自1994年北斗一号系统工程立项
+自1994年北斗一号系统工
           <!--noindex-->
             <div class="post-button">
               <a class="btn" href="/science/why-do-we-need-four-satellites-for-gps.html#more" rel="contents">
@@ -1290,6 +1291,39 @@ Now Alex walked into her f
   
 
 
+
+
+  <script>
+  if (typeof MathJax === 'undefined') {
+    window.MathJax = {
+      tex: {
+        inlineMath: {'[+]': [['$', '$']]},
+        tags: 'none'
+      },
+      options: {
+        renderActions: {
+          insertedScript: [200, () => {
+            document.querySelectorAll('mjx-container').forEach(node => {
+              const target = node.parentNode;
+              if (target.nodeName.toLowerCase() === 'li') {
+                target.parentNode.classList.add('has-jax');
+              }
+            });
+          }, '', false]
+        }
+      }
+    };
+    const script = document.createElement('script');
+    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
+    script.defer = true;
+    document.head.appendChild(script);
+  } else {
+    MathJax.startup.document.state(0);
+    MathJax.typesetClear();
+    MathJax.texReset();
+    MathJax.typeset();
+  }
+</script>
 
 
 
