@@ -71,4 +71,10 @@ npm install next-theme/hexo-next-valine
 - [x] Markdown（教程）
 - [ ] English（英语学习：diary 和 journal 的区别）
 - [ ] Money（赚钱思维、理财）
+- [ ] 地理
+- [ ] 绘画
+- [ ] 运动
+- [ ] 健康
+- [ ] 心理学
+- [ ] 行业分析
 
