@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.0.2">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/avatar_mini.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/avatar_mini.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/avatar_mini.png">
+  <link rel="mask-icon" href="/images/avatar_mini.png" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
+
+<script class="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}};
+  </script>
+<meta name="description" content="GitHub 资源  * OSSU 计算机科学自学：https:&#x2F;&#x2F;github.com&#x2F;ossu&#x2F;computer-science  * TeachYourselfCS：https:&#x2F;&#x2F;github.com&#x2F;keithnull&#x2F;TeachYourselfCS-CN  * 浙江大学课程攻略共享计划：https:&#x2F;&#x2F;github.com&#x2F;QSCTech&#x2F;zju-icicles  * 清华大学计算机系">
+<meta property="og:type" content="article">
+<meta property="og:title" content="开启终身学习之旅">
+<meta property="og:url" content="https://luhuadong.com/common/source-list-learning.html">
+<meta property="og:site_name" content="成为自由人">
+<meta property="og:description" content="GitHub 资源  * OSSU 计算机科学自学：https:&#x2F;&#x2F;github.com&#x2F;ossu&#x2F;computer-science  * TeachYourselfCS：https:&#x2F;&#x2F;github.com&#x2F;keithnull&#x2F;TeachYourselfCS-CN  * 浙江大学课程攻略共享计划：https:&#x2F;&#x2F;github.com&#x2F;QSCTech&#x2F;zju-icicles  * 清华大学计算机系">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2016-04-27T13:42:37.000Z">
+<meta property="article:modified_time" content="2021-09-22T10:04:58.587Z">
+<meta property="article:author" content="Rudy Lo">
+<meta property="article:tag" content="信息世界">
+<meta name="twitter:card" content="summary">
+
+
+<link rel="canonical" href="https://luhuadong.com/common/source-list-learning.html">
+
+
+<script class="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+<title>开启终身学习之旅 | 成为自由人</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
+    <script>
+      if (CONFIG.hostname === location.hostname) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-190737867-1');
+      }
+    </script>
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+  <noscript>
+  <style>
+  body { margin-top: 2rem; }
+
+  .use-motion .menu-item,
+  .use-motion .sidebar,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header {
+    visibility: visible;
+  }
+
+  .use-motion .header,
+  .use-motion .site-brand-container .toggle,
+  .use-motion .footer { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle,
+  .use-motion .custom-logo-image {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line {
+    transform: scaleX(1);
+  }
+
+  .search-pop-overlay, .sidebar-nav { display: none; }
+  .sidebar-panel { display: block; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <h1 class="site-title">成为自由人</h1>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
+      <img class="custom-logo-image" src="/uploads/qrcode_8cm.jpg" alt="成为自由人">
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu">
+        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
+        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
+        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
+        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
+        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
+        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
+        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
+        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
+  </ul>
+</nav>
+
+
+
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#GitHub-%E8%B5%84%E6%BA%90"><span class="nav-number">1.</span> <span class="nav-text">GitHub 资源</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%B5%8C%E5%85%A5%E5%BC%8F-Linux"><span class="nav-number">2.</span> <span class="nav-text">嵌入式 Linux</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%B9%A6%E7%B1%8D%E6%95%99%E7%A8%8B"><span class="nav-number">3.</span> <span class="nav-text">书籍教程</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%AD%A6%E4%B9%A0%E5%B9%B3%E5%8F%B0"><span class="nav-number">4.</span> <span class="nav-text">学习平台</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%94%B5%E5%AD%90%E5%B7%A5%E7%A8%8B"><span class="nav-number">5.</span> <span class="nav-text">电子工程</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%BC%80%E6%BA%90%E7%A1%AC%E4%BB%B6"><span class="nav-number">6.</span> <span class="nav-text">开源硬件</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD"><span class="nav-number">7.</span> <span class="nav-text">人工智能</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%8D%9A%E5%AE%A2%E8%AE%BA%E5%9D%9B"><span class="nav-number">8.</span> <span class="nav-text">博客论坛</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%BC%96%E7%A8%8B%E7%BB%83%E4%B9%A0"><span class="nav-number">9.</span> <span class="nav-text">编程练习</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%A4%A7%E7%A5%9E%E7%BD%91%E7%AB%99"><span class="nav-number">10.</span> <span class="nav-text">大神网站</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1"><span class="nav-number">11.</span> <span class="nav-text">产品设计</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%A4%96%E8%AF%AD%E5%AD%A6%E4%B9%A0"><span class="nav-number">12.</span> <span class="nav-text">外语学习</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%AD%A6%E6%9C%AF%E7%A7%91%E7%A0%94"><span class="nav-number">13.</span> <span class="nav-text">学术科研</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%95%86%E5%AD%A6%E9%99%A2"><span class="nav-number">14.</span> <span class="nav-text">商学院</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%94%B5%E5%8F%B0%E8%8A%82%E7%9B%AE"><span class="nav-number">15.</span> <span class="nav-text">电台节目</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%88%E6%8A%80%E6%9C%AF%E7%B1%BB%EF%BC%89"><span class="nav-number">16.</span> <span class="nav-text">微信公众号（技术类）</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%88%E7%94%9F%E6%B4%BB%E7%B1%BB%EF%BC%89"><span class="nav-number">17.</span> <span class="nav-text">微信公众号（生活类）</span></a></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
+      src="/images/avatar.jpg">
+  <p class="site-author-name" itemprop="name">Rudy Lo</p>
+  <div class="site-description" itemprop="description">卢华东的个人网站</div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">93</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">13</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">60</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author site-overview-item animated">
+      <span class="links-of-author-item">
+        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://gitee.com/luhuadong" title="Gitee → https:&#x2F;&#x2F;gitee.com&#x2F;luhuadong" rel="noopener" target="_blank">Gitee</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.douban.com/group/730047/" title="豆瓣 → https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;" rel="noopener" target="_blank">豆瓣</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://zerotogether.net/" title="零聚社区 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零聚社区</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+  </div>
+  <div class="cc-license site-overview-item animated" itemprop="license">
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
+  </div>
+
+
+
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="back-to-top" role="button">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/common/source-list-learning.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="卢华东的个人网站">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          开启终身学习之旅
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2016-04-27 21:42:37" itemprop="dateCreated datePublished" datetime="2016-04-27T21:42:37+08:00">2016-04-27</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2021-09-22 18:04:58" itemprop="dateModified" datetime="2021-09-22T18:04:58+08:00">2021-09-22</time>
+      </span>
+
+  
+  
+  <span class="post-meta-item">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">Valine：</span>
+  
+    <a title="valine" href="/common/source-list-learning.html#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/common/source-list-learning.html" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <h2 id="GitHub-资源"><a href="#GitHub-资源" class="headerlink" title="GitHub 资源"></a>GitHub 资源</h2><ul>
+<li>OSSU 计算机科学自学：<a target="_blank" rel="noopener" href="https://github.com/ossu/computer-science">https://github.com/ossu/computer-science</a></li>
+<li>TeachYourselfCS：<a target="_blank" rel="noopener" href="https://github.com/keithnull/TeachYourselfCS-CN">https://github.com/keithnull/TeachYourselfCS-CN</a></li>
+<li>浙江大学课程攻略共享计划：<a target="_blank" rel="noopener" href="https://github.com/QSCTech/zju-icicles">https://github.com/QSCTech/zju-icicles</a></li>
+<li>清华大学计算机系课程攻略：<a target="_blank" rel="noopener" href="https://github.com/PKUanonym/REKCARC-TSC-UHT">https://github.com/PKUanonym/REKCARC-TSC-UHT</a></li>
+</ul>
+<h2 id="嵌入式-Linux"><a href="#嵌入式-Linux" class="headerlink" title="嵌入式 Linux"></a>嵌入式 Linux</h2><ul>
+<li>GNU 项目：<a target="_blank" rel="noopener" href="https://www.gnu.org/">https://www.gnu.org/</a></li>
+<li>GNU 的 FTP 站点：<a target="_blank" rel="noopener" href="https://ftp.gnu.org/">https://ftp.gnu.org/</a></li>
+<li>Linux kernel：<a target="_blank" rel="noopener" href="https://www.kernel.org/">https://www.kernel.org/</a></li>
+<li>Linux kernel 下载地址：<a target="_blank" rel="noopener" href="https://www.kernel.org/pub/linux/kernel/">https://www.kernel.org/pub/linux/kernel/</a></li>
+<li>U-Boot 下载地址：<a href="ftp://ftp.denx.de/pub/u-boot">ftp://ftp.denx.de/pub/u-boot</a></li>
+<li>BusyBox：<a target="_blank" rel="noopener" href="https://busybox.net/">https://busybox.net/</a></li>
+<li>Bash 下载地址：<a target="_blank" rel="noopener" href="https://ftp.gnu.org/gnu/bash/">https://ftp.gnu.org/gnu/bash/</a></li>
+<li>ARM交叉编译工具链：<a target="_blank" rel="noopener" href="https://www.veryarm.com/">https://www.veryarm.com/</a></li>
+<li>ARM Developer：<a target="_blank" rel="noopener" href="https://developer.arm.com/">https://developer.arm.com/</a></li>
+<li>QEMU：<a target="_blank" rel="noopener" href="https://www.qemu.org/">https://www.qemu.org/</a></li>
+<li>Linux Cross Reference：<a target="_blank" rel="noopener" href="http://lxr.free-electrons.com/">http://lxr.free-electrons.com/</a></li>
+<li>Bootlin：<a target="_blank" rel="noopener" href="https://bootlin.com/">https://bootlin.com/</a> （Bootlin is an engineering company specialized in embedded Linux）</li>
+<li>Linux From Scratch：<a target="_blank" rel="noopener" href="http://www.linuxfromscratch.org/">http://www.linuxfromscratch.org/</a></li>
+<li>Buildroot：<a target="_blank" rel="noopener" href="https://buildroot.org/">https://buildroot.org/</a></li>
+<li>Yocto Project / OpenEmbedded：<a target="_blank" rel="noopener" href="https://www.yoctoproject.org/">https://www.yoctoproject.org/</a></li>
+<li>Yocto 的 Git 代码库：<a target="_blank" rel="noopener" href="https://git.yoctoproject.org/">https://git.yoctoproject.org/</a></li>
+<li>OpenEmbedded 的 Git 代码库：<a target="_blank" rel="noopener" href="https://git.openembedded.org/">https://git.openembedded.org/</a></li>
+<li>Gentoo Linux 手册：<a target="_blank" rel="noopener" href="https://wiki.gentoo.org/wiki/Handbook:X86/Full/Installation/zh-cn">https://wiki.gentoo.org/wiki/Handbook:X86/Full/Installation/zh-cn</a></li>
+<li>Ubuntu 软件包检索：<a target="_blank" rel="noopener" href="https://packages.ubuntu.com/">https://packages.ubuntu.com/</a></li>
+<li>Ubuntu 中文 Wiki：<a target="_blank" rel="noopener" href="https://wiki.ubuntu.org.cn/">https://wiki.ubuntu.org.cn/</a></li>
+<li>Linux 命令大全：<a target="_blank" rel="noopener" href="https://man.linuxde.net/">https://man.linuxde.net/</a></li>
+<li>LINUX.COM：<a target="_blank" rel="noopener" href="https://www.linux.com/">https://www.linux.com/</a></li>
+<li>Linux 公社：<a target="_blank" rel="noopener" href="https://www.linuxidc.com/">https://www.linuxidc.com/</a> （下载的话，用户名与密码都是 <a target="_blank" rel="noopener" href="http://www.linuxidc.com)/">www.linuxidc.com）</a></li>
+<li>Linux 中国：<a target="_blank" rel="noopener" href="https://linux.cn/">https://linux.cn/</a></li>
+<li>Qt 下载中心：<a target="_blank" rel="noopener" href="https://download.qt.io/">https://download.qt.io/</a></li>
+<li>QTCN开发网：<a target="_blank" rel="noopener" href="http://www.qtcn.org/bbs/i.php">http://www.qtcn.org/bbs/i.php</a></li>
+<li>Clonezilla（再生龙）：<a target="_blank" rel="noopener" href="https://sourceforge.net/projects/clonezilla/files/clonezilla_live_stable/">https://sourceforge.net/projects/clonezilla/files/clonezilla_live_stable/</a></li>
+<li>跟我一起写 Makefile：<a target="_blank" rel="noopener" href="https://seisman.github.io/how-to-write-makefile/">https://seisman.github.io/how-to-write-makefile/</a></li>
+<li>跟我一起写Makefile：<a target="_blank" rel="noopener" href="https://wiki.ubuntu.org.cn/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99Makefile">https://wiki.ubuntu.org.cn/跟我一起写Makefile</a></li>
+<li>RT patch 下载：<a target="_blank" rel="noopener" href="https://www.kernel.org/pub/linux/kernel/projects/rt/">https://www.kernel.org/pub/linux/kernel/projects/rt/</a></li>
+<li>RTAI 官网：<a target="_blank" rel="noopener" href="https://www.rtai.org/">https://www.rtai.org/</a></li>
+<li>Xenomai 官网：<a target="_blank" rel="noopener" href="http://xenomai.org/">http://xenomai.org/</a></li>
+<li>tslib 库源码下载：<a target="_blank" rel="noopener" href="https://github.com/kergoth/tslib">https://github.com/kergoth/tslib</a></li>
+<li>oRTP 库源码下载：<a target="_blank" rel="noopener" href="http://download.savannah.gnu.org/releases/linphone/ortp/sources/">http://download.savannah.gnu.org/releases/linphone/ortp/sources/</a></li>
+<li>Linphone 源码下载：<a target="_blank" rel="noopener" href="http://www.linphone.org/technical-corner/linphone/downloads">http://www.linphone.org/technical-corner/linphone/downloads</a></li>
+<li>vim键盘图：<a target="_blank" rel="noopener" href="http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html">http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html</a></li>
+</ul>
+<h2 id="书籍教程"><a href="#书籍教程" class="headerlink" title="书籍教程"></a>书籍教程</h2><blockquote>
+<p>很不错的资源，包括部分 GFDL books</p>
+</blockquote>
+<ul>
+<li><strong>《free programming books》</strong>：<br><a target="_blank" rel="noopener" href="https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md">https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md</a></li>
+<li><strong>《开源世界旅行手册》</strong>：<a target="_blank" rel="noopener" href="https://i.linuxtoy.org/docs/guide/index.html">https://i.linuxtoy.org/docs/guide/index.html</a></li>
+<li><strong>《鸟哥的Linux私房菜》</strong><ul>
+<li>新网址：<a target="_blank" rel="noopener" href="https://linux.vbird.org/">https://linux.vbird.org/</a></li>
+<li>旧网址：<a target="_blank" rel="noopener" href="http://linux.vbird.org/">http://linux.vbird.org/</a></li>
+</ul>
+</li>
+<li><strong>《Linux就该这么学》</strong>：<a target="_blank" rel="noopener" href="http://www.linuxprobe.com/chapter-00.html">http://www.linuxprobe.com/chapter-00.html</a></li>
+<li><strong>《Docker学习笔记》</strong>：<a target="_blank" rel="noopener" href="http://blog.opskumu.com/docker.html">http://blog.opskumu.com/docker.html</a></li>
+<li><strong>《Python全栈工程师学习笔记》</strong>：<a target="_blank" rel="noopener" href="https://book.itxueyuan.com/L8P9/EDMq">https://book.itxueyuan.com/L8P9/EDMq</a></li>
+<li><strong>Docker 中文</strong>：<a target="_blank" rel="noopener" href="http://www.docker.org.cn/book/docker/what-is-docker-16.html">http://www.docker.org.cn/book/docker/what-is-docker-16.html</a></li>
+<li><strong>菜鸟教程</strong>：<a target="_blank" rel="noopener" href="https://www.runoob.com/">https://www.runoob.com/</a></li>
+<li><strong>IT学院（书籍手册）</strong>：<a target="_blank" rel="noopener" href="https://book.itxueyuan.com/explore">https://book.itxueyuan.com/explore</a></li>
+<li><strong>W3C school</strong><ul>
+<li><a target="_blank" rel="noopener" href="https://www.w3cschool.cn/">https://www.w3cschool.cn/</a></li>
+<li><a target="_blank" rel="noopener" href="https://www.w3school.com.cn/">https://www.w3school.com.cn/</a></li>
+</ul>
+</li>
+<li><strong>基础教程网</strong>：<a target="_blank" rel="noopener" href="http://teliute.org/">http://teliute.org/</a></li>
+</ul>
+<h2 id="学习平台"><a href="#学习平台" class="headerlink" title="学习平台"></a>学习平台</h2><ul>
+<li><strong>中国大学 MOOC</strong>：<a target="_blank" rel="noopener" href="https://www.icourse163.org/">https://www.icourse163.org/</a></li>
+<li><strong>哔哩哔哩（B站）</strong>：<a target="_blank" rel="noopener" href="https://www.bilibili.com/">https://www.bilibili.com/</a> （B 站是一个很棒的免费学习网站，比如你可以搜集从入门到进阶的英语学习视频。）</li>
+<li><strong>TED</strong>：<a target="_blank" rel="noopener" href="https://www.ted.com/">https://www.ted.com/</a></li>
+<li><strong>网易公开课</strong>：<a target="_blank" rel="noopener" href="https://open.163.com/">https://open.163.com/</a></li>
+<li><strong>阿里云大学</strong>：<a target="_blank" rel="noopener" href="https://edu.aliyun.com/">https://edu.aliyun.com/</a></li>
+<li><strong>腾讯课堂</strong>：<a target="_blank" rel="noopener" href="https://ke.qq.com/">https://ke.qq.com/</a></li>
+<li><strong>21ic 公开课</strong>：<a target="_blank" rel="noopener" href="http://open.21ic.com/">http://open.21ic.com/</a></li>
+<li><strong>抖音</strong>：<a target="_blank" rel="noopener" href="https://www.douyin.com/">https://www.douyin.com/</a>（没错，利用抖音的推荐功能，可以学习很多你想学的东西。）</li>
+<li><strong>网易云课堂</strong>：<a target="_blank" rel="noopener" href="https://study.163.com/">https://study.163.com/</a></li>
+<li><strong>慕课网</strong>：<a target="_blank" rel="noopener" href="https://www.imooc.com/">https://www.imooc.com/</a></li>
+<li><strong>CSDN 学院</strong>：<a target="_blank" rel="noopener" href="https://edu.csdn.net/">https://edu.csdn.net/</a></li>
+<li><strong>开课吧</strong>：<a target="_blank" rel="noopener" href="https://www.kaikeba.com/">https://www.kaikeba.com/</a></li>
+<li><strong>极客学院</strong>：<a target="_blank" rel="noopener" href="https://www.jikexueyuan.com/">https://www.jikexueyuan.com/</a></li>
+<li><strong>IT学院</strong>：<a target="_blank" rel="noopener" href="https://www.itxueyuan.com/">https://www.itxueyuan.com/</a></li>
+<li><strong>51CTO 学院</strong>：<a target="_blank" rel="noopener" href="https://edu.51cto.com/">https://edu.51cto.com/</a></li>
+<li><strong>粤嵌创客训练营</strong>：<a target="_blank" rel="noopener" href="http://www.geconline.cn/">http://www.geconline.cn/</a></li>
+<li><strong>蓝墨云班课</strong>：<a target="_blank" rel="noopener" href="https://www.mosoteach.cn/">https://www.mosoteach.cn/</a></li>
+</ul>
+<h2 id="电子工程"><a href="#电子工程" class="headerlink" title="电子工程"></a>电子工程</h2><ul>
+<li>摩尔吧：<a target="_blank" rel="noopener" href="https://www.moore8.com/">https://www.moore8.com/</a></li>
+<li>电子森林：<a target="_blank" rel="noopener" href="https://www.eetree.cn/">https://www.eetree.cn/</a></li>
+<li>硬禾学堂：<a target="_blank" rel="noopener" href="https://class.eetree.cn/index">https://class.eetree.cn/index</a></li>
+<li>硬禾实战营：<a target="_blank" rel="noopener" href="http://www.ecbcamp.com/camp/">http://www.ecbcamp.com/camp/</a></li>
+</ul>
+<h2 id="开源硬件"><a href="#开源硬件" class="headerlink" title="开源硬件"></a>开源硬件</h2><ul>
+<li>Adafruit：<a target="_blank" rel="noopener" href="https://www.adafruit.com/">https://www.adafruit.com/</a></li>
+<li>微雪百科：<a target="_blank" rel="noopener" href="http://www.waveshare.net/wiki/Main_Page">http://www.waveshare.net/wiki/Main_Page</a></li>
+<li>Arduino 官网：<a target="_blank" rel="noopener" href="https://www.arduino.cc/">https://www.arduino.cc/</a></li>
+<li>Arduino 中文社区：<a target="_blank" rel="noopener" href="https://www.arduino.cn/">https://www.arduino.cn/</a></li>
+<li>51duino：<a target="_blank" rel="noopener" href="http://www.51duino.cn/">http://www.51duino.cn/</a></li>
+<li>WiFi机器人网：<a target="_blank" rel="noopener" href="http://www.wifi-robots.com/">http://www.wifi-robots.com/</a></li>
+<li>树莓派：<a target="_blank" rel="noopener" href="https://www.raspberrypi.org/">https://www.raspberrypi.org/</a></li>
+<li>Beagle Board：<a target="_blank" rel="noopener" href="https://beagleboard.org/">https://beagleboard.org/</a></li>
+<li>DragonBoard 410c（CSDN开发者专区）：<a target="_blank" rel="noopener" href="http://qualcomm.csdn.net/">http://qualcomm.csdn.net/</a></li>
+<li>英特尔 Embedded Community：<a target="_blank" rel="noopener" href="https://embedded.communities.intel.com/community/en">https://embedded.communities.intel.com/community/en</a></li>
+<li>英特尔中国代理：<a target="_blank" rel="noopener" href="https://ccechina.intel.com/">https://ccechina.intel.com/</a></li>
+<li>element14：<a target="_blank" rel="noopener" href="http://cn.element14.com/">http://cn.element14.com/</a></li>
+<li>pcDuino 开源中国：<a target="_blank" rel="noopener" href="http://www.oschina.net/hardware/topic/pcduino">http://www.oschina.net/hardware/topic/pcduino</a></li>
+<li>pcDuino（linksprite）：<a target="_blank" rel="noopener" href="http://cn.linksprite.com/">http://cn.linksprite.com/</a></li>
+<li>《pcDuino 开发实战指南》：<a target="_blank" rel="noopener" href="http://www.pcduino.com/wiki/index.php?title=%E4%B8%AD%E6%96%87%E4%B9%A6">http://www.pcduino.com/wiki/index.php?title=中文书</a></li>
+<li>香蕉派：<a target="_blank" rel="noopener" href="http://www.banana-pi.org.cn/">http://www.banana-pi.org.cn/</a></li>
+<li>cubieboard：<a target="_blank" rel="noopener" href="http://cubieboard.org/">http://cubieboard.org/</a></li>
+<li>cubieboard 中文论坛：<a target="_blank" rel="noopener" href="http://www.cubie.cc/forum.php">http://www.cubie.cc/forum.php</a></li>
+<li>HiKey（LeMaker）：<a target="_blank" rel="noopener" href="http://www.lemaker.org/cn">http://www.lemaker.org/cn</a></li>
+<li>OpenCores（全世界最大的用于开发开源硬件 IP 核心的网站和社区）：<a target="_blank" rel="noopener" href="http://opencores.org/">http://opencores.org/</a></li>
+<li>OpenHW开源硬件社区：<a target="_blank" rel="noopener" href="http://www.openhw.org/">http://www.openhw.org/</a></li>
+<li>北京创客空间：<a target="_blank" rel="noopener" href="http://www.bjmakerspace.com/">http://www.bjmakerspace.com/</a></li>
+<li>柴火创客空间：<a target="_blank" rel="noopener" href="http://www.chaihuo.org/">http://www.chaihuo.org/</a></li>
+<li>新车间：<a target="_blank" rel="noopener" href="http://xinchejian.com/">http://xinchejian.com/</a></li>
+</ul>
+<h2 id="人工智能"><a href="#人工智能" class="headerlink" title="人工智能"></a>人工智能</h2><ul>
+<li>TensorFlow：<a target="_blank" rel="noopener" href="http://www.leiphone.com/news/201606/ORlQ7uK3TIW8xVGF.html">http://www.leiphone.com/news/201606/ORlQ7uK3TIW8xVGF.html</a></li>
+<li>吴恩达：<ul>
+<li>机器学习课程地址：<a target="_blank" rel="noopener" href="https://www.coursera.org/course/ml">https://www.coursera.org/course/ml</a></li>
+<li>笔记地址：<a target="_blank" rel="noopener" href="http://www.ai-start.com/ml2014/">http://www.ai-start.com/ml2014/</a></li>
+<li>深度学习课程地址：<a target="_blank" rel="noopener" href="https://mooc.study.163.com/university/deeplearning_ai#/c">https://mooc.study.163.com/university/deeplearning_ai#/c</a></li>
+<li>笔记地址：<a target="_blank" rel="noopener" href="http://www.ai-start.com/dl2017/">http://www.ai-start.com/dl2017/</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="博客论坛"><a href="#博客论坛" class="headerlink" title="博客论坛"></a>博客论坛</h2><ul>
+<li>InfoQ：<a target="_blank" rel="noopener" href="https://infoq.cn/">https://infoq.cn</a></li>
+<li>CSDN：<a target="_blank" rel="noopener" href="https://www.csdn.net/">https://www.csdn.net/</a></li>
+<li>开源中国：<a target="_blank" rel="noopener" href="https://www.oschina.net/">https://www.oschina.net/</a></li>
+<li>稀土掘金<ul>
+<li>稀土官网：<a target="_blank" rel="noopener" href="https://xitu.io/">https://xitu.io/</a></li>
+<li>掘金社区：<a target="_blank" rel="noopener" href="https://juejin.im/">https://juejin.im/</a></li>
+</ul>
+</li>
+<li>V2EX：<a target="_blank" rel="noopener" href="https://www.v2ex.com/">https://www.v2ex.com/</a></li>
+<li>知乎</li>
+<li>简书</li>
+<li>Stackoverflow</li>
+<li>RT-Thread 论坛：<a target="_blank" rel="noopener" href="https://www.rt-thread.org/qa/forum.php">https://www.rt-thread.org/qa/forum.php</a></li>
+<li>正点原子论坛：<a target="_blank" rel="noopener" href="http://www.openedv.com/">http://www.openedv.com/</a></li>
+<li>野火论坛：<a target="_blank" rel="noopener" href="http://www.firebbs.cn/forum.php">http://www.firebbs.cn/forum.php</a></li>
+<li>看雪论坛：<a target="_blank" rel="noopener" href="https://bbs.pediy.com/">https://bbs.pediy.com/</a></li>
+<li>Deepin 社区：<a target="_blank" rel="noopener" href="https://www.deepin.org/">https://www.deepin.org/</a></li>
+<li>西邮 Linux 兴趣小组：<a target="_blank" rel="noopener" href="https://www.xiyoulinux.org/">https://www.xiyoulinux.org/</a></li>
+</ul>
+<h2 id="编程练习"><a href="#编程练习" class="headerlink" title="编程练习"></a>编程练习</h2><ul>
+<li><p><strong>程序媛计划</strong>：<a target="_blank" rel="noopener" href="https://www.cxy61.com/girl/app/home/home.html">https://www.cxy61.com/girl/app/home/home.html</a></p>
+</li>
+<li><p><strong>牛客网</strong>：<a target="_blank" rel="noopener" href="https://www.nowcoder.com/">https://www.nowcoder.com/</a></p>
+</li>
+<li><p><strong>LeetCode</strong></p>
+<ul>
+<li><a target="_blank" rel="noopener" href="https://leetcode.com/">https://leetcode.com/</a></li>
+<li><a target="_blank" rel="noopener" href="https://leetcode-cn.com/">https://leetcode-cn.com/</a></li>
+</ul>
+</li>
+<li><p><strong>Codecademy</strong>：<a target="_blank" rel="noopener" href="https://www.codecademy.com/zh/">https://www.codecademy.com/zh/</a></p>
+</li>
+<li><p><strong>Coursera</strong>：</p>
+</li>
+<li><p><strong>TutorialsPoint</strong>：<a target="_blank" rel="noopener" href="http://www.tutorialspoint.com/">http://www.tutorialspoint.com/</a></p>
+<p>程序员技术入门免费教程网站，基本上涵盖了你能想到的编程语言和技术框架。</p>
+</li>
+<li><p><strong>Lynda</strong>：<a target="_blank" rel="noopener" href="https://www.lynda.com/">https://www.lynda.com/</a></p>
+</li>
+<li><p><strong>StuQ</strong>：<a target="_blank" rel="noopener" href="http://www.stuq.org/">http://www.stuq.org/</a></p>
+</li>
+</ul>
+<h2 id="大神网站"><a href="#大神网站" class="headerlink" title="大神网站"></a>大神网站</h2><ul>
+<li>蜗窝科技：<a target="_blank" rel="noopener" href="http://www.wowotech.net/">http://www.wowotech.net/</a></li>
+<li>廖雪峰：<a target="_blank" rel="noopener" href="https://www.liaoxuefeng.com/">https://www.liaoxuefeng.com/</a></li>
+<li>阮一峰：<a target="_blank" rel="noopener" href="http://www.ruanyifeng.com/">http://www.ruanyifeng.com/</a></li>
+<li>何小庆老师：<a target="_blank" rel="noopener" href="http://allanhe.xtreemhost.com/">http://allanhe.xtreemhost.com/</a></li>
+<li>武晔卿老师：<a target="_blank" rel="noopener" href="http://www.eefocus.com/%E6%AD%A6%E6%99%94%E5%8D%BF/blog">http://www.eefocus.com/武晔卿/blog</a></li>
+<li>陈莉君老师的 Linux 内核分析与实践：<a target="_blank" rel="noopener" href="https://www.mosoteach.cn/web/index.php?c=res&amp;m=index&amp;clazz_course_id=9EA69E8C-D0B0-11E7-AA22-7CD30AD36C02">https://www.mosoteach.cn/web/index.php?c=res&amp;m=index&amp;clazz_course_id=9EA69E8C-D0B0-11E7-AA22-7CD30AD36C02</a></li>
+<li>吴章金的Cloud Lab（泰晓实验云台）——基于Docker/Qemu的嵌入式Linux开发环境<ul>
+<li>泰晓科技：<a target="_blank" rel="noopener" href="https://tinylab.org/">https://tinylab.org/</a></li>
+<li>首页：<a target="_blank" rel="noopener" href="http://tinylab.org/linux-lab">http://tinylab.org/linux-lab</a></li>
+<li>仓库：<a target="_blank" rel="noopener" href="https://github.com/tinyclub/linux-lab">https://github.com/tinyclub/linux-lab</a></li>
+<li>访问：<a target="_blank" rel="noopener" href="http://tinylab.cloud:6080/labs">http://tinylab.cloud:6080/labs</a></li>
+</ul>
+</li>
+<li>周立功专栏：<a target="_blank" rel="noopener" href="http://www.zlg.cn/">http://www.zlg.cn/</a></li>
+<li>LEP项目：<a target="_blank" rel="noopener" href="http://www.linuxep.com/">http://www.linuxep.com/</a></li>
+<li>一个开源的音频分析软件：<a target="_blank" rel="noopener" href="https://www.audacityteam.org/">https://www.audacityteam.org/</a></li>
+<li>老设计师 James Greig 的博客：<a target="_blank" rel="noopener" href="http://greig.cc/">http://greig.cc/</a></li>
+<li>吴川斌的博客：<a target="_blank" rel="noopener" href="https://www.mr-wu.cn/">https://www.mr-wu.cn/</a></li>
+<li>Coding Horror：<a target="_blank" rel="noopener" href="https://blog.codinghorror.com/">https://blog.codinghorror.com/</a></li>
+</ul>
+<h2 id="产品设计"><a href="#产品设计" class="headerlink" title="产品设计"></a>产品设计</h2><ul>
+<li>起点学院：<a target="_blank" rel="noopener" href="https://www.qidianla.com/">https://www.qidianla.com/</a></li>
+<li>蓝铅笔：<a target="_blank" rel="noopener" href="https://www.lanqb.com/">https://www.lanqb.com/</a></li>
+<li>站酷： <a target="_blank" rel="noopener" href="https://www.zcool.com.cn/">https://www.zcool.com.cn/</a></li>
+<li>站酷高高手： <a target="_blank" rel="noopener" href="https://www.gogoup.com/">https://www.gogoup.com/</a></li>
+<li>优设：<a target="_blank" rel="noopener" href="http://www.uisdc.com/">http://www.uisdc.com/</a></li>
+<li>推酷： <a target="_blank" rel="noopener" href="https://www.tuicool.com/">https://www.tuicool.com/</a></li>
+<li>技匠社：<a target="_blank" rel="noopener" href="http://www.jijiangshe.com/">http://www.jijiangshe.com/</a></li>
+<li>Ember</li>
+<li>Dribbble</li>
+<li>Pintrest</li>
+</ul>
+<h2 id="外语学习"><a href="#外语学习" class="headerlink" title="外语学习"></a>外语学习</h2><ul>
+<li><p><strong>China Daily</strong></p>
+</li>
+<li><p><strong>NPR</strong></p>
+</li>
+<li><p><strong>开眼英语</strong></p>
+</li>
+<li><p><strong>英语流利说</strong></p>
+</li>
+<li><p><strong>Lingvist</strong>：<a target="_blank" rel="noopener" href="https://lingvist.com/">https://lingvist.com/</a></p>
+<p>这个网站不仅可以用来学英语，还可以学习其他语言，如西班牙语、法语、俄罗斯语等等。号称学习一门语言只需要200小时，通过人工智能运算、大数据分析，推荐最适合你水平的教材，确定你的学习进度，了解你的学习难点，你的每一步动作与习惯，都会影响它的教程，适合各种水平的英语学习者。</p>
+</li>
+<li><p><strong>多邻国</strong>：<a target="_blank" rel="noopener" href="http://www.duolingo.cn/">http://www.duolingo.cn/</a></p>
+<p>这个网站只能学习英语和西班牙语，进入网站</p>
+</li>
+</ul>
+<h2 id="学术科研"><a href="#学术科研" class="headerlink" title="学术科研"></a>学术科研</h2><ul>
+<li><strong>IET</strong>（The Institution of Engineering and Technology，英国工程技术学会）：<a target="_blank" rel="noopener" href="https://www.theiet.org/">https://www.theiet.org/</a></li>
+<li><strong>IEEE</strong>（Institute of Electrical and Electronics Engineers，电气电子工程师学会）：<a target="_blank" rel="noopener" href="https://www.ieee.org/">https://www.ieee.org/</a></li>
+<li><strong>ITU</strong>（International Telecommunication Union，世界无线电通信大会）：<a target="_blank" rel="noopener" href="https://www.itu.int/">https://www.itu.int/</a></li>
+<li><strong>嵌入式系统联谊会</strong>：<a target="_blank" rel="noopener" href="http://www.esbf.info/">http://www.esbf.info/</a></li>
+</ul>
+<h2 id="商学院"><a href="#商学院" class="headerlink" title="商学院"></a>商学院</h2><ul>
+<li><strong>得到大学</strong></li>
+<li><strong>混沌大学</strong></li>
+</ul>
+<h2 id="电台节目"><a href="#电台节目" class="headerlink" title="电台节目"></a>电台节目</h2><ul>
+<li><strong>潘吉Jenny告诉你</strong></li>
+<li><strong>软件那些事儿</strong></li>
+<li><strong>俊玮谈新</strong></li>
+<li><strong>静说日本</strong></li>
+<li><strong>Developer Tea</strong>：<a target="_blank" rel="noopener" href="https://spec.fm/podcasts/developer-tea">https://spec.fm/podcasts/developer-tea</a></li>
+<li><strong>IPN</strong>：<a target="_blank" rel="noopener" href="http://ipn.li/">http://ipn.li/</a></li>
+</ul>
+<h2 id="微信公众号（技术类）"><a href="#微信公众号（技术类）" class="headerlink" title="微信公众号（技术类）"></a>微信公众号（技术类）</h2><ul>
+<li><strong>嵌入式资讯精选</strong>：北航杂志社官方公众号。掌握最鲜资讯，尽领行业新风。</li>
+<li><strong>Linux 阅码场</strong>：宋宝华团队运营的公众号。专业的 Linux 技术社区和 Linux 操作系统学习平台，内容涉及 Linux 内核，Linux 内存管理，Linux 进程管理，Linux 文件系统和 IO，Linux 性能调优，Linux 设备驱动以及 Linux 虚拟化和云计算等各方面。</li>
+<li><strong>RTThread物联网操作系统</strong>：RT-Thread 官方公众号。帮助您了解 RT-Thread 相关的资讯。</li>
+<li><strong>百问科技</strong>：韦东山老师的公众号，分享有价值的嵌入式相关知识，如果您是单片机工程师，想转嵌入式 Linux，那关注这个公众号就对了。</li>
+<li><strong>STM32单片机</strong>：ST MCU（产品 + 工具 + 资料 + 技术 + 市场 + 活动）× 您的关注 × 您的支持 = STM32 单片机蝴蝶乐园。</li>
+<li><strong>AI电堂</strong>：电子设计知识超市，工程师的随身学堂</li>
+<li><strong>电子产品世界</strong>：关注 EEPW 电子产品世界网，获取电子行业的最新资讯和最具价值的技术参考。</li>
+</ul>
+<h2 id="微信公众号（生活类）"><a href="#微信公众号（生活类）" class="headerlink" title="微信公众号（生活类）"></a>微信公众号（生活类）</h2><ul>
+<li><strong>GoZeroWaste</strong>：GoZeroWaste（零活实验室）致力于用轻松愉快的方式帮助更多人开启零垃圾之路。我们通过一系列的活动与工作坊，向公众倡导可持续生活的理念，并鼓励大家采取积极的行动，选择对环境更友善的生活方式。</li>
+<li><strong>零废弃联盟</strong>：零废弃联盟推动中国实现零废弃。</li>
+<li><strong>固废观察</strong>：固废观察是原上海环境院院长张益创办的公众号，将每天与朋友分享垃圾处理、污泥处置、土壤修复等专家观点和热点资讯。</li>
+<li><strong>环境健康这些事</strong>：抗击隐形污染，助力无毒中国。</li>
+<li><strong>徐嘉健康频道</strong>：营养学严肃科普，谈生活尽量有趣，努力做你健康饮食的工具书。</li>
+<li><strong>绿色和平行动派</strong>：好玩的环保行动社群。爱地球，做个行动派，行动带来改变！</li>
+</ul>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>本文作者： </strong>Rudy Lo
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接：</strong>
+      <a href="https://luhuadong.com/common/source-list-learning.html" title="开启终身学习之旅">https://luhuadong.com/common/source-list-learning.html</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/%E4%BF%A1%E6%81%AF%E4%B8%96%E7%95%8C/" rel="tag"># 信息世界</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/money/the-best-financial-plan-for-the-moonlight-clan.html" rel="prev" title="月光族的最佳财务规划">
+                  <i class="fa fa-chevron-left"></i> 月光族的最佳财务规划
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/coding/the-importance-of-knowledge-management.html" rel="next" title="知识管理的重要性">
+                  知识管理的重要性 <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="valine-comments"></div>
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      const commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
+<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+
+  
+
+
+
+
+
+
+  
+
+
+
+
+  <script>
+  if (typeof MathJax === 'undefined') {
+    window.MathJax = {
+      tex: {
+        inlineMath: {'[+]': [['$', '$']]},
+        tags: 'none'
+      },
+      options: {
+        renderActions: {
+          insertedScript: [200, () => {
+            document.querySelectorAll('mjx-container').forEach(node => {
+              const target = node.parentNode;
+              if (target.nodeName.toLowerCase() === 'li') {
+                target.parentNode.classList.add('has-jax');
+              }
+            });
+          }, '', false]
+        }
+      }
+    };
+    const script = document.createElement('script');
+    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
+    script.defer = true;
+    document.head.appendChild(script);
+  } else {
+    MathJax.startup.document.state(0);
+    MathJax.typesetClear();
+    MathJax.texReset();
+    MathJax.typeset();
+  }
+</script>
+
+
+
+<script>
+NexT.utils.loadComments('#valine-comments', () => {
+  NexT.utils.getScript('https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js', () => {
+    new Valine(Object.assign({"enable":true,"appId":"6hrjjOTKL5yC0nVxpfKzdw1b-gzGzoHsz","appKey":"wGcDnHp1q8puQOkcRCpvOM7n","serverURLs":null,"placeholder":"Just go go","avatar":"mm","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":false,"requiredFields":[]}, {
+      el: '#valine-comments',
+      path: "/common/source-list-learning.html",
+      serverURLs: "https://6hrjjotk.api.lncldglobal.com"
+    }));
+  }, window.Valine);
+});
+</script>
+
+</body>
+</html>

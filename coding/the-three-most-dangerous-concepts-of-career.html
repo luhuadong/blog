@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.0.2">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/avatar_mini.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/avatar_mini.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/avatar_mini.png">
+  <link rel="mask-icon" href="/images/avatar_mini.png" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
+
+<script class="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}};
+  </script>
+<meta name="description" content="蓦然回首自己做软件开发这个行业已经十年了，这十年中我获得了很多，技术能力、培训、出国、大公司的经历，还有很多很好的朋友。但再仔细一想，这十年中我至少浪费了五年时间，这五年可以足够让自己成长为一个优秀的程序员，可惜我错过了，我用这五年时间和很多程序员一样在困惑和迷茫中找不到出路！  路其实一直都在那里，只是我们看不到而已！    以前我一直被公司和技术牵着走，并不是自己在选择技术，而是不自觉地被推到">
+<meta property="og:type" content="article">
+<meta property="og:title" content="最危害程序员职业生涯的三大观念">
+<meta property="og:url" content="https://luhuadong.com/coding/the-three-most-dangerous-concepts-of-career.html">
+<meta property="og:site_name" content="成为自由人">
+<meta property="og:description" content="蓦然回首自己做软件开发这个行业已经十年了，这十年中我获得了很多，技术能力、培训、出国、大公司的经历，还有很多很好的朋友。但再仔细一想，这十年中我至少浪费了五年时间，这五年可以足够让自己成长为一个优秀的程序员，可惜我错过了，我用这五年时间和很多程序员一样在困惑和迷茫中找不到出路！  路其实一直都在那里，只是我们看不到而已！    以前我一直被公司和技术牵着走，并不是自己在选择技术，而是不自觉地被推到">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://img-blog.csdnimg.cn/20200323184559651.jpg">
+<meta property="article:published_time" content="2020-03-23T10:48:08.000Z">
+<meta property="article:modified_time" content="2021-09-22T18:01:08.818Z">
+<meta property="article:author" content="Rudy Lo">
+<meta property="article:tag" content="程序员">
+<meta property="article:tag" content="职场">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://img-blog.csdnimg.cn/20200323184559651.jpg">
+
+
+<link rel="canonical" href="https://luhuadong.com/coding/the-three-most-dangerous-concepts-of-career.html">
+
+
+<script class="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+<title>最危害程序员职业生涯的三大观念 | 成为自由人</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
+    <script>
+      if (CONFIG.hostname === location.hostname) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-190737867-1');
+      }
+    </script>
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+  <noscript>
+  <style>
+  body { margin-top: 2rem; }
+
+  .use-motion .menu-item,
+  .use-motion .sidebar,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header {
+    visibility: visible;
+  }
+
+  .use-motion .header,
+  .use-motion .site-brand-container .toggle,
+  .use-motion .footer { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle,
+  .use-motion .custom-logo-image {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line {
+    transform: scaleX(1);
+  }
+
+  .search-pop-overlay, .sidebar-nav { display: none; }
+  .sidebar-panel { display: block; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <h1 class="site-title">成为自由人</h1>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
+      <img class="custom-logo-image" src="/uploads/qrcode_8cm.jpg" alt="成为自由人">
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu">
+        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
+        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
+        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
+        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
+        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
+        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
+        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
+        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
+  </ul>
+</nav>
+
+
+
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%A7%82%E5%BF%B5%E4%B8%80%EF%BC%9A-%E2%80%9C%E5%88%AB%E7%AE%A1%E6%88%91%EF%BC%8C%E6%88%91%E5%8F%AA%E6%83%B3%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%AE%89%E9%9D%99%E5%9C%B0%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%81%E2%80%9D"><span class="nav-number">1.</span> <span class="nav-text">观念一： “别管我，我只想一个人安静地写代码！”</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%A7%82%E5%BF%B5%E4%BA%8C%EF%BC%9A%E2%80%9C%E8%BF%99%E4%B8%8D%E5%85%B3%E6%88%91%E7%9A%84%E4%BA%8B%EF%BC%81%E2%80%9D"><span class="nav-number">2.</span> <span class="nav-text">观念二：“这不关我的事！”</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%A7%82%E5%BF%B5%E4%B8%89%EF%BC%9A%E2%80%9C%E7%AD%89%E6%88%91%E6%9C%89%E9%92%B1%E4%BA%86%EF%BC%8C%E6%88%91%E5%B0%B1XXX%E2%80%9D"><span class="nav-number">3.</span> <span class="nav-text">观念三：“等我有钱了，我就XXX”</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%80%BB%E7%BB%93"><span class="nav-number">4.</span> <span class="nav-text">总结</span></a></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
+      src="/images/avatar.jpg">
+  <p class="site-author-name" itemprop="name">Rudy Lo</p>
+  <div class="site-description" itemprop="description">卢华东的个人网站</div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">93</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">13</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">60</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author site-overview-item animated">
+      <span class="links-of-author-item">
+        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://gitee.com/luhuadong" title="Gitee → https:&#x2F;&#x2F;gitee.com&#x2F;luhuadong" rel="noopener" target="_blank">Gitee</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.douban.com/group/730047/" title="豆瓣 → https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;" rel="noopener" target="_blank">豆瓣</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://zerotogether.net/" title="零聚社区 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零聚社区</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+  </div>
+  <div class="cc-license site-overview-item animated" itemprop="license">
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
+  </div>
+
+
+
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="back-to-top" role="button">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/coding/the-three-most-dangerous-concepts-of-career.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="卢华东的个人网站">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          最危害程序员职业生涯的三大观念
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2020-03-23 18:48:08" itemprop="dateCreated datePublished" datetime="2020-03-23T18:48:08+08:00">2020-03-23</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2021-09-23 02:01:08" itemprop="dateModified" datetime="2021-09-23T02:01:08+08:00">2021-09-23</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/coding/" itemprop="url" rel="index"><span itemprop="name">coding</span></a>
+        </span>
+    </span>
+
+  
+  
+  <span class="post-meta-item">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">Valine：</span>
+  
+    <a title="valine" href="/coding/the-three-most-dangerous-concepts-of-career.html#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/coding/the-three-most-dangerous-concepts-of-career.html" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p>蓦然回首自己做软件开发这个行业已经十年了，这十年中我获得了很多，技术能力、培训、出国、大公司的经历，还有很多很好的朋友。但再仔细一想，这十年中我至少浪费了五年时间，这五年可以足够让自己成长为一个优秀的程序员，可惜我错过了，我用这五年时间和很多程序员一样在困惑和迷茫中找不到出路！</p>
+<p>路其实一直都在那里，只是我们看不到而已！</p>
+<p><img src="https://img-blog.csdnimg.cn/20200323184559651.jpg" alt="在这里插入图片描述"></p>
+<p>以前我一直被公司和技术牵着走，并不是自己在选择技术，而是不自觉地被推到了这个位置上。想想有多少人对于自己将来要从事的职业和技术类型进行过深入思考和比较呢？当我跳出编码后，我开始思考和程序及程序员职业生涯相关的问题，最后发现，影响我们走入今天的困局的竟然是一些我们常常挂在嘴边的话（观念）。今天，就为大家指出这几个重要的可能是你已经习以为常的观念，希望大家深入的思考一下这些观念对你的危害。如果你还年轻，刚从事软件开发这行没多久，也希望指出这些问题能让你跳过一些误区，不要像我一样多浪费五年时间。</p>
+<h2 id="观念一：-“别管我，我只想一个人安静地写代码！”"><a href="#观念一：-“别管我，我只想一个人安静地写代码！”" class="headerlink" title="观念一： “别管我，我只想一个人安静地写代码！”"></a>观念一： “别管我，我只想一个人安静地写代码！”</h2><p>是不是每天想安安静静地写代码时，IM 窗口或者 Email 总会不合时宜地弹出各种提示，一会要开会啦一会要讨论需求了，再一会测试又来和你理论 Bug 了。世界这么喧嚣，还让不让人安静地写代码了？“别管我，我只想一个人安静地写代码”，这句话道出了多少程序员的心声啊，我们都想“静静”！不过今天我要告诉你，这种想法是多么的错误，并且严重影响了你职来生涯的发展。</p>
+<p>如果你觉得自己的工作就是写写代码，那你最好三思。在软件开领域，我们大多数时候是与人而不是与计算机打交道。我们所写的代码首先是供人使用的，其次才是让计算机可以理解的，如果你只想和机器打交道，那写二进制的代码机器才能理解你。仔细想想自己一天的工作中有多少时间用在了与人互动上，收发邮件、会议、讨论（扯皮）等等，作为一个软件开发人员，你的工作就是与人打交道（其实几乎所有的职业都是这样）。</p>
+<p>所以，虽然你是一个码代码的码农，看似你工作的重心是在码代码上，但其实你自己统计一下也会发现：你真正写代码的时间占你工作时间的比例并不高甚至有些人非常低。即使没有人打扰你，你仍然需要花很多的时间去设计（思考）怎么写你的代码，或者花很长的时间去看懂别人的代码然后找到 Bug 产生的原理，这个过程中看似你面对的是代码是机器，但其实你面对的是人（写代码的人和读你代码的人）。这还没有谈论怎么把业务的需求变成代码，你仍然需要了解一定的业务知识，当然最好的方式是先和业务、需求设计人员进行沟通，而不是闷头写代码。</p>
+<p>所以认为做程序员可以不讲究沟通和谈话技巧，可以恰当地掩饰自己这方面的不足，那么你就太错特错了。如果你是因为自己与人交流的能力不足而觉得程序员是一个很合适的职业的话，那么你很难成为一个优秀的程序员。正如前面所说的一样，程序员写的代码仍然是需要和人交流的，如果只是一味的逃避自己不足的地方，写某方面代码的能力有可能可以大幅提高，但软件设计和开发的能力并不会轻易地提高。最后的软件开发，除了需要你有专业知识并懂得业务外，更重要的是需要你能和相互关系的系统和人进行有效的沟通。</p>
+<p>所以，对程序员来说人际交往能力远比你想象的要重要！学会如何与人打交道，是你通向优秀程序员的第一步。</p>
+<h2 id="观念二：“这不关我的事！”"><a href="#观念二：“这不关我的事！”" class="headerlink" title="观念二：“这不关我的事！”"></a>观念二：“这不关我的事！”</h2><p>常常在工作中听到程序员在抱怨“测试又来找我了”、“需求又来找我了”，“客户又来找我了”等等，这些事都和自己的编码没有直接的关系，咋一看从职能分功上确实不关程序员的事。然而，这也是一个很严重的错误观念，它让你损失了很多成长的机会，而且也是你工作几年后走入程序员困境的主要原因。</p>
+<p>大多数程序员（当然包括笔者）从职业生涯一开始就犯了几个严重的错误。截至目前，<strong>最大的错识就是没有把自己的软件开发事业当作一桩生意来看待</strong>。当你为了谋生一头扎进写代码的世界时，其实你和在建筑工地上搬砖的民工并没有多大的区别。</p>
+<p>你职业生涯中必须要做的第一要务：转变你的心态，从被一纸“卖身契”束缚住的仆人转变为一各拥有自己生意的商人。你需要学会像企业一样思考，思考一下“作为一个企业我能提供什么”，就会对你如何考量自己的职业生涯有深远的影响。企业需要持续不断地改进和完善自己的产品，你也应该这样做，你的产品就是你的编程技能和服务。换到这个角度后，你就不会再抱怨工作中总被很多莫名其妙的人和事打扰，因为那些事都和你息息相关，或者都和你的生意有关联。积极地承担责任，至少能让你建立起良好的个人品牌，最终你会发现这个品牌的价值比公司给你开的高工资有用得多！</p>
+<p>而且处理一些你看似不相关的事情，也会让你得到某方面的锻炼，这些事情中也可能就有某些行业的痛点问题，如果你解决了，其实一个产品原型就出来了。虽然你的时间被打扰了，但获得的技能和生意却是自己的。</p>
+<p>记住：你工作的公司、客户和同事都有可能是你的生意。</p>
+<h2 id="观念三：“等我有钱了，我就XXX”"><a href="#观念三：“等我有钱了，我就XXX”" class="headerlink" title="观念三：“等我有钱了，我就XXX”"></a>观念三：“等我有钱了，我就XXX”</h2><p>“等我有钱了，我就顾几个越南程序员帮我写无聊的代码”，“等我有钱了，我就天天吃食堂的自助餐”等等，这类台词在公司里经常能听到吧，不过一般这样说的人都不会有钱的，或者说很难等到他有钱时。也许看到这里你会产生一些困惑，这个有没有钱和我们做程序员有什么关系呢？</p>
+<p>好，请复习一下观念二！</p>
+<p>财务问题是程序员群体不善处理的一大问题！其实不单是程序员群体，整个大学教育培养出来的学生一般都不具备正确的财务知识和观念。钱不是万能的，但有钱却能解决很多问题，“人穷志短”实在是太精辟了。<strong>当你没有钱的时候，你会看重很多你不应该看重的东西</strong>，很多东西你可以用钱买来（比如技术和别人的经历）但你不愿意，因为你手上钱不多所以要省省是吧。结果你只能花自己的时间去琢磨，而等你琢磨透时商机已去！</p>
+<blockquote>
+<p>有句话叫：能用钱买来的就是捡便宜！</p>
+</blockquote>
+<p>而且因为没有钱你会更看重钱，最终会为了某个公司一个月多给你几千块的涨薪就跳槽，而忽视了去比较真正对你未来有帮助的成长机会！</p>
+<p>财务自由是很多程序员非常向往的一个目标，就是我们说的“有钱了”的状态，但如果你真正问一个人什么是财务自由，多少钱才够财务自由？可能很多人都回答不上来，而且对于钱的量级每个人的答案也可能不一样。</p>
+<blockquote>
+<p>我比较赞成的财务自由的解释是：所谓的财务自由，指的是某人再也不用为了满足生活必需而出售自己的时间了。</p>
+</blockquote>
+<p>最终我们会发现，财务自由并不是我们努力工作的终极目标，而是我们成长过程的一个重要的里程碑！最终你把财务自由看淡，并看到它身后更远的东西，你才真正有可能实现财务自由。</p>
+<p>所以，不要等，而是要不停的成长，包括技术和为人处事等等各方面。只要你在不停的成长，你就会一直在为自己积累很多东西（技术、人脉资源等），等这些东西达到一定量级你自然会“有钱了”！</p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>除了一些高精尖的技术问题，我们一般开发遇到的技术问题其实最终都不是我们成功的关键，而且技术是会更新迭代或是交替的，代码之外的软技能才是我们成长为一个熟练工之后应该着重考虑的。但一些你认为（别人也都这样认为）正确的关念，其实一直影响你并最终把你变成和大多数人一样碌碌无为。每个人的性格和所处环境不同，我们没有必要要求所有人都一样，但如果你想改变或者觉得目前的状态很困惑，不妨思考一下哪些观念是有问题的，是时候来升级一下你的操作系统（你的大脑）了！</p>
+<p>我们再总结一下这三大错误观念：</p>
+<ul>
+<li>认为程序员的主要工作不需要和人交流，不重视人际交往能力；</li>
+<li>认为和写代码不相关的事都不是自己的责任，没有把工作当成自己的生意来对待；</li>
+<li>认为有钱是终极目标，只重薪水不重成长；</li>
+</ul>
+<p>如果你能意识到他们是错误的，并且对自己的职业生涯有极大的危害，那么这篇文章的作用也就达到了，至于如何解决这些观念带来的问题，需要你自己去践行了！</p>
+<p>套用发哥的广告词与大家共勉：“成功？我才刚上路咧！”</p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>本文作者： </strong>Rudy Lo
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接：</strong>
+      <a href="https://luhuadong.com/coding/the-three-most-dangerous-concepts-of-career.html" title="最危害程序员职业生涯的三大观念">https://luhuadong.com/coding/the-three-most-dangerous-concepts-of-career.html</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/" rel="tag"># 程序员</a>
+              <a href="/tags/%E8%81%8C%E5%9C%BA/" rel="tag"># 职场</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/reading/where-does-the-money-come-from.html" rel="prev" title="钱从哪里来 —— 中国家庭的财富方案">
+                  <i class="fa fa-chevron-left"></i> 钱从哪里来 —— 中国家庭的财富方案
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/reading/%E4%BB%8E%E5%9C%9F%E5%9C%B0%E5%88%B0%E9%A4%90%E6%A1%8C%E7%9A%84%E5%8F%98%E9%9D%A9.html" rel="next" title="从土地到餐桌的变革——“新农人”变形记">
+                  从土地到餐桌的变革——“新农人”变形记 <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="valine-comments"></div>
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      const commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
+<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+
+  
+
+
+
+
+
+
+  
+
+
+
+
+  <script>
+  if (typeof MathJax === 'undefined') {
+    window.MathJax = {
+      tex: {
+        inlineMath: {'[+]': [['$', '$']]},
+        tags: 'none'
+      },
+      options: {
+        renderActions: {
+          insertedScript: [200, () => {
+            document.querySelectorAll('mjx-container').forEach(node => {
+              const target = node.parentNode;
+              if (target.nodeName.toLowerCase() === 'li') {
+                target.parentNode.classList.add('has-jax');
+              }
+            });
+          }, '', false]
+        }
+      }
+    };
+    const script = document.createElement('script');
+    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
+    script.defer = true;
+    document.head.appendChild(script);
+  } else {
+    MathJax.startup.document.state(0);
+    MathJax.typesetClear();
+    MathJax.texReset();
+    MathJax.typeset();
+  }
+</script>
+
+
+
+<script>
+NexT.utils.loadComments('#valine-comments', () => {
+  NexT.utils.getScript('https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js', () => {
+    new Valine(Object.assign({"enable":true,"appId":"6hrjjOTKL5yC0nVxpfKzdw1b-gzGzoHsz","appKey":"wGcDnHp1q8puQOkcRCpvOM7n","serverURLs":null,"placeholder":"Just go go","avatar":"mm","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":false,"requiredFields":[]}, {
+      el: '#valine-comments',
+      path: "/coding/the-three-most-dangerous-concepts-of-career.html",
+      serverURLs: "https://6hrjjotk.api.lncldglobal.com"
+    }));
+  }, window.Valine);
+});
+</script>
+
+</body>
+</html>
