@@ -2,9 +2,9 @@
 title: 分享两个决策方法WCCA和WADM
 date: 2020-10-09 16:15:04
 tags: 
-  - 学习力
+  - 读书笔记
   - 思维
-categories: reading
+categories: journal
 ---
 
 
