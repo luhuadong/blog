@@ -55,6 +55,7 @@ post_asset_folder: true
 ## 主题
 
 - [Next](https://github.com/next-theme/hexo-theme-next)
+- [Vexo](https://github.com/yanm1ng/hexo-theme-vexo)
 
 ## 评论
 
