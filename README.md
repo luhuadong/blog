@@ -66,16 +66,17 @@ npm install next-theme/hexo-next-valine
 
 - [x] Journal（日记）
 - [x] Reading（读书笔记）:star:
-- [x] Movies（纪录片、TED演讲）
+- [x] Movies（纪录片、TED 演讲）
 - [x] ZeroWaste（环保）
 - [x] Markdown（教程）
 - [ ] Python（教程）
 - [ ] English（英语学习）:star:
 - [ ] Money（赚钱思维、理财）:star:
-- [ ] 地理
-- [ ] 绘画
+- [ ] 地理（城市介绍）
+- [ ] 绘画（素描、色彩）:star:
 - [ ] 运动（运动科普、规则介绍） :star:
-- [ ] 健康
+- [ ] 健康（静脉病科普）
 - [ ] 心理学
 - [ ] 行业分析
+- [ ] 创业案例（灵析、ProcessOn、多抓鱼） :star:
 
