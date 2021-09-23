@@ -78,6 +78,6 @@ npm install next-theme/hexo-next-valine
 - [ ] 运动（运动科普、规则介绍） :star:
 - [ ] 健康（静脉病科普）
 - [ ] 心理学
-- [ ] 行业分析
+- [x] Industry（互联网、工业界、行业分析）
 - [ ] 创业案例（灵析、ProcessOn、多抓鱼） :star:
 

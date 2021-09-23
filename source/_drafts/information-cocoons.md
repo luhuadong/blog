@@ -1,6 +1,8 @@
 ---
 title: 信息茧房
-tags:
+tags: 
+  - 互联网
+categories: industry
 ---
 
 ## 什么是“信息茧房”
