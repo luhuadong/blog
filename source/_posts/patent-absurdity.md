@@ -3,8 +3,8 @@ title: 软件专利的荒谬性（Patent Absurdity）
 date: 2020-04-05 14:36:34
 tags:
   - 纪录片
-  - 自由软件
-  - 开源软件
+  - 自由
+  - 开源
 categories: movies
 ---
 

@@ -2,7 +2,7 @@
 title: 月光族的最佳财务规划
 date: 2015-10-10 23:00:52
 tags:
-  - 赚钱
+  - 财富
 categories: money
 ---
 
