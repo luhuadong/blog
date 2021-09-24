@@ -12,6 +12,9 @@ sticky: 100
 > Make the most of everyday.
 > 每一天都要做到最好
 
+> Your attitude, not your aptitude, will determine your altitude. —— Zig Ziglar
+> 决定你人生高度的，不是你的才能，而是你的态度。
+
 > Intelligence is the ability to avoid doing work, yet getting the work done. —— Linus Torvalds
 
 > 允许自己检讨自己，生命就会开始改变。
