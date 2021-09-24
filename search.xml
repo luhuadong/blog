@@ -3150,7 +3150,7 @@
 <p>本来上述列表中有一项是“多陪伴家人”，但是现在正值中秋，回家两天后发现家人目前其实也不太需要我的陪伴，所以还是先做好自己的事吧！抽空教一下表弟表妹外甥打球、学习，看一下父母、外公外婆那边有什么需要帮忙的就可以了。</p>
 <p>这次回家，最大的感受是家里对我的吐槽少了，关心多了。可能是担心我这位“大龄单身失业男青年”吧，其实我也焦虑啊，我也想结婚，可是目前的状态来看，哪怕结婚了，依然有许多问题没解决，不能很好地照顾家庭、陪伴孩子成长。所以，也许这就是我们这种出身普通的“普通人”绕不过的坎吧，还是要勇敢面对。这些年起起落落，经历的失败多了，我终于承认了我就是一个普通人。国泰民安的时候，做一份小而美的事业，国家需要的时候，能挺身而出。不也挺好的吗？</p>
 <p>我会不会继续写代码？—— 会的。一方面，软件程序是非常有用的工具，低成本创业就要善用工具；另一方面，我也需要保持编写代码的能力，以防创业失败后还能找一份不错的工作养家糊口。7年的开发经历，能够给我底气的是这些年培养起来的学习能力和解决问题的能力，还有非常重要的创客精神和开源精神。所以，不管我是否从事软件工作，我也会一直以开源极客的心态写代码，直到这个世界不需要我。</p>
-<p>我会不会重新找工作？—— 我想也是会的，除非我自己的公司短期内得到快速发展。因为目前还在探索阶段，还没有稳定的商业模式，因此我会在把相关项目跑起来之后重新找工作，同时兼职运营项目。一方面，如果我的资金消耗过快而仍未盈利，我还需要继续积累原始资本；另一方面，我还想去包括小米、极飞、奥北、多抓鱼等一些值得去学习的企业，接触真实的需求才能设计出好的产品。</p>
+<p>我会不会重新找工作？—— 我想也是会的，除非我自己的公司短期内得到快速发展。因为目前还在探索阶段，还没有稳定的商业模式，因此我会在把相关项目跑起来之后重新找工作，同时兼职运营项目。一方面，如果我的资金消耗过快而仍未盈利，我还需要继续积累原始资本；另一方面，我还想去包括小米、极飞、远景、奥北、多抓鱼等一些值得去学习的企业看看，接触真实的需求才能设计出好的产品。</p>
 <img src="/images/journal/20210916_basketball.jpeg" width=480 />
 ]]></content>
       <categories>
@@ -8623,6 +8623,115 @@
       <tags>
         <tag>爱</tag>
         <tag>猫</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>广清城际线路图</title>
+    <url>/map/intercity-railway-guangzhou-qingyuan.html</url>
+    <content><![CDATA[<p>广清城际铁路（Guangzhou-Qingyuan Intercity Railway）是中国广东省境内一条连接广州市和清远市的城际铁路，呈南北走向，为珠三角城际铁路的组成部分。2020年11月30日，广清城际铁路花都至清城段开通运营。</p>
+<p><img src="/images/map/guangdong-intercity-system-map.jpg"></p>
+<p>广清城际最高速度200公里/小时，广州东环城际最高速度160公里/小时。</p>
+<p>清城站至花都站票价21元，清城站至白云机场北票价34元。两条城际线路除了可以通过12306购票，还支持实名认证的普通羊城通、岭南通、全国交通一卡通、广州地铁乘车码等支付方式。</p>
+<p>时刻表</p>
+<table>
+<thead>
+<tr>
+<th align="center">方向</th>
+<th align="center">首班车时间</th>
+<th align="center">末班车时间</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">清城 -&gt; 白云机场北</td>
+<td align="center">6:15</td>
+<td align="center">21:30</td>
+</tr>
+<tr>
+<td align="center">花都 -&gt; 白云机场北</td>
+<td align="center">6:15</td>
+<td align="center">22:12</td>
+</tr>
+<tr>
+<td align="center">花都 -&gt; 清城</td>
+<td align="center">6:30</td>
+<td align="center">23:04</td>
+</tr>
+<tr>
+<td align="center">白云机场北 -&gt; 清城</td>
+<td align="center">6:30</td>
+<td align="center">22:04</td>
+</tr>
+<tr>
+<td align="center">白云机场北 -&gt; 花都</td>
+<td align="center">–</td>
+<td align="center">23:10</td>
+</tr>
+</tbody></table>
+<p>注意：每天首班“清城 -&gt; 白云机场北”方向为<strong>大站停</strong>班次。清城站至花都站大站停单程旅行时间约16分钟，站站停旅行时间约33分钟；花都站至白云机场北站大站停单程旅行时间约14分钟，站站停旅行时间约21分钟。</p>
+]]></content>
+      <categories>
+        <category>map</category>
+      </categories>
+      <tags>
+        <tag>城市</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>“碳中和”名词解释</title>
+    <url>/industry/carbon-neutral-glossary.html</url>
+    <content><![CDATA[<p>最近“碳中和”太火了，很多资本都盯着“碳中和”领域，所以这里收集一些与碳中和相关的名词解释。（持续更新…）</p>
+<ul>
+<li><strong>碳源</strong>：产生二氧化碳、甲烷等含碳温室气体的来源。</li>
+<li><strong>碳汇</strong>：温室气体汇聚、存留之处，称为碳汇。例如，海洋是世界上最大的碳汇，森林是陆地上最大的碳汇。</li>
+<li><strong>非二</strong>：除二氧化碳以外的其他温室气体。包括甲烷、氧化亚氮、氢氟碳化合物、全氟碳化合物、六氟化硫等。</li>
+<li><strong>碳达峰</strong>：年度二氧化碳排放量达到历史最高值，达峰之后进入逐步下降阶段。（中国将力争2030年前实现碳达峰）</li>
+<li><strong>碳中和</strong>：是指温室气体的净零排放，也就是温室气体的排放量与去除量相互抵消。（中国努力争取2060年前实现碳中和）</li>
+<li><strong>减缓</strong>：为减少温室气体净排放而采取的行动，可以是减少排放源或增加碳汇。（节能减排、低碳出行、清洁能源转型等，属于气候变化减缓措施）</li>
+<li><strong>适应</strong>：为应对气候变化的现实及潜在影响而采取的调整和改变。（海绵城市、调整农业种植品种适应变化属于常见的适应措施）</li>
+<li><strong>1.5℃ 和 2℃</strong>：《巴黎协定》中的气候目标 —— 把全球平均气温升幅控制在工业化前水平以上低于 2℃ 之内并努力控制在 1.5℃ 之内。</li>
+<li><strong>COP</strong>：《联合国气候变化框架公约》缔约方大会（Conference of the Parties），也是人们常说的“联合国气候变化大会”。</li>
+<li><strong>NBS</strong>：基于自然的解决方案（Nature based Solutions）—— 保护和修复生态系统，并对其进行可持续管理，从而使其造福人类的行动。</li>
+<li><strong>NDCs</strong>：国家自主贡献（Nationally determined contributions）—— 是各国自主做出的国家气候行动计划，包括温室气体减排目标、政府旨在实施的气候政策和措施等。</li>
+<li><strong>CCS</strong>：二氧化碳捕获与封存（Carbon Dioxide Capture and Storage）—— 可以将二氧化碳流体从工业中分离（捕获）、控制、压缩并运至某个封存地点，使之与大气长期隔离。</li>
+<li><strong>BECCS</strong>：生物能源与二氧化碳捕获与封存相结合（Bioenergy with carbon dioxide capture and storage）。</li>
+<li><strong>DACCS</strong>：直接空气二氧化碳捕获和封存（Direct air carbon dioxide capture and storage）。</li>
+<li><strong>巴黎协定</strong>：《巴黎协定》是由联合国195个成员国于2015年联合国气候峰会中通过的气候协议，取代京都协定书，期望能共同遏阻全球暖化趋势。</li>
+<li><strong>ETS</strong>：碳排放权交易系统。</li>
+<li><strong>IPCC</strong>：政府间气候变化专门委员会（Intergovernmental Panel on Climate Change），是牵头评估气候变化的国际组织。它是由联合国环境规划署(UNEP) 和世界气象组织 (WMO)于1988年建立的， 旨在向世界提供一个清晰的有关对当前气候变化及其潜在环境和社会经济影响认知状况的科学观点。</li>
+<li><strong>碳泄漏</strong>（carbon leakage）：指国家采用较严格的气候政策而减少排放量，导致另一个国家的温室气体排放量增加的情况。</li>
+<li><strong>碳边境调节机制</strong>（Carbon Border Adjustment Mechanism，简称 CBAM）：指一地区针对未执行同等强度的减排措施的进口产品制定的单边气候政策，通常指征收碳关税或出售排放许可证。发达国家一直将此机制视为防止碳泄露和营造气候变化领域里“公平竞争”环境的重要举措，而发展中国家往往认为此项政策将导致变向的贸易保护。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>industry</category>
+      </categories>
+      <tags>
+        <tag>环保</tag>
+        <tag>碳中和</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人生关键字</title>
+    <url>/me/my-keyword.html</url>
+    <content><![CDATA[<p><img src="/images/my-keyword.png"></p>
+]]></content>
+      <categories>
+        <category>me</category>
+      </categories>
+      <tags>
+        <tag>人生</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>职业地图</title>
+    <url>/me/my-career.html</url>
+    <content><![CDATA[<p><img src="/images/my-career-map.png"></p>
+]]></content>
+      <categories>
+        <category>me</category>
+      </categories>
+      <tags>
+        <tag>人生</tag>
       </tags>
   </entry>
 </search>
