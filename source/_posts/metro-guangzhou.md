@@ -7,4 +7,4 @@ tags:
 categories: map
 ---
 
-![](/images/map/metro-guangzhou.gif)
+![](/images/map/metro-guangzhou-2021.jpg)
