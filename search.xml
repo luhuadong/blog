@@ -4246,7 +4246,7 @@
       </categories>
       <tags>
         <tag>环保</tag>
-        <tag>可持续生活</tag>
+        <tag>可持续</tag>
       </tags>
   </entry>
   <entry>
@@ -4653,7 +4653,7 @@
       </categories>
       <tags>
         <tag>环保</tag>
-        <tag>可持续生活</tag>
+        <tag>可持续</tag>
       </tags>
   </entry>
   <entry>
@@ -8835,7 +8835,7 @@
         <category>household</category>
       </categories>
       <tags>
-        <tag>居家</tag>
+        <tag>家居</tag>
       </tags>
   </entry>
   <entry>
@@ -8957,7 +8957,7 @@
         <category>household</category>
       </categories>
       <tags>
-        <tag>居家</tag>
+        <tag>家居</tag>
       </tags>
   </entry>
   <entry>
@@ -8990,7 +8990,8 @@
         <category>household</category>
       </categories>
       <tags>
-        <tag>居家</tag>
+        <tag>家居</tag>
+        <tag>能源</tag>
       </tags>
   </entry>
   <entry>
@@ -9031,8 +9032,8 @@
       </categories>
       <tags>
         <tag>环保</tag>
-        <tag>居家</tag>
         <tag>可持续</tag>
+        <tag>家居</tag>
       </tags>
   </entry>
 </search>
