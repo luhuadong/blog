@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.0.2">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/avatar_mini.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/avatar_mini.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/avatar_mini.png">
+  <link rel="mask-icon" href="/images/avatar_mini.png" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+
+<script class="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
+  </script>
+<meta name="description" content="我曾是少年 我从小生活在小乡镇上，除了课本，一台电视机和外公出船带回来的二手书就是我了解世界的所有途径。外婆年轻的时候在合作社当过会计，所以小学四年级以前的数学都是她给我辅导的，每天晚上她还会给我削好第二天要用的铅笔。长大一点之后我可以独自出门了，我的世界也开始变大了。镇上没有图书馆，只有寥寥可数的几家店有书卖，大多数也是辅导类书籍，我和一个朋友就经常到那几家店看书，因为只看不买，被赶走也是经常发">
+<meta property="og:type" content="article">
+<meta property="og:title" content="从高考到程序员——我一直在寻找答案">
+<meta property="og:url" content="https://luhuadong.com/journal/how-do-i-become-a-programmer.html">
+<meta property="og:site_name" content="成为自由人">
+<meta property="og:description" content="我曾是少年 我从小生活在小乡镇上，除了课本，一台电视机和外公出船带回来的二手书就是我了解世界的所有途径。外婆年轻的时候在合作社当过会计，所以小学四年级以前的数学都是她给我辅导的，每天晚上她还会给我削好第二天要用的铅笔。长大一点之后我可以独自出门了，我的世界也开始变大了。镇上没有图书馆，只有寥寥可数的几家店有书卖，大多数也是辅导类书籍，我和一个朋友就经常到那几家店看书，因为只看不买，被赶走也是经常发">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://img-blog.csdnimg.cn/img_convert/d01ca2c1f646d098ca5f63c84c28e89b.png">
+<meta property="og:image" content="https://img-blog.csdnimg.cn/img_convert/b16bbe30c61bdaff75eba766b2e41270.png">
+<meta property="og:image" content="https://img-blog.csdnimg.cn/img_convert/ca6f0d99907c2a33597fcc847b77fd0b.png">
+<meta property="og:image" content="https://img-blog.csdnimg.cn/img_convert/5b78d37a55c0ead7b724bf1fc7c213f7.png">
+<meta property="article:published_time" content="2017-06-11T17:18:22.000Z">
+<meta property="article:modified_time" content="2021-09-26T06:58:37.406Z">
+<meta property="article:author" content="Rudy Lo">
+<meta property="article:tag" content="总结">
+<meta property="article:tag" content="程序员">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://img-blog.csdnimg.cn/img_convert/d01ca2c1f646d098ca5f63c84c28e89b.png">
+
+
+<link rel="canonical" href="https://luhuadong.com/journal/how-do-i-become-a-programmer.html">
+
+
+<script class="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+<title>从高考到程序员——我一直在寻找答案 | 成为自由人</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
+    <script>
+      if (CONFIG.hostname === location.hostname) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-190737867-1');
+      }
+    </script>
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+  <noscript>
+  <style>
+  body { margin-top: 2rem; }
+
+  .use-motion .menu-item,
+  .use-motion .sidebar,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header {
+    visibility: visible;
+  }
+
+  .use-motion .header,
+  .use-motion .site-brand-container .toggle,
+  .use-motion .footer { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle,
+  .use-motion .custom-logo-image {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line {
+    transform: scaleX(1);
+  }
+
+  .search-pop-overlay, .sidebar-nav { display: none; }
+  .sidebar-panel { display: block; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <h1 class="site-title">成为自由人</h1>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
+      <img class="custom-logo-image" src="/uploads/qrcode_8cm.jpg" alt="成为自由人">
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu">
+        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
+        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
+        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
+        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
+        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
+        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
+        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
+        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%88%91%E6%9B%BE%E6%98%AF%E5%B0%91%E5%B9%B4"><span class="nav-number">1.</span> <span class="nav-text">我曾是少年</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%A4%96%E9%9D%A2%E7%9A%84%E4%B8%96%E7%95%8C%E5%BE%88%E7%B2%BE%E5%BD%A9"><span class="nav-number">2.</span> <span class="nav-text">外面的世界很精彩</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%A5%94%E8%B5%B4%E4%B8%83%E6%9C%88%E8%81%8C%E5%9C%BA"><span class="nav-number">3.</span> <span class="nav-text">奔赴七月职场</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%BB%99%E6%9C%AA%E6%9D%A5%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%91%98"><span class="nav-number">4.</span> <span class="nav-text">给未来的程序员</span></a></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
+      src="/images/avatar.jpg">
+  <p class="site-author-name" itemprop="name">Rudy Lo</p>
+  <div class="site-description" itemprop="description">卢华东的个人网站</div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">113</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">16</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">61</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author site-overview-item animated">
+      <span class="links-of-author-item">
+        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://gitee.com/luhuadong" title="Gitee → https:&#x2F;&#x2F;gitee.com&#x2F;luhuadong" rel="noopener" target="_blank">Gitee</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.douban.com/group/730047/" title="豆瓣 → https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;" rel="noopener" target="_blank">豆瓣</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://zerotogether.net/" title="零聚社区 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零聚社区</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+  </div>
+  <div class="cc-license site-overview-item animated" itemprop="license">
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
+  </div>
+
+
+
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="back-to-top" role="button">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/journal/how-do-i-become-a-programmer.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="卢华东的个人网站">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          从高考到程序员——我一直在寻找答案
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2017-06-12 01:18:22" itemprop="dateCreated datePublished" datetime="2017-06-12T01:18:22+08:00">2017-06-12</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2021-09-26 14:58:37" itemprop="dateModified" datetime="2021-09-26T14:58:37+08:00">2021-09-26</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/journal/" itemprop="url" rel="index"><span itemprop="name">journal</span></a>
+        </span>
+    </span>
+
+  
+  
+  <span class="post-meta-item">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">Valine：</span>
+  
+    <a title="valine" href="/journal/how-do-i-become-a-programmer.html#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/journal/how-do-i-become-a-programmer.html" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <h2 id="我曾是少年"><a href="#我曾是少年" class="headerlink" title="我曾是少年"></a>我曾是少年</h2><p>我从小生活在小乡镇上，除了课本，一台电视机和外公出船带回来的二手书就是我了解世界的所有途径。外婆年轻的时候在合作社当过会计，所以小学四年级以前的数学都是她给我辅导的，每天晚上她还会给我削好第二天要用的铅笔。长大一点之后我可以独自出门了，我的世界也开始变大了。镇上没有图书馆，只有寥寥可数的几家店有书卖，大多数也是辅导类书籍，我和一个朋友就经常到那几家店看书，因为只看不买，被赶走也是经常发生的事情。但有一家店从来不赶我们走，店主阿姨允许我们看书，就这样我在她那里看了很多课外书，比如：十万个为什么、上下五千年、孙子兵法等等，还有一些关于国家地理、恐龙、太空、动漫等等的书籍。多年以后回想起来，这些经历确实对我的世界观、人生观、价值观造成了影响。</p>
+<p>如果说小学、初中的我是老师心目中标准的好学生，高中的我就是一个另类的学生。我觉得我是喜欢学习知识这个过程，而不是为了追求成绩或奖励（那时候也确实没有人会给我奖励），所以一直以来没有太看重考试成绩。因为镇上没有高中，直到初中三年级我才知道原来要准备考高中，于是不小心考上了我们市里最好的高中。高中的一切对于我来说实在太新奇了，那里有标准的400米跑道、有图书馆、有学生社团…… 简直就是“刘姥姥进大观园”。总的来说，高中生活还是挺美好。但是我不习惯晚自习，因为教室的灯光会影响我的视力，简直是如坐针毡的感觉。那时候真的很佩服一些同学能坚持一整晚的自习，接着周末还要参加补习班。</p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/d01ca2c1f646d098ca5f63c84c28e89b.png" alt="这里写图片描述"></p>
+<blockquote>
+<p>图1. 我的高中——瑞峰书院</p>
+</blockquote>
+<p>在高中学到了很多东西，因为想在校运会上拿奖牌而开始练习长跑；学会了打篮球和排球；加入了动漫社，设计了班徽和八十周年校庆的 Logo；加入了班主任的兴趣小组，玩了把电烙铁和一些电子元器件，第一次听到“单片机”这个词；几乎没使用过电脑的我，第一次上机写 VB 程序，写得头晕目眩；因为对化学实验感兴趣，曾花了两周时间去实验室养硫酸铜晶体（可漂亮呢，可惜我当时的手机不能拍照）；还写过一篇《人类不需要国家》的文章，不过当时老师同学们似乎不感兴趣（这篇文章并没有反动的意味，而是论述为什么会出现国家，没有国家的形态社会能否有条不紊地运转下去等论点，有点共产主义的味道吧，后来发现有些观点跟易中天、尤瓦尔•赫拉利他们的观点还挺相似的）。</p>
+<p>是的，正如你所见，对很多家长来说，我就是不务正业，根本就没有把心思花在学习上。有一次阶段考试成绩很差，刚好打球弄伤脚了，那是我爸第一次骂我，他说“花那么多时间去打球，以后能靠打球吃饭吗？你看你现在的成绩有多差，以后别打球了！”所以后来我还是随大流，进入高考备考状态了。整个高中生涯，班里五十多名学生，我考过第一名，也考过四十多名。其实除了语文和英语一直没有质的提高之外，其他学科的成绩都挺好的，所以在选文理科的时候还纠结过，我想这也是高考制度不合理的一个地方吧。高考有多苦，每一个经历过的人都知道！那么，我就苦中作乐吧！我喜欢把高考当成一场游戏，我们要做的就是了解规则，清楚自己的处境，了解自己的优缺点，然后制定策略，争取多拿积分。既然是游戏，那么控制权就不在我们手里，也不会完全公平公正。想明白了这点之后，我也不用过于执着了。我还是比较喜欢随性一些，后来想参加奥赛，就选了当时最喜欢的生物和化学，因为不是从高一开始就加入奥赛班，所以后来我只能厚着脸皮进去听课，当然也不招人待见，毕竟是插班生也是竞争对手嘛。功夫不负有心人，后来的结果也是挺好的。</p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/b16bbe30c61bdaff75eba766b2e41270.png" alt="这里写图片描述"></p>
+<blockquote>
+<p>图2. 高中时期为数不多的奖项</p>
+</blockquote>
+<p>黑板上“离高考还有xxx天”的数字按照计划不断地减小直至为零，终于迎来高考这个大 BOSS 了。经过两天的鏖战，孰输孰赢仍不知晓，反正高考就这样完了，高中生活也结束了。因为我把它当成一场游戏，也没估分的概念，所以考完没多久就找暑期工去了。分数出来后也没有大喜大悲（相比平常模拟考是差了点，但也不是差太多）。大致研究了这个分数能上哪些大学，然后想想自己以后想做什么，于是就确定了。原本考虑过临床医学、环境科学、地球化学这些专业，但考虑到以后的职业，还是犹豫了。后来同学给我推荐电气工程专业，我看了一下教学大纲，最长就是它了（我当时想，那就是可以学到很多东西吧，我上大学就是想多学点东西）。并且学的内容看起来也是我感兴趣的一个方向，工业革命发展到现在，电气化、网络化、信息化已经成为常态了。而且我相信这些知识对于我以后从事什么样的工作都是有帮助的，并且上面还写着培养“全方位、多层次、宽领域”的综合型人才呢！就这样，我入坑了，进入某工业大学的电气工程及其自动化专业。</p>
+<p>写到这里，除了敲过几行 VB 代码，摸过单片机之外，似乎没有任何迹象表明我以后会成为一名程序员。</p>
+<h2 id="外面的世界很精彩"><a href="#外面的世界很精彩" class="headerlink" title="外面的世界很精彩"></a>外面的世界很精彩</h2><p>大学生活如期而至，我再一次“刘姥姥进大观园”，学校比高中大得多，图书馆真的是图书馆而不是图书室，篮球场多达四十多个，还有各种学生社团…… 简直是看啥喜欢啥，然后参加了学生会和团委的面试，一不小心都进了；还加入了很多社团，比如：电子协会、动漫社、排球俱乐部、橄榄球俱乐部、轮滑俱乐部、自行车协会、空手道协会等等；接着还找了份旅行社校园代理的兼职。额…… 好像挺杂的，确实，很长一段时间都在瞎忙，还好交到一些好朋友，学业也没有被落下，大学前两年还拿了一、二等奖学金。其实，我很快也察觉到了：大学就是一个小染缸，很多人一进来，就把自己染成五颜六色，初看起来，确实是五彩缤纷，但实际上，却没有一个主色调。所以，我开始有意识地收窄自己的兴趣，学会放弃。后来到了大二，除了橄榄球俱乐部以外，其他社团都退出了，可以将更多精力放在课程学习中。</p>
+<p>以前的我对计算机并不感兴趣，在我的观念里，学习电脑知识就是学习 Windows 系统怎么用、Microsoft Office 办公软件怎么用之类的。后来，听同学说 Win7 比较好用，于是就找楼下电脑店帮忙装系统，但是要收30元服务费。我为了省30块钱，就去图书馆找了几本关于电脑的组成和重装电脑系统的书，准备自己动手。但因为那台笔记本是我当时最贵重的东西，我不敢轻易下手，所以我先花了一周时间看完了那几本书，确保无误之后才敢动手安装。也就是那个时候，我才对计算机组成结构有了比较完整的认识，也才发现原来 PC 的操作系统除了 Windows 还有 Linux、Mac OS 等。在重装完 win7 之后，我顺便装了一个 Ubuntu，也慢慢开始对我所理解的计算机有所改观。实际上，到这个时候，也还没有任何迹象表明我会成为程序员，只是会偶尔帮同学重装一下系统而已。</p>
+<p>大学还是在五彩缤纷的生活中带点考试周的紧张和间歇性的迷茫中度过。在电子协会的时候，我开始跟着师兄和郭天祥的教材玩51单片机，跟着书上过了一遍实验，也焊过一些电路板。后来和几个同学组队参加一些科技竞赛，比如电子设计大赛、飞思卡尔智能汽车比赛，然而连校内选拔都没通过，更别说获奖了。反倒是在学校内部的各种比赛（比如阳光长跑、医疗知识、环保知识、漫画设计、广告设计…之类）中拿了不少的奖项，这使我一度怀疑自己是不是不适合搞技术。</p>
+<p>至于职业规划，其实那时候并没有想太多，我们专业的同学很多是奔着供电局的铁饭碗去的。我一来不感兴趣，二来没有关系，结合当时研究硬件比较多，也跟着我们专业的教授做过一些项目，想着毕业后也许会找一份画 PCB 的工作，或者做体育文化产业去了。</p>
+<p>是的，你没看错，是体育文化产业。上面提到，我那时候是橄榄球协会的会长，平常要招新、组织训练、参加比赛，偶尔还要客串当裁判（后来考了裁判员证，成为了国内早期的一批橄榄球裁判员）。因为这项运动被很多人误解，所以招新进度很慢，甚至有些时候是在比赛开场前才凑够人数的。我们打的是7人橄榄球赛，正常来说，橄榄球队需要进攻组、防守组和特勤组，而我们有好几场比赛都只有7名队员，也就是说我们不能受伤，也不需要攻防轮转…… 那段时期压力真的好大，还好最后我们坚持下来了，有更多的学生加入我们的队伍。后面也一起参加了很多比赛，当然，受伤是不可避免的，但是不能打败你的，只会让你变得更强。总的来说，我觉得橄榄球挺好玩的，而且也很适合中国人玩。上几张图吧：</p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/ca6f0d99907c2a33597fcc847b77fd0b.png" alt="这里写图片描述"></p>
+<blockquote>
+<p>图3. 橄榄球协会时期</p>
+</blockquote>
+<p>我所接受的教育，总是强调竞争，很少教我们怎么合作，而我在进行体育运动的过程中，包括长跑、篮球、排球、橄榄球。这些运动使我慢慢地了解自己，学会了怎么样去控制情绪，怎么样去合作，怎么样去竞争，怎么样去面对逆境。我想这是课本里很难教会的东西，对于我来说是一笔财富。细心的你可能发现了，当时我们的橄榄球教练是何凯成，也就是林书豪在哈佛大学时期的室友。也就是那一年，林书豪在纽约上演了“林疯狂”。何凯成和林书豪比我大一个大学周期（不小心暴露了年龄），我一直以他们为榜样，我认为他们在面对逆境的时候的精神和行动都非常值得我们去学习。</p>
+<h2 id="奔赴七月职场"><a href="#奔赴七月职场" class="headerlink" title="奔赴七月职场"></a>奔赴七月职场</h2><p>无奈我们止不住时间的流逝，大三那年的最后一场橄榄球比赛，是季军争夺赛，我们完成了3个达阵，可惜丢了附加分，最后我们输了1分。依然记得赛后那种失落的心情，我们围在一起喊口号、相互鼓励，然后开始有人哭了，你能想象一群大男人在一起哭的场景吗？哭不是因为比赛输了，实际上我们作为普通本科生，能和体育生竞争到这样已经很不错了；哭是因为我们知道这也许是我们最后一场比赛了，之后考研的考研，找工作的找工作，出国的出国…… </p>
+<p>其实我大学期间的成绩都挺好的，大三之所以没有拿奖学金，是因为我缺考了电力系统那门专业课的考试（大家不要学我缺考啊）。有时候真的感觉大学的专业课很不专业，特别是对于这门培养供电局人才的课程，老师的表现实在太功利了（精致利己主义者）。以及在之前的课程设计和科技比赛中，我所遇到的很多老师都只关心结果，而不关心过程，这些事情令我很反感，以至于我对大学的教育产生了严重的质疑。于是，在电力系统考试的那天上午，我作了一个冲动的决定——弃考。然后一个人去操场跑步，那天下着毛毛雨，忘了跑了多少圈，最后全身湿透了，我却感受到了前所未有的释怀。当然，我也知道这样的行为会带来什么样的后果——奖学金评不上、预备党员不能转正、大四要重修补考、影响就业和升学、失去进入供电局的敲门砖…… 可是我的内心告诉我：我可以不在乎这些东西，我可以承受带来的后果，我可以丢掉我的光环，我可以撕毁我的标签…… 其实人真正需要的东西很少，很多东西都只是为了炫耀，过分追求物质生活，最终反而成了累赘…… 那么，究竟什么才是我想要的？我想要把握自己的人生！努力活成自己希望的样子！</p>
+<p>然而，在大三结束后的那个暑假，这些年的伤病还是让我不得不进厂维修，在医院躺了大半个月，之后回家休息直到开学。因为这个原因，我也没有参加学校安排的暑期实习。这段时间对于我来说是黑暗的，我失落、迷茫、不知所措，一度以为自己患了抑郁症。期间想了很多很多，比如：我所经历的这些对我有什么帮助？如果没有任何帮助为什么还要经历？以及哲学三大问题：早上吃啥？中午吃啥？晚上吃啥？不对，应该是：我是谁？我从哪里来？要到哪里去？当然，我到现在也没想明白，但是我比以前更了解自己了（对于程序员来说，也就是明白自己的核心竞争力）。我想起了曾经的我用省了好久才省出来的二十块钱买了一个指针式万用表回家修复读机；我想起了2003年在电视机前看神舟五号发射，我说过长大后要当科学家，制造宇宙飞船；我想起了第一次看到那块黑色的东西居然能够做这么多事情时是多么的惊讶，原来它叫单片机；我想起了我很想知道硬件和软件到底是怎么配合起来工作的；我想起了我很想知道互联网到底是什么，为什么它能连接全世界；我想起了我用过 Linux 系统之后是有多么的喜欢它；我想起了当我知道开源软件和开源硬件之后是多么的兴奋…… 是的，就是在大学最后一个暑假，我决定选择“程序员”作为我的职业。</p>
+<p>在稍微系统地恶补一番之后，接着就是不断地“查漏补缺–&gt;面试–&gt;被鄙视–&gt;再查漏补缺–&gt;再面试–&gt;再被鄙视”的过程，我给自己的定位是嵌入式 Linux 工程师，要学的东西实在太多了，到现在我还没学完。不过这一点我倒觉得没太大关系，因为边学边做边总结就是程序员的一种工作模式。</p>
+<p>就这样，赶在毕业前找到了一份比较满意的工作，匆匆忙忙地开始了程序员的职业生涯。</p>
+<p>毕业几年后偶尔聚会，听到有的同学离开了供电局，有的同学从大企业离职后开始学 IT，有的同学抱怨央企工资一直没涨还降薪，有的同学转行当老板，有的同学担心自己会被社会淘汰…… 然后，总是不经意间提到我，说还是我比较好。我不知道说什么好，总觉得很多东西没有对与错，适合自己的才是最好的。只是，一路上我们走得太匆忙，很容易就把自己忘记了。</p>
+<p>“程序员”可能不是我最终的职业，但我想这份职业经历也许可以用“曾经沧海难为水，除却巫山不是云”来形容。</p>
+<h2 id="给未来的程序员"><a href="#给未来的程序员" class="headerlink" title="给未来的程序员"></a>给未来的程序员</h2><p>这些年比较喜欢看 NBA，也因为在我失落迷茫的时候“林疯狂”给我带来的激励，我常常拿 NBA 球员的职业生涯作为参考，希望对程序员的职业生涯有所帮助。以下是我的一些观点和建议：</p>
+<ol>
+<li><strong>选秀顺位不重要。</strong>选秀顺位并不能决定球员的未来，程序员的第一份工作也不能决定其高度。当然，高考分数也不能决定人生的成败。重要的是要相信自己，不断学习，不断成长。人生是一场马拉松，起跑的优劣无关紧要，笑到最后的都是一直在跑的人，也就是一辈子都在学习的人。</li>
+<li><strong>保持专注。</strong>只有保持足够的专注度，才能确保在高强度的比赛中取得好成绩。程序员也一样，如果想拥有一个完美的职业生涯，要注意保持专注。</li>
+<li><strong>比赛中要把状态调到最好。</strong>在实力相差不大的情况下，比赛的胜负通常由双方球员的手感、激情、求胜欲望所决定的，这里统称为状态。同样，在项目开发过程中，程序员也要把状态调到最好，这样可以提高进度与工作质量，留下好的口碑。（程序员的圈子其实也不是很大，很容易就通过校友、同事、前同事、同事的前同事等关系连接起来了）</li>
+<li><strong>要有足够长的训练时间。</strong>即便是休赛期，很多 NBA 球员也会保持训练，比如每天投篮500次。对程序员来说，要求每天写500行代码好像有点别扭，所以最好找到适合自己的训练方法，比如：写代码、看代码、看文档、上培训班…… 总之，要有充足的练习，有量变才有质变嘛。</li>
+<li><strong>不断进步，解锁新技能</strong>。除了少数一进联盟就开挂的球员，大部分球员都是在实战中一步步成长为球星，甚至是巨星的。除非你是在那种允许一年工作经验反复用二十年的企业当程序员，否则最好不断更新自己的知识库，让老板发现你的亮点，知道你能胜任怎么样的工作。</li>
+<li><strong>选择去哪座城市打球很重要。</strong>大城市的球队财力雄厚，也容易吸引优秀球员，因此获得总冠军戒指的机会也相对较大，也容易打造商业价值。国内来说，我觉得程序员第一份工作选择大城市是有必要的，除了北上广深，准一线城市也不错的选择。（听说很多三、四、五线城市的程序员连 GitHub 都没听过呢）</li>
+<li><strong>不要过分追求花哨的技能。</strong>简单有效才是最好的，把简单的事情做到极致，本身就是一件伟大的事情，就像马刺那样。不管是黑猫白猫，能够满足需求的就是好猫，不对，是好程序员。Keep It Simple, Stupid！</li>
+<li><strong>要清楚自己的技术特点。</strong>我们说篮球场四大天王：灵活死胖子、 矮壮篮板怪、勾手老大爷、高瘦远投王。实际上，不是长得高就要打内线，长得矮就不能抢篮板，胖子就不能运球等等。关键是要清楚自己的技术特点，适合打什么位置。对于程序员来说，就是要清楚自己喜欢什么行业，喜欢做嵌入式还是移动开发还是 Web 等等，找到合适的定位。</li>
+<li><strong>要对大环境有所了解，适时调整。</strong>原来流行大球风格，注重防守，现在流行小球风格，那么这种环境的转变对于球员来说就是机遇和挑战。程序员也是，不能只顾着低头敲代码，还要适当了解行业发展趋势、技术的更新等等。</li>
+<li><strong>适当时抱大腿。</strong>绝大部分 NBA 球员的目标都是总冠军，那么当个人能力不足以支撑实现梦想时，抱大腿也不妨是个好方法。程序员刚出道时，往往也需要大神带领才能顺利完成任务，而大型的项目，更需要各个领域的专家合作才能完成。所以有时候抱大腿也不是一件坏事，如果程序员能成长为“大腿”就更好了。</li>
+<li><strong>工资帽每年都在涨，要抓住谈判工资的机会。</strong> NBA 的球员都会有经纪人去谈判，经纪人能够把握市场行情，为球员拿下大合同。绝大部分程序员请不起经纪人，只能自己去谈判，所以要学会了解市场行情，知道自己的水平大概能拿多少薪资，然后在面试或者调薪的时候为自己争取更多利益。</li>
+<li><strong>该执着时执着，该放手时放手。</strong> NBA 联盟只能容纳四百多名球员，而每年选秀会增加六十名球员，可以说淘汰率是很高的，能在 NBA 立足相当不容易。球员的平均职业生涯只有三年，最长也就二十多年。相对而言，程序员幸福得多，人才缺口大，也可以做到退休。但是，如果你发现自己确实不是当程序员的料，就果断放手吧，可以往技术支持、测试、管理、销售等方向发展，说不定还迎来职场第二春呢。当然，程序员还可以创业当老板，这里就不展开了，再说就超纲了。</li>
+</ol>
+<hr>
+<p>最后来一段：</p>
+<blockquote>
+<p>入学考试的问题答案<br>往往只有一个<br>如果没有找到它<br>那就是不及格<br>但是啊<br>人生不一样<br>人生有很多正确答案<br>继续读大学是正确答案<br>不去也是<br>热衷运动也是<br>喜欢音乐也好<br>和朋友一起玩耍也罢<br>这些都是正确答案<br>不要畏惧活着<br>不管考上还是没考上<br>都不要否定自己的可能性<br>你们要挺起胸膛<br>理直气壮地活着</p>
+</blockquote>
+<p>祝愿大家都能找到自己的人生答案！</p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/5b78d37a55c0ead7b724bf1fc7c213f7.png" alt="这里写图片描述"></p>
+<blockquote>
+<p>图4. 勇往直前</p>
+</blockquote>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>本文作者： </strong>Rudy Lo
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接：</strong>
+      <a href="https://luhuadong.com/journal/how-do-i-become-a-programmer.html" title="从高考到程序员——我一直在寻找答案">https://luhuadong.com/journal/how-do-i-become-a-programmer.html</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/%E6%80%BB%E7%BB%93/" rel="tag"># 总结</a>
+              <a href="/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/" rel="tag"># 程序员</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/journal/2016-year-end-summary.html" rel="prev" title="我的2016——我和嵌入式的那些事">
+                  <i class="fa fa-chevron-left"></i> 我的2016——我和嵌入式的那些事
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/map/metro-guangzhou.html" rel="next" title="广州地铁线路图">
+                  广州地铁线路图 <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="valine-comments"></div>
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      const commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+  
+
+
+
+
+  <script>
+  if (typeof MathJax === 'undefined') {
+    window.MathJax = {
+      tex: {
+        inlineMath: {'[+]': [['$', '$']]},
+        tags: 'none'
+      },
+      options: {
+        renderActions: {
+          insertedScript: [200, () => {
+            document.querySelectorAll('mjx-container').forEach(node => {
+              const target = node.parentNode;
+              if (target.nodeName.toLowerCase() === 'li') {
+                target.parentNode.classList.add('has-jax');
+              }
+            });
+          }, '', false]
+        }
+      }
+    };
+    const script = document.createElement('script');
+    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
+    script.defer = true;
+    document.head.appendChild(script);
+  } else {
+    MathJax.startup.document.state(0);
+    MathJax.typesetClear();
+    MathJax.texReset();
+    MathJax.typeset();
+  }
+</script>
+
+
+
+<script>
+NexT.utils.loadComments('#valine-comments', () => {
+  NexT.utils.getScript('https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js', () => {
+    new Valine(Object.assign({"enable":true,"appId":"6hrjjOTKL5yC0nVxpfKzdw1b-gzGzoHsz","appKey":"wGcDnHp1q8puQOkcRCpvOM7n","serverURLs":null,"placeholder":"Just go go","avatar":"mm","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":false,"requiredFields":[]}, {
+      el: '#valine-comments',
+      path: "/journal/how-do-i-become-a-programmer.html",
+      serverURLs: "https://6hrjjotk.api.lncldglobal.com"
+    }));
+  }, window.Valine);
+});
+</script>
+
+</body>
+</html>
