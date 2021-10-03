@@ -6,7 +6,7 @@ tags:
 categories: vegan
 ---
 
-<img src="/images/vegan/茄子豆角.jpeg" width="600" />
+![](/images/vegan/茄子豆角.jpeg)
 
 茄子豆角是许多餐馆都有的一道菜，豆角富含维生素B、维生素C、植物蛋白质、磷脂以及微量元素，茄子则是为数不多的紫色蔬菜之一，它的紫皮富含维生素E。两者搭配起来还是蛮好看、美味、营养的。
 
