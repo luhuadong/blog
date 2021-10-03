@@ -2,7 +2,7 @@
 title: 【蔬食菜谱】茄子豆角
 date: 2021-10-03 17:23:05
 tags:
-  - 菜谱
+  - 蔬食
 categories: vegan
 ---
 

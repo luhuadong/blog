@@ -2,7 +2,7 @@
 title: 【蔬食菜谱】素饺子
 date: 2021-10-03 19:37:57
 tags:
-  - 菜谱
+  - 蔬食
 categories: vegan
 ---
 
