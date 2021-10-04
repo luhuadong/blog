@@ -117,7 +117,7 @@ valine:
   enable: true
   appId:  6hrjjOTKL5yC0nVxpfKzdw1b-gzGzoHsz
   appKey:  wGcDnHp1q8puQOkcRCpvOM7n
-  serverURLs: # When the custom domain name is enabled, fill it in here
+  serverURLs: https://6hrjjotk.lc-cn-n1-shared.com
   placeholder: Just go go # comment box placeholder
   avatar: mm # gravatar style
   meta: [nick, mail, link] # Custom comment header
