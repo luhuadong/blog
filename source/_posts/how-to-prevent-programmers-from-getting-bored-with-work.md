@@ -4,7 +4,7 @@ date: 2018-10-10 15:09:01
 tags:
   - 程序员
   - 职场
-categories: coding
+categories: career
 ---
 
 文章来源：Medium，由 TECH2IPO / 创见 陈铮 翻译，首发于[创见科技](http://tech2ipo.com/)，转载请注明出处。

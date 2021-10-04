@@ -4,10 +4,10 @@ date: 2019-10-22 18:23:45
 tags:
   - 程序员
   - 职场
-categories: coding
+categories: career
 ---
 
-![](/images/coding/hello-world.png)
+![](/images/career/hello-world.png)
 
 
 ## 声明
@@ -3211,4 +3211,4 @@ CLA 软件在技术上属于运行于 Linux 操作系统上的一个中间件，
 
 
 
-![](/images/coding/come-on.jpeg)
+![](/images/career/come-on.jpeg)

@@ -4,7 +4,7 @@ date: 2018-09-22 18:12:55
 tags:
   - 程序员
   - 职场
-categories: coding
+categories: career
 ---
 
 ## 程序员如何避免裁员

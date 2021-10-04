@@ -4,7 +4,7 @@ date: 2016-09-25 00:14:03
 tags:
   - 程序员
   - 职场
-categories: coding
+categories: career
 ---
 
 ## 什么是知识管理

@@ -4,7 +4,7 @@ date: 2018-01-17 15:46:22
 tags:
   - 程序员
   - 职场
-categories: coding
+categories: career
 ---
 
 今天在CSDN看到《[如何看待许多年轻人“疯狂”的投入到IT培训当中](https://blog.csdn.net/csdnsevenn/article/details/78955250)》一文，于是想起了大学毕业之际参加嵌入式培训的那段时光，嘻嘻，投个稿~
@@ -54,4 +54,4 @@ categories: coding
 
 与其整天考虑该不该参加IT培训，该不该当程序员，不如好好了解自己，想想怎么提升自己的能力，提升自己的认知水平，努力完善自己，创造美好的东西。否则，当了程序员又怎么样？
 
-![](../images/coding/coding.gif)
+![](../images/career/coding.gif)

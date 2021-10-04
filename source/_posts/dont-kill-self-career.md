@@ -4,7 +4,7 @@ date: 2019-01-10 18:11:46
 tags:
   - 程序员
   - 职场
-categories: coding
+categories: career
 ---
 
 ## 引子

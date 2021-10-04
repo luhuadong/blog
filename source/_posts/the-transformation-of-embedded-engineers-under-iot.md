@@ -5,7 +5,7 @@ tags:
   - 程序员
   - 职场
   - 物联网
-categories: coding
+categories: career
 ---
 
 这个时代，大家都在谈转型，今天我们也来说说嵌入式工程师的转型！
