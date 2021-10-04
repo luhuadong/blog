@@ -107,7 +107,9 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repository: git@github.com:luhuadong/blog.git
+  branch: public
 
 # Valine
 # For more information: https://valine.js.org, https://github.com/xCss/Valine
