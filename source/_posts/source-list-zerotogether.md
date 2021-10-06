@@ -1,6 +1,7 @@
 ---
-title: Source List for ZeroTogether
+title: ZeroTogether 信息列表
 date: 2021-09-13 12:45:49
+description: 我还特别关注环保，所以这里收集与环保、自然、可持续生活、碳中和等相关的资讯列表。
 tags:
   - 信息世界
 sticky: 100
@@ -8,6 +9,7 @@ sticky: 100
 
 ## NGO
 
+- [China Development Brief | NGO信息中心](http://www.chinadevelopmentbrief.org.cn)
 - [WWF](https://wwf.panda.org)
 - [绿色和平](https://www.greenpeace.org)
 - [自然之友](http://www.fon.org.cn)
@@ -73,7 +75,9 @@ sticky: 100
 - [Waste Management](https://www.wm.com)
 - [泰瑞环保](https://www.terracycle.cn)
 - [奥北环保](https://www.aobag.com)
+- [发光公社](http://bbs.51faguang.com/portal.php)
 - [飞蚂蚁](https://www.fmy90.com)
+- [白鲸鱼](https://weibo.com/52bjy)
 - [多抓鱼](https://www.duozhuayu.com)
 - [星期零](https://www.starfieldcn.com)
 - [Zero Zero | 台湾](https://www.zerozero.com.tw)
@@ -88,6 +92,7 @@ sticky: 100
 
 - [Eco梦儿](https://space.bilibili.com/18979787)
 - [壹个袋子](https://space.bilibili.com/524809503)
+- [隔壁的Lanai](https://space.bilibili.com/691735456)
 - [山東女孩JING]()
 - [素食南安]()
 - [找蔬食 Traveggo](https://www.youtube.com/c/%E6%89%BE%E8%94%AC%E9%A3%9FTraveggo/)

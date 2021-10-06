@@ -1,6 +1,7 @@
 ---
-title: Source List for GetIoT
+title: GetIoT 信息列表
 date: 2021-09-13 12:45:58
+description: 我是一名工程师嘛，这里收集与物联网、嵌入式、Linux、开源软件等科技行业相关的资讯列表。
 tags:
   - 信息世界
 sticky: 100

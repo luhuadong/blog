@@ -1,11 +1,37 @@
 ---
-title: 开启终身学习之旅
+title: 学习、学习、再学习！
 date: 2016-04-27 21:42:37
+description: 这里收集一些我平常会用到的学习平台，不知道对你是否有用，也欢迎在评论区给我分享有趣的网站~
 tags:
   - 信息世界
 sticky: 200
 ---
 
+
+## 学习平台
+
+- **中国大学 MOOC**：<https://www.icourse163.org/>
+- **哔哩哔哩（B站）**：<https://www.bilibili.com/> （B 站是一个很棒的免费学习网站，比如你可以搜集从入门到进阶的英语学习视频。）
+- **TED**：<https://www.ted.com/>
+- **网易公开课**：<https://open.163.com/>
+- **阿里云大学**：<https://edu.aliyun.com/>
+- **腾讯课堂**：<https://ke.qq.com/>
+- **21ic 公开课**：<http://open.21ic.com/>
+- **抖音**：<https://www.douyin.com/>（没错，利用抖音的推荐功能，可以学习很多你想学的东西。）
+- **网易云课堂**：<https://study.163.com/>
+- **慕课网**：<https://www.imooc.com/>
+- **CSDN 学院**：<https://edu.csdn.net/>
+- **开课吧**：<https://www.kaikeba.com/>
+- **极客学院**：<https://www.jikexueyuan.com/>
+- **IT学院**：<https://www.itxueyuan.com/>
+- **51CTO 学院**：<https://edu.51cto.com/>
+- **粤嵌创客训练营**：<http://www.geconline.cn/>
+- **蓝墨云班课**：<https://www.mosoteach.cn/>
+
+
+## 通用知识
+
+- wikiHow 指南网站：<https://zh.wikihow.com>
 
 ## GitHub 资源
 
@@ -76,28 +102,6 @@ sticky: 200
   - <https://www.w3cschool.cn/>
   - <https://www.w3school.com.cn/>
 - **基础教程网**：<http://teliute.org/>
-
-
-
-## 学习平台
-
-- **中国大学 MOOC**：<https://www.icourse163.org/>
-- **哔哩哔哩（B站）**：<https://www.bilibili.com/> （B 站是一个很棒的免费学习网站，比如你可以搜集从入门到进阶的英语学习视频。）
-- **TED**：<https://www.ted.com/>
-- **网易公开课**：<https://open.163.com/>
-- **阿里云大学**：<https://edu.aliyun.com/>
-- **腾讯课堂**：<https://ke.qq.com/>
-- **21ic 公开课**：<http://open.21ic.com/>
-- **抖音**：<https://www.douyin.com/>（没错，利用抖音的推荐功能，可以学习很多你想学的东西。）
-- **网易云课堂**：<https://study.163.com/>
-- **慕课网**：<https://www.imooc.com/>
-- **CSDN 学院**：<https://edu.csdn.net/>
-- **开课吧**：<https://www.kaikeba.com/>
-- **极客学院**：<https://www.jikexueyuan.com/>
-- **IT学院**：<https://www.itxueyuan.com/>
-- **51CTO 学院**：<https://edu.51cto.com/>
-- **粤嵌创客训练营**：<http://www.geconline.cn/>
-- **蓝墨云班课**：<https://www.mosoteach.cn/>
 
 
 
@@ -302,4 +306,9 @@ sticky: 200
 - **环境健康这些事**：抗击隐形污染，助力无毒中国。
 - **徐嘉健康频道**：营养学严肃科普，谈生活尽量有趣，努力做你健康饮食的工具书。
 - **绿色和平行动派**：好玩的环保行动社群。爱地球，做个行动派，行动带来改变！
+
+
+## References
+
+- [优秀编程学习平台 | 人人都懂物联网](https://getiot.tech/awesome/awesome-learn-to-code.html)
 
