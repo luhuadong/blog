@@ -7,7 +7,7 @@ tags:
   - 激励
   - 力量
 categories: reading
-sticky: 100
+sticky: 150
 ---
 
 > Make the most of everyday.
