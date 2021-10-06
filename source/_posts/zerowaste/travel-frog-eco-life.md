@@ -117,7 +117,8 @@ LNT 就是 “Leave No Trace”，大家都以为我是无业游蛙，其实我�
 为什么要保护大自然？—— 因为：
 
 
-<iframe src="//player.bilibili.com/player.html?aid=2969974&bvid=BV1ds411178i&cid=4651710&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=2969974&bvid=BV1ds411178i&cid=4651710&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
 
 ## 心得感想
 
