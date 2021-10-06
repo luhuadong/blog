@@ -54,6 +54,7 @@ categories: science
 - [熙熙森林·广州猫](https://www.gzcat.org/bbs/forum.php)
 - [可爱猫咪-深圳](http://www.szcat.org)
 - [幸运土猫-北京](http://luckycats.org.cn)
+- [SPCA 香港爱护动物协会](https://www.spca.org.hk)
 
 
 ---
