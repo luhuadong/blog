@@ -76,6 +76,8 @@ categories: reading
 
 在同气候变化做斗争的过程中，我们也需要新的工具：在全球范围内，以“零碳”的方式发电、制造产品、种植粮食，以“零碳”的方式为建筑物保温降热，以及以“零碳”的方式转移人员、运送物品，等等。
 
+令人遗憾的是，二氧化碳当量不是一个完美的度量标准：从根本上来讲，真正重要的并不是温室气体的排放量，而是升高的温度及其对人类的影响。
+
 Global power capacity by source in the Stated Policies Scenario（既定政策情景中按来源划分的全球电力容量）
 
 ![](/images/book/iea_weo2019_capacitytrajectory.jpg)
