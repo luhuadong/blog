@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.0.2">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/avatar_mini.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/avatar_mini.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/avatar_mini.png">
+  <link rel="mask-icon" href="/images/avatar_mini.png" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+
+<script class="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
+  </script>
+<meta name="description" content="【教孩子学 Python 编程】系列 Day1：了解计算机的组成">
+<meta property="og:type" content="article">
+<meta property="og:title" content="【教孩子学编程】第1天 和电脑做朋友">
+<meta property="og:url" content="https://luhuadong.com/coding/PyTK-2019-Day01.html">
+<meta property="og:site_name" content="成为自由人">
+<meta property="og:description" content="【教孩子学 Python 编程】系列 Day1：了解计算机的组成">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E7%8C%AA%E5%B9%B4.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E6%88%91%E5%8D%81%E5%87%A0%E5%B2%81%E6%88%91%E5%A5%BD%E7%B4%AF.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/开学交朋友.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/身体部位-柯南.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6%E7%BB%84%E6%88%90.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E5%8F%B0%E5%BC%8F%E6%9C%BA-%E7%AC%94%E8%AE%B0%E6%9C%AC.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/计算机系统.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/天使和魔鬼.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E6%8E%A5%E5%85%A5%E7%BD%91%E7%BB%9C%E7%A4%BA%E6%84%8F%E5%9B%BE.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E7%8C%AB%E4%B8%8D%E6%98%AFModern.jpg">
+<meta property="article:published_time" content="2019-02-03T02:53:27.000Z">
+<meta property="article:modified_time" content="2021-10-07T12:48:17.156Z">
+<meta property="article:author" content="Rudy Lo">
+<meta property="article:tag" content="Python">
+<meta property="article:tag" content="教孩子学编程">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://luhuadong.com/images/coding/%E7%8C%AA%E5%B9%B4.png">
+
+
+<link rel="canonical" href="https://luhuadong.com/coding/PyTK-2019-Day01.html">
+
+
+<script class="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+<title>【教孩子学编程】第1天 和电脑做朋友 | 成为自由人</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
+    <script>
+      if (CONFIG.hostname === location.hostname) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-190737867-1');
+      }
+    </script>
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+  <noscript>
+  <style>
+  body { margin-top: 2rem; }
+
+  .use-motion .menu-item,
+  .use-motion .sidebar,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header {
+    visibility: visible;
+  }
+
+  .use-motion .header,
+  .use-motion .site-brand-container .toggle,
+  .use-motion .footer { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle,
+  .use-motion .custom-logo-image {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line {
+    transform: scaleX(1);
+  }
+
+  .search-pop-overlay, .sidebar-nav { display: none; }
+  .sidebar-panel { display: block; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <h1 class="site-title">成为自由人</h1>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
+      <img class="custom-logo-image" src="/uploads/qrcode_8cm.jpg" alt="成为自由人">
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu">
+        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
+        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
+        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
+        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
+        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
+        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
+        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
+        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%AE%A4%E8%AF%86%E6%88%91%E4%BB%AC%E7%9A%84%E6%96%B0%E6%9C%8B%E5%8F%8B"><span class="nav-number">1.</span> <span class="nav-text">认识我们的新朋友</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%94%B5%E8%84%91%E8%83%BD%E5%81%9A%E4%BB%80%E4%B9%88"><span class="nav-number">2.</span> <span class="nav-text">电脑能做什么</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%94%B5%E8%84%91%E7%9A%84%E4%BC%98%E7%BC%BA%E7%82%B9"><span class="nav-number">3.</span> <span class="nav-text">电脑的优缺点</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%BF%9E%E6%8E%A5%E4%BA%92%E8%81%94%E7%BD%91"><span class="nav-number">4.</span> <span class="nav-text">连接互联网</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BD%9C%E4%B8%9A"><span class="nav-number">5.</span> <span class="nav-text">作业</span></a></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
+      src="/images/avatar.jpg">
+  <p class="site-author-name" itemprop="name">Rudy Lo</p>
+  <div class="site-description" itemprop="description">卢华东的个人网站</div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">147</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">23</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">65</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author site-overview-item animated">
+      <span class="links-of-author-item">
+        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://gitee.com/luhuadong" title="Gitee → https:&#x2F;&#x2F;gitee.com&#x2F;luhuadong" rel="noopener" target="_blank">Gitee</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.douban.com/group/730047/" title="豆瓣 → https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;" rel="noopener" target="_blank">豆瓣</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://zerotogether.net/" title="零聚社区 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零聚社区</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+  </div>
+  <div class="cc-license site-overview-item animated" itemprop="license">
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
+  </div>
+
+
+
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="back-to-top" role="button">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/coding/PyTK-2019-Day01.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="卢华东的个人网站">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          【教孩子学编程】第1天 和电脑做朋友
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2019-02-03 10:53:27" itemprop="dateCreated datePublished" datetime="2019-02-03T10:53:27+08:00">2019-02-03</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2021-10-07 20:48:17" itemprop="dateModified" datetime="2021-10-07T20:48:17+08:00">2021-10-07</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/coding/" itemprop="url" rel="index"><span itemprop="name">coding</span></a>
+        </span>
+    </span>
+
+  
+  
+  <span class="post-meta-item">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">Valine：</span>
+  
+    <a title="valine" href="/coding/PyTK-2019-Day01.html#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/coding/PyTK-2019-Day01.html" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+            <div class="post-description">【教孩子学 Python 编程】系列 Day1：了解计算机的组成</div>
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p>猪年终于到了！不，春节终于到了！小卢老师也迎来了十天小长假！</p>
+<p><img src="/images/coding/%E7%8C%AA%E5%B9%B4.png"></p>
+<p>念初中的表妹跟我吐槽说，她在学校是话题终结者，很难跟同学聊下去，而且已经十几岁了，大人还是把她当小孩看，真的好累…… 还有，过年能不能不要问分数。</p>
+<p>小卢老师二十几岁了，我也感觉好累！但是再苦再累也要坚持下去，才能过自己想要的人生。</p>
+<p>表妹的性格有点像我，不喜欢叽叽喳喳说个不停，宁愿一个人静静地看书。而且涉猎广泛，不同类型的书都愿意去看，喜欢理科，不喜欢文言文…… 所以，我决定教她计算机编程！</p>
+<p><img src="/images/coding/%E6%88%91%E5%8D%81%E5%87%A0%E5%B2%81%E6%88%91%E5%A5%BD%E7%B4%AF.jpeg"></p>
+<p>于是，趁着春节假期，我厚着脸皮地开展了【小卢老师的Python春节特训营】系列十天入门教程，每天学习一小时即可。事不宜迟，开片～</p>
+<h2 id="认识我们的新朋友"><a href="#认识我们的新朋友" class="headerlink" title="认识我们的新朋友"></a>认识我们的新朋友</h2><p>学编程只需要一台电脑就够了，相信很多00后都已经用过电脑，可能是玩游戏、看视频或者挂QQ（听说00后又用回QQ了）。如果没有也没关系，从现在开始，你要和你的电脑做朋友！</p>
+<img src="/images/coding/开学交朋友.jpeg" width="400" />
+
+<p>好好看看你的新朋友，她将是你未来的好搭档。</p>
+<p>当你认识一个新朋友，你会观察她的五官、衣着、谈吐、发型、有没有戴眼镜等等。看下面的图，顺便背一下单词～</p>
+<img src="/images/coding/身体部位-柯南.jpeg" width="600" />
+
+<p>电脑现在是你的新朋友，同样，首先你也要去观察她，看看一台电脑的硬件系统包括哪些部件？</p>
+<p><img src="/images/coding/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6%E7%BB%84%E6%88%90.jpeg"></p>
+<p>你的新朋友叫 “电脑”，正式名称叫 “计算机”，英文是 “Computer”，简称 “PC”。</p>
+<p>她可能长得像上面的图片那样，有一个敦实的主机，一个靓丽的显示器，还有键盘、鼠标、耳机、麦克风、摄像头等等。这种类型的通常称为台式机，此外还有一体机、笔记本电脑、平板电脑等不同类型。它们都属于电脑的范畴，接下来几天的操作，我们将在笔记本电脑上进行。</p>
+<p><img src="/images/coding/%E5%8F%B0%E5%BC%8F%E6%9C%BA-%E7%AC%94%E8%AE%B0%E6%9C%AC.jpeg"></p>
+<p>你可以继续称呼她为 “电脑”，也可以叫 “笔记本”，或者叫 “notebook PC” 和 “laptop” 都没关系。</p>
+<h2 id="电脑能做什么"><a href="#电脑能做什么" class="headerlink" title="电脑能做什么"></a>电脑能做什么</h2><p>通过前面的观察，我们了解了电脑的基本组成情况。那电脑能为我们些什么，以及她是如何做到的呢？毕竟现在看起来电脑只是一台冰冷的机器。</p>
+<p>除了硬件系统之外，还搭配软件系统，才能组成一个完成的计算机系统。</p>
+<img src="/images/coding/计算机系统.png" width="600" />
+
+<p>在计算机系统中，软件和硬件是一个整体，任何一个计算机系统的运行都是系统中软硬件协作的结果。没有软件的硬件只是一堆废铁，而没有硬件的软件也只不过是空中楼阁。</p>
+<p>那么，我们能使用电脑做什么？</p>
+<p>没错，我们可以上网购物，可以搜索学习资料，可以向别人提问，可以看看外界的事物，可以听音乐看视频，可以画画P图，可以玩游戏等等。可以做的事情实在太多了，别忘了，还可以自己编程！</p>
+<p>但是事物都有两面性。正如很多大人总是认为，小孩子使用电脑就会沉迷游戏、沉迷网络视频。也确实，在信息时代，很多人也做不到自律、不能明辨是非，更何况是孩子。不加控制、过度使用很容易就会导致近视、影响学习成绩，甚至影响孩子们的正常生活。</p>
+<h2 id="电脑的优缺点"><a href="#电脑的优缺点" class="headerlink" title="电脑的优缺点"></a>电脑的优缺点</h2><img src="/images/coding/天使和魔鬼.jpeg" width="400" />
+
+<p>在正式使用电脑之前，我们必须再提及这个话题 —— 正确对待电脑的优缺点。我列举一些暂时想到的点：</p>
+<p>优点</p>
+<ul>
+<li>开阔眼界</li>
+<li>了解知识</li>
+<li>掌握技能</li>
+<li>锻炼思维、增进认识（学习编程）</li>
+</ul>
+<p>缺点</p>
+<ul>
+<li>影响学习（过度使用）</li>
+<li>浪费时间（过度使用）</li>
+<li>损害健康（过度使用）</li>
+</ul>
+<p>发现了没，大多数的缺点，与其说是电脑的缺点，还不如说人的缺点。所以我们一定要扬长避短、合理利用，发挥电脑这位朋友的优势，不要让电脑成为我们的损友，而要成为我们的良师益友！</p>
+<p>此外，学习编程还有如下优点</p>
+<ul>
+<li>锻炼思维（促进思考、培养观察力和抽象思维）</li>
+<li>增进认识（增进对科学、文化、社会的认识）</li>
+<li>带来乐趣和满足感（编程能够提供展示自身思想和能力的舞台）</li>
+</ul>
+<h2 id="连接互联网"><a href="#连接互联网" class="headerlink" title="连接互联网"></a>连接互联网</h2><p>前面我们讨论了电脑能做些什么，我们发现其中很多任务单单一台电脑是无法完成的，还需要将电脑连接互联网（也就是俗称的 “上网”）。</p>
+<p><img src="/images/coding/%E6%8E%A5%E5%85%A5%E7%BD%91%E7%BB%9C%E7%A4%BA%E6%84%8F%E5%9B%BE.jpeg"></p>
+<p>上图是一种典型的家庭宽带上网连接示意图，通常我们将 Modern（调制解调器）俗称为 “猫”。这个猫呀，也不一定出现在家里，具体由入户的线路情况决定。这个话题有点复杂，暂时不用管。</p>
+<p><img src="/images/coding/%E7%8C%AB%E4%B8%8D%E6%98%AFModern.jpg"></p>
+<p>路由器具有扩展功能，可以通过有线和无线的方式连接多台电脑，实现多台设备一起上网（当然也包括手机）。</p>
+<p>除此之外，每台电脑中都隐藏了一个或多个网卡，可能是有线网卡或者无线网卡。台式机和笔记本都是通过他们的网卡来实现网络连接的。</p>
+<p>其实到这里，我们已经搭建起了一个 LAN（局域网，Local Area Network），相对应的，外部的网络环境称为 WAN（广域网，Wide Area Network）。</p>
+<h2 id="作业"><a href="#作业" class="headerlink" title="作业"></a>作业</h2><p>（1）找一下你身边的台式机、笔记本电脑、平板和手机，观察它们的异同点。</p>
+<p>（2）启动你的电脑，如果可能，多找几台电脑看看它们的操作是否一样。</p>
+<p>（3）连接网络，打开浏览器，访问 <a target="_blank" rel="noopener" href="https://www.163.com/">https://www.163.com</a> 并注册个人邮箱。</p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          <div class="reward-container">
+  <div>您的鼓励是我最大的动力！</div>
+  <button onclick="document.querySelector('.post-reward').classList.toggle('active');">
+    赞赏
+  </button>
+  <div class="post-reward">
+      <div>
+        <img src="/images/wechatpay.jpeg" alt="Rudy Lo 微信">
+        <span>微信</span>
+      </div>
+      <div>
+        <img src="/images/alipay.jpeg" alt="Rudy Lo 支付宝">
+        <span>支付宝</span>
+      </div>
+
+  </div>
+</div>
+
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>本文作者： </strong>Rudy Lo
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接：</strong>
+      <a href="https://luhuadong.com/coding/PyTK-2019-Day01.html" title="【教孩子学编程】第1天 和电脑做朋友">https://luhuadong.com/coding/PyTK-2019-Day01.html</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/Python/" rel="tag"># Python</a>
+              <a href="/tags/%E6%95%99%E5%AD%A9%E5%AD%90%E5%AD%A6%E7%BC%96%E7%A8%8B/" rel="tag"># 教孩子学编程</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/career/dont-kill-self-career.html" rel="prev" title="大龄码农是如何把自己逼死的">
+                  <i class="fa fa-chevron-left"></i> 大龄码农是如何把自己逼死的
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/coding/PyTK-2019-Day02.html" rel="next" title="【教孩子学编程】第2天 不同性格的电脑">
+                  【教孩子学编程】第2天 不同性格的电脑 <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="valine-comments"></div>
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      const commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+  
+
+
+
+
+  <script>
+  if (typeof MathJax === 'undefined') {
+    window.MathJax = {
+      tex: {
+        inlineMath: {'[+]': [['$', '$']]},
+        tags: 'none'
+      },
+      options: {
+        renderActions: {
+          insertedScript: [200, () => {
+            document.querySelectorAll('mjx-container').forEach(node => {
+              const target = node.parentNode;
+              if (target.nodeName.toLowerCase() === 'li') {
+                target.parentNode.classList.add('has-jax');
+              }
+            });
+          }, '', false]
+        }
+      }
+    };
+    const script = document.createElement('script');
+    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
+    script.defer = true;
+    document.head.appendChild(script);
+  } else {
+    MathJax.startup.document.state(0);
+    MathJax.typesetClear();
+    MathJax.texReset();
+    MathJax.typeset();
+  }
+</script>
+
+
+
+<script>
+NexT.utils.loadComments('#valine-comments', () => {
+  NexT.utils.getScript('https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js', () => {
+    new Valine(Object.assign({"enable":true,"appId":"6hrjjOTKL5yC0nVxpfKzdw1b-gzGzoHsz","appKey":"wGcDnHp1q8puQOkcRCpvOM7n","serverURLs":"https://6hrjjotk.lc-cn-n1-shared.com","placeholder":"Just go go","avatar":"mm","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":false,"requiredFields":[]}, {
+      el: '#valine-comments',
+      path: "/coding/PyTK-2019-Day01.html",
+      serverURLs: "https://6hrjjotk.lc-cn-n1-shared.com"
+    }));
+  }, window.Valine);
+});
+</script>
+
+</body>
+</html>

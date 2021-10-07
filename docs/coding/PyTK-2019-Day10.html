@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.0.2">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/avatar_mini.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/avatar_mini.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/avatar_mini.png">
+  <link rel="mask-icon" href="/images/avatar_mini.png" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+
+<script class="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
+  </script>
+<meta name="description" content="【教孩子学 Python 编程】系列 Day10：了解如何使用 Python 生成地图">
+<meta property="og:type" content="article">
+<meta property="og:title" content="【教孩子学编程】第10天 世界那么大，我想去看看">
+<meta property="og:url" content="https://luhuadong.com/coding/PyTK-2019-Day10.html">
+<meta property="og:site_name" content="成为自由人">
+<meta property="og:description" content="【教孩子学 Python 编程】系列 Day10：了解如何使用 Python 生成地图">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E8%9B%A4.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E4%BA%9A%E9%87%8C%E5%A3%AB%E5%A4%9A%E5%BE%B7.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%E5%9F%8E%E5%92%8C%E8%B5%9B%E5%8D%B0.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%E5%9F%8E%E7%9A%84%E6%9F%B1%E5%AD%90.gif">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E6%8E%A8%E7%AE%97%E5%9C%B0%E7%90%83%E5%9C%86%E5%91%A8%E9%95%BF.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E5%A4%8F%E8%87%B3%E5%A4%AA%E9%98%B3%E7%9B%B4%E5%B0%84%E5%8C%97%E5%9B%9E%E5%BD%92%E7%BA%BF.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E5%9C%B0%E5%BF%83%E8%AF%B4%E7%9A%84%E5%AE%87%E5%AE%99%E6%9E%84%E6%88%90.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E5%85%8B%E7%BD%97%E7%8B%84%E6%96%AF-%E6%89%98%E5%8B%92%E5%AF%86.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E6%8B%BE%E7%A9%97%E8%80%85-%E5%8A%A8%E5%9B%BE.gif">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E5%93%A5%E7%99%BD%E5%B0%BC2.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E4%BC%BD%E5%88%A9%E7%95%A5.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E5%B8%83%E9%B2%81%E8%AF%BA-%E6%97%A5%E5%BF%83%E8%AF%B4.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E7%89%9B%E9%A1%BF.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E9%A6%96%E6%AC%A1%E5%90%91%E5%85%8B%E9%87%8C%E6%96%AF%E6%89%98%E5%BC%97-%E5%93%A5%E4%BC%A6%E5%B8%83%E8%87%B4%E6%95%AC.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E9%BA%A6%E5%93%B2%E4%BC%A6.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E9%BA%A6%E5%93%B2%E4%BC%A6%E7%8E%AF%E7%90%83%E8%88%AA%E8%A1%8C.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/TheBlueMarble.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/JupyterNotebook.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/Basemap%E9%BB%98%E8%AE%A4%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/ortho%E6%8A%95%E5%BD%B1-%E7%AE%80%E5%8D%95%E5%9C%B0%E5%9B%BE.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/ortho%E6%8A%95%E5%BD%B1-%E6%B7%BB%E5%8A%A0%E9%A2%9C%E8%89%B2.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/ortho%E6%8A%95%E5%BD%B1-%E6%B7%BB%E5%8A%A0%E9%A2%9C%E8%89%B2%E5%92%8C%E5%9B%BD%E7%95%8C.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/ortho%E6%8A%95%E5%BD%B1-bluemarble%E8%83%8C%E6%99%AF.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/cyl%E6%8A%95%E5%BD%B1-%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE-bluemarble.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/cyl%E6%8A%95%E5%BD%B1-%E6%B7%BB%E5%8A%A0%E5%9B%BD%E7%95%8C.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/cyl%E6%8A%95%E5%BD%B1-%E4%B8%AD%E5%9B%BD.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/lcc%E6%8A%95%E5%BD%B1-%E4%B8%AD%E5%9B%BD.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/lcc%E6%8A%95%E5%BD%B1-%E4%B8%AD%E5%9B%BD%E7%9C%81%E4%BB%BD.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/lcc%E6%8A%95%E5%BD%B1-%E4%B8%AD%E5%9B%BD%E7%9C%81%E4%BB%BD-%E4%B8%AD%E5%9B%BD%E7%BA%A2.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/lcc%E6%8A%95%E5%BD%B1-%E4%B8%AD%E5%9B%BD%E7%9C%81%E4%BB%BD-%E4%B8%AD%E5%9B%BD%E7%BA%A2-%E5%90%AB%E5%8F%B0%E6%B9%BE.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/lcc%E6%8A%95%E5%BD%B1-%E4%B8%AD%E5%9B%BD-%E4%BA%BA%E5%8F%A3%E5%88%86%E6%9E%90.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/pyecharts-%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE%E7%A4%BA%E4%BE%8B.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E7%BA%A2%E5%8C%85%E4%BD%BF%E4%B8%8D%E5%BE%97.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/pyecharts-%E5%85%A8%E5%9B%BD%E5%8E%8B%E5%B2%81%E9%92%B1%E5%9C%B0%E5%9B%BE.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E7%BB%99%E4%BD%A0%E8%B7%AA%E4%BA%86.gif">
+<meta property="og:image" content="https://luhuadong.com/images/coding/pyecharts-2018%E5%B9%B4%E5%B9%BF%E4%B8%9C%E5%90%84%E5%9F%8E%E5%B8%82%E4%BA%BA%E5%9D%87GDP%E6%8E%92%E5%90%8D.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/pyecharts-2019%E5%B9%B42%E6%9C%88%E5%90%84%E5%8E%BF%E5%8C%BA%E6%88%BF%E4%BB%B7%E7%83%AD%E5%8A%9B%E5%9B%BE.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/广告-大姐.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/广告-二姐.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/广告-大哥.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/广告-业务范围.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E5%8F%91%E7%8E%B0%E4%BD%9C%E4%B8%9A%E8%BF%98%E6%B2%A1%E5%86%99.jpeg">
+<meta property="article:published_time" content="2019-02-12T02:53:27.000Z">
+<meta property="article:modified_time" content="2021-10-07T12:47:35.553Z">
+<meta property="article:author" content="Rudy Lo">
+<meta property="article:tag" content="Python">
+<meta property="article:tag" content="教孩子学编程">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://luhuadong.com/images/coding/%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9.jpeg">
+
+
+<link rel="canonical" href="https://luhuadong.com/coding/PyTK-2019-Day10.html">
+
+
+<script class="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+<title>【教孩子学编程】第10天 世界那么大，我想去看看 | 成为自由人</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
+    <script>
+      if (CONFIG.hostname === location.hostname) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-190737867-1');
+      }
+    </script>
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+  <noscript>
+  <style>
+  body { margin-top: 2rem; }
+
+  .use-motion .menu-item,
+  .use-motion .sidebar,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header {
+    visibility: visible;
+  }
+
+  .use-motion .header,
+  .use-motion .site-brand-container .toggle,
+  .use-motion .footer { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle,
+  .use-motion .custom-logo-image {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line {
+    transform: scaleX(1);
+  }
+
+  .search-pop-overlay, .sidebar-nav { display: none; }
+  .sidebar-panel { display: block; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <h1 class="site-title">成为自由人</h1>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
+      <img class="custom-logo-image" src="/uploads/qrcode_8cm.jpg" alt="成为自由人">
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu">
+        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
+        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
+        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
+        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
+        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
+        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
+        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
+        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%88%91%E4%BB%AC%E7%9A%84%E5%9C%B0%E7%90%83"><span class="nav-number">1.</span> <span class="nav-text">我们的地球</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%9C%B0%E7%90%83%E6%98%AF%E5%9C%86%E7%9A%84"><span class="nav-number">1.1.</span> <span class="nav-text">地球是圆的</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BB%8E%E5%9C%B0%E5%BF%83%E8%AF%B4%E5%88%B0%E6%97%A5%E5%BF%83%E8%AF%B4"><span class="nav-number">1.2.</span> <span class="nav-text">从地心说到日心说</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%8A%8A%E4%B8%96%E7%95%8C%E8%BF%9E%E6%88%90%E4%B8%80%E7%89%87"><span class="nav-number">1.3.</span> <span class="nav-text">把世界连成一片</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A4%AA%E7%A9%BA%E6%8E%A2%E7%B4%A2"><span class="nav-number">1.4.</span> <span class="nav-text">太空探索</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%94%A8-Python-%E7%94%BB%E5%9C%B0%E7%90%83"><span class="nav-number">2.</span> <span class="nav-text">用 Python 画地球</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%94%A8-Python-%E7%94%BB%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE"><span class="nav-number">3.</span> <span class="nav-text">用 Python 画中国地图</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%9C%A8%E5%9C%B0%E5%9B%BE%E4%B8%8A%E5%B1%95%E7%A4%BA%E6%95%B0%E6%8D%AE"><span class="nav-number">4.</span> <span class="nav-text">在地图上展示数据</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE"><span class="nav-number">4.1.</span> <span class="nav-text">世界地图</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%AD%E5%9B%BD%E7%BA%A2%E5%8C%85%E5%9C%B0%E5%9B%BE"><span class="nav-number">4.2.</span> <span class="nav-text">中国红包地图</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%BA%BA%E5%9D%87-GDP-%E6%8E%92%E5%90%8D"><span class="nav-number">4.3.</span> <span class="nav-text">广东省人均 GDP 排名</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%B8%85%E8%BF%9C%E6%88%BF%E4%BB%B7%E5%9C%B0%E5%9B%BE"><span class="nav-number">4.4.</span> <span class="nav-text">清远房价地图</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BD%9C%E4%B8%9A"><span class="nav-number">5.</span> <span class="nav-text">作业</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%80%9D%E8%80%83"><span class="nav-number">6.</span> <span class="nav-text">思考</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%99%84%E5%BD%95"><span class="nav-number">7.</span> <span class="nav-text">附录</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%9C%B0%E5%9B%BE%E6%8A%95%E5%BD%B1"><span class="nav-number">7.1.</span> <span class="nav-text">地图投影</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E9%A2%86%E5%9C%9F%E9%97%AE%E9%A2%98"><span class="nav-number">7.2.</span> <span class="nav-text">领土问题</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#References"><span class="nav-number">8.</span> <span class="nav-text">References</span></a></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
+      src="/images/avatar.jpg">
+  <p class="site-author-name" itemprop="name">Rudy Lo</p>
+  <div class="site-description" itemprop="description">卢华东的个人网站</div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">147</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">23</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">65</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author site-overview-item animated">
+      <span class="links-of-author-item">
+        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://gitee.com/luhuadong" title="Gitee → https:&#x2F;&#x2F;gitee.com&#x2F;luhuadong" rel="noopener" target="_blank">Gitee</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.douban.com/group/730047/" title="豆瓣 → https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;" rel="noopener" target="_blank">豆瓣</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://zerotogether.net/" title="零聚社区 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零聚社区</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+  </div>
+  <div class="cc-license site-overview-item animated" itemprop="license">
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
+  </div>
+
+
+
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="back-to-top" role="button">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/coding/PyTK-2019-Day10.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="卢华东的个人网站">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          【教孩子学编程】第10天 世界那么大，我想去看看
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2019-02-12 10:53:27" itemprop="dateCreated datePublished" datetime="2019-02-12T10:53:27+08:00">2019-02-12</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2021-10-07 20:47:35" itemprop="dateModified" datetime="2021-10-07T20:47:35+08:00">2021-10-07</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/coding/" itemprop="url" rel="index"><span itemprop="name">coding</span></a>
+        </span>
+    </span>
+
+  
+  
+  <span class="post-meta-item">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">Valine：</span>
+  
+    <a title="valine" href="/coding/PyTK-2019-Day10.html#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/coding/PyTK-2019-Day10.html" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+            <div class="post-description">【教孩子学 Python 编程】系列 Day10：了解如何使用 Python 生成地图</div>
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p><img src="/images/coding/%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9.jpeg"></p>
+<p>今天已经是本期春节特训营的最后一天了，我们讲一些轻松的话题 —— 世界那么大，我们一起去看看吧。</p>
+<p>但是在看世界之前，我们得先熟悉一下世界地图，对我们生活的世界有一个整体认识。刚好，我们可以用 Python 来绘制地图！</p>
+<h2 id="我们的地球"><a href="#我们的地球" class="headerlink" title="我们的地球"></a>我们的地球</h2><p>现在我们都知道地球是一个两极稍扁，赤道略鼓的不规则球体。确切地说，地球是个三轴椭球体，大多数时候，我们可以认为地球是一个十分接近正圆球体的星球。但是，得到这一正确认识却经历了相当漫长的过程。。。</p>
+<p><img src="/images/coding/%E8%9B%A4.jpg"></p>
+<h3 id="地球是圆的"><a href="#地球是圆的" class="headerlink" title="地球是圆的"></a>地球是圆的</h3><p>据说，早在公元前500年前后，古希腊的<strong>毕达哥拉斯</strong>（Pythagoras，约公元前580-500年）就提出了大地是球形的观点。</p>
+<p>古希腊哲学家亚里士多德（Aristotle，公元前384-322年）根据月食时月球上地影是一个圆，科学地论证了地球是个球体。亚里士多德真厉害，每天要花那么多时间写作，还要长时间观察月亮，夜间南北往返，出海远行。</p>
+<p><img src="/images/coding/%E4%BA%9A%E9%87%8C%E5%A3%AB%E5%A4%9A%E5%BE%B7.jpeg"></p>
+<p>除了认为地球是圆的，古代的先知们还精确测出了地球圆周长！</p>
+<p>古埃及希腊裔人<strong>埃拉托斯特尼</strong>（Eratosthenes，公元前276-194年），生长于古埃及托勒密王朝时期，该王朝是亚历山大大帝的部将托勒密所建的。40岁时，埃拉托斯特尼被托勒密三世任命为亚历山大图书馆的馆长。</p>
+<p><img src="/images/coding/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86.jpg"></p>
+<p>在任图书馆馆长期间，一天无意间发现了一本纸草的古文书，里面有这么一段话：</p>
+<blockquote>
+<p>靠近尼罗河第一个瀑布的赛印（Syene，今埃及的亚斯文），每年6月21日中午，垂直竖立的柱子没有影子。</p>
+</blockquote>
+<p>这一小段不起眼的叙述，引起他极大兴趣！</p>
+<p><img src="/images/coding/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%E5%9F%8E%E5%92%8C%E8%B5%9B%E5%8D%B0.jpg"></p>
+<p>他做了一个实验：6月21日，在亚历山大城竖立柱子，观察会不会有影子。结果发现柱子有影子。</p>
+<p>亚历山大城在赛印的北边，两地距离颇远，一地柱子有影子，另一地却无。他因此推测，如果地球是完全平的，不会产生这种现象，地球应该是圆的。</p>
+<p><img src="/images/coding/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%E5%9F%8E%E7%9A%84%E6%9F%B1%E5%AD%90.gif"></p>
+<p>6月21日中午，从赛印的井边往下看，可看到太阳完全映在水井底部，此时太阳是位于正上方；同时，在亚历山大城，见到的太阳则有倾斜角。</p>
+<p>埃拉托斯特尼大胆假设地球是圆的，仅使用粗陋的测量工具，以及简单的几何学知识，推算出与实际误差很小的地球圆周长。他由柱子的影子计算出太阳的倾斜角约为7度，也就是说，亚历山大城与赛印的距离，是地球圆周的 7/360。从往来两个城市的商队得知，两地的距离约500斯塔德（stadia，希腊尺寸单位），因此推断出地球圆周长在39690～46629千米之间，与实际地球圆周40008千米非常接近。要知道，那是两千多年前啊。</p>
+<p><img src="/images/coding/%E6%8E%A8%E7%AE%97%E5%9C%B0%E7%90%83%E5%9C%86%E5%91%A8%E9%95%BF.jpg"></p>
+<p>现在我们知道，埃拉托斯特尼做实验的时间其实就是夏至。每年6月21日前后的正午，太阳会直射北回归线，而赛印就位于北回归线附近。因此夏至中午，那里垂直竖立的柱子就不会有影子。</p>
+<p><img src="/images/coding/%E5%A4%8F%E8%87%B3%E5%A4%AA%E9%98%B3%E7%9B%B4%E5%B0%84%E5%8C%97%E5%9B%9E%E5%BD%92%E7%BA%BF.jpg"></p>
+<h3 id="从地心说到日心说"><a href="#从地心说到日心说" class="headerlink" title="从地心说到日心说"></a>从地心说到日心说</h3><p>虽然大家同意地球是圆的，但由于人们每天看到太阳、月亮从东边升起，在西边落下。于是就认为地球是宇宙的中心，日月星辰都是围绕地球运行的天体。</p>
+<p><img src="/images/coding/%E5%9C%B0%E5%BF%83%E8%AF%B4%E7%9A%84%E5%AE%87%E5%AE%99%E6%9E%84%E6%88%90.jpeg"></p>
+<p>后来，罗马帝国时期的天文学家<strong>克罗狄斯·托勒密</strong>（Claudius Ptolemy，90-168年），进一步改进和完善了地心说，使之与天文观测符合得更好，并完成了天文学著作《至大论》，于是地心说成为了当时宇宙观的主流。</p>
+<p><img src="/images/coding/%E5%85%8B%E7%BD%97%E7%8B%84%E6%96%AF-%E6%89%98%E5%8B%92%E5%AF%86.jpeg"></p>
+<p>到了中世纪的欧洲，托勒密的地心说被教会所利用。教会明确提出：上帝生活在原动天，是上帝的推动才使得诸天围绕地球旋转，位于宇宙中心的地球，沐浴在上帝的恩泽之中，在上帝的意志下，所有的星星都向着地球上的人类闪闪发光。</p>
+<p>由于地心说受到教会的支持和保护，随着传教活动而传遍欧洲，人们的头脑中逐渐根深蒂固。在此后一千多年里，几乎没有人再对地心说表示怀疑。</p>
+<p><img src="/images/coding/%E6%8B%BE%E7%A9%97%E8%80%85-%E5%8A%A8%E5%9B%BE.gif"></p>
+<p>直到16-17世纪，才有人开始质疑。首先出场的是波兰人<strong>哥白尼</strong>（Copernicus，1473-1543年），他提出了日心说，认为太阳才是宇宙的中心，地球才是绕着太阳转的。由于当时教皇比较开明，哥白尼论证日心说，并未遭到教皇的反对，但却害怕受到教会的反对和压迫，以至于他的著作《天体运行论》直到1541年才发表。</p>
+<p><img src="/images/coding/%E5%93%A5%E7%99%BD%E5%B0%BC2.jpeg"></p>
+<p>随后而来的是一代大师<strong>伽利略</strong>（Galileo，1564-1642年），这位老哥拿着自制的天文望远镜，朝着月球上一看，哇不得了，发现月球上全是坑。接着一发不可收拾，又观测到很多天文现象。经过严密的推算，伽利略宣告说：日心说是对的！</p>
+<p><img src="/images/coding/%E4%BC%BD%E5%88%A9%E7%95%A5.jpeg"></p>
+<p>要知道当时还处于教会的统治下，为了巩固教会的威望、统一思想，任何发表支持日心说的言论都变得很危险。晚年的伽利略为了活命，被迫写了份声明，声称自己是不承认日心说的。勇敢的科学家<strong>布鲁诺</strong>（Bruno，1548-1600年）因为坚持日心说，被教会活活烧死了。</p>
+<p><img src="/images/coding/%E5%B8%83%E9%B2%81%E8%AF%BA-%E6%97%A5%E5%BF%83%E8%AF%B4.jpeg"></p>
+<p>结束这一切争执的人，就是伟大的<strong>牛顿</strong>（1643-1727年）。一个万有引力定律就把教会的地心说给埋葬了。</p>
+<p><img src="/images/coding/%E7%89%9B%E9%A1%BF.jpeg"></p>
+<h3 id="把世界连成一片"><a href="#把世界连成一片" class="headerlink" title="把世界连成一片"></a>把世界连成一片</h3><p>欧洲文艺复兴以来，航海家也没闲着。1492年，<strong>哥伦布</strong>（1451-1506年）在西班牙王室的资助下，率领船队横渡茫茫无际的大西洋，同年10月12日，哥伦布的船队抵达加勒比海上的一个小岛，从此发现了一个新世界——美洲大陆。正是哥伦布发现美洲的壮举拉开了全球化时代的序幕。</p>
+<p><img src="/images/coding/%E9%A6%96%E6%AC%A1%E5%90%91%E5%85%8B%E9%87%8C%E6%96%AF%E6%89%98%E5%BC%97-%E5%93%A5%E4%BC%A6%E5%B8%83%E8%87%B4%E6%95%AC.jpg"></p>
+<p>1519-1522年，葡萄牙航海探险家<strong>麦哲伦</strong>（1480-1521年）率领船队横渡大西洋，进入太平洋、印度洋、好望角，最后回到欧洲，完成了环球航行。麦哲伦环球航行不仅成功开辟了新航线，还通过他的探险航行证明了地球是一个圆球。可惜在途径菲律宾群岛时，麦哲伦在与菲律宾土人冲突中被杀，无法见证伟大的时刻。</p>
+<p><img src="/images/coding/%E9%BA%A6%E5%93%B2%E4%BC%A6.jpeg"></p>
+<p>新航路的开辟，使得从欧洲到亚洲、美洲和非洲等地的交通往来日益密切，世界开始连成一个整体。欧洲大西洋沿岸工商业经济繁荣起来，促进了资本主义的产生和发展。</p>
+<p><img src="/images/coding/%E9%BA%A6%E5%93%B2%E4%BC%A6%E7%8E%AF%E7%90%83%E8%88%AA%E8%A1%8C.jpeg"></p>
+<h3 id="太空探索"><a href="#太空探索" class="headerlink" title="太空探索"></a>太空探索</h3><p>随着技术的进步，人们开始进行太空探索，陆续从高空、从人造卫星、从月球的角度拍下了地球的照片。其中最著名的是下面这张 “蓝色弹珠”（英文：The Blue Marble）。</p>
+<p><img src="/images/coding/TheBlueMarble.jpg"></p>
+<p>该照片是在1972年12月7日由阿波罗17号太空船船员所拍摄的。当时太空船正运行至距离地球45,000公里（28,000英里）之处。这张照片是迄今为止最广泛流传的照片<strong>。它是少数能把整个地球清晰地拍下来的照片，正因拍摄当时太空船正背向太阳。</strong>此时，对于身在太空船上的太空人来说，地球的大小就像小孩子的玩耍的弹珠一样，因而命名 “蓝色弹珠”。</p>
+<p>是不是感觉似曾相识？没错，微信 App 启动界面上的那个地球就来自于蓝色弹珠。</p>
+<h2 id="用-Python-画地球"><a href="#用-Python-画地球" class="headerlink" title="用 Python 画地球"></a>用 Python 画地球</h2><p>接下来，我们使用 Basemap 包来绘制一些地图。我这里使用 Anaconda 安装，并在 Jupyter Notebook 中运行。打开终端，进入 Anaconda 环境，执行以下命令即可安装 Basemap：</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">conda install basemap</span><br></pre></td></tr></table></figure>
+
+<p>安装好之后就可以马上画一张地图啦～</p>
+<p>切换到工作目录，在终端执行 <code>jupyter notebook</code>，将会在浏览器中打开一个页面，点击新建 Python 3 将会打开一个新的页面，如下所示。今天的代码，我们将在这里输入并运行。</p>
+<p><img src="/images/coding/JupyterNotebook.png"></p>
+<p>输入下面这几行代码：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> matplotlib.pyplot <span class="keyword">as</span> plt</span><br><span class="line"><span class="keyword">from</span> mpl_toolkits.basemap <span class="keyword">import</span> Basemap</span><br><span class="line"></span><br><span class="line">map = Basemap()</span><br><span class="line">map.drawcoastlines()</span><br><span class="line">plt.show()</span><br></pre></td></tr></table></figure>
+
+<p>见证奇迹的时候到了！按 Shift + Enter 运行，你将会看到一张世界地图：</p>
+<p><img src="/images/coding/Basemap%E9%BB%98%E8%AE%A4%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE.png"></p>
+<p>代码中的前两行是导入相应的 Python 库，后三行代码绘制一张最简单的世界地图。</p>
+<p>Basemap 默认的投影方式是 cyl（圆柱等距离投影），我们可以通过传入参数来改变投影方式，比如使用 ortho 正射投影：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">map = Basemap(projection=<span class="string">&#x27;ortho&#x27;</span>, lat_0=<span class="number">0</span>, lon_0=<span class="number">105</span>)</span><br><span class="line">map.drawcoastlines()</span><br><span class="line">plt.show()</span><br></pre></td></tr></table></figure>
+
+<p>另外两个参数 <code>lat_0</code> 和 <code>lon_0</code> 分别表示中心点的经度和纬度，我们知道中国位于东八区，一个时区占经度15°，所以 <code>lon_0=105</code> 的目的是为了让亚洲大陆面向我们。</p>
+<p><img src="/images/coding/ortho%E6%8A%95%E5%BD%B1-%E7%AE%80%E5%8D%95%E5%9C%B0%E5%9B%BE.png"></p>
+<p>即使有新的投影，但地图看上去实在太单调了，我们用一些颜色填充海洋和陆地吧！</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">map = Basemap(projection=<span class="string">&#x27;ortho&#x27;</span>, lat_0=<span class="number">0</span>, lon_0=<span class="number">105</span>)</span><br><span class="line">map.drawmapboundary(fill_color=<span class="string">&#x27;aqua&#x27;</span>)</span><br><span class="line">map.fillcontinents(color=<span class="string">&#x27;coral&#x27;</span>, lake_color=<span class="string">&#x27;aqua&#x27;</span>)</span><br><span class="line">map.drawcoastlines()</span><br><span class="line">plt.show()</span><br></pre></td></tr></table></figure>
+
+<p>海洋和湖泊填上海蓝色 aqua，陆地填上珊瑚色 coral：</p>
+<p><img src="/images/coding/ortho%E6%8A%95%E5%BD%B1-%E6%B7%BB%E5%8A%A0%E9%A2%9C%E8%89%B2.png"></p>
+<p>但地图仍然有点空，在 <code>plt.show()</code> 前面加上下面这行代码，在地图上描绘国界：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">map.drawcountries()</span><br></pre></td></tr></table></figure>
+
+<p><img src="/images/coding/ortho%E6%8A%95%E5%BD%B1-%E6%B7%BB%E5%8A%A0%E9%A2%9C%E8%89%B2%E5%92%8C%E5%9B%BD%E7%95%8C.png"></p>
+<p>如果觉得这样不够真实，我们可以直接采用 NASA 的 “蓝色弹珠” 风格作为地图背景：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">map = Basemap(projection=<span class="string">&#x27;ortho&#x27;</span>, lat_0=<span class="number">0</span>, lon_0=<span class="number">105</span>)</span><br><span class="line">map.bluemarble()</span><br><span class="line">plt.show()</span><br></pre></td></tr></table></figure>
+
+<p><img src="/images/coding/ortho%E6%8A%95%E5%BD%B1-bluemarble%E8%83%8C%E6%99%AF.png"></p>
+<p>ortho 投影方式虽然看上去更真实，但不利于我们在一个平面上查看，所以我们接着使用 cyl 投影方式来展示。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">plt.figure(figsize=(<span class="number">16</span>,<span class="number">8</span>))</span><br><span class="line"></span><br><span class="line">map = Basemap(projection=<span class="string">&#x27;cyl&#x27;</span>)</span><br><span class="line">map.drawcoastlines()</span><br><span class="line">map.drawrivers()</span><br><span class="line">map.bluemarble()</span><br><span class="line">plt.show()</span><br></pre></td></tr></table></figure>
+
+<p>第一行代码的作用是设置画布大小，这样看起来舒服点～ 七大洲四大洋都一目了然啦，哈哈！</p>
+<p><img src="/images/coding/cyl%E6%8A%95%E5%BD%B1-%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE-bluemarble.png"></p>
+<p>为了清晰得观察政治边界，暂时还是把 bluemarble 背景去掉吧。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">plt.figure(figsize=(<span class="number">16</span>,<span class="number">8</span>))</span><br><span class="line">map = Basemap()</span><br><span class="line">map.drawcoastlines()</span><br><span class="line">map.drawcountries()</span><br><span class="line">plt.show()</span><br></pre></td></tr></table></figure>
+
+<p>只留下海岸线和国界：</p>
+<p><img src="/images/coding/cyl%E6%8A%95%E5%BD%B1-%E6%B7%BB%E5%8A%A0%E5%9B%BD%E7%95%8C.png"></p>
+<h2 id="用-Python-画中国地图"><a href="#用-Python-画中国地图" class="headerlink" title="用 Python 画中国地图"></a>用 Python 画中国地图</h2><p>世界太大了，一时间看不完，还是先把焦点放在我们亲爱的祖国身上吧！通过查阅资料，我们了解到中国最东端是东经135度，最西端是东经73度，最北端是北纬53度，最南端是北纬3度。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">plt.figure(figsize=(<span class="number">16</span>,<span class="number">8</span>))</span><br><span class="line">map = Basemap(llcrnrlon=<span class="number">72</span>, llcrnrlat=<span class="number">3</span>, urcrnrlon=<span class="number">136</span>, urcrnrlat=<span class="number">54</span>)</span><br><span class="line">map.drawcoastlines()</span><br><span class="line">map.drawcountries(linewidth=<span class="number">1.5</span>)</span><br><span class="line"></span><br><span class="line">plt.show()</span><br></pre></td></tr></table></figure>
+
+<p>看上去有点奇怪，原因是默认的投影 cyl 是圆柱等距离投影，高纬度地区被横向拉长了。</p>
+<p><img src="/images/coding/cyl%E6%8A%95%E5%BD%B1-%E4%B8%AD%E5%9B%BD.png"></p>
+<p>好吧，我们换成 lcc 兰勃特投影，同时需要额外添加几个参数：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">plt.figure(figsize=(<span class="number">16</span>,<span class="number">8</span>))</span><br><span class="line">m = Basemap(llcrnrlon=<span class="number">77</span>, llcrnrlat=<span class="number">14</span>, urcrnrlon=<span class="number">140</span>, urcrnrlat=<span class="number">51</span>, projection=<span class="string">&#x27;lcc&#x27;</span>, lat_1=<span class="number">33</span>, lat_2=<span class="number">45</span>, lon_0=<span class="number">100</span>)</span><br><span class="line">m.drawcoastlines()</span><br><span class="line">m.drawcountries(linewidth=<span class="number">1.5</span>)</span><br><span class="line"></span><br><span class="line">plt.show()</span><br></pre></td></tr></table></figure>
+
+<p>这样看上去正常一些：</p>
+<p><img src="/images/coding/lcc%E6%8A%95%E5%BD%B1-%E4%B8%AD%E5%9B%BD.png"></p>
+<p>我们想把中国的省份划分出来，可以导入对应的 shapefile 文件，相应的文件资源我已经上传至百度网盘：</p>
+<p>链接: <a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1RTVl45frSaOZnHzEm_2JeA">https://pan.baidu.com/s/1RTVl45frSaOZnHzEm_2JeA</a> 提取码: 98ff </p>
+<p>下载并解压 shapefile 资源文件，注意路径哦！然后在 <code>plt.show()</code> 前面加上下面这一行代码：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">m.readshapefile(<span class="string">&#x27;gadm36_CHN_shp/gadm36_CHN_1&#x27;</span>, <span class="string">&#x27;states&#x27;</span>, drawbounds=<span class="literal">True</span>)</span><br></pre></td></tr></table></figure>
+
+<p><img src="/images/coding/lcc%E6%8A%95%E5%BD%B1-%E4%B8%AD%E5%9B%BD%E7%9C%81%E4%BB%BD.png"></p>
+<p>给我们的祖国涂上中国红，中国红对应的颜色值是 <code>RGB(230,0,0)</code>，转成十六进制就是 E60000。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">plt.figure(figsize=(<span class="number">16</span>,<span class="number">8</span>))</span><br><span class="line">m = Basemap(llcrnrlon=<span class="number">77</span>, llcrnrlat=<span class="number">14</span>, urcrnrlon=<span class="number">140</span>, urcrnrlat=<span class="number">51</span>, projection=<span class="string">&#x27;lcc&#x27;</span>, lat_1=<span class="number">33</span>, lat_2=<span class="number">45</span>, lon_0=<span class="number">100</span>)</span><br><span class="line">m.drawcoastlines()</span><br><span class="line">m.drawcountries(linewidth=<span class="number">1.5</span>)</span><br><span class="line">m.readshapefile(<span class="string">&#x27;gadm36_CHN_shp/gadm36_CHN_1&#x27;</span>, <span class="string">&#x27;states&#x27;</span>, drawbounds=<span class="literal">True</span>)</span><br><span class="line"></span><br><span class="line"><span class="keyword">from</span> matplotlib.patches <span class="keyword">import</span> Polygon</span><br><span class="line"></span><br><span class="line">ax = plt.gca()</span><br><span class="line"><span class="keyword">for</span> nshape, seg <span class="keyword">in</span> enumerate(m.states):</span><br><span class="line">    poly = Polygon(seg, facecolor=<span class="string">&#x27;#E60000&#x27;</span>)</span><br><span class="line">    ax.add_patch(poly)</span><br></pre></td></tr></table></figure>
+
+
+
+<p><img src="/images/coding/lcc%E6%8A%95%E5%BD%B1-%E4%B8%AD%E5%9B%BD%E7%9C%81%E4%BB%BD-%E4%B8%AD%E5%9B%BD%E7%BA%A2.png"></p>
+<p>我们惊讶的发现，居然不包含台湾！台湾是中华人民共和国不可分割的领土，小卢老师决定在这里收复台湾啦！</p>
+<p>百度网盘上还有一份台湾的 shapefile 资源，下载并解压，我们把它补上：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">plt.figure(figsize=(<span class="number">16</span>,<span class="number">8</span>))</span><br><span class="line">m = Basemap(llcrnrlon=<span class="number">77</span>, llcrnrlat=<span class="number">14</span>, urcrnrlon=<span class="number">140</span>, urcrnrlat=<span class="number">51</span>, projection=<span class="string">&#x27;lcc&#x27;</span>, lat_1=<span class="number">33</span>, lat_2=<span class="number">45</span>, lon_0=<span class="number">100</span>)</span><br><span class="line">m.drawcoastlines()</span><br><span class="line">m.drawcountries(linewidth=<span class="number">1.5</span>)</span><br><span class="line">m.readshapefile(<span class="string">&#x27;gadm36_CHN_shp/gadm36_CHN_1&#x27;</span>, <span class="string">&#x27;states&#x27;</span>, drawbounds=<span class="literal">True</span>)</span><br><span class="line"></span><br><span class="line"><span class="keyword">from</span> matplotlib.patches <span class="keyword">import</span> Polygon</span><br><span class="line"></span><br><span class="line">ax = plt.gca()</span><br><span class="line"><span class="keyword">for</span> nshape, seg <span class="keyword">in</span> enumerate(m.states):</span><br><span class="line">    poly = Polygon(seg, facecolor=<span class="string">&#x27;#E60000&#x27;</span>)</span><br><span class="line">    ax.add_patch(poly)</span><br><span class="line">    </span><br><span class="line">m.readshapefile(<span class="string">&#x27;gadm36_TWN_shp/gadm36_TWN_0&#x27;</span>, <span class="string">&#x27;taiwan&#x27;</span>, drawbounds=<span class="literal">True</span>)</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> nshape, seg <span class="keyword">in</span> enumerate(m.taiwan):</span><br><span class="line">    poly = Polygon(seg, facecolor=<span class="string">&#x27;#E60000&#x27;</span>)</span><br><span class="line">    ax.add_patch(poly)</span><br></pre></td></tr></table></figure>
+
+<p>好啦，我们用代码实现了祖国的统一！</p>
+<p><img src="/images/coding/lcc%E6%8A%95%E5%BD%B1-%E4%B8%AD%E5%9B%BD%E7%9C%81%E4%BB%BD-%E4%B8%AD%E5%9B%BD%E7%BA%A2-%E5%90%AB%E5%8F%B0%E6%B9%BE.png"></p>
+<p>百度网盘中有一份2010年中国大陆的人口统计数据，我们可以将其中的人口数据展示到地图上，直观地看看中国的人口分布情况。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> matplotlib.pyplot <span class="keyword">as</span> plt</span><br><span class="line"><span class="keyword">from</span> mpl_toolkits.basemap <span class="keyword">import</span> Basemap</span><br><span class="line"><span class="keyword">from</span> matplotlib.patches <span class="keyword">import</span> Polygon</span><br><span class="line"><span class="keyword">from</span> matplotlib.colors <span class="keyword">import</span> rgb2hex</span><br><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br><span class="line"><span class="keyword">import</span> pandas <span class="keyword">as</span> pd</span><br><span class="line"></span><br><span class="line">plt.figure(figsize=(<span class="number">16</span>,<span class="number">8</span>))</span><br><span class="line">m = Basemap(llcrnrlon=<span class="number">77</span>, llcrnrlat=<span class="number">14</span>, urcrnrlon=<span class="number">140</span>, urcrnrlat=<span class="number">51</span>, projection=<span class="string">&#x27;lcc&#x27;</span>, lat_1=<span class="number">33</span>, lat_2=<span class="number">45</span>, lon_0=<span class="number">100</span>)</span><br><span class="line">m.drawcountries(linewidth=<span class="number">1.5</span>)</span><br><span class="line">m.drawcoastlines()</span><br><span class="line"></span><br><span class="line">m.readshapefile(<span class="string">&#x27;gadm36_CHN_shp/gadm36_CHN_1&#x27;</span>, <span class="string">&#x27;states&#x27;</span>, drawbounds=<span class="literal">True</span>)</span><br><span class="line"></span><br><span class="line">df = pd.read_csv(<span class="string">&#x27;data/2010年各地区户数人口数和性别比.csv&#x27;</span>)</span><br><span class="line">df[<span class="string">&#x27;省名&#x27;</span>] = df.地区.str[:<span class="number">2</span>]</span><br><span class="line">df.set_index(<span class="string">&#x27;省名&#x27;</span>, inplace=<span class="literal">True</span>)</span><br><span class="line"></span><br><span class="line">statenames=[]</span><br><span class="line">colors=&#123;&#125;</span><br><span class="line">cmap = plt.cm.YlOrRd</span><br><span class="line">vmax = <span class="number">100000000</span></span><br><span class="line">vmin = <span class="number">3000000</span></span><br><span class="line"><span class="keyword">for</span> shapedict <span class="keyword">in</span> m.states_info:</span><br><span class="line">    statename = shapedict[<span class="string">&#x27;NL_NAME_1&#x27;</span>]</span><br><span class="line">    p = statename.split(<span class="string">&#x27;|&#x27;</span>)</span><br><span class="line">    <span class="keyword">if</span> len(p) &gt; <span class="number">1</span>:</span><br><span class="line">        s = p[<span class="number">1</span>]</span><br><span class="line">    <span class="keyword">else</span>:</span><br><span class="line">        s = p[<span class="number">0</span>]</span><br><span class="line">    s = s[:<span class="number">2</span>]</span><br><span class="line">    <span class="keyword">if</span> s == <span class="string">&#x27;黑龍&#x27;</span>:</span><br><span class="line">        s = <span class="string">&#x27;黑龙&#x27;</span></span><br><span class="line">    statenames.append(s)</span><br><span class="line">    pop = df[<span class="string">&#x27;人口数&#x27;</span>][s]</span><br><span class="line">    colors[s] = cmap(np.sqrt((pop - vmin) / (vmax - vmin)))[:<span class="number">3</span>]</span><br><span class="line"></span><br><span class="line">ax = plt.gca()</span><br><span class="line"><span class="keyword">for</span> nshape, seg <span class="keyword">in</span> enumerate(m.states):</span><br><span class="line">    color = rgb2hex(colors[statenames[nshape]])</span><br><span class="line">    poly = Polygon(seg, facecolor=color, edgecolor=color)</span><br><span class="line">    ax.add_patch(poly)</span><br><span class="line"></span><br><span class="line">plt.show()</span><br></pre></td></tr></table></figure>
+
+<p>可以看到，我国人口分布情况是<strong>东多西少</strong>，沿海经济发达地区人口明显更多，其中河南、山东、广东、四川这几个省份人口最多。</p>
+<p><img src="/images/coding/lcc%E6%8A%95%E5%BD%B1-%E4%B8%AD%E5%9B%BD-%E4%BA%BA%E5%8F%A3%E5%88%86%E6%9E%90.png"></p>
+<h2 id="在地图上展示数据"><a href="#在地图上展示数据" class="headerlink" title="在地图上展示数据"></a>在地图上展示数据</h2><p>世界那么大，是不是怎么看都意犹未尽？由于 Basemap 绘制的是静态地图，展示数据时比较麻烦，接下来我们使用 pyecharts 再来做一些有趣的地图。</p>
+<p>如果还没有安装 pyecharts 环境，则在 Anaconda 环境下执行以下命令即可：</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">pip install pyecharts</span><br><span class="line">pip install pyecharts-snapshot</span><br></pre></td></tr></table></figure>
+
+<p>另外还需要安装一些地图包：</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">pip install echarts-countries-pypkg</span><br><span class="line">pip install echarts-china-provinces-pypkg</span><br><span class="line">pip install echarts-china-cities-pypkg</span><br><span class="line">pip install echarts-china-counties-pypkg</span><br></pre></td></tr></table></figure>
+
+<h3 id="世界地图"><a href="#世界地图" class="headerlink" title="世界地图"></a>世界地图</h3><p>还是在 Jupyter Notebook 中写代码，先来画一张简单的世界地图，并给面积最大的5个国家涂上颜色。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> pyecharts <span class="keyword">import</span> Map</span><br><span class="line"></span><br><span class="line">value = [<span class="number">95.1</span>, <span class="number">23.2</span>, <span class="number">43.3</span>, <span class="number">66.4</span>, <span class="number">88.5</span>]</span><br><span class="line">attr = [<span class="string">&quot;China&quot;</span>, <span class="string">&quot;Canada&quot;</span>, <span class="string">&quot;Brazil&quot;</span>, <span class="string">&quot;Russia&quot;</span>, <span class="string">&quot;United States&quot;</span>]</span><br><span class="line"></span><br><span class="line">map = Map(<span class="string">&quot;世界地图示例&quot;</span>, width=<span class="number">1200</span>, height=<span class="number">600</span>)</span><br><span class="line">map.add(<span class="string">&quot;世界地图&quot;</span>, attr, value, maptype=<span class="string">&quot;world&quot;</span>, </span><br><span class="line">         is_visualmap=<span class="literal">True</span>, visual_text_color=<span class="string">&#x27;#000&#x27;</span>)</span><br><span class="line">map.render(path=<span class="string">&quot;./data/世界地图.html&quot;</span>)</span><br></pre></td></tr></table></figure>
+
+<p>在浏览器中打开该 HTML 页面：</p>
+<p><img src="/images/coding/pyecharts-%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE%E7%A4%BA%E4%BE%8B.png"></p>
+<h3 id="中国红包地图"><a href="#中国红包地图" class="headerlink" title="中国红包地图"></a>中国红包地图</h3><p>春节刚过去不久，我在网上找了一些关于各省份红包大小的数据，我们一起来绘制一张<strong>中国红包地图</strong>。</p>
+<p><img src="/images/coding/%E7%BA%A2%E5%8C%85%E4%BD%BF%E4%B8%8D%E5%BE%97.jpeg"></p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">data = &#123;<span class="string">&#x27;河南&#x27;</span>:<span class="number">400</span>, <span class="string">&#x27;北京&#x27;</span>:<span class="number">2900</span>, <span class="string">&#x27;河北&#x27;</span>:<span class="number">800</span>, <span class="string">&#x27;辽宁&#x27;</span>:<span class="number">500</span>, <span class="string">&#x27;江西&#x27;</span>:<span class="number">500</span>, </span><br><span class="line">        <span class="string">&#x27;上海&#x27;</span>:<span class="number">1600</span>, <span class="string">&#x27;安徽&#x27;</span>:<span class="number">800</span>, <span class="string">&#x27;江苏&#x27;</span>:<span class="number">1000</span>, <span class="string">&#x27;湖南&#x27;</span>:<span class="number">800</span>, <span class="string">&#x27;浙江&#x27;</span>:<span class="number">3100</span>, </span><br><span class="line">        <span class="string">&#x27;海南&#x27;</span>:<span class="number">400</span>, <span class="string">&#x27;湖北&#x27;</span>:<span class="number">400</span>, <span class="string">&#x27;黑龙江&#x27;</span>:<span class="number">500</span>, <span class="string">&#x27;四川&#x27;</span>:<span class="number">800</span>, <span class="string">&#x27;重庆&#x27;</span>:<span class="number">500</span>, </span><br><span class="line">        <span class="string">&#x27;广东&#x27;</span>:<span class="number">50</span>, <span class="string">&#x27;澳门&#x27;</span>:<span class="number">600</span>, <span class="string">&#x27;香港&#x27;</span>:<span class="number">850</span>, <span class="string">&#x27;台湾&#x27;</span>: <span class="number">660</span>, <span class="string">&#x27;陕西&#x27;</span>:<span class="number">400</span>,</span><br><span class="line">        <span class="string">&#x27;内蒙古&#x27;</span>:<span class="number">300</span>, <span class="string">&#x27;云南&#x27;</span>:<span class="number">400</span>, <span class="string">&#x27;贵州&#x27;</span>:<span class="number">300</span>, <span class="string">&#x27;吉林&#x27;</span>:<span class="number">500</span>, <span class="string">&#x27;山西&#x27;</span>:<span class="number">300</span>, </span><br><span class="line">        <span class="string">&#x27;山东&#x27;</span>:<span class="number">800</span>, <span class="string">&#x27;福建&#x27;</span>:<span class="number">3500</span>, <span class="string">&#x27;青海&#x27;</span>:<span class="number">300</span>, <span class="string">&#x27;天津&#x27;</span>:<span class="number">1000</span>, <span class="string">&#x27;西藏&#x27;</span>:<span class="number">300</span>, </span><br><span class="line">        <span class="string">&#x27;新疆&#x27;</span>:<span class="number">500</span>, <span class="string">&#x27;甘肃&#x27;</span>:<span class="number">400</span>, <span class="string">&#x27;宁夏&#x27;</span>:<span class="number">500</span>, <span class="string">&#x27;广西&#x27;</span>:<span class="number">300</span>&#125;</span><br><span class="line"></span><br><span class="line">province = list(data.keys())</span><br><span class="line">values = list(data.values())</span><br><span class="line"></span><br><span class="line">map = Map(<span class="string">&quot;全国压岁钱地图&quot;</span>, <span class="string">&#x27;中国地图&#x27;</span>, width=<span class="number">1000</span>, height=<span class="number">800</span>)</span><br><span class="line"><span class="comment"># maptype=&#x27;china&#x27;</span></span><br><span class="line">map.add(<span class="string">&quot;&quot;</span>, province, values, visual_range=[<span class="number">0</span>, <span class="number">1000</span>], maptype=<span class="string">&#x27;china&#x27;</span>, </span><br><span class="line">        is_visualmap=<span class="literal">True</span>, visual_text_color=<span class="string">&#x27;#000&#x27;</span>, is_label_show=<span class="literal">True</span>)</span><br><span class="line"><span class="comment">#map.show_config()</span></span><br><span class="line">map.render(path=<span class="string">&quot;./data/中国地图.html&quot;</span>)</span><br></pre></td></tr></table></figure>
+
+<p>在浏览器中打开该 HTML 页面：</p>
+<p><img src="/images/coding/pyecharts-%E5%85%A8%E5%9B%BD%E5%8E%8B%E5%B2%81%E9%92%B1%E5%9C%B0%E5%9B%BE.png"></p>
+<p>小卢老师到现在都还没发家致富，可能就是因为广东的红包太小啦！</p>
+<p><img src="/images/coding/%E7%BB%99%E4%BD%A0%E8%B7%AA%E4%BA%86.gif"></p>
+<h3 id="广东省人均-GDP-排名"><a href="#广东省人均-GDP-排名" class="headerlink" title="广东省人均 GDP 排名"></a>广东省人均 GDP 排名</h3><p>我在网上找了一份<strong>2018年广东省各城市人均 GDP 排名</strong>的数据，我们把这些数据画出来。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 广东省 2018年人均 GDP 排名</span></span><br><span class="line">cities = [<span class="string">&#x27;深圳市&#x27;</span>, <span class="string">&#x27;珠海市&#x27;</span>, <span class="string">&#x27;广州市&#x27;</span>, <span class="string">&#x27;佛山市&#x27;</span>, <span class="string">&#x27;中山市&#x27;</span>, <span class="string">&#x27;东莞市&#x27;</span>, <span class="string">&#x27;惠州市&#x27;</span>, </span><br><span class="line">        <span class="string">&#x27;江门市&#x27;</span>, <span class="string">&#x27;肇庆市&#x27;</span>, <span class="string">&#x27;阳江市&#x27;</span>, <span class="string">&#x27;茂名市&#x27;</span>, <span class="string">&#x27;韶关市&#x27;</span>, <span class="string">&#x27;汕头市&#x27;</span>, <span class="string">&#x27;湛江市&#x27;</span>, </span><br><span class="line">        <span class="string">&#x27;清远市&#x27;</span>, <span class="string">&#x27;潮州市&#x27;</span>, <span class="string">&#x27;揭阳市&#x27;</span>, <span class="string">&#x27;云浮市&#x27;</span>, <span class="string">&#x27;河源市&#x27;</span>, <span class="string">&#x27;汕尾市&#x27;</span>, <span class="string">&#x27;梅州市&#x27;</span>]</span><br><span class="line"><span class="comment"># 单位：万元（人民币）</span></span><br><span class="line">avgGDP = [<span class="number">19.33</span>, <span class="number">16.51</span>, <span class="number">15.77</span>, <span class="number">12.98</span>, <span class="number">11.14</span>,  <span class="number">9.92</span>,  <span class="number">8.59</span>, </span><br><span class="line">           <span class="number">6.36</span>,  <span class="number">5.35</span>,  <span class="number">5.31</span>,  <span class="number">4.98</span>,  <span class="number">4.51</span>,  <span class="number">4.48</span>,  <span class="number">4.12</span>, </span><br><span class="line">           <span class="number">4.05</span>,  <span class="number">4.03</span>,  <span class="number">3.54</span>,  <span class="number">3.39</span>,  <span class="number">3.25</span>,  <span class="number">3.01</span>,  <span class="number">2.54</span>]</span><br><span class="line"></span><br><span class="line">map = Map(<span class="string">&#x27;2018年广东各城市人均GDP排名&#x27;</span>,<span class="string">&#x27;广东地图&#x27;</span>, width=<span class="number">1000</span>, height=<span class="number">800</span>)</span><br><span class="line">map.add(<span class="string">&#x27;广东&#x27;</span>, cities, avgGDP, visual_range=[<span class="number">0</span>, <span class="number">20</span>], maptype=<span class="string">&#x27;广东&#x27;</span>, </span><br><span class="line">         is_visualmap=<span class="literal">True</span>, visual_text_color=<span class="string">&#x27;#000&#x27;</span>, is_label_show=<span class="literal">True</span>)</span><br><span class="line"></span><br><span class="line">map.render(path=<span class="string">&quot;./data/广东地图.html&quot;</span>)</span><br></pre></td></tr></table></figure>
+
+<p>噔噔噔，果然是粤港澳大湾区最红～</p>
+<p><img src="/images/coding/pyecharts-2018%E5%B9%B4%E5%B9%BF%E4%B8%9C%E5%90%84%E5%9F%8E%E5%B8%82%E4%BA%BA%E5%9D%87GDP%E6%8E%92%E5%90%8D.png"></p>
+<h3 id="清远房价地图"><a href="#清远房价地图" class="headerlink" title="清远房价地图"></a>清远房价地图</h3><p>再来看看我们的家乡清远，我找到了<strong>2019年2月份清远市各县区平均房价</strong>数据。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">counties = [<span class="string">&#x27;清城区&#x27;</span>, <span class="string">&#x27;清新区&#x27;</span>, <span class="string">&#x27;佛冈县&#x27;</span>, <span class="string">&#x27;英德市&#x27;</span>, <span class="string">&#x27;阳山县&#x27;</span>, </span><br><span class="line">            <span class="string">&#x27;连州市&#x27;</span>, <span class="string">&#x27;连南瑶族自治县&#x27;</span>, <span class="string">&#x27;连山壮族瑶族自治县&#x27;</span>]</span><br><span class="line"></span><br><span class="line"><span class="comment"># 2019年2月各县区房价排行</span></span><br><span class="line">prices = [<span class="number">9343</span>, <span class="number">8172</span>, <span class="number">7950</span>, <span class="number">7360</span>, <span class="number">6500</span>, <span class="number">6383</span>, <span class="number">4000</span>, <span class="number">4000</span>]</span><br><span class="line"></span><br><span class="line">map = Map(<span class="string">&#x27;2019年2月各县区房价热力图&#x27;</span>,<span class="string">&#x27;清远地图&#x27;</span>, width=<span class="number">1000</span>, height=<span class="number">800</span>)</span><br><span class="line">map.add(<span class="string">&quot;清远&quot;</span>, counties, prices, visual_range=[<span class="number">4000</span>, <span class="number">11000</span>], maptype=<span class="string">&#x27;清远&#x27;</span>, </span><br><span class="line">         is_visualmap=<span class="literal">True</span>, visual_text_color=<span class="string">&#x27;#000&#x27;</span>, is_label_show=<span class="literal">True</span>)</span><br><span class="line">map.render(path=<span class="string">&quot;./data/清远地图.html&quot;</span>)</span><br></pre></td></tr></table></figure>
+
+<p>由于连南和连山两个少数名族自治县的房地产不发达，于是我瞎编了个4000元。整体来看，从北往南，也就是说，越靠近大湾区的地方房价就越高，未来的发展速度也越快。</p>
+<p><img src="/images/coding/pyecharts-2019%E5%B9%B42%E6%9C%88%E5%90%84%E5%8E%BF%E5%8C%BA%E6%88%BF%E4%BB%B7%E7%83%AD%E5%8A%9B%E5%9B%BE.png"></p>
+<p>既然说到房子，顺便打个广告吧～</p>
+<p>买房置业，定制家具的可以找我大姐！</p>
+<img src="/images/coding/广告-大姐.jpeg" width="200" />
+
+<p>新房、二手房交易，家居装修的可以找我二姐！</p>
+<img src="/images/coding/广告-二姐.jpeg" width="200" />
+
+<p>学编程、聊人生、谈理想、做环保、哈哈哈的可以找我！</p>
+<img src="/images/coding/广告-大哥.jpeg" width="200" />
+
+<p>划红色圈圈的地方都是我们的业务范围！</p>
+<img src="/images/coding/广告-业务范围.jpeg" width="200" />
+
+
+<p>唔。。。</p>
+<p><img src="/images/coding/%E5%8F%91%E7%8E%B0%E4%BD%9C%E4%B8%9A%E8%BF%98%E6%B2%A1%E5%86%99.jpeg"></p>
+<h2 id="作业"><a href="#作业" class="headerlink" title="作业"></a>作业</h2><p>（1）细心的你可能发现，在 Basemap 绘制的中国地图上，除了台湾，其实藏南地区也没有画上。请上网查阅资料，了解为什么台湾和藏南地区的主权归属存在争议？</p>
+<p>（2）中国是全球人口最多的国家，思考一下，人口增长可能会对环境和我们的日常生活造成什么影响？</p>
+<p>（3）绘制你所在省份的地图，看看周边都有哪些城市，说说你对这些城市的印象。</p>
+<p>（4）思考气候变化可能会对我们日常生活造成什么影响。</p>
+<h2 id="思考"><a href="#思考" class="headerlink" title="思考"></a>思考</h2><ol>
+<li>为什么地球是圆的，但是地面却是平的？<br>答：因为我们人类太渺小了！</li>
+<li>为什么使用国外的数据时，台湾和藏南地区存在问题？<br>答：历史原因。</li>
+<li>世界观是什么？<br>答：世界观，也叫宇宙观，是一个人对整个世界的根本看法，世界观建立于一个人对自然、人生、社会和精神的、科学的、系统的、丰富的认识基础上，它包括自然观、社会观、人生观、价值观。世界观不仅仅是认识问题，而且还包括坚定的信念和积极的行动。</li>
+</ol>
+<h2 id="附录"><a href="#附录" class="headerlink" title="附录"></a>附录</h2><h3 id="地图投影"><a href="#地图投影" class="headerlink" title="地图投影"></a>地图投影</h3><p>地图投影（Map Projection）是利用一定数学法则把地球表面的经、纬线转换到平面上的理论和方法。</p>
+<p>由于地球是一个赤道略宽、两极略扁的不规则的梨形球体，故其表面是一个不可展平的曲面，所以运用任何数学方法进行这种转换都会产生误差和变形，为按照不同的需求缩小误差，就产生了各种投影方法。</p>
+<p>地图投影是把地球表面的任意点，利用一定数学法则，转换到地图平面上的理论和方法。</p>
+<p>书面概念化定义：地图投影就是指建立地球表面（或其他星球表面或天球面）上的点与投影平面（即地图平面）上点之间的一一对应关系的方法。即建立之间的数学转换公式。它将作为一个不可展平的曲面即地球表面投影到一个平面的基本方法，保证了空间信息在区域上的联系与完整。这个投影过程将产生投影变形，而且不同的投影方法具有不同性质和大小的投影变形。</p>
+<p>常用的投影方法有：</p>
+<ul>
+<li>墨卡托投影（正轴等角圆柱投影）</li>
+<li>高斯-克吕格投影</li>
+<li>斜轴等面积方位投影</li>
+<li>双标准纬线等角圆锥投影</li>
+<li>等差分纬线多圆锥投影</li>
+<li>正轴方位投影</li>
+</ul>
+<h3 id="领土问题"><a href="#领土问题" class="headerlink" title="领土问题"></a>领土问题</h3><p>以下为历史上属于中国，但自近代在列强侵略战争中所失去的领土。现今的中华人民共和国政府不再宣称对其拥有主权。</p>
+<ul>
+<li><strong>外东北</strong>：是指夹在外兴安岭（斯塔诺夫山脉）、鲸海（日本海）、鄂霍次克海、黑龙江、乌苏里江之间的，包括江东六十四屯和库页岛在内一百多万平方公里的地区。</li>
+<li><strong>唐努乌梁海</strong>：地处外蒙古西北部，北靠萨彦岭，南抵唐努山，是位于两山之间的狭长地带，总面积约17万平方公里。</li>
+<li><strong>巴尔喀什湖地区</strong>：巴尔喀什湖原是中国的西部疆界。</li>
+</ul>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ul>
+<li><a target="_blank" rel="noopener" href="https://cloud.tencent.com/developer/news/238175">基于Python轻松绘制地图</a></li>
+<li><a target="_blank" rel="noopener" href="https://www.cnblogs.com/keqipu/p/7283991.html">Python框架-pygal之世界地图</a></li>
+<li><a target="_blank" rel="noopener" href="https://blog.csdn.net/zfy2072151/article/details/86684116">https://blog.csdn.net/zfy2072151/article/details/86684116</a></li>
+<li><a target="_blank" rel="noopener" href="https://blog.csdn.net/byc233518/article/details/79800623">https://blog.csdn.net/byc233518/article/details/79800623</a></li>
+<li><a target="_blank" rel="noopener" href="https://blog.csdn.net/pengranxindong/article/details/79136486">Basemap手册——第一章入门（始于颜值）</a></li>
+<li><a target="_blank" rel="noopener" href="https://segmentfault.com/a/1190000010900212">用Python画中国地图（二）</a></li>
+<li><a target="_blank" rel="noopener" href="https://blog.csdn.net/u011596455/article/details/79621758">Basemap绘制地图</a></li>
+<li><a target="_blank" rel="noopener" href="https://basemaptutorial.readthedocs.io/en/latest/plotting_data.html">Basemap tutorial 0.1 documentation</a></li>
+<li><a target="_blank" rel="noopener" href="https://gisstudio.wordpress.com/">The GIS Studio</a></li>
+<li><a target="_blank" rel="noopener" href="http://www.stats.gov.cn/tjsj/pcsj/rkpc/6rp/indexce.htm">中国2010年人口普查资料</a></li>
+</ul>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          <div class="reward-container">
+  <div>您的鼓励是我最大的动力！</div>
+  <button onclick="document.querySelector('.post-reward').classList.toggle('active');">
+    赞赏
+  </button>
+  <div class="post-reward">
+      <div>
+        <img src="/images/wechatpay.jpeg" alt="Rudy Lo 微信">
+        <span>微信</span>
+      </div>
+      <div>
+        <img src="/images/alipay.jpeg" alt="Rudy Lo 支付宝">
+        <span>支付宝</span>
+      </div>
+
+  </div>
+</div>
+
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>本文作者： </strong>Rudy Lo
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接：</strong>
+      <a href="https://luhuadong.com/coding/PyTK-2019-Day10.html" title="【教孩子学编程】第10天 世界那么大，我想去看看">https://luhuadong.com/coding/PyTK-2019-Day10.html</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/Python/" rel="tag"># Python</a>
+              <a href="/tags/%E6%95%99%E5%AD%A9%E5%AD%90%E5%AD%A6%E7%BC%96%E7%A8%8B/" rel="tag"># 教孩子学编程</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/coding/PyTK-2019-Day09.html" rel="prev" title="【教孩子学编程】第9天 老师的点名神器">
+                  <i class="fa fa-chevron-left"></i> 【教孩子学编程】第9天 老师的点名神器
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/fitness/fitness-basics.html" rel="next" title="健身基础入门">
+                  健身基础入门 <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="valine-comments"></div>
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      const commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+  
+
+
+
+
+  <script>
+  if (typeof MathJax === 'undefined') {
+    window.MathJax = {
+      tex: {
+        inlineMath: {'[+]': [['$', '$']]},
+        tags: 'none'
+      },
+      options: {
+        renderActions: {
+          insertedScript: [200, () => {
+            document.querySelectorAll('mjx-container').forEach(node => {
+              const target = node.parentNode;
+              if (target.nodeName.toLowerCase() === 'li') {
+                target.parentNode.classList.add('has-jax');
+              }
+            });
+          }, '', false]
+        }
+      }
+    };
+    const script = document.createElement('script');
+    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
+    script.defer = true;
+    document.head.appendChild(script);
+  } else {
+    MathJax.startup.document.state(0);
+    MathJax.typesetClear();
+    MathJax.texReset();
+    MathJax.typeset();
+  }
+</script>
+
+
+
+<script>
+NexT.utils.loadComments('#valine-comments', () => {
+  NexT.utils.getScript('https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js', () => {
+    new Valine(Object.assign({"enable":true,"appId":"6hrjjOTKL5yC0nVxpfKzdw1b-gzGzoHsz","appKey":"wGcDnHp1q8puQOkcRCpvOM7n","serverURLs":"https://6hrjjotk.lc-cn-n1-shared.com","placeholder":"Just go go","avatar":"mm","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":false,"requiredFields":[]}, {
+      el: '#valine-comments',
+      path: "/coding/PyTK-2019-Day10.html",
+      serverURLs: "https://6hrjjotk.lc-cn-n1-shared.com"
+    }));
+  }, window.Valine);
+});
+</script>
+
+</body>
+</html>

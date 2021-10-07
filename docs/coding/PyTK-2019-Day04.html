@@ -1,0 +1,1215 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.0.2">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/avatar_mini.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/avatar_mini.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/avatar_mini.png">
+  <link rel="mask-icon" href="/images/avatar_mini.png" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+
+<script class="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
+  </script>
+<meta name="description" content="【教孩子学 Python 编程】系列 Day4：学习编程单词、二进制、与或非概念">
+<meta property="og:type" content="article">
+<meta property="og:title" content="【教孩子学编程】第4天 咿呀学语，Python常用英文单词">
+<meta property="og:url" content="https://luhuadong.com/coding/PyTK-2019-Day04.html">
+<meta property="og:site_name" content="成为自由人">
+<meta property="og:description" content="【教孩子学 Python 编程】系列 Day4：学习编程单词、二进制、与或非概念">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E8%B6%85%E8%B6%8A%E6%A2%A6%E6%83%B3%E4%B8%80%E8%B5%B7%E9%A3%9E.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/我爱单词.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/Crossin%E8%83%8C%E5%8D%95%E8%AF%8D.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E8%AF%B4%E5%8F%A5%E8%8B%B1%E6%96%87%E8%BE%A3%E4%B9%88%E9%9A%BE%E5%90%97.gif">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E6%89%8B%E6%8C%871.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E5%8F%A4%E4%BB%A3%E6%97%B6%E9%92%9F.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E5%8D%81%E8%BF%9B%E5%88%B6.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E4%BA%8C%E8%BF%9B%E5%88%B6.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E4%B8%B2%E8%81%94.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E5%B9%B6%E8%81%94.jpg">
+<meta property="article:published_time" content="2019-02-06T02:53:27.000Z">
+<meta property="article:modified_time" content="2021-10-07T12:48:02.959Z">
+<meta property="article:author" content="Rudy Lo">
+<meta property="article:tag" content="Python">
+<meta property="article:tag" content="教孩子学编程">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://luhuadong.com/images/coding/%E8%B6%85%E8%B6%8A%E6%A2%A6%E6%83%B3%E4%B8%80%E8%B5%B7%E9%A3%9E.jpg">
+
+
+<link rel="canonical" href="https://luhuadong.com/coding/PyTK-2019-Day04.html">
+
+
+<script class="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+<title>【教孩子学编程】第4天 咿呀学语，Python常用英文单词 | 成为自由人</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
+    <script>
+      if (CONFIG.hostname === location.hostname) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-190737867-1');
+      }
+    </script>
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+  <noscript>
+  <style>
+  body { margin-top: 2rem; }
+
+  .use-motion .menu-item,
+  .use-motion .sidebar,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header {
+    visibility: visible;
+  }
+
+  .use-motion .header,
+  .use-motion .site-brand-container .toggle,
+  .use-motion .footer { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle,
+  .use-motion .custom-logo-image {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line {
+    transform: scaleX(1);
+  }
+
+  .search-pop-overlay, .sidebar-nav { display: none; }
+  .sidebar-panel { display: block; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <h1 class="site-title">成为自由人</h1>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
+      <img class="custom-logo-image" src="/uploads/qrcode_8cm.jpg" alt="成为自由人">
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu">
+        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
+        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
+        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
+        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
+        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
+        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
+        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
+        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%8D%95%E8%AF%8D%E5%88%97%E8%A1%A8"><span class="nav-number">1.</span> <span class="nav-text">单词列表</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BA%8C%E8%BF%9B%E5%88%B6"><span class="nav-number">2.</span> <span class="nav-text">二进制</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%B8%8E%E6%88%96%E9%9D%9E"><span class="nav-number">3.</span> <span class="nav-text">与或非</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BD%9C%E4%B8%9A"><span class="nav-number">4.</span> <span class="nav-text">作业</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%99%84%E5%8A%A0%E9%A2%98"><span class="nav-number">5.</span> <span class="nav-text">附加题</span></a></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
+      src="/images/avatar.jpg">
+  <p class="site-author-name" itemprop="name">Rudy Lo</p>
+  <div class="site-description" itemprop="description">卢华东的个人网站</div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">147</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">23</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">65</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author site-overview-item animated">
+      <span class="links-of-author-item">
+        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://gitee.com/luhuadong" title="Gitee → https:&#x2F;&#x2F;gitee.com&#x2F;luhuadong" rel="noopener" target="_blank">Gitee</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.douban.com/group/730047/" title="豆瓣 → https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;" rel="noopener" target="_blank">豆瓣</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://zerotogether.net/" title="零聚社区 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零聚社区</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+  </div>
+  <div class="cc-license site-overview-item animated" itemprop="license">
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
+  </div>
+
+
+
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="back-to-top" role="button">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/coding/PyTK-2019-Day04.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="卢华东的个人网站">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          【教孩子学编程】第4天 咿呀学语，Python常用英文单词
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2019-02-06 10:53:27" itemprop="dateCreated datePublished" datetime="2019-02-06T10:53:27+08:00">2019-02-06</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2021-10-07 20:48:02" itemprop="dateModified" datetime="2021-10-07T20:48:02+08:00">2021-10-07</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/coding/" itemprop="url" rel="index"><span itemprop="name">coding</span></a>
+        </span>
+    </span>
+
+  
+  
+  <span class="post-meta-item">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">Valine：</span>
+  
+    <a title="valine" href="/coding/PyTK-2019-Day04.html#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/coding/PyTK-2019-Day04.html" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+            <div class="post-description">【教孩子学 Python 编程】系列 Day4：学习编程单词、二进制、与或非概念</div>
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p><img src="/images/coding/%E8%B6%85%E8%B6%8A%E6%A2%A6%E6%83%B3%E4%B8%80%E8%B5%B7%E9%A3%9E.jpg"></p>
+<p>今天的任务比较简单，主要就是熟悉一些简单的英文单词。同时，为了在后面的编程学习中更容易理解，我还会引入两个基础概念 —— 与或非和二进制。这些概念虽然基础，但很重要。</p>
+<img src="/images/coding/我爱单词.jpeg" width="200" />
+
+
+
+<h2 id="单词列表"><a href="#单词列表" class="headerlink" title="单词列表"></a>单词列表</h2><table>
+<thead>
+<tr>
+<th align="center">序号</th>
+<th align="center">单词</th>
+<th>解释</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">1</td>
+<td align="center">append</td>
+<td>附加</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">argument</td>
+<td>参数</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">and</td>
+<td>与，和</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">as</td>
+<td>作为，以…身份</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center">assert</td>
+<td>断言</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center">background</td>
+<td>背景</td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td align="center">binary</td>
+<td>二进制，通常用简写 bin</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">break</td>
+<td>中断</td>
+</tr>
+<tr>
+<td align="center">9</td>
+<td align="center">character</td>
+<td>字符</td>
+</tr>
+<tr>
+<td align="center">10</td>
+<td align="center">color</td>
+<td>颜色</td>
+</tr>
+<tr>
+<td align="center">11</td>
+<td align="center">code</td>
+<td>码（比如二维码是 QR-Code），代码</td>
+</tr>
+<tr>
+<td align="center">12</td>
+<td align="center">control</td>
+<td>控制</td>
+</tr>
+<tr>
+<td align="center">13</td>
+<td align="center">class</td>
+<td>类，种类</td>
+</tr>
+<tr>
+<td align="center">14</td>
+<td align="center">continue</td>
+<td>继续</td>
+</tr>
+<tr>
+<td align="center">15</td>
+<td align="center">define</td>
+<td>定义，关键字 def</td>
+</tr>
+<tr>
+<td align="center">16</td>
+<td align="center">decimal</td>
+<td>十进制，通常用简写 dec</td>
+</tr>
+<tr>
+<td align="center">17</td>
+<td align="center">delete</td>
+<td>删除，关键字 del</td>
+</tr>
+<tr>
+<td align="center">18</td>
+<td align="center">error</td>
+<td>错误</td>
+</tr>
+<tr>
+<td align="center">19</td>
+<td align="center">else</td>
+<td>否则</td>
+</tr>
+<tr>
+<td align="center">20</td>
+<td align="center">except</td>
+<td>除…外</td>
+</tr>
+<tr>
+<td align="center">21</td>
+<td align="center">encoding</td>
+<td>编码</td>
+</tr>
+<tr>
+<td align="center">22</td>
+<td align="center">format</td>
+<td>格式</td>
+</tr>
+<tr>
+<td align="center">23</td>
+<td align="center">float</td>
+<td>浮点数</td>
+</tr>
+<tr>
+<td align="center">24</td>
+<td align="center">file</td>
+<td>文件</td>
+</tr>
+<tr>
+<td align="center">25</td>
+<td align="center">forward</td>
+<td>向前，相对的还有 backward</td>
+</tr>
+<tr>
+<td align="center">26</td>
+<td align="center">finally</td>
+<td>最后</td>
+</tr>
+<tr>
+<td align="center">27</td>
+<td align="center">for</td>
+<td>为了，for 循环</td>
+</tr>
+<tr>
+<td align="center">28</td>
+<td align="center">false</td>
+<td>假的，关键字 False</td>
+</tr>
+<tr>
+<td align="center">29</td>
+<td align="center">from</td>
+<td>从…</td>
+</tr>
+<tr>
+<td align="center">30</td>
+<td align="center">function</td>
+<td>功能，函数，方法</td>
+</tr>
+<tr>
+<td align="center">31</td>
+<td align="center">global</td>
+<td>全局的</td>
+</tr>
+<tr>
+<td align="center">32</td>
+<td align="center">height</td>
+<td>高度</td>
+</tr>
+<tr>
+<td align="center">33</td>
+<td align="center">help</td>
+<td>帮助</td>
+</tr>
+<tr>
+<td align="center">34</td>
+<td align="center">hexadecimal</td>
+<td>十六进制，通常用简写 hex</td>
+</tr>
+<tr>
+<td align="center">35</td>
+<td align="center">default</td>
+<td>默认，缺省</td>
+</tr>
+<tr>
+<td align="center">36</td>
+<td align="center">input</td>
+<td>输入，程序的输入</td>
+</tr>
+<tr>
+<td align="center">37</td>
+<td align="center">index</td>
+<td>索引</td>
+</tr>
+<tr>
+<td align="center">38</td>
+<td align="center">insert</td>
+<td>插入</td>
+</tr>
+<tr>
+<td align="center">39</td>
+<td align="center">install</td>
+<td>安装，其反义词是 uninstall</td>
+</tr>
+<tr>
+<td align="center">40</td>
+<td align="center">integer</td>
+<td>整数</td>
+</tr>
+<tr>
+<td align="center">41</td>
+<td align="center">if</td>
+<td>如果，关键字</td>
+</tr>
+<tr>
+<td align="center">42</td>
+<td align="center">import</td>
+<td>导入，关键字</td>
+</tr>
+<tr>
+<td align="center">43</td>
+<td align="center">in</td>
+<td>在…里面，关键字（和 for 搭配）</td>
+</tr>
+<tr>
+<td align="center">44</td>
+<td align="center">is</td>
+<td>是，关键字</td>
+</tr>
+<tr>
+<td align="center">45</td>
+<td align="center">line</td>
+<td>线条</td>
+</tr>
+<tr>
+<td align="center">46</td>
+<td align="center">left</td>
+<td>左边，右边是 right</td>
+</tr>
+<tr>
+<td align="center">47</td>
+<td align="center">lambda</td>
+<td>希腊字母 λ，关键字</td>
+</tr>
+<tr>
+<td align="center">48</td>
+<td align="center">local</td>
+<td>本地的</td>
+</tr>
+<tr>
+<td align="center">49</td>
+<td align="center">module</td>
+<td>模块</td>
+</tr>
+<tr>
+<td align="center">50</td>
+<td align="center">model</td>
+<td>模型</td>
+</tr>
+<tr>
+<td align="center">51</td>
+<td align="center">not</td>
+<td>不，关键字</td>
+</tr>
+<tr>
+<td align="center">52</td>
+<td align="center">None</td>
+<td>没有一个，关键字 None</td>
+</tr>
+<tr>
+<td align="center">53</td>
+<td align="center">nonlocal</td>
+<td>非本地的</td>
+</tr>
+<tr>
+<td align="center">54</td>
+<td align="center">number</td>
+<td>数字</td>
+</tr>
+<tr>
+<td align="center">55</td>
+<td align="center">octonary</td>
+<td>八进制，通常用简写 oct</td>
+</tr>
+<tr>
+<td align="center">56</td>
+<td align="center">or</td>
+<td>或</td>
+</tr>
+<tr>
+<td align="center">57</td>
+<td align="center">output</td>
+<td>输出，程序的输出</td>
+</tr>
+<tr>
+<td align="center">58</td>
+<td align="center">pass</td>
+<td>通过，跳过关键字</td>
+</tr>
+<tr>
+<td align="center">59</td>
+<td align="center">process</td>
+<td>处理，程序的主要逻辑</td>
+</tr>
+<tr>
+<td align="center">60</td>
+<td align="center">print</td>
+<td>打印</td>
+</tr>
+<tr>
+<td align="center">61</td>
+<td align="center">python</td>
+<td>我们准备学的编程语言就是 python，<br>原意是蟒蛇</td>
+</tr>
+<tr>
+<td align="center">62</td>
+<td align="center">quit</td>
+<td>离开</td>
+</tr>
+<tr>
+<td align="center">63</td>
+<td align="center">range</td>
+<td>范围</td>
+</tr>
+<tr>
+<td align="center">64</td>
+<td align="center">raise</td>
+<td>举起，引发，关键字</td>
+</tr>
+<tr>
+<td align="center">65</td>
+<td align="center">return</td>
+<td>返回，关键字</td>
+</tr>
+<tr>
+<td align="center">64</td>
+<td align="center">random</td>
+<td>随机的</td>
+</tr>
+<tr>
+<td align="center">66</td>
+<td align="center">string</td>
+<td>字符串</td>
+</tr>
+<tr>
+<td align="center">67</td>
+<td align="center">try</td>
+<td>尝试，关键字</td>
+</tr>
+<tr>
+<td align="center">68</td>
+<td align="center">turtle</td>
+<td>海龟</td>
+</tr>
+<tr>
+<td align="center">69</td>
+<td align="center">true</td>
+<td>真的，关键字 True（首字母必须大写）</td>
+</tr>
+<tr>
+<td align="center">70</td>
+<td align="center">view</td>
+<td>视图</td>
+</tr>
+<tr>
+<td align="center">71</td>
+<td align="center">version</td>
+<td>版本</td>
+</tr>
+<tr>
+<td align="center">72</td>
+<td align="center">width</td>
+<td>宽度</td>
+</tr>
+<tr>
+<td align="center">73</td>
+<td align="center">while</td>
+<td>在…期间，关键字</td>
+</tr>
+<tr>
+<td align="center">74</td>
+<td align="center">with</td>
+<td>跟随，随着，关键字</td>
+</tr>
+<tr>
+<td align="center">74</td>
+<td align="center">world</td>
+<td>世界</td>
+</tr>
+<tr>
+<td align="center">75</td>
+<td align="center">yield</td>
+<td>生产，产量，关键字</td>
+</tr>
+<tr>
+<td align="center">76</td>
+<td align="center">zone</td>
+<td>地区</td>
+</tr>
+</tbody></table>
+<p>这里只列出了76个单词，因为我暂时只想到这些，同时为了简单起见，只取了其在计算机编程中的含义。</p>
+<p>学习更多的单词，请点击 “阅读原文” 或扫描下面的二维码 &gt;&gt;</p>
+<p><a target="_blank" rel="noopener" href="http://lab.crossincode.com/recite/">http://lab.crossincode.com/recite/</a></p>
+<p><img src="/images/coding/Crossin%E8%83%8C%E5%8D%95%E8%AF%8D.png"></p>
+<p><img src="/images/coding/%E8%AF%B4%E5%8F%A5%E8%8B%B1%E6%96%87%E8%BE%A3%E4%B9%88%E9%9A%BE%E5%90%97.gif"></p>
+<h2 id="二进制"><a href="#二进制" class="headerlink" title="二进制"></a>二进制</h2><p>不知道你有没有留意，我们现在普遍使用的进制是十进制，这是为什么呢？</p>
+<p><img src="/images/coding/%E6%89%8B%E6%8C%871.jpeg"></p>
+<p>也许大概是因为在人类文明初期，我们的祖先用十个手指来计算吧。我们从1开始数到9，接下来就变成了10，我们已经习以为常，所以并没有察觉到有什么不妥。</p>
+<p>其实我们日常生活中就已经用到其他进制，比如1分钟有60秒，1小时有60分钟，这里用的就是六十进制（满六十进一位）；一天24小时，用的是二十四进制；一周7天，用的是七进制。</p>
+<p><img src="/images/coding/%E5%8F%A4%E4%BB%A3%E6%97%B6%E9%92%9F.jpeg"></p>
+<p>实际上，我们可以使用无数种进制来计算。在计算机领域，除了十进制之外，还经常使用二进制和十六进制。</p>
+<p>先来看看几种进制之间的对比</p>
+<table>
+<thead>
+<tr>
+<th align="center">二进制</th>
+<th align="center">十进制</th>
+<th align="center">十六进制</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">0000</td>
+<td align="center">0</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center">0001</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center">0010</td>
+<td align="center">2</td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td align="center">0011</td>
+<td align="center">3</td>
+<td align="center">3</td>
+</tr>
+<tr>
+<td align="center">0100</td>
+<td align="center">4</td>
+<td align="center">4</td>
+</tr>
+<tr>
+<td align="center">0101</td>
+<td align="center">5</td>
+<td align="center">5</td>
+</tr>
+<tr>
+<td align="center">0110</td>
+<td align="center">6</td>
+<td align="center">6</td>
+</tr>
+<tr>
+<td align="center">0111</td>
+<td align="center">7</td>
+<td align="center">7</td>
+</tr>
+<tr>
+<td align="center">1000</td>
+<td align="center">8</td>
+<td align="center">8</td>
+</tr>
+<tr>
+<td align="center">1001</td>
+<td align="center">9</td>
+<td align="center">9</td>
+</tr>
+<tr>
+<td align="center">1010</td>
+<td align="center">10</td>
+<td align="center">A</td>
+</tr>
+<tr>
+<td align="center">1011</td>
+<td align="center">11</td>
+<td align="center">B</td>
+</tr>
+<tr>
+<td align="center">1100</td>
+<td align="center">12</td>
+<td align="center">C</td>
+</tr>
+<tr>
+<td align="center">1101</td>
+<td align="center">13</td>
+<td align="center">D</td>
+</tr>
+<tr>
+<td align="center">1110</td>
+<td align="center">14</td>
+<td align="center">E</td>
+</tr>
+<tr>
+<td align="center">1111</td>
+<td align="center">15</td>
+<td align="center">F</td>
+</tr>
+</tbody></table>
+<p>二进制非常简单，也就是满二进一位，因此只需要用0和1表示即可。</p>
+<p>要理解什么是二进制，先要从我们更熟悉的十进制开始。在十进制中，阿拉伯数字“1”的后面加上数字“23”后，为什么数字“1”所代表的意义忽然变成了100？为什么把三个数字摆在一起，人们马上就会把它们理解为一个“三位数”？这是因为十进制中，数位之间存在“10倍”递增关系。</p>
+<p><img src="/images/coding/%E5%8D%81%E8%BF%9B%E5%88%B6.png"></p>
+<p>二进制的递增原理类似十进制，只不过它是2倍的进位关系。人们常用0和1这两个符号来表示二进制数字。</p>
+<p><img src="/images/coding/%E4%BA%8C%E8%BF%9B%E5%88%B6.png"></p>
+<p>跟人类世界不同，在计算机的世界中，更喜欢使用二进制来表示、存储数据。这是因为二进制能够表示最简单的状态，比如开关的开和关，越简单就越可靠，通过这些简单状态的组合，计算机就可以表示更多东西。</p>
+<p>这些状态组合也叫逻辑运算，也就是下面要讲的 “与或非” 运算。</p>
+<h2 id="与或非"><a href="#与或非" class="headerlink" title="与或非"></a>与或非</h2><p>在数学上，“与运算” 通常被称为 “且” 或者 “交集”，数学符号是 <code>∧</code> ；“或运算” 通常被称为 “并” 或 “并集”，数学符号是 <code>∨</code>；“非运算” 就是取反，数学符号是 <code>﹁ </code> 。</p>
+<p>在计算机中，与运算符用 <code>&amp;</code> 表示，或运算符用 <code>|</code> 表示，非运算符通常是 <code>!</code> 或 <code>~</code> 符号。</p>
+<p>而在 Python 编程中则更为直观，直接用 and、or、not 表示。下表被称为真值表，用 p 和 q 表示两种状态，右边三列是对应的与或非运算结果。</p>
+<table>
+<thead>
+<tr>
+<th align="center">p</th>
+<th align="center">q</th>
+<th align="center">p ∧ q<br>p and q<br>p &amp; q</th>
+<th align="center">p ∨ q<br>p or q<br>p | q</th>
+<th align="center">﹁ p<br>not p<br></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">真</td>
+<td align="center">真</td>
+<td align="center">真</td>
+<td align="center">真</td>
+<td align="center">假</td>
+</tr>
+<tr>
+<td align="center">真</td>
+<td align="center">假</td>
+<td align="center">假</td>
+<td align="center">真</td>
+<td align="center">假</td>
+</tr>
+<tr>
+<td align="center">假</td>
+<td align="center">真</td>
+<td align="center">假</td>
+<td align="center">真</td>
+<td align="center">真</td>
+</tr>
+<tr>
+<td align="center">假</td>
+<td align="center">假</td>
+<td align="center">假</td>
+<td align="center">假</td>
+<td align="center">真</td>
+</tr>
+</tbody></table>
+<p>这样好一点</p>
+<table>
+<thead>
+<tr>
+<th align="center">p</th>
+<th align="center">q</th>
+<th align="center">p 与 q</th>
+<th align="center">p 或 q</th>
+<th align="center">非 p</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">真</td>
+<td align="center">真</td>
+<td align="center">真</td>
+<td align="center">真</td>
+<td align="center">假</td>
+</tr>
+<tr>
+<td align="center">真</td>
+<td align="center">假</td>
+<td align="center">假</td>
+<td align="center">真</td>
+<td align="center">假</td>
+</tr>
+<tr>
+<td align="center">假</td>
+<td align="center">真</td>
+<td align="center">假</td>
+<td align="center">真</td>
+<td align="center">真</td>
+</tr>
+<tr>
+<td align="center">假</td>
+<td align="center">假</td>
+<td align="center">假</td>
+<td align="center">假</td>
+<td align="center">真</td>
+</tr>
+</tbody></table>
+<p>想象一下，你要从 A 地走到 B 地，途中要经过两条桥。一种情况如下所示，你要先经过桥1，再经过桥2，我们说两座桥的关系是串联关系。只有当两座桥都畅通的时候才能顺利到达B地，只要其中一条桥堵塞都不能到达B地，如果两条桥都堵塞肯定也不能到达。这就是 “与” 运算。</p>
+<p><img src="/images/coding/%E4%B8%B2%E8%81%94.jpg"></p>
+<p>第二种情况如下所示，还是有两座桥，但是两座桥的关系是并联关系。如果桥1堵塞，我们还可以选择桥2，反之亦然，只有当两座桥同时堵塞的时候才不能达到B地。这就是 “或” 运算。</p>
+<p><img src="/images/coding/%E5%B9%B6%E8%81%94.jpg"></p>
+<p>“非” 运算更简单，上面的真值表我们只对 p 做非运算，如果原来是真，非运算之后就是假。</p>
+<p>在计算机编程中，通常用 0 表示假（False），用 1 表示真（True）。如果把上表中的“真”用1替换，“假”用0替换，其实就是我们前面所说的二进制 “逻辑运算”。</p>
+<h2 id="作业"><a href="#作业" class="headerlink" title="作业"></a>作业</h2><p>（1）默写单词列表中的76个单词。</p>
+<p>（2）写出十进制0~64的二进制和十六进制表示。</p>
+<p>（3）理解并在纸上默写一遍真值表。</p>
+<p>（4）看看你身边的U盘、硬盘、手机存储容量大小，为什么通常都是 4GB、8GB、16GB、32GB、64GB …</p>
+<h2 id="附加题"><a href="#附加题" class="headerlink" title="附加题"></a>附加题</h2><p>（1）从你身边的设备找出以下计算机接口，观察它们有何特点，并了解其用途。</p>
+<ul>
+<li>USB</li>
+<li>HDMI</li>
+<li>DVI</li>
+</ul>
+<p>（2）了解不同文件的后缀名。</p>
+<ul>
+<li>可执行文件<ul>
+<li>exe</li>
+<li>py</li>
+</ul>
+</li>
+<li>文档（办公软件）<ul>
+<li>txt</li>
+<li>doc、docx</li>
+<li>xls、xlsx</li>
+<li>ppt、pptx</li>
+<li>md</li>
+</ul>
+</li>
+<li>压缩文件<ul>
+<li>zip</li>
+<li>rar</li>
+<li>7z</li>
+<li>tar</li>
+</ul>
+</li>
+<li>多媒体文件<ul>
+<li>图片：png、jpg、jpeg、bmp、gif</li>
+<li>音频：mp3、wav</li>
+<li>视频：mp4</li>
+</ul>
+</li>
+</ul>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          <div class="reward-container">
+  <div>您的鼓励是我最大的动力！</div>
+  <button onclick="document.querySelector('.post-reward').classList.toggle('active');">
+    赞赏
+  </button>
+  <div class="post-reward">
+      <div>
+        <img src="/images/wechatpay.jpeg" alt="Rudy Lo 微信">
+        <span>微信</span>
+      </div>
+      <div>
+        <img src="/images/alipay.jpeg" alt="Rudy Lo 支付宝">
+        <span>支付宝</span>
+      </div>
+
+  </div>
+</div>
+
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>本文作者： </strong>Rudy Lo
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接：</strong>
+      <a href="https://luhuadong.com/coding/PyTK-2019-Day04.html" title="【教孩子学编程】第4天 咿呀学语，Python常用英文单词">https://luhuadong.com/coding/PyTK-2019-Day04.html</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/Python/" rel="tag"># Python</a>
+              <a href="/tags/%E6%95%99%E5%AD%A9%E5%AD%90%E5%AD%A6%E7%BC%96%E7%A8%8B/" rel="tag"># 教孩子学编程</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/coding/PyTK-2019-Day03.html" rel="prev" title="【教孩子学编程】第3天 打倒拦路虎，学会键盘打字">
+                  <i class="fa fa-chevron-left"></i> 【教孩子学编程】第3天 打倒拦路虎，学会键盘打字
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/coding/PyTK-2019-Day05.html" rel="next" title="【教孩子学编程】第5天 你的第一个 Python 程序">
+                  【教孩子学编程】第5天 你的第一个 Python 程序 <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="valine-comments"></div>
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      const commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+  
+
+
+
+
+  <script>
+  if (typeof MathJax === 'undefined') {
+    window.MathJax = {
+      tex: {
+        inlineMath: {'[+]': [['$', '$']]},
+        tags: 'none'
+      },
+      options: {
+        renderActions: {
+          insertedScript: [200, () => {
+            document.querySelectorAll('mjx-container').forEach(node => {
+              const target = node.parentNode;
+              if (target.nodeName.toLowerCase() === 'li') {
+                target.parentNode.classList.add('has-jax');
+              }
+            });
+          }, '', false]
+        }
+      }
+    };
+    const script = document.createElement('script');
+    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
+    script.defer = true;
+    document.head.appendChild(script);
+  } else {
+    MathJax.startup.document.state(0);
+    MathJax.typesetClear();
+    MathJax.texReset();
+    MathJax.typeset();
+  }
+</script>
+
+
+
+<script>
+NexT.utils.loadComments('#valine-comments', () => {
+  NexT.utils.getScript('https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js', () => {
+    new Valine(Object.assign({"enable":true,"appId":"6hrjjOTKL5yC0nVxpfKzdw1b-gzGzoHsz","appKey":"wGcDnHp1q8puQOkcRCpvOM7n","serverURLs":"https://6hrjjotk.lc-cn-n1-shared.com","placeholder":"Just go go","avatar":"mm","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":false,"requiredFields":[]}, {
+      el: '#valine-comments',
+      path: "/coding/PyTK-2019-Day04.html",
+      serverURLs: "https://6hrjjotk.lc-cn-n1-shared.com"
+    }));
+  }, window.Valine);
+});
+</script>
+
+</body>
+</html>

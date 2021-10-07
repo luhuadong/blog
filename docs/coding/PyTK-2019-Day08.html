@@ -1,0 +1,681 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.0.2">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/avatar_mini.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/avatar_mini.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/avatar_mini.png">
+  <link rel="mask-icon" href="/images/avatar_mini.png" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+
+<script class="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
+  </script>
+<meta name="description" content="【教孩子学 Python 编程】系列 Day8：编写温度转换程序，了解变量、函数概念">
+<meta property="og:type" content="article">
+<meta property="og:title" content="【教孩子学编程】第8天 还记得大明湖畔的变量和函数吗">
+<meta property="og:url" content="https://luhuadong.com/coding/PyTK-2019-Day08.html">
+<meta property="og:site_name" content="成为自由人">
+<meta property="og:description" content="【教孩子学 Python 编程】系列 Day8：编写温度转换程序，了解变量、函数概念">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E9%9A%8F%E6%97%B6%E5%90%AF%E7%A8%8B.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E6%91%84%E6%B0%8F-%E5%8D%8E%E6%B0%8F.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/CF%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E9%BB%91%E7%AE%B1%E5%AD%90.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/IPO%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E4%BA%BA%E7%94%9FIPO%E6%A8%A1%E5%9E%8B.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E8%AF%BB%E4%B9%A6%E5%A4%AA%E5%B0%91%E6%83%B3%E5%BE%97%E5%A4%AA%E5%A4%9A.gif">
+<meta property="article:published_time" content="2019-02-10T02:53:27.000Z">
+<meta property="article:modified_time" content="2021-10-07T12:47:45.722Z">
+<meta property="article:author" content="Rudy Lo">
+<meta property="article:tag" content="Python">
+<meta property="article:tag" content="教孩子学编程">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://luhuadong.com/images/coding/%E9%9A%8F%E6%97%B6%E5%90%AF%E7%A8%8B.jpg">
+
+
+<link rel="canonical" href="https://luhuadong.com/coding/PyTK-2019-Day08.html">
+
+
+<script class="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+<title>【教孩子学编程】第8天 还记得大明湖畔的变量和函数吗 | 成为自由人</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
+    <script>
+      if (CONFIG.hostname === location.hostname) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-190737867-1');
+      }
+    </script>
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+  <noscript>
+  <style>
+  body { margin-top: 2rem; }
+
+  .use-motion .menu-item,
+  .use-motion .sidebar,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header {
+    visibility: visible;
+  }
+
+  .use-motion .header,
+  .use-motion .site-brand-container .toggle,
+  .use-motion .footer { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle,
+  .use-motion .custom-logo-image {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line {
+    transform: scaleX(1);
+  }
+
+  .search-pop-overlay, .sidebar-nav { display: none; }
+  .sidebar-panel { display: block; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <h1 class="site-title">成为自由人</h1>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
+      <img class="custom-logo-image" src="/uploads/qrcode_8cm.jpg" alt="成为自由人">
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu">
+        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
+        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
+        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
+        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
+        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
+        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
+        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
+        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B"><span class="nav-number">1.</span> <span class="nav-text">二元一次方程</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AAPython%E5%87%BD%E6%95%B0"><span class="nav-number">2.</span> <span class="nav-text">你的第一个Python函数</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#IPO-%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B"><span class="nav-number">3.</span> <span class="nav-text">IPO 编程模型</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%BC%96%E7%A8%8B%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E7%9A%84%E6%AD%A5%E9%AA%A4"><span class="nav-number">4.</span> <span class="nav-text">编程解决问题的步骤</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%A8%8B%E5%BA%8F%E6%98%AF%E5%A6%82%E4%BD%95%E8%BF%90%E8%A1%8C%E7%9A%84"><span class="nav-number">5.</span> <span class="nav-text">程序是如何运行的</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BD%9C%E4%B8%9A"><span class="nav-number">6.</span> <span class="nav-text">作业</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%AF%A6%E7%BB%86%E8%AE%B2%E8%A7%A3%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E6%B8%A9%E5%BA%A6%E8%BD%AC%E6%8D%A2"><span class="nav-number">7.</span> <span class="nav-text">详细讲解如何实现温度转换</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#IPO-%E5%88%86%E6%9E%90%E6%B3%95"><span class="nav-number">7.1.</span> <span class="nav-text">IPO 分析法</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%AE%BE%E8%AE%A1%E7%AE%97%E6%B3%95"><span class="nav-number">7.2.</span> <span class="nav-text">设计算法</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%88%A4%E6%96%AD%E9%94%AE%E7%9B%98%E8%BE%93%E5%85%A5%E7%9A%84%E6%98%AF%E5%90%A6%E4%B8%BA%E6%95%B0%E5%AD%97"><span class="nav-number">7.3.</span> <span class="nav-text">判断键盘输入的是否为数字</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%B0%86%E4%BB%A3%E7%A0%81%E5%86%99%E5%88%B0%E6%96%87%E4%BB%B6%E4%B8%AD"><span class="nav-number">7.4.</span> <span class="nav-text">将代码写到文件中</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%BF%90%E8%A1%8C-Python-%E7%A8%8B%E5%BA%8F"><span class="nav-number">7.5.</span> <span class="nav-text">运行 Python 程序</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BB%A3%E7%A0%81%E8%AF%B4%E6%98%8E"><span class="nav-number">7.6.</span> <span class="nav-text">代码说明</span></a></li></ol></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
+      src="/images/avatar.jpg">
+  <p class="site-author-name" itemprop="name">Rudy Lo</p>
+  <div class="site-description" itemprop="description">卢华东的个人网站</div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">147</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">23</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">65</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author site-overview-item animated">
+      <span class="links-of-author-item">
+        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://gitee.com/luhuadong" title="Gitee → https:&#x2F;&#x2F;gitee.com&#x2F;luhuadong" rel="noopener" target="_blank">Gitee</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.douban.com/group/730047/" title="豆瓣 → https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;" rel="noopener" target="_blank">豆瓣</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://zerotogether.net/" title="零聚社区 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零聚社区</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+  </div>
+  <div class="cc-license site-overview-item animated" itemprop="license">
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
+  </div>
+
+
+
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="back-to-top" role="button">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/coding/PyTK-2019-Day08.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="卢华东的个人网站">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          【教孩子学编程】第8天 还记得大明湖畔的变量和函数吗
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2019-02-10 10:53:27" itemprop="dateCreated datePublished" datetime="2019-02-10T10:53:27+08:00">2019-02-10</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2021-10-07 20:47:45" itemprop="dateModified" datetime="2021-10-07T20:47:45+08:00">2021-10-07</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/coding/" itemprop="url" rel="index"><span itemprop="name">coding</span></a>
+        </span>
+    </span>
+
+  
+  
+  <span class="post-meta-item">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">Valine：</span>
+  
+    <a title="valine" href="/coding/PyTK-2019-Day08.html#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/coding/PyTK-2019-Day08.html" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+            <div class="post-description">【教孩子学 Python 编程】系列 Day8：编写温度转换程序，了解变量、函数概念</div>
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p><img src="/images/coding/%E9%9A%8F%E6%97%B6%E5%90%AF%E7%A8%8B.jpg"></p>
+<p>不知不觉，我们已经一起写了好几个程序了。在编写程序的时候，很抱歉有些东西我刻意隐瞒了，因此今天我要停下来，给你讲讲当年大明湖畔的夏… 呸，变量和函数！</p>
+<h2 id="二元一次方程"><a href="#二元一次方程" class="headerlink" title="二元一次方程"></a>二元一次方程</h2><p>我们知道温度的单位有摄氏度和华氏度，它们之间的关系是：</p>
+<p>F = C × 1.8 + 32</p>
+<p>其中，F 表示华氏温度，C 表示摄氏温度。</p>
+<p><img src="/images/coding/%E6%91%84%E6%B0%8F-%E5%8D%8E%E6%B0%8F.jpeg"></p>
+<p>为了看起来舒服点，我们用 x 替换 C，用 y 替换 F。于是得到 <code>y = 1.8x + 32</code> 这样一个二元一次方程。</p>
+<p>我们可以简写为函数关系式 <code>y = f(x)</code></p>
+<p>其中 x 是自变量，y 是因变量，此式表示 y 随 x 的变化而变化。而如何变化的秘密就藏在函数 <code>f()</code>，在这里也就是 <code>y = 1.8x + 32</code> 的关系。</p>
+<p>所以，我们可以把自变量看成 “原因”，因变量看成 “结果”，函数看成是它们之间的 “关系”。</p>
+<p><img src="/images/coding/CF%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B.png"></p>
+<p>以上是数学上关于变量和函数的概念，计算机编程中变量和函数的概念也类似，但多了一些扩展。</p>
+<p>同样是函数表达式 <code>y = f(x)</code> ，自变量 x 在程序中称为 “输入”，因变量 y 在程序中称为 “输出”。函数 <code>f()</code> 是中间处理过程，我们可以把它当成黑箱子，对于函数的使用者来说，通常只关心 “输入什么，就会输出什么” 的问题。</p>
+<p><img src="/images/coding/%E9%BB%91%E7%AE%B1%E5%AD%90.png"></p>
+<p>在程序设计中，自变量 x 也被称为 “参数”，因变量 y 则被称为 “返回值”。因此你可能会听到这样的描述：传入了参数 x，调用了函数 f()，返回了结果 y。</p>
+<h2 id="你的第一个Python函数"><a href="#你的第一个Python函数" class="headerlink" title="你的第一个Python函数"></a>你的第一个Python函数</h2><p>我们用之前学的编程知识来实现摄氏温度和华氏温度的转换：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">x = float(input(<span class="string">&quot;请输入摄氏温度值：&quot;</span>))</span><br><span class="line">y = <span class="number">1.8</span> * x + <span class="number">32</span></span><br><span class="line">print(<span class="string">&quot;对应的华氏温度值为：&quot;</span>, y)</span><br></pre></td></tr></table></figure>
+
+<p>第一行中的 float() 函数表示将输入的数值转换为浮点数（也就是小数）。</p>
+<p>接下来，我们用函数来实现：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">f</span>(<span class="params">Ce</span>):</span></span><br><span class="line">    F = <span class="number">1.8</span> * Ce + <span class="number">32</span></span><br><span class="line">    <span class="keyword">return</span> F</span><br><span class="line"></span><br><span class="line">x = float(input(<span class="string">&quot;请输入摄氏温度值：&quot;</span>))</span><br><span class="line">y = f(x)</span><br><span class="line">print(<span class="string">&quot;对应的华氏温度值为：&quot;</span>, y)</span><br></pre></td></tr></table></figure>
+
+<p>前三行就是函数的实现，Python 中的函数使用 def 来标识（def 是 define 的缩写），这个函数的功能是接收一个参数 Ce，经过转换得到 F，并将 F 返回给使用者。</p>
+<p>在看看倒数第二行，是不是很熟悉？这不就是前面的函数表达式 <code>y = f(x)</code> 吗？在程序中，我们称为函数的调用，函数内部转换后的 F 就会传递给变量 y。</p>
+<p>当然，函数的名字不总是叫 f，我们通常会根据函数的功能取一个恰当的名字。比如这个温度转换函数可以取名为 temp_convert 或者 Ce2F。</p>
+<h2 id="IPO-编程模型"><a href="#IPO-编程模型" class="headerlink" title="IPO 编程模型"></a>IPO 编程模型</h2><p>还有点时间，再来讲一下 IPO 编程模型。IPO 模型是程序的基本编写方法，IPO 三个字母的含义如下：</p>
+<ul>
+<li><code>I</code>：Input 输入，程序的输入。</li>
+<li><code>P</code>：Process 处理，程序的主要逻辑。</li>
+<li><code>O</code>：Output 输出，程序的输出。</li>
+</ul>
+<p>IPO 方法讲解的是，在编写程序的时候，我们要关注输入是什么，输出是什么，如何从输入达到输出。</p>
+<p><img src="/images/coding/IPO%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B.png"></p>
+<p>程序的输入：文件输入、网络输入、控制台输入、交互界面输入、内部参数输入等。输入是一个程序的开始</p>
+<p>程序的输出：控制台输出、图形输出、文件输出、网络输出、操作系统内部变量输出等。输出是程序展示运算结果的方式。</p>
+<p>程序处理：程序对输入数据进行计算产生输出结果的过程。处理方法统称为算法，它是程序最重要的部分。<strong>算法是一个程序的灵魂</strong>。</p>
+<p>一个程序可以有零个或多个输入，至少一个或多个输出。没有输出的程序是没有意义的。</p>
+<p><img src="/images/coding/%E4%BA%BA%E7%94%9FIPO%E6%A8%A1%E5%9E%8B.jpeg"></p>
+<p>进一步抽象，你会发现，这种 IPO 模型同样适用于我们人本身。每个人的人生都是 <strong>获取信息输入-大脑处理-总结输出</strong> 的一个过程。</p>
+<p>比如当你面对考试时，考试成绩就是你的输出，平时的学习积累就是你的输入。比如对于现在的我来说，写东西就是最终的输出，输入就是我前面的经验<del>和瞎想</del>。</p>
+<p>其实每件事都一样，最终的结果无外乎就是看 “有什么输入” 和 “怎样处理”。</p>
+<p>如果你感觉迷茫，难以输出，也许是因为输入不够。这时候就要多读书多看报，少吃零食多睡觉！</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Quality input ensures quality output</span><br></pre></td></tr></table></figure>
+
+<p>同时，我们人类的大脑处理方式有无数多种，每个人要理解这个世界，都需要自己找到底层的思维模型。通过建立思维模型，形成自己独特、高效的处理方法。</p>
+<p><img src="/images/coding/%E8%AF%BB%E4%B9%A6%E5%A4%AA%E5%B0%91%E6%83%B3%E5%BE%97%E5%A4%AA%E5%A4%9A.gif"></p>
+<h2 id="编程解决问题的步骤"><a href="#编程解决问题的步骤" class="headerlink" title="编程解决问题的步骤"></a>编程解决问题的步骤</h2><ol>
+<li>分析问题：分析问题的计算部分（想清楚）</li>
+<li>划分边界：划分问题的功能边界（规划 IPO）</li>
+<li>设计算法：设计问题的求解算法（关注算法）</li>
+<li>编写程序：编写问题的计算程序（编程序）</li>
+<li>调试测试：调试程序使正确运行（运行调试）</li>
+<li>升级维护：适应问题的升级维护（更新完善）</li>
+</ol>
+<p>精简步骤</p>
+<ul>
+<li>确定IPO：明确计算部分及功能边界</li>
+<li>编写程序：将计算求解的设计变成现实</li>
+<li>调试程序：确保程序按照正确逻辑能够正确运行</li>
+</ul>
+<h2 id="程序是如何运行的"><a href="#程序是如何运行的" class="headerlink" title="程序是如何运行的"></a>程序是如何运行的</h2><p>Python 是一门解释型语言。额…… 怎么说呢，虽然电脑是我们的好朋友，但是我们和电脑其实很难沟通，比如我们要吃饭才有力气学习，电脑居然不用吃饭。所以就很难玩到一起去，但是我们又想和电脑沟通，让她帮我们做点事情，那怎么办？</p>
+<p>那就用 Python 呀！Python 解释器就像一个翻译专家，我们把脑海中的想法和意图用 Python 语言写出了，然后交给 Python 解释器。她就会将帮我们检查并翻译成电脑看得懂的语言，之后电脑就会执行相应的操作，比如数字计算、字符打印等等。</p>
+<h2 id="作业"><a href="#作业" class="headerlink" title="作业"></a>作业</h2><p>（1）自己动手用函数的方式实现摄氏度和华氏度的转换程序。</p>
+<p>（2）找一找到目前为止我们一共用过多少个函数。</p>
+<p>（3）理解 IPO 编程模型。</p>
+<h2 id="详细讲解如何实现温度转换"><a href="#详细讲解如何实现温度转换" class="headerlink" title="详细讲解如何实现温度转换"></a>详细讲解如何实现温度转换</h2><p>提出问题。</p>
+<h3 id="IPO-分析法"><a href="#IPO-分析法" class="headerlink" title="IPO 分析法"></a>IPO 分析法</h3><p>划分边界</p>
+<ul>
+<li>输入：带华氏或摄氏标志的温度值</li>
+<li>处理：根据温度标志选择适当的温度转换算法</li>
+<li>输出：带摄氏或华氏标志的温度值</li>
+</ul>
+<p>输入输出格式要求：标识放在温度值的后面，F 表示华氏度，C 表示摄氏度。</p>
+<p>比如：82F 表示华氏82度，28C 表示摄氏28度。</p>
+<h3 id="设计算法"><a href="#设计算法" class="headerlink" title="设计算法"></a>设计算法</h3><p>根据华氏和摄氏温度的定义，可得如下转换公式：</p>
+<p>$${C = \frac{F - 32}{1.8}}$$</p>
+<p>$${F = C \times 1.8 + 32}$$</p>
+<p>其中，C 表示摄氏温度，F 表示华氏温度。</p>
+<h3 id="判断键盘输入的是否为数字"><a href="#判断键盘输入的是否为数字" class="headerlink" title="判断键盘输入的是否为数字"></a>判断键盘输入的是否为数字</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">num = input(<span class="string">&quot;请输入一个数字：&quot;</span>)</span><br><span class="line"><span class="keyword">if</span> </span><br></pre></td></tr></table></figure>
+
+<h3 id="将代码写到文件中"><a href="#将代码写到文件中" class="headerlink" title="将代码写到文件中"></a>将代码写到文件中</h3><p>简单点：输入摄氏温度，输出华氏温度</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="string"> 文件：Ce2F.py</span></span><br><span class="line"><span class="string"> 描述：将摄氏温度转换为华氏温度</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"></span><br><span class="line">C = input(<span class="string">&quot;请输入摄氏温度值：&quot;</span>)</span><br><span class="line">F = <span class="number">1.8</span> * float(C) + <span class="number">32</span></span><br><span class="line">print(<span class="string">&quot;对应的华氏温度为：&#123;:.2f&#125;&quot;</span>.format(F))</span><br></pre></td></tr></table></figure>
+
+
+
+
+
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="string"> 文件：TempConvert.py</span></span><br><span class="line"><span class="string"> 描述：实现华氏和摄氏温度的转换</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"></span><br><span class="line">TempStr = input(<span class="string">&quot;请输入带有符号的温度值：&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> TempStr[<span class="number">-1</span>] <span class="keyword">in</span> [<span class="string">&#x27;F&#x27;</span>, <span class="string">&#x27;f&#x27;</span>]:</span><br><span class="line">    C = (eval(TempStr[<span class="number">0</span>:<span class="number">-1</span>]) - <span class="number">32</span>)/<span class="number">1.8</span></span><br><span class="line">    print(<span class="string">&quot;转换后的温度是 &#123;:.2f&#125;C&quot;</span>.format(C))</span><br><span class="line"><span class="keyword">elif</span> TempStr[<span class="number">-1</span>] <span class="keyword">in</span> [<span class="string">&#x27;C&#x27;</span>, <span class="string">&#x27;c&#x27;</span>]:</span><br><span class="line">    F = <span class="number">1.8</span> * eval(TempStr[<span class="number">0</span>:<span class="number">-1</span>]) + <span class="number">32</span></span><br><span class="line">    print(<span class="string">&quot;转换后的温度是 &#123;:.2f&#125;F&quot;</span>.format(F))</span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">    print(<span class="string">&quot;输入格式错误&quot;</span>)</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+
+
+
+
+
+
+<h3 id="运行-Python-程序"><a href="#运行-Python-程序" class="headerlink" title="运行 Python 程序"></a>运行 Python 程序</h3><h3 id="代码说明"><a href="#代码说明" class="headerlink" title="代码说明"></a>代码说明</h3><ul>
+<li>我们在编辑器中输入代码，发现代码会呈现不同的颜色，这种效果称为<strong>代码高亮</strong>，目的让我们看得舒服点。代码高亮是编程的色彩辅助体系，不是语法要求，因此在不同的编辑器中，代码高亮的表现形式各有不同。</li>
+<li><strong>缩进</strong>是一行代码开始前的空白区域，表达程序的格式框架<ul>
+<li>严格明确：缩进是语法的一部分，缩进不正确程序运行错误</li>
+<li>所属关系：表达代码间包含和层次关系的唯一手段</li>
+<li>长度一致：程序内一致即可，一般用4个空格或1个Tab</li>
+</ul>
+</li>
+<li><strong>注释</strong>是提高程序可读性的方式，注释是不被程序执行的辅助性说明信息<ul>
+<li>单行注释：以 <code>#</code> 开头，其后内容为注释</li>
+<li>多行注释：以 <code>&#39;&#39;&#39;</code> 开头和结尾</li>
+</ul>
+</li>
+</ul>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          <div class="reward-container">
+  <div>您的鼓励是我最大的动力！</div>
+  <button onclick="document.querySelector('.post-reward').classList.toggle('active');">
+    赞赏
+  </button>
+  <div class="post-reward">
+      <div>
+        <img src="/images/wechatpay.jpeg" alt="Rudy Lo 微信">
+        <span>微信</span>
+      </div>
+      <div>
+        <img src="/images/alipay.jpeg" alt="Rudy Lo 支付宝">
+        <span>支付宝</span>
+      </div>
+
+  </div>
+</div>
+
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>本文作者： </strong>Rudy Lo
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接：</strong>
+      <a href="https://luhuadong.com/coding/PyTK-2019-Day08.html" title="【教孩子学编程】第8天 还记得大明湖畔的变量和函数吗">https://luhuadong.com/coding/PyTK-2019-Day08.html</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/Python/" rel="tag"># Python</a>
+              <a href="/tags/%E6%95%99%E5%AD%A9%E5%AD%90%E5%AD%A6%E7%BC%96%E7%A8%8B/" rel="tag"># 教孩子学编程</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/coding/PyTK-2019-Day07.html" rel="prev" title="【教孩子学编程】第7天 和电脑玩猜数字游戏">
+                  <i class="fa fa-chevron-left"></i> 【教孩子学编程】第7天 和电脑玩猜数字游戏
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/coding/PyTK-2019-Day09.html" rel="next" title="【教孩子学编程】第9天 老师的点名神器">
+                  【教孩子学编程】第9天 老师的点名神器 <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="valine-comments"></div>
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      const commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+  
+
+
+
+
+  <script>
+  if (typeof MathJax === 'undefined') {
+    window.MathJax = {
+      tex: {
+        inlineMath: {'[+]': [['$', '$']]},
+        tags: 'none'
+      },
+      options: {
+        renderActions: {
+          insertedScript: [200, () => {
+            document.querySelectorAll('mjx-container').forEach(node => {
+              const target = node.parentNode;
+              if (target.nodeName.toLowerCase() === 'li') {
+                target.parentNode.classList.add('has-jax');
+              }
+            });
+          }, '', false]
+        }
+      }
+    };
+    const script = document.createElement('script');
+    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
+    script.defer = true;
+    document.head.appendChild(script);
+  } else {
+    MathJax.startup.document.state(0);
+    MathJax.typesetClear();
+    MathJax.texReset();
+    MathJax.typeset();
+  }
+</script>
+
+
+
+<script>
+NexT.utils.loadComments('#valine-comments', () => {
+  NexT.utils.getScript('https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js', () => {
+    new Valine(Object.assign({"enable":true,"appId":"6hrjjOTKL5yC0nVxpfKzdw1b-gzGzoHsz","appKey":"wGcDnHp1q8puQOkcRCpvOM7n","serverURLs":"https://6hrjjotk.lc-cn-n1-shared.com","placeholder":"Just go go","avatar":"mm","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":false,"requiredFields":[]}, {
+      el: '#valine-comments',
+      path: "/coding/PyTK-2019-Day08.html",
+      serverURLs: "https://6hrjjotk.lc-cn-n1-shared.com"
+    }));
+  }, window.Valine);
+});
+</script>
+
+</body>
+</html>

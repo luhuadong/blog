@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.0.2">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/avatar_mini.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/avatar_mini.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/avatar_mini.png">
+  <link rel="mask-icon" href="/images/avatar_mini.png" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+
+<script class="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
+  </script>
+<meta name="description" content="【教孩子学 Python 编程】系列 Day3：学习使用键盘打字">
+<meta property="og:type" content="article">
+<meta property="og:title" content="【教孩子学编程】第3天 打倒拦路虎，学会键盘打字">
+<meta property="og:url" content="https://luhuadong.com/coding/PyTK-2019-Day03.html">
+<meta property="og:site_name" content="成为自由人">
+<meta property="og:description" content="【教孩子学 Python 编程】系列 Day3：学习使用键盘打字">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E9%94%AE%E7%9B%98%E6%89%93%E5%AD%97.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E6%89%93%E9%94%AE%E7%9B%98%E5%95%8A.gif">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E8%8B%B1%E8%8D%B7%E6%88%98%E4%BA%89.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/1866%E5%B9%B4_Christopher_Sholes%E4%B9%8B%E5%A5%B3%E5%92%8C%E5%88%9D%E4%BB%A3%E6%89%93%E5%AD%97%E6%9C%BA.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E6%9C%A8%E5%88%B6%E6%89%93%E5%AD%97%E6%9C%BA%E6%A8%A1%E5%9E%8B.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E6%89%93%E5%AD%97%E6%9C%BATypewriter.gif">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E5%8F%A4%E8%91%A3%E6%89%93%E5%AD%97%E6%9C%BA.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E5%8F%A4%E8%91%A3%E6%89%93%E5%AD%97%E6%9C%BA2.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E7%94%B5%E4%BC%A0%E6%89%93%E5%AD%97%E6%9C%BA.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/60%E5%B9%B4%E4%BB%A3%E7%9A%84%E5%8F%AF%E8%A7%86%E7%BB%88%E7%AB%AF.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/70%E5%B9%B4%E4%BB%A3%E7%9A%84%E4%BA%BA%E4%BD%93%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%94%AE%E7%9B%98.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/IBM%E5%A4%9A%E5%AA%92%E4%BD%93%E9%94%AE%E7%9B%98.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E5%B0%8F%E9%BB%84%E4%BA%BA-%E5%93%87.gif">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E6%89%93%E5%AD%97%E6%9C%BA%E9%94%AE%E7%9B%98.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/DVORAK%E5%B8%83%E5%B1%80.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/COLEMAK%E5%B8%83%E5%B1%80.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/MALT%E5%B8%83%E5%B1%80.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E5%B8%B8%E8%A7%81%E7%9A%84Dell%E9%94%AE%E7%9B%98.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E5%85%88%E5%85%A5%E4%B8%BA%E4%B8%BB.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E6%89%93%E5%AD%97%E5%9F%BA%E7%A1%80-%E8%AE%A4%E8%AF%86%E9%94%AE%E7%9B%98.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E6%89%93%E5%AD%97%E5%9F%BA%E7%A1%80-%E6%89%8B%E6%8C%87%E5%88%86%E5%B7%A5.png">
+<meta property="og:image" content="https://luhuadong.com/images/coding/tuxtype%E7%95%8C%E9%9D%A21.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/tuxtype%E7%95%8C%E9%9D%A22.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/tuxtype%E7%95%8C%E9%9D%A23.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/tuxtype%E7%95%8C%E9%9D%A24.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/tuxtype%E7%95%8C%E9%9D%A25.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/tuxtype%E7%95%8C%E9%9D%A26.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/coding/%E5%8A%A0%E6%B2%B9.jpeg">
+<meta property="article:published_time" content="2019-02-05T02:53:27.000Z">
+<meta property="article:modified_time" content="2021-10-07T12:48:06.711Z">
+<meta property="article:author" content="Rudy Lo">
+<meta property="article:tag" content="Python">
+<meta property="article:tag" content="教孩子学编程">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://luhuadong.com/images/coding/%E9%94%AE%E7%9B%98%E6%89%93%E5%AD%97.png">
+
+
+<link rel="canonical" href="https://luhuadong.com/coding/PyTK-2019-Day03.html">
+
+
+<script class="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+<title>【教孩子学编程】第3天 打倒拦路虎，学会键盘打字 | 成为自由人</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
+    <script>
+      if (CONFIG.hostname === location.hostname) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-190737867-1');
+      }
+    </script>
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+  <noscript>
+  <style>
+  body { margin-top: 2rem; }
+
+  .use-motion .menu-item,
+  .use-motion .sidebar,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header {
+    visibility: visible;
+  }
+
+  .use-motion .header,
+  .use-motion .site-brand-container .toggle,
+  .use-motion .footer { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle,
+  .use-motion .custom-logo-image {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line {
+    transform: scaleX(1);
+  }
+
+  .search-pop-overlay, .sidebar-nav { display: none; }
+  .sidebar-panel { display: block; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <h1 class="site-title">成为自由人</h1>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
+      <img class="custom-logo-image" src="/uploads/qrcode_8cm.jpg" alt="成为自由人">
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu">
+        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
+        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
+        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
+        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
+        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
+        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
+        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
+        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BB%8E%E6%89%93%E5%AD%97%E6%9C%BA%E5%88%B0%E9%94%AE%E7%9B%98"><span class="nav-number">1.</span> <span class="nav-text">从打字机到键盘</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%8C%89%E5%AD%97%E6%AF%8D%E9%A1%BA%E5%BA%8F%E6%8E%92%E5%88%97"><span class="nav-number">2.</span> <span class="nav-text">为什么不按字母顺序排列</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%AE%A4%E8%AF%86%E9%94%AE%E7%9B%98"><span class="nav-number">3.</span> <span class="nav-text">认识键盘</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0"><span class="nav-number">4.</span> <span class="nav-text">打字练习</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BD%9C%E4%B8%9A"><span class="nav-number">5.</span> <span class="nav-text">作业</span></a></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
+      src="/images/avatar.jpg">
+  <p class="site-author-name" itemprop="name">Rudy Lo</p>
+  <div class="site-description" itemprop="description">卢华东的个人网站</div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">147</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">23</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">65</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author site-overview-item animated">
+      <span class="links-of-author-item">
+        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://gitee.com/luhuadong" title="Gitee → https:&#x2F;&#x2F;gitee.com&#x2F;luhuadong" rel="noopener" target="_blank">Gitee</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.douban.com/group/730047/" title="豆瓣 → https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;" rel="noopener" target="_blank">豆瓣</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://zerotogether.net/" title="零聚社区 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零聚社区</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+  </div>
+  <div class="cc-license site-overview-item animated" itemprop="license">
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
+  </div>
+
+
+
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="back-to-top" role="button">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/coding/PyTK-2019-Day03.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="卢华东的个人网站">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          【教孩子学编程】第3天 打倒拦路虎，学会键盘打字
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2019-02-05 10:53:27" itemprop="dateCreated datePublished" datetime="2019-02-05T10:53:27+08:00">2019-02-05</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2021-10-07 20:48:06" itemprop="dateModified" datetime="2021-10-07T20:48:06+08:00">2021-10-07</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/coding/" itemprop="url" rel="index"><span itemprop="name">coding</span></a>
+        </span>
+    </span>
+
+  
+  
+  <span class="post-meta-item">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">Valine：</span>
+  
+    <a title="valine" href="/coding/PyTK-2019-Day03.html#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/coding/PyTK-2019-Day03.html" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+            <div class="post-description">【教孩子学 Python 编程】系列 Day3：学习使用键盘打字</div>
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p><img src="/images/coding/%E9%94%AE%E7%9B%98%E6%89%93%E5%AD%97.png"></p>
+<p>前两天的课程，其实我们都在给你强行灌输一些计算机硬件系统和软件系统方面的知识。当你顺利完成前面的课程和作业，你还不能开始编程，因为你即将遇到编程生涯中的第一道障碍 —— <strong>键盘打字</strong>！</p>
+<p><img src="/images/coding/%E6%89%93%E9%94%AE%E7%9B%98%E5%95%8A.gif"></p>
+<p>除了电脑主机之外的大部分硬件设备，都可称作外部设备，简称<strong>外设</strong>。键盘则是我们最常使用的外设。</p>
+<p>但是你知道吗？键盘的历史比计算机的历史还要早，虽然世界上第一台计算机在20世纪四十年代出现，个人使用的小型计算机到70年代才开始出现，但是作为现在计算机一个组件的键盘，最早可以追溯到1714年。</p>
+<h2 id="从打字机到键盘"><a href="#从打字机到键盘" class="headerlink" title="从打字机到键盘"></a>从打字机到键盘</h2><p>很久很久以前，人们只能通过提笔写字的方式进行记录或书信来往。十八世纪，欧美的商业已经相当发达，每天有各种订货单子、商务信件、财务报表，还出现了很多文字工作者。</p>
+<p>因此，每天都有大量的文字依赖于手写，费时费力又费墨水，完全给商业发展拖后腿了。于是，想象力丰富的人们，开始寻思着一种能快速打字的机器。</p>
+<p><img src="/images/coding/%E8%8B%B1%E8%8D%B7%E6%88%98%E4%BA%89.jpeg"></p>
+<p>其实早在1714年，英国工程师亨利·米尔就有一项写字机器的专利，可惜的是并没有留下任何设计图样。英、美、法、意、瑞士等国家都有人造了形形色色的机器，但设计都还不成熟、没有使用价值，也就没能批量生产了。</p>
+<p>直到1808年，也就是19世纪初，世界上最早的打字机诞生了。它的发明者是意大利人佩莱里尼·图里，他爱上了一位姑娘，但姑娘却是位盲人，想要写字是无比困难的，为了让心爱的姑娘能够写字，他便亲手制作出了一台机械打字机。</p>
+<p><img src="/images/coding/1866%E5%B9%B4_Christopher_Sholes%E4%B9%8B%E5%A5%B3%E5%92%8C%E5%88%9D%E4%BB%A3%E6%89%93%E5%AD%97%E6%9C%BA.jpg"></p>
+<p>虽然那台打印机早已不见踪迹，但他的信件，至今保存在意大利勒佐市的档案馆里，被誉西方历史学家誉为“人类文化史上继造纸术、印刷术后的第三项文化工具的发明”。后来，丹麦哥本哈根的尤尔根斯机械公司把英文打字机首次投入量产，发明人是一位名叫马林·汉森的神父。</p>
+<p>不过那还算不上真正的实用。1968年，美国人克里斯托夫·拉森·肖尔斯和卡洛斯·格利登原本正在制作一台能自动给书编页码的机器，格利登突然问肖尔斯，“我们为啥不同时在书本上印字呢？”，肖尔斯灵机一动，一台木制的打字机模型问世了。</p>
+<p><img src="/images/coding/%E6%9C%A8%E5%88%B6%E6%89%93%E5%AD%97%E6%9C%BA%E6%A8%A1%E5%9E%8B.jpg"></p>
+<p>这台打字机和后来的基本一样，每打完一个字母后都会自动向后移位，字体也很清晰。但起初他设计的打字机很大很丑，因为大小写字母都有独立按键，导致键盘上足足有78个按键（还好不是汉字，哈哈）。同时，由于结构问题，打字的时候看不到自己有没有打错，所以容错率比较低。</p>
+<p>19世纪70年代，肖尔斯公司是当时最大的打字机厂商。但这么多的按键，设计比较冗杂、机械结构不完善，按键回弹很慢，打字太快了两个键就会卡在一起，所以公司经常被投诉，该怎么办呢？</p>
+<p><img src="/images/coding/%E6%89%93%E5%AD%97%E6%9C%BATypewriter.gif"></p>
+<p>一位“睿智”的工程师表示“打字绞键的原因，除了是字键弹回速度慢，也是打字员速度太快了，为什么不想办法降低打字速度呢？”（你可真是个设计鬼才啊）</p>
+<p>为了降低打字速度，他们决定打乱26个字母的排列顺序，常用字母放在笨拙的手指位置，不常用的字母放在灵活的手指附近，于是，“QWERTY”式键盘就诞生了。肖尔斯在1868年申请了专利，并在1873年成功投放市场，成为了至今以来非常典型的 “<strong>劣势产品战胜优势产品</strong>” 的例子。</p>
+<p><img src="/images/coding/%E5%8F%A4%E8%91%A3%E6%89%93%E5%AD%97%E6%9C%BA.jpg"></p>
+<p>而肖尔斯曾经的合作者约斯特，此时也正好在一家公司的赞助下开始研究打字机。长江后浪拍前浪，意识到了肖尔斯设计的打字机键盘键位多的问题，他通过一根控制杆、使同一个键能打出大小写两种字母，将键位缩减了26个，同时还能实时看到打出的字，大幅度提升了工作效率。这种打字机于1874年正式进入市场并得到了推广。</p>
+<p><img src="/images/coding/%E5%8F%A4%E8%91%A3%E6%89%93%E5%AD%97%E6%9C%BA2.jpg"></p>
+<p>1888年7月25日，美国辛辛那提举行了一场打字的比赛，来自盐湖城的法庭速记员麦古瑞由于天天打字，键位了熟于心，他用 QWERTY 键位的打字机实现高速盲打，错误率仅为万分之三，最终夺得冠军，这让 QWERTY 的地位进一步提高。</p>
+<p>进入20世纪，更方便的电传打字机出现了。它通常由键盘、收发报器、印字机构等组成，分为电子式和机械式两种。主要用于电报系统，某种意义上来说，它更像现在的传真机。</p>
+<p><img src="/images/coding/%E7%94%B5%E4%BC%A0%E6%89%93%E5%AD%97%E6%9C%BA.jpg"></p>
+<p>不过体积很大，接近现在的大尺寸打印机。它的键盘部分依旧采用了 QWERTY 布局，具备了电话级的高效性、精确性，使用成本又比电话、电报更便宜。</p>
+<p>40年代大型计算机诞生，60年代可视终端开始流行起来，这种设备往往自带键盘，用户的交互都是通过键盘来完成的。</p>
+<p><img src="/images/coding/60%E5%B9%B4%E4%BB%A3%E7%9A%84%E5%8F%AF%E8%A7%86%E7%BB%88%E7%AB%AF.jpg"></p>
+<p>事实上这套设备只是一个显示器和键盘，它还是需要接到大型上使用，敲键盘打字总比到大型设备上操作开关、塞塞卡纸方便许多。</p>
+<p>20世纪70年代，居然就已经出现了“人体工程学键盘”，Maltron 等公司为了进一步提高输入效率、也为了更舒适健康地打字，设计并生产了很多有趣的键盘。</p>
+<p><img src="/images/coding/70%E5%B9%B4%E4%BB%A3%E7%9A%84%E4%BA%BA%E4%BD%93%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%94%AE%E7%9B%98.jpg"></p>
+<p>1983年，还在 IBM 推出 XT/AT 机的时代，真正意义上的键盘才开始出现。那时候的键盘主要以83键为主流吗，很久之后才出现了101键、104键规格的键盘。</p>
+<p>IBM紧接着在104键键盘的基础上设计了多媒体键盘，增加了很多常用快捷键、音量调节键等等。同时也为电子邮件、浏览器、播放器等常用软件增加了一对一的快捷按键。</p>
+<p><img src="/images/coding/IBM%E5%A4%9A%E5%AA%92%E4%BD%93%E9%94%AE%E7%9B%98.jpg"></p>
+<p>起初键盘多用于品牌机，到了后来 DIY 行业兴起了，电脑发烧友变多了，一些厂家就想法子，把键盘做成了周边产品。 </p>
+<p>也多亏了 IBM 公司，键盘的生产成本大幅降低。起初每个键帽都要单独开模，直到1985年，IBM开始制造没有字符的键帽，再后期粘上字母，大家终于顿悟了…</p>
+<p><img src="/images/coding/%E5%B0%8F%E9%BB%84%E4%BA%BA-%E5%93%87.gif"></p>
+<h2 id="为什么不按字母顺序排列"><a href="#为什么不按字母顺序排列" class="headerlink" title="为什么不按字母顺序排列"></a>为什么不按字母顺序排列</h2><p>其实，发明 QWERTY 排列法的肖尔斯Christopher Sholes在制作第一个打印机模型时，确实是按照二十六个字母的顺序排列的。但让他崩溃的是，ABCD用起来实在是太快了，打字机各种瘫痪。</p>
+<p>前面我们说过 QWERTY 排列法的设计，其实是为了拖慢打字的速度。</p>
+<p><img src="/images/coding/%E6%89%93%E5%AD%97%E6%9C%BA%E9%94%AE%E7%9B%98.jpg"></p>
+<p>然而，打字机毕竟是一种商品，速度慢这件事不利于宣传，卖不出去。于是，商家们就开始了他们的套路大法。他们给产品命名为 —— TYPEWRITER（打字机）。这个词正好位于 QWERTY 键盘的第一排，演示的简直太方便。紧接着，商家还开办了一个专门培训打字员的课程，用的就是这种键盘，当时的普通民众一看，好新鲜！还能找到新工作！便开始纷纷认可这种排列方式。</p>
+<p>随着按键原理和材料技术的进步，打字机不再那么容易因为打字太快而崩溃了，开始有人思考 QWERTY 布局的合理性。1932年，华盛顿大学教授奥古斯特·多芙拉克（August Dvorak）开始思考这个问题，他觉得合理的键盘应该做到：</p>
+<ol>
+<li>左右手的负荷量应该相等。</li>
+<li>最大化中间排（home row）的负荷。</li>
+<li>两手顺序交替的频率最大化，相同手指频率最小化。</li>
+</ol>
+<p>于是，他设计出了键位排列更科学的 DVORAK 布局，要知道目前世界最快的英文打字速度是在Dvorak键盘上创造的，由BarbaraBlackburn于2005年创造。但由于QWERTY早已普及，人们并不想在重新学习新的布局，所以DVORAK依旧无法流行起来。</p>
+<p><img src="/images/coding/DVORAK%E5%B8%83%E5%B1%80.jpg"></p>
+<p>另外有一种COLEMAK布局，它是在QWERTY的基础上改进而来，有10多个键位的变化，8个高频键完美安排在了中间一列，真正意义上做到了完美分布，手指移动距离更小。</p>
+<p><img src="/images/coding/COLEMAK%E5%B8%83%E5%B1%80.jpg"></p>
+<p>有一种MALT布局的键盘比较神奇，它是由理连·莫尔特（Lillian Malt）发明的，这种布局可以充分利用每一个手指，双手掌握一切，长时间使用还不容易疲劳。</p>
+<p> <img src="/images/coding/MALT%E5%B8%83%E5%B1%80.jpg"></p>
+<p>然而，即便这些键盘设计更为科学先进，人们经过训练，打字速度也有明显提升，但是依然响应平平。依靠广大人们的认可，QWERTY 排列法打败了无数排列方式，在键盘发展史上笑到最后。原因就在于 QWERTY 排列法诞生于1866年，比它们早了将近一百年，人们早就习惯了这种方式，而且熟能生巧。现在我们所看到的键盘，绝大多数都是 QWERTY 布局的键盘。</p>
+<p><img src="/images/coding/%E5%B8%B8%E8%A7%81%E7%9A%84Dell%E9%94%AE%E7%9B%98.jpg"></p>
+<p>这让我感受到了“先入为主”的力量，和“打破常规”的可贵。但同时，一切伟大的成就都是通过长期的努力得来的。</p>
+<p><img src="/images/coding/%E5%85%88%E5%85%A5%E4%B8%BA%E4%B8%BB.jpeg"></p>
+<h2 id="认识键盘"><a href="#认识键盘" class="headerlink" title="认识键盘"></a>认识键盘</h2><p>按照功能的不同，我们可以把键盘划分成5个区域。</p>
+<ul>
+<li><strong>主键盘区</strong>：包含字母键、数字（符号）键、功能键；</li>
+<li><strong>功能键区</strong>：包含 Esc 和 F1~F12 键，以及 PrintScreen、ScrollLock 和 Pause 键；</li>
+<li><strong>控制键区</strong>：包含上翻、下翻和方向键等；</li>
+<li><strong>数字键区</strong>：又称小键盘区，主要是为了方便输入数据，笔记本电脑通常省略；</li>
+<li><strong>状态指示区</strong>：对应数字键锁定、大写锁定、屏幕滚动显示锁定（很少用）。</li>
+</ul>
+<p><img src="/images/coding/%E6%89%93%E5%AD%97%E5%9F%BA%E7%A1%80-%E8%AE%A4%E8%AF%86%E9%94%AE%E7%9B%98.png"></p>
+<p>打字时双手十个手指都有明确的分工，按照正确的手指分工打字，有利于实现提高打字速度和准确度。</p>
+<p><img src="/images/coding/%E6%89%93%E5%AD%97%E5%9F%BA%E7%A1%80-%E6%89%8B%E6%8C%87%E5%88%86%E5%B7%A5.png"></p>
+<p>输入法快捷键操作</p>
+<ul>
+<li>Ctrl + 空格：在输入法与非输入法之间切换。（非输入法指的是中文简体美式键盘，只能打字母的那个）</li>
+<li>Ctrl + Shift：在你电脑里的中文输入法之间切换。</li>
+<li>Shift + Alt：在中文输入法和外文输入法之间切换，比如搜狗输入法和日文输入法之间。</li>
+</ul>
+<p>常见功能按键缩写</p>
+<table>
+<thead>
+<tr>
+<th align="center">按键</th>
+<th align="center">全称</th>
+<th align="center">解释</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">Ctrl</td>
+<td align="center">Control</td>
+<td align="center">控制键（用途广泛，苹果电脑上对应的是command键）</td>
+</tr>
+<tr>
+<td align="center">Alt</td>
+<td align="center">Alternate</td>
+<td align="center">交替换挡键（左右各有1个Alt键）</td>
+</tr>
+<tr>
+<td align="center">Shift</td>
+<td align="center">就是 Shift</td>
+<td align="center">上档转换键（左右各有1个Shift键）</td>
+</tr>
+<tr>
+<td align="center">Caps Lock</td>
+<td align="center">Capitals Lock</td>
+<td align="center">大写锁定（大小写字母转换键）</td>
+</tr>
+<tr>
+<td align="center">Tab</td>
+<td align="center">Table</td>
+<td align="center">制表符（通常相等于4个或8个空格）</td>
+</tr>
+<tr>
+<td align="center">Fn</td>
+<td align="center">Function</td>
+<td align="center">功能键（通常用于补充台式机上有而笔记本上省略的按键）</td>
+</tr>
+</tbody></table>
+<h2 id="打字练习"><a href="#打字练习" class="headerlink" title="打字练习"></a>打字练习</h2><p>我已经在 Ubuntu 上为你准备了一个叫 TuxType 的打字软件。如果还没安装，打开终端执行以下命令安装：</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get install tuxtype</span><br></pre></td></tr></table></figure>
+
+<p>启动电脑，在键盘中按下 “Ctrl + Alt + T” 打开一个新的终端，输入 <code>tuxtype</code> 并按回车键，你将会看到如下界面：</p>
+<p><img src="/images/coding/tuxtype%E7%95%8C%E9%9D%A21.jpg"></p>
+<p>软件启动之后，你会听到一段有点难听的音乐，如果不喜欢可以把音量调小一点。</p>
+<p>最开始处的两个选项 “Fish Cascade” 和 “Comet Zap” 是打字游戏，当你开始游戏时，你就投入到了这个课程。</p>
+<p>第3个选项 “Lessions” 提供了40多个简单的课程，每个课程会增加一个字母让你来练习，练习过程中会给出一些提示，比如应该用哪个手指按键盘上的字母。</p>
+<p><img src="/images/coding/tuxtype%E7%95%8C%E9%9D%A22.jpg"></p>
+<p><img src="/images/coding/tuxtype%E7%95%8C%E9%9D%A23.jpg"></p>
+<p>更高级点的，你可以练习输入句子，句子练习放在 “Options” 选项里。</p>
+<p><img src="/images/coding/tuxtype%E7%95%8C%E9%9D%A24.jpg"></p>
+<p>句子练习第一句是 “The quick brown fox jumps over the lazy dog”（一只敏捷的棕毛狐狸从懒狗身上跳过）。</p>
+<p>你发现了没，这个句子包含了26个英文字母，所以可用于检测键盘是否有坏键。当你顺利敲完这个句子之后，你会听到来自电脑的欢呼声，同时也说明你使用的键盘是完好的，否则你应该马上找小卢老师帮忙。</p>
+<p><img src="/images/coding/tuxtype%E7%95%8C%E9%9D%A25.jpg"></p>
+<p><img src="/images/coding/tuxtype%E7%95%8C%E9%9D%A26.jpg"></p>
+<p>这些游戏让你打出单词，来帮助 Tux 吃到小鱼或者干掉掉下来的流星，训练速度和精确度。这些游戏还可以训练你的拼写、速度、手眼配合能力，因为你如果认真在玩的话，必须盯着屏幕，不看键盘打字。</p>
+<p>通过不断地练习，你将掌握正确的打字姿势，养成良好的键盘使用习惯。不要小看它哦，它将会为以后的学习打下坚实的基础，加油！（隔一段时间记得要休息一下哦）</p>
+<p><img src="/images/coding/%E5%8A%A0%E6%B2%B9.jpeg"></p>
+<h2 id="作业"><a href="#作业" class="headerlink" title="作业"></a>作业</h2><p>（1）数一数你的键盘上有多少个键。</p>
+<p>（2）想一想身边还有哪些 “先入为主”、“劣势战胜优势” 的事物。</p>
+<p>（3）练习键盘打字，直到不看键盘也能打出所有英文字母和标点符号。</p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          <div class="reward-container">
+  <div>您的鼓励是我最大的动力！</div>
+  <button onclick="document.querySelector('.post-reward').classList.toggle('active');">
+    赞赏
+  </button>
+  <div class="post-reward">
+      <div>
+        <img src="/images/wechatpay.jpeg" alt="Rudy Lo 微信">
+        <span>微信</span>
+      </div>
+      <div>
+        <img src="/images/alipay.jpeg" alt="Rudy Lo 支付宝">
+        <span>支付宝</span>
+      </div>
+
+  </div>
+</div>
+
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>本文作者： </strong>Rudy Lo
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接：</strong>
+      <a href="https://luhuadong.com/coding/PyTK-2019-Day03.html" title="【教孩子学编程】第3天 打倒拦路虎，学会键盘打字">https://luhuadong.com/coding/PyTK-2019-Day03.html</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/Python/" rel="tag"># Python</a>
+              <a href="/tags/%E6%95%99%E5%AD%A9%E5%AD%90%E5%AD%A6%E7%BC%96%E7%A8%8B/" rel="tag"># 教孩子学编程</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/coding/PyTK-2019-Day02.html" rel="prev" title="【教孩子学编程】第2天 不同性格的电脑">
+                  <i class="fa fa-chevron-left"></i> 【教孩子学编程】第2天 不同性格的电脑
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/coding/PyTK-2019-Day04.html" rel="next" title="【教孩子学编程】第4天 咿呀学语，Python常用英文单词">
+                  【教孩子学编程】第4天 咿呀学语，Python常用英文单词 <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="valine-comments"></div>
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      const commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+  
+
+
+
+
+  <script>
+  if (typeof MathJax === 'undefined') {
+    window.MathJax = {
+      tex: {
+        inlineMath: {'[+]': [['$', '$']]},
+        tags: 'none'
+      },
+      options: {
+        renderActions: {
+          insertedScript: [200, () => {
+            document.querySelectorAll('mjx-container').forEach(node => {
+              const target = node.parentNode;
+              if (target.nodeName.toLowerCase() === 'li') {
+                target.parentNode.classList.add('has-jax');
+              }
+            });
+          }, '', false]
+        }
+      }
+    };
+    const script = document.createElement('script');
+    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
+    script.defer = true;
+    document.head.appendChild(script);
+  } else {
+    MathJax.startup.document.state(0);
+    MathJax.typesetClear();
+    MathJax.texReset();
+    MathJax.typeset();
+  }
+</script>
+
+
+
+<script>
+NexT.utils.loadComments('#valine-comments', () => {
+  NexT.utils.getScript('https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js', () => {
+    new Valine(Object.assign({"enable":true,"appId":"6hrjjOTKL5yC0nVxpfKzdw1b-gzGzoHsz","appKey":"wGcDnHp1q8puQOkcRCpvOM7n","serverURLs":"https://6hrjjotk.lc-cn-n1-shared.com","placeholder":"Just go go","avatar":"mm","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":false,"requiredFields":[]}, {
+      el: '#valine-comments',
+      path: "/coding/PyTK-2019-Day03.html",
+      serverURLs: "https://6hrjjotk.lc-cn-n1-shared.com"
+    }));
+  }, window.Valine);
+});
+</script>
+
+</body>
+</html>
