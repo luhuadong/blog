@@ -45,6 +45,7 @@ sticky: 100
 - [人民食物主权](https://www.shiwuzq.com/portal.php)
 - [环境资讯中心（台湾）](https://e-info.org.tw) :star:
 - [碳排放交易](http://www.tanpaifang.com/)
+- [气象科普 | 贵州省气象局](http://gz.cma.gov.cn/qxkp/)
 
 
 
