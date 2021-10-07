@@ -21,6 +21,8 @@ sticky: 100
 - [无境深蓝](http://www.betterblue.net)
 - [摆脱塑缚](https://www.zhihu.com/org/bai-tuo-su-fu)
 - [社区伙伴 PCD](https://pcd.org.hk)
+- [捡拾中国](https://www.pickupchina.cn)
+- [绿色江河](http://www.green-river.org)
 - [C40 Cities](https://www.c40.org)
 - [中南屋](https://www.chinagoingout.org)
 
