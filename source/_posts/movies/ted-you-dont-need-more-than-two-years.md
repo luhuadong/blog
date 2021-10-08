@@ -3,7 +3,8 @@ title: TED：改变自己，只需要两年时间
 date: 2021-09-07 22:47:18
 tags:
   - TED演讲
-  - 改变
+  - 时间
+  - 奋斗
 categories: movies
 ---
 

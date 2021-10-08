@@ -4,7 +4,7 @@ date: 2020-06-17 14:43:59
 tags:
   - 纪录片
   - 自由
-  - 操作系统
+  - 开源
 categories: movies
 ---
 
