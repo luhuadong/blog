@@ -223,20 +223,20 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">151</span>
+          <span class="site-state-item-count">173</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
       <div class="site-state-item site-state-categories">
             <a href="/categories/">
           
-        <span class="site-state-item-count">24</span>
+        <span class="site-state-item-count">25</span>
         <span class="site-state-item-name">分类</span></a>
       </div>
       <div class="site-state-item site-state-tags">
             <a href="/tags/">
           
-        <span class="site-state-item-count">59</span>
+        <span class="site-state-item-count">61</span>
         <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
@@ -306,7 +306,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/journal/%E4%BB%8E%E6%8B%BCT%E5%AD%97%E4%B8%AD%E9%87%8D%E6%96%B0%E7%90%86%E8%A7%A3%E5%9B%A2%E9%98%9F%E5%90%88%E4%BD%9C.html">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/hexo/hexo-configuration.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.jpg">
@@ -319,7 +319,7 @@
     </span>
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
-          <a href="/journal/%E4%BB%8E%E6%8B%BCT%E5%AD%97%E4%B8%AD%E9%87%8D%E6%96%B0%E7%90%86%E8%A7%A3%E5%9B%A2%E9%98%9F%E5%90%88%E4%BD%9C.html" class="post-title-link" itemprop="url">从拼T字中重新理解团队合作</a>
+          <a href="/hexo/hexo-configuration.html" class="post-title-link" itemprop="url">Hexo 配置</a>
         </h2>
 
         <div class="post-meta-container">
@@ -330,14 +330,14 @@
       </span>
       <span class="post-meta-item-text">发表于</span>
 
-      <time title="创建时间：2020-11-15 01:30:52" itemprop="dateCreated datePublished" datetime="2020-11-15T01:30:52+08:00">2020-11-15</time>
+      <time title="创建时间：2021-03-09 16:03:19" itemprop="dateCreated datePublished" datetime="2021-03-09T16:03:19+08:00">2021-03-09</time>
     </span>
       <span class="post-meta-item">
         <span class="post-meta-item-icon">
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2021-10-08 23:42:57" itemprop="dateModified" datetime="2021-10-08T23:42:57+08:00">2021-10-08</time>
+        <time title="修改时间：2021-10-09 20:57:45" itemprop="dateModified" datetime="2021-10-09T20:57:45+08:00">2021-10-09</time>
       </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -345,7 +345,7 @@
       </span>
       <span class="post-meta-item-text">分类于</span>
         <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/journal/" itemprop="url" rel="index"><span itemprop="name">journal</span></a>
+          <a href="/categories/hexo/" itemprop="url" rel="index"><span itemprop="name">hexo</span></a>
         </span>
     </span>
 
@@ -361,23 +361,31 @@
     
     
     <div class="post-body" itemprop="articleBody">
-          从拼T字中重新理解团队合作
-昨天上午的徒步出发前，教练给我们每支队伍一盒《T字之谜》拼图，先完成的队伍先出发。要求拼出一个大写字母 T，且四周必须是直角。很不幸，我们成了十支队伍里面，最后拼出 T 字的队伍。
+          * 文章更新时间
+ * 文章字数
+ * 文章阅读量
 
-此后一段时间，我一直在反思，尤其是当听到有人说：“你们小组很多聪明人呀，怎么垫底了呢？”
+设置首页只显示部分摘要
+Next默认是会显示全文的，这样显然很不方便，因此需要一些方法去只显示前面一部分。
 
-虽然只有区区四块拼图，看似简单，却隐藏着大智慧。我们花了不少时间摆弄来、摆弄去，怎么试都失败了。不是缺一个角，就是多一个边。
+首先，检查 Next 主题的 _config.yml 中把设置打开 excerpt_description 选项。
 
-我们在这里犯了几个错误：
+在文章的 front-matter 中添加 description 描述，其中 description 中的内容就会被作为摘要显示在首页上，其余一律不显示。
 
- 1. 最长边一定是外沿；
- 2. 水平线一定是水平线，斜线一定是斜线；
- 3. 缺口必须要填补，否则不能形成直角。
+1
+2
+3
+4
+5
 
-虽然教练多次提醒需要
+
+---
+title: 让首页显示部分内容
+date: 2021-09-23 21:58:37
+description: 这是显示在首页
           <!--noindex-->
             <div class="post-button">
-              <a class="btn" href="/journal/%E4%BB%8E%E6%8B%BCT%E5%AD%97%E4%B8%AD%E9%87%8D%E6%96%B0%E7%90%86%E8%A7%A3%E5%9B%A2%E9%98%9F%E5%90%88%E4%BD%9C.html#more" rel="contents">
+              <a class="btn" href="/hexo/hexo-configuration.html#more" rel="contents">
                 阅读全文 &raquo;
               </a>
             </div>
@@ -408,7 +416,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/zerowaste/%E8%AF%AF%E5%85%A5GoGreen%E5%8F%AF%E6%8C%81%E7%BB%AD%E7%94%9F%E6%B4%BB%E5%88%9B%E5%8F%98%E8%90%A5.html">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/hexo/hexo-themes.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.jpg">
@@ -421,7 +429,7 @@
     </span>
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
-          <a href="/zerowaste/%E8%AF%AF%E5%85%A5GoGreen%E5%8F%AF%E6%8C%81%E7%BB%AD%E7%94%9F%E6%B4%BB%E5%88%9B%E5%8F%98%E8%90%A5.html" class="post-title-link" itemprop="url">误入 GoGreen! 可持续生活创变营</a>
+          <a href="/hexo/hexo-themes.html" class="post-title-link" itemprop="url">Hexo 主题</a>
         </h2>
 
         <div class="post-meta-container">
@@ -432,14 +440,14 @@
       </span>
       <span class="post-meta-item-text">发表于</span>
 
-      <time title="创建时间：2020-10-29 09:41:22" itemprop="dateCreated datePublished" datetime="2020-10-29T09:41:22+08:00">2020-10-29</time>
+      <time title="创建时间：2021-03-09 16:02:19" itemprop="dateCreated datePublished" datetime="2021-03-09T16:02:19+08:00">2021-03-09</time>
     </span>
       <span class="post-meta-item">
         <span class="post-meta-item-icon">
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2021-10-08 23:09:58" itemprop="dateModified" datetime="2021-10-08T23:09:58+08:00">2021-10-08</time>
+        <time title="修改时间：2021-10-09 21:20:28" itemprop="dateModified" datetime="2021-10-09T21:20:28+08:00">2021-10-09</time>
       </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -447,7 +455,7 @@
       </span>
       <span class="post-meta-item-text">分类于</span>
         <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/zerowaste/" itemprop="url" rel="index"><span itemprop="name">zerowaste</span></a>
+          <a href="/categories/hexo/" itemprop="url" rel="index"><span itemprop="name">hexo</span></a>
         </span>
     </span>
 
@@ -463,18 +471,10 @@
     
     
     <div class="post-body" itemprop="articleBody">
-          创变营
-上个月在朋友圈看到微辣青年在招募“GoGreen! 可持续生活创变营”营员，想着过去一段时间，在环保圈潜水太久了，出来露露脸，认识一下新伙伴也蛮好的。于是，不小心就报名了，然后参加面试，然后通过了。
-
-报名之后，发现我手上的工作越来越多，也够忙好久了，腾出两个周末参加活动其实有点困难，于是纠结要不要参加。碍于已经答应主办方，并且交了押金，所以还是参加一下吧，反正提供酒店住宿，就当周末度假、学习好了。害，可我还是想得太简单了，于是度过了两个有点累、有点魔幻的周末。
-
-
-
-感想
-虽然因为参加 Go Green! 可持续生活创变营，错过了 1024 程序员节的研讨会，错过了开源社区工作小组的
+          * NexT
           <!--noindex-->
             <div class="post-button">
-              <a class="btn" href="/zerowaste/%E8%AF%AF%E5%85%A5GoGreen%E5%8F%AF%E6%8C%81%E7%BB%AD%E7%94%9F%E6%B4%BB%E5%88%9B%E5%8F%98%E8%90%A5.html#more" rel="contents">
+              <a class="btn" href="/hexo/hexo-themes.html#more" rel="contents">
                 阅读全文 &raquo;
               </a>
             </div>
@@ -505,7 +505,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/journal/two-decision-method-wcca-and-wadm.html">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/hexo/hexo-commands.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.jpg">
@@ -518,7 +518,7 @@
     </span>
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
-          <a href="/journal/two-decision-method-wcca-and-wadm.html" class="post-title-link" itemprop="url">分享两个决策方法WCCA和WADM</a>
+          <a href="/hexo/hexo-commands.html" class="post-title-link" itemprop="url">Hexo 命令</a>
         </h2>
 
         <div class="post-meta-container">
@@ -529,14 +529,14 @@
       </span>
       <span class="post-meta-item-text">发表于</span>
 
-      <time title="创建时间：2020-10-09 16:15:04" itemprop="dateCreated datePublished" datetime="2020-10-09T16:15:04+08:00">2020-10-09</time>
+      <time title="创建时间：2021-03-09 16:02:09" itemprop="dateCreated datePublished" datetime="2021-03-09T16:02:09+08:00">2021-03-09</time>
     </span>
       <span class="post-meta-item">
         <span class="post-meta-item-icon">
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2021-10-08 23:09:58" itemprop="dateModified" datetime="2021-10-08T23:09:58+08:00">2021-10-08</time>
+        <time title="修改时间：2021-10-09 21:16:25" itemprop="dateModified" datetime="2021-10-09T21:16:25+08:00">2021-10-09</time>
       </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -544,7 +544,7 @@
       </span>
       <span class="post-meta-item-text">分类于</span>
         <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/journal/" itemprop="url" rel="index"><span itemprop="name">journal</span></a>
+          <a href="/categories/hexo/" itemprop="url" rel="index"><span itemprop="name">hexo</span></a>
         </span>
     </span>
 
@@ -560,580 +560,34 @@
     
     
     <div class="post-body" itemprop="articleBody">
-          前几天，朋友给我推荐 MJ DeMarco 的《The Millionaire Fastlane》，里面提到两个帮助我们更好地作出决策的方法，非常实用，分享给大家！
-
- * WCCA（最坏情况后果分析，Worst Case Consequence Analysis）
- * WADM（加权平均决策矩阵，The Weighted Average Decision Matrix）
-
-相信大家在日常工作、学习、生活中常常面临选择，比如该选哪份工作？该去哪个城市发展？要不要复读？该选哪个专业？要不要买房？在哪里买房？要不要和这个人交往？等等…… 这些困扰我们的问题非常常见，我也在知乎上经常收到类似的问题
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/journal/two-decision-method-wcca-and-wadm.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/journal/%E5%AD%A6%E4%BC%9A%E4%BB%8E%E5%88%AB%E4%BA%BA%E7%9A%84%E5%A4%B1%E8%B4%A5%E4%B8%AD%E5%90%B8%E5%8F%96%E6%95%99%E8%AE%AD.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.jpg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人站">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/journal/%E5%AD%A6%E4%BC%9A%E4%BB%8E%E5%88%AB%E4%BA%BA%E7%9A%84%E5%A4%B1%E8%B4%A5%E4%B8%AD%E5%90%B8%E5%8F%96%E6%95%99%E8%AE%AD.html" class="post-title-link" itemprop="url">学会从别人的失败中吸取教训</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2020-10-07 15:25:30" itemprop="dateCreated datePublished" datetime="2020-10-07T15:25:30+08:00">2020-10-07</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2021-10-08 23:09:58" itemprop="dateModified" datetime="2021-10-08T23:09:58+08:00">2021-10-08</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/journal/" itemprop="url" rel="index"><span itemprop="name">journal</span></a>
-        </span>
-    </span>
-
-  
-  
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          学会从别人的失败中吸取教训
-最近看到一句话：聪明人从自己犯的错误中学习，智慧的人从别人的错误中学习。
-
-我才恍然大悟，原来我一直都是“聪明人”啊！
-
-是的，我一直信奉“纸上得来终觉浅，绝知此事要躬行”、“实践是检验真理的唯一标准”、“失败更容易让人成长”……
-
-所以很多东西都习惯自己尝试一遍再说，失败了也不怕。当然，这有好的一面，也有不好的一面。我忽略了信息传递的价值，我忽略了时间的有限性。
-
-直到后来，我投资失败了，职场发展也不顺利，身体健康也遭遇风险。失败的滋味真的太难受了，更重要的是，时间在不断地流逝。我才恍然大悟，其实我没有很好地利用信息的价值，没有虚心向前辈请教，没有从前人的失败中吸
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/journal/%E5%AD%A6%E4%BC%9A%E4%BB%8E%E5%88%AB%E4%BA%BA%E7%9A%84%E5%A4%B1%E8%B4%A5%E4%B8%AD%E5%90%B8%E5%8F%96%E6%95%99%E8%AE%AD.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/journal/%E4%BB%BB%E4%BD%95%E4%B8%80%E6%9D%A1%E8%B7%AF%E9%83%BD%E6%98%AF%E4%BD%A0%E7%9A%84%E9%80%89%E6%8B%A9.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.jpg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人站">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/journal/%E4%BB%BB%E4%BD%95%E4%B8%80%E6%9D%A1%E8%B7%AF%E9%83%BD%E6%98%AF%E4%BD%A0%E7%9A%84%E9%80%89%E6%8B%A9.html" class="post-title-link" itemprop="url">如果你不知道去哪里，任何一条路都是你的选择</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2020-09-29 15:49:49" itemprop="dateCreated datePublished" datetime="2020-09-29T15:49:49+08:00">2020-09-29</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2021-10-08 23:09:58" itemprop="dateModified" datetime="2021-10-08T23:09:58+08:00">2021-10-08</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/journal/" itemprop="url" rel="index"><span itemprop="name">journal</span></a>
-        </span>
-    </span>
-
-  
-  
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          如果你不知道去哪里，任何一条路都是你的选择
-我有一个朋友小A，他早年创过业，开了一家餐厅，但是亏本了。把店铺关了之后，小A陷入了低迷。
-
-实在看不下去，我隔三差五地就跟他聊天，我说：“创业本来就是九死一生的事情，而且餐饮行业的竞争十分激烈，好好总结一下，重新上路就行啦！只有失败过，才能体会成功的来之不易，才能抓住伴随而来的财富。至于现在嘛，趁年轻多学点技能，多积累些人脉，多攒点钱，以后的路还很长，机会还很多呢。”
-
-小A也知道自己开餐厅太鲁莽，没有餐饮行业的经验，只是觉得不想继续打工了，刚好有朋友想开餐厅，一拍即合就辞职、投钱进去了。小A说：“你说的道理我都懂，可我就是不知道该怎么做，学什么技
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/journal/%E4%BB%BB%E4%BD%95%E4%B8%80%E6%9D%A1%E8%B7%AF%E9%83%BD%E6%98%AF%E4%BD%A0%E7%9A%84%E9%80%89%E6%8B%A9.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/journal/%E7%A7%AF%E7%B4%AF%E5%AE%9A%E5%BE%8B.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.jpg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人站">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/journal/%E7%A7%AF%E7%B4%AF%E5%AE%9A%E5%BE%8B.html" class="post-title-link" itemprop="url">积累定律：努力让自己值钱</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2020-09-26 10:42:57" itemprop="dateCreated datePublished" datetime="2020-09-26T10:42:57+08:00">2020-09-26</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2021-10-08 23:09:58" itemprop="dateModified" datetime="2021-10-08T23:09:58+08:00">2021-10-08</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/journal/" itemprop="url" rel="index"><span itemprop="name">journal</span></a>
-        </span>
-    </span>
-
-  
-  
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          积累定律：努力让自己值钱
-很多年轻人都曾梦想做一番大事业，其实天下并没有什么大事可做，有的只是小事。一件小事积累起来，便形成了大事。这任何大成就或者大灾难都是积累的结果。这便是积累定律。也就是说，这个世界所谓的大成功，其实都是由小事积累起来的结果。你要取得成就，就必须重视每一件小事，重视每段时光，懂得坚持和坚守。正如马云对所有年轻人的告诫一样。在抱怨自己赚钱少之前，先努力让自己值钱。如果你不相信努力和时光，那么时光会第一个辜负你。如果你总是幻想自己有钱，不懂得脚踏实地，不懂的在积累中提升自己的价值，最终只会在幻想中迷失掉自己。
-
-大多数年轻人不太懂得积累，不停的换工作，直接原因就在于嫌原来的老
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/journal/%E7%A7%AF%E7%B4%AF%E5%AE%9A%E5%BE%8B.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/science/why-the-earth-rotation-is-getting-slower-and-slower.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.jpg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人站">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/science/why-the-earth-rotation-is-getting-slower-and-slower.html" class="post-title-link" itemprop="url">为什么地球自转越来越慢</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2020-09-16 09:54:24" itemprop="dateCreated datePublished" datetime="2020-09-16T09:54:24+08:00">2020-09-16</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2021-10-08 23:09:58" itemprop="dateModified" datetime="2021-10-08T23:09:58+08:00">2021-10-08</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/science/" itemprop="url" rel="index"><span itemprop="name">science</span></a>
-        </span>
-    </span>
-
-  
-  
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/journal/%E8%BF%9C%E7%A6%BB%E9%82%A3%E4%BA%9B%E6%B6%88%E8%80%97%E4%BD%A0%E7%9A%84%E4%BA%BA%E5%92%8C%E4%BA%8B.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.jpg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人站">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/journal/%E8%BF%9C%E7%A6%BB%E9%82%A3%E4%BA%9B%E6%B6%88%E8%80%97%E4%BD%A0%E7%9A%84%E4%BA%BA%E5%92%8C%E4%BA%8B.html" class="post-title-link" itemprop="url">远离那些消耗你的人和事</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2020-09-05 20:25:16" itemprop="dateCreated datePublished" datetime="2020-09-05T20:25:16+08:00">2020-09-05</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2021-10-08 23:09:58" itemprop="dateModified" datetime="2021-10-08T23:09:58+08:00">2021-10-08</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/journal/" itemprop="url" rel="index"><span itemprop="name">journal</span></a>
-        </span>
-    </span>
-
-  
-  
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          远离那些消耗你的人和事
-大学入学那天，我带来十四箱行李和一辆自行车，箱子里有暑假期间提前买的书，有未来四年要用的被子、衣服等生活用品，有高中时候入手的一些电子工具和轮滑鞋，甚至还有螺丝刀、订书机、草稿本……
-
-我是一个不喜欢麻烦别人的人，大多数时候都是别人来麻烦我，而我尽量不去麻烦别人。
-
-很久以后，我才发现，这种性格让我陷入了巨大的麻烦。
-
-家人觉得我把学习和生活打理得很好而不用为我操心，同学觉得我设备齐全习惯于找我借东西，队友觉得我身体素质很好把我推向前线，朋友觉得我家境富裕喜欢找我借钱，谈的对象也觉得我很优秀值得对她更好。
-
-唯独我自己，知道家里条件不好，要好好学习才能出人头地；知道同学
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/journal/%E8%BF%9C%E7%A6%BB%E9%82%A3%E4%BA%9B%E6%B6%88%E8%80%97%E4%BD%A0%E7%9A%84%E4%BA%BA%E5%92%8C%E4%BA%8B.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/coding/python-run-simple-http-server.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.jpg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人站">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/coding/python-run-simple-http-server.html" class="post-title-link" itemprop="url">Python 临时启动简单的 HTTP 服务器</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2020-08-16 10:53:27" itemprop="dateCreated datePublished" datetime="2020-08-16T10:53:27+08:00">2020-08-16</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2021-10-08 23:09:58" itemprop="dateModified" datetime="2021-10-08T23:09:58+08:00">2021-10-08</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/coding/" itemprop="url" rel="index"><span itemprop="name">coding</span></a>
-        </span>
-    </span>
-
-  
-  
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          有时候我们需要临时启动一个简单的 Web Server 进行测试或分享文件，当然可以用 Apache、Nginx 这些 HTTP 服务，不过又显得过于麻烦。其实 Python 自带了一个简单的内建 HTTP 服务器，这时候用它就特别合适了！
-
-基本命令
+          创建新博客
 
 1
 
 
-python -m Web服务器模块 [端口号，默认8000]
+hexo new "Hello World"
 
 
-这里的“Web服务器模块”有以下三种：
+生成网站
 
- * BaseHTTPServer: 提供基本的 Web 服务和处理器类，分别是 HTTPServer 和 BaseHTTPRequestHandler；
- * SimpleHTTPServer: 包含执行 GET 和 HEA
+1
+
+
+hexo generate
+
+
+启动本地服务器
+
+1
+
+
+hexo server
+
+
+默认启动 4000 端口（可在 _config.yml 文件设定），访问 http://localhost:4000 即可浏览网页。
           <!--noindex-->
             <div class="post-button">
-              <a class="btn" href="/coding/python-run-simple-http-server.html#more" rel="contents">
+              <a class="btn" href="/hexo/hexo-commands.html#more" rel="contents">
                 阅读全文 &raquo;
               </a>
             </div>
@@ -1164,7 +618,7 @@ python -m Web服务器模块 [端口号，默认8000]
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/science/why-do-we-need-four-satellites-for-gps.html">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/hexo/hexo-installation.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.jpg">
@@ -1177,7 +631,7 @@ python -m Web服务器模块 [端口号，默认8000]
     </span>
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
-          <a href="/science/why-do-we-need-four-satellites-for-gps.html" class="post-title-link" itemprop="url">至少需要多少颗卫星才能准确定位？</a>
+          <a href="/hexo/hexo-installation.html" class="post-title-link" itemprop="url">Hexo 安装</a>
         </h2>
 
         <div class="post-meta-container">
@@ -1188,14 +642,14 @@ python -m Web服务器模块 [端口号，默认8000]
       </span>
       <span class="post-meta-item-text">发表于</span>
 
-      <time title="创建时间：2020-06-25 23:03:05" itemprop="dateCreated datePublished" datetime="2020-06-25T23:03:05+08:00">2020-06-25</time>
+      <time title="创建时间：2021-03-09 15:59:09" itemprop="dateCreated datePublished" datetime="2021-03-09T15:59:09+08:00">2021-03-09</time>
     </span>
       <span class="post-meta-item">
         <span class="post-meta-item-icon">
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2021-10-08 23:09:58" itemprop="dateModified" datetime="2021-10-08T23:09:58+08:00">2021-10-08</time>
+        <time title="修改时间：2021-10-09 21:15:54" itemprop="dateModified" datetime="2021-10-09T21:15:54+08:00">2021-10-09</time>
       </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -1203,7 +657,7 @@ python -m Web服务器模块 [端口号，默认8000]
       </span>
       <span class="post-meta-item-text">分类于</span>
         <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/science/" itemprop="url" rel="index"><span itemprop="name">science</span></a>
+          <a href="/categories/hexo/" itemprop="url" rel="index"><span itemprop="name">hexo</span></a>
         </span>
     </span>
 
@@ -1219,17 +673,639 @@ python -m Web服务器模块 [端口号，默认8000]
     
     
     <div class="post-body" itemprop="articleBody">
-          引言
-说到卫星定位系统，大家都会想到 GPS（Global Positioning System，全球定位系统）。GPS 是美国从上世纪 70 年代开始研制，历时 20 年，耗资 200 亿美元，于 1994 年全面建成，具有在海、陆、空进行全方位实时三维导航与定位能力的新一代卫星导航与定位系统。早期仅限于军方使用，时至今日，GPS 早已开放给民间做为定位使用，广泛应用于资源勘查、航空、交通、灾害现场等领域。
+          Hexo 的安装方法很简单，但它依赖 Node.js 和 Git，因此需要先安装这些应用程序。
 
-除了美国的 GPS 系统，世界上知名的卫星导航与定位系统还有：俄罗斯的 GLONASS、欧盟的 GALILEO 以及中国的北斗卫星导航系统（BDS）。
+ * Node.js（Node.js 版本需不低于 10.13，建议使用 Node.js 12.0 及以上版本）
+ * Git 版本管理系统
+
+安装 Git
+Windows 用户可以通过 https://git-scm.com/download/win 网页下载并安装 Git。
+
+macOS 用户可以使用 Homebrew、MacPorts 工具或者直接下载 安装程序 进行安装。
+
+Linux 用户可以通过下面命令安装 Git：
+
+1
+2
 
 
-
-自1994年北斗一号系统工
+sudo apt-get install git-co
           <!--noindex-->
             <div class="post-button">
-              <a class="btn" href="/science/why-do-we-need-four-satellites-for-gps.html#more" rel="contents">
+              <a class="btn" href="/hexo/hexo-installation.html#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/hexo/hexo-intro.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="阿基米东个人站">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/hexo/hexo-intro.html" class="post-title-link" itemprop="url">Hexo 简介</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2021-03-09 15:57:09" itemprop="dateCreated datePublished" datetime="2021-03-09T15:57:09+08:00">2021-03-09</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2021-10-09 21:35:20" itemprop="dateModified" datetime="2021-10-09T21:35:20+08:00">2021-10-09</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/hexo/" itemprop="url" rel="index"><span itemprop="name">hexo</span></a>
+        </span>
+    </span>
+
+  
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          Hexo 是一个快速、简洁且高效的博客框架。Hexo 基于 Node.js 实现，并使用 Markdown（或其他渲染引擎）解析文章，可以帮助用户在几秒内生成静态网页。配合 Hexo 主题，就可以生成许多酷炫靓丽的博客网页。
+
+Hexo 框架具有如下特性：
+
+ * 风一般的速度 —— Hexo 基于 Node.js，支持多进程，几百篇文章也可以秒生成。
+ * 流畅的撰写 —— 支持 GitHub Flavored Markdown 和所有 Octopress 的插件。
+ * 扩展性 —— Hexo 支持 EJS、Swig 和 Stylus。通过插件支持 Haml、Jade 和 Less。
+
+相
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/hexo/hexo-intro.html#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/markdown/markdown-emoji.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="阿基米东个人站">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/markdown/markdown-emoji.html" class="post-title-link" itemprop="url">俏皮的 Markdown Emoji 表情</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2021-03-07 23:07:08" itemprop="dateCreated datePublished" datetime="2021-03-07T23:07:08+08:00">2021-03-07</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2021-10-08 23:09:58" itemprop="dateModified" datetime="2021-10-08T23:09:58+08:00">2021-10-08</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/markdown/" itemprop="url" rel="index"><span itemprop="name">markdown</span></a>
+        </span>
+    </span>
+
+  
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          【Markdown从入门到精通】
+
+❓ 如果不懂外语，在互联网上怎么交流？—— 别慌，可以用互联网时代全球通用语言 Emoji 呀！
+
+Emoji 的发展史
+📎 ​Emoji 的演变主要分为三个阶段。
+
+1️⃣ 符号表情（颜文字）
+早在 1967 年，美国《Reader’s Digest》的一篇文章就提出了用符号表达情绪的概念，但这个想法并未付诸实践。直到 1982 年，卡耐基梅隆大学的 Scott Fahlman 教授提议在留言板上使用 :-) 和 :-( 符号来区分严肃的帖子和笑话。
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+
+19-Sep-82 11:44    Scott 
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/markdown/markdown-emoji.html#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/markdown/markdown-extended-syntax.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="阿基米东个人站">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/markdown/markdown-extended-syntax.html" class="post-title-link" itemprop="url">了解常用 Markdown 扩展语法</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2021-03-07 21:04:54" itemprop="dateCreated datePublished" datetime="2021-03-07T21:04:54+08:00">2021-03-07</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2021-10-08 23:09:58" itemprop="dateModified" datetime="2021-10-08T23:09:58+08:00">2021-10-08</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/markdown/" itemprop="url" rel="index"><span itemprop="name">markdown</span></a>
+        </span>
+    </span>
+
+  
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          【Markdown从入门到精通】
+
+虽然 Markdown 扩展语法不在 CommonMark Spec 标准中，但许多 Markdown 编辑器也都尽量支持，因此学习一些常用的 Markdown 扩展语法也是有必要的。本文介绍的主要是 GitHub Flavored Markdown，也就是 GitHub 风格的 Markdown 扩展语法。
+
+删除线
+使用两个飘号 ~~ 包裹需要表示删除的文字。
+
+1
+
+
+~~抽烟~~
+
+
+下划线
+由于 Markdown 和 HTML 的暧昧关系，因此在 Markdown 中，下划线可以通过 <u> </u> 标签来实现。
+
+1
+
+
+<u>下面有条线</u
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/markdown/markdown-extended-syntax.html#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/markdown/markdown-basic-syntax.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="阿基米东个人站">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/markdown/markdown-basic-syntax.html" class="post-title-link" itemprop="url">快速了解 Markdown 基础语法</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2021-03-07 17:40:13" itemprop="dateCreated datePublished" datetime="2021-03-07T17:40:13+08:00">2021-03-07</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2021-10-08 23:09:58" itemprop="dateModified" datetime="2021-10-08T23:09:58+08:00">2021-10-08</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/markdown/" itemprop="url" rel="index"><span itemprop="name">markdown</span></a>
+        </span>
+    </span>
+
+  
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          【Markdown从入门到精通】
+
+语法规则是 Markdown 的核心，本节我们就来学习一下 Markdown 的基础语法，记不住不要紧，小伙伴们可以在用到的时候及时查阅，反复练习即可。用不了几天，你一定会掌握的！
+
+在前面《三分钟成为 Markdown 专家》提到，目前有许多 Markdown-like language，还有一个提供无歧义语法规范的 CommonMark 项目。这就导致了各种存在差异的 Markdown 的语法，对初学者来说造成疑惑，比如在一个 Markdown 编辑器这么写没问题，换一个编辑器就不行了。
+
+所以在学习 Markdown 语法之前，我们需要知道 Markd
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/markdown/markdown-basic-syntax.html#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/markdown/markdown-editor.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="阿基米东个人站">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/markdown/markdown-editor.html" class="post-title-link" itemprop="url">盘点好用的 Markdown 编辑器</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2021-03-07 13:06:56" itemprop="dateCreated datePublished" datetime="2021-03-07T13:06:56+08:00">2021-03-07</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2021-10-08 23:09:58" itemprop="dateModified" datetime="2021-10-08T23:09:58+08:00">2021-10-08</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/markdown/" itemprop="url" rel="index"><span itemprop="name">markdown</span></a>
+        </span>
+    </span>
+
+  
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          【Markdown从入门到精通】
+
+Markdown 是以文本形式保存的，基本上任何一款编辑器都可以完成 Markdown 写作（包括 Windows 的记事本、Linux 的 Vim 等等）。不过，如果你想更专注于写作，一款支持语法显示和实时渲染的工具能让你事半功倍！
+
+下面列出的是我个人使用过一些 Markdown 编辑器，小伙伴们可以根据自己的需要安装使用。
+
+名称特点支持平台费用MarkdownPadWindows 平台最好用的 Markdown 编辑器Windows免费 + 付费Atom开源，跨平台，超棒的编辑器，需安装插件Windows、Linux、macOS免费Sublime T
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/markdown/markdown-editor.html#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/markdown/markdown-intro.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="阿基米东个人站">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/markdown/markdown-intro.html" class="post-title-link" itemprop="url">三分钟成为 Markdown 专家</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2021-03-07 00:32:03" itemprop="dateCreated datePublished" datetime="2021-03-07T00:32:03+08:00">2021-03-07</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2021-10-08 23:09:58" itemprop="dateModified" datetime="2021-10-08T23:09:58+08:00">2021-10-08</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/markdown/" itemprop="url" rel="index"><span itemprop="name">markdown</span></a>
+        </span>
+    </span>
+
+  
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          【Markdown从入门到精通】
+
+当你点开这篇文章的时候，相信你已经听过，甚至使用过 Markdown 了。现在，你希望进一步了解，使用好 Markdown。
+
+那么，请先回答 3 个问题：
+
+ 1. Markdown 是什么？
+ 2. Markdown 不是什么？
+ 3. 为什么使用 Markdown？
+
+Markdown 是什么
+Markdown 是一种轻量级标记语言。别被「标记语言」这个词吓到，其实就是用一些足够简单的符号作为标记来对文本内容进行修饰。比如像下面这张图，左边就是用 Markdown 进行标记的文本，右边是经过渲染后呈现给用户的效果。
+
+
+
+Markdown 简史
+
+Ma
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/markdown/markdown-intro.html#more" rel="contents">
                 阅读全文 &raquo;
               </a>
             </div>
@@ -1253,7 +1329,7 @@ python -m Web服务器模块 [端口号，默认8000]
 
 
   <nav class="pagination">
-    <a class="extend prev" rel="prev" href="/page/6/"><i class="fa fa-angle-left" aria-label="上一页"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/6/">6</a><span class="page-number current">7</span><a class="page-number" href="/page/8/">8</a><span class="space">&hellip;</span><a class="page-number" href="/page/16/">16</a><a class="extend next" rel="next" href="/page/8/"><i class="fa fa-angle-right" aria-label="下一页"></i></a>
+    <a class="extend prev" rel="prev" href="/page/6/"><i class="fa fa-angle-left" aria-label="上一页"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/6/">6</a><span class="page-number current">7</span><a class="page-number" href="/page/8/">8</a><span class="space">&hellip;</span><a class="page-number" href="/page/18/">18</a><a class="extend next" rel="next" href="/page/8/"><i class="fa fa-angle-right" aria-label="下一页"></i></a>
   </nav>
 
 
