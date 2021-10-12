@@ -40,8 +40,8 @@ date: 2020-08-30 15:54:17
 
 拥有网站：
 
-- [人人都懂物联网](https://getiot.tech) ：一个提供物联网相关技术教程的网站
-- [零聚 ZeroTogether](https://zerotogether.net) ：一个关注低碳、环保、可持续生活的网站
+- [人人都懂物联网](https://getiot.tech) ：一个提供物联网（IoT）相关知识与技术教程的网站
+- [零聚 ZeroTogether](https://zerotogether.net) ：一个关注自然、低碳、环保、可持续生活的网站
 - [FCTC-Air](https://fctc-air.cn) ：一个开放的空气监测数据平台
 - [个人网站](https://luhuadong.com) ：就是你现在看到的这个网站哈~
 
