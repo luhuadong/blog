@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.0.2">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/avatar_mini.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/avatar_mini.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/avatar_mini.png">
+  <link rel="mask-icon" href="/images/avatar_mini.png" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+
+<script class="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
+  </script>
+<meta name="description" content="知乎，是中国当前非常优秀的互联网问答社区。作为一个问答社区，知乎的年访问量就达到了30亿，根据 Alexa 统计，知乎全球排名187，中国排名36。在2021年更是以347亿的市值上市。   * 知乎是中国互联网上效率最高的文字类产品，它的赞同机制、内容发现机制，可以让用户在极快的速度内，以最高的效率寻找到答案。  * 在知乎出现以前，要找到一个合适的能回答你问题的人，成本很高，效率很低。知乎的出">
+<meta property="og:type" content="article">
+<meta property="og:title" content="知乎（zhihu）发展历程与启发">
+<meta property="og:url" content="https://luhuadong.com/business/zhihu.html">
+<meta property="og:site_name" content="成为自由人">
+<meta property="og:description" content="知乎，是中国当前非常优秀的互联网问答社区。作为一个问答社区，知乎的年访问量就达到了30亿，根据 Alexa 统计，知乎全球排名187，中国排名36。在2021年更是以347亿的市值上市。   * 知乎是中国互联网上效率最高的文字类产品，它的赞同机制、内容发现机制，可以让用户在极快的速度内，以最高的效率寻找到答案。  * 在知乎出现以前，要找到一个合适的能回答你问题的人，成本很高，效率很低。知乎的出">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://luhuadong.com/images/business/zhihu-founder-zhouyuan.jpeg">
+<meta property="article:published_time" content="2021-10-11T08:58:52.000Z">
+<meta property="article:modified_time" content="2021-10-12T07:41:38.996Z">
+<meta property="article:author" content="Rudy Lo">
+<meta property="article:tag" content="商业">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://luhuadong.com/images/business/zhihu-founder-zhouyuan.jpeg">
+
+
+<link rel="canonical" href="https://luhuadong.com/business/zhihu.html">
+
+
+<script class="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+<title>知乎（zhihu）发展历程与启发 | 成为自由人</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
+    <script>
+      if (CONFIG.hostname === location.hostname) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-190737867-1');
+      }
+    </script>
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+  <noscript>
+  <style>
+  body { margin-top: 2rem; }
+
+  .use-motion .menu-item,
+  .use-motion .sidebar,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header {
+    visibility: visible;
+  }
+
+  .use-motion .header,
+  .use-motion .site-brand-container .toggle,
+  .use-motion .footer { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle,
+  .use-motion .custom-logo-image {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line {
+    transform: scaleX(1);
+  }
+
+  .search-pop-overlay, .sidebar-nav { display: none; }
+  .sidebar-panel { display: block; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <h1 class="site-title">成为自由人</h1>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
+      <img class="custom-logo-image" src="/uploads/qrcode_8cm.jpg" alt="成为自由人">
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu">
+        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
+        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
+        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
+        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
+        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
+        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
+        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
+        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%95%85%E4%BA%8B"><span class="nav-number">1.</span> <span class="nav-text">创始人故事</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E2%80%9C%E8%B7%AF%E9%A3%9E%E2%80%9D%E5%81%87%E5%86%92%E4%B8%93%E5%AE%B6%E4%BA%8B%E4%BB%B6"><span class="nav-number">2.</span> <span class="nav-text">“路飞”假冒专家事件</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%99%BE%E5%BA%A6%E7%9F%A5%E9%81%93-vs-%E7%9F%A5%E4%B9%8E"><span class="nav-number">3.</span> <span class="nav-text">百度知道 vs 知乎</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%87%87%E8%AE%BF%E8%A7%86%E9%A2%91"><span class="nav-number">4.</span> <span class="nav-text">采访视频</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#References"><span class="nav-number">5.</span> <span class="nav-text">References</span></a></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
+      src="/images/avatar.jpg">
+  <p class="site-author-name" itemprop="name">Rudy Lo</p>
+  <div class="site-description" itemprop="description">阿基米东个人杂志社</div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">179</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">25</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">61</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author site-overview-item animated">
+      <span class="links-of-author-item">
+        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://gitee.com/luhuadong" title="Gitee → https:&#x2F;&#x2F;gitee.com&#x2F;luhuadong" rel="noopener" target="_blank">Gitee</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.douban.com/group/730047/" title="豆瓣 → https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;" rel="noopener" target="_blank">豆瓣</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://zerotogether.net/" title="零聚社区 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零聚社区</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+  </div>
+  <div class="cc-license site-overview-item animated" itemprop="license">
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
+  </div>
+
+
+
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="back-to-top" role="button">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/business/zhihu.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="阿基米东个人杂志社">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          知乎（zhihu）发展历程与启发
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2021-10-11 16:58:52" itemprop="dateCreated datePublished" datetime="2021-10-11T16:58:52+08:00">2021-10-11</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2021-10-12 15:41:38" itemprop="dateModified" datetime="2021-10-12T15:41:38+08:00">2021-10-12</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/business/" itemprop="url" rel="index"><span itemprop="name">business</span></a>
+        </span>
+    </span>
+
+  
+  
+  <span class="post-meta-item">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">Valine：</span>
+  
+    <a title="valine" href="/business/zhihu.html#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/business/zhihu.html" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p>知乎，是中国当前非常优秀的互联网问答社区。作为一个问答社区，知乎的年访问量就达到了30亿，根据 Alexa 统计，知乎全球排名187，中国排名36。在2021年更是以347亿的市值上市。</p>
+<ul>
+<li>知乎是中国互联网上效率最高的文字类产品，它的赞同机制、内容发现机制，可以让用户在极快的速度内，以最高的效率寻找到答案。</li>
+<li>在知乎出现以前，要找到一个合适的能回答你问题的人，成本很高，效率很低。知乎的出现，通过社区的方式，连接了用户和信息，让合适的问题和合适的回答者更加高效地匹配在了一起。</li>
+<li>知乎始终坚持把用户价值放在第一位，保持开放解决问题的心态，照顾每一个使用产品的用户，坚持用户体验第一，坚持激发普通人的潜能。</li>
+</ul>
+<h2 id="创始人故事"><a href="#创始人故事" class="headerlink" title="创始人故事"></a>创始人故事</h2><p><img src="/images/business/zhihu-founder-zhouyuan.jpeg"></p>
+<p>1980年，周源出生在一个贵阳的小康之家，他的父母分别是新闻工作者和教师，这让他从小的生活就充满了书香氛围。1996年，周源顺利考上成都理工大学的计算机系，并在本科毕业之后继续读研。2003年获得东南大学软件工程专业的硕士学位。</p>
+<p>21世纪初，计算机对于中国来说还是个新鲜事物，因此像周源这样的计算机人才十分抢手。毕业之后，周源来到上海一家做超市软件开发的公司工作，负责软件数据库方面的工作。能够以软件工程师的身份，在上海这样一座大城市里的软件公司上班，在那个年代绝对是令人羡慕的职业。计算机尚未大规模普及的2003年，程序员可是一个风光的身份。</p>
+<p>但周源并不满足于此，他虽然在工作上得心应手，但每日与代码为伴的生活让他逐渐对这份工作感到了厌烦。在写了两年超时软件代码之后，他决定辞职。或许是出于身为新闻工作者的父亲对他的影响，周源离开了上海，来到了北京。在北京当地的一家互联网相关的杂志社当了一名记者。专门去采访和报道那些科技公司和这些公司的首席信息官。在当记者的这两年里，周源发现了一个让他心动的现象。那就是像腾讯、百度、阿里巴巴等互联网企业正如雨后春笋一般在中国发展，并且事业也越做越大。周源看在眼里，心中不免对此颇为向往。他心想自己做过程序员，也当过互联网方面的记者，如果能够在网络上建立一个科技爱好者和从业者交流的网站，或许会有很多人喜欢。</p>
+<p>于是，周源和同事们创立了一个论坛网站，专门讨论科技公司的新闻，周源毕竟老本行是写代码，网站的建立十分顺利。仅仅在网站建立一个月后，这个网站的月浏览量就超过了他正在上班的杂志社的主站的流量，这给予了周源对于创业莫大的信心鼓励。</p>
+<p>在2008年，周源正式辞去记者的工作，开始了自己的创业之旅。他的第一次创业想去学习搜狗、百度等搜索引擎，打算建立一个 meta 搜索的项目。meta 的大概意思就是关键词标签，周源开发了帮助企业做搜索引擎广告投放所用的 meta 搜索。不过虽然有着丰富的编程经验，但初次创业的他对于市场的运作还是经验不足。在坚持了两年之后，他的第一次创业尝试以失败告终。</p>
+<p>初次创业失败给了周源不小的信心打击，这让他开始反思和总结经验。2010年时，百度公司的百度知道问答模式已经出现，类似的搜索引擎公司也相继出现了类似的问答社区。周源打算自己也建立一个问答社区，他找到了之前在工作中认识的一些同事朋友，开始着手知乎的创建。</p>
+<p>知乎在2011年1月正式上线，但由于知名度较小，他就和团队里的其他成员们一起，纷纷邀请自己的朋友来体验。令他有些意想不到的事出现了，在初期用户中，有很多都是周源团队所邀请来的他们认识的互联网科技专业人士。这些人平时的工作一般都很忙，但还是在知乎上很积极地回复信息，周源从这一点中找到了知乎的优势 —— 那就是这些专业人士常年面对计算机，交流经验也大多仅限于同事，通过知乎平台，自己一肚子的专业知识突然得到了不少人的认可，自然会让他们非常高兴。并且回答问题也不会耗费多少精力，甚至还能够与论坛中的其他专家交流经验，这让当时的知乎在互联网科技圈子中小火了一把。知乎，也从那时候起有了“专业”这个标签。</p>
+<p>知乎小有名气的时候，周源就联想到上一次创业失败的经历，那就是没能拉到多少投资。所以这次开始重视吸引投资以扩大知乎的发展，凭借着知乎的知名度逐渐提高和周源的四处奔走，知乎在2011年3月就获得了李开复的天使轮投资。之后又获得了启明投资的千万美元A轮投资，知乎的发展预算一下子充足起来了，开始不断宣传来吸引用户，并且在网站建设方面也更加成熟。越来越多各个领域的专业人士进驻知乎，这吸引了更多前来提问的用户。</p>
+<p>随着智能手机和家用电脑的普及越来越广泛，在网络上问问题的人也越来越多，周源意识到不能继续以邀请制的方式来增加用户。2013年知乎正式对公众开放注册，不到一年的时间里，知乎的注册用户量一下子翻了十倍，从40万迅速攀升到400万。用户量的暴涨和知名度的不断提高，也为知乎吸引了更多的投资。2014年6月，软银财富又向知乎的B轮融资领投了2200万美元。</p>
+<h2 id="“路飞”假冒专家事件"><a href="#“路飞”假冒专家事件" class="headerlink" title="“路飞”假冒专家事件"></a>“路飞”假冒专家事件</h2><p>为了防止出现更多“捣乱假专家”，知乎做了两个决策：</p>
+<ul>
+<li>第一个决策是让知乎的用户进行身份认证，无论自称什么专家，都得拿出相关的资质证明才行。</li>
+<li>第二个决策是让知乎的问答内容逐渐摆脱“高大上”的标签，加强与各种搜索引擎公司的合作，无论是专业知识还是生活小事都能够从知乎上找到答案。</li>
+</ul>
+<h2 id="百度知道-vs-知乎"><a href="#百度知道-vs-知乎" class="headerlink" title="百度知道 vs 知乎"></a>百度知道 vs 知乎</h2><p><strong>产品定位不同</strong></p>
+<ul>
+<li>百度知道：快速解决自己的疑问，用完即走，追求高效。</li>
+<li>知乎：与世界分享你的知识、经验和见解。</li>
+</ul>
+<p><strong>运营方式不同</strong></p>
+<ul>
+<li>百度知道：设立了积分体系、用户成长体系。积分体系的经验、财富值的出现，让大量用户为了“水经验”而大量复制的其他内容来回答问题，内容的复制粘贴比非常高，严重影响用户体验。</li>
+<li>知乎：由用户来衡量内容的质量，如邀请、赞同、关注、收藏、赏赞、评论。这种方式促使内容生产者更注重内容的质量而非数量，并需维护好自己的人设。另外，在专业领域有影响力的人可以快速获得「知乎」的官方认证，普通人也可以通过积极参与问答获得官方的徽章等认可。</li>
+</ul>
+<p><strong>「百度知道」止于答案，「知乎」始于答案。</strong></p>
+<p>知乎更偏向于信息流产品，首页的“推荐”、“热榜”，发现的“圈子”、“频道”都以信息流的方式呈现。个性化信息流内容的出现，使得用户有闲逛的属性，不再是有特定问题才会想起知乎，而是空闲时为了学习（打发时间）也会打开知乎。</p>
+<p>对于社会上瞬发的热点事件，知乎“热榜”功能很好地满足热点内容的时效性要求。从微博/新闻等外界获取信息，在知乎看他人观点，进而参与讨论，已经是很多人的一个闭环习惯。</p>
+<p>显然，「知乎」已经从问答类社区慢慢转变为内容平台，从另一层面上实现对「百度知道」的弯道超车。</p>
+<h2 id="采访视频"><a href="#采访视频" class="headerlink" title="采访视频"></a>采访视频</h2><iframe src="//player.bilibili.com/player.html?aid=582865877&bvid=BV1D64y1T75p&cid=214092332&page=16&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
+
+
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ul>
+<li><a target="_blank" rel="noopener" href="https://www.sohu.com/a/324186328_629444">周源的“长跑型”人生</a></li>
+<li><a target="_blank" rel="noopener" href="http://www.woshipm.com/operate/3939507.html">知乎“打败”了百度知道吗？</a></li>
+</ul>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          <div class="reward-container">
+  <div>您的鼓励是我最大的动力！</div>
+  <button onclick="document.querySelector('.post-reward').classList.toggle('active');">
+    赞赏
+  </button>
+  <div class="post-reward">
+      <div>
+        <img src="/images/wechatpay.jpeg" alt="Rudy Lo 微信">
+        <span>微信</span>
+      </div>
+      <div>
+        <img src="/images/alipay.jpeg" alt="Rudy Lo 支付宝">
+        <span>支付宝</span>
+      </div>
+
+  </div>
+</div>
+
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>本文作者： </strong>Rudy Lo
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接：</strong>
+      <a href="https://luhuadong.com/business/zhihu.html" title="知乎（zhihu）发展历程与启发">https://luhuadong.com/business/zhihu.html</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/%E5%95%86%E4%B8%9A/" rel="tag"># 商业</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/career/career-and-life-admonish.html" rel="prev" title="职场与人生告诫">
+                  <i class="fa fa-chevron-left"></i> 职场与人生告诫
+                </a>
+            </div>
+            <div class="post-nav-item">
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="valine-comments"></div>
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      const commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+  
+
+
+
+
+  <script>
+  if (typeof MathJax === 'undefined') {
+    window.MathJax = {
+      tex: {
+        inlineMath: {'[+]': [['$', '$']]},
+        tags: 'none'
+      },
+      options: {
+        renderActions: {
+          insertedScript: [200, () => {
+            document.querySelectorAll('mjx-container').forEach(node => {
+              const target = node.parentNode;
+              if (target.nodeName.toLowerCase() === 'li') {
+                target.parentNode.classList.add('has-jax');
+              }
+            });
+          }, '', false]
+        }
+      }
+    };
+    const script = document.createElement('script');
+    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
+    script.defer = true;
+    document.head.appendChild(script);
+  } else {
+    MathJax.startup.document.state(0);
+    MathJax.typesetClear();
+    MathJax.texReset();
+    MathJax.typeset();
+  }
+</script>
+
+
+
+<script>
+NexT.utils.loadComments('#valine-comments', () => {
+  NexT.utils.getScript('https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js', () => {
+    new Valine(Object.assign({"enable":true,"appId":"6hrjjOTKL5yC0nVxpfKzdw1b-gzGzoHsz","appKey":"wGcDnHp1q8puQOkcRCpvOM7n","serverURLs":"https://6hrjjotk.lc-cn-n1-shared.com","placeholder":"Just go go","avatar":"mm","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":false,"requiredFields":[]}, {
+      el: '#valine-comments',
+      path: "/business/zhihu.html",
+      serverURLs: "https://6hrjjotk.lc-cn-n1-shared.com"
+    }));
+  }, window.Valine);
+});
+</script>
+
+</body>
+</html>
