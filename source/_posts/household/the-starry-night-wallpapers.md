@@ -18,6 +18,12 @@ categories: household
 
 真是十分期待最终成品的效果！
 
+成果展示 >>
+
+![](/images/household/my-house-lab-20211014.jpeg)
+
+嗯哈，还行吧？
+
 ---
 
 <iframe src="//player.bilibili.com/player.html?aid=971699996&bvid=BV1Sp4y1p7Ga&cid=298002906&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
