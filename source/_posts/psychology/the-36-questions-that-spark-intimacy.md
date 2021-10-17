@@ -15,6 +15,8 @@ categories: psychology
 
 这种情况下再进行能造成生理激发（Arousal）的对视，那么就极易发生想去爱的冲动。不得不承认，很多关系之所以无法善始善终，就是因为始终缺少深度的沟通与了解，永远只浮于表面。
 
+![](/images/psychology/penny-and-sheldon.jpeg)
+
 
 ## 36个问题
 
