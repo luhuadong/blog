@@ -24,8 +24,30 @@ Markdown 没有提供音频的语法支持，不过我们可以在页面中直�
 
 The Moon Song
 
+```html
 <audio controls="" name="media">
-<source src="https://static.getiot.tech/the-moon-song.mp3" type="audio/mp3">
+<source src="https://static.getiot.tech/audio/the-moon-song.mp3" type="audio/mp3">
+</audio>
+```
+
+效果：
+
+<audio controls="" name="media">
+<source src="https://static.getiot.tech/audio/the-moon-song.mp3" type="audio/mp3">
+</audio>
+
+或者 WAV 格式的音频
+
+```html
+<audio controls="" name="media">
+<source src="https://static.getiot.tech/audio/sample1.wav" type="audio/wav">
+</audio>
+```
+
+效果：
+
+<audio controls="" name="media">
+<source src="https://static.getiot.tech/audio/sample1.wav" type="audio/wav">
 </audio>
 
 
