@@ -3,7 +3,7 @@ title: 6S 管理（物资管理方法）
 tags:
   - 管理
 categories: career
-date: 2021-10-19 16:35:58
+date: 2015-10-19 16:35:58
 ---
 
 
