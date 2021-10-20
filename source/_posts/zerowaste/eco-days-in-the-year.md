@@ -33,6 +33,7 @@ categories: zerowaste
 | 消除贫穷国际日         |                                            | 10月17日        |                                                         |
 | 国际宽容日             | International Day for Tolerance            | 11月16日        | 1995年起                                                |
 | 国际科学与和平周       |                                            | 11月11日至18日  |                                                         |
+| 国际素食日             |                                            | 11月25日        | 原称“世界无肉日”                                        |
 | 世界土壤日             | World Soil Day                             | 12月5日         |                                                         |
 | 国际生物多样性日       | International Day for Biological Diversity | 12月29日        |                                                         |
 
