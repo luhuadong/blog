@@ -41,6 +41,13 @@ sticky: 200
 - 清华大学计算机系课程攻略：<https://github.com/PKUanonym/REKCARC-TSC-UHT>
 
 
+## 教程网站
+
+- 人人都懂物联网：<https://getiot.tech>
+- 菜鸟教程：<https://www.runoob.com>
+- 网道：<https://wangdoc.com>
+
+
 ## 嵌入式 Linux
 
 - GNU 项目：<https://www.gnu.org/>
