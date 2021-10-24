@@ -31,6 +31,7 @@ categories: zerowaste
 | 国际减灾日             | International Day for Disaster Reduction   | 10月13日        |                                                         |
 | 世界粮食日             | World Food Day                             | 10月16日        |                                                         |
 | 消除贫穷国际日         |                                            | 10月17日        |                                                         |
+| 国际雪豹日             | International Snow Leopard Day             | 10月23日        | 雪豹是高山生态系统保护的旗舰物种                        |
 | 国际宽容日             | International Day for Tolerance            | 11月16日        | 1995年起                                                |
 | 国际科学与和平周       |                                            | 11月11日至18日  |                                                         |
 | 国际素食日             |                                            | 11月25日        | 原称“世界无肉日”                                        |
