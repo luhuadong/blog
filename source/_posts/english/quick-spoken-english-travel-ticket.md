@@ -8,7 +8,7 @@ categories: english
 
 ![](/images/english/sanya-airport.jpeg)
 
-## 预定交通工具
+## 预订交通工具
 
 ### 实用句子
 
