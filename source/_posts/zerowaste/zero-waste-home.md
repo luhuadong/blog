@@ -28,3 +28,15 @@ categories: zerowaste
 <img src="/images/zerowaste/20211007-qingyuan-03.jpeg" width="400" />
 
 看着没有一次性塑料袋的冰箱，是一种由内而外散发出来的美，让人满心欢喜~
+
+
+## DIY 垃圾桶
+
+捡了一个大小合适的纸箱，根据我们家可能产生的垃圾种类，DIY 了一个垃圾回收箱。更多分类方法请点击[垃圾分类方法参考](https://luhuadong.com/zerowaste/garbage-sorting-method.html)。
+
+<img src="/images/journal/20211024-my-house-05.jpeg" width="600" />
+
+主要分为“瓶瓶罐罐”、“纸类”和“塑料”三大类，右边卷了一个小盒子，用于存放电池之类的其他小件可回收物。
+
+<img src="/images/journal/20211024-my-house-06.jpeg" width="600" />
+

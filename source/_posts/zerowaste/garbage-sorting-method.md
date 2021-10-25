@@ -48,6 +48,12 @@ categories: zerowaste
 
 考虑实际操作与存放的便捷性，衣物类体积太大，还是放在衣柜里，定期做断舍离更好；而废弃电子产品数量不多且容易受潮，单独放在杂物间更好。一轮操作下来，其实也只是剩下各种瓶瓶罐罐、塑料袋膜、泡沫、纸类、金属、电池......
 
+<img src="/images/journal/20211024-my-house-05.jpeg" width="600" />
+
+
+<img src="/images/journal/20211024-my-house-06.jpeg" width="600" />
+
+
 ## References
 
 - [《生活垃圾分类标志》标准发布 | 住房与城乡建设部](http://www.mohurd.gov.cn/xwfb/201911/t20191118_242752.html)
