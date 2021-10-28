@@ -15,6 +15,8 @@ sticky: 150
 > Your attitude, not your aptitude, will determine your altitude. —— Zig Ziglar
 > 决定你人生高度的，不是你的才能，而是你的态度。
 
+> 一个人只要把心中的想法积极地付诸行动，**但行好事，莫问前程**，人生就会有无限的惊喜和可能。
+
 > 我生来就是高山而非溪流，我欲于群峰之巅，俯视平庸的沟壑，我生来就是人杰而非草芥，我站在伟人之肩，藐视卑微的懦夫。
 
 > There's a phrase in Buddhism, 'Beginner's mind.' It's wonderful to have a beginner's mind.
