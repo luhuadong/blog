@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.0.2">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/avatar_mini.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/avatar_mini.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/avatar_mini.png">
+  <link rel="mask-icon" href="/images/avatar_mini.png" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3396347538857110"
+     crossorigin="anonymous"></script>
+
+<script class="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
+  </script>
+<meta name="description" content="做 PDF 软件那个福昕公司去年（2020年）九月在科创板上市。发行价为238.53元，发行1204万股，募集资金总额28.6亿元。收盘价为309.27元，较发行价上涨29.66%，当日福昕软件市值为148.88亿元。  一向在国内十分低调的福昕 PDF 进入了我的视野 —— 啊，原来福昕 PDF 已经发展得这么大啦！（全球第二大 PDF 电子文档技术提供商，第一大恐怕是 Adobe 吧）才发现原">
+<meta property="og:type" content="article">
+<meta property="og:title" content="福昕 PDF 发展历程与启发">
+<meta property="og:url" content="https://luhuadong.com/business/foxit-software.html">
+<meta property="og:site_name" content="成为自由人">
+<meta property="og:description" content="做 PDF 软件那个福昕公司去年（2020年）九月在科创板上市。发行价为238.53元，发行1204万股，募集资金总额28.6亿元。收盘价为309.27元，较发行价上涨29.66%，当日福昕软件市值为148.88亿元。  一向在国内十分低调的福昕 PDF 进入了我的视野 —— 啊，原来福昕 PDF 已经发展得这么大啦！（全球第二大 PDF 电子文档技术提供商，第一大恐怕是 Adobe 吧）才发现原">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://luhuadong.com/images/business/foxit.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/business/foxit-company.jpeg">
+<meta property="og:image" content="https://luhuadong.com/images/business/pdf-to-kindle.jpg">
+<meta property="og:image" content="https://luhuadong.com/images/business/chrome-foxit-pdf.png">
+<meta property="article:published_time" content="2021-11-13T08:18:03.000Z">
+<meta property="article:modified_time" content="2021-11-13T13:54:19.299Z">
+<meta property="article:author" content="Rudy Lo">
+<meta property="article:tag" content="商业">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://luhuadong.com/images/business/foxit.jpg">
+
+
+<link rel="canonical" href="https://luhuadong.com/business/foxit-software.html">
+
+
+<script class="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+<title>福昕 PDF 发展历程与启发 | 成为自由人</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
+    <script>
+      if (CONFIG.hostname === location.hostname) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-190737867-1');
+      }
+    </script>
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+  <noscript>
+  <style>
+  body { margin-top: 2rem; }
+
+  .use-motion .menu-item,
+  .use-motion .sidebar,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header {
+    visibility: visible;
+  }
+
+  .use-motion .header,
+  .use-motion .site-brand-container .toggle,
+  .use-motion .footer { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle,
+  .use-motion .custom-logo-image {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line {
+    transform: scaleX(1);
+  }
+
+  .search-pop-overlay, .sidebar-nav { display: none; }
+  .sidebar-panel { display: block; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <h1 class="site-title">成为自由人</h1>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
+      <img class="custom-logo-image" src="/uploads/qrcode_8cm.jpg" alt="成为自由人">
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu">
+        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
+        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
+        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
+        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
+        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
+        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
+        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
+        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B"><span class="nav-number">1.</span> <span class="nav-text">创业故事</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%85%A5%E8%82%A1"><span class="nav-number">2.</span> <span class="nav-text">亚马逊入股</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%B8%8E%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C"><span class="nav-number">3.</span> <span class="nav-text">与谷歌合作</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BA%91%E5%AE%89%E5%85%A8%E6%96%87%E6%A1%A3"><span class="nav-number">4.</span> <span class="nav-text">云安全文档</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%8F%82%E4%B8%8E%E6%A0%87%E5%87%86%E5%88%B6%E5%AE%9A"><span class="nav-number">5.</span> <span class="nav-text">参与标准制定</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%90%AF%E5%8F%91"><span class="nav-number">6.</span> <span class="nav-text">启发</span></a></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
+      src="/images/avatar.jpg">
+  <p class="site-author-name" itemprop="name">Rudy Lo</p>
+  <div class="site-description" itemprop="description">阿基米东个人杂志社</div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">211</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">28</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">64</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author site-overview-item animated">
+      <span class="links-of-author-item">
+        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://gitee.com/luhuadong" title="Gitee → https:&#x2F;&#x2F;gitee.com&#x2F;luhuadong" rel="noopener" target="_blank">Gitee</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.douban.com/group/730047/" title="豆瓣 → https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;" rel="noopener" target="_blank">豆瓣</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://zerotogether.net/" title="零聚社区 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零聚社区</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+  </div>
+  <div class="cc-license site-overview-item animated" itemprop="license">
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
+  </div>
+
+
+
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="back-to-top" role="button">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/business/foxit-software.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="阿基米东个人杂志社">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          福昕 PDF 发展历程与启发
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+      
+
+      <time title="创建时间：2021-11-13 16:18:03 / 修改时间：21:54:19" itemprop="dateCreated datePublished" datetime="2021-11-13T16:18:03+08:00">2021-11-13</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/business/" itemprop="url" rel="index"><span itemprop="name">business</span></a>
+        </span>
+    </span>
+
+  
+  
+  <span class="post-meta-item">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">Valine：</span>
+  
+    <a title="valine" href="/business/foxit-software.html#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/business/foxit-software.html" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p><img src="/images/business/foxit.jpg"></p>
+<p>做 PDF 软件那个福昕公司去年（2020年）九月在科创板上市。发行价为238.53元，发行1204万股，募集资金总额28.6亿元。收盘价为309.27元，较发行价上涨29.66%，当日福昕软件市值为148.88亿元。</p>
+<p>一向在国内十分低调的福昕 PDF 进入了我的视野 —— 啊，原来福昕 PDF 已经发展得这么大啦！（全球第二大 PDF 电子文档技术提供商，第一大恐怕是 Adobe 吧）<strong>才发现原来单纯做 PDF 软件也能做到百亿规模，这很值得我们学习和研究。</strong></p>
+<p>根据招股书显示，福昕软件控股股东、实际控制人为熊雨前，占股 51.22%。熊雨前先生1970年出生，拥有美国永久居留权，毕业于中国科学技术大学计算机科学与技术专业，大学本科学历。1990年7月至1994年12月任中国科学院北京天文台（现为“中国科学院国家天文台”）研究实习员。</p>
+<h2 id="创业故事"><a href="#创业故事" class="headerlink" title="创业故事"></a>创业故事</h2><p>熊雨前，1970年出生，江西人。15岁考入中国科技大学少年班，在美国硅谷创业四年，2001年，在福州软件园创办福昕软件公司，专注于 PDF 阅读器软件开发。“福昕”二字缘起于熊雨前的家人，Foxit 是中文名的音译。</p>
+<p>PDF 是一种可移植的文档格式，最初由 Adobe 公司制定，在全球各机构广泛应用，以简化文档安全快速交换、节省纸张，已广泛应用于电子图书、产品说明、公司文告、网络资料、电子邮件等。</p>
+<p>正是熊雨前带领团队潜心科研攻关，福昕逐步打破了由巨头 Adobe 一家垄断多年的 PDF 文档解决方案市场。如今，全球有数千万用户使用了福昕的产品；花旗、美国国家银行等国外大多数银行是福昕的客户；韩国三星的上千万部手机嵌入了福昕文档浏览软件；美国国家核实验室、西门子公司、IBM 公司也使用了福昕的技术。</p>
+<p>经过多年的打磨和市场推广，福昕已经有比较好的变现模式。目前的 PDF 产品主要面向企业及专业人士销售。而普通消费者人群主要是靠免费版的阅读器来赚口碑。据透露，目前福昕软件 90% 以上的收入来自国外市场，这其中又有 80% 的收入集中在企业级市场。</p>
+<p><img src="/images/business/foxit-company.jpeg"></p>
+<p>现在的福昕软件公司位于福州软件园山头的一栋别墅里，<strong>已是全国最大、全球第二的 PDF 电子文档技术解决方案开发商和供应商</strong>。在软件园里，很多 IT 公司的员工，尽管并不认识熊雨前，但对名为 Foxit Reader 的 PDF 阅读器却很熟悉，因为他们都在用这款全球市场最流行的免费下载软件。</p>
+<h2 id="亚马逊入股"><a href="#亚马逊入股" class="headerlink" title="亚马逊入股"></a>亚马逊入股</h2><p>2011年的亚马逊急于解决一个大麻烦 —— 用户对 Kindle 上 PDF 的阅读体验已经怨声载道。技术供应商 Adobe 此前将源代码给到了亚马逊调优，但最终也没能解决问题。它在移动平台上的表现不佳。</p>
+<p><img src="/images/business/pdf-to-kindle.jpg"></p>
+<p>这一年，亚马逊发现了福昕软件。亚马逊很激动，熊雨前也是。前者的 Kindle 有着巨大的全球出货量，加上同样海量的 Kindle APP，这是一个全球罕有的授权客户。为此，熊雨前特意为亚马逊准备了一份数百万美元每年的授权费报价 —— 这和福昕当时的年利润相当。</p>
+<p>此时，熊雨前大致清楚一个事实：在全球范围内、在移动平台上，福昕解析和显示 PDF 的技术领先于市场。此前福昕曾在只有 4M 内存的三星手机上，实现了流畅的 PDF 阅读功能。纵观全球市场，熊雨前还没有发现第二家能够实现它的技术供应商。</p>
+<p>所以，在第一轮价格谈判破裂，亚马逊决定展开招标时，熊雨前根本就没去了解招标信息。此后，亚马逊的招标如熊雨前所料的失败了。这一次，亚马逊负责 Kindle 业务的副总裁出面参与了第二次谈判，严肃面对。</p>
+<p>福昕最终接受了亚马逊百万美元每年的价格，同时也获得了一个可以向全球市场隆重推介的客户案例。不过，Kindle 副总裁也提出了一个要求 —— 亚马逊必须入股福昕软件。</p>
+<p>熊雨前并不希望引入外资，因为那会让公司原本简单的管理变得过于复杂。而亚马逊投资的目的很单纯，福昕的 PDF 技术对亚马逊 Kindle 业务太过重要，而福昕自身又太过渺小。当时的福昕甚至小到让亚马逊担心未来有一天，福昕会因为各种原因而倒闭，将导致亚马逊失去这位重要的技术供应商。</p>
+<p>Kindle 副总裁对熊雨前说：“我们想给你一笔钱，让你不那么容易倒闭。” 如果不接受投资，亚马逊将另投别家，用美元和时间重新培育技术。福昕当然没放过这个既能靠技术授权“躺着收钱”，又能避免“亲手培育”了一个强大的竞争对手的机会。</p>
+<p>就这样，福昕的客户名单里多了亚马逊，亚马逊的供应商里多了福昕。</p>
+<h2 id="与谷歌合作"><a href="#与谷歌合作" class="headerlink" title="与谷歌合作"></a>与谷歌合作</h2><p>其实在亚马逊入股福昕前三年，谷歌就曾与熊雨前沟通过收购福昕事宜，不过最终被熊雨前拒绝了。</p>
+<p>随着移动市场的扩张，安卓系统需要出色的 PDF 技术以满足内置文档阅读功能。于是，谷歌旗下的安卓团队接手与福昕进行了第二次沟通，希望福昕能做出开源的应用，并将其放入安卓体系。</p>
+<p>当时的安卓正进行一场开发者竞赛，它吸引了全球众多的参与者。熊雨前说，安卓传递的信息是，只要福昕贡献出这一开源技术，当年的安卓开发一等奖便基本可以“内定”给福昕。福昕自然不会这么笨，为了25万美元奖金而开源核心技术。</p>
+<p>2015年，谷歌与福昕谈判的团队又换了一拨人。“他们一直没有获得想要的 PDF 技术，并且意识到这个问题已经到了必须解决的时候了”。在分析并确认福昕与 Adobe 的技术不同源后，谷歌团队与福昕的团队展开了新一轮面对面的沟通。这一次，福昕的报价是几千万美元。谈判持续了数月，最终合同的成交价定格在了“8位数”。</p>
+<p>谷歌自此成了福昕的第一大客户。而福昕为此付出的代价，是自获得亚马逊这一全球性标杆客户之后，<strong>原本快速增长的技术授权收入逐渐陷入了停滞</strong>，甚至下降。好在那时的技术授权费用对于福昕已经不再重要。在与亚马逊完成合作之后，福昕开始谋求的产品化转型。这一年，福昕的产品销售业绩已超过了技术销售业绩。</p>
+<p>早年技术成熟后，出售技术授权一直是福昕最重要的利润来源。这让销售变得非常简单，却也隐患重重 —— 技术上游挣钱最少且天花板低，如果不能在市场追平之前实现产品化和方案化，仅依靠技术授权获利的福昕，迟早将要面对可见的利润下滑。</p>
+<p>关于是否要把技术开源给谷歌，福昕公司内部进行了激烈讨论。熊雨前很清楚，当时的情景和四年前亚马逊要求入股一样，如果福昕不开源，谷歌同样会依靠重金汇集全球高水平技术团队，自研出可能同样出色的技术产品。那将是又一份亚马逊曾经的“第二套方案”，福昕也会“再次”面对一个自己“亲手培育”出来的，谷歌级的竞争对手。</p>
+<p>作为“赠品”，在作出开源的决定之后，熊雨前也有了一个可以让他骄傲一辈子的荣耀 —— 福昕开源给谷歌的代码，是中国人目前在全球贡献的最受欢迎的开源代码！今天全球所有 Chrome 用户在浏览器上打开 PDF 时，甚至在所有谷歌产品上应用 PDF 时，背后的源技术供应商都是福昕。</p>
+<p><img src="/images/business/chrome-foxit-pdf.png"></p>
+<p>这次合作的结果是 Google 推出一个名为 <a target="_blank" rel="noopener" href="https://opensource.google/projects/pdfium">PDFium</a> 的开源项目（仓库地址：<a target="_blank" rel="noopener" href="https://pdfium.googlesource.com/pdfium/">https://pdfium.googlesource.com/pdfium/</a>），目前已成为 Chrome 浏览器的 PDF 渲染引擎组件。</p>
+<h2 id="云安全文档"><a href="#云安全文档" class="headerlink" title="云安全文档"></a>云安全文档</h2><p>一个文档的全生命周期包括：生成、转换、显示、编辑、搜索、打印、存储、签章、表单、保护、安全分发管理等等。</p>
+<p>成立初期的福昕曾经只想着从 Adobe “牙缝里挑点肉吃”。如今的福昕，可以很自豪地说：“在全球拥有 PDF 核心技术和全处理流程方案的公司，只有我们福昕和 Adobe”。</p>
+<p>福昕一点点把自己的业务，从生成和转换等基础 PDF 服务拓展开来以后，开始关注文档的全流程解决方案。福昕也由此提出了一个整合的安全解决方案 —— 将安全文档、互联 PDF 技术及云服务相结合，对文档进行统一的安全管理和跟踪服务。</p>
+<p>福昕的方案，让安全文档进一步地实现了“可控”。简单而言，文档所有者将永远可以保留控制权，即便已经通过各种方式如邮件、微信等方式发送给了外网用户。甚至在对方阅读进行中，也可以随时取消授权，进而关闭文件；而对于授信用户（如员工），打开内部文件时则将永远无感。国内如保险、电力等公司对此类方案兴趣浓厚，因为它让内部文档从源头开始便具备了安全性。这是福昕相对于 Adobe 的一个技术上的创新。</p>
+<p>从招股书中可以看到，募资将全部投入到 PDF 产品研发及升级、文档智能云服务、前沿文档技术研发和全球营销服务网络及配套建设等项目中去。相信福昕在充足资金的加持下，将做出更加安全、智能的文档服务。</p>
+<h2 id="参与标准制定"><a href="#参与标准制定" class="headerlink" title="参与标准制定"></a>参与标准制定</h2><p>PDF 产业的国际标准组织是 PDFA（PDF Association，PDF 协会)，福昕欧洲公司是该协会的创会会员。</p>
+<p>PDFA 目前有13个主要成员（Partner Member），福昕软件是这13个成员中唯一一家中国企业。多年来，福昕软件通过 PDFA 参与了多项国际标准的制定、维护和实现工作。</p>
+<p>福昕还是 SAFE-BioPharma Association（SAFE 生物制药协会）的合作伙伴，该组织致力于创建和推广制药行业电子签名和信任的标准。</p>
+<p>福昕积极参与行业标准的制定，是其在 PDF 文档领域稳步向前的重要基础。</p>
+<h2 id="启发"><a href="#启发" class="headerlink" title="启发"></a>启发</h2><p>有时候我们总是想得很大，却忽略了习以为常的需求，但这些看起来不那么酷的项目，也可以做得很大、很优秀、很有价值，同时带来丰厚的回报。福昕的成功，证明了只做单一软件的模式也能成功。当然，你必须拥有核心优势 —— 技术、专注、品牌。除此之外，选择一个有市场需求的创业蓝海也非常重要。</p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          <div class="reward-container">
+  <div>您的鼓励是我最大的动力！</div>
+  <button onclick="document.querySelector('.post-reward').classList.toggle('active');">
+    赞赏
+  </button>
+  <div class="post-reward">
+      <div>
+        <img src="/images/wechatpay.jpeg" alt="Rudy Lo 微信">
+        <span>微信</span>
+      </div>
+      <div>
+        <img src="/images/alipay.jpeg" alt="Rudy Lo 支付宝">
+        <span>支付宝</span>
+      </div>
+
+  </div>
+</div>
+
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>本文作者： </strong>Rudy Lo
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接：</strong>
+      <a href="https://luhuadong.com/business/foxit-software.html" title="福昕 PDF 发展历程与启发">https://luhuadong.com/business/foxit-software.html</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/%E5%95%86%E4%B8%9A/" rel="tag"># 商业</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/reading/ten-words-from-peking-university.html" rel="prev" title="北大校长给学生的十句话">
+                  <i class="fa fa-chevron-left"></i> 北大校长给学生的十句话
+                </a>
+            </div>
+            <div class="post-nav-item">
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="valine-comments"></div>
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      const commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+  
+
+
+
+
+  <script>
+  if (typeof MathJax === 'undefined') {
+    window.MathJax = {
+      tex: {
+        inlineMath: {'[+]': [['$', '$']]},
+        tags: 'none'
+      },
+      options: {
+        renderActions: {
+          insertedScript: [200, () => {
+            document.querySelectorAll('mjx-container').forEach(node => {
+              const target = node.parentNode;
+              if (target.nodeName.toLowerCase() === 'li') {
+                target.parentNode.classList.add('has-jax');
+              }
+            });
+          }, '', false]
+        }
+      }
+    };
+    const script = document.createElement('script');
+    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
+    script.defer = true;
+    document.head.appendChild(script);
+  } else {
+    MathJax.startup.document.state(0);
+    MathJax.typesetClear();
+    MathJax.texReset();
+    MathJax.typeset();
+  }
+</script>
+
+
+
+<script>
+NexT.utils.loadComments('#valine-comments', () => {
+  NexT.utils.getScript('https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js', () => {
+    new Valine(Object.assign({"enable":true,"appId":"6hrjjOTKL5yC0nVxpfKzdw1b-gzGzoHsz","appKey":"wGcDnHp1q8puQOkcRCpvOM7n","serverURLs":"https://6hrjjotk.lc-cn-n1-shared.com","placeholder":"Just go go","avatar":"mm","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":false,"requiredFields":[]}, {
+      el: '#valine-comments',
+      path: "/business/foxit-software.html",
+      serverURLs: "https://6hrjjotk.lc-cn-n1-shared.com"
+    }));
+  }, window.Valine);
+});
+</script>
+
+</body>
+</html>
