@@ -26,18 +26,25 @@
     var NexT = window.NexT || {};
     var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
   </script>
-<meta name="description" content="阿基米东个人杂志社">
-<meta property="og:type" content="website">
-<meta property="og:title" content="成为自由人">
-<meta property="og:url" content="https://luhuadong.com/tags/%E6%B8%B8%E6%B3%B3/index.html">
+<meta name="description" content="今天在折腾新唐科技（nuvoTon）提供的 NuMaker-HMI-N9H30 开发板时，准备编译 RT-Thread 的 BSP 包，添加了 LVGL 软件包，下载了交叉编译工具链…… 一顿操作猛如虎，结果出现了好一些 Bug！比如下面这个：  1 2 3 4 5   CC packages&#x2F;LVGL-latest&#x2F;demos&#x2F;benchmark&#x2F;assets&#x2F;img_benchmark_cog">
+<meta property="og:type" content="article">
+<meta property="og:title" content="成为 LVGL 贡献者了">
+<meta property="og:url" content="https://luhuadong.com/journal/20220712.html">
 <meta property="og:site_name" content="成为自由人">
-<meta property="og:description" content="阿基米东个人杂志社">
+<meta property="og:description" content="今天在折腾新唐科技（nuvoTon）提供的 NuMaker-HMI-N9H30 开发板时，准备编译 RT-Thread 的 BSP 包，添加了 LVGL 软件包，下载了交叉编译工具链…… 一顿操作猛如虎，结果出现了好一些 Bug！比如下面这个：  1 2 3 4 5   CC packages&#x2F;LVGL-latest&#x2F;demos&#x2F;benchmark&#x2F;assets&#x2F;img_benchmark_cog">
 <meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://luhuadong.com/images/journal/20220712_lvgl_contributor.png">
+<meta property="article:published_time" content="2022-07-12T11:33:50.000Z">
+<meta property="article:modified_time" content="2022-07-12T12:03:55.829Z">
 <meta property="article:author" content="Rudy Lo">
+<meta property="article:tag" content="程序员">
+<meta property="article:tag" content="开源">
+<meta property="article:tag" content="日记">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://luhuadong.com/images/journal/20220712_lvgl_contributor.png">
 
 
-<link rel="canonical" href="https://luhuadong.com/tags/%E6%B8%B8%E6%B3%B3/">
+<link rel="canonical" href="https://luhuadong.com/journal/20220712.html">
 
 
 <script class="page-configurations">
@@ -45,11 +52,11 @@
   CONFIG.page = {
     sidebar: "",
     isHome : false,
-    isPost : false,
+    isPost : true,
     lang   : 'zh-CN'
   };
 </script>
-<title>标签: 游泳 | 成为自由人</title>
+<title>成为 LVGL 贡献者了 | 成为自由人</title>
   
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
     <script>
@@ -298,111 +305,161 @@
 </noscript>
 
 
-    <div class="main-inner tag posts-collapse">
+    <div class="main-inner post posts-expand">
 
 
   
-  
-  
-  <div class="post-block">
-    <div class="post-content">
-      <div class="collection-title">
-        <h2 class="collection-header">游泳
-          <small>标签</small>
-        </h2>
-      </div>
 
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/journal/20220712.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="阿基米东个人杂志社">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          成为 LVGL 贡献者了
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
       
-    <div class="collection-year">
-      <span class="collection-header">2019</span>
+
+      <time title="创建时间：2022-07-12 19:33:50 / 修改时间：20:03:55" itemprop="dateCreated datePublished" datetime="2022-07-12T19:33:50+08:00">2022-07-12</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E4%B8%8D%E5%AE%9A%E6%97%B6%E6%97%A5%E8%AE%B0/" itemprop="url" rel="index"><span itemprop="name">不定时日记</span></a>
+        </span>
+    </span>
+
+  
+  
+  <span class="post-meta-item">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">Valine：</span>
+  
+    <a title="valine" href="/journal/20220712.html#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/journal/20220712.html" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p>今天在折腾<a target="_blank" rel="noopener" href="https://www.nuvoton.com/">新唐科技</a>（nuvoTon）提供的 <a target="_blank" rel="noopener" href="https://getiot.tech/numaker/numaker-hmi-n9h30-intro.html">NuMaker-HMI-N9H30</a> 开发板时，准备编译 RT-Thread 的 BSP 包，添加了 LVGL 软件包，下载了交叉编译工具链…… 一顿操作猛如虎，结果出现了好一些 Bug！比如下面这个：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">CC packages/LVGL-latest/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.o</span><br><span class="line">packages/LVGL-latest/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c:5:10: fatal error: lvgl/lvgl.h: No such file or directory</span><br><span class="line"> <span class="comment">#include &quot;lvgl/lvgl.h&quot;</span></span><br><span class="line">          ^~~~~~~~~~~~~</span><br><span class="line">compilation terminated.</span><br></pre></td></tr></table></figure>
+
+<p>跟着查了代码，发现头文件确实没处理好，于是顺手修复了 Bug 并且提交了合并请求（<a target="_blank" rel="noopener" href="https://github.com/lvgl/lvgl/pull/3477">PR #3477</a>）。几个小时后，<a target="_blank" rel="noopener" href="https://github.com/lvgl/lvgl">LVGL</a> 项目的创始人 <a target="_blank" rel="noopener" href="https://github.com/kisvegabor">Gabor Kiss-Vamosi</a> 合并了我的提交，开心！就这样，我成为了 LVGL 开源项目的第 263 位贡献者。</p>
+<img src="/images/journal/20220712_lvgl_contributor.png" width=800 />
+
+<p>后来，我又发现了 RT-Thread 软件包中的一个 Bug，居然隐藏了 LVGL 的版本选择，导致 NuMaker-HMI-N9H30 没法使用 BSP 包中要求的 v8.2.0 版本。于是，我又顺手修复了 Bug 并且向 RT-Thread 的 <a target="_blank" rel="noopener" href="https://github.com/RT-Thread/packages">packages</a> 仓库提交了合并请求（<a target="_blank" rel="noopener" href="https://github.com/RT-Thread/packages/pull/1300">PR #1300</a>）。</p>
+<p>软件工程是一项很细致的工作，稍不注意或者考虑不周，很容易就产生 Bug。虽然这两个 Bug 都是小问题，但是如果初学者碰到了，就会很疑惑 —— 开源软件怎么这么多 bug？也不知道怎么解决，然后可能就不用了。</p>
+<p>看到 Bug 尽量修复，是一名开源软件工程师的基本修养！希望开源生态越来越好啦~</p>
+<hr>
+<blockquote>
+<p><a target="_blank" rel="noopener" href="https://getiot.tech/lvgl/lvgl-intro.html"><strong>LVGL 是什么？</strong></a><br>LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI 所需的功能，具有易于使用的图形元素、精美的视觉效果和低内存占用。该项目原来的名字是 LittlevGL，后来更名为 LVGL，是 Light and Versatile Graphics Library 的首字母缩写，意为“轻量级多功能图形库”。采用 MIT 许可证。</p>
+</blockquote>
+
     </div>
 
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-      <div class="post-meta-container">
-        <time itemprop="dateCreated"
-              datetime="2019-08-03T20:16:40+08:00"
-              content="2019-08-03">
-          08-03
-        </time>
+    
+    
+    
+
+    <footer class="post-footer">
+          <div class="reward-container">
+  <div>您的鼓励是我最大的动力！</div>
+  <button onclick="document.querySelector('.post-reward').classList.toggle('active');">
+    赞赏
+  </button>
+  <div class="post-reward">
+      <div>
+        <img src="/images/wechatpay.jpeg" alt="Rudy Lo 微信">
+        <span>微信</span>
+      </div>
+      <div>
+        <img src="/images/alipay.jpeg" alt="Rudy Lo 支付宝">
+        <span>支付宝</span>
       </div>
 
-      <div class="post-title">
-          <a class="post-title-link" href="/sports/swimming-technique-backstroke.html" itemprop="url">
-            <span itemprop="name">【游泳】仰泳教学与技巧</span>
-          </a>
-      </div>
-
-      
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-      <div class="post-meta-container">
-        <time itemprop="dateCreated"
-              datetime="2019-08-03T20:16:20+08:00"
-              content="2019-08-03">
-          08-03
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/sports/swimming-technique-butterfly-stroke.html" itemprop="url">
-            <span itemprop="name">【游泳】蝶泳教学与技巧</span>
-          </a>
-      </div>
-
-      
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-      <div class="post-meta-container">
-        <time itemprop="dateCreated"
-              datetime="2019-08-03T20:15:38+08:00"
-              content="2019-08-03">
-          08-03
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/sports/swimming-technique-freestyle.html" itemprop="url">
-            <span itemprop="name">【游泳】自由泳教学与技巧</span>
-          </a>
-      </div>
-
-      
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-      <div class="post-meta-container">
-        <time itemprop="dateCreated"
-              datetime="2019-08-03T20:15:12+08:00"
-              content="2019-08-03">
-          08-03
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/sports/swimming-technique-breaststroke.html" itemprop="url">
-            <span itemprop="name">【游泳】蛙泳教学与技巧</span>
-          </a>
-      </div>
-
-      
-    </header>
-  </article>
-
-    </div>
   </div>
-  
-  
-  
+</div>
 
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>本文作者： </strong>Rudy Lo
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接：</strong>
+      <a href="https://luhuadong.com/journal/20220712.html" title="成为 LVGL 贡献者了">https://luhuadong.com/journal/20220712.html</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/" rel="tag"># 程序员</a>
+              <a href="/tags/%E5%BC%80%E6%BA%90/" rel="tag"># 开源</a>
+              <a href="/tags/%E6%97%A5%E8%AE%B0/" rel="tag"># 日记</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/career/how-to-be-a-good-mentor.html" rel="prev" title="如何做好职场导师，帮助新人成长">
+                  <i class="fa fa-chevron-left"></i> 如何做好职场导师，帮助新人成长
+                </a>
+            </div>
+            <div class="post-nav-item">
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="valine-comments"></div>
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -504,7 +561,7 @@ NexT.utils.loadComments('#valine-comments', () => {
   NexT.utils.getScript('https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js', () => {
     new Valine(Object.assign({"enable":true,"appId":"6hrjjOTKL5yC0nVxpfKzdw1b-gzGzoHsz","appKey":"wGcDnHp1q8puQOkcRCpvOM7n","serverURLs":"https://6hrjjotk.lc-cn-n1-shared.com","placeholder":"Just go go","avatar":"mm","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":false,"requiredFields":[]}, {
       el: '#valine-comments',
-      path: "/tags/%E6%B8%B8%E6%B3%B3/",
+      path: "/journal/20220712.html",
       serverURLs: "https://6hrjjotk.lc-cn-n1-shared.com"
     }));
   }, window.Valine);
