@@ -1,6 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://luhuadong.com/map/metro-taipei.html</loc>
+    <lastmod>2022-07-18</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/map/metro-taichung.html</loc>
+    <lastmod>2022-07-18</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/map/metro-suzhou.html</loc>
+    <lastmod>2022-07-18</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/map/metro-singapore.html</loc>
+    <lastmod>2022-07-18</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/map/metro-shenzhen.html</loc>
+    <lastmod>2022-07-18</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/map/metro-shanghai.html</loc>
+    <lastmod>2022-07-18</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/map/metro-paris.html</loc>
+    <lastmod>2022-07-18</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/map/metro-nanjing.html</loc>
+    <lastmod>2022-07-18</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/map/metro-macau.html</loc>
+    <lastmod>2022-07-18</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/map/metro-hongkong.html</loc>
+    <lastmod>2022-07-18</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/map/metro-hangzhou.html</loc>
+    <lastmod>2022-07-18</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/map/metro-guangzhou.html</loc>
+    <lastmod>2022-07-18</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/map/metro-chongqing.html</loc>
+    <lastmod>2022-07-18</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/map/metro-chengdu.html</loc>
+    <lastmod>2022-07-18</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/map/metro-beijing.html</loc>
+    <lastmod>2022-07-18</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/map/intercity-railway-guangzhou-qingyuan.html</loc>
+    <lastmod>2022-07-18</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/contest/aws-serverless-for-good-2022.html</loc>
+    <lastmod>2022-07-18</lastmod>
+  </url>
+  <url>
     <loc>https://luhuadong.com/guide/how-to-use-network-proxy-on-ubuntu.html</loc>
     <lastmod>2022-07-14</lastmod>
   </url>
@@ -405,75 +473,11 @@
     <lastmod>2021-11-21</lastmod>
   </url>
   <url>
-    <loc>https://luhuadong.com/map/intercity-railway-guangzhou-qingyuan.html</loc>
-    <lastmod>2021-11-21</lastmod>
-  </url>
-  <url>
     <loc>https://luhuadong.com/map/map-of-china.html</loc>
     <lastmod>2021-11-21</lastmod>
   </url>
   <url>
-    <loc>https://luhuadong.com/map/metro-beijing.html</loc>
-    <lastmod>2021-11-21</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/map/metro-chengdu.html</loc>
-    <lastmod>2021-11-21</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/map/metro-chongqing.html</loc>
-    <lastmod>2021-11-21</lastmod>
-  </url>
-  <url>
     <loc>https://luhuadong.com/map/metro-guangzhou-line18.html</loc>
-    <lastmod>2021-11-21</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/map/metro-guangzhou.html</loc>
-    <lastmod>2021-11-21</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/map/metro-hangzhou.html</loc>
-    <lastmod>2021-11-21</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/map/metro-hongkong.html</loc>
-    <lastmod>2021-11-21</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/map/metro-macau.html</loc>
-    <lastmod>2021-11-21</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/map/metro-nanjing.html</loc>
-    <lastmod>2021-11-21</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/map/metro-paris.html</loc>
-    <lastmod>2021-11-21</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/map/metro-shanghai.html</loc>
-    <lastmod>2021-11-21</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/map/metro-shenzhen.html</loc>
-    <lastmod>2021-11-21</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/map/metro-singapore.html</loc>
-    <lastmod>2021-11-21</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/map/metro-suzhou.html</loc>
-    <lastmod>2021-11-21</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/map/metro-taichung.html</loc>
-    <lastmod>2021-11-21</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/map/metro-taipei.html</loc>
     <lastmod>2021-11-21</lastmod>
   </url>
   <url>
