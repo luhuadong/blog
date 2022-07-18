@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://luhuadong.com/contest/seeed-iot-in-the-wild-2022.html</loc>
+    
+    <lastmod>2022-07-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://luhuadong.com/contest/rt-thread-lvgl-gui-2022.html</loc>
+    
+    <lastmod>2022-07-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://luhuadong.com/contest/rt-thread-application-innovation-2020.html</loc>
+    
+    <lastmod>2022-07-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://luhuadong.com/contest/stm32-maker-faire-2020.html</loc>
+    
+    <lastmod>2022-07-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://luhuadong.com/contest/aws-serverless-for-good-2022.html</loc>
+    
+    <lastmod>2022-07-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://luhuadong.com/contest/eetree-funpack.html</loc>
+    
+    <lastmod>2022-07-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://luhuadong.com/map/metro-taipei.html</loc>
     
     <lastmod>2022-07-18</lastmod>
@@ -108,13 +150,6 @@
   
   <url>
     <loc>https://luhuadong.com/map/intercity-railway-guangzhou-qingyuan.html</loc>
-    
-    <lastmod>2022-07-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://luhuadong.com/contest/aws-serverless-for-good-2022.html</loc>
     
     <lastmod>2022-07-18</lastmod>
     
@@ -2294,6 +2329,13 @@
   
   <url>
     <loc>https://luhuadong.com/tags/%E7%94%B5%E5%8F%B0%E4%B8%BB%E6%92%AD/</loc>
+    <lastmod>2022-07-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://luhuadong.com/tags/%E6%AF%94%E8%B5%9B/</loc>
     <lastmod>2022-07-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
