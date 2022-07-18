@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://luhuadong.com/me/a-maker.html</loc>
+    
+    <lastmod>2022-07-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://luhuadong.com/contest/seeed-iot-in-the-wild-2022.html</loc>
     
     <lastmod>2022-07-18</lastmod>
@@ -164,13 +171,6 @@
   
   <url>
     <loc>https://luhuadong.com/journal/20220712.html</loc>
-    
-    <lastmod>2022-07-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://luhuadong.com/a-maker.html</loc>
     
     <lastmod>2022-07-12</lastmod>
     
