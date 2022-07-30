@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://luhuadong.com/reading/the-almanack-of-naval-ravikant.html</loc>
+    <lastmod>2022-07-30</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/reading/the-miracle-morning.html</loc>
+    <lastmod>2022-07-30</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/contest/aws-serverless-for-good-2022.html</loc>
+    <lastmod>2022-07-29</lastmod>
+  </url>
+  <url>
     <loc>https://luhuadong.com/me/a-maker.html</loc>
     <lastmod>2022-07-18</lastmod>
   </url>
@@ -18,10 +30,6 @@
   </url>
   <url>
     <loc>https://luhuadong.com/contest/stm32-maker-faire-2020.html</loc>
-    <lastmod>2022-07-18</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/contest/aws-serverless-for-good-2022.html</loc>
     <lastmod>2022-07-18</lastmod>
   </url>
   <url>
