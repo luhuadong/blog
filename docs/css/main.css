@@ -3039,6 +3039,10 @@ mjx-container[display="true"] + br {
     padding: 10px 12px;
   }
 }
+.giscus {
+  max-width: unset;
+  box-sizing: border-box;
+}
 .fa-bilibili {
   background: url("/images/bilibili.svg");
   background-position: 50% 75%;

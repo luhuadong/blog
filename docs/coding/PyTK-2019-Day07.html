@@ -44,7 +44,7 @@
 <meta property="og:image" content="https://luhuadong.com/images/coding/%E4%BF%9D%E4%BD%91%E4%BB%A3%E7%A0%81%E6%B2%A1%E6%9C%89bug.png">
 <meta property="og:image" content="https://luhuadong.com/images/coding/%E7%8C%9C%E6%95%B0%E5%AD%97%E6%B8%B8%E6%88%8F%E7%BB%93%E6%9E%9C.png">
 <meta property="article:published_time" content="2019-02-09T02:53:27.000Z">
-<meta property="article:modified_time" content="2022-07-30T08:11:43.216Z">
+<meta property="article:modified_time" content="2022-08-01T01:49:36.481Z">
 <meta property="article:author" content="Rudy Lo">
 <meta property="article:tag" content="Python">
 <meta property="article:tag" content="教孩子学编程">
@@ -241,20 +241,20 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">263</span>
+          <span class="site-state-item-count">271</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
       <div class="site-state-item site-state-categories">
             <a href="/categories/">
           
-        <span class="site-state-item-count">33</span>
+        <span class="site-state-item-count">34</span>
         <span class="site-state-item-name">分类</span></a>
       </div>
       <div class="site-state-item site-state-tags">
             <a href="/tags/">
           
-        <span class="site-state-item-count">71</span>
+        <span class="site-state-item-count">74</span>
         <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
@@ -356,7 +356,7 @@
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2022-07-30 16:11:43" itemprop="dateModified" datetime="2022-07-30T16:11:43+08:00">2022-07-30</time>
+        <time title="修改时间：2022-08-01 09:49:36" itemprop="dateModified" datetime="2022-08-01T09:49:36+08:00">2022-08-01</time>
       </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -368,20 +368,6 @@
         </span>
     </span>
 
-  
-  
-  <span class="post-meta-item">
-    
-    <span class="post-meta-item-icon">
-      <i class="far fa-comment"></i>
-    </span>
-    <span class="post-meta-item-text">Valine：</span>
-  
-    <a title="valine" href="/coding/PyTK-2019-Day07.html#valine-comments" itemprop="discussionUrl">
-      <span class="post-comments-count valine-comment-count" data-xid="/coding/PyTK-2019-Day07.html" itemprop="commentCount"></span>
-    </a>
-  </span>
-  
   
 </div>
 
@@ -443,7 +429,7 @@
 <h2 id="猜数字游戏"><a href="#猜数字游戏" class="headerlink" title="猜数字游戏"></a>猜数字游戏</h2><p>有了前面的知识背景，我们就可以撸起袖子写代码了。</p>
 <p><img src="/images/coding/%E4%BF%9D%E4%BD%91%E4%BB%A3%E7%A0%81%E6%B2%A1%E6%9C%89bug.png"></p>
 <p>打开编辑器，输入下面代码，并保存为 guess.py 文件。</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> random</span><br><span class="line"></span><br><span class="line">target = random.randint(<span class="number">1</span>, <span class="number">10</span>)</span><br><span class="line">guess = int(input(<span class="string">&quot;1~10之间猜一个数字：&quot;</span>))</span><br><span class="line"></span><br><span class="line"><span class="keyword">while</span> guess != target:</span><br><span class="line">    <span class="keyword">if</span> guess &gt; target:</span><br><span class="line">        print(guess, <span class="string">&quot;太大了&quot;</span>)</span><br><span class="line">    <span class="keyword">elif</span> guess &lt; target:</span><br><span class="line">        print(guess, <span class="string">&quot;太小了&quot;</span>)</span><br><span class="line"></span><br><span class="line">    guess = int(input(<span class="string">&quot;再猜一遍：&quot;</span>))</span><br><span class="line"></span><br><span class="line">print(<span class="string">&quot;猜对了！&#123;&#125; 是正确的数字&quot;</span>.format(guess))</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> random</span><br><span class="line"></span><br><span class="line">target = random.randint(<span class="number">1</span>, <span class="number">10</span>)</span><br><span class="line">guess = <span class="built_in">int</span>(<span class="built_in">input</span>(<span class="string">&quot;1~10之间猜一个数字：&quot;</span>))</span><br><span class="line"></span><br><span class="line"><span class="keyword">while</span> guess != target:</span><br><span class="line">    <span class="keyword">if</span> guess &gt; target:</span><br><span class="line">        <span class="built_in">print</span>(guess, <span class="string">&quot;太大了&quot;</span>)</span><br><span class="line">    <span class="keyword">elif</span> guess &lt; target:</span><br><span class="line">        <span class="built_in">print</span>(guess, <span class="string">&quot;太小了&quot;</span>)</span><br><span class="line"></span><br><span class="line">    guess = <span class="built_in">int</span>(<span class="built_in">input</span>(<span class="string">&quot;再猜一遍：&quot;</span>))</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;猜对了！&#123;&#125; 是正确的数字&quot;</span>.<span class="built_in">format</span>(guess))</span><br></pre></td></tr></table></figure>
 
 <p>执行 <code>python3 guess.py </code> 看看运行效果吧~</p>
 <p><img src="/images/coding/%E7%8C%9C%E6%95%B0%E5%AD%97%E6%B8%B8%E6%88%8F%E7%BB%93%E6%9E%9C.png"></p>
@@ -526,7 +512,27 @@
 
 
 
-    <div class="comments" id="valine-comments"></div>
+    
+  
+  <div class="comments">
+    <script src="https://giscus.app/client.js"
+        data-repo="luhuadong/blog" 
+        data-repo-id="MDEwOlJlcG9zaXRvcnkzNDEzOTU5NzQ=" 
+        data-category="General"
+        data-category-id="DIC_kwDOFFlKBs4CSTqq"
+        data-mapping="pathname" 
+        data-reactions-enabled="1" 
+        data-emit-metadata="1" 
+        data-theme="light"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        data-input-position="bottom"
+        data-loading="lazy"
+        async>
+    </script>
+  </div>
+  
+  
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -622,18 +628,6 @@
 </script>
 
 
-
-<script>
-NexT.utils.loadComments('#valine-comments', () => {
-  NexT.utils.getScript('https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js', () => {
-    new Valine(Object.assign({"enable":true,"appId":"6hrjjOTKL5yC0nVxpfKzdw1b-gzGzoHsz","appKey":"wGcDnHp1q8puQOkcRCpvOM7n","serverURLs":"https://6hrjjotk.lc-cn-n1-shared.com","placeholder":"Just go go","avatar":"mm","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":false,"requiredFields":[]}, {
-      el: '#valine-comments',
-      path: "/coding/PyTK-2019-Day07.html",
-      serverURLs: "https://6hrjjotk.lc-cn-n1-shared.com"
-    }));
-  }, window.Valine);
-});
-</script>
 
 </body>
 </html>
