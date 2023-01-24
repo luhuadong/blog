@@ -113,6 +113,12 @@
 <body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
   <div class="headband"></div>
 
+  <!-- 加入APlayer音乐播放器 -->
+  <link rel="stylesheet" href="/dist/APlayer.min.css">
+  <div id="aplayer"></div>
+  <script type="text/javascript" src="/dist/APlayer.min.js"></script>
+  <script type="text/javascript" src="/dist/music.js"></script>
+
   <main class="main">
     <header class="header" itemscope itemtype="http://schema.org/WPHeader">
       <div class="header-inner"><div class="site-brand-container">
@@ -225,20 +231,20 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">276</span>
+          <span class="site-state-item-count">284</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
       <div class="site-state-item site-state-categories">
             <a href="/categories/">
           
-        <span class="site-state-item-count">34</span>
+        <span class="site-state-item-count">35</span>
         <span class="site-state-item-name">分类</span></a>
       </div>
       <div class="site-state-item site-state-tags">
             <a href="/tags/">
           
-        <span class="site-state-item-count">74</span>
+        <span class="site-state-item-count">78</span>
         <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
@@ -308,6 +314,853 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/hexo/hexo-generate-deploy.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="阿基米东个人杂志社">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/hexo/hexo-generate-deploy.html" class="post-title-link" itemprop="url">Hexo 编译发布</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2021-03-09 16:08:19" itemprop="dateCreated datePublished" datetime="2021-03-09T16:08:19+08:00">2021-03-09</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2023-01-20 19:29:39" itemprop="dateModified" datetime="2023-01-20T19:29:39+08:00">2023-01-20</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAHexo%E5%8D%9A%E5%AE%A2/" itemprop="url" rel="index"><span itemprop="name">如何搭建Hexo博客</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          一般我们都会使用 hexo new <title> 来建立文章，这种建立方法会将新文章建立在 source/_posts 目录下，当使用 hexo generate 编译 markdown 文件时，会将其 HTML 结果编译在 public 目录下，之后 hexo deploy 将会把 public 目录下所有文章部署到 GitHub，这是我们熟悉的 Hexo 流程。
+
+编译
+1
+
+
+hexo generate
+
+
+发布
+1
+
+
+hexo deploy
+
+
+1
+2
+3
+4
+5
+6
+
+
+# Deployment
+## Docs: https://hexo.io/docs/one-command-
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/hexo/hexo-generate-deploy.html#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/hexo/hexo-new-article.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="阿基米东个人杂志社">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/hexo/hexo-new-article.html" class="post-title-link" itemprop="url">Hexo 创建文章</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2021-03-09 16:05:19" itemprop="dateCreated datePublished" datetime="2021-03-09T16:05:19+08:00">2021-03-09</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2023-01-20 19:29:39" itemprop="dateModified" datetime="2023-01-20T19:29:39+08:00">2023-01-20</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAHexo%E5%8D%9A%E5%AE%A2/" itemprop="url" rel="index"><span itemprop="name">如何搭建Hexo博客</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          创建文章
+简单的，我们可以使用下面命令创建文章，其中 title 为文章标题。
+
+1
+
+
+hexo new <title>
+
+
+这种创建方式会将新文章建立在 source/_posts 目录下，例如创建一篇名为“new article”的文章。
+
+1
+
+
+hexo new "new article"
+
+
+可以看到在 source/_posts 目录下多了一个 new-article.md 的文件。打开之后我们会看到如下内容。
+
+1
+2
+3
+4
+5
+
+
+---
+title: new article
+date: 2021-09-22 14:45:14
+tags:
+---
+
+
+文章属性
+文章可以拥有
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/hexo/hexo-new-article.html#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/hexo/hexo-configuration.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="阿基米东个人杂志社">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/hexo/hexo-configuration.html" class="post-title-link" itemprop="url">Hexo 配置</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2021-03-09 16:03:19" itemprop="dateCreated datePublished" datetime="2021-03-09T16:03:19+08:00">2021-03-09</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2023-01-20 19:29:39" itemprop="dateModified" datetime="2023-01-20T19:29:39+08:00">2023-01-20</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAHexo%E5%8D%9A%E5%AE%A2/" itemprop="url" rel="index"><span itemprop="name">如何搭建Hexo博客</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          * 文章更新时间
+ * 文章字数
+ * 文章阅读量
+
+设置首页只显示部分摘要
+Next默认是会显示全文的，这样显然很不方便，因此需要一些方法去只显示前面一部分。
+
+首先，检查 Next 主题的 _config.yml 中把设置打开 excerpt_description 选项。
+
+在文章的 front-matter 中添加 description 描述，其中 description 中的内容就会被作为摘要显示在首页上，其余一律不显示。
+
+1
+2
+3
+4
+5
+
+
+---
+title: 让首页显示部分内容
+date: 2021-09-23 21:58:37
+description: 这是显示在首页
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/hexo/hexo-configuration.html#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/hexo/hexo-themes.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="阿基米东个人杂志社">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/hexo/hexo-themes.html" class="post-title-link" itemprop="url">Hexo 主题</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2021-03-09 16:02:19" itemprop="dateCreated datePublished" datetime="2021-03-09T16:02:19+08:00">2021-03-09</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2023-01-20 19:29:39" itemprop="dateModified" datetime="2023-01-20T19:29:39+08:00">2023-01-20</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAHexo%E5%8D%9A%E5%AE%A2/" itemprop="url" rel="index"><span itemprop="name">如何搭建Hexo博客</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          * NexT
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/hexo/hexo-themes.html#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/hexo/hexo-commands.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="阿基米东个人杂志社">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/hexo/hexo-commands.html" class="post-title-link" itemprop="url">Hexo 命令</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2021-03-09 16:02:09" itemprop="dateCreated datePublished" datetime="2021-03-09T16:02:09+08:00">2021-03-09</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2023-01-20 19:29:39" itemprop="dateModified" datetime="2023-01-20T19:29:39+08:00">2023-01-20</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAHexo%E5%8D%9A%E5%AE%A2/" itemprop="url" rel="index"><span itemprop="name">如何搭建Hexo博客</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          创建新博客
+
+1
+
+
+hexo new "Hello World"
+
+
+生成网站
+
+1
+
+
+hexo generate
+
+
+启动本地服务器
+
+1
+
+
+hexo server
+
+
+默认启动 4000 端口（可在 _config.yml 文件设定），访问 http://localhost:4000 即可浏览网页。
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/hexo/hexo-commands.html#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/hexo/hexo-installation.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="阿基米东个人杂志社">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/hexo/hexo-installation.html" class="post-title-link" itemprop="url">Hexo 安装</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2021-03-09 15:59:09" itemprop="dateCreated datePublished" datetime="2021-03-09T15:59:09+08:00">2021-03-09</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2023-01-20 19:29:39" itemprop="dateModified" datetime="2023-01-20T19:29:39+08:00">2023-01-20</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAHexo%E5%8D%9A%E5%AE%A2/" itemprop="url" rel="index"><span itemprop="name">如何搭建Hexo博客</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          Hexo 的安装方法很简单，但它依赖 Node.js 和 Git，因此需要先安装这些应用程序。
+
+ * Node.js（Node.js 版本需不低于 10.13，建议使用 Node.js 12.0 及以上版本）
+ * Git 版本管理系统
+
+安装 Git
+Windows 用户可以通过 https://git-scm.com/download/win 网页下载并安装 Git。
+
+macOS 用户可以使用 Homebrew、MacPorts 工具或者直接下载 安装程序 进行安装。
+
+Linux 用户可以通过下面命令安装 Git：
+
+1
+2
+
+
+sudo apt-get install git-co
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/hexo/hexo-installation.html#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/hexo/hexo-intro.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="阿基米东个人杂志社">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/hexo/hexo-intro.html" class="post-title-link" itemprop="url">Hexo 简介</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2021-03-09 15:57:09" itemprop="dateCreated datePublished" datetime="2021-03-09T15:57:09+08:00">2021-03-09</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2023-01-20 19:29:39" itemprop="dateModified" datetime="2023-01-20T19:29:39+08:00">2023-01-20</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAHexo%E5%8D%9A%E5%AE%A2/" itemprop="url" rel="index"><span itemprop="name">如何搭建Hexo博客</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          Hexo 是一个快速、简洁且高效的博客框架。Hexo 基于 Node.js 实现，并使用 Markdown（或其他渲染引擎）解析文章，可以帮助用户在几秒内生成静态网页。配合 Hexo 主题，就可以生成许多酷炫靓丽的博客网页。
+
+Hexo 框架具有如下特性：
+
+ * 风一般的速度 —— Hexo 基于 Node.js，支持多进程，几百篇文章也可以秒生成。
+ * 流畅的撰写 —— 支持 GitHub Flavored Markdown 和所有 Octopress 的插件。
+ * 扩展性 —— Hexo 支持 EJS、Swig 和 Stylus。通过插件支持 Haml、Jade 和 Less。
+
+相
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/hexo/hexo-intro.html#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/markdown/markdown-emoji.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="阿基米东个人杂志社">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/markdown/markdown-emoji.html" class="post-title-link" itemprop="url">俏皮的 Markdown Emoji 表情</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2021-03-07 23:07:08" itemprop="dateCreated datePublished" datetime="2021-03-07T23:07:08+08:00">2021-03-07</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2023-01-23 17:19:22" itemprop="dateModified" datetime="2023-01-23T17:19:22+08:00">2023-01-23</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E4%B8%80%E8%B5%B7%E5%AD%A6Markdown/" itemprop="url" rel="index"><span itemprop="name">一起学Markdown</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          【Markdown从入门到精通】
+
+❓ 如果不懂外语，在互联网上怎么交流？—— 别慌，可以用互联网时代全球通用语言 Emoji 呀！
+
+Emoji 的发展史
+📎 ​Emoji 的演变主要分为三个阶段。
+
+1️⃣ 符号表情（颜文字）
+早在 1967 年，美国《Reader’s Digest》的一篇文章就提出了用符号表达情绪的概念，但这个想法并未付诸实践。直到 1982 年，卡耐基梅隆大学的 Scott Fahlman 教授提议在留言板上使用 :-) 和 :-( 符号来区分严肃的帖子和笑话。
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+
+19-Sep-82 11:44    Scott 
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/markdown/markdown-emoji.html#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
     <link itemprop="mainEntityOfPage" href="https://luhuadong.com/markdown/markdown-extended-syntax.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -339,7 +1192,7 @@
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2022-12-27 21:49:54" itemprop="dateModified" datetime="2022-12-27T21:49:54+08:00">2022-12-27</time>
+        <time title="修改时间：2023-01-20 19:29:39" itemprop="dateModified" datetime="2023-01-20T19:29:39+08:00">2023-01-20</time>
       </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -445,7 +1298,7 @@
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2022-12-27 21:49:54" itemprop="dateModified" datetime="2022-12-27T21:49:54+08:00">2022-12-27</time>
+        <time title="修改时间：2023-01-20 19:29:39" itemprop="dateModified" datetime="2023-01-20T19:29:39+08:00">2023-01-20</time>
       </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -499,778 +1352,8 @@
 
 
 
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/markdown/markdown-editor.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人杂志社">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/markdown/markdown-editor.html" class="post-title-link" itemprop="url">盘点好用的 Markdown 编辑器</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2021-03-07 13:06:56" itemprop="dateCreated datePublished" datetime="2021-03-07T13:06:56+08:00">2021-03-07</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2022-12-27 21:49:54" itemprop="dateModified" datetime="2022-12-27T21:49:54+08:00">2022-12-27</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%80%E8%B5%B7%E5%AD%A6Markdown/" itemprop="url" rel="index"><span itemprop="name">一起学Markdown</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          【Markdown从入门到精通】
-
-Markdown 是以文本形式保存的，基本上任何一款编辑器都可以完成 Markdown 写作（包括 Windows 的记事本、Linux 的 Vim 等等）。不过，如果你想更专注于写作，一款支持语法显示和实时渲染的工具能让你事半功倍！
-
-下面列出的是我个人使用过一些 Markdown 编辑器，小伙伴们可以根据自己的需要安装使用。
-
-名称特点支持平台费用MarkdownPadWindows 平台最好用的 Markdown 编辑器Windows免费 + 付费Atom开源，跨平台，超棒的编辑器，需安装插件Windows、Linux、macOS免费Sublime T
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/markdown/markdown-editor.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/markdown/markdown-intro.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人杂志社">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/markdown/markdown-intro.html" class="post-title-link" itemprop="url">三分钟成为 Markdown 专家</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2021-03-07 00:32:03" itemprop="dateCreated datePublished" datetime="2021-03-07T00:32:03+08:00">2021-03-07</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2022-12-27 21:49:54" itemprop="dateModified" datetime="2022-12-27T21:49:54+08:00">2022-12-27</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%80%E8%B5%B7%E5%AD%A6Markdown/" itemprop="url" rel="index"><span itemprop="name">一起学Markdown</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          【Markdown从入门到精通】
-
-当你点开这篇文章的时候，相信你已经听过，甚至使用过 Markdown 了。现在，你希望进一步了解，使用好 Markdown。
-
-那么，请先回答 3 个问题：
-
- 1. Markdown 是什么？
- 2. Markdown 不是什么？
- 3. 为什么使用 Markdown？
-
-Markdown 是什么
-Markdown 是一种轻量级标记语言。别被「标记语言」这个词吓到，其实就是用一些足够简单的符号作为标记来对文本内容进行修饰。比如像下面这张图，左边就是用 Markdown 进行标记的文本，右边是经过渲染后呈现给用户的效果。
-
-
-
-Markdown 简史
-
-Ma
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/markdown/markdown-intro.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/movies/The-Story-of-Aaron-Swartz.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人杂志社">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/movies/The-Story-of-Aaron-Swartz.html" class="post-title-link" itemprop="url">【纪录片】互联网之子（Aaron Swartz）</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2021-03-06 01:43:41" itemprop="dateCreated datePublished" datetime="2021-03-06T01:43:41+08:00">2021-03-06</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2022-12-27 21:49:54" itemprop="dateModified" datetime="2022-12-27T21:49:54+08:00">2022-12-27</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%80%E8%B5%B7%E7%9C%8B%E5%BD%B1%E7%89%87/" itemprop="url" rel="index"><span itemprop="name">一起看影片</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <iframe src="//player.bilibili.com/player.html?aid=16549975&bvid=BV1rx411V75r&cid=26994578&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/reading/%E8%A7%81%E8%AF%86.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人杂志社">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/reading/%E8%A7%81%E8%AF%86.html" class="post-title-link" itemprop="url">《见识》读书笔记</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2021-02-28 20:28:09" itemprop="dateCreated datePublished" datetime="2021-02-28T20:28:09+08:00">2021-02-28</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2022-12-27 21:49:54" itemprop="dateModified" datetime="2022-12-27T21:49:54+08:00">2022-12-27</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%80%E8%B5%B7%E8%AF%BB%E4%B9%A6%E5%91%80/" itemprop="url" rel="index"><span itemprop="name">一起读书呀</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          比贫穷更可怕的是：缺乏见识、缺乏爱、缺乏规矩
-
-《见识》作者吴军
-
- * 序言 “命”和“运”决定人的一生
-   
-    * 要想命好，首先要认识命的重要性
-      
-       * 信命是知道自己有所不能。
-       * 认命是不超越命运给自己画的线，对于得不到的坦然接受。（查理芒格的“能力圈”？）
-       * 孔子曰：“从心所欲，不逾矩”。
-      
-      
-    * 什么是命？取决于两个因素
-      
-       * 人生轨迹走不出两条线，个人的努力、运气等不过是让我们在这两条线之间微调而已
-         
-         
-       * 环
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/reading/%E8%A7%81%E8%AF%86.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/relationship/have-not-found-a-soulmate-yet.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人杂志社">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/relationship/have-not-found-a-soulmate-yet.html" class="post-title-link" itemprop="url">为什么找不到灵魂伴侣</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2021-02-14 18:48:28" itemprop="dateCreated datePublished" datetime="2021-02-14T18:48:28+08:00">2021-02-14</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2022-12-27 21:49:54" itemprop="dateModified" datetime="2022-12-27T21:49:54+08:00">2022-12-27</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB%E7%A0%94%E7%A9%B6%E6%89%80/" itemprop="url" rel="index"><span itemprop="name">人际关系研究所</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          今天是大年初三，也是 2.14 情人节，希望有情人终成眷属~
-
-插画来自 IG：herta_burbe
-
-父母从小培养我，把我塑造成他们想要的样子。
-
-我知道他们是为我好，所以我努力去达到他们的要求。可我还是我，没办法丢弃那些属于我的特质。我学会了伪装，甚至掩饰自己的内心，只有我才知道，真实的我是怎么样的。
-
-有时候，我害怕受伤，我抱怨没人理解我，我把脆弱的那部分锁起来不让别人看见。
-
-只有面对那浩瀚的大海，我才敢做自己，那么真实，那么自在！
-
-家人朋友都催我早点结婚，他们说生活就是平平淡淡、简简单单，想太多只会徒增烦恼。（不过，他们简单的外表底下，没准还藏着一个复杂的内心，谁知道呢。）
-
-有
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/relationship/have-not-found-a-soulmate-yet.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/reading/the-secret.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人杂志社">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/reading/the-secret.html" class="post-title-link" itemprop="url">秘密 —— 宇宙吸引力法则</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2021-02-06 20:43:26" itemprop="dateCreated datePublished" datetime="2021-02-06T20:43:26+08:00">2021-02-06</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2022-12-27 21:49:54" itemprop="dateModified" datetime="2022-12-27T21:49:54+08:00">2022-12-27</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%80%E8%B5%B7%E8%AF%BB%E4%B9%A6%E5%91%80/" itemprop="url" rel="index"><span itemprop="name">一起读书呀</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          第一次知道《秘密》这本书，是 Mr.Yang 推荐的，他分享了他是如何从沮丧、迷茫的状态中获得能量，找到自己的人生方向，并逐步把它实现的。
-
-前段时间在老板的书架上看到了这本书，于是我就借过来看了一遍。
-
-吸引力法则
-这本书其实很简单，只讲了一个东西，就是所谓的秘密——吸引力法则。主要分为两部分，前面一部分介绍吸引力法则的概念和方法，后面一部分介绍吸引力法则在金钱、关系、世界、生命健康还有个人成长方面的运用。
-
-所谓的吸引力法则，就是你心里面一直想呀想呀，你就会得到你想要的东西。
-
-
-
-听起来很玄学对不对？我一开始也是这么认为的。尤其是这本书一直在强调通过想象力向宇宙发出讯号，而对于如何执行、
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/reading/the-secret.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/journal/opensource-guide.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人杂志社">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/journal/opensource-guide.html" class="post-title-link" itemprop="url">《开源指北》之我和开源的故事</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2021-01-29 19:33:45" itemprop="dateCreated datePublished" datetime="2021-01-29T19:33:45+08:00">2021-01-29</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2022-12-27 21:49:54" itemprop="dateModified" datetime="2022-12-27T21:49:54+08:00">2022-12-27</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%8D%E5%AE%9A%E6%97%B6%E6%97%A5%E8%AE%B0/" itemprop="url" rel="index"><span itemprop="name">不定时日记</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          【开源指北 1.0 发布】和你做过最酷的事，就是一起「写书」
-
-去年参加的《开源指北》编写计划最近正式发布啦！
-
-我大概是最早加入该项目的非官方成员之一，因为我几乎每天都会登陆 Gitee 网站，在去年十月中旬就看到该项目的招募计划，然后就领取了第一章第一节的编写任务 —— 初识开源： 什么是开源？，接下来两个月里又陆陆续续补充了其他章节的内容。（文章末尾看到「阿基米东」的就是啦~）
-
-可以说，如果不是因为开源，我是不会选择成为一名程序员的。
-
-我接触计算机非常晚，高考之后家里才有了第一台电脑，也是那时候我才开始学习怎么上网、怎么下载、怎么搜索……（所以真的很羡慕现在的小朋友呢）。但也正是因为
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/journal/opensource-guide.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/radio/radio-brief-history.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人杂志社">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/radio/radio-brief-history.html" class="post-title-link" itemprop="url">无线电发展简史</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2021-01-20 16:52:27" itemprop="dateCreated datePublished" datetime="2021-01-20T16:52:27+08:00">2021-01-20</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2022-12-27 21:49:54" itemprop="dateModified" datetime="2022-12-27T21:49:54+08:00">2022-12-27</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%80%E8%B5%B7%E7%8E%A9%E6%97%A0%E7%BA%BF%E7%94%B5/" itemprop="url" rel="index"><span itemprop="name">一起玩无线电</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          * 1820年，奥斯特（Hans Christian Oersted）发现了电流的磁效应。
- * 1831年，法拉第（Michael Faraday）提出电磁感应定律。
- * 1837年，美国画家莫尔斯（Samuel Finley Breese Morse）发明了莫尔斯电码。
- * 1864年，麦克斯韦 (James Clerk Maxwell）预言电磁波存在，并提出电磁场理论。
- * 1888年，赫兹（Heinrich Hertz）实验证明电磁波存在，测出电磁波速度。
- * 1893年，尼古拉·特斯拉（Nikola Tesla）在美国密苏里州圣路易斯首次公开展示了无线电通信。
- * 1895
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/radio/radio-brief-history.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
   <nav class="pagination">
-    <a class="extend prev" rel="prev" href="/page/15/"><i class="fa fa-angle-left" aria-label="上一页"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/15/">15</a><span class="page-number current">16</span><a class="page-number" href="/page/17/">17</a><span class="space">&hellip;</span><a class="page-number" href="/page/28/">28</a><a class="extend next" rel="next" href="/page/17/"><i class="fa fa-angle-right" aria-label="下一页"></i></a>
+    <a class="extend prev" rel="prev" href="/page/15/"><i class="fa fa-angle-left" aria-label="上一页"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/15/">15</a><span class="page-number current">16</span><a class="page-number" href="/page/17/">17</a><span class="space">&hellip;</span><a class="page-number" href="/page/29/">29</a><a class="extend next" rel="next" href="/page/17/"><i class="fa fa-angle-right" aria-label="下一页"></i></a>
   </nav>
 
 
