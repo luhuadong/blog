@@ -26,12 +26,12 @@
     var NexT = window.NexT || {};
     var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
   </script>
-<meta name="description" content="阿基米东个人杂志社">
+<meta name="description" content="阿基米东的网络日志">
 <meta property="og:type" content="website">
 <meta property="og:title" content="成为自由人">
 <meta property="og:url" content="https://luhuadong.com/page/16/index.html">
 <meta property="og:site_name" content="成为自由人">
-<meta property="og:description" content="阿基米东个人杂志社">
+<meta property="og:description" content="阿基米东的网络日志">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:author" content="Rudy Lo">
 <meta name="twitter:card" content="summary">
@@ -138,7 +138,7 @@
       <i class="logo-line"></i>
     </a>
       <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
-      <img class="custom-logo-image" src="/uploads/qrcode_8cm.jpg" alt="成为自由人">
+      <img class="custom-logo-image" src="/images/banner_1.gif" alt="成为自由人">
   </div>
 
   <div class="site-nav-right">
@@ -224,14 +224,14 @@
     <img class="site-author-image" itemprop="image" alt="Rudy Lo"
       src="/images/lu_avatar_04.jpeg">
   <p class="site-author-name" itemprop="name">Rudy Lo</p>
-  <div class="site-description" itemprop="description">阿基米东个人杂志社</div>
+  <div class="site-description" itemprop="description">阿基米东的网络日志</div>
 </div>
 <div class="site-state-wrap site-overview-item animated">
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">288</span>
+          <span class="site-state-item-count">290</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -314,12 +314,219 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/hexo/hexo-math-formulas.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="阿基米东的网络日志">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/hexo/hexo-math-formulas.html" class="post-title-link" itemprop="url">Hexo 数学公式</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2021-03-10 07:18:20" itemprop="dateCreated datePublished" datetime="2021-03-10T07:18:20+08:00">2021-03-10</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2023-01-28 21:29:32" itemprop="dateModified" datetime="2023-01-28T21:29:32+08:00">2023-01-28</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAHexo%E5%8D%9A%E5%AE%A2/" itemprop="url" rel="index"><span itemprop="name">如何搭建Hexo博客</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          添加 MathJax
+MathJax 是一个 JavaScript 引擎，用来显示网络上的数学公式，它支持大部分的主流的浏览器。
+
+有些 Hexo 主题（如 NexT）内部已经集成了 MathJax，只需要编辑 themes/next/_config.yml 配置文件，找到 math 配置项，配置为 enable: true 即可启用。
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+
+math:
+  # Default (false) will load mathjax / katex script on demand.
+  # That is it only r
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/hexo/hexo-math-formulas.html#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/hexo/hexo-video.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
+      <meta itemprop="name" content="Rudy Lo">
+      <meta itemprop="description" content="阿基米东的网络日志">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="成为自由人">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/hexo/hexo-video.html" class="post-title-link" itemprop="url">Hexo 嵌入视频</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2021-03-10 07:15:20" itemprop="dateCreated datePublished" datetime="2021-03-10T07:15:20+08:00">2021-03-10</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2023-01-28 21:29:32" itemprop="dateModified" datetime="2023-01-28T21:29:32+08:00">2023-01-28</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAHexo%E5%8D%9A%E5%AE%A2/" itemprop="url" rel="index"><span itemprop="name">如何搭建Hexo博客</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          嵌入B站视频
+如果想把B站的视频嵌入到自己的博客网站中，直接使用官方视频下面的嵌入代码即可。代码如下，其中 aid、bvid 和 cid 随不同视频而变化。
+
+1
+
+
+<iframe src="//player.bilibili.com/player.html?aid=xxx&bvid=yyy&cid=zzz&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
+但由于官方提供的这段代码的视频排版不是很美观，而且不能观看高清视频，也发不了弹幕
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/hexo/hexo-video.html#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
     <link itemprop="mainEntityOfPage" href="https://luhuadong.com/hexo/hexo-music.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
       <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人杂志社">
+      <meta itemprop="description" content="阿基米东的网络日志">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
@@ -345,7 +552,7 @@
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-01-28 21:27:20" itemprop="dateModified" datetime="2023-01-28T21:27:20+08:00">2023-01-28</time>
+        <time title="修改时间：2023-01-28 21:29:32" itemprop="dateModified" datetime="2023-01-28T21:29:32+08:00">2023-01-28</time>
       </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -428,7 +635,7 @@ The Moon Song
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
       <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人杂志社">
+      <meta itemprop="description" content="阿基米东的网络日志">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
@@ -454,7 +661,7 @@ The Moon Song
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-01-28 21:27:20" itemprop="dateModified" datetime="2023-01-28T21:27:20+08:00">2023-01-28</time>
+        <time title="修改时间：2023-01-28 21:29:32" itemprop="dateModified" datetime="2023-01-28T21:29:32+08:00">2023-01-28</time>
       </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -541,7 +748,7 @@ search:
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
       <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人杂志社">
+      <meta itemprop="description" content="阿基米东的网络日志">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
@@ -567,7 +774,7 @@ search:
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-01-28 21:27:20" itemprop="dateModified" datetime="2023-01-28T21:27:20+08:00">2023-01-28</time>
+        <time title="修改时间：2023-01-28 21:29:32" itemprop="dateModified" datetime="2023-01-28T21:29:32+08:00">2023-01-28</time>
       </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -637,7 +844,7 @@ search:
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
       <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人杂志社">
+      <meta itemprop="description" content="阿基米东的网络日志">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
@@ -663,7 +870,7 @@ search:
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-01-28 21:27:20" itemprop="dateModified" datetime="2023-01-28T21:27:20+08:00">2023-01-28</time>
+        <time title="修改时间：2023-01-28 21:29:32" itemprop="dateModified" datetime="2023-01-28T21:29:32+08:00">2023-01-28</time>
       </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -745,7 +952,7 @@ permalink:
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
       <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人杂志社">
+      <meta itemprop="description" content="阿基米东的网络日志">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
@@ -771,7 +978,7 @@ permalink:
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-01-28 21:27:20" itemprop="dateModified" datetime="2023-01-28T21:27:20+08:00">2023-01-28</time>
+        <time title="修改时间：2023-01-28 21:29:32" itemprop="dateModified" datetime="2023-01-28T21:29:32+08:00">2023-01-28</time>
       </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -857,7 +1064,7 @@ hexo deploy
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
       <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人杂志社">
+      <meta itemprop="description" content="阿基米东的网络日志">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
@@ -883,7 +1090,7 @@ hexo deploy
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-01-28 21:27:20" itemprop="dateModified" datetime="2023-01-28T21:27:20+08:00">2023-01-28</time>
+        <time title="修改时间：2023-01-28 21:29:32" itemprop="dateModified" datetime="2023-01-28T21:29:32+08:00">2023-01-28</time>
       </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -978,7 +1185,7 @@ tags:
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
       <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人杂志社">
+      <meta itemprop="description" content="阿基米东的网络日志">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
@@ -1004,7 +1211,7 @@ tags:
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-01-28 21:27:20" itemprop="dateModified" datetime="2023-01-28T21:27:20+08:00">2023-01-28</time>
+        <time title="修改时间：2023-01-28 21:29:32" itemprop="dateModified" datetime="2023-01-28T21:29:32+08:00">2023-01-28</time>
       </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -1086,7 +1293,7 @@ description: 这是显示在首页
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
       <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人杂志社">
+      <meta itemprop="description" content="阿基米东的网络日志">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
@@ -1112,7 +1319,7 @@ description: 这是显示在首页
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-01-28 21:27:20" itemprop="dateModified" datetime="2023-01-28T21:27:20+08:00">2023-01-28</time>
+        <time title="修改时间：2023-01-28 21:29:32" itemprop="dateModified" datetime="2023-01-28T21:29:32+08:00">2023-01-28</time>
       </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -1151,220 +1358,6 @@ Fluid 一款 Material Design 风格的 Hexo 主题，由 Fluid-dev 负责开发�
           <!--noindex-->
             <div class="post-button">
               <a class="btn" href="/hexo/hexo-themes.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/hexo/hexo-commands.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人杂志社">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/hexo/hexo-commands.html" class="post-title-link" itemprop="url">Hexo 命令</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2021-03-09 16:02:09" itemprop="dateCreated datePublished" datetime="2021-03-09T16:02:09+08:00">2021-03-09</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-01-28 21:27:20" itemprop="dateModified" datetime="2023-01-28T21:27:20+08:00">2023-01-28</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAHexo%E5%8D%9A%E5%AE%A2/" itemprop="url" rel="index"><span itemprop="name">如何搭建Hexo博客</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          创建新博客
-
-1
-
-
-hexo new "Hello World"
-
-
-生成网站
-
-1
-
-
-hexo generate
-
-
-启动本地服务器
-
-1
-
-
-hexo server
-
-
-默认启动 4000 端口（可在 _config.yml 文件设定），访问 http://localhost:4000 即可浏览网页。
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/hexo/hexo-commands.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/hexo/hexo-installation.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东个人杂志社">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/hexo/hexo-installation.html" class="post-title-link" itemprop="url">Hexo 安装</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2021-03-09 15:59:09" itemprop="dateCreated datePublished" datetime="2021-03-09T15:59:09+08:00">2021-03-09</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-01-28 21:27:20" itemprop="dateModified" datetime="2023-01-28T21:27:20+08:00">2023-01-28</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAHexo%E5%8D%9A%E5%AE%A2/" itemprop="url" rel="index"><span itemprop="name">如何搭建Hexo博客</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          Hexo 的安装方法很简单，但它依赖 Node.js 和 Git，因此需要先安装这些应用程序。
-
- * Node.js（Node.js 版本需不低于 10.13，建议使用 Node.js 12.0 及以上版本）
- * Git 版本管理系统
-
-安装 Git
-Windows 用户可以通过 https://git-scm.com/download/win 网页下载并安装 Git。
-
-macOS 用户可以使用 Homebrew、MacPorts 工具或者直接下载 安装程序 进行安装。
-
-Linux 用户可以通过下面命令安装 Git：
-
-1
-2
-
-
-sudo apt-get install git-co
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/hexo/hexo-installation.html#more" rel="contents">
                 阅读全文 &raquo;
               </a>
             </div>
