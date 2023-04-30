@@ -1,85 +1,505 @@
+
+
+
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
-<meta name="theme-color" content="#222">
-<meta name="generator" content="Hexo 5.0.2">
+<meta name="theme-color" content="#FFF">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="icon" type="image/ico" sizes="32x32" href="/images/favicon.ico">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta http-equiv="Cache-Control" content="no-siteapp">
 
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/lu_avatar_01_120px.png">
-  <link rel="mask-icon" href="/images/lu_avatar_01_240px.png" color="#222">
+<link rel="alternate" type="application/rss+xml" title="成为自由人" href="https://luhuadong.com/rss.xml" />
+<link rel="alternate" type="application/atom+xml" title="成为自由人" href="https://luhuadong.com/atom.xml" />
+<link rel="alternate" type="application/json" title="成为自由人" href="https://luhuadong.com/feed.json" />
 
-<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Mulish:300,300italic,400,400italic,700,700italic%7CFredericka%20the%20Great:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20JP:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20SC:300,300italic,400,400italic,700,700italic%7CInconsolata:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
 
+<link rel="stylesheet" href="/css/app.css?v=0.2.5">
 
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3396347538857110" crossorigin="anonymous"></script>
-
-<script class="hexo-configurations">
-    var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
-  </script>
-<meta name="description" content="今年 CSDN 没有组织程序员年终总结征文活动，于是我这篇文章在云笔记中躺了好几个星期，今天（大年初二）——终于有点时间和心情把它写完，回想过去一年里所发生的事，嘿，时间过得真快。       工作 首先，工作上不紧不慢、按部就班，还是以嵌入式软件工程师的身份走完了整个2017，完成了公司计划内的两个项目。工作内容还是传统通信行业的一些嵌入式和应用层的软件开发，涉及 ARM、Linux、FreeR">
-<meta property="og:type" content="article">
-<meta property="og:title" content="我的2017——作为一名程序员，我重新思考了我生活的目标">
-<meta property="og:url" content="https://luhuadong.com/journal/2017-year-end-summary.html">
-<meta property="og:site_name" content="成为自由人">
-<meta property="og:description" content="今年 CSDN 没有组织程序员年终总结征文活动，于是我这篇文章在云笔记中躺了好几个星期，今天（大年初二）——终于有点时间和心情把它写完，回想过去一年里所发生的事，嘿，时间过得真快。       工作 首先，工作上不紧不慢、按部就班，还是以嵌入式软件工程师的身份走完了整个2017，完成了公司计划内的两个项目。工作内容还是传统通信行业的一些嵌入式和应用层的软件开发，涉及 ARM、Linux、FreeR">
-<meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://img-blog.csdnimg.cn/img_convert/560b9da1bb80c3fc34defba85e610946.gif">
-<meta property="og:image" content="https://img-blog.csdnimg.cn/img_convert/0f5a8d08f362322710214f930f372222.png">
-<meta property="og:image" content="https://luhuadong.com/images/journal/20180217211802537.jpeg">
-<meta property="og:image" content="https://img-blog.csdnimg.cn/img_convert/2772fa3a37d48258204746d25f03caf9.png">
-<meta property="og:image" content="https://img-blog.csdnimg.cn/img_convert/55e437bf81f5726c59fb3367f0354479.png">
-<meta property="og:image" content="https://img-blog.csdnimg.cn/img_convert/d65bc94e7b8794edd9fa0118418ffb84.png">
-<meta property="og:image" content="https://img-blog.csdnimg.cn/img_convert/a5b8b82ba348c620336ea11536ab8298.png">
-<meta property="og:image" content="https://img-blog.csdnimg.cn/img_convert/9a24f30d469c775556d0ddc4fa8f4fe4.png">
-<meta property="og:image" content="https://img-blog.csdnimg.cn/img_convert/0dcb7383242d5a8cc2f295f94cf1d588.png">
-<meta property="og:image" content="https://img-blog.csdnimg.cn/img_convert/73e6acf87b3df68f51547dc0972a324a.png">
-<meta property="og:image" content="https://img-blog.csdnimg.cn/img_convert/f4ec7a2afbab294b8ecebb401904c3f8.png">
-<meta property="og:image" content="https://luhuadong.com/images/journal/20180218025113431.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/qrcode_8cm.jpg">
-<meta property="article:published_time" content="2018-02-17T14:02:12.000Z">
-<meta property="article:modified_time" content="2023-03-24T17:27:54.605Z">
-<meta property="article:author" content="Rudy Lo">
-<meta property="article:tag" content="工作">
-<meta property="article:tag" content="总结">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://img-blog.csdnimg.cn/img_convert/560b9da1bb80c3fc34defba85e610946.gif">
+  
+  <meta name="keywords" content="工作,总结" />
 
 
 <link rel="canonical" href="https://luhuadong.com/journal/2017-year-end-summary.html">
 
 
-<script class="page-configurations">
-  // https://hexo.io/docs/variables.html
-  CONFIG.page = {
-    sidebar: "",
-    isHome : false,
-    isPost : true,
-    lang   : 'zh-CN'
+
+  <title>
+我的2017——作为一名程序员，我重新思考了我生活的目标 - 不定时日记 |
+Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</title>
+<meta name="generator" content="Hexo 5.4.2"></head>
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div id="loading">
+    <div class="cat">
+      <div class="body"></div>
+      <div class="head">
+        <div class="face"></div>
+      </div>
+      <div class="foot">
+        <div class="tummy-end"></div>
+        <div class="bottom"></div>
+        <div class="legs left"></div>
+        <div class="legs right"></div>
+      </div>
+      <div class="paw">
+        <div class="hands left"></div>
+        <div class="hands right"></div>
+      </div>
+    </div>
+  </div>
+  <div id="container">
+    <header id="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="inner">
+        <div id="brand">
+          <div class="pjax">
+          
+  <h1 itemprop="name headline">我的2017——作为一名程序员，我重新思考了我生活的目标
+  </h1>
+  
+<div class="meta">
+  <span class="item" title="创建时间：2018-02-17 22:02:12">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <span class="text">发表于</span>
+    <time itemprop="dateCreated datePublished" datetime="2018-02-17T22:02:12+08:00">2018-02-17</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span class="text">本文字数</span>
+    <span>2.6k</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span class="text">阅读时长</span>
+    <span>2 分钟</span>
+  </span>
+</div>
+
+
+          </div>
+        </div>
+        <nav id="nav">
+  <div class="inner">
+    <div class="toggle">
+      <div class="lines" aria-label="切换导航栏">
+        <span class="line"></span>
+        <span class="line"></span>
+        <span class="line"></span>
+      </div>
+    </div>
+    <ul class="menu">
+      <li class="item title"><a href="/" rel="start">Freedom Blog</a></li>
+    </ul>
+    <ul class="right">
+      <li class="item theme">
+        <i class="ic i-sun"></i>
+      </li>
+      <li class="item search">
+        <i class="ic i-search"></i>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+      </div>
+      <div id="imgs" class="pjax">
+        <ul>
+          <li class="item" data-background-image="http://static.luhuadong.com/JTNPMilkyWay.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/WhitehorseAurora.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/NahargarhFort.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/MPPUnesco.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/EuropeFromISS.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/EdaleValley.jpg"></li>
+        </ul>
+      </div>
+    </header>
+    <div id="waves">
+      <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+        <defs>
+          <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+        </defs>
+        <g class="parallax">
+          <use xlink:href="#gentle-wave" x="48" y="0" />
+          <use xlink:href="#gentle-wave" x="48" y="3" />
+          <use xlink:href="#gentle-wave" x="48" y="5" />
+          <use xlink:href="#gentle-wave" x="48" y="7" />
+        </g>
+      </svg>
+    </div>
+    <main>
+      <div class="inner">
+        <div id="main" class="pjax">
+          
+  <div class="article wrap">
+    
+<div class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+<i class="ic i-home"></i>
+<span><a href="/">首页</a></span><i class="ic i-angle-right"></i>
+<span  class="current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/categories/journal/" itemprop="item" rel="index" title="分类于 不定时日记"><span itemprop="name">不定时日记</span></a>
+<meta itemprop="position" content="1" /></span>
+</div>
+
+    <article itemscope itemtype="http://schema.org/Article" class="post block" lang="zh-CN">
+  <link itemprop="mainEntityOfPage" href="https://luhuadong.com/journal/2017-year-end-summary.html">
+
+  <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <meta itemprop="image" content="/images/lu_20221221.jpg">
+    <meta itemprop="name" content="Rudy Lo">
+    <meta itemprop="description" content="生活的理想，就是为了理想的生活, 阿基米东的网络日志">
+  </span>
+
+  <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+    <meta itemprop="name" content="成为自由人">
+  </span>
+
+  <div class="body md" itemprop="articleBody">
+    
+
+    <p>今年 CSDN 没有组织程序员年终总结征文活动，于是我这篇文章在云笔记中躺了好几个星期，今天（大年初二）—— 终于有点时间和心情把它写完，回想过去一年里所发生的事，嘿，时间过得真快。</p>
+<p><img data-src="https://img-blog.csdnimg.cn/img_convert/560b9da1bb80c3fc34defba85e610946.gif" alt="这里写图片描述"></p>
+<hr>
+<h2 id="工作"><a class="markdownIt-Anchor" href="#工作">#</a> 工作</h2>
+<p>首先，工作上不紧不慢、按部就班，还是以嵌入式软件工程师的身份走完了整个 2017，完成了公司计划内的两个项目。工作内容还是传统通信行业的一些嵌入式和应用层的软件开发，涉及 ARM、Linux、FreeRTOS、音视频，以及一些通信协议和特定应用场合的业务逻辑等内容。</p>
+<p>但是总体来说，工作上并没有太多亮点（或者说给我带来太大的自豪感和满足感），在国企做研发，给我的感觉就是 —— 没有研只有发。不停地开发，却很少停下来专研某项技术，很多时候给我的感觉就是对技术没有太多的追求，能实现应用需求，能盈利就好。这一点在很多层面上都有所体现，显然是有历史原因的，也不是我一个小小程序员能撼动的了。</p>
+<p>公司在创业板成功上市，实现了王老板的小目标，所以我们老板也慷慨地给我们发了一点点奖金。同时我自己充分发挥中华民族勤俭节约的优良传统，也差不多实现了自己的 2017 理财小目标，虽然相比于王老板的小目标不值一提，但毕竟在理财的路上踏出了一步，理财就是理生活，所以还是值得肯定的。</p>
+<p><img data-src="https://img-blog.csdnimg.cn/img_convert/0f5a8d08f362322710214f930f372222.png" alt="这里写图片描述"></p>
+<h2 id="学习"><a class="markdownIt-Anchor" href="#学习">#</a> 学习</h2>
+<p>由于工作上的一些限制，ARM+Linux 相关技能并没有得到太多提升（也许是我想多了，又或许是很多国内的甲方都这样，不是那么注重技术积累，所以如果想继续提升的话，可能要考虑 IC 厂商或方案提供商等企业了）。</p>
+<p>报了一些在线的英语课程，坚持了大半年了，也不知道到底有多大提升，只是感觉比以前更敢说英语了，继续坚持吧，没有量变哪来质变呢。感谢互联网时代，现在有很多不错的英语学习平台，有兴趣了解的可以私信我，这里就不打广告了。</p>
+<p>另外也不定期学习一些网络课程，比如 CSDN、实验楼、极客学院等等，还有慕课网、中国大学慕课、网易云课堂等等，实在太多了，所以质量也参差不齐，想学习某些技术的小伙伴一定要仔细研究挑选才行，特别是对于收费较高的。</p>
+<p>此外，2017 年参加了两次软考，并且都顺利通过了，分别是 2017 上半年的【软件设计师】和 2017 下半年的【嵌入式系统设计师】。虽然分数不是很高，但毕竟也是妥妥地通过了，这对于半路出家并且第一次参加软考的程序员来说，还是蛮有鼓励的。</p>
+<img data-src="/images/journal/20180217211802537.jpeg" width="600">
+<p>那软考证书能干啥呢？听说对涨工资、办户口、考公务员都有用，而且现在有些证书类别是中日韩 + 印度相互认证的。而且备考的过程也是一次系统学习的过程，可以查漏补缺，可以学习一下项目管理方面的知识，反正能考就考了呗，说不定啥时候就能用上呢。</p>
+<p>还有就是，有事没事就参加各种线上线下的沙龙，比如 ST、融创芯城、AWS、Linuxer 等等组织的，向各位前辈和业界大牛学习，确实让人感受到行业的变化。</p>
+<p><img data-src="https://img-blog.csdnimg.cn/img_convert/2772fa3a37d48258204746d25f03caf9.png" alt="这里写图片描述"></p>
+<h2 id="生活"><a class="markdownIt-Anchor" href="#生活">#</a> 生活</h2>
+<p>2017 最大的变化就是 —— 留了长发，虽然每次回家都会被老妈吐槽，还被恐吓说等我睡着了就给我剪掉（我知道她不会这样做的）。但我还是义无反顾地留了长发，也不是为了什么，大概是厌倦了小平头摆了。</p>
+<p>九月份和女朋友去了一趟欧洲（荷兰 + 比利时 + 法国）自由行，这对于我们来说是一个不小的挑战，不仅要克服时差和饮食差异，还要从头到尾订机票酒店、办签证、做攻略、准备各种东西，哦！还有每天都担心不够用的英语…</p>
+<p>记忆犹新的是，为了省钱买了特价的中转机票 —— 需要在芬兰赫尔辛基转机，不幸的是，由于航班延误，行李被留在了赫尔辛基万塔机场，因此我们在阿姆斯特丹渡过了凄凉的一整天。</p>
+<p>这次旅游对我来说，感受最深的是西欧的历史文化冲击，对于理工科学生来说尤其如此。</p>
+<p>（此处省略 10000 字…）</p>
+<p><img data-src="https://img-blog.csdnimg.cn/img_convert/55e437bf81f5726c59fb3367f0354479.png" alt="这里写图片描述"></p>
+<p><img data-src="https://img-blog.csdnimg.cn/img_convert/d65bc94e7b8794edd9fa0118418ffb84.png" alt="这里写图片描述"></p>
+<p><img data-src="https://img-blog.csdnimg.cn/img_convert/a5b8b82ba348c620336ea11536ab8298.png" alt="这里写图片描述"></p>
+<p><img data-src="https://img-blog.csdnimg.cn/img_convert/9a24f30d469c775556d0ddc4fa8f4fe4.png" alt="这里写图片描述"></p>
+<p><img data-src="https://img-blog.csdnimg.cn/img_convert/0dcb7383242d5a8cc2f295f94cf1d588.png" alt="这里写图片描述"></p>
+<p><img data-src="https://img-blog.csdnimg.cn/img_convert/73e6acf87b3df68f51547dc0972a324a.png" alt="这里写图片描述"></p>
+<p><img data-src="https://img-blog.csdnimg.cn/img_convert/f4ec7a2afbab294b8ecebb401904c3f8.png" alt="这里写图片描述"></p>
+<h2 id="环保"><a class="markdownIt-Anchor" href="#环保">#</a> 环保</h2>
+<p>还记得这篇文章的小标题吗？—— 作为一名程序员，我重新思考了我生活的目标。</p>
+<p>（所以我特意留了些篇幅来阐述这个问题）</p>
+<p>那我原来的目标是什么？</p>
+<p>要知道，我出生在十八线乡镇，加上一些家庭原因，可以说一直以来都在贫困线上挣扎，难得通过读书考试完成了大学学业，在大城市有一份体面的工作，所以我原来的目标就是 —— 努力奋斗赚钱让自己和家人能够过上更好的生活。</p>
+<p>又为什么会重新思考呢？</p>
+<p>有时候我会问自己：“人为什么活着？人生的意义是什么？人终有一死，我该做点什么才对得起这唯一的一生，才算没有白活过？” 这些问题存在于我心中已久，也许是因为工作几年之后暂时摆脱了贫困，使得我又重新思考起这些问题来了。</p>
+<p>2017 年我参加了挺多线上线下的环保公益活动，也对针对一些环保问题进行过分析和研究，算得上是半个在一线摸爬滚打的环保工作者（志工）吧，所以经常遇到有人问我：“你做软件开发的，怎么对环保这么感兴趣？” 一开始我并没去想这个问题，不过问的人多了，也就开始思考起来了。</p>
+<p>大概从初中开始，自从我知道了如何用淀粉制作酒精，知道了塑料制品、化纤衣服是石油制成的，接受了 “垃圾是放错地方的资源” 这个观点之后，我就有了环保意识，开始关注 “资源、环境、人口” 等问题。而我也曾一度以为所有人都和我一样有环保意识，所以垃圾污染的问题应该不是太大的问题，后来当我亲身实践去做点事情的时候才发现，原来我错了 —— 现在我认为环保是一个教育和管理的问题。好，那所以如果一定要为我为什么做环保找一个原因的话，我想马斯洛需求理论就可以很好地回答这个问题了。</p>
+<img data-src="/images/journal/20180218025113431.jpeg" width="480">
+<p>我想起了 Richard Stallman 说的一句话 —— <strong>我可以找份工作赚钱，并沉浸在编码的快乐中，但在职业生涯结束后，回首目睹自己筑就的高墙将人与人分隔开，我会觉得我耗尽毕生精力只换来了一个更糟糕的世界。</strong></p>
+<p>在我看来，30 多年前的 “开源软件运动” 与我现在所参与的 “零废弃运动” 本质上是一样的，都是为了创建、维护一个更好的世界。</p>
+<p>假如构建幸福生活的基本要素都不复存在，没有了从前的蓝天和灿烂阳光，没有了清新的空气，没有了洁净的水源，没有了安全的食品。那何谈幸福生活？</p>
+<p>关于环保这个话题实在有太多东西要聊了，感兴趣的朋友欢迎关注我的个人公众号与我交流。<br>
+　　<br>
+<strong>欢迎关注我的个人微信公众号～（扫描二维码或搜索 &quot;ECO_Mr_R&quot;）</strong></p>
+<p><img data-src="/images/qrcode_8cm.jpg" alt=""></p>
+<h2 id="展望"><a class="markdownIt-Anchor" href="#展望">#</a> 展望</h2>
+<p>春节期间带来五宝回家，也带来一些关于环保的纪录片，抓住一切机会给大家做宣传，让我深刻地感受到这确实是一个教育和管理的问题，尤其对于十八线乡镇来说，面对垃圾问题很多人都是无知、无奈的。</p>
+<p>所以 2018 年我想继续为环保做点事情，同时发挥自己程序员的优势和目前拥有的资源，勇敢地去探索吧，创变者！</p>
+
+      <div class="tags">
+          <a href="/tags/%E5%B7%A5%E4%BD%9C/" rel="tag"><i class="ic i-tag"></i> 工作</a>
+          <a href="/tags/%E6%80%BB%E7%BB%93/" rel="tag"><i class="ic i-tag"></i> 总结</a>
+      </div>
+  </div>
+
+   <footer>
+
+    <div class="meta">
+  <span class="item">
+    <span class="icon">
+      <i class="ic i-calendar-check"></i>
+    </span>
+    <span class="text">更新于</span>
+    <time title="修改时间：2023-04-30 16:10:37" itemprop="dateModified" datetime="2023-04-30T16:10:37+08:00">2023-04-30</time>
+  </span>
+  <span id="journal/2017-year-end-summary.html" class="item leancloud_visitors" data-flag-title="我的2017——作为一名程序员，我重新思考了我生活的目标" title="阅读次数">
+      <span class="icon">
+        <i class="ic i-eye"></i>
+      </span>
+      <span class="text">阅读次数</span>
+      <span class="leancloud-visitors-count"></span>
+      <span class="text">次</span>
+  </span>
+</div>
+
+      
+<div class="reward">
+  <button><i class="ic i-heartbeat"></i> 赞赏</button>
+  <p>请我喝[茶]~(￣▽￣)~*</p>
+  <div id="qr">
+      
+      <div>
+        <img data-src="/images/wechatpay-small.jpeg" alt="Rudy Lo 微信支付">
+        <p>微信支付</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/alipay-small.jpeg" alt="Rudy Lo 支付宝">
+        <p>支付宝</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/avatar.png" alt="Rudy Lo 贝宝">
+        <p>贝宝</p>
+      </div>
+  </div>
+</div>
+
+      
+
+<div id="copyright">
+<ul>
+  <li class="author">
+    <strong>本文作者： </strong>Rudy Lo <i class="ic i-at"><em>@</em></i>成为自由人
+  </li>
+  <li class="link">
+    <strong>本文链接：</strong>
+    <a href="https://luhuadong.com/journal/2017-year-end-summary.html" title="我的2017——作为一名程序员，我重新思考了我生活的目标">https://luhuadong.com/journal/2017-year-end-summary.html</a>
+  </li>
+  <li class="license">
+    <strong>版权声明： </strong>本站所有文章除特别声明外，均采用 <span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzQuMC9kZWVkLnpo"><i class="ic i-creative-commons"><em>(CC)</em></i>BY-NC-SA</span> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+  </footer>
+
+</article>
+
+  </div>
+  
+
+<div class="post-nav">
+    <div class="item left">
+      
+
+  <a href="/zerowaste/travel-frog-eco-life.html" itemprop="url" rel="prev" data-background-image="http:&#x2F;&#x2F;static.luhuadong.com&#x2F;MPPUnesco.jpg" title="《旅行青蛙》其实在讲环保故事">
+  <span class="type">上一篇</span>
+  <span class="category"><i class="ic i-flag"></i> 一起零废弃</span>
+  <h3>《旅行青蛙》其实在讲环保故事</h3>
+  </a>
+
+    </div>
+    <div class="item right">
+      
+
+  <a href="/zerowaste/2018-czwa-guangzhou-training.html" itemprop="url" rel="next" data-background-image="http:&#x2F;&#x2F;static.luhuadong.com&#x2F;NIrelandGiants.jpg" title="2018 社区垃圾分类技能培训笔记（广州）">
+  <span class="type">下一篇</span>
+  <span class="category"><i class="ic i-flag"></i> 一起零废弃</span>
+  <h3>2018 社区垃圾分类技能培训笔记（广州）</h3>
+  </a>
+
+    </div>
+</div>
+
+  
+  <div class="wrap" id="comments"></div>
+
+
+        </div>
+        <div id="sidebar">
+          
+
+<div class="inner">
+
+  <div class="panels">
+    <div class="inner">
+      <div class="contents panel pjax" data-title="文章目录">
+          <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%B7%A5%E4%BD%9C"><span class="toc-number">1.</span> <span class="toc-text"> 工作</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%AD%A6%E4%B9%A0"><span class="toc-number">2.</span> <span class="toc-text"> 学习</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%94%9F%E6%B4%BB"><span class="toc-number">3.</span> <span class="toc-text"> 生活</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%8E%AF%E4%BF%9D"><span class="toc-number">4.</span> <span class="toc-text"> 环保</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%B1%95%E6%9C%9B"><span class="toc-number">5.</span> <span class="toc-text"> 展望</span></a></li></ol>
+      </div>
+      <div class="related panel pjax" data-title="系列文章">
+        <ul>
+          <li><a href="/journal/this-blog.html" rel="bookmark" title="这个部落格">这个部落格</a></li><li><a href="/journal/2016-year-end-summary.html" rel="bookmark" title="我的2016——我和嵌入式的那些事">我的2016——我和嵌入式的那些事</a></li><li><a href="/journal/how-do-i-become-a-programmer.html" rel="bookmark" title="从高考到程序员——我一直在寻找答案">从高考到程序员——我一直在寻找答案</a></li><li><a href="/journal/2017-tzuchi-qingyuan.html" rel="bookmark" title="2017清远冬令发放环保心得分享">2017清远冬令发放环保心得分享</a></li><li class="active"><a href="/journal/2017-year-end-summary.html" rel="bookmark" title="我的2017——作为一名程序员，我重新思考了我生活的目标">我的2017——作为一名程序员，我重新思考了我生活的目标</a></li><li><a href="/journal/2018-year-end-summary.html" rel="bookmark" title="我的2018——上懂机器学习，下懂微信建群">我的2018——上懂机器学习，下懂微信建群</a></li><li><a href="/journal/donate-hair-to-charity.html" rel="bookmark" title="留了三年长发，只为了让生命更美丽">留了三年长发，只为了让生命更美丽</a></li><li><a href="/journal/2019-year-end-summary.html" rel="bookmark" title="我的2019——努力成为我认为我可以成为的人">我的2019——努力成为我认为我可以成为的人</a></li><li><a href="/journal/%E8%BF%9C%E7%A6%BB%E9%82%A3%E4%BA%9B%E6%B6%88%E8%80%97%E4%BD%A0%E7%9A%84%E4%BA%BA%E5%92%8C%E4%BA%8B.html" rel="bookmark" title="远离那些消耗你的人和事">远离那些消耗你的人和事</a></li><li><a href="/journal/%E7%A7%AF%E7%B4%AF%E5%AE%9A%E5%BE%8B.html" rel="bookmark" title="积累定律：努力让自己值钱">积累定律：努力让自己值钱</a></li><li><a href="/journal/%E4%BB%BB%E4%BD%95%E4%B8%80%E6%9D%A1%E8%B7%AF%E9%83%BD%E6%98%AF%E4%BD%A0%E7%9A%84%E9%80%89%E6%8B%A9.html" rel="bookmark" title="如果你不知道去哪里，任何一条路都是你的选择">如果你不知道去哪里，任何一条路都是你的选择</a></li><li><a href="/journal/%E5%AD%A6%E4%BC%9A%E4%BB%8E%E5%88%AB%E4%BA%BA%E7%9A%84%E5%A4%B1%E8%B4%A5%E4%B8%AD%E5%90%B8%E5%8F%96%E6%95%99%E8%AE%AD.html" rel="bookmark" title="学会从别人的失败中吸取教训">学会从别人的失败中吸取教训</a></li><li><a href="/journal/two-decision-method-wcca-and-wadm.html" rel="bookmark" title="分享两个决策方法WCCA和WADM">分享两个决策方法WCCA和WADM</a></li><li><a href="/journal/%E4%BB%8E%E6%8B%BCT%E5%AD%97%E4%B8%AD%E9%87%8D%E6%96%B0%E7%90%86%E8%A7%A3%E5%9B%A2%E9%98%9F%E5%90%88%E4%BD%9C.html" rel="bookmark" title="从拼T字中重新理解团队合作">从拼T字中重新理解团队合作</a></li><li><a href="/journal/2020-rtt-community-contribution-award.html" rel="bookmark" title="我与 RT-Thread 社区一起成长的故事">我与 RT-Thread 社区一起成长的故事</a></li><li><a href="/journal/2020-year-end-summary.html" rel="bookmark" title="我的2020——一颗红心，两手准备">我的2020——一颗红心，两手准备</a></li><li><a href="/journal/opensource-guide.html" rel="bookmark" title="《开源指北》之我和开源的故事">《开源指北》之我和开源的故事</a></li><li><a href="/journal/how-are-you-today.html" rel="bookmark" title="「每日一问」你今天过得怎么样？">「每日一问」你今天过得怎么样？</a></li><li><a href="/journal/ugly-apple.html" rel="bookmark" title="丑苹果">丑苹果</a></li><li><a href="/journal/to-myself-in-five-years-written-on-the-29-birthday.html" rel="bookmark" title="给五年后的自己（写在29岁生日）">给五年后的自己（写在29岁生日）</a></li><li><a href="/journal/happiness-in-ordinary-life.html" rel="bookmark" title="平淡生活里的琐碎幸福">平淡生活里的琐碎幸福</a></li><li><a href="/journal/2021-resignation-summary-and-plan.html" rel="bookmark" title="2021离职总结与计划">2021离职总结与计划</a></li><li><a href="/journal/keeping-cats.html" rel="bookmark" title="养猫经历">养猫经历</a></li><li><a href="/journal/diary-20210925.html" rel="bookmark" title="一个平淡无奇的周末">一个平淡无奇的周末</a></li><li><a href="/journal/living-in-the-moment.html" rel="bookmark" title="一番番春秋冬夏，一场场酸甜苦辣">一番番春秋冬夏，一场场酸甜苦辣</a></li><li><a href="/journal/decorate-my-small-house.html" rel="bookmark" title="装了个修，居然还治好了选择困难症！">装了个修，居然还治好了选择困难症！</a></li><li><a href="/journal/diary-20211028.html" rel="bookmark" title="【总结】但行好事，莫问前程">【总结】但行好事，莫问前程</a></li><li><a href="/journal/dont-waste-your-full-potential.html" rel="bookmark" title="如果这十年，你没有浪费">如果这十年，你没有浪费</a></li><li><a href="/journal/2021-year-end-summary.html" rel="bookmark" title="我的2021——为自己的选择放手一搏">我的2021——为自己的选择放手一搏</a></li><li><a href="/journal/30-year-old-summary.html" rel="bookmark" title="一觉醒来，喜提我的30岁">一觉醒来，喜提我的30岁</a></li><li><a href="/journal/jiangmengnan.html" rel="bookmark" title="江梦南：世界以痛吻我，我却报之以歌">江梦南：世界以痛吻我，我却报之以歌</a></li><li><a href="/journal/20220608.html" rel="bookmark" title="我有点喜欢现在的工作了">我有点喜欢现在的工作了</a></li><li><a href="/journal/become-a-feminist.html" rel="bookmark" title="成为一名女权主义者">成为一名女权主义者</a></li><li><a href="/journal/20220611.html" rel="bookmark" title="唐山烧烤店打人事件太让人气愤了！">唐山烧烤店打人事件太让人气愤了！</a></li><li><a href="/journal/20220612.html" rel="bookmark" title="开始我的环保博主生涯">开始我的环保博主生涯</a></li><li><a href="/journal/20220702.html" rel="bookmark" title="我好像升职了，又好像没有">我好像升职了，又好像没有</a></li><li><a href="/journal/to-be-a-sailor-of-the-world.html" rel="bookmark" title="做一个世界的水手，奔赴所有的码头">做一个世界的水手，奔赴所有的码头</a></li><li><a href="/journal/20220712.html" rel="bookmark" title="成为 LVGL 贡献者了">成为 LVGL 贡献者了</a></li><li><a href="/journal/14-days-to-get-up-early.html" rel="bookmark" title="14天早起打卡！">14天早起打卡！</a></li><li><a href="/journal/BYD-Dolphin.html" rel="bookmark" title="比亚迪·海豚，我的移动城堡">比亚迪·海豚，我的移动城堡</a></li><li><a href="/journal/i-got-covid-19.html" rel="bookmark" title="放开疫情管控之后，我就阳了">放开疫情管控之后，我就阳了</a></li><li><a href="/journal/2022-year-end-summary.html" rel="bookmark" title="我的2022——三十不惑">我的2022——三十不惑</a></li><li><a href="/journal/20230201.html" rel="bookmark" title="打工的目的只有一个">打工的目的只有一个</a></li><li><a href="/journal/life-meaning.html" rel="bookmark" title="当我不再寻找人生的意义，生活才刚刚开始">当我不再寻找人生的意义，生活才刚刚开始</a></li>
+        </ul>
+      </div>
+      <div class="overview panel" data-title="站点概览">
+        <div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <img class="image" itemprop="image" alt="Rudy Lo"
+      data-src="/images/lu_20221221.jpg">
+  <p class="name" itemprop="name">Rudy Lo</p>
+  <div class="description" itemprop="description">阿基米东的网络日志</div>
+</div>
+
+<nav class="state">
+    <div class="item posts">
+      <a href="/archives/">
+        <span class="count">295</span>
+        <span class="name">文章</span>
+      </a>
+    </div>
+    <div class="item categories">
+      <a href="/categories/">
+        <span class="count">35</span>
+        <span class="name">分类</span>
+      </a>
+    </div>
+    <div class="item tags">
+      <a href="/tags/">
+        <span class="count">80</span>
+        <span class="name">标签</span>
+      </a>
+    </div>
+</nav>
+
+<div class="social">
+      <span class="exturl item github" data-url="aHR0cHM6Ly9naXRodWIuY29tL2x1aHVhZG9uZw==" title="https:&#x2F;&#x2F;github.com&#x2F;luhuadong"><i class="ic i-github"></i></span>
+      <span class="exturl item csdn" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x1X2VtYmVkZGVk" title="https:&#x2F;&#x2F;blog.csdn.net&#x2F;lu_embedded"><i class="ic i-address-card"></i></span>
+      <span class="exturl item zhihu" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9hcm1zdHJvbmcyMDE0" title="https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014"><i class="ic i-zhihu"></i></span>
+      <span class="exturl item douban" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC83MzAwNDcv" title="https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;"><i class="ic i-douban"></i></span>
+      <span class="exturl item weibo" data-url="aHR0cHM6Ly93ZWliby5jb20vdS8yMDAwMzkxOTUx" title="https:&#x2F;&#x2F;weibo.com&#x2F;u&#x2F;2000391951"><i class="ic i-weibo"></i></span>
+      <span class="exturl item email" data-url="bWFpbHRvOmx1aHVhZG9uZ0AxNjMuY29t" title="mailto:luhuadong@163.com"><i class="ic i-envelope"></i></span>
+</div>
+
+<ul class="menu">
+  
+    
+  <li class="item">
+    <a href="/" rel="section"><i class="ic i-home"></i>首页</a>
+  </li>
+
+    
+  <li class="item">
+    <a href="/about/" rel="section"><i class="ic i-user"></i>关于</a>
+  </li>
+
+        
+  <li class="item dropdown">
+      <a href="javascript:void(0);"><i class="ic i-feather"></i>文章</a>
+    <ul class="submenu">
+
+        
+  <li class="item">
+    <a href="/archives/" rel="section"><i class="ic i-list-alt"></i>归档</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/categories/" rel="section"><i class="ic i-th"></i>分类</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/tags/" rel="section"><i class="ic i-tags"></i>标签</a>
+  </li>
+
+  </ul>
+
+</ul>
+
+      </div>
+    </div>
+  </div>
+
+  <ul id="quick">
+    <li class="prev pjax">
+        <a href="/zerowaste/travel-frog-eco-life.html" rel="prev" title="上一篇"><i class="ic i-chevron-left"></i></a>
+    </li>
+    <li class="up"><i class="ic i-arrow-up"></i></li>
+    <li class="down"><i class="ic i-arrow-down"></i></li>
+    <li class="next pjax">
+        <a href="/zerowaste/2018-czwa-guangzhou-training.html" rel="next" title="下一篇"><i class="ic i-chevron-right"></i></a>
+    </li>
+    <li class="percent"></li>
+  </ul>
+</div>
+
+
+        </div>
+        <div class="dimmer"></div>
+      </div>
+    </main>
+    <footer id="footer">
+      <div class="inner">
+        <div class="widgets">
+          
+
+        </div>
+        <div class="status">
+  <div class="copyright">
+    
+    &copy; 2014 – 
+    <span itemprop="copyrightYear">2023</span>
+    <span class="with-love">
+      <i class="ic i-sakura rotate"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">Rudy Lo @ Freedom Blog</span>
+  </div>
+  <div class="count">
+    <span class="post-meta-item-icon">
+      <i class="ic i-chart-area"></i>
+    </span>
+    <span title="站点总字数">591k 字</span>
+
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="ic i-coffee"></i>
+    </span>
+    <span title="站点阅读时长">8:57</span>
+  </div>
+  <div class="powered-by">
+    基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
+  </div>
+</div>
+
+      </div>
+    </footer>
+  </div>
+<script data-config type="text/javascript">
+  var LOCAL = {
+    path: 'journal/2017-year-end-summary.html',
+    favicon: {
+      show: "（●´3｀●）やれやれだぜ",
+      hide: "(´Д｀)大変だ！"
+    },
+    search : {
+      placeholder: "文章搜索",
+      empty: "关于 「 ${query} 」，什么也没搜到",
+      stats: "${time} ms 内找到 ${hits} 条结果"
+    },
+    valine: true,fancybox: true,
+    copyright: '复制成功，转载请遵守 <i class="ic i-creative-commons"></i>BY-NC-SA 协议。',
+    ignores : [
+      function(uri) {
+        return uri.includes('#');
+      },
+      function(uri) {
+        return new RegExp(LOCAL.path+"$").test(uri);
+      }
+    ]
   };
 </script>
-<title>我的2017——作为一名程序员，我重新思考了我生活的目标 | 成为自由人</title>
-  
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
-    <script>
-      if (CONFIG.hostname === location.hostname) {
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-190737867-1');
-      }
-    </script>
 
-  <script>
+<script src="https://cdn.polyfill.io/v2/polyfill.js"></script>
+
+<script src="//cdn.jsdelivr.net/combine/npm/pace-js@1.0.2/pace.min.js,npm/pjax@0.2.8/pjax.min.js,npm/whatwg-fetch@3.4.0/dist/fetch.umd.min.js,npm/animejs@3.2.0/lib/anime.min.js,npm/algoliasearch@4/dist/algoliasearch-lite.umd.js,npm/instantsearch.js@4/dist/instantsearch.production.min.js,npm/lozad@1/dist/lozad.min.js,npm/quicklink@2/dist/quicklink.umd.js"></script>
+
+<script src="/js/app.js?v=0.2.5"></script>
+
+
+  <script data-pjax>
     var _hmt = _hmt || [];
     (function() {
       var hm = document.createElement("script");
@@ -88,536 +508,6 @@
       s.parentNode.insertBefore(hm, s);
     })();
   </script>
-
-
-
-  <noscript>
-  <style>
-  body { margin-top: 2rem; }
-
-  .use-motion .menu-item,
-  .use-motion .sidebar,
-  .use-motion .post-block,
-  .use-motion .pagination,
-  .use-motion .comments,
-  .use-motion .post-header,
-  .use-motion .post-body,
-  .use-motion .collection-header {
-    visibility: visible;
-  }
-
-  .use-motion .header,
-  .use-motion .site-brand-container .toggle,
-  .use-motion .footer { opacity: initial; }
-
-  .use-motion .site-title,
-  .use-motion .site-subtitle,
-  .use-motion .custom-logo-image {
-    opacity: initial;
-    top: initial;
-  }
-
-  .use-motion .logo-line {
-    transform: scaleX(1);
-  }
-
-  .search-pop-overlay, .sidebar-nav { display: none; }
-  .sidebar-panel { display: block; }
-  </style>
-</noscript>
-
-</head>
-
-<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
-  <div class="headband"></div>
-
-  <!-- 加入APlayer音乐播放器 -->
-  <link rel="stylesheet" href="/dist/APlayer.min.css">
-  <div id="aplayer"></div>
-  <script type="text/javascript" src="/dist/APlayer.min.js"></script>
-  <script type="text/javascript" src="/dist/music.js"></script>
-
-  <main class="main">
-    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header-inner"><div class="site-brand-container">
-  <div class="site-nav-toggle">
-    <div class="toggle" aria-label="切换导航栏" role="button">
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-    </div>
-  </div>
-
-  <div class="site-meta">
-
-    <a href="/" class="brand" rel="start">
-      <i class="logo-line"></i>
-      <h1 class="site-title">成为自由人</h1>
-      <i class="logo-line"></i>
-    </a>
-      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
-      <img class="custom-logo-image" src="/images/banner_1.gif" alt="成为自由人">
-  </div>
-
-  <div class="site-nav-right">
-    <div class="toggle popup-trigger">
-        <i class="fa fa-search fa-fw fa-lg"></i>
-    </div>
-  </div>
-</div>
-
-
-
-<nav class="site-nav">
-  <ul class="main-menu menu">
-        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
-        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
-        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
-        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
-        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
-        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
-        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
-        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
-      <li class="menu-item menu-item-search">
-        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
-        </a>
-      </li>
-  </ul>
-</nav>
-
-
-
-  <div class="search-pop-overlay">
-    <div class="popup search-popup"><div class="search-header">
-  <span class="search-icon">
-    <i class="fa fa-search"></i>
-  </span>
-  <div class="search-input-container">
-    <input autocomplete="off" autocapitalize="off" maxlength="80"
-           placeholder="搜索..." spellcheck="false"
-           type="search" class="search-input">
-  </div>
-  <span class="popup-btn-close" role="button">
-    <i class="fa fa-times-circle"></i>
-  </span>
-</div>
-<div class="search-result-container no-result">
-  <div class="search-result-icon">
-    <i class="fa fa-spinner fa-pulse fa-5x"></i>
-  </div>
-</div>
-
-    </div>
-  </div>
-
-</div>
-        
-  
-  <div class="toggle sidebar-toggle" role="button">
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-  </div>
-
-  <aside class="sidebar">
-
-    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
-      <ul class="sidebar-nav">
-        <li class="sidebar-nav-toc">
-          文章目录
-        </li>
-        <li class="sidebar-nav-overview">
-          站点概览
-        </li>
-      </ul>
-
-      <div class="sidebar-panel-container">
-        <!--noindex-->
-        <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%B7%A5%E4%BD%9C"><span class="nav-number">1.</span> <span class="nav-text">工作</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%AD%A6%E4%B9%A0"><span class="nav-number">2.</span> <span class="nav-text">学习</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%94%9F%E6%B4%BB"><span class="nav-number">3.</span> <span class="nav-text">生活</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%8E%AF%E4%BF%9D"><span class="nav-number">4.</span> <span class="nav-text">环保</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%B1%95%E6%9C%9B"><span class="nav-number">5.</span> <span class="nav-text">展望</span></a></li></ol></div>
-        </div>
-        <!--/noindex-->
-
-        <div class="site-overview-wrap sidebar-panel">
-          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
-      src="/images/lu_avatar_04.jpeg">
-  <p class="site-author-name" itemprop="name">Rudy Lo</p>
-  <div class="site-description" itemprop="description">阿基米东的网络日志</div>
-</div>
-<div class="site-state-wrap site-overview-item animated">
-  <nav class="site-state">
-      <div class="site-state-item site-state-posts">
-          <a href="/archives/">
-        
-          <span class="site-state-item-count">295</span>
-          <span class="site-state-item-name">日志</span>
-        </a>
-      </div>
-      <div class="site-state-item site-state-categories">
-            <a href="/categories/">
-          
-        <span class="site-state-item-count">35</span>
-        <span class="site-state-item-name">分类</span></a>
-      </div>
-      <div class="site-state-item site-state-tags">
-            <a href="/tags/">
-          
-        <span class="site-state-item-count">80</span>
-        <span class="site-state-item-name">标签</span></a>
-      </div>
-  </nav>
-</div>
-  <div class="links-of-author site-overview-item animated">
-      <span class="links-of-author-item">
-        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://gitee.com/luhuadong" title="Gitee → https:&#x2F;&#x2F;gitee.com&#x2F;luhuadong" rel="noopener" target="_blank">Gitee</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.douban.com/group/730047/" title="豆瓣 → https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;" rel="noopener" target="_blank">豆瓣</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://zerotogether.net/" title="零废弃部落 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零废弃部落</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
-      </span>
-  </div>
-  <div class="cc-license site-overview-item animated" itemprop="license">
-    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
-  </div>
-
-
-
-        </div>
-      </div>
-    </div>
-  </aside>
-  <div class="sidebar-dimmer"></div>
-
-
-    </header>
-
-    
-  <div class="back-to-top" role="button">
-    <i class="fa fa-arrow-up"></i>
-    <span>0%</span>
-  </div>
-
-<noscript>
-  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
-</noscript>
-
-
-    <div class="main-inner post posts-expand">
-
-
-  
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/journal/2017-year-end-summary.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
-          我的2017——作为一名程序员，我重新思考了我生活的目标
-        </h1>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2018-02-17 22:02:12" itemprop="dateCreated datePublished" datetime="2018-02-17T22:02:12+08:00">2018-02-17</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%8D%E5%AE%9A%E6%97%B6%E6%97%A5%E8%AE%B0/" itemprop="url" rel="index"><span itemprop="name">不定时日记</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-        <p>今年 CSDN 没有组织程序员年终总结征文活动，于是我这篇文章在云笔记中躺了好几个星期，今天（大年初二）——终于有点时间和心情把它写完，回想过去一年里所发生的事，嘿，时间过得真快。</p>
-<p><img src="https://img-blog.csdnimg.cn/img_convert/560b9da1bb80c3fc34defba85e610946.gif" alt="这里写图片描述"></p>
-<hr>
-<h2 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h2><p>首先，工作上不紧不慢、按部就班，还是以嵌入式软件工程师的身份走完了整个2017，完成了公司计划内的两个项目。工作内容还是传统通信行业的一些嵌入式和应用层的软件开发，涉及 ARM、Linux、FreeRTOS、音视频，以及一些通信协议和特定应用场合的业务逻辑等内容。</p>
-<p>但是总体来说，工作上并没有太多亮点（或者说给我带来太大的自豪感和满足感），在国企做研发，给我的感觉就是——没有研只有发。不停地开发，却很少停下来专研某项技术，很多时候给我的感觉就是对技术没有太多的追求，能实现应用需求，能盈利就好。这一点在很多层面上都有所体现，显然是有历史原因的，也不是我一个小小程序员能撼动的了。</p>
-<p>公司在创业板成功上市，实现了王老板的小目标，所以我们老板也慷慨地给我们发了一点点奖金。同时我自己充分发挥中华民族勤俭节约的优良传统，也差不多实现了自己的2017理财小目标，虽然相比于王老板的小目标不值一提，但毕竟在理财的路上踏出了一步，理财就是理生活，所以还是值得肯定的。</p>
-<p><img src="https://img-blog.csdnimg.cn/img_convert/0f5a8d08f362322710214f930f372222.png" alt="这里写图片描述"></p>
-<h2 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h2><p>由于工作上的一些限制，ARM+Linux 相关技能并没有得到太多提升（也许是我想多了，又或许是很多国内的甲方都这样，不是那么注重技术积累，所以如果想继续提升的话，可能要考虑 IC 厂商或方案提供商等企业了）。</p>
-<p>报了一些在线的英语课程，坚持了大半年了，也不知道到底有多大提升，只是感觉比以前更敢说英语了，继续坚持吧，没有量变哪来质变呢。感谢互联网时代，现在有很多不错的英语学习平台，有兴趣了解的可以私信我，这里就不打广告了。</p>
-<p>另外也不定期学习一些网络课程，比如 CSDN、实验楼、极客学院等等，还有慕课网、中国大学慕课、网易云课堂等等，实在太多了，所以质量也参差不齐，想学习某些技术的小伙伴一定要仔细研究挑选才行，特别是对于收费较高的。</p>
-<p>此外，2017年参加了两次软考，并且都顺利通过了，分别是2017上半年的【软件设计师】和2017下半年的【嵌入式系统设计师】。虽然分数不是很高，但毕竟也是妥妥地通过了，这对于半路出家并且第一次参加软考的程序员来说，还是蛮有鼓励的。</p>
-<img src="/images/journal/20180217211802537.jpeg" width="600">
-
-<p>那软考证书能干啥呢？听说对涨工资、办户口、考公务员都有用，而且现在有些证书类别是中日韩+印度相互认证的。而且备考的过程也是一次系统学习的过程，可以查漏补缺，可以学习一下项目管理方面的知识，反正能考就考了呗，说不定啥时候就能用上呢。</p>
-<p>还有就是，有事没事就参加各种线上线下的沙龙，比如 ST、融创芯城、AWS、Linuxer 等等组织的，向各位前辈和业界大牛学习，确实让人感受到行业的变化。</p>
-<p><img src="https://img-blog.csdnimg.cn/img_convert/2772fa3a37d48258204746d25f03caf9.png" alt="这里写图片描述"></p>
-<h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><p>2017最大的变化就是——留了长发，虽然每次回家都会被老妈吐槽，还被恐吓说等我睡着了就给我剪掉（我知道她不会这样做的）。但我还是义无反顾地留了长发，也不是为了什么，大概是厌倦了小平头摆了。</p>
-<p>九月份和女朋友去了一趟欧洲（荷兰+比利时+法国）自由行，这对于我们来说是一个不小的挑战，不仅要克服时差和饮食差异，还要从头到尾订机票酒店、办签证、做攻略、准备各种东西，哦！还有每天都担心不够用的英语……</p>
-<p>记忆犹新的是，为了省钱买了特价的中转机票——需要在芬兰赫尔辛基转机，不幸的是，由于航班延误，行李被留在了赫尔辛基万塔机场，因此我们在阿姆斯特丹渡过了凄凉的一整天。</p>
-<p>这次旅游对我来说，感受最深的是西欧的历史文化冲击，对于理工科学生来说尤其如此。</p>
-<p>（此处省略10000字……）</p>
-<p><img src="https://img-blog.csdnimg.cn/img_convert/55e437bf81f5726c59fb3367f0354479.png" alt="这里写图片描述"></p>
-<p><img src="https://img-blog.csdnimg.cn/img_convert/d65bc94e7b8794edd9fa0118418ffb84.png" alt="这里写图片描述"></p>
-<p><img src="https://img-blog.csdnimg.cn/img_convert/a5b8b82ba348c620336ea11536ab8298.png" alt="这里写图片描述"></p>
-<p><img src="https://img-blog.csdnimg.cn/img_convert/9a24f30d469c775556d0ddc4fa8f4fe4.png" alt="这里写图片描述"></p>
-<p><img src="https://img-blog.csdnimg.cn/img_convert/0dcb7383242d5a8cc2f295f94cf1d588.png" alt="这里写图片描述"></p>
-<p><img src="https://img-blog.csdnimg.cn/img_convert/73e6acf87b3df68f51547dc0972a324a.png" alt="这里写图片描述"></p>
-<p><img src="https://img-blog.csdnimg.cn/img_convert/f4ec7a2afbab294b8ecebb401904c3f8.png" alt="这里写图片描述"></p>
-<h2 id="环保"><a href="#环保" class="headerlink" title="环保"></a>环保</h2><p>还记得这篇文章的小标题吗？——作为一名程序员，我重新思考了我生活的目标。</p>
-<p>（所以我特意留了些篇幅来阐述这个问题）</p>
-<p>那我原来的目标是什么？</p>
-<p>要知道，我出生在十八线乡镇，加上一些家庭原因，可以说一直以来都在贫困线上挣扎，难得通过读书考试完成了大学学业，在大城市有一份体面的工作，所以我原来的目标就是——努力奋斗赚钱让自己和家人能够过上更好的生活。</p>
-<p>又为什么会重新思考呢？</p>
-<p>有时候我会问自己：“人为什么活着？人生的意义是什么？人终有一死，我该做点什么才对得起这唯一的一生，才算没有白活过？”这些问题存在于我心中已久，也许是因为工作几年之后暂时摆脱了贫困，使得我又重新思考起这些问题来了。</p>
-<p>2017年我参加了挺多线上线下的环保公益活动，也对针对一些环保问题进行过分析和研究，算得上是半个在一线摸爬滚打的环保工作者（志工）吧，所以经常遇到有人问我：“你做软件开发的，怎么对环保这么感兴趣？”一开始我并没去想这个问题，不过问的人多了，也就开始思考起来了。</p>
-<p>大概从初中开始，自从我知道了如何用淀粉制作酒精，知道了塑料制品、化纤衣服是石油制成的，接受了“垃圾是放错地方的资源”这个观点之后，我就有了环保意识，开始关注“资源、环境、人口”等问题。而我也曾一度以为所有人都和我一样有环保意识，所以垃圾污染的问题应该不是太大的问题，后来当我亲身实践去做点事情的时候才发现，原来我错了——现在我认为环保是一个教育和管理的问题。好，那所以如果一定要为我为什么做环保找一个原因的话，我想马斯洛需求理论就可以很好地回答这个问题了。</p>
-<img src="/images/journal/20180218025113431.jpeg" width="480">
-
-<p>我想起了 Richard Stallman 说的一句话 —— <strong>我可以找份工作赚钱，并沉浸在编码的快乐中，但在职业生涯结束后，回首目睹自己筑就的高墙将人与人分隔开，我会觉得我耗尽毕生精力只换来了一个更糟糕的世界。</strong></p>
-<p>在我看来，30多年前的“开源软件运动”与我现在所参与的“零废弃运动”本质上是一样的，都是为了创建、维护一个更好的世界。</p>
-<p>假如构建幸福生活的基本要素都不复存在，没有了从前的蓝天和灿烂阳光，没有了清新的空气，没有了洁净的水源，没有了安全的食品。那何谈幸福生活？</p>
-<p>关于环保这个话题实在有太多东西要聊了，感兴趣的朋友欢迎关注我的个人公众号与我交流。<br>　　<br><strong>欢迎关注我的个人微信公众号~（扫描二维码或搜索”ECO_Mr_R”）</strong></p>
-<p><img src="/images/qrcode_8cm.jpg"></p>
-<h2 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h2><p>春节期间带来五宝回家，也带来一些关于环保的纪录片，抓住一切机会给大家做宣传，让我深刻地感受到这确实是一个教育和管理的问题，尤其对于十八线乡镇来说，面对垃圾问题很多人都是无知、无奈的。</p>
-<p>所以2018年我想继续为环保做点事情，同时发挥自己程序员的优势和目前拥有的资源，勇敢地去探索吧，创变者！</p>
-
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-          <div class="reward-container">
-  <div>您的鼓励是我最大的动力！</div>
-  <button onclick="document.querySelector('.post-reward').classList.toggle('active');">
-    赞赏
-  </button>
-  <div class="post-reward">
-      <div>
-        <img src="/images/wechatpay.jpeg" alt="Rudy Lo 微信">
-        <span>微信</span>
-      </div>
-      <div>
-        <img src="/images/alipay.jpeg" alt="Rudy Lo 支付宝">
-        <span>支付宝</span>
-      </div>
-
-  </div>
-</div>
-
-          
-
-<div class="post-copyright">
-<ul>
-  <li class="post-copyright-author">
-      <strong>本文作者： </strong>Rudy Lo
-  </li>
-  <li class="post-copyright-link">
-      <strong>本文链接：</strong>
-      <a href="https://luhuadong.com/journal/2017-year-end-summary.html" title="我的2017——作为一名程序员，我重新思考了我生活的目标">https://luhuadong.com/journal/2017-year-end-summary.html</a>
-  </li>
-  <li class="post-copyright-license">
-    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
-  </li>
-</ul>
-</div>
-
-          <div class="post-tags">
-              <a href="/tags/%E5%B7%A5%E4%BD%9C/" rel="tag"># 工作</a>
-              <a href="/tags/%E6%80%BB%E7%BB%93/" rel="tag"># 总结</a>
-          </div>
-
-        
-
-          <div class="post-nav">
-            <div class="post-nav-item">
-                <a href="/zerowaste/travel-frog-eco-life.html" rel="prev" title="《旅行青蛙》其实在讲环保故事">
-                  <i class="fa fa-chevron-left"></i> 《旅行青蛙》其实在讲环保故事
-                </a>
-            </div>
-            <div class="post-nav-item">
-                <a href="/zerowaste/2018-czwa-guangzhou-training.html" rel="next" title="2018 社区垃圾分类技能培训笔记（广州）">
-                  2018 社区垃圾分类技能培训笔记（广州） <i class="fa fa-chevron-right"></i>
-                </a>
-            </div>
-          </div>
-    </footer>
-  </article>
-</div>
-
-
-
-
-
-
-    
-  
-  <div class="comments">
-    <script src="https://giscus.app/client.js"
-        data-repo="luhuadong/blog" 
-        data-repo-id="MDEwOlJlcG9zaXRvcnkzNDEzOTU5NzQ=" 
-        data-category="General"
-        data-category-id="DIC_kwDOFFlKBs4CSTqq"
-        data-mapping="pathname" 
-        data-reactions-enabled="1" 
-        data-emit-metadata="1" 
-        data-theme="light"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        data-input-position="bottom"
-        data-loading="lazy"
-        async>
-    </script>
-  </div>
-  
-  
-
-<script>
-  window.addEventListener('tabs:register', () => {
-    let { activeClass } = CONFIG.comments;
-    if (CONFIG.comments.storage) {
-      activeClass = localStorage.getItem('comments_active') || activeClass;
-    }
-    if (activeClass) {
-      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
-      if (activeTab) {
-        activeTab.click();
-      }
-    }
-  });
-  if (CONFIG.comments.storage) {
-    window.addEventListener('tabs:click', event => {
-      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
-      const commentClass = event.target.classList[1];
-      localStorage.setItem('comments_active', commentClass);
-    });
-  }
-</script>
-</div>
-  </main>
-
-  <footer class="footer">
-    <div class="footer-inner">
-
-
-<div class="copyright">
-  &copy; 
-  <span itemprop="copyrightYear">2023</span>
-  <span class="with-love">
-    <i class="fa fa-heart"></i>
-  </span>
-  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
-</div>
-  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
-  </div>
-
-    </div>
-  </footer>
-
-  
-  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
-
-  
-<script src="/js/local-search.js"></script>
-
-
-
-
-
-
-  
-
-
-
-
-  <script>
-  if (typeof MathJax === 'undefined') {
-    window.MathJax = {
-      tex: {
-        inlineMath: {'[+]': [['$', '$']]},
-        tags: 'none'
-      },
-      options: {
-        renderActions: {
-          insertedScript: [200, () => {
-            document.querySelectorAll('mjx-container').forEach(node => {
-              const target = node.parentNode;
-              if (target.nodeName.toLowerCase() === 'li') {
-                target.parentNode.classList.add('has-jax');
-              }
-            });
-          }, '', false]
-        }
-      }
-    };
-    const script = document.createElement('script');
-    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
-    script.defer = true;
-    document.head.appendChild(script);
-  } else {
-    MathJax.startup.document.state(0);
-    MathJax.typesetClear();
-    MathJax.texReset();
-    MathJax.typeset();
-  }
-</script>
-
 
 
 </body>

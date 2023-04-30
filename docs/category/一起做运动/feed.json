@@ -1,0 +1,48 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "成为自由人 • All posts by \"一起做运动\" category",
+    "description": "阿基米东的网络日志",
+    "home_page_url": "https://luhuadong.com",
+    "items": [
+        {
+            "id": "https://luhuadong.com/sports/swimming-technique-backstroke.html",
+            "url": "https://luhuadong.com/sports/swimming-technique-backstroke.html",
+            "title": "【游泳】仰泳教学与技巧",
+            "date_published": "2019-08-03T12:16:40.000Z",
+            "content_html": "<p><img data-src=\"/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E4%BB%B0%E6%B3%B3%E5%8A%A8%E7%94%BB.webp\" alt=\"\"></p>\n<p><img data-src=\"/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E4%BB%B0%E6%B3%B3%E8%82%8C%E8%82%89%E5%8F%91%E5%8A%9B.webp\" alt=\"\"></p>\n",
+            "tags": [
+                "游泳"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/sports/swimming-technique-butterfly-stroke.html",
+            "url": "https://luhuadong.com/sports/swimming-technique-butterfly-stroke.html",
+            "title": "【游泳】蝶泳教学与技巧",
+            "date_published": "2019-08-03T12:16:20.000Z",
+            "content_html": "<p><img data-src=\"/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E8%9D%B6%E6%B3%B3%E5%8A%A8%E7%94%BB.gif\" alt=\"\"></p>\n<p><img data-src=\"/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E8%9D%B6%E6%B3%B3%E8%82%8C%E8%82%89%E5%8F%91%E5%8A%9B.webp\" alt=\"\"></p>\n",
+            "tags": [
+                "游泳"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/sports/swimming-technique-freestyle.html",
+            "url": "https://luhuadong.com/sports/swimming-technique-freestyle.html",
+            "title": "【游泳】自由泳教学与技巧",
+            "date_published": "2019-08-03T12:15:38.000Z",
+            "content_html": "<p><img data-src=\"/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E8%87%AA%E7%94%B1%E6%B3%B3%E5%8A%A8%E7%94%BB.gif\" alt=\"\"></p>\n<p><img data-src=\"/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E8%87%AA%E7%94%B1%E6%B3%B3%E8%82%8C%E8%82%89%E5%8F%91%E5%8A%9B.webp\" alt=\"\"></p>\n<h2 id=\"技术要点\"><a class=\"markdownIt-Anchor\" href=\"#技术要点\">#</a> 技术要点</h2>\n<h3 id=\"下肢练习\"><a class=\"markdownIt-Anchor\" href=\"#下肢练习\">#</a> 下肢练习</h3>\n<ul>\n<li>岸上打腿练习</li>\n<li>水中打腿练习（借助浮板，不练呼吸）</li>\n</ul>\n<p>要点：</p>\n<ul>\n<li>双腿伸直（膝盖不能弯曲）</li>\n<li>踝关节绷直</li>\n<li>双脚内扣</li>\n</ul>\n<h3 id=\"上肢练习\"><a class=\"markdownIt-Anchor\" href=\"#上肢练习\">#</a> 上肢练习</h3>\n<p>自由泳上肢动作五大要领：</p>\n<ul>\n<li><strong>抱水</strong>。手臂划水，肘部要比手高，向下划水，划到一定程度，大臂和手臂呈弯曲状抱水</li>\n<li><strong>推水</strong>。抱到胸前后快速推水，推到打腿边后</li>\n<li><strong>提肘</strong>。肘部先出水，再提手，平移到前侧入水</li>\n<li><strong>移臂</strong>。</li>\n<li><strong>入水</strong>。</li>\n</ul>\n<h3 id=\"呼吸练习\"><a class=\"markdownIt-Anchor\" href=\"#呼吸练习\">#</a> 呼吸练习</h3>\n<ul>\n<li>建议三次划臂一呼吸，可同时练习左侧和右侧的呼吸动作</li>\n<li>自由泳的标准配合动作为两次划臂六次打腿</li>\n</ul>\n<h2 id=\"转身\"><a class=\"markdownIt-Anchor\" href=\"#转身\">#</a> 转身</h2>\n<p><img data-src=\"/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E8%87%AA%E7%94%B1%E6%B3%B3%E8%BD%AC%E8%BA%AB.gif\" alt=\"\"></p>\n<h2 id=\"出发\"><a class=\"markdownIt-Anchor\" href=\"#出发\">#</a> 出发</h2>\n<p><img data-src=\"/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E5%87%BA%E5%8F%91.gif\" alt=\"\"></p>\n",
+            "tags": [
+                "游泳"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/sports/swimming-technique-breaststroke.html",
+            "url": "https://luhuadong.com/sports/swimming-technique-breaststroke.html",
+            "title": "【游泳】蛙泳教学与技巧",
+            "date_published": "2019-08-03T12:15:12.000Z",
+            "content_html": "<p>蛙泳是最常见的一种泳姿，非常实用也比较容易掌握，因此很多初学者都是从蛙泳开始学习游泳的。</p>\n<p><img data-src=\"/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E8%9B%99%E6%B3%B3%E5%8A%A8%E7%94%BB.gif\" alt=\"\"></p>\n<p><img data-src=\"/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E8%9B%99%E6%B3%B3%E8%82%8C%E8%82%89%E5%8F%91%E5%8A%9B.webp\" alt=\"\"></p>\n<h2 id=\"技术要点\"><a class=\"markdownIt-Anchor\" href=\"#技术要点\">#</a> 技术要点</h2>\n<h3 id=\"学习蛙泳-5-步骤\"><a class=\"markdownIt-Anchor\" href=\"#学习蛙泳-5-步骤\">#</a> 学习蛙泳 5 步骤</h3>\n<ol>\n<li>换气</li>\n<li>蹬腿</li>\n<li>换气 + 蹬腿</li>\n<li>划手</li>\n<li>划手 + 蹬腿 + 憋气</li>\n</ol>\n<h3 id=\"动作拆解\"><a class=\"markdownIt-Anchor\" href=\"#动作拆解\">#</a> 动作拆解</h3>\n<p><span class=\"github-emoji\" alias=\"one\" style=\"\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/0031-20e3.png?v8\">1️⃣</span> <strong>划水与蹬腿的配合</strong></p>\n<ul>\n<li>先开始屈腕抓水、划水</li>\n<li>当收手时开始收腿</li>\n<li>手臂前伸时蹬腿</li>\n</ul>\n<p><span class=\"github-emoji\" alias=\"two\" style=\"\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/0032-20e3.png?v8\">2️⃣</span> <strong>手腿与呼吸的配合</strong></p>\n<ul>\n<li>当划手结束时，开始吸气</li>\n<li>手臂前伸时呼气</li>\n</ul>\n<h3 id=\"训练方法\"><a class=\"markdownIt-Anchor\" href=\"#训练方法\">#</a> 训练方法</h3>\n<ul>\n<li>水中小划臂与腿部配合练习（不加呼吸）</li>\n<li>小划臂蹬腿与呼吸配合练习</li>\n<li>正常划臂与腿部配合练习</li>\n</ul>\n<h3 id=\"口诀蛙泳赋span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span\"><a class=\"markdownIt-Anchor\" href=\"#口诀蛙泳赋span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span\">#</a> 口诀（蛙泳赋）<span class=\"github-emoji\" alias=\"star\" style=\"\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8\">⭐</span></h3>\n<ul>\n<li>抬头划手腿不动</li>\n<li>伸手低头再蹬腿</li>\n<li>手腿伸直飘一会</li>\n</ul>\n<h2 id=\"示范动作\"><a class=\"markdownIt-Anchor\" href=\"#示范动作\">#</a> 示范动作</h2>\n<p><img data-src=\"/images/sports/%E8%9B%99%E6%B3%B3_%E5%A5%B3%E7%94%9F%E7%A4%BA%E8%8C%831.gif\" alt=\"\"></p>\n<p><img data-src=\"/images/sports/%E8%9B%99%E6%B3%B3_%E5%A5%B3%E7%94%9F%E7%A4%BA%E8%8C%832.gif\" alt=\"\"></p>\n<h2 id=\"常见问题\"><a class=\"markdownIt-Anchor\" href=\"#常见问题\">#</a> 常见问题</h2>\n<h3 id=\"蛙泳换气之后腿部下沉怎么办\"><a class=\"markdownIt-Anchor\" href=\"#蛙泳换气之后腿部下沉怎么办\">#</a> 蛙泳换气之后，腿部下沉怎么办？</h3>\n<p>主要原因是腰、腿没有保持滑行姿态，腿沉底了。</p>\n<p>仔细分析的话，通常有如下几种原因：</p>\n<ul>\n<li>身体紧张</li>\n<li>不熟悉漂浮才是游泳的核心（只有先飘起来，才能靠手脚的推动力前进）</li>\n<li>换气时过于挺胸和仰头</li>\n<li>换气太慢，肺部不能及时充气托起身体</li>\n</ul>\n<p>解决办法：</p>\n<ul>\n<li>先练习面部朝下的漂浮（背漂），保持身体刚直，腿长时间漂浮在水面上为合格。至于仰漂，一般人做不到，需要肺活量很大、水感很好才行。</li>\n<li>消除对水的恐惧感，实际上，游泳没那么难，只要消除了对水的恐惧感，后面的事情就不会那么难了。可以先从背漂开始，潜入水中双手把膝盖抱在胸中，体会自然漂浮的水母姿态，试着让自己沉下去，你就会发现根本做不到。</li>\n<li>换气之后，蹬腿的同时两臂前插，同时头部向前潜入水中，这时要保持刚体 3 秒，然后再换气。</li>\n<li>此外，最好适应腹式呼吸，吸气入小腹，然后提胸继续把肺部扩张，这样你胸腔里充满足够的气体之后，便于初期适应漂浮。</li>\n</ul>\n<blockquote>\n<p><strong>什么是刚体？</strong></p>\n<p>背靠墙，两臂向头顶伸直，全身绷直成一条直线，两个大臂要在耳后，头顶要向上用力顶，把颈部和背部拉直。想要游泳速度快，刚体是重要的一环基本功。想要漂浮，也要身体姿态能够绷直。大家有空的时候，可以找一面墙，试试看这样的动作，不仅能够对游泳有帮助，对身体姿态的矫正也是很有帮助的。</p>\n</blockquote>\n<h3 id=\"如何做好蛙泳的夹肘动作\"><a class=\"markdownIt-Anchor\" href=\"#如何做好蛙泳的夹肘动作\">#</a> 如何做好蛙泳的夹肘动作？</h3>\n<p>做好夹肘动作，蛙泳泳姿会更加优美，泳速也会得到进一步提升。夹肘是内划动作的最后阶段，两肘距离小于肩宽，是内划抱水（向胸前抱水）要求的结果，夹肘要快速有力。</p>\n",
+            "tags": [
+                "游泳"
+            ]
+        }
+    ]
+}

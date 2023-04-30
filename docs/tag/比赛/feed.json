@@ -1,0 +1,65 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "成为自由人 • All posts by \"比赛\" tag",
+    "description": "阿基米东的网络日志",
+    "home_page_url": "https://luhuadong.com",
+    "items": [
+        {
+            "id": "https://luhuadong.com/contest/aws-serverless-for-good-2022.html",
+            "url": "https://luhuadong.com/contest/aws-serverless-for-good-2022.html",
+            "title": "亚马逊 Serverless For Good - 2022 编程挑战赛",
+            "date_published": "2022-07-18T07:04:11.000Z",
+            "content_html": "<p><img data-src=\"/images/contest/aws-serverless-for-good-2022.png\" alt=\"\"></p>\n<h2 id=\"大赛简介\"><a class=\"markdownIt-Anchor\" href=\"#大赛简介\">#</a> 大赛简介</h2>\n<p>能源与气候危机愈演愈烈之下，可持续发展成为全球共识。互联网自然不能置身事外。技术人，如何用手中的一行行代码，守护 “绿色” 星球，让人类社会更加美好。充分利用 Serverless（无服务器）是减少能源消耗、践行低碳绝佳的方式之一。</p>\n<p>Serverless 是一种云原生开发模型，能够让应用在远程托管的执行环境中按需运行，无需维护操作系统，从而提高资源利用率、降低成本、加速创新。</p>\n<p>2022 年 3 月，Gartner 发布报告指出，到 2026 年，超过 50% 的全球企业将部署无服务器功能。不难看出，Serverless 的出现带来了一种全新的、颠覆式的云开发架构模式。为了践行 “技术向善” 的理念，帮助更多的开发者了解、熟悉无服务器技术，推动无服务器架构的创新，亚马逊云科技主办本次 Serverless for Good-2022 编程挑战赛。</p>\n<h2 id=\"赛程安排\"><a class=\"markdownIt-Anchor\" href=\"#赛程安排\">#</a> 赛程安排</h2>\n<ul>\n<li><strong>2022/7/6-2022/8/19：报名 &amp; 初赛阶段</strong>\n<ul>\n<li>提交内容：作品代码、技术文档</li>\n<li>评分指标：作品完成度 50%、技术架构 20%、使用体验 20%、创意度 10%</li>\n</ul>\n</li>\n<li><strong>2022/8/20-2022/9/18：决赛 &amp; 答辩准备阶段</strong>\n<ul>\n<li>提交内容：测试版作品（DEMO）、作品代码、技术文档、作品演示 PPT</li>\n<li>评分指标：作品完成度 30%、商业价值 30%、创意度 20%、使用体验 10%、技术难度 10%</li>\n</ul>\n</li>\n<li><strong>2022/9/23：决赛路演</strong>\n<ul>\n<li>作品演示 PPT 最终版</li>\n<li>评分指标：作品完成度 30%、商业价值 30%、创意度 20%、使用体验 10%、技术难度 10%</li>\n</ul>\n</li>\n</ul>\n<h2 id=\"初赛赛题\"><a class=\"markdownIt-Anchor\" href=\"#初赛赛题\">#</a> 初赛赛题</h2>\n<p>参赛选手从给定的两个场景中任选其一，基于 Amazon Serverless 架构实现。每个场景都给出了推荐架构，供参赛者参考，组委会在初赛前将安排一次统一的在线培训。开发者团队可采用推荐架构，也可自由进行架构设计。评委根据作品完成度、技术架构、创意度等评分标准进行评分，前 5-8 名团队进入决赛。</p>\n<h2 id=\"决赛赛题\"><a class=\"markdownIt-Anchor\" href=\"#决赛赛题\">#</a> 决赛赛题</h2>\n<p>参赛者基于 <span class=\"exturl\" data-url=\"aHR0cHM6Ly9hd3MuYW1hem9uLmNvbS9jbi9zZXJ2ZXJsZXNzLw==\">Amazon Serverless 架构</span>，利用 Amazon Serverless 服务，实现社交泛娱乐、互动游戏、电商平台、IoT 等现代化应用场景的搭建，并实现交互。</p>\n<p>你可以将 Serverless 架构用于物联网场景消除现实与数字世界之间的鸿沟，你可以考虑用 Serverless 解决社交场景下图像、视频处理等诸多问题，亦或是考虑开发一个电商网站，优化剁手党的购物体验… 更多场景等待着你去解锁！尽情发动你的想象力与创造力吧～</p>\n<p>决赛阶段参赛团队必须完成能够试用的 Demo，可为 Web 网站、APP、小程序等，形式不限，使用的开发语言不限。本阶段将以 “线下编程 + 线上提交 + 现场答辩” 的方式进行。</p>\n<h2 id=\"作品提交\"><a class=\"markdownIt-Anchor\" href=\"#作品提交\">#</a> 作品提交</h2>\n<p>亚马逊云科技 Serverless 大赛采用线上提交作品的方式，提交方式请查看石墨文档《<span class=\"exturl\" data-url=\"aHR0cHM6Ly9zaGltby5pbS9kb2NzL3pka3lCQmFhYm1VUHdkQTYv\">Serverless for Good-2022 选手作品提交方式</span>》。</p>\n<hr>\n<p>链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9hd3MuYW1hem9uLmNvbS9jbi9hYm91dC1hd3MvZXZlbnRzL3NlcnZlcmxlc3MtZm9yLWdvb2QtMjAyMi8=\">https://aws.amazon.com/cn/about-aws/events/serverless-for-good-2022/</span></p>\n",
+            "tags": [
+                "创客",
+                "比赛",
+                "科技向善"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/contest/seeed-iot-in-the-wild-2022.html",
+            "url": "https://luhuadong.com/contest/seeed-iot-in-the-wild-2022.html",
+            "title": "矽递科技 IoT Into the Wild 大赛 2022",
+            "date_published": "2022-06-08T07:31:03.000Z",
+            "content_html": "<p><img data-src=\"/images/contest/iot-in-the-wild-2022-01.png\" alt=\"\"></p>\n<h2 id=\"大赛介绍\"><a class=\"markdownIt-Anchor\" href=\"#大赛介绍\">#</a> 大赛介绍</h2>\n<p>由 Seeed 联合社区伙伴在 Hakster 上发起的：IoT Into the Wild 大赛今天正式上线！欢迎参与！</p>\n<p>赛程安排：</p>\n<ul>\n<li>2022 年 6 月 8 日，正式发布</li>\n<li>2022 年 7 月 22 日，硬件申请结束</li>\n<li>2022 年 7 月 27 日，邮递硬件</li>\n<li>2022 年 9 月 27 日，提交项目</li>\n<li>2022 年 10 月 10 日，公布获奖名单</li>\n</ul>\n<h2 id=\"五大挑战\"><a class=\"markdownIt-Anchor\" href=\"#五大挑战\">#</a> 五大挑战</h2>\n<p>In this Contest, you can focus on making easy-to-deploy AIoT solutions that can contribute to tackling any of the following Challenges or challenge topics. There are 5 Challenges in total, among which you can freely choose to concentrate on topics of one Challenge or combine several Challenges that are specified in this Contest. <strong>Make sure to mention the specific Challenge and challenge topics in your project submission.</strong></p>\n<p><img data-src=\"/images/contest/iot-in-the-wild-2022-03.jpeg\" alt=\"\"></p>\n<p><strong>Challenge 1: Climate Crisis Prevention/Mitigation</strong></p>\n<ul>\n<li>Global warming</li>\n<li>Carbon neutrality</li>\n<li>Natural disaster prevention/mitigation</li>\n<li>Sand depletion crisis</li>\n<li>Environmentally-unsustainable tourism mitigation</li>\n</ul>\n<p><strong>Challenge 2: Wildlife/Biodiversity Conservation (U</strong>nlimited to various types of flora and fauna)</p>\n<ul>\n<li>Non-intrusive monitoring of endangered wildlife/biodiversity species from various threats</li>\n<li>Animal movement, behavior and emotion detection</li>\n<li>Environmental habitat monitoring</li>\n<li>Human-wildlife conflict prevention/mitigation</li>\n</ul>\n<p><strong>Challenge 3: Marine Conser</strong>v<strong>ation</strong></p>\n<ul>\n<li>Sea level rise</li>\n<li>Ice and snow melt</li>\n<li>Marine pollution</li>\n<li>Harmful algal bloom</li>\n<li>Plastic pollution</li>\n</ul>\n<p><strong>Challenge 4: Open Science</strong></p>\n<ul>\n<li>Low-cost, open science hardware solutions as scientific research tools designed for outdoor scenarios in the wild (ex. microscopes, science equipment designs, sensors for environmental monitoring, etc.)</li>\n</ul>\n<p><strong>Challenge 5: Sustainable Agriculture</strong></p>\n<ul>\n<li>Climate-smart commodities</li>\n<li>Precision farming</li>\n<li>Smart husbandry</li>\n<li>Autonomous greenhouse</li>\n<li>Local food production</li>\n<li>Sustainable food supply chain management</li>\n</ul>\n<h2 id=\"赛事合作方\"><a class=\"markdownIt-Anchor\" href=\"#赛事合作方\">#</a> 赛事合作方</h2>\n<p><img data-src=\"/images/contest/iot-in-the-wild-2022-04.jpeg\" alt=\"\"></p>\n<h2 id=\"相关链接\"><a class=\"markdownIt-Anchor\" href=\"#相关链接\">#</a> 相关链接</h2>\n<ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuaGFja3N0ZXIuaW8vY29udGVzdHMvaW90aW50aGV3aWxk\">https://www.hackster.io/contests/iotinthewild</span></li>\n</ul>\n",
+            "tags": [
+                "创客",
+                "比赛",
+                "科技向善"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/contest/rt-thread-lvgl-gui-2022.html",
+            "url": "https://luhuadong.com/contest/rt-thread-lvgl-gui-2022.html",
+            "title": "RT-Thread + LVGL 嵌入式 GUI 挑战赛 2022",
+            "date_published": "2022-05-03T23:32:31.000Z",
+            "content_html": "<p><img data-src=\"/images/contest/rt-thread-lvgl-gui-2022.webp\" alt=\"\"></p>\n<h2 id=\"大赛介绍\"><a class=\"markdownIt-Anchor\" href=\"#大赛介绍\">#</a> 大赛介绍</h2>\n<p>RT-Thread 社区联合 LVGL 社区及合作伙伴新唐科技、意法半导体、NXP 半导体正式开启嵌入式 GUI 挑战赛。</p>\n<p>赛程安排：</p>\n<ul>\n<li>报名截至时间：5 月 1 日</li>\n<li>完成任务时间：5 月 12 日 - 7 月 12 日</li>\n<li>评奖时间：7 月 13-7 月 20 日</li>\n<li>官宣获奖名单：7 月 21 日</li>\n</ul>\n<p>现金奖励：</p>\n<ul>\n<li>一等奖 1 名 6000 元 + 获奖证书</li>\n<li>二等奖 2 名 3000 元 + 获奖证书</li>\n<li>三等奖 5 名 500 元 + 获奖证书</li>\n</ul>\n<h2 id=\"作品介绍\"><a class=\"markdownIt-Anchor\" href=\"#作品介绍\">#</a> 作品介绍</h2>\n<p>基于新唐 NuMaker-HMI-N9H30 的网络收音机</p>\n<h2 id=\"相关链接\"><a class=\"markdownIt-Anchor\" href=\"#相关链接\">#</a> 相关链接</h2>\n<ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly9jbHViLnJ0LXRocmVhZC5vcmcvYXNrL2FydGljbGUvZmRmNWFkNTkwOWVlZjZiYS5odG1s\">嵌入式 GUI 挑战赛报名开启！</span></li>\n</ul>\n",
+            "tags": [
+                "创客",
+                "比赛"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/contest/stm32-maker-faire-2020.html",
+            "url": "https://luhuadong.com/contest/stm32-maker-faire-2020.html",
+            "title": "2020 STM32 创客秀大赛",
+            "date_published": "2020-11-20T15:42:19.000Z",
+            "content_html": "<p><img data-src=\"/images/contest/stm32-maker-faire-2020.jpeg\" alt=\"\"></p>\n<p>第一次参加 STM32 创客秀，选了自由组，最终闯入了决赛，去了一趟上海，拿了个二等奖。也认识了很多创客伙伴，见了一些认识好久的网友，还是挺奇妙的！</p>\n<h2 id=\"作品介绍\"><a class=\"markdownIt-Anchor\" href=\"#作品介绍\">#</a> 作品介绍</h2>\n<p>基于 STM32 和 RT-Thread 实现的空气质量监测设备，搭配 Web 服务端和微信小程序，可实现数据存储、分析，实时查看。</p>\n<iframe src=\"//player.bilibili.com/player.html?aid=371380688&bvid=BV1rZ4y1u7p6&cid=217010228&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>\n<p>该项目具有如下特性：</p>\n<ul>\n<li>支持众多 MCU，包括 STM32 Nucleo 系列所有板卡；</li>\n<li>支持多种网络接入方式，包括以太网、WiFi、4G、NB-IoT 等；</li>\n<li>支持多种不同厂家不同型号的传感器。</li>\n</ul>\n<h2 id=\"相关链接\"><a class=\"markdownIt-Anchor\" href=\"#相关链接\">#</a> 相关链接</h2>\n<ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMXJaNHkxdTdwNg==\">STM32 创客秀 - 分布式空气质量监测系统</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuZWV0LWNoaW5hLmNvbS9tcC9hMzI3NjkuaHRtbA==\">2020 创客大赛奖项揭晓，奇思妙想，尽在其中</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3MvdmlkZW8vQlYxTUs0eTFqN1dh\">蝶粉巅峰对决！2020 STM32 创客秀大赛总决赛 vlog</span></li>\n</ul>\n",
+            "tags": [
+                "创客",
+                "比赛"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/contest/rt-thread-application-innovation-2020.html",
+            "url": "https://luhuadong.com/contest/rt-thread-application-innovation-2020.html",
+            "title": "RT-Thread 应用创新设计大赛 2020",
+            "date_published": "2020-04-01T15:55:48.000Z",
+            "content_html": "<p><img data-src=\"/images/contest/rt-thread-2020-banner.jpg\" alt=\"\"></p>\n<h2 id=\"大赛要求\"><a class=\"markdownIt-Anchor\" href=\"#大赛要求\">#</a> 大赛要求</h2>\n<ul>\n<li>开发者基于 RT-Thread 开发物联网创新型应用或者终端产品。</li>\n<li>基于主办方提供的硬件或者自备硬件均可，RT-Thread 支持主流芯片架构如 ARM Cortex-M、MIPS、X86、C-Sky、RISC-V，几乎所有开发者手头开发板（如 STM32、LPC 系列、<span class=\"exturl\" data-url=\"aHR0cDovL2kubXg=\">i.mx</span> rt 系列、其他国产 32 位 MCU）均可运行 RT-Thread。</li>\n<li>如需使用到云服务，推荐使用 UCloud 云资源，可为参赛者提供有效期半年的 800 元 UCloud 云资源使用金用于参赛作品的云服务；也可自由选择其他云服务非强制要求。</li>\n<li>代码和文档开源。</li>\n</ul>\n<h2 id=\"作品展示\"><a class=\"markdownIt-Anchor\" href=\"#作品展示\">#</a> 作品展示</h2>\n<iframe src=\"//player.bilibili.com/player.html?aid=498551331&bvid=BV1mK411p7jj&cid=201704902&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>\n<h2 id=\"相关链接\"><a class=\"markdownIt-Anchor\" href=\"#相关链接\">#</a> 相关链接</h2>\n<ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly9odW9kb25nLjIxaWMuY29tL3J0LXRocmVhZA==\">RT-Thread 应用创新设计大赛 2020 获奖名单</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMW1LNDExcDdqag==\">【视频】RT-Thread 应用创新设计大赛作品展示 —— 空气质量监测系统</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly9iYnMuMjFpYy5jb20vaWN2aWV3LTI5NzEwNTItMS0xLmh0bWw=\">【帖子】RT-Thread 作品秀：空气质量监测系统</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x1X2VtYmVkZGVkL2FydGljbGUvZGV0YWlscy8xMDY3Mzk5Mzk=\">【博客】RT-Thread 作品秀：空气质量监测系统</span></li>\n</ul>\n",
+            "tags": [
+                "创客",
+                "比赛"
+            ]
+        }
+    ]
+}

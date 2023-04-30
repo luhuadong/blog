@@ -1,82 +1,570 @@
+
+
+
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
-<meta name="theme-color" content="#222">
-<meta name="generator" content="Hexo 5.0.2">
+<meta name="theme-color" content="#FFF">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="icon" type="image/ico" sizes="32x32" href="/images/favicon.ico">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta http-equiv="Cache-Control" content="no-siteapp">
 
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/lu_avatar_01_120px.png">
-  <link rel="mask-icon" href="/images/lu_avatar_01_240px.png" color="#222">
+<link rel="alternate" type="application/rss+xml" title="成为自由人" href="https://luhuadong.com/rss.xml" />
+<link rel="alternate" type="application/atom+xml" title="成为自由人" href="https://luhuadong.com/atom.xml" />
+<link rel="alternate" type="application/json" title="成为自由人" href="https://luhuadong.com/feed.json" />
 
-<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Mulish:300,300italic,400,400italic,700,700italic%7CFredericka%20the%20Great:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20JP:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20SC:300,300italic,400,400italic,700,700italic%7CInconsolata:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
 
+<link rel="stylesheet" href="/css/app.css?v=0.2.5">
 
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3396347538857110" crossorigin="anonymous"></script>
-
-<script class="hexo-configurations">
-    var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
-  </script>
-<meta name="description" content="WordPress 适合做内容管理网站，为了做出像 Wikipedia 那样的风格来展示网页内容，就需要主题的配合。本文列举一些也许适合你的 WordPress Wiki 类型主题，帮助你搭建自己的知识库！  KnowAll KnowAll 是一个灵活的 WordPress 知识库和 wiki 主题，具有内置功能，可帮助访问者找到他们正在寻找的确切信息。你可以使用它来创建一个完整的知识库。">
-<meta property="og:type" content="article">
-<meta property="og:title" content="WordPress 的 WiKi 知识库主题">
-<meta property="og:url" content="https://luhuadong.com/wordpress/best-wordpress-wiki-themes.html">
-<meta property="og:site_name" content="成为自由人">
-<meta property="og:description" content="WordPress 适合做内容管理网站，为了做出像 Wikipedia 那样的风格来展示网页内容，就需要主题的配合。本文列举一些也许适合你的 WordPress Wiki 类型主题，帮助你搭建自己的知识库！  KnowAll KnowAll 是一个灵活的 WordPress 知识库和 wiki 主题，具有内置功能，可帮助访问者找到他们正在寻找的确切信息。你可以使用它来创建一个完整的知识库。">
-<meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://luhuadong.com/images/wordpress/wp-theme-KnowAll.png">
-<meta property="og:image" content="https://luhuadong.com/images/wordpress/wp-theme-wikipress.png">
-<meta property="og:image" content="https://luhuadong.com/images/wordpress/wp-theme-knowhow.png">
-<meta property="og:image" content="https://luhuadong.com/images/wordpress/wp-theme-Docly.png">
-<meta property="og:image" content="https://luhuadong.com/images/wordpress/wp-theme-manual.png">
-<meta property="og:image" content="https://luhuadong.com/images/wordpress/wp-theme-heroickb.png">
-<meta property="og:image" content="https://luhuadong.com/images/wordpress/wp-theme-docy.png">
-<meta property="og:image" content="https://luhuadong.com/images/wordpress/wp-theme-lore.png">
-<meta property="og:image" content="https://luhuadong.com/images/wordpress/wp-theme-Tikidocs.png">
-<meta property="og:image" content="https://luhuadong.com/images/wordpress/wp-theme-infocenter.png">
-<meta property="og:image" content="https://luhuadong.com/images/wordpress/wp-theme-wikb.png">
-<meta property="article:published_time" content="2022-01-25T06:20:32.000Z">
-<meta property="article:modified_time" content="2023-03-24T17:27:54.613Z">
-<meta property="article:author" content="Rudy Lo">
-<meta property="article:tag" content="WordPress">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://luhuadong.com/images/wordpress/wp-theme-KnowAll.png">
+  
+  <meta name="keywords" content="WordPress" />
 
 
 <link rel="canonical" href="https://luhuadong.com/wordpress/best-wordpress-wiki-themes.html">
 
 
-<script class="page-configurations">
-  // https://hexo.io/docs/variables.html
-  CONFIG.page = {
-    sidebar: "",
-    isHome : false,
-    isPost : true,
-    lang   : 'zh-CN'
+
+  <title>
+WordPress 的 WiKi 知识库主题 - 如何搭建WordPress网站 |
+Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</title>
+<meta name="generator" content="Hexo 5.4.2"></head>
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div id="loading">
+    <div class="cat">
+      <div class="body"></div>
+      <div class="head">
+        <div class="face"></div>
+      </div>
+      <div class="foot">
+        <div class="tummy-end"></div>
+        <div class="bottom"></div>
+        <div class="legs left"></div>
+        <div class="legs right"></div>
+      </div>
+      <div class="paw">
+        <div class="hands left"></div>
+        <div class="hands right"></div>
+      </div>
+    </div>
+  </div>
+  <div id="container">
+    <header id="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="inner">
+        <div id="brand">
+          <div class="pjax">
+          
+  <h1 itemprop="name headline">WordPress 的 WiKi 知识库主题
+  </h1>
+  
+<div class="meta">
+  <span class="item" title="创建时间：2022-01-25 14:20:32">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <span class="text">发表于</span>
+    <time itemprop="dateCreated datePublished" datetime="2022-01-25T14:20:32+08:00">2022-01-25</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span class="text">本文字数</span>
+    <span>2.6k</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span class="text">阅读时长</span>
+    <span>2 分钟</span>
+  </span>
+</div>
+
+
+          </div>
+        </div>
+        <nav id="nav">
+  <div class="inner">
+    <div class="toggle">
+      <div class="lines" aria-label="切换导航栏">
+        <span class="line"></span>
+        <span class="line"></span>
+        <span class="line"></span>
+      </div>
+    </div>
+    <ul class="menu">
+      <li class="item title"><a href="/" rel="start">Freedom Blog</a></li>
+    </ul>
+    <ul class="right">
+      <li class="item theme">
+        <i class="ic i-sun"></i>
+      </li>
+      <li class="item search">
+        <i class="ic i-search"></i>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+      </div>
+      <div id="imgs" class="pjax">
+        <ul>
+          <li class="item" data-background-image="http://static.luhuadong.com/NahargarhFort.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/EuropeFromISS.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/WhitehorseAurora.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/MinouLighthouse.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/PicoVolcano.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/NIrelandGiants.jpg"></li>
+        </ul>
+      </div>
+    </header>
+    <div id="waves">
+      <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+        <defs>
+          <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+        </defs>
+        <g class="parallax">
+          <use xlink:href="#gentle-wave" x="48" y="0" />
+          <use xlink:href="#gentle-wave" x="48" y="3" />
+          <use xlink:href="#gentle-wave" x="48" y="5" />
+          <use xlink:href="#gentle-wave" x="48" y="7" />
+        </g>
+      </svg>
+    </div>
+    <main>
+      <div class="inner">
+        <div id="main" class="pjax">
+          
+  <div class="article wrap">
+    
+<div class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+<i class="ic i-home"></i>
+<span><a href="/">首页</a></span><i class="ic i-angle-right"></i>
+<span  class="current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/categories/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAWordPress%E7%BD%91%E7%AB%99/" itemprop="item" rel="index" title="分类于 如何搭建WordPress网站"><span itemprop="name">如何搭建WordPress网站</span></a>
+<meta itemprop="position" content="1" /></span>
+</div>
+
+    <article itemscope itemtype="http://schema.org/Article" class="post block" lang="zh-CN">
+  <link itemprop="mainEntityOfPage" href="https://luhuadong.com/wordpress/best-wordpress-wiki-themes.html">
+
+  <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <meta itemprop="image" content="/images/lu_20221221.jpg">
+    <meta itemprop="name" content="Rudy Lo">
+    <meta itemprop="description" content="生活的理想，就是为了理想的生活, 阿基米东的网络日志">
+  </span>
+
+  <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+    <meta itemprop="name" content="成为自由人">
+  </span>
+
+  <div class="body md" itemprop="articleBody">
+    
+
+    <p>WordPress 适合做内容管理网站，为了做出像 Wikipedia 那样的风格来展示网页内容，就需要主题的配合。本文列举一些也许适合你的 WordPress Wiki 类型主题，帮助你搭建自己的知识库！</p>
+<h2 id="knowall"><a class="markdownIt-Anchor" href="#knowall">#</a> KnowAll</h2>
+<p>KnowAll 是一个灵活的 WordPress 知识库和 wiki 主题，具有内置功能，可帮助访问者找到他们正在寻找的确切信息。你可以使用它来创建一个完整的知识库。</p>
+<p><img data-src="/images/wordpress/wp-theme-KnowAll.png" alt=""></p>
+<p>KnowAll 是一个高端主题。它在单个网站上的使用价格为 149 美元，并提供一年的支持和更新，但如果你想访问搜索分析和文章反馈功能，你就需要购买 199 美元的版本。</p>
+<ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9oZXJvdGhlbWVzLmNvbS90aGVtZXMva25vd2FsbC13b3JkcHJlc3Mta25vd2xlZGdlLWJhc2Uv">项目主页</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9kZW1vLmhlcm90aGVtZXMuY29tL2tub3dhbGwv">示例 Demo</span></li>
+</ul>
+<h2 id="wikipress"><a class="markdownIt-Anchor" href="#wikipress">#</a> WikiPress</h2>
+<p>WikiPress 是一个专用的 WordPress wiki 主题，具有干净、响应式的布局。该主题的左侧有一个侧边栏，它会自动在按类别组织的折叠手风琴部分中显示你的所有内容。另外，顶部还有一个实时搜索框。</p>
+<p>这个主题最有趣的地方在于，以真正的 wiki 方式，它允许人们使用常规的 WordPress 编辑器从前端添加、编辑和管理内容。</p>
+<p><img data-src="/images/wordpress/wp-theme-wikipress.png" alt=""></p>
+<p>WikiPress 是一个优质的 WordPress 主题。一年的支持和更新费用为 99 美元。第一年后，你可以以每年 49.50 美元的折扣价续订以继续获得支持和更新。</p>
+<ul>
+<li><a href="">项目主页</a></li>
+<li><a href="">示例 Demo</a></li>
+</ul>
+<h2 id="knowhow"><a class="markdownIt-Anchor" href="#knowhow">#</a> KnowHow</h2>
+<p>KnowHow 是另一个灵活的 WordPress 知识库和 wiki 主题。它可以帮助你添加不同主题的文章并将它们组织成易于搜索的类别。访问者还可以利用即时搜索建议更快地找到内容。</p>
+<p><img data-src="/images/wordpress/wp-theme-knowhow.png" alt=""></p>
+<p>KnowHow 是一个高级主题，售价 59 美元。它是通过 ThemeForest 出售的，这意味着你的购买可以让你访问单个站点的终身更新和六个月的支持。</p>
+<ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly90aGVtZWZvcmVzdC5uZXQvaXRlbS9rbm93aG93LWEta25vd2xlZGdlLWJhc2Utd29yZHByZXNzLXRoZW1lLzI4MTMxMTE=">项目主页</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9kZW1vLmhlcm90aGVtZXMuY29tLyNrbm93aG93">示例 Demo</span></li>
+</ul>
+<h2 id="docly"><a class="markdownIt-Anchor" href="#docly">#</a> Docly</h2>
+<p>顾名思义，Docly 是一个致力于帮助您创建文档和 wiki 网站的主题。你可以将它用于任何类型的文档、wiki、知识库等。</p>
+<p>一个独特的功能是它带有一个集成的支持论坛。因此，如果你想创建一个 wiki 并允许公开讨论，那么这个可能是一个不错的选择。</p>
+<p><img data-src="/images/wordpress/wp-theme-Docly.png" alt=""></p>
+<p>Docly 是一个高级主题。ThemeForest 售价 59 美元，可让你访问单个站点的终身更新和六个月的支持。</p>
+<ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly90aGVtZWZvcmVzdC5uZXQvaXRlbS9kb2NseS1kb2N1bWVudGF0aW9uLWFuZC1rbm93bGVkZ2UtYmFzZS13b3JkcHJlc3MtdGhlbWUvMjY4ODUyODA=">项目主页</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93b3JkcHJlc3MtdGhlbWUuc3BpZGVyLXRoZW1lcy5uZXQvZG9jbHkv">示例 Demo</span></li>
+</ul>
+<h2 id="manual"><a class="markdownIt-Anchor" href="#manual">#</a> Manual</h2>
+<p>与其他 wiki 主题一样，Manual 是另一种通用选项，可用于 wiki 站点、知识库，并且通常只显示任何类型的文档。</p>
+<p>与 Docly 一样，如果你想将讨论论坛添加到你的 wiki，它还与流行的 bbPress 插件集成。</p>
+<p><img data-src="/images/wordpress/wp-theme-manual.png" alt=""></p>
+<p>Manual 是 ThemeForest 提供的高级主题。与其他 ThemeForest 主题一样，它的价格为 59 美元，并为您提供单个站点的终身更新和六个月的支持。</p>
+<ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly90aGVtZWZvcmVzdC5uZXQvaXRlbS9tYW51YWwtbXVsdGlwdXJwb3NlLW9ubGluZS1kb2N1bWVudGF0aW9uLWNyZWF0aXZlLXdvcmRwcmVzcy10aGVtZS8xMjk5NzA0NA==">项目主页</span></li>
+<li><span class="exturl" data-url="aHR0cDovL2RlbW8ud3BzbWFydGFwcHMuY29tL3RoZW1lcy9tYW51YWwvZG9jdW1lbnRhdGlvbnMv">示例 Demo</span></li>
+</ul>
+<h2 id="heroic-knowledge-base"><a class="markdownIt-Anchor" href="#heroic-knowledge-base">#</a> Heroic Knowledge Base</h2>
+<p>Heroic Knowledge Base 为你的站点添加了创建功能齐全的知识库所需的所有功能。通过选择此插件，你可以使用任何你喜欢的 WordPress 主题来构建你的在线支持资源。</p>
+<p><img data-src="/images/wordpress/wp-theme-heroickb.png" alt=""></p>
+<ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9oZXJvdGhlbWVzLmNvbS9wbHVnaW5zL2hlcm9pYy13b3JkcHJlc3Mta25vd2xlZGdlLWJhc2Uv">项目主页</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9oZXJvaWNrYi5oZXJvdGhlbWVzLmNvbS8=">示例 Demo</span></li>
+</ul>
+<h2 id="docy"><a class="markdownIt-Anchor" href="#docy">#</a> Docy</h2>
+<p>Docy 是一个功能强大、响应迅速且高性能的在线文档 WordPress 主题，可以帮助你快速开发下一个产品的文档。你可以有效地创建文档以记录 API、框架、插件、软件、模板、任何类型的产品。它包含许多元素，使你的文档具有交互性和效率。这个主题是完全响应和移动友好的。</p>
+<p><img data-src="/images/wordpress/wp-theme-docy.png" alt=""></p>
+<ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly90aGVtZWZvcmVzdC5uZXQvaXRlbS9kb2N5LWRvY3VtZW50YXRpb24tYW5kLWZvcnVtLXdvcmRwcmVzcy10aGVtZS8zMTM3MDgzOA==">项目主页</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93b3JkcHJlc3MtdGhlbWUuc3BpZGVyLXRoZW1lcy5uZXQvZG9jeS8=">示例 Demo</span></li>
+</ul>
+<h2 id="lore"><a class="markdownIt-Anchor" href="#lore">#</a> Lore</h2>
+<p>Lore 是一个轻量级主题，旨在帮助你使用 WordPress 启动一个快速加载的知识库网站。</p>
+<p><img data-src="/images/wordpress/wp-theme-lore.png" alt=""></p>
+<ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly90aGVtZWZvcmVzdC5uZXQvaXRlbS9sb3JlLWVsZWdhbnQta25vd2xlZGdlLWJhc2Utd29yZHByZXNzLXRoZW1lLzE2OTY1MDI0">项目主页</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9wcmV2aWV3LnRoZW1lZm9yZXN0Lm5ldC9pdGVtL2xvcmUtZWxlZ2FudC1rbm93bGVkZ2UtYmFzZS13b3JkcHJlc3MtdGhlbWUvZnVsbF9zY3JlZW5fcHJldmlldy8xNjk2NTAyNA==">示例 Demo</span></li>
+</ul>
+<h2 id="tikidocs"><a class="markdownIt-Anchor" href="#tikidocs">#</a> Tikidocs</h2>
+<p>Tikidocs 是另一个时尚的知识库和支持论坛 WordPress 主题，具有一些强大的功能。</p>
+<p><img data-src="/images/wordpress/wp-theme-Tikidocs.png" alt=""></p>
+<ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly90aGVtZWZvcmVzdC5uZXQvaXRlbS90aWtpZG9jcy1rbm93bGVkZ2ViYXNlLXN1cHBvcnQtZm9ydW0td29yZHByZXNzLXRoZW1lLzIyNDk3NTU5">项目主页</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9wcmV2aWV3LnRoZW1lZm9yZXN0Lm5ldC9pdGVtL3Rpa2lkb2NzLWtub3dsZWRnZWJhc2Utc3VwcG9ydC1mb3J1bS13b3JkcHJlc3MtdGhlbWUvZnVsbF9zY3JlZW5fcHJldmlldy8yMjQ5NzU1OQ==">示例 Demo</span></li>
+</ul>
+<h2 id="infocenter"><a class="markdownIt-Anchor" href="#infocenter">#</a> InfoCenter</h2>
+<p>InfoCenter 非常适合使用 WordPress 创建知识库和问答网站。</p>
+<p><img data-src="/images/wordpress/wp-theme-infocenter.png" alt=""></p>
+<ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly90aGVtZWZvcmVzdC5uZXQvaXRlbS9pbmZvY2VudGVyLWtub3dsZWRnZS1iYXNlLWFuZC1xYS13b3JkcHJlc3MtdGhlbWUvMTk0ODgwNzE=">项目主页</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9mbHVlbnR0aGVtZXMuY29tL3dwL2tub3dsZWRnZS8=">示例 Demo</span></li>
+</ul>
+<h2 id="wikb"><a class="markdownIt-Anchor" href="#wikb">#</a> Wikb</h2>
+<p>Wikb 旨在帮助你使用 WordPress 启动知识库和帮助台网站。</p>
+<p>如果你的客户或用户在使用你的产品或服务时需要支持，那么 Wikb 主题就是为你而构建的。Wikb 主题也适用于设置在线空间，你可以在其中发布内容以帮助你的员工、社区或任何其他人群。</p>
+<p>Wikb 模板的设计非常适合此类产品。整体风格严肃而热情，让你的访问者清楚地知道他们可以信任你发布的信息，同时仍然对你的网站感到宾至如归。由于所有模板都具有非常现代的设计，因此你使用 Wikb 创建的任何网站都应该对你的品牌产生积极影响。</p>
+<p><img data-src="/images/wordpress/wp-theme-wikb.png" alt=""></p>
+<ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly90aGVtZWZvcmVzdC5uZXQvaXRlbS93aWtiLWtub3dsZWRnZWJhc2UtaGVscC1kZXNrLXdwLXRoZW1lLzI0MDk1MTIy">项目主页</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9wcmV2aWV3LnRoZW1lZm9yZXN0Lm5ldC9pdGVtL3dpa2Ita25vd2xlZGdlYmFzZS1oZWxwLWRlc2std3AtdGhlbWUvZnVsbF9zY3JlZW5fcHJldmlldy8yNDA5NTEyMg==">示例 Demo</span></li>
+</ul>
+<h2 id="betterdocs"><a class="markdownIt-Anchor" href="#betterdocs">#</a> BetterDocs</h2>
+<p><span class="exturl" data-url="aHR0cHM6Ly9iZXR0ZXJkb2NzLmNvL3poLw==">https://betterdocs.co/zh/</span></p>
+<h2 id="mywiki"><a class="markdownIt-Anchor" href="#mywiki">#</a> MyWiki</h2>
+<h2 id="wedocs"><a class="markdownIt-Anchor" href="#wedocs">#</a> weDocs</h2>
+<p>这个免费的 WordPress wiki 插件提供了一个简单的解决方案来创建和管理知识库文章和文档页面。与此列表中的其他 WordPress 插件类似，用户可以使用拖放功能对文章进行分类和重新排列。</p>
+<p>此外，它还具有用于文档搜索和目录的专用小部件。</p>
+<p>weDocs 的界面让用户可以在一个屏幕上管理所有的 wiki 文档。这个免费插件不提供模板，而是与最流行的 WordPress 主题无缝集成。</p>
+<p>此外，它从外部站点导入文档，以便用户可以利用现有文档创建知识库。</p>
+<p>此外，weDocs 还为知识库提供了内置的电子邮件回复系统。它允许网站访问者提供有关内容的反馈，让支持团队和其他管理员深入了解如何改进他们的 WordPress 网站。</p>
+<ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly93ZWRvY3MuY28vZG9jcy93ZWRvY3MvZ2V0dGluZy1zdGFydGVkLz91dG1fc291cmNlPXdwb3JnJmFtcDt1dG1fbWVkaXVtPXJlYWRtZSZhbXA7dXRtX2NhbXBhaWduPWRvY3M=">Documentation</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3RhcmVxMTk4OC93ZWRvY3MtcGx1Z2luLw==">Github</span></li>
+</ul>
+<h2 id="echo-knowledge-base"><a class="markdownIt-Anchor" href="#echo-knowledge-base">#</a> Echo Knowledge Base</h2>
+<p>该插件提供 26 种预制和响应式设计，适用于任何 WordPress 主题。它具有粘性目录，这意味着它会在读者滚动时保留在文章的一侧。</p>
+<p>如果您想在不浏览不同设置的情况下使用此 WordPress 插件，设置向导将帮助您立即创建知识库。</p>
+<p>创建一些文章和类别后，您可以按字母顺序或时间顺序对它们进行排序，添加标签、面包屑、后退按钮和评论。此外，Echo 包括一个自动生成的目录。</p>
+<p>此外，该插件针对最佳 SEO 结果进行了编码，这对于所有专注于通过其知识库内容提高在线知名度的网站所有者非常有帮助。</p>
+<p>这个 WordPress wiki 插件带有三个布局选项 —— 基本、选项卡和以类别为中心。它还有一个可视化布局编辑器，允许用户修改颜色、标签、字体和样式，并预览所有更改。</p>
+<p>Echo 知识库的 Pro 版高级功能包括一个访问管理器，用于控制哪些用户可以创建或阅读文章、文章评级和站点访问者的反馈等。计划起价为 46 美元 / 年。</p>
+<ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuZWNob2tub3dsZWRnZWJhc2UuY29tL2RlbW8tMS1rbm93bGVkZ2UtYmFzZS1iYXNpYy1sYXlvdXQv">Demo</span></li>
+</ul>
+<h2 id="参考"><a class="markdownIt-Anchor" href="#参考">#</a> 参考</h2>
+<ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9oZXJvdGhlbWVzLmNvbS9ibG9nL2Jlc3Qtd29yZHByZXNzLXdpa2ktdGhlbWVzLw==">5 Best WordPress Wiki Themes in 2021</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9hdGhlbWVzLmNvbS9jb2xsZWN0aW9ucy9iZXN0LWtub3dsZWRnZS1iYXNlLXdpa2ktd29yZHByZXNzLXRoZW1lcy8=">10 Best Knowledge Base &amp; Wiki WordPress Themes 2022</span></li>
+</ul>
+
+      <div class="tags">
+          <a href="/tags/WordPress/" rel="tag"><i class="ic i-tag"></i> WordPress</a>
+      </div>
+  </div>
+
+   <footer>
+
+    <div class="meta">
+  <span class="item">
+    <span class="icon">
+      <i class="ic i-calendar-check"></i>
+    </span>
+    <span class="text">更新于</span>
+    <time title="修改时间：2023-04-30 16:10:37" itemprop="dateModified" datetime="2023-04-30T16:10:37+08:00">2023-04-30</time>
+  </span>
+  <span id="wordpress/best-wordpress-wiki-themes.html" class="item leancloud_visitors" data-flag-title="WordPress 的 WiKi 知识库主题" title="阅读次数">
+      <span class="icon">
+        <i class="ic i-eye"></i>
+      </span>
+      <span class="text">阅读次数</span>
+      <span class="leancloud-visitors-count"></span>
+      <span class="text">次</span>
+  </span>
+</div>
+
+      
+<div class="reward">
+  <button><i class="ic i-heartbeat"></i> 赞赏</button>
+  <p>请我喝[茶]~(￣▽￣)~*</p>
+  <div id="qr">
+      
+      <div>
+        <img data-src="/images/wechatpay-small.jpeg" alt="Rudy Lo 微信支付">
+        <p>微信支付</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/alipay-small.jpeg" alt="Rudy Lo 支付宝">
+        <p>支付宝</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/avatar.png" alt="Rudy Lo 贝宝">
+        <p>贝宝</p>
+      </div>
+  </div>
+</div>
+
+      
+
+<div id="copyright">
+<ul>
+  <li class="author">
+    <strong>本文作者： </strong>Rudy Lo <i class="ic i-at"><em>@</em></i>成为自由人
+  </li>
+  <li class="link">
+    <strong>本文链接：</strong>
+    <a href="https://luhuadong.com/wordpress/best-wordpress-wiki-themes.html" title="WordPress 的 WiKi 知识库主题">https://luhuadong.com/wordpress/best-wordpress-wiki-themes.html</a>
+  </li>
+  <li class="license">
+    <strong>版权声明： </strong>本站所有文章除特别声明外，均采用 <span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzQuMC9kZWVkLnpo"><i class="ic i-creative-commons"><em>(CC)</em></i>BY-NC-SA</span> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+  </footer>
+
+</article>
+
+  </div>
+  
+
+<div class="post-nav">
+    <div class="item left">
+      
+
+  <a href="/english/michael-levitt-chemistry.html" itemprop="url" rel="prev" data-background-image="http:&#x2F;&#x2F;static.luhuadong.com&#x2F;JTNPMilkyWay.jpg" title="【英语演说】迈克尔·莱维特：我为“化学”正名">
+  <span class="type">上一篇</span>
+  <span class="category"><i class="ic i-flag"></i> 一起学英语</span>
+  <h3>【英语演说】迈克尔·莱维特：我为“化学”正名</h3>
+  </a>
+
+    </div>
+    <div class="item right">
+      
+
+  <a href="/journal/30-year-old-summary.html" itemprop="url" rel="next" data-background-image="http:&#x2F;&#x2F;static.luhuadong.com&#x2F;AgueroSpain.jpg" title="一觉醒来，喜提我的30岁">
+  <span class="type">下一篇</span>
+  <span class="category"><i class="ic i-flag"></i> 不定时日记</span>
+  <h3>一觉醒来，喜提我的30岁</h3>
+  </a>
+
+    </div>
+</div>
+
+  
+  <div class="wrap" id="comments"></div>
+
+
+        </div>
+        <div id="sidebar">
+          
+
+<div class="inner">
+
+  <div class="panels">
+    <div class="inner">
+      <div class="contents panel pjax" data-title="文章目录">
+          <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#knowall"><span class="toc-number">1.</span> <span class="toc-text"> KnowAll</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#wikipress"><span class="toc-number">2.</span> <span class="toc-text"> WikiPress</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#knowhow"><span class="toc-number">3.</span> <span class="toc-text"> KnowHow</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#docly"><span class="toc-number">4.</span> <span class="toc-text"> Docly</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#manual"><span class="toc-number">5.</span> <span class="toc-text"> Manual</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#heroic-knowledge-base"><span class="toc-number">6.</span> <span class="toc-text"> Heroic Knowledge Base</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#docy"><span class="toc-number">7.</span> <span class="toc-text"> Docy</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#lore"><span class="toc-number">8.</span> <span class="toc-text"> Lore</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#tikidocs"><span class="toc-number">9.</span> <span class="toc-text"> Tikidocs</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#infocenter"><span class="toc-number">10.</span> <span class="toc-text"> InfoCenter</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#wikb"><span class="toc-number">11.</span> <span class="toc-text"> Wikb</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#betterdocs"><span class="toc-number">12.</span> <span class="toc-text"> BetterDocs</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#mywiki"><span class="toc-number">13.</span> <span class="toc-text"> MyWiki</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#wedocs"><span class="toc-number">14.</span> <span class="toc-text"> weDocs</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#echo-knowledge-base"><span class="toc-number">15.</span> <span class="toc-text"> Echo Knowledge Base</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%8F%82%E8%80%83"><span class="toc-number">16.</span> <span class="toc-text"> 参考</span></a></li></ol>
+      </div>
+      <div class="related panel pjax" data-title="系列文章">
+        <ul>
+          <li><a href="/wordpress/wordpress-intro.html" rel="bookmark" title="WordPress 简介">WordPress 简介</a></li><li><a href="/wordpress/wordpress-showcase.html" rel="bookmark" title="WordPress 优秀网站案例">WordPress 优秀网站案例</a></li><li class="active"><a href="/wordpress/best-wordpress-wiki-themes.html" rel="bookmark" title="WordPress 的 WiKi 知识库主题">WordPress 的 WiKi 知识库主题</a></li>
+        </ul>
+      </div>
+      <div class="overview panel" data-title="站点概览">
+        <div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <img class="image" itemprop="image" alt="Rudy Lo"
+      data-src="/images/lu_20221221.jpg">
+  <p class="name" itemprop="name">Rudy Lo</p>
+  <div class="description" itemprop="description">阿基米东的网络日志</div>
+</div>
+
+<nav class="state">
+    <div class="item posts">
+      <a href="/archives/">
+        <span class="count">295</span>
+        <span class="name">文章</span>
+      </a>
+    </div>
+    <div class="item categories">
+      <a href="/categories/">
+        <span class="count">35</span>
+        <span class="name">分类</span>
+      </a>
+    </div>
+    <div class="item tags">
+      <a href="/tags/">
+        <span class="count">80</span>
+        <span class="name">标签</span>
+      </a>
+    </div>
+</nav>
+
+<div class="social">
+      <span class="exturl item github" data-url="aHR0cHM6Ly9naXRodWIuY29tL2x1aHVhZG9uZw==" title="https:&#x2F;&#x2F;github.com&#x2F;luhuadong"><i class="ic i-github"></i></span>
+      <span class="exturl item csdn" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x1X2VtYmVkZGVk" title="https:&#x2F;&#x2F;blog.csdn.net&#x2F;lu_embedded"><i class="ic i-address-card"></i></span>
+      <span class="exturl item zhihu" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9hcm1zdHJvbmcyMDE0" title="https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014"><i class="ic i-zhihu"></i></span>
+      <span class="exturl item douban" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC83MzAwNDcv" title="https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;"><i class="ic i-douban"></i></span>
+      <span class="exturl item weibo" data-url="aHR0cHM6Ly93ZWliby5jb20vdS8yMDAwMzkxOTUx" title="https:&#x2F;&#x2F;weibo.com&#x2F;u&#x2F;2000391951"><i class="ic i-weibo"></i></span>
+      <span class="exturl item email" data-url="bWFpbHRvOmx1aHVhZG9uZ0AxNjMuY29t" title="mailto:luhuadong@163.com"><i class="ic i-envelope"></i></span>
+</div>
+
+<ul class="menu">
+  
+    
+  <li class="item">
+    <a href="/" rel="section"><i class="ic i-home"></i>首页</a>
+  </li>
+
+    
+  <li class="item">
+    <a href="/about/" rel="section"><i class="ic i-user"></i>关于</a>
+  </li>
+
+        
+  <li class="item dropdown">
+      <a href="javascript:void(0);"><i class="ic i-feather"></i>文章</a>
+    <ul class="submenu">
+
+        
+  <li class="item">
+    <a href="/archives/" rel="section"><i class="ic i-list-alt"></i>归档</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/categories/" rel="section"><i class="ic i-th"></i>分类</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/tags/" rel="section"><i class="ic i-tags"></i>标签</a>
+  </li>
+
+  </ul>
+
+</ul>
+
+      </div>
+    </div>
+  </div>
+
+  <ul id="quick">
+    <li class="prev pjax">
+        <a href="/english/michael-levitt-chemistry.html" rel="prev" title="上一篇"><i class="ic i-chevron-left"></i></a>
+    </li>
+    <li class="up"><i class="ic i-arrow-up"></i></li>
+    <li class="down"><i class="ic i-arrow-down"></i></li>
+    <li class="next pjax">
+        <a href="/journal/30-year-old-summary.html" rel="next" title="下一篇"><i class="ic i-chevron-right"></i></a>
+    </li>
+    <li class="percent"></li>
+  </ul>
+</div>
+
+
+        </div>
+        <div class="dimmer"></div>
+      </div>
+    </main>
+    <footer id="footer">
+      <div class="inner">
+        <div class="widgets">
+          
+
+        </div>
+        <div class="status">
+  <div class="copyright">
+    
+    &copy; 2014 – 
+    <span itemprop="copyrightYear">2023</span>
+    <span class="with-love">
+      <i class="ic i-sakura rotate"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">Rudy Lo @ Freedom Blog</span>
+  </div>
+  <div class="count">
+    <span class="post-meta-item-icon">
+      <i class="ic i-chart-area"></i>
+    </span>
+    <span title="站点总字数">591k 字</span>
+
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="ic i-coffee"></i>
+    </span>
+    <span title="站点阅读时长">8:57</span>
+  </div>
+  <div class="powered-by">
+    基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
+  </div>
+</div>
+
+      </div>
+    </footer>
+  </div>
+<script data-config type="text/javascript">
+  var LOCAL = {
+    path: 'wordpress/best-wordpress-wiki-themes.html',
+    favicon: {
+      show: "（●´3｀●）やれやれだぜ",
+      hide: "(´Д｀)大変だ！"
+    },
+    search : {
+      placeholder: "文章搜索",
+      empty: "关于 「 ${query} 」，什么也没搜到",
+      stats: "${time} ms 内找到 ${hits} 条结果"
+    },
+    valine: true,fancybox: true,
+    copyright: '复制成功，转载请遵守 <i class="ic i-creative-commons"></i>BY-NC-SA 协议。',
+    ignores : [
+      function(uri) {
+        return uri.includes('#');
+      },
+      function(uri) {
+        return new RegExp(LOCAL.path+"$").test(uri);
+      }
+    ]
   };
 </script>
-<title>WordPress 的 WiKi 知识库主题 | 成为自由人</title>
-  
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
-    <script>
-      if (CONFIG.hostname === location.hostname) {
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-190737867-1');
-      }
-    </script>
 
-  <script>
+<script src="https://cdn.polyfill.io/v2/polyfill.js"></script>
+
+<script src="//cdn.jsdelivr.net/combine/npm/pace-js@1.0.2/pace.min.js,npm/pjax@0.2.8/pjax.min.js,npm/whatwg-fetch@3.4.0/dist/fetch.umd.min.js,npm/animejs@3.2.0/lib/anime.min.js,npm/algoliasearch@4/dist/algoliasearch-lite.umd.js,npm/instantsearch.js@4/dist/instantsearch.production.min.js,npm/lozad@1/dist/lozad.min.js,npm/quicklink@2/dist/quicklink.umd.js"></script>
+
+<script src="/js/app.js?v=0.2.5"></script>
+
+
+  <script data-pjax>
     var _hmt = _hmt || [];
     (function() {
       var hm = document.createElement("script");
@@ -85,590 +573,6 @@
       s.parentNode.insertBefore(hm, s);
     })();
   </script>
-
-
-
-  <noscript>
-  <style>
-  body { margin-top: 2rem; }
-
-  .use-motion .menu-item,
-  .use-motion .sidebar,
-  .use-motion .post-block,
-  .use-motion .pagination,
-  .use-motion .comments,
-  .use-motion .post-header,
-  .use-motion .post-body,
-  .use-motion .collection-header {
-    visibility: visible;
-  }
-
-  .use-motion .header,
-  .use-motion .site-brand-container .toggle,
-  .use-motion .footer { opacity: initial; }
-
-  .use-motion .site-title,
-  .use-motion .site-subtitle,
-  .use-motion .custom-logo-image {
-    opacity: initial;
-    top: initial;
-  }
-
-  .use-motion .logo-line {
-    transform: scaleX(1);
-  }
-
-  .search-pop-overlay, .sidebar-nav { display: none; }
-  .sidebar-panel { display: block; }
-  </style>
-</noscript>
-
-</head>
-
-<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
-  <div class="headband"></div>
-
-  <!-- 加入APlayer音乐播放器 -->
-  <link rel="stylesheet" href="/dist/APlayer.min.css">
-  <div id="aplayer"></div>
-  <script type="text/javascript" src="/dist/APlayer.min.js"></script>
-  <script type="text/javascript" src="/dist/music.js"></script>
-
-  <main class="main">
-    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header-inner"><div class="site-brand-container">
-  <div class="site-nav-toggle">
-    <div class="toggle" aria-label="切换导航栏" role="button">
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-    </div>
-  </div>
-
-  <div class="site-meta">
-
-    <a href="/" class="brand" rel="start">
-      <i class="logo-line"></i>
-      <h1 class="site-title">成为自由人</h1>
-      <i class="logo-line"></i>
-    </a>
-      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
-      <img class="custom-logo-image" src="/images/banner_1.gif" alt="成为自由人">
-  </div>
-
-  <div class="site-nav-right">
-    <div class="toggle popup-trigger">
-        <i class="fa fa-search fa-fw fa-lg"></i>
-    </div>
-  </div>
-</div>
-
-
-
-<nav class="site-nav">
-  <ul class="main-menu menu">
-        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
-        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
-        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
-        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
-        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
-        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
-        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
-        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
-      <li class="menu-item menu-item-search">
-        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
-        </a>
-      </li>
-  </ul>
-</nav>
-
-
-
-  <div class="search-pop-overlay">
-    <div class="popup search-popup"><div class="search-header">
-  <span class="search-icon">
-    <i class="fa fa-search"></i>
-  </span>
-  <div class="search-input-container">
-    <input autocomplete="off" autocapitalize="off" maxlength="80"
-           placeholder="搜索..." spellcheck="false"
-           type="search" class="search-input">
-  </div>
-  <span class="popup-btn-close" role="button">
-    <i class="fa fa-times-circle"></i>
-  </span>
-</div>
-<div class="search-result-container no-result">
-  <div class="search-result-icon">
-    <i class="fa fa-spinner fa-pulse fa-5x"></i>
-  </div>
-</div>
-
-    </div>
-  </div>
-
-</div>
-        
-  
-  <div class="toggle sidebar-toggle" role="button">
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-  </div>
-
-  <aside class="sidebar">
-
-    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
-      <ul class="sidebar-nav">
-        <li class="sidebar-nav-toc">
-          文章目录
-        </li>
-        <li class="sidebar-nav-overview">
-          站点概览
-        </li>
-      </ul>
-
-      <div class="sidebar-panel-container">
-        <!--noindex-->
-        <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#KnowAll"><span class="nav-number">1.</span> <span class="nav-text">KnowAll</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#WikiPress"><span class="nav-number">2.</span> <span class="nav-text">WikiPress</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#KnowHow"><span class="nav-number">3.</span> <span class="nav-text">KnowHow</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Docly"><span class="nav-number">4.</span> <span class="nav-text">Docly</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Manual"><span class="nav-number">5.</span> <span class="nav-text">Manual</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Heroic-Knowledge-Base"><span class="nav-number">6.</span> <span class="nav-text">Heroic Knowledge Base</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Docy"><span class="nav-number">7.</span> <span class="nav-text">Docy</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Lore"><span class="nav-number">8.</span> <span class="nav-text">Lore</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Tikidocs"><span class="nav-number">9.</span> <span class="nav-text">Tikidocs</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#InfoCenter"><span class="nav-number">10.</span> <span class="nav-text">InfoCenter</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Wikb"><span class="nav-number">11.</span> <span class="nav-text">Wikb</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#BetterDocs"><span class="nav-number">12.</span> <span class="nav-text">BetterDocs</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#MyWiki"><span class="nav-number">13.</span> <span class="nav-text">MyWiki</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#weDocs"><span class="nav-number">14.</span> <span class="nav-text">weDocs</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Echo-Knowledge-Base"><span class="nav-number">15.</span> <span class="nav-text">Echo Knowledge Base</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%8F%82%E8%80%83"><span class="nav-number">16.</span> <span class="nav-text">参考</span></a></li></ol></div>
-        </div>
-        <!--/noindex-->
-
-        <div class="site-overview-wrap sidebar-panel">
-          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
-      src="/images/lu_avatar_04.jpeg">
-  <p class="site-author-name" itemprop="name">Rudy Lo</p>
-  <div class="site-description" itemprop="description">阿基米东的网络日志</div>
-</div>
-<div class="site-state-wrap site-overview-item animated">
-  <nav class="site-state">
-      <div class="site-state-item site-state-posts">
-          <a href="/archives/">
-        
-          <span class="site-state-item-count">295</span>
-          <span class="site-state-item-name">日志</span>
-        </a>
-      </div>
-      <div class="site-state-item site-state-categories">
-            <a href="/categories/">
-          
-        <span class="site-state-item-count">35</span>
-        <span class="site-state-item-name">分类</span></a>
-      </div>
-      <div class="site-state-item site-state-tags">
-            <a href="/tags/">
-          
-        <span class="site-state-item-count">80</span>
-        <span class="site-state-item-name">标签</span></a>
-      </div>
-  </nav>
-</div>
-  <div class="links-of-author site-overview-item animated">
-      <span class="links-of-author-item">
-        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://gitee.com/luhuadong" title="Gitee → https:&#x2F;&#x2F;gitee.com&#x2F;luhuadong" rel="noopener" target="_blank">Gitee</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.douban.com/group/730047/" title="豆瓣 → https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;" rel="noopener" target="_blank">豆瓣</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://zerotogether.net/" title="零废弃部落 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零废弃部落</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
-      </span>
-  </div>
-  <div class="cc-license site-overview-item animated" itemprop="license">
-    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
-  </div>
-
-
-
-        </div>
-      </div>
-    </div>
-  </aside>
-  <div class="sidebar-dimmer"></div>
-
-
-    </header>
-
-    
-  <div class="back-to-top" role="button">
-    <i class="fa fa-arrow-up"></i>
-    <span>0%</span>
-  </div>
-
-<noscript>
-  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
-</noscript>
-
-
-    <div class="main-inner post posts-expand">
-
-
-  
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/wordpress/best-wordpress-wiki-themes.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
-          WordPress 的 WiKi 知识库主题
-        </h1>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2022-01-25 14:20:32" itemprop="dateCreated datePublished" datetime="2022-01-25T14:20:32+08:00">2022-01-25</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAWordPress%E7%BD%91%E7%AB%99/" itemprop="url" rel="index"><span itemprop="name">如何搭建WordPress网站</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-        <p>WordPress 适合做内容管理网站，为了做出像 Wikipedia 那样的风格来展示网页内容，就需要主题的配合。本文列举一些也许适合你的 WordPress Wiki 类型主题，帮助你搭建自己的知识库！</p>
-<h2 id="KnowAll"><a href="#KnowAll" class="headerlink" title="KnowAll"></a>KnowAll</h2><p>KnowAll 是一个灵活的 WordPress 知识库和 wiki 主题，具有内置功能，可帮助访问者找到他们正在寻找的确切信息。你可以使用它来创建一个完整的知识库。</p>
-<p><img src="/images/wordpress/wp-theme-KnowAll.png"></p>
-<p>KnowAll 是一个高端主题。它在单个网站上的使用价格为149美元，并提供一年的支持和更新，但如果你想访问搜索分析和文章反馈功能，你就需要购买199美元的版本。</p>
-<ul>
-<li><a target="_blank" rel="noopener" href="https://herothemes.com/themes/knowall-wordpress-knowledge-base/">项目主页</a></li>
-<li><a target="_blank" rel="noopener" href="https://demo.herothemes.com/knowall/">示例 Demo</a></li>
-</ul>
-<h2 id="WikiPress"><a href="#WikiPress" class="headerlink" title="WikiPress"></a>WikiPress</h2><p>WikiPress 是一个专用的 WordPress wiki 主题，具有干净、响应式的布局。该主题的左侧有一个侧边栏，它会自动在按类别组织的折叠手风琴部分中显示你的所有内容。另外，顶部还有一个实时搜索框。</p>
-<p>这个主题最有趣的地方在于，以真正的 wiki 方式，它允许人们使用常规的 WordPress 编辑器从前端添加、编辑和管理内容。</p>
-<p><img src="/images/wordpress/wp-theme-wikipress.png"></p>
-<p>WikiPress 是一个优质的 WordPress 主题。一年的支持和更新费用为 99 美元。第一年后，你可以以每年 49.50 美元的折扣价续订以继续获得支持和更新。</p>
-<ul>
-<li><a href="">项目主页</a></li>
-<li><a href="">示例 Demo</a></li>
-</ul>
-<h2 id="KnowHow"><a href="#KnowHow" class="headerlink" title="KnowHow"></a>KnowHow</h2><p>KnowHow 是另一个灵活的 WordPress 知识库和 wiki 主题。它可以帮助你添加不同主题的文章并将它们组织成易于搜索的类别。访问者还可以利用即时搜索建议更快地找到内容。</p>
-<p><img src="/images/wordpress/wp-theme-knowhow.png"></p>
-<p>KnowHow 是一个高级主题，售价 59 美元。它是通过 ThemeForest 出售的，这意味着你的购买可以让你访问单个站点的终身更新和六个月的支持。</p>
-<ul>
-<li><a target="_blank" rel="noopener" href="https://themeforest.net/item/knowhow-a-knowledge-base-wordpress-theme/2813111">项目主页</a></li>
-<li><a target="_blank" rel="noopener" href="https://demo.herothemes.com/#knowhow">示例 Demo</a></li>
-</ul>
-<h2 id="Docly"><a href="#Docly" class="headerlink" title="Docly"></a>Docly</h2><p>顾名思义，Docly 是一个致力于帮助您创建文档和 wiki 网站的主题。你可以将它用于任何类型的文档、wiki、知识库等。</p>
-<p>一个独特的功能是它带有一个集成的支持论坛。因此，如果你想创建一个 wiki 并允许公开讨论，那么这个可能是一个不错的选择。</p>
-<p><img src="/images/wordpress/wp-theme-Docly.png"></p>
-<p>Docly 是一个高级主题。ThemeForest 售价 59 美元，可让你访问单个站点的终身更新和六个月的支持。</p>
-<ul>
-<li><a target="_blank" rel="noopener" href="https://themeforest.net/item/docly-documentation-and-knowledge-base-wordpress-theme/26885280">项目主页</a></li>
-<li><a target="_blank" rel="noopener" href="https://wordpress-theme.spider-themes.net/docly/">示例 Demo</a></li>
-</ul>
-<h2 id="Manual"><a href="#Manual" class="headerlink" title="Manual"></a>Manual</h2><p>与其他 wiki 主题一样，Manual 是另一种通用选项，可用于 wiki 站点、知识库，并且通常只显示任何类型的文档。</p>
-<p>与 Docly 一样，如果你想将讨论论坛添加到你的 wiki，它还与流行的 bbPress 插件集成。</p>
-<p><img src="/images/wordpress/wp-theme-manual.png"></p>
-<p>Manual 是 ThemeForest 提供的高级主题。与其他 ThemeForest 主题一样，它的价格为 59 美元，并为您提供单个站点的终身更新和六个月的支持。</p>
-<ul>
-<li><a target="_blank" rel="noopener" href="https://themeforest.net/item/manual-multipurpose-online-documentation-creative-wordpress-theme/12997044">项目主页</a></li>
-<li><a target="_blank" rel="noopener" href="http://demo.wpsmartapps.com/themes/manual/documentations/">示例 Demo</a></li>
-</ul>
-<h2 id="Heroic-Knowledge-Base"><a href="#Heroic-Knowledge-Base" class="headerlink" title="Heroic Knowledge Base"></a>Heroic Knowledge Base</h2><p>Heroic Knowledge Base 为你的站点添加了创建功能齐全的知识库所需的所有功能。通过选择此插件，你可以使用任何你喜欢的 WordPress 主题来构建你的在线支持资源。</p>
-<p><img src="/images/wordpress/wp-theme-heroickb.png"></p>
-<ul>
-<li><a target="_blank" rel="noopener" href="https://herothemes.com/plugins/heroic-wordpress-knowledge-base/">项目主页</a></li>
-<li><a target="_blank" rel="noopener" href="https://heroickb.herothemes.com/">示例 Demo</a></li>
-</ul>
-<h2 id="Docy"><a href="#Docy" class="headerlink" title="Docy"></a>Docy</h2><p>Docy 是一个功能强大、响应迅速且高性能的在线文档 WordPress 主题，可以帮助你快速开发下一个产品的文档。你可以有效地创建文档以记录 API、框架、插件、软件、模板、任何类型的产品。它包含许多元素，使你的文档具有交互性和效率。这个主题是完全响应和移动友好的。</p>
-<p><img src="/images/wordpress/wp-theme-docy.png"></p>
-<ul>
-<li><a target="_blank" rel="noopener" href="https://themeforest.net/item/docy-documentation-and-forum-wordpress-theme/31370838">项目主页</a></li>
-<li><a target="_blank" rel="noopener" href="https://wordpress-theme.spider-themes.net/docy/">示例 Demo</a></li>
-</ul>
-<h2 id="Lore"><a href="#Lore" class="headerlink" title="Lore"></a>Lore</h2><p>Lore 是一个轻量级主题，旨在帮助你使用 WordPress 启动一个快速加载的知识库网站。</p>
-<p><img src="/images/wordpress/wp-theme-lore.png"></p>
-<ul>
-<li><a target="_blank" rel="noopener" href="https://themeforest.net/item/lore-elegant-knowledge-base-wordpress-theme/16965024">项目主页</a></li>
-<li><a target="_blank" rel="noopener" href="https://preview.themeforest.net/item/lore-elegant-knowledge-base-wordpress-theme/full_screen_preview/16965024">示例 Demo</a></li>
-</ul>
-<h2 id="Tikidocs"><a href="#Tikidocs" class="headerlink" title="Tikidocs"></a>Tikidocs</h2><p>Tikidocs 是另一个时尚的知识库和支持论坛 WordPress 主题，具有一些强大的功能。</p>
-<p><img src="/images/wordpress/wp-theme-Tikidocs.png"></p>
-<ul>
-<li><a target="_blank" rel="noopener" href="https://themeforest.net/item/tikidocs-knowledgebase-support-forum-wordpress-theme/22497559">项目主页</a></li>
-<li><a target="_blank" rel="noopener" href="https://preview.themeforest.net/item/tikidocs-knowledgebase-support-forum-wordpress-theme/full_screen_preview/22497559">示例 Demo</a></li>
-</ul>
-<h2 id="InfoCenter"><a href="#InfoCenter" class="headerlink" title="InfoCenter"></a>InfoCenter</h2><p>InfoCenter 非常适合使用 WordPress 创建知识库和问答网站。</p>
-<p><img src="/images/wordpress/wp-theme-infocenter.png"></p>
-<ul>
-<li><a target="_blank" rel="noopener" href="https://themeforest.net/item/infocenter-knowledge-base-and-qa-wordpress-theme/19488071">项目主页</a></li>
-<li><a target="_blank" rel="noopener" href="https://fluentthemes.com/wp/knowledge/">示例 Demo</a></li>
-</ul>
-<h2 id="Wikb"><a href="#Wikb" class="headerlink" title="Wikb"></a>Wikb</h2><p>Wikb 旨在帮助你使用 WordPress 启动知识库和帮助台网站。</p>
-<p>如果你的客户或用户在使用你的产品或服务时需要支持，那么 Wikb 主题就是为你而构建的。Wikb 主题也适用于设置在线空间，你可以在其中发布内容以帮助你的员工、社区或任何其他人群。</p>
-<p>Wikb 模板的设计非常适合此类产品。整体风格严肃而热情，让你的访问者清楚地知道他们可以信任你发布的信息，同时仍然对你的网站感到宾至如归。由于所有模板都具有非常现代的设计，因此你使用 Wikb 创建的任何网站都应该对你的品牌产生积极影响。</p>
-<p><img src="/images/wordpress/wp-theme-wikb.png"></p>
-<ul>
-<li><a target="_blank" rel="noopener" href="https://themeforest.net/item/wikb-knowledgebase-help-desk-wp-theme/24095122">项目主页</a></li>
-<li><a target="_blank" rel="noopener" href="https://preview.themeforest.net/item/wikb-knowledgebase-help-desk-wp-theme/full_screen_preview/24095122">示例 Demo</a></li>
-</ul>
-<h2 id="BetterDocs"><a href="#BetterDocs" class="headerlink" title="BetterDocs"></a>BetterDocs</h2><p><a target="_blank" rel="noopener" href="https://betterdocs.co/zh/">https://betterdocs.co/zh/</a></p>
-<h2 id="MyWiki"><a href="#MyWiki" class="headerlink" title="MyWiki"></a>MyWiki</h2><h2 id="weDocs"><a href="#weDocs" class="headerlink" title="weDocs"></a>weDocs</h2><p>这个免费的WordPress wiki插件提供了一个简单的解决方案来创建和管理知识库文章和文档页面。与此列表中的其他WordPress插件类似，用户可以使用拖放功能对文章进行分类和重新排列。</p>
-<p>此外，它还具有用于文档搜索和目录的专用小部件。</p>
-<p>weDocs的界面让用户可以在一个屏幕上管理所有的wiki文档。这个免费插件不提供模板，而是与最流行的WordPress主题无缝集成。</p>
-<p>此外，它从外部站点导入文档，以便用户可以利用现有文档创建知识库。</p>
-<p>此外，weDocs还为知识库提供了内置的电子邮件回复系统。它允许网站访问者提供有关内容的反馈，让支持团队和其他管理员深入了解如何改进他们的WordPress网站。</p>
-<ul>
-<li><a target="_blank" rel="noopener" href="https://wedocs.co/docs/wedocs/getting-started/?utm_source=wporg&utm_medium=readme&utm_campaign=docs">Documentation</a></li>
-<li><a target="_blank" rel="noopener" href="https://github.com/tareq1988/wedocs-plugin/">Github</a></li>
-</ul>
-<h2 id="Echo-Knowledge-Base"><a href="#Echo-Knowledge-Base" class="headerlink" title="Echo Knowledge Base"></a>Echo Knowledge Base</h2><p>该插件提供26种预制和响应式设计，适用于任何WordPress主题。它具有粘性目录，这意味着它会在读者滚动时保留在文章的一侧。</p>
-<p>如果您想在不浏览不同设置的情况下使用此WordPress插件，设置向导将帮助您立即创建知识库。</p>
-<p>创建一些文章和类别后，您可以按字母顺序或时间顺序对它们进行排序，添加标签、面包屑、后退按钮和评论。此外，Echo包括一个自动生成的目录。</p>
-<p>此外，该插件针对最佳SEO结果进行了编码，这对于所有专注于通过其知识库内容提高在线知名度的网站所有者非常有帮助。</p>
-<p>这个WordPress wiki插件带有三个布局选项——基本、选项卡和以类别为中心。它还有一个可视化布局编辑器，允许用户修改颜色、标签、字体和样式，并预览所有更改。</p>
-<p>Echo知识库的 Pro 版高级功能包括一个访问管理器，用于控制哪些用户可以创建或阅读文章、文章评级和站点访问者的反馈等。计划起价为46美元/年。</p>
-<ul>
-<li><a target="_blank" rel="noopener" href="https://www.echoknowledgebase.com/demo-1-knowledge-base-basic-layout/">Demo</a></li>
-</ul>
-<h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><ul>
-<li><a target="_blank" rel="noopener" href="https://herothemes.com/blog/best-wordpress-wiki-themes/">5 Best WordPress Wiki Themes in 2021</a></li>
-<li><a target="_blank" rel="noopener" href="https://athemes.com/collections/best-knowledge-base-wiki-wordpress-themes/">10 Best Knowledge Base &amp; Wiki WordPress Themes 2022</a></li>
-</ul>
-
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-          <div class="reward-container">
-  <div>您的鼓励是我最大的动力！</div>
-  <button onclick="document.querySelector('.post-reward').classList.toggle('active');">
-    赞赏
-  </button>
-  <div class="post-reward">
-      <div>
-        <img src="/images/wechatpay.jpeg" alt="Rudy Lo 微信">
-        <span>微信</span>
-      </div>
-      <div>
-        <img src="/images/alipay.jpeg" alt="Rudy Lo 支付宝">
-        <span>支付宝</span>
-      </div>
-
-  </div>
-</div>
-
-          
-
-<div class="post-copyright">
-<ul>
-  <li class="post-copyright-author">
-      <strong>本文作者： </strong>Rudy Lo
-  </li>
-  <li class="post-copyright-link">
-      <strong>本文链接：</strong>
-      <a href="https://luhuadong.com/wordpress/best-wordpress-wiki-themes.html" title="WordPress 的 WiKi 知识库主题">https://luhuadong.com/wordpress/best-wordpress-wiki-themes.html</a>
-  </li>
-  <li class="post-copyright-license">
-    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
-  </li>
-</ul>
-</div>
-
-          <div class="post-tags">
-              <a href="/tags/WordPress/" rel="tag"># WordPress</a>
-          </div>
-
-        
-
-          <div class="post-nav">
-            <div class="post-nav-item">
-                <a href="/english/michael-levitt-chemistry.html" rel="prev" title="【英语演说】迈克尔·莱维特：我为“化学”正名">
-                  <i class="fa fa-chevron-left"></i> 【英语演说】迈克尔·莱维特：我为“化学”正名
-                </a>
-            </div>
-            <div class="post-nav-item">
-                <a href="/journal/30-year-old-summary.html" rel="next" title="一觉醒来，喜提我的30岁">
-                  一觉醒来，喜提我的30岁 <i class="fa fa-chevron-right"></i>
-                </a>
-            </div>
-          </div>
-    </footer>
-  </article>
-</div>
-
-
-
-
-
-
-    
-  
-  <div class="comments">
-    <script src="https://giscus.app/client.js"
-        data-repo="luhuadong/blog" 
-        data-repo-id="MDEwOlJlcG9zaXRvcnkzNDEzOTU5NzQ=" 
-        data-category="General"
-        data-category-id="DIC_kwDOFFlKBs4CSTqq"
-        data-mapping="pathname" 
-        data-reactions-enabled="1" 
-        data-emit-metadata="1" 
-        data-theme="light"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        data-input-position="bottom"
-        data-loading="lazy"
-        async>
-    </script>
-  </div>
-  
-  
-
-<script>
-  window.addEventListener('tabs:register', () => {
-    let { activeClass } = CONFIG.comments;
-    if (CONFIG.comments.storage) {
-      activeClass = localStorage.getItem('comments_active') || activeClass;
-    }
-    if (activeClass) {
-      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
-      if (activeTab) {
-        activeTab.click();
-      }
-    }
-  });
-  if (CONFIG.comments.storage) {
-    window.addEventListener('tabs:click', event => {
-      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
-      const commentClass = event.target.classList[1];
-      localStorage.setItem('comments_active', commentClass);
-    });
-  }
-</script>
-</div>
-  </main>
-
-  <footer class="footer">
-    <div class="footer-inner">
-
-
-<div class="copyright">
-  &copy; 
-  <span itemprop="copyrightYear">2023</span>
-  <span class="with-love">
-    <i class="fa fa-heart"></i>
-  </span>
-  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
-</div>
-  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
-  </div>
-
-    </div>
-  </footer>
-
-  
-  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
-
-  
-<script src="/js/local-search.js"></script>
-
-
-
-
-
-
-  
-
-
-
-
-  <script>
-  if (typeof MathJax === 'undefined') {
-    window.MathJax = {
-      tex: {
-        inlineMath: {'[+]': [['$', '$']]},
-        tags: 'none'
-      },
-      options: {
-        renderActions: {
-          insertedScript: [200, () => {
-            document.querySelectorAll('mjx-container').forEach(node => {
-              const target = node.parentNode;
-              if (target.nodeName.toLowerCase() === 'li') {
-                target.parentNode.classList.add('has-jax');
-              }
-            });
-          }, '', false]
-        }
-      }
-    };
-    const script = document.createElement('script');
-    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
-    script.defer = true;
-    document.head.appendChild(script);
-  } else {
-    MathJax.startup.document.state(0);
-    MathJax.typesetClear();
-    MathJax.texReset();
-    MathJax.typeset();
-  }
-</script>
-
 
 
 </body>

@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>成为自由人 • Posts by &#34;物联网&#34; tag</title>
+        <link>https://luhuadong.com</link>
+        <description>阿基米东的网络日志</description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 26 Sep 2016 23:52:30 +0800</pubDate>
+        <lastBuildDate>Mon, 26 Sep 2016 23:52:30 +0800</lastBuildDate>
+        <category>商业</category>
+        <category>成长</category>
+        <category>日记</category>
+        <category>创业</category>
+        <category>家居</category>
+        <category>互联网</category>
+        <category>读书笔记</category>
+        <category>工程师</category>
+        <category>爱</category>
+        <category>名言</category>
+        <category>奋斗</category>
+        <category>信息世界</category>
+        <category>管理</category>
+        <category>程序员</category>
+        <category>职场</category>
+        <category>人生</category>
+        <category>物联网</category>
+        <category>城市规划</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
+        <category>创客</category>
+        <category>比赛</category>
+        <category>科技向善</category>
+        <category>英语</category>
+        <category>学习</category>
+        <category>环保</category>
+        <category>碳中和</category>
+        <category>种植</category>
+        <category>健身</category>
+        <category>地理</category>
+        <category>城市</category>
+        <category>气象爱好者</category>
+        <category>指南</category>
+        <category>自律</category>
+        <category>思维</category>
+        <category>健康</category>
+        <category>Hexo</category>
+        <category>科普</category>
+        <category>可持续</category>
+        <category>能源</category>
+        <category>职业</category>
+        <category>时间管理</category>
+        <category>工作</category>
+        <category>总结</category>
+        <category>慈济</category>
+        <category>RT-Thread</category>
+        <category>开源</category>
+        <category>思考</category>
+        <category>生活</category>
+        <category>猫</category>
+        <category>幸福</category>
+        <category>修身</category>
+        <category>写书</category>
+        <category>milestone</category>
+        <category>地铁</category>
+        <category>Markdown</category>
+        <category>计划</category>
+        <category>股票</category>
+        <category>理财</category>
+        <category>投资</category>
+        <category>财富</category>
+        <category>保险</category>
+        <category>纪录片</category>
+        <category>自由</category>
+        <category>电影</category>
+        <category>TED演讲</category>
+        <category>时间</category>
+        <category>心理学</category>
+        <category>无线电爱好者</category>
+        <category>亲密关系</category>
+        <category>农业</category>
+        <category>游泳</category>
+        <category>励志</category>
+        <category>演讲</category>
+        <category>蔬食</category>
+        <category>电台主播</category>
+        <category>WordPress</category>
+        <category>垃圾分类</category>
+        <category>零废弃</category>
+        <category>低碳</category>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/career/the-transformation-of-embedded-engineers-under-iot.html</guid>
+            <title>论物联网浪潮下嵌入式工程师的转型</title>
+            <link>https://luhuadong.com/career/the-transformation-of-embedded-engineers-under-iot.html</link>
+            <category>程序员</category>
+            <category>职场</category>
+            <category>物联网</category>
+            <pubDate>Mon, 26 Sep 2016 23:52:30 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;这个时代，大家都在谈转型，今天我们也来说说嵌入式工程师的转型！&lt;/p&gt;
+&lt;p&gt;虽然嵌入式系统已经有 30 多年的历史，但是原来一直是隐藏在背后的，自从物联网上升为国家战略后，嵌入式系统也从后台走到前台，成为备受瞩目的一部分。&lt;/p&gt;
+&lt;p&gt;虽然很多学者和业界人士都意识到，嵌入式系统将会迎来前所未有的发展机遇，但是嵌入式工程师必须认识到，随着时代变迁，我们自身的意识也要跟着进步。原来的嵌入式系统是孤立在一个个产品中的独立系统，而如今在物联网时代，这些独立的系统要连接成一个大网，安全性和可靠性都上升到一个新的高度。&lt;/p&gt;
+&lt;p&gt;不仅如此，嵌入式工程师的关注角度也不能再仅仅局限于技术、产品，而应该树立广义的服务意识，站在更高的角度上统筹嵌入式系统能够给物联网带来哪些服务！&lt;/p&gt;
+&lt;p&gt;那么，我们该如何看待嵌入式工程师的转型问题呢？&lt;/p&gt;
+&lt;p&gt;我想这里讨论的嵌入式工程师转型问题，并不是讨论嵌入式工程师应该如何进行职业规划，如何从初级工程师走到技术主管、产品经理、系统架构师等等。而是讨论在物联网的大环境下，嵌入式工程师应该如何迎接挑战、把握机遇。那么简单说一下我的看法，希望没有跑题吧。&lt;/p&gt;
+&lt;p&gt;我认为近年来嵌入式培训的火热，并不能说明社会对嵌入式工程师的需求激增，而是表明我们的生活已经离不开计算机技术，社会需要更多真正懂计算机技术的人。正如前文所述，随着时代的变迁，嵌入式走到了前台，传统的嵌入式概念也得到了延伸。了解时下最火的科技名词，如 3D 打印、无人机、VR、机器人、人工智能、工业 4.0 等，可以知道相比于传统嵌入式，如今的嵌入式开发需要更强的控制器、更大的 RAM、更快更安全的网络性能，同时需要结合传感器和云计算技术。显然，对嵌入式工程师的要求更高了，类似于制造业产业升级，我们嵌入式工程师也要升级！&lt;/p&gt;
+&lt;p&gt;一个永恒的主题是学习，不管处于哪个层级都要不断学习才能紧跟时代步伐。由于篇幅有限，这里就不讨论技术本身了，但我想说一下开源。如今的世界是开放的，软件的开源运动所造成的影响不容忽视，嵌入式工程师在开发产品时不可能像以前一样封闭了，所以我们一定要积极融入开源社区，以开放的态度去学习。正所谓海纳百川，有容乃大。另外，由于知识的爆炸性增长，嵌入式工程师需要重视对知识的管理，所谓好记性不如烂笔头，多写技术博客有利于总结经验、提高开发速度。同时由于开发模式的转变，如今的嵌入式开发是模块化的开发，会更便捷、更注重成本和用户体验，所以嵌入式工程师应该提高服务意识，不能只考虑技术问题，要多从客户、用户角度思考问题。&lt;/p&gt;
+&lt;p&gt;我曾想，以后会不会出现以服务为核心竞争力的科技企业呢？&lt;/p&gt;
+&lt;p&gt;最后，机遇与挑战并存的今天，嵌入式工程师应该多实践、多思考、多交流，但也不能在浪潮中迷失自我，还是需要花点时间沉淀下来，用心做好对社会有价值的产品。&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

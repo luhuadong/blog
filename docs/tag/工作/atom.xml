@@ -1,0 +1,509 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://luhuadong.com</id>
+    <title>成为自由人 • Posts by &#34;工作&#34; tag</title>
+    <link href="https://luhuadong.com" />
+    <updated>2021-09-20T13:59:43.000Z</updated>
+    <category term="商业" />
+    <category term="成长" />
+    <category term="日记" />
+    <category term="创业" />
+    <category term="家居" />
+    <category term="互联网" />
+    <category term="读书笔记" />
+    <category term="工程师" />
+    <category term="爱" />
+    <category term="名言" />
+    <category term="奋斗" />
+    <category term="信息世界" />
+    <category term="管理" />
+    <category term="程序员" />
+    <category term="职场" />
+    <category term="人生" />
+    <category term="物联网" />
+    <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
+    <category term="创客" />
+    <category term="比赛" />
+    <category term="科技向善" />
+    <category term="英语" />
+    <category term="学习" />
+    <category term="环保" />
+    <category term="碳中和" />
+    <category term="种植" />
+    <category term="健身" />
+    <category term="地理" />
+    <category term="城市" />
+    <category term="气象爱好者" />
+    <category term="指南" />
+    <category term="自律" />
+    <category term="思维" />
+    <category term="健康" />
+    <category term="Hexo" />
+    <category term="科普" />
+    <category term="可持续" />
+    <category term="能源" />
+    <category term="职业" />
+    <category term="时间管理" />
+    <category term="工作" />
+    <category term="总结" />
+    <category term="慈济" />
+    <category term="RT-Thread" />
+    <category term="开源" />
+    <category term="思考" />
+    <category term="生活" />
+    <category term="猫" />
+    <category term="幸福" />
+    <category term="修身" />
+    <category term="写书" />
+    <category term="milestone" />
+    <category term="地铁" />
+    <category term="Markdown" />
+    <category term="计划" />
+    <category term="股票" />
+    <category term="理财" />
+    <category term="投资" />
+    <category term="财富" />
+    <category term="保险" />
+    <category term="纪录片" />
+    <category term="自由" />
+    <category term="电影" />
+    <category term="TED演讲" />
+    <category term="时间" />
+    <category term="心理学" />
+    <category term="无线电爱好者" />
+    <category term="亲密关系" />
+    <category term="农业" />
+    <category term="游泳" />
+    <category term="励志" />
+    <category term="演讲" />
+    <category term="蔬食" />
+    <category term="电台主播" />
+    <category term="WordPress" />
+    <category term="垃圾分类" />
+    <category term="零废弃" />
+    <category term="低碳" />
+    <entry>
+        <id>https://luhuadong.com/journal/2021-resignation-summary-and-plan.html</id>
+        <title>2021离职总结与计划</title>
+        <link rel="alternate" href="https://luhuadong.com/journal/2021-resignation-summary-and-plan.html"/>
+        <content type="html">&lt;p&gt;从 2021 年 1 月 18 日入职，到 9 月 17 日离职，刚好 8 个月时间。&lt;/p&gt;
+&lt;p&gt;这是一家环保物联网公司，公司不大，但已深耕环保监测领域十多年，值得来学习一番。&lt;/p&gt;
+&lt;img data-src=&#34;/images/journal/20210917_bocon.jpeg&#34; width=600 /&gt;
+&lt;p&gt;入职的岗位是 “Linux 驱动工程师”，其实还是蛮期待的，因为可以从底层开始研究一款产品，在开发和维护 BSP 的过程中能看到许多细节。在后期还参与了几个应用模块的开发，包括设备抽象层、平台上报层、OTA 远程升级等。逐渐对环保数采仪有了深入的了解，一部分原因就得益于 “驱动 - 应用 - 平台 - 前端” 整个链路的打通。&lt;/p&gt;
+&lt;p&gt;整体来看，环保数采仪的组成结构并不复杂，其核心就是 “数据采集、存储和上报”。因此数据的准确性是至关重要的，所以我们时常调侃自己在 “面向监狱编程”，因为这些数据可作为环保执法的证据。就像现在特别火的 “碳中和” 一样，它的基础就是 “碳核算”，也就是如何计算碳排放量的问题。不同的是，环境数据采集通常是瞬时的值，例如污染物浓度，而碳数据采集的则是总的碳排放量，并且是换算成二氧化碳当量来统计的。&lt;/p&gt;
+&lt;p&gt;其实是一份蛮不错的工作，对不对？我也是这么认为的，一方面工作经验能有不错的衔接，有利于职业发展；另一方面 “环保 + 物联网” 也是我感兴趣的方向，是了解环保行业的一个很好地切入点。&lt;/p&gt;
+&lt;p&gt;不过，工作一段时间之后还是作出了辞职的决定。有很多方面的因素，包括公司地点比较偏远，生活不是很便利；前段时间分手后状态起起伏伏，有时候难以静下心来工作；半年时间其实也学习到许多东西，比如产品架构、功能、代码框架等等，但继续做下去的话，坑比较多，学习速度也会变慢。更重要的是，我时常关注环保可持续领域的动态，我认为现在是一个不错的机遇，我不想再做一名看客了，我想做一份自己的事业，对人类有益的事业，我想验证我设想的项目，而且我觉得它不比现在的许多创业项目差，关键是 —— 我已经迫不及待、摩拳擦掌、热血难凉了！与其内心百般煎熬，不如痛痛快快地去追逐梦想！&lt;/p&gt;
+&lt;img data-src=&#34;/images/journal/20210918_nansha.jpeg&#34; width=600 /&gt;
+&lt;p&gt;这份煎熬，其实从我上一份在国企上班时就开始了，我在那里待了四年零五个月，兢兢业业地干，却实现不了我自己的价值。我有梦想，可是我没法跟身边的同事分享，每天都过得小心翼翼的，就像一台木有感情的赚钱机器一样。我意识到，我需要离开，我要做一点自己的事情！&lt;/p&gt;
+&lt;p&gt;但是我发现，我要顾虑的东西太多了。没有家庭的依靠，一切都要靠自己，还要考虑父母的养老问题。而且前几年由于在老家买了房和其他一些失败的投资，导致目前手上可用的现金不多。每每这个时候，心里总是有另一个声音，要不再坚持几年，争取更高的工资收入，多攒点钱再说…&lt;/p&gt;
+&lt;p&gt;最后，我还是听从了内心更大的一个声音 —— 勇敢地辞职、创业，体会不一样的人生。&lt;/p&gt;
+&lt;p&gt;“创业” 这个词现在对我来说还是有点重，我更喜欢称辞职后的这段时间（估计有三、五个月）为过渡期。好好休息一下，好好整理一下，好好准备一下。&lt;/p&gt;
+&lt;p&gt;下面是接下来计划要做的事（按先后顺序）：&lt;/p&gt;
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_0&#34; checked=&#34;true&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_0&#34;&gt; 完成《从端到云搭建物联网系统》书稿；&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_1&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_1&#34;&gt; 完成《基于树莓派的 Yocto 最佳实践》书稿；&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_2&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_2&#34;&gt; 整理 getiot.tech 网站教程，发布正式版本，并赚取 1 美元广告收入；&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_3&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_3&#34;&gt; 把想看又还没看的书看完；（人生需要暂停一下，填补知识盲区 (๑・̀ㅂ・́)و✧）&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_4&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_4&#34;&gt; 整理 &lt;a href=&#34;http://luhuadong.com&#34;&gt;luhuadong.com&lt;/a&gt; 个人网站；&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_5&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_5&#34;&gt; 探索 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3plcm90b2dldGhlci5uZXQ=&#34;&gt;zerotogether.net&lt;/span&gt; 网站的发展方向；&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_6&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_6&#34;&gt; 制作 “零聚地图” App 原型；&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_7&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_7&#34;&gt; 制作堆肥机原型；&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_8&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_8&#34;&gt; 尝试做一名环保博主；&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_9&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_9&#34;&gt; 部署 “科庭家居” 管理系统。&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;本来上述列表中有一项是 “多陪伴家人”，但是现在正值中秋，回家两天后发现家人目前其实也不太需要我的陪伴，所以还是先做好自己的事吧！抽空教一下表弟表妹外甥打球、学习，看一下父母、外公外婆那边有什么需要帮忙的就可以了。&lt;/p&gt;
+&lt;p&gt;这次回家，最大的感受是家里对我的吐槽少了，关心多了。可能是担心我这位 “大龄单身失业男青年” 吧，其实我也焦虑啊，我也想结婚，可是目前的状态来看，哪怕结婚了，依然有许多问题没解决，不能很好地照顾家庭、陪伴孩子成长。所以，也许这就是我们这种出身普通的 “普通人” 绕不过的坎吧，还是要勇敢面对。这些年起起落落，经历的失败多了，我终于承认了我就是一个普通人。国泰民安的时候，做一份小而美的事业，国家需要的时候，能挺身而出。不也挺好的吗？&lt;/p&gt;
+&lt;p&gt;我会不会继续写代码？—— 会的。一方面，软件程序是非常有用的工具，低成本创业就要善用工具；另一方面，我也需要保持编写代码的能力，以防创业失败后还能找一份不错的工作养家糊口。7 年的开发经历，能够给我底气的是这些年培养起来的学习能力和解决问题的能力，还有非常重要的创客精神和开源精神。所以，不管我是否从事软件工作，我也会一直以开源极客的心态写代码，直到这个世界不需要我。&lt;/p&gt;
+&lt;p&gt;我会不会重新找工作？—— 我想也是会的，除非我自己的公司短期内得到快速发展。因为目前还在探索阶段，还没有稳定的商业模式，因此我会在把相关项目跑起来之后重新找工作，同时兼职运营项目。一方面，如果我的资金消耗过快而仍未盈利，我还需要继续积累原始资本；另一方面，我还想去包括小米、极飞、远景、奥北、多抓鱼等一些值得去学习的企业看看，接触真实的需求才能设计出好的产品。&lt;/p&gt;
+&lt;img data-src=&#34;/images/journal/20210916_basketball.jpeg&#34; width=480 /&gt;
+</content>
+        <category term="工作" />
+        <category term="总结" />
+        <updated>2021-09-20T13:59:43.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/journal/2020-year-end-summary.html</id>
+        <title>我的2020——一颗红心，两手准备</title>
+        <link rel="alternate" href="https://luhuadong.com/journal/2020-year-end-summary.html"/>
+        <content type="html">&lt;h2 id=&#34;今年做了什么&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#今年做了什么&#34;&gt;#&lt;/a&gt; 今年做了什么&lt;/h2&gt;
+&lt;h3 id=&#34;flag-验收&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#flag-验收&#34;&gt;#&lt;/a&gt; Flag 验收&lt;/h3&gt;
+&lt;p&gt;看回 &lt;a href=&#34;https://luhuadong.com/journal/2019-year-end-summary.html&#34;&gt;2019 年总结&lt;/a&gt;，又啪啪打脸了。。。果然计划赶不上变化，以后立 Flag 还是要慎重！&lt;/p&gt;
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_0&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_0&#34;&gt; 编制并出版一本书&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_1&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_1&#34;&gt; 设计并发布一个网站平台&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_2&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_2&#34;&gt; 做一个电台节目&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_3&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_3&#34;&gt; 去菲律宾读语言学校进修英语&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_4&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_4&#34;&gt; 考个无人机驾驶证（极飞农业无人机操作员考试）&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;先汇报一下：&lt;/p&gt;
+&lt;p&gt;之前构思了好多遍，要写一本关于 Linux 和物联网方面的书，于是在 Gitee 上用小号折腾了一年，还是没搞定！（希望在 2021 年 Q1 结束这场战斗）&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20201224181153379.png&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;不过倒是因为参与了《&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRlZS5jb20vZ2l0ZWUtY29tbXVuaXR5L29wZW5zb3VyY2UtZ3VpZGU=&#34;&gt;开源指北&lt;/span&gt;》的编写计划，算是共同协作出了一本电子书 (・-・*)&lt;/p&gt;
+&lt;p&gt;网站的话目前主要在维护两个，一个科技类的，一个人文类的。因为近期还要改版，所以暂时先不在这里公布了，等合适的时机再给大家宣传。&lt;/p&gt;
+&lt;p&gt;我自己喜欢听播客，所以老早就想我能不能做个电台节目给大家分享一下。但是由于懒… 内容定位也还没想好，所以迟迟没有落实下来，估计 2021 年也看不到了。不过因为参加硬禾学堂的 Funpack 活动，亲自出演拍了几个短视频，也算是在 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVJaNHkxVjdBSA==&#34;&gt;B 站&lt;/span&gt; 出道了～&lt;/p&gt;
+&lt;p&gt;然后因为疫情嘛，本来计划找时间去菲律宾语言学校进修一下，也被推迟了，2021 年再看看情况。不过今年一直有坚持在开言英语 App 上练习，也把抖音 App 训练成了英语学习神器，可以看到世界各地的情况，还蛮有用的。&lt;/p&gt;
+&lt;p&gt;无人机驾驶证这个被忽略了，之前想玩这个是因为家里是山区，想看看能不能将无人机跟当地的农业结合起来，促进当地经济发展，目前这个计划还得再搁置一下。&lt;/p&gt;
+&lt;p&gt;（ ￣ー￣）&lt;/p&gt;
+&lt;h3 id=&#34;工作回顾&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#工作回顾&#34;&gt;#&lt;/a&gt; 工作回顾&lt;/h3&gt;
+&lt;p&gt;好啦！给自己挖的坑汇报完了，接下来讲讲其他事。&lt;/p&gt;
+&lt;p&gt;先说工作吧，今年在公司维护几套老旧代码，改得也是没脾气，然后参与了基于 RK3399 的通信终端，整合了一套 Linux 系统，增加了软件包管理和升级功能，还把 RT-Thread 引入到公司产品中，然后终于在 2020 年最后一个月离职了。。。&lt;/p&gt;
+&lt;p&gt;因为各方面都遇到了瓶颈，也学不到新的东西了，对我来说这真是太可怕了。所以决定换个环境，给自己一个短 gap，希望未来的路走得更坚实。&lt;/p&gt;
+&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20201224181213523.png&#34; alt=&#34;在这里插入图片描述&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;另外，今年参加了两个比赛，一个是 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9odW9kb25nLjIxaWMuY29tL3J0LXRocmVhZA==&#34;&gt;RT-Thread 应用创新设计大赛&lt;/span&gt;，基于国产 AT32 芯片做了个空气质量监测系统，拿了个三等奖；另一个是 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVhaNHkxSzdhSA==&#34;&gt;STM32 创客秀&lt;/span&gt;，基于 STM32 NUCLEO 板做了几个节点，组成了一个分布式空气质量监测系统（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5mY3RjLWFpci5jbg==&#34;&gt;fctc-air.cn&lt;/span&gt;），拿了个二等奖。可以看到，两个参赛作品其实是基于不同硬件平台的同一套系统，所以业余时间参加两个比赛也可以应付过来。这个项目的初衷，是因为我本人对空气质量非常敏感，环境湿度太高、粉尘太多、二氧化碳浓度过高都会影响我的状态，所以我想做一个设备来实时监测环境中的空气质量，帮助我改善空气。后来觉得这个项目其实还是蛮有用的，就把它开源出来，搭建了后台服务器和微信小程序，希望可以变成一个民间的空气质量监测系统，帮助每一个了解当地的空气质量，提醒大家要保护环境。&lt;/p&gt;
+&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20201224181258322.png&#34; alt=&#34;在这里插入图片描述&#34; style=&#34;zoom:60%;&#34; /&gt;
+&lt;h3 id=&#34;rt-thread&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#rt-thread&#34;&gt;#&lt;/a&gt; RT-Thread&lt;/h3&gt;
+&lt;p&gt;今年在 RT-Thread 社区留下了浓重的一笔，首先是因为参加比赛嘛，用的系统平台就是 RT-Thread。以前做产品是基于某个 release 版本来增加自己的业务代码，改完就作为公司内部的代码来管理了，并不会与 RT-Thread 社区有过多接触。但是作为个人项目，我想着开发者还是应该用 master 分支跟社区保持同步，也在这个过程中慢慢地把自己修改的 BSP、组件和软件包提交给 RT-Thread 社区。当然在这个过程中会遇到很多问题，所以为了更方便与 RT-Thread 开发团队沟通，五月份的时候我就申请加入了 RT-Thread 社区工作小组。&lt;/p&gt;
+&lt;p&gt;后来因为贡献值较高，受邀参加了九月份 RT-Thread 的团建，在三亚浪了几天，体验了一直心心念念的潜水运动。同时也认识了 RT-Thread 的创始团队（熊大、邱祎、aozima、Leo、龙哥）和许多优秀的 RT-Thread 小伙伴，近距离了解到 RT-Thread 的团队氛围、社区运营、商业模式和发展规划。还是挺让人激动的！&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20201224181321867.jpeg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;十一月去上海参加 STM32 创客秀决赛，顺路去 RT-Thread 总部拜访了，跟龙哥、海靖聊了挺久的，学到很多东西。包括 RT-Thread 技术路线、行业发展方向、职业规划等等，这真是一个充满机遇与挑战的时代！我们要做的就是敢想敢干，保持前进！&lt;/p&gt;
+&lt;p&gt;2020 RT-Thread 年度开发者大会在深圳举行，我也受邀参加了，有幸跟各位大佬聚餐交流。和满老师、涛哥一起荣获 2020 RT-Thread 社区杰出贡献奖，非常开心～ 我知道社区里有许许多多优秀的开发者，也知道自己还有很多需要提升的地方，所以真的非常感谢社区伙伴的支持和 RT-Thread 团队的肯定。我会继续加油的，在为中国基础软件产业做贡献的同时提升自己，成就彼此。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20201224181352861.jpeg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;生活&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h3&gt;
+&lt;p&gt;这几年其实一直在寻找工作和生活之间的平衡，因为现在还没成家嘛，所以经常把工作和生活搅在一起，感觉每天都在工作学习的状态。跟家人团聚的时间蛮少的，也很少陪表弟表妹外甥侄女，成长阶段还是需要多点关心。所以还是蛮想让自己尽快成长起来，摆脱地理位置的约束，能够在发展事业的同时兼顾生活。&lt;/p&gt;
+&lt;p&gt;我的生活其实挺单调的，对我来说，打球、游泳、做家务就是休息。工作之余，其实我就是个体育迷，周末能看场球赛就很开心得不得了，不过有时候又觉得挺浪费时间的，毕竟自己已经离开体育圈了，还是要专注一点。不过今年学会了自由泳和棒球，也是很开心，以后有机会再慢慢解锁新运动技能吧。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/2020122418141990.jpeg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;今年疫情对普通老百姓的冲击挺大的，吸取前几年投资失败的教训，今年自己开始好好学习理财知识。不管广告做得多好，或者亲戚朋友推荐，都不要乱投资，不懂不投，钱的事情还是要自己看紧一点。跳出理工科的思维，发现从经济的角度看这个世界其实是挺有趣，可以看到一个更真实的世界。&lt;/p&gt;
+&lt;p&gt;还有，值得一提的是十月份参加了为其八周的 GoGreen! 可持续生活创变营，还参加了地球妈妈工作坊。认识了很多新朋友，学习了很多 IT 圈里没有的东西，也看到了许多不同的生活方式。所以，我想一定会有一种生活方式适合我，能够释放创造力、创造社会价值的同时让自己和家人好好生活。嗯，我要多点尝试，多点走出去寻找。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20201224181514425.jpg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;感觉 2020 年做了挺多事情的，但是总结起来又好像没做什么。。。还有很大进步空间！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;明年还要做什么&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#明年还要做什么&#34;&gt;#&lt;/a&gt; 明年还要做什么&lt;/h2&gt;
+&lt;h3 id=&#34;fctc-air&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#fctc-air&#34;&gt;#&lt;/a&gt; FCTC-Air&lt;/h3&gt;
+&lt;p&gt;完善 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2x1aHVhZG9uZy9mY3RjLWFpcg==&#34;&gt;FCTC-Air&lt;/span&gt; 分布式空气质量监测系统。让它变成一个可以学习物联网相关技术知识，同时也能真正帮助大家关注空气质量的开源项目。&lt;/p&gt;
+&lt;h3 id=&#34;开源&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#开源&#34;&gt;#&lt;/a&gt; 开源&lt;/h3&gt;
+&lt;p&gt;今年参与编写《开源指北》其实也让我对开源软件有了更深入的理解，尤其是在充满变局的国际环境中，开源会给中国产业发展带来很大帮助。所以我也会继续关注开源项目，包括 RISC-V、RT-Thread 以及鸿蒙生态。另外，有一些之前使用过的开源项目停止维护了，感觉有点可惜，考虑接手过来维护。&lt;/p&gt;
+&lt;h3 id=&#34;创客&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#创客&#34;&gt;#&lt;/a&gt; 创客&lt;/h3&gt;
+&lt;p&gt;我真的很想成为一名真正的 Maker/Hacker，这将是我在技术道路上追求的目标，我希望自己很快能拥有将奇思妙想变成现实的能力。所以在 2021 年我还要加把劲，多折腾，补充数学、硬件、结构设计方面的短板，同时在嵌入式系统设计和物联网架构方面也要保持进步！&lt;/p&gt;
+&lt;p&gt;对了，2021 年我要搭建一个创客空间，放飞自我。&lt;/p&gt;
+&lt;h3 id=&#34;学习&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#学习&#34;&gt;#&lt;/a&gt; 学习&lt;/h3&gt;
+&lt;p&gt;技术栈方面，2021 年计划好好研究下 Rust 语言、数据分析和 AI 在端侧的实现。另外我会把过去工作、学习中的积累整理成一个技术类网站，作为个人总结，同时也分享给大家。具体是哪个网站我是不会告诉你们的 &amp;lt;(ˉ^ˉ)&amp;gt;&lt;/p&gt;
+&lt;p&gt;还有呀，之前囤了好多书还没来得及看，2021 年安排一下，尽量写写读后感。&lt;/p&gt;
+&lt;h3 id=&#34;领导力&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#领导力&#34;&gt;#&lt;/a&gt; 领导力&lt;/h3&gt;
+&lt;p&gt;当然啦，总不能一直沉浸在学习的海洋里，不能为了学习而学习，所以我还需要多关注现实需求，从解决问题出发，学习相关的技术并将其应用起来。所以如果我真的想解决一些问题，除了掌握技能，还需要提升我的 leadership，搭建团队，联合各方资源才能做更大的事业。希望在 2021 年能多做一些尝试，提升一下表达能力和领导力。&lt;/p&gt;
+&lt;h3 id=&#34;健康&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#健康&#34;&gt;#&lt;/a&gt; 健康&lt;/h3&gt;
+&lt;p&gt;由于以前运动训练不当，加上这些年当程序员的劳累，以及不良的生活习惯（熬夜、久坐等等），这些年除了掉发之外还是有些小毛病。希望 2021 年能够好好调整一下，坚持锻炼身体，做好康复训练。为社会、为祖国、为全人类再战 50 年！&lt;/p&gt;
+&lt;h3 id=&#34;事业&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#事业&#34;&gt;#&lt;/a&gt; 事业&lt;/h3&gt;
+&lt;p&gt;前几年和朋友尝试创业，多少是因为焦虑，因为年少无知。经过几年的沉淀，现在已经想通了，如果不能年轻有为，那就大器晚成呗！&lt;/p&gt;
+&lt;p&gt;当然肯定会保留创业的想法，但是不着急。可能是很多年以后，也可能是明年。但一定是因为我们特别想解决某个社会问题，而我们刚好能够解决。&lt;/p&gt;
+&lt;p&gt;因为我之前在环保 NGO 工作过，所以一直有关注环保圈的动态。今年因为疫情，其实很多 NGO 都过得很艰难，所以 2021 年我会尝试将自己懂的技能和掌握的资源跟环保结合起来，做些有意思的事情。&lt;/p&gt;
+&lt;p&gt;还有… 大概就是这样了，2021 年见。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20201224181625325.jpg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;寄语&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#寄语&#34;&gt;#&lt;/a&gt; 寄语&lt;/h2&gt;
+&lt;p&gt;去年的标题是 ——&lt;strong&gt; 努力成为我认为我可以成为的人&lt;/strong&gt;。虽然现在还没有达到我想要的状态，还没成为我想成为的人，但我会继续前进的！感谢过往许多失败的经历，因为它帮我鼓起勇气丢掉那些不必要的东西，不再伪装自己，成为真正的我，让我把所有精力放在对我来说最重要的事情上。如果我以前在其他地方成功了，那我就不会有这样的决心，你们也不会看到这篇文章。&lt;/p&gt;
+&lt;p&gt;谢谢您看到末尾！我们来呼应一下主题 ——&lt;strong&gt; 一颗红心，两手准备&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;无论成败，我都会保持热爱，热爱科学技术，热爱这个世界。我将投身到那真正属于我的领域，用双手创造价值。左手科技，右手人文；左手工作，右手生活。坚定信念，坚持学习，保持进步。新的一年，遇见更好的自己。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20201224181648648.jpg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Never give up on what you really want to do. The person with big dreams is more powerful than the one with all the facts.&lt;/p&gt;
+&lt;p&gt;The future belongs to those who believe in the beauty of their dreams.&lt;/p&gt;
+</content>
+        <category term="工作" />
+        <category term="总结" />
+        <updated>2020-12-24T10:27:24.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/journal/2019-year-end-summary.html</id>
+        <title>我的2019——努力成为我认为我可以成为的人</title>
+        <link rel="alternate" href="https://luhuadong.com/journal/2019-year-end-summary.html"/>
+        <content type="html">&lt;p&gt;今年回老家过年，G1128 列车途经武汉，在新型冠状病毒的阴影笼罩下，整个旅程多了一份严肃感，我也开始整理过去一年经历的事情与所思所感。&lt;/p&gt;
+&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20200125174446341.jpeg&#34; width=&#34;300&#34; /&gt;
+&lt;p&gt;2019 年有很多伤心的事。比如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;年初买了个房子，然后房价就降了；&lt;/li&gt;
+&lt;li&gt;投资的互联网金融还没下车，平台就倒了；&lt;/li&gt;
+&lt;li&gt;朋友忽悠我做外汇交易，结果爆仓了，时间耽误了，朋友也没了；&lt;/li&gt;
+&lt;li&gt;每天上班就像坐牢一样，忙来忙去做一堆烂项目，进步很慢，职业发展也遇到了瓶颈；&lt;/li&gt;
+&lt;li&gt;申请辞职被领导挽留了，没有转管理岗，新项目也夭折了，感觉开始边缘化了；&lt;/li&gt;
+&lt;li&gt;主动请缨在公司园区做垃圾分类推广，搞了两个月，收效甚微；&lt;/li&gt;
+&lt;li&gt;多管闲事，在公司园区救助流浪猫，被公司警告多次，最后小猫下落不明；&lt;/li&gt;
+&lt;li&gt;还有很多计划内的事情没有完成 …&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;虽然 2019 有很多不如意，但也没有虚度光阴。&lt;/p&gt;
+&lt;h2 id=&#34;工作上&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#工作上&#34;&gt;#&lt;/a&gt; 工作上&lt;/h2&gt;
+&lt;p&gt;今年是在 G 公司工作的第三个年头了，由于是国企军工企业，业务、产品、规模都没什么变化，工作内容自然也没什么变化。这导致我每天都过得很痛苦，越来越无法忍受这种一成不变的生活了。因此 2020 年一定要改变！希望能从事一份既快乐又有不错收入的工作。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20200125174718719.png&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;虽然作为程序员在本职工作上的技术进步不大，但对项目管理流程和业务的熟悉程度有了更多了解，学会了站在不同角度分析项目需求，也更愿意与同事、领导沟通问题。年中与领导进行了多次沟通，领导让我考虑一下要不要转管理岗，这也让我对个人职业发展做了一次深刻的思考。&lt;/p&gt;
+&lt;p&gt;在公司难以学习、应用新技术的情况下，尝试发展个人项目，包括嵌入式操作系统、Web 技术的应用，虽然在收入上没有明显增加，但保持了对技术的熟悉度和对行业发展的敏感度。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20200125174740923.png&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在副业上，今年主要还是关注环保领域。参加了一些社区志工、企业参访、环博会等活动，进一步了解了垃圾分类后端处理情况，包括废品回收、旧衣物回收、大件垃圾回收、塑料和金属销售、垃圾焚烧发电等。同时与民间零废弃群体和人士建立了联系，在环保领域做正式创业前的试探。&lt;/p&gt;
+&lt;p&gt;未来十年，我希望立足于粤港澳大湾区，成为一名物联网全栈开发工程师。如果要加一个行业限制，我希望在环保和能源领域深耕。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20200125232653587.jpeg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;学习上&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#学习上&#34;&gt;#&lt;/a&gt; 学习上&lt;/h2&gt;
+&lt;p&gt;学习了中国大学 MOOC、CSDN、阿里云大学、AI 电堂等平台的一些课程，涉及程序设计、项目实战、心理学等。坚持收听开言英语、得到 App 以及喜马拉雅上的音频栏目，增加了对世界的认识。&lt;/p&gt;
+&lt;p&gt;今年考了两个证书：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;阿里云云计算专业认证（ACP）&lt;/li&gt;
+&lt;li&gt;RT-Thread 认证嵌入式工程师（RCEA）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;为什么会考这两个呢？这其实是对未来物联网发展的两个趋势的判断，一个是极大方向 —— 云计算（物联网云平台），一个是极小方向 —— 嵌入式（物联网节点）。&lt;/p&gt;
+&lt;p&gt;八月份去杭州参加了 “嵌入式系统联谊会”，今年的主题是 “国产嵌入式操作系统技术与产业发展”。会上见识了许多优秀的国产操作系统和基础软件，在中美贸易战的形势下显得尤为重要！我作为 RT-Thread 项目的贡献者感到非常自豪，同时对国产操作系统、编译工具、数据库等基础软件的未来充满了信心。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20200125174819578.jpeg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;另外，今年很开心的一件事是学会了游泳！27 年的旱鸭子学会了游泳！现在游泳已经成为我最喜欢的运动之一了～&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20200125174846400.gif&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;生活上&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#生活上&#34;&gt;#&lt;/a&gt; 生活上&lt;/h2&gt;
+&lt;p&gt;年初杀了金鹅凑了首付入手一套小房子，计划 2020 年初收楼，所以很快就可以拥有一个心仪的书房了，非常期待！&lt;/p&gt;
+&lt;p&gt;五月份放弃合租，重新单独租了一个公寓，生活的节奏可以更好地把握。然后开始健身，学习游泳，学习素描，给生活增添了一些色彩。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20200125174940818.gif&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2019 年 7 月上海实施生活垃圾强制分类，引起了广泛关注。于是在趁机尝试在小区和公司做垃圾分类推广，做了 5 场垃圾分类培训和分享。参与了规则制定、撤桶设点、投放引导、监督登记等过程，历时两个月，有点效果，但仍有很多优化空间。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20200125175001211.png&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;年末终于把留了三年的头发捐了，结束了这段长发男孩的经历。&amp;gt;&amp;gt;“&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3M/X19iaXo9TXpBeE5qY3lORFUxT1E9PSZhbXA7bWlkPTI2NDk1MDgwNTUmYW1wO2lkeD0xJmFtcDtzbj04ZTU2OWM2YWQyYWIzYmY4MDRlMWQ5OGIwZjZmZjMwOSZhbXA7Y2hrc209ODNlODhmZjdiNDlmMDZlMTFjYTE4ZTBlOTdlMmVlZTc2NjZhMjQ5MmY0YzA5ZDM5MzcwMjI0NzliN2YzYmM1NjlkNGJmMzQzM2Y4YSZhbXA7dG9rZW49OTgwNzEyNzYwJmFtcDtsYW5nPXpoX0NOI3Jk&#34;&gt;留了三年长发，只为了让生命更美丽&lt;/span&gt;”&lt;/p&gt;
+&lt;p&gt;下半年发现并救助了两批总共 9 只猫咪，其中 8 只小奶猫，1 只猫妈妈。成功帮其中 5 只小猫咪找到领养人，另外 3 只中途不见了，希望它们能遇到好人救助，能找到一个温暖的家！至于猫妈妈，在最后三只小猫咪弄丢了之后，显得十分焦虑，年后如果再见到它希望能帮它申请流浪猫免费绝育。&lt;/p&gt;
+&lt;p&gt;流浪猫救助过程最大的障碍，是身边很多人不理解，甚至不支持。而我也无法做到视而不见，无法做到没有努力就把命运交给自然法则，人类已经这么强大了，面对几只小猫却说无能为力。虽然结局并不完美，但至少我努力过。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20200125175102343.jpeg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;至于感情方面，在学习了《晓文老师的幸福心理学》之后想通了一些事情，经过多次沟通后，跟女友的关系日趋稳定，对未来的组建家庭增添了一份信心。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20200125232809677.jpeg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;展望&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#展望&#34;&gt;#&lt;/a&gt; 展望&lt;/h2&gt;
+&lt;p&gt;路漫漫其修远兮，吾将上下而求索。2020 年希望能顺利完成这些事：&lt;/p&gt;
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_0&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_0&#34;&gt; 编制并出版一本书&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_1&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_1&#34;&gt; 设计并发布一个网站平台&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_2&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_2&#34;&gt; 做一个电台节目&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_3&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_3&#34;&gt; 去菲律宾读语言学校进修英语&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_4&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_4&#34;&gt; 考个无人机驾驶证（极飞农业无人机操作员考试）&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20200125175207550.jpeg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生活的终极意义，是过自己觉得幸福的生活。&lt;/strong&gt; 经历的越多，就会越明白什么才是生活的意义，什么才是自己觉得幸福的生活。&lt;/p&gt;
+&lt;p&gt;2019 年虽然不圆满，但我找到了自己的定位 —— 在环保和能源领域做物联网产品设计与优化，利用数据技术帮助节能减排，坚持可持续发展道路。我不想做多大的事业，我只想坚持去做一份对社会有益的小而美的事业。&lt;/p&gt;
+&lt;h2 id=&#34;给自己的话&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#给自己的话&#34;&gt;#&lt;/a&gt; 给自己的话&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;请您自己决定什么事对你来说是好的、有价值的、有意义的，建立并坚持自己的原则，学会拒绝别人，而不是一味的妥协让步、忽视自己内心的感受；&lt;/li&gt;
+&lt;li&gt;为自己的人生树立目标，有了目标，人生才有动力和方向；&lt;/li&gt;
+&lt;li&gt;人生很短，在做事情的时候，学会利用自己的天赋和长处，扬长避短，这样可以达到事半功倍的效果；&lt;/li&gt;
+&lt;li&gt;接受多元文化，求同存异，学会和比自己聪明的人一起工作，多和优秀的人一起慢慢地你也会变得优秀；&lt;/li&gt;
+&lt;li&gt;不要害怕改变，不要害怕失败，不要害怕逆境，你不逼自己一把是不知道自己能干多大的事的；&lt;/li&gt;
+&lt;li&gt;保持空杯心态，不要故步自封，不要安于现状，要不断吸收新事物，不断反思；&lt;/li&gt;
+&lt;li&gt;如果一件事一个人对你很重要，不要轻言放弃，要想方设法，努力做到最好；&lt;/li&gt;
+&lt;li&gt;戒骄戒躁，少就是多，慢就是快，越简单越幸福；&lt;/li&gt;
+&lt;li&gt;保持饥饿，不断学习，不断进步，越努力越幸运。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20200125175239512.png&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;“科技的进步，不一定带来社会的进步和人民的幸福。” 如果有一天不再当程序员了，这应该就是我的理由。&lt;/p&gt;
+&lt;p&gt;人生不设限，一切皆有可能！&lt;/p&gt;
+</content>
+        <category term="工作" />
+        <category term="总结" />
+        <updated>2020-01-25T09:55:53.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/journal/2018-year-end-summary.html</id>
+        <title>我的2018——上懂机器学习，下懂微信建群</title>
+        <link rel="alternate" href="https://luhuadong.com/journal/2018-year-end-summary.html"/>
+        <content type="html">&lt;h2 id=&#34;全年梳理&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#全年梳理&#34;&gt;#&lt;/a&gt; 全年梳理&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;上半年，结束了在绿色城乡公益机构的兼职工作，对社区垃圾分类有了深入认识&lt;/li&gt;
+&lt;li&gt;三月份，参加了广州社科院的城市废弃物管理研讨会&lt;/li&gt;
+&lt;li&gt;四月份，完成了英语流利说的课程，并成功返学费&lt;/li&gt;
+&lt;li&gt;四月份，在深圳参加了嵌入式软件可靠性设计与测试技术高级研修班&lt;/li&gt;
+&lt;li&gt;五六月份，在广州工会修了 Flash 动画设计基础、数码摄影两门课&lt;/li&gt;
+&lt;li&gt;五月份，参加了嵌入式系统联谊会&lt;/li&gt;
+&lt;li&gt;五月份，参加了零废弃联盟的 “城市生活垃圾分类” 培训，从业余环保主义者到半职业环保工作者&lt;/li&gt;
+&lt;li&gt;五月份，开始尝试在家做厨余堆肥，干湿分类的第一步&lt;/li&gt;
+&lt;li&gt;六月份，注销了业余时间和朋友一起成立的公司&lt;/li&gt;
+&lt;li&gt;六月份，参与 RT-Thread、LEP 开源项目&lt;/li&gt;
+&lt;li&gt;七月份，在深井村参与转型城镇的尝试&lt;/li&gt;
+&lt;li&gt;七月份，开始在 CSDN 学习 Python 全栈工程师课程&lt;/li&gt;
+&lt;li&gt;七月份，升级加薪，继续待在公司面向 Money 编程&lt;/li&gt;
+&lt;li&gt;八月份，参加了零废弃联盟的 “城市生活垃圾分类” 成都游学，看到了不一样的东西&lt;/li&gt;
+&lt;li&gt;八月份，参与 8.18 首届零废弃日活动，“加速减塑，我有行动”&lt;/li&gt;
+&lt;li&gt;八月份，回家跟外公学习编篮子技术&lt;/li&gt;
+&lt;li&gt;九月份，学会使用 GitBook + Typora + Git 写作方式&lt;/li&gt;
+&lt;li&gt;十月份，参与未来社的二手市集，探索零包装商店模式&lt;/li&gt;
+&lt;li&gt;十月份，报名参加并开始准备高通开发者大赛（机智云 GoKit4）&lt;/li&gt;
+&lt;li&gt;十一月份，参加系统架构设计师考试，并且通过了呀&lt;/li&gt;
+&lt;li&gt;十一月份，参与 “双十一零网购” 活动，上电视节目啦&lt;/li&gt;
+&lt;li&gt;十二月份，参加 RT-Thread 嵌入式系统面基大会&lt;/li&gt;
+&lt;li&gt;十二月份，参加 GDG 广州站活动，保持好奇心，让自己永远处于学习状态&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;做好本职工作&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#做好本职工作&#34;&gt;#&lt;/a&gt; 做好本职工作&lt;/h2&gt;
+&lt;p&gt;作为一名普通的技术人员，没有家庭资源的支持，没有强大的人脉关系，技术就是我们在这个社会上最好的立足点。这是我今年深切体会到的，我们要尽快完成原始资本的积累，必须要沉下心好好钻研一门技术，并以此为基础去扩展。正是因为掌握一门技术是有门槛的，所以才给了我们机会，只要我们不怕苦不怕累，在每个时代都可以找到突破的机会。&lt;/p&gt;
+&lt;p&gt;本来 6 月份已经提交辞职申请的，然后经过领导的游说和金钱的诱惑，我屈服了（答应了 2018 年不走）。这也是我愿意继续在这里谈这份工作的原因。&lt;/p&gt;
+&lt;h3 id=&#34;国产化进程&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#国产化进程&#34;&gt;#&lt;/a&gt; 国产化进程&lt;/h3&gt;
+&lt;p&gt;纵观全年，集团在智能装备的研发上中规中矩，最大的变化就是受中美贸易战的影响，产品设计的芯片、系统和软件组件都在逐步寻找国产 / 自主研发的替代方案。形势是好的，但其实也很被动，尤其是像我们这样只做系统集成和业务开发的企业。一方面的国产优秀的芯片和解决方案不多，并且价格昂贵；另一方面是大家对技术不够包容，不够开放。&lt;/p&gt;
+&lt;p&gt;做了一些这些方案，给我最大的感受是，大家都想在产业链中分一块蛋糕，却很少人想怎么把产品做好，怎么提升服务质量，怎么优化研发流程。很明显的一点就是开发者社区不够开放、缺乏活力，甚至是以 “保密” 为由，连社区都省了。由此导致采用 “国产方案” 的产品研发效率低，落地不顺畅。&lt;/p&gt;
+&lt;p&gt;从我参与的研发项目来看，我觉得解决这个问题的根本在于 —— 我们没有正视自己，不敢承认自己的失败和不足，没有长远的规划，在现有人力物力基础上，如何逐步替代，持续研发，形成良性循环。这里的关键词是 “持续”。&lt;/p&gt;
+&lt;h3 id=&#34;从产品到工具&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#从产品到工具&#34;&gt;#&lt;/a&gt; 从产品到工具&lt;/h3&gt;
+&lt;p&gt;再来谈谈今年的一个变化，就是我在公司的角色慢慢从产品的研发转向了工具的研发。这个变化其实是我主动转变的，因为我发现在目前企业的框架中，产品研发的创新能力不足，相反的，却缺乏很多工具。比如我做了一个测试工具帮助测试人员摆脱繁琐枯燥的工作流程，做了一个监控平台用于监测网络内多台 Linux 系统的状态，并提供在线测试和软件升级等功能。&lt;/p&gt;
+&lt;p&gt;对于程序员来说，设计产品和设计工具其实差别不大，最不一样的地方可能就是产品是对外的，工具是对内的。对国企来说，大概就是从面向客户编程转变为面向领导编程吧。不过因为我们之前并不注重工具的研发，所以领导对我的管理相对轻松一点。&lt;/p&gt;
+&lt;h3 id=&#34;从研发到管理&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#从研发到管理&#34;&gt;#&lt;/a&gt; 从研发到管理&lt;/h3&gt;
+&lt;p&gt;在扁平化管理的企业里，其实短时间内走向管理层还是挺难的，尤其是一个萝卜一个坑的国企。但是我有幸接触到一些管理方面的工作，原因是因为我们的项目经理太懒了（思考方面，行动上还是很积极的）。这让我意识到成本控制、流程管理、研发管理、版本管理对于一个 IT 项目的重要性。但其实这还不够，要想项目做得又快又好，团队建设十分关键！如何让项目组成员都对项目有清晰的认识，如何让项目组成员发挥自己的长处，如何让项目组成员团结一致… 这些都是对项目经理的考验。毫不夸张地说，这在某种程度上决定了项目的生死。&lt;/p&gt;
+&lt;h3 id=&#34;从嵌入式到-web&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#从嵌入式到-web&#34;&gt;#&lt;/a&gt; 从嵌入式到 Web&lt;/h3&gt;
+&lt;p&gt;今年其实也有参与几个基于 STM32 和 NXP 芯片的嵌入式产品项目，但其实大多数时候都是炒冷饭。对我来说，今年更值得兴奋的事情是把 Web 技术运用起来了，结合 Linux 运维、云计算方面的知识，形成了一个整体。这让我更加完整地看到了产品的方方面面，看到了技术内外的更多事情，同时也为职业生涯带来更多可能性。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;开阔思维和见识&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#开阔思维和见识&#34;&gt;#&lt;/a&gt; 开阔思维和见识&lt;/h2&gt;
+&lt;h3 id=&#34;零废弃之路&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#零废弃之路&#34;&gt;#&lt;/a&gt; 零废弃之路&lt;/h3&gt;
+&lt;p&gt;从去年 10 月份接触国内一些环保公益 NGO 开始，做了好多场活动的志愿者，慢慢发现自己原来对一些社会问题的想法是很局限、很片面的，也慢慢看到了很多社会问题的过去、现在和未来。&lt;/p&gt;
+&lt;p&gt;在实践的过程中，遇到了很多有相似经历或想法的人，这让我大多数时候不再觉得自己太特立独行。&lt;/p&gt;
+&lt;p&gt;零废弃其实并不是要求我们对自己多么苛刻，不能产生垃圾。更多的情况下，她是在给我们愿景和行动指南，让我们看到这个世界的另一种可能。这个想法很奇特，但仔细想想，你会发现其实跟自由软件的思想是一致的。计算机领域的前辈们经过三十年的努力，让我们看到了自由、开源和社会化编程的可能，感受到了她所带来的好处，集市和教堂并非两个对立面。同样，零废弃运动也一样，虽然很漫长，但经过我们坚持不懈的努力，一定会有越来越多的人感受到她的美好，并为之行动。&lt;/p&gt;
+&lt;h3 id=&#34;找到喜欢的圈子&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#找到喜欢的圈子&#34;&gt;#&lt;/a&gt; 找到喜欢的圈子&lt;/h3&gt;
+&lt;p&gt;过去一年，除了混迹于电子圈和程序员圈，也在学术圈、环保圈、公益圈和慈善圈混个脸熟。大多数时候，程序员的工作都很紧凑、很单调，时间长了会让人忘记生活的本质，忘记我们到底在奋斗些啥。在学术圈，看到教授和企业家在不断推进产学研模式；在环保圈，看到全国各地的企业、NGO 和个人在身体力行；在公益圈，看到基金会和社会团体的进步和成长，尤其是壹基金和万科公益基金会对垃圾分类项目的支持；在慈善圈，看到真的有很多人付出无所求，就好像写开源软件一样傻，但其实很快乐很有意义。这一切一切，都让我感受到了我的渺小，也感受到了微小的力量也能改变世界！&lt;/p&gt;
+&lt;p&gt;当然，电子圈和程序员圈依然有很多有趣的事情，有时候在群里吐槽，有时候在群里讨论。真的很感谢 Linuxer、RTT、单片机与嵌入式系统社区，可以相互学习、相互促进。&lt;/p&gt;
+&lt;p&gt;反正，谢谢你们，有你们真好！&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;一些感悟&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一些感悟&#34;&gt;#&lt;/a&gt; 一些感悟&lt;/h2&gt;
+&lt;h3 id=&#34;有时候自私一点是好事&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#有时候自私一点是好事&#34;&gt;#&lt;/a&gt; 有时候自私一点是好事&lt;/h3&gt;
+&lt;p&gt;同事问：我是怎么同时做那么多事情还能升级加薪的？&lt;/p&gt;
+&lt;p&gt;其实我并没有同时做几件事情，我依然是单线程地工作着。宏观看起来是并行的，其实微观看还是串行的，这其中的关键就是时间管理。简单来说，可以总结为：放弃不重要不紧急的事，提前准备重要但不紧急的事。当然啦，说起来简单做起来很难，有时候我也做不好，但还好我的朋友圈正能量太足了，所以思想上总会受到鞭策。另外一点就是要找到自己的定位，专注一点，比如虽然有不同的圈子，但其实很多时候我扮演的角色还是程序员或者技术顾问。还有就是不要做老好人，不要太过于乐于助人，有时候自私一点是好事！&lt;/p&gt;
+&lt;p&gt;一个人无论是卓越还是平凡，健康愉快地生活，比什么都重要。对自己适当自私一点，多关爱身边的人。&lt;/p&gt;
+&lt;h3 id=&#34;互联网时代要谦虚要善良&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#互联网时代要谦虚要善良&#34;&gt;#&lt;/a&gt; 互联网时代，要谦虚，要善良&lt;/h3&gt;
+&lt;p&gt;过去一年，从互联网上接收的信息太多了，以至于信息过载，有时候会把自己弄得很累。所以前两个月我删除了大概十个微信群，以至于不让自己的微信每天都是上万条未读消息。如果遇到好的文章，就尽快读完，并且多读几遍，以便下次遇到同类型的文章可以快速阅读或者直接忽略，从而节省时间。&lt;/p&gt;
+&lt;p&gt;在互联网时代，一方面我们要多接触、多学习各方面的东西；另一方面我们要学会思考，取其精华去其糟粕。对自己不熟悉的东西，不要急于下结论，不要动不动就论战。时刻记住要做个谦虚、善良的网民。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;进步与不足&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#进步与不足&#34;&gt;#&lt;/a&gt; 进步与不足&lt;/h2&gt;
+&lt;h3 id=&#34;进步的地方&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#进步的地方&#34;&gt;#&lt;/a&gt; 进步的地方&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;达成既定的理财小目标；&lt;/li&gt;
+&lt;li&gt;人情世故、人际关系处理得比较好，没有了前几年的不适应感；&lt;/li&gt;
+&lt;li&gt;学习了 Web 前后端开发，从技术角度和应用角度，都提高了对互联网的认识；&lt;/li&gt;
+&lt;li&gt;学习了数据分析和机器学习，意识到了数学的价值，重新学习统计学和线性代数；&lt;/li&gt;
+&lt;li&gt;跳出了程序员圈子，认识了学术界的大牛，认识了潜水员，认识了环保慈善公益界的很多热爱生活的小伙伴。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;不足之处&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#不足之处&#34;&gt;#&lt;/a&gt; 不足之处&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;不够自律&lt;/li&gt;
+&lt;li&gt;不够高效&lt;/li&gt;
+&lt;li&gt;还不够钱买个小公寓&lt;/li&gt;
+&lt;li&gt;没有坚持每天锻炼身体&lt;/li&gt;
+&lt;li&gt;没有多陪陪女朋友和家人&lt;/li&gt;
+&lt;li&gt;表达能力、演讲能力有待提高&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;新年展望&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#新年展望&#34;&gt;#&lt;/a&gt; 新年展望&lt;/h2&gt;
+&lt;p&gt;希望 2019 年，能顺利写完我的书，然后在新的团队里找到合适的定位，拥有一份自己喜欢并且对社会有益的事业，并为之贡献自己的青春和力量！&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;贴一些图&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#贴一些图&#34;&gt;#&lt;/a&gt; 贴一些图&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/2019010123173555.jpg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20190101231757108.jpg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20190101231820337.jpg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20190101231831776.jpg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20190101231845855.jpg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20190101231856219.jpg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20190101231907800.jpg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/2019010123192436.jpg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20190101231937276.jpg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20190101231948445.jpg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20190101232002268.jpg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20190101232013284.jpg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="工作" />
+        <category term="总结" />
+        <updated>2019-01-01T15:22:11.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/journal/2017-year-end-summary.html</id>
+        <title>我的2017——作为一名程序员，我重新思考了我生活的目标</title>
+        <link rel="alternate" href="https://luhuadong.com/journal/2017-year-end-summary.html"/>
+        <content type="html">&lt;p&gt;今年 CSDN 没有组织程序员年终总结征文活动，于是我这篇文章在云笔记中躺了好几个星期，今天（大年初二）—— 终于有点时间和心情把它写完，回想过去一年里所发生的事，嘿，时间过得真快。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/560b9da1bb80c3fc34defba85e610946.gif&#34; alt=&#34;这里写图片描述&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;工作&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#工作&#34;&gt;#&lt;/a&gt; 工作&lt;/h2&gt;
+&lt;p&gt;首先，工作上不紧不慢、按部就班，还是以嵌入式软件工程师的身份走完了整个 2017，完成了公司计划内的两个项目。工作内容还是传统通信行业的一些嵌入式和应用层的软件开发，涉及 ARM、Linux、FreeRTOS、音视频，以及一些通信协议和特定应用场合的业务逻辑等内容。&lt;/p&gt;
+&lt;p&gt;但是总体来说，工作上并没有太多亮点（或者说给我带来太大的自豪感和满足感），在国企做研发，给我的感觉就是 —— 没有研只有发。不停地开发，却很少停下来专研某项技术，很多时候给我的感觉就是对技术没有太多的追求，能实现应用需求，能盈利就好。这一点在很多层面上都有所体现，显然是有历史原因的，也不是我一个小小程序员能撼动的了。&lt;/p&gt;
+&lt;p&gt;公司在创业板成功上市，实现了王老板的小目标，所以我们老板也慷慨地给我们发了一点点奖金。同时我自己充分发挥中华民族勤俭节约的优良传统，也差不多实现了自己的 2017 理财小目标，虽然相比于王老板的小目标不值一提，但毕竟在理财的路上踏出了一步，理财就是理生活，所以还是值得肯定的。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/0f5a8d08f362322710214f930f372222.png&#34; alt=&#34;这里写图片描述&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;学习&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#学习&#34;&gt;#&lt;/a&gt; 学习&lt;/h2&gt;
+&lt;p&gt;由于工作上的一些限制，ARM+Linux 相关技能并没有得到太多提升（也许是我想多了，又或许是很多国内的甲方都这样，不是那么注重技术积累，所以如果想继续提升的话，可能要考虑 IC 厂商或方案提供商等企业了）。&lt;/p&gt;
+&lt;p&gt;报了一些在线的英语课程，坚持了大半年了，也不知道到底有多大提升，只是感觉比以前更敢说英语了，继续坚持吧，没有量变哪来质变呢。感谢互联网时代，现在有很多不错的英语学习平台，有兴趣了解的可以私信我，这里就不打广告了。&lt;/p&gt;
+&lt;p&gt;另外也不定期学习一些网络课程，比如 CSDN、实验楼、极客学院等等，还有慕课网、中国大学慕课、网易云课堂等等，实在太多了，所以质量也参差不齐，想学习某些技术的小伙伴一定要仔细研究挑选才行，特别是对于收费较高的。&lt;/p&gt;
+&lt;p&gt;此外，2017 年参加了两次软考，并且都顺利通过了，分别是 2017 上半年的【软件设计师】和 2017 下半年的【嵌入式系统设计师】。虽然分数不是很高，但毕竟也是妥妥地通过了，这对于半路出家并且第一次参加软考的程序员来说，还是蛮有鼓励的。&lt;/p&gt;
+&lt;img data-src=&#34;/images/journal/20180217211802537.jpeg&#34; width=&#34;600&#34;&gt;
+&lt;p&gt;那软考证书能干啥呢？听说对涨工资、办户口、考公务员都有用，而且现在有些证书类别是中日韩 + 印度相互认证的。而且备考的过程也是一次系统学习的过程，可以查漏补缺，可以学习一下项目管理方面的知识，反正能考就考了呗，说不定啥时候就能用上呢。&lt;/p&gt;
+&lt;p&gt;还有就是，有事没事就参加各种线上线下的沙龙，比如 ST、融创芯城、AWS、Linuxer 等等组织的，向各位前辈和业界大牛学习，确实让人感受到行业的变化。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/2772fa3a37d48258204746d25f03caf9.png&#34; alt=&#34;这里写图片描述&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;生活&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h2&gt;
+&lt;p&gt;2017 最大的变化就是 —— 留了长发，虽然每次回家都会被老妈吐槽，还被恐吓说等我睡着了就给我剪掉（我知道她不会这样做的）。但我还是义无反顾地留了长发，也不是为了什么，大概是厌倦了小平头摆了。&lt;/p&gt;
+&lt;p&gt;九月份和女朋友去了一趟欧洲（荷兰 + 比利时 + 法国）自由行，这对于我们来说是一个不小的挑战，不仅要克服时差和饮食差异，还要从头到尾订机票酒店、办签证、做攻略、准备各种东西，哦！还有每天都担心不够用的英语…&lt;/p&gt;
+&lt;p&gt;记忆犹新的是，为了省钱买了特价的中转机票 —— 需要在芬兰赫尔辛基转机，不幸的是，由于航班延误，行李被留在了赫尔辛基万塔机场，因此我们在阿姆斯特丹渡过了凄凉的一整天。&lt;/p&gt;
+&lt;p&gt;这次旅游对我来说，感受最深的是西欧的历史文化冲击，对于理工科学生来说尤其如此。&lt;/p&gt;
+&lt;p&gt;（此处省略 10000 字…）&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/55e437bf81f5726c59fb3367f0354479.png&#34; alt=&#34;这里写图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/d65bc94e7b8794edd9fa0118418ffb84.png&#34; alt=&#34;这里写图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/a5b8b82ba348c620336ea11536ab8298.png&#34; alt=&#34;这里写图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/9a24f30d469c775556d0ddc4fa8f4fe4.png&#34; alt=&#34;这里写图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/0dcb7383242d5a8cc2f295f94cf1d588.png&#34; alt=&#34;这里写图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/73e6acf87b3df68f51547dc0972a324a.png&#34; alt=&#34;这里写图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/f4ec7a2afbab294b8ecebb401904c3f8.png&#34; alt=&#34;这里写图片描述&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;环保&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#环保&#34;&gt;#&lt;/a&gt; 环保&lt;/h2&gt;
+&lt;p&gt;还记得这篇文章的小标题吗？—— 作为一名程序员，我重新思考了我生活的目标。&lt;/p&gt;
+&lt;p&gt;（所以我特意留了些篇幅来阐述这个问题）&lt;/p&gt;
+&lt;p&gt;那我原来的目标是什么？&lt;/p&gt;
+&lt;p&gt;要知道，我出生在十八线乡镇，加上一些家庭原因，可以说一直以来都在贫困线上挣扎，难得通过读书考试完成了大学学业，在大城市有一份体面的工作，所以我原来的目标就是 —— 努力奋斗赚钱让自己和家人能够过上更好的生活。&lt;/p&gt;
+&lt;p&gt;又为什么会重新思考呢？&lt;/p&gt;
+&lt;p&gt;有时候我会问自己：“人为什么活着？人生的意义是什么？人终有一死，我该做点什么才对得起这唯一的一生，才算没有白活过？” 这些问题存在于我心中已久，也许是因为工作几年之后暂时摆脱了贫困，使得我又重新思考起这些问题来了。&lt;/p&gt;
+&lt;p&gt;2017 年我参加了挺多线上线下的环保公益活动，也对针对一些环保问题进行过分析和研究，算得上是半个在一线摸爬滚打的环保工作者（志工）吧，所以经常遇到有人问我：“你做软件开发的，怎么对环保这么感兴趣？” 一开始我并没去想这个问题，不过问的人多了，也就开始思考起来了。&lt;/p&gt;
+&lt;p&gt;大概从初中开始，自从我知道了如何用淀粉制作酒精，知道了塑料制品、化纤衣服是石油制成的，接受了 “垃圾是放错地方的资源” 这个观点之后，我就有了环保意识，开始关注 “资源、环境、人口” 等问题。而我也曾一度以为所有人都和我一样有环保意识，所以垃圾污染的问题应该不是太大的问题，后来当我亲身实践去做点事情的时候才发现，原来我错了 —— 现在我认为环保是一个教育和管理的问题。好，那所以如果一定要为我为什么做环保找一个原因的话，我想马斯洛需求理论就可以很好地回答这个问题了。&lt;/p&gt;
+&lt;img data-src=&#34;/images/journal/20180218025113431.jpeg&#34; width=&#34;480&#34;&gt;
+&lt;p&gt;我想起了 Richard Stallman 说的一句话 —— &lt;strong&gt;我可以找份工作赚钱，并沉浸在编码的快乐中，但在职业生涯结束后，回首目睹自己筑就的高墙将人与人分隔开，我会觉得我耗尽毕生精力只换来了一个更糟糕的世界。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在我看来，30 多年前的 “开源软件运动” 与我现在所参与的 “零废弃运动” 本质上是一样的，都是为了创建、维护一个更好的世界。&lt;/p&gt;
+&lt;p&gt;假如构建幸福生活的基本要素都不复存在，没有了从前的蓝天和灿烂阳光，没有了清新的空气，没有了洁净的水源，没有了安全的食品。那何谈幸福生活？&lt;/p&gt;
+&lt;p&gt;关于环保这个话题实在有太多东西要聊了，感兴趣的朋友欢迎关注我的个人公众号与我交流。&lt;br&gt;
+　　&lt;br&gt;
+&lt;strong&gt;欢迎关注我的个人微信公众号～（扫描二维码或搜索 &amp;quot;ECO_Mr_R&amp;quot;）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/qrcode_8cm.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;展望&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#展望&#34;&gt;#&lt;/a&gt; 展望&lt;/h2&gt;
+&lt;p&gt;春节期间带来五宝回家，也带来一些关于环保的纪录片，抓住一切机会给大家做宣传，让我深刻地感受到这确实是一个教育和管理的问题，尤其对于十八线乡镇来说，面对垃圾问题很多人都是无知、无奈的。&lt;/p&gt;
+&lt;p&gt;所以 2018 年我想继续为环保做点事情，同时发挥自己程序员的优势和目前拥有的资源，勇敢地去探索吧，创变者！&lt;/p&gt;
+</content>
+        <category term="工作" />
+        <category term="总结" />
+        <updated>2018-02-17T14:02:12.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/journal/2016-year-end-summary.html</id>
+        <title>我的2016——我和嵌入式的那些事</title>
+        <link rel="alternate" href="https://luhuadong.com/journal/2016-year-end-summary.html"/>
+        <content type="html">&lt;p&gt;墙上的日历只剩下薄薄的一叠，过不了多久，又将迎来一个新的循环。我想用一篇文章记录我的 2016，希望通过写这篇文章能够更客观地审视自己，同时给未来的自己以及有需要的朋友一些参考。正所谓：以铜为镜，可以正衣冠；以史为镜，可以知兴替；以人为镜，可以明得失。多交流、多反思、多总结才会有进步。&lt;/p&gt;
+&lt;p&gt;翻看自己在 2016 年初写下的目标与计划：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;换一个舒适的生活环境；&lt;/li&gt;
+&lt;li&gt;换一份价值观相近的工作；&lt;/li&gt;
+&lt;li&gt;寻找些志同道合、能一起创业的朋友；&lt;/li&gt;
+&lt;li&gt;提高嵌入式 Linux 技术水平和技术嗅觉；&lt;/li&gt;
+&lt;li&gt;坚持运动，提高身体控制力；&lt;/li&gt;
+&lt;li&gt;坚持写博客，尝试做视频教程；&lt;/li&gt;
+&lt;li&gt;买一台功能适中的烤箱和一些烘焙设备；&lt;/li&gt;
+&lt;li&gt;多看书，多了解环境保护相关知识，特别是垃圾分类回收处理，尽量参与相关志愿活动；&lt;/li&gt;
+&lt;li&gt;准备托业考试。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;实际上，以上并没有全部完成，但我觉得 2016 年过得还挺充实的。&lt;/p&gt;
+&lt;p&gt;在这一年里，完成了职业生涯中的第一次跳槽，离开了工作近两年的工业机器人研发岗位。2014 年告别学生时代，刚开始上班的时候，每天都热情高涨。后来进入项目研发阶段，更是每天都迫切希望看到自己设计的产品能够进入量产阶段，并获得市场的认可。然而，理想与现实的差距不是一星半点，虽说是研发岗，但实际上要处理很多琐事的事情，加上处于制造业的寒冬，导致项目中断，才有了跳槽的想法。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/2cc52af43479717dfe511c8e26e85fa9.png&#34; alt=&#34;这里写图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;我依然记得当时在拉勾网上看到的一句话：&lt;strong&gt;你值得拥有更好的生活！&lt;/strong&gt; 于是在 2016 年春天，我鼓足勇气提出辞职了。辞职后我并没有着急寻找新工作，我花了些时间了解自己、了解嵌入式、了解市场。按照计划，一个人孤独地在出租房里编码、调试、验证，然后在 CSDN 上做记录。我开始习惯于独立思考，不再畏惧孤独感，也很享受这种学习节奏。期间研究了一个基于 STM32 的四轴飞行器项目，同时获得了一个嵌入式资格证书。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/dc86678e5925e10f1010c039a45f4eac.png&#34; alt=&#34;这里写图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;另外，还按照自己的想法实现了一个简易智能家居模型，尝试构思控制终端的界面设计，部分界面如下。色彩搭配和操作体验有待商榷，但我真的挺喜欢这种界面风格。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/512ebcab00213765cccada70a92bec12.png&#34; alt=&#34;这里写图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;虽然研究自己感兴趣的东西会让我感到兴奋而充实，但毕竟一线城市的生活成本并不低，慢慢地感觉需要开始找工作了，于是开始有目标地投递简历。这时的我跟毕业时的我相比，在找工作的过程中有了更多选择权，不会因为毕业于普通本科院校并且是非科班出身的程序员而感到担忧。是的，我想：只要我们真正努力了，结果就不会比我们所预计的差。&lt;/p&gt;
+&lt;p&gt;于是到了夏天，我顺利地拿下了自己期望的工作和薪资，得到一份嵌入式软件工程师的工作。新的工作给我很大的自由度，能经常参加一些嵌入式研讨会和培训课，而这些是我前两年从未享受过的，因此我很感谢目前公司给我的机会。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/20eb41ce00782b61537833635041b890.png&#34; alt=&#34;这里写图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;生活圈子从郊区转移到市区，压抑两年的心得到了释放，尽情地享受市区的便利和良好的基础设施。除了参加各种技术研讨会和培训课，也参加一些线上线下交流活动，从中认识到了一些志同道合的朋友，也拓展了视野。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/b9056d2c989db4207be300494f625dfe.png&#34; alt=&#34;这里写图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;业余时间我也没闲着，多做运动，保持良好的体魄。也会经常逛逛各大技术论坛、写写博客。我觉得分享能更快地提高技术水平，也能促进社会进步。这一年来坚持在 CSDN 和印象笔记中记录所思所想，在 Github、CSDN、21ic、极客学院、与非网、雷锋网、北航杂志社等多个平台和论坛上留下了足迹，感受到开源给我们工作和生活带来的变化，我也很乐于成为追求自由的一员，享受分享带来的快乐。当然，乐于分享带来的好处就是，偶尔会收到一些小礼品，例如开发板和书籍。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/d6f49ecb95edb863b121e292742b215e.png&#34; alt=&#34;这里写图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;经过这两年多的磨练，我认为对于程序员或工程师，除了技术本身，沟通能力也十分重要。如今社会分工明确，需要协同开发，有效的沟通有助于工作顺利开展，工程师更不应该故步自封，自大自负，或者妄自菲薄。而应该多从合作者或全局的角度来思考问题，多听别人意见，然后用辩证统一的思维去整合。这也就是控制工程中所说的闭环系统，反馈很重要，但如何处理反馈更重要。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/a295a8b6d13e95968c957aede19cf8ec.png&#34; alt=&#34;这里写图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;由于担任的是嵌入式软件工程师，日常工作不仅是操作系统层面的构建、移植，还需要协调硬件和软件的开发，例如与硬件工程师一起进行器件选型、验证，与软件工程师一起调研、实施软件架构。除此之外，还要与供应商、合作商沟通协调。说实话，刚开始真的有点不适应，因为以前从未接触过供应商、合作商，对于商务礼仪知之甚少，更何况还要解决实际工程问题。还好，现在感觉在沟通上的问题不大了，如果你问我怎么克服，我只能说都是被逼着上的！&lt;/p&gt;
+&lt;p&gt;哈哈，这里插入一个程序员专属笑话调节一下气氛。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/666e839248032de5dfd0b774bf56fd9b.png&#34; alt=&#34;这里写图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;要是说 2016 年我得到了什么，我觉得最大的收获是&lt;strong&gt;思想层次的提高&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;说实话，刚离职的时候，心中充满了怨念，因为没有年终奖，因为项目被搁置了，因为得不到领导的重视，等等。但我现在不会有这些想法了，也许以后都不会有。在离职后进行了多次深入的自我对话，让我能更加清晰、客观地看待一些人和事，也明白了自己的核心竞争力到底是什么。那我的核心竞争力是什么呢？其实我也很难说清楚，但有几点我是确定的，第一是初始化阶段（成长阶段）所带来的特质 —— 例如敏感；第二是学习能力；第三是分享精神；第四是开放的态度；第五是善于自省。&lt;/p&gt;
+&lt;p&gt;几个月前，有同学找我要一些 Qt 的代码，我毫无保留地给他了，有的人认为这会让自己多一个竞争对手，但是我认为我多了一个潜在的合作伙伴。有同学找我帮忙写一个电力系统的单片机程序，虽然工作有点忙，但我并没有拒绝，我认为这是他给我的学习机会。后来又有朋友送我一套 nRF51822 套件，但需要在论坛上分享学习过程，虽然我目前的工作中并没有用上，但我还是愉快地接受了这个邀请。还有北航杂志社经常邀请我们写一些心得体会，我也会尽量去写，因此还收录到《单片机与嵌入式系统应用》，并且长期享受赠刊福利。工作上，我只负责 Linux 系统的构建，但我会额外地开发一些测试软件以方便测试人员使用，同时由于我并不排斥界面开发，甚至为了一致性，会自己动手绘制图标，因为这样我得到了更多的机会。&lt;/p&gt;
+&lt;p&gt;还有很多诸如此类的事情，我很珍惜这些学习机会。虽然我的起点稍低，但我愈发感觉自己思想的充实。当我知道的越多，我越感觉自己无知，而这种无知又会激发我的求知欲望，使我不断丰富自己。简单来说就是 ——&lt;strong&gt; 年轻人不要害怕吃亏，所有的努力终究不会白费。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;其实，硬件做到底就是物理和材料，软件做到底就是哲学和思想。现在的我，虽然对整个嵌入式系统的认识更清晰了，但仍有很多未知之地等待我去探索，我需要做的就是 —— 永远保持学习的态度。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/1f1564d7a11250b3da7e6b50c58dc4ab.png&#34; alt=&#34;这里写图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在这里用一句话来勉励你我：真正有才华的人，往往不是天赋异禀，而是习惯了勤奋。如果你的才华配不上梦想，脚步跟不上目光，所有的任性不过是一念幻想。&lt;/p&gt;
+&lt;p&gt;经历了 2016 年，我开始感觉自己有点像工程师了。也习惯于寻找工作与生活之间的平衡点，寻找实现人生价值的最优路径。&lt;/p&gt;
+&lt;p&gt;随手拍一下桌面留个纪念，对于买不起房的我来说，实在不敢买太多纸质书。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/772de10dc36b3a20f67a708f4da3c1d4.png&#34; alt=&#34;这里写图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;希望早日拥有一个属于我自己的书房吧！像这样… 这样… 或者这样… 就行了。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/8236f871ab2761c0879c9a88f144600d.png&#34; alt=&#34;这里写图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这是我的 2016，学会了反思，学会了在孤独中成长。2017 年，我希望能够在嵌入式技术方面更上一层楼，业余时间尽我所能去做更多有意义的事，同时写出更多原创博客。我们继续加油吧！&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Say hello to 2017，不忘初心，奋力前行&lt;/p&gt;
+</content>
+        <category term="工作" />
+        <category term="总结" />
+        <updated>2016-12-20T05:31:56.000Z</updated>
+    </entry>
+</feed>

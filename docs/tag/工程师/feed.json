@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "成为自由人 • All posts by \"工程师\" tag",
+    "description": "阿基米东的网络日志",
+    "home_page_url": "https://luhuadong.com",
+    "items": [
+        {
+            "id": "https://luhuadong.com/industry/how-to-learn-electrical-engineering.html",
+            "url": "https://luhuadong.com/industry/how-to-learn-electrical-engineering.html",
+            "title": "电子电气工程师（EE）学习路线",
+            "date_published": "2021-10-09T07:57:09.000Z",
+            "content_html": "<h2 id=\"说明\"><a class=\"markdownIt-Anchor\" href=\"#说明\">#</a> 说明</h2>\n<ul>\n<li><strong>EE</strong>：<br>\n通常指电气工程（Electrical Engineering）或电子工程（Electronic Engineering），又或者电子电气工程（Electrical and Electronics Engineering，EEE）。简单来说，是一门以电磁学为基础，研究利用电与磁现象传输、转化能量的工程学科，其研究内容涵盖了产生电能（发电）、传输电能（输配电）、转化电能、储存电能、使用电能（用电器）等环节。而电子工程则是电气工程的一个分支，涉及电磁频谱的使用以及集成电路和晶体管等电子设备的应用。也就是说，电气工程偏向强电（能源），电子工程偏向弱电（计算机硬件）。</li>\n<li><strong>CS</strong>：<br>\n通常指计算机科学（Computer Science），是一门包括各种各样与计算机信息处理相关的系统学科，从抽象的操作系统、数据结构、算法分析等，到更具体的如编程语言、程序设计、网络安全、数据分析、人工智能等。最常见的工作就是潜伏在各大 IT 公司的各类程序员们。</li>\n<li><strong>STEM</strong>：<br>\nSTEM 是科学（Science）、技术（Technology）、工程（Engineering）和数学（Mathematics）四个单词的缩写，意味着它融合了这四门学科的知识与技能。能够同时掌握这几门学科的人都是很厉害的，而且他们可能在艺术和人文方面也颇有见解。这类人有时也被称为创客（Maker）或极客（Geek），拥有自驱力极强的学习与创造能力。</li>\n</ul>\n<p>代表人物：尼古拉・特斯拉、稚晖君</p>\n<h2 id=\"学习路线\"><a class=\"markdownIt-Anchor\" href=\"#学习路线\">#</a> 学习路线</h2>\n<p>基础课程学习类：</p>\n<ul>\n<li>电路 —— 推荐课程：<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cueHVldGFuZ3guY29tL2NvdXJzZS9USFUwODA2MTAwMDI5NC83NzU0MzAw\">电路原理 - 清华大学</span></li>\n</ul>\n<h2 id=\"机器人设计\"><a class=\"markdownIt-Anchor\" href=\"#机器人设计\">#</a> 机器人设计</h2>\n<ul>\n<li>机械设计</li>\n<li>硬件设计</li>\n<li>嵌入式系统</li>\n<li>算法</li>\n<li>机器学习</li>\n<li>艺术</li>\n</ul>\n<h2 id=\"references\"><a class=\"markdownIt-Anchor\" href=\"#references\">#</a> References</h2>\n<ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuemhpaHUuY29tL3F1ZXN0aW9uLzIxNDE1MTA5\">我想成为电气工程师，学习电气有哪些可以利用的好的网络资源？</span></li>\n</ul>\n",
+            "tags": [
+                "工程师",
+                "创客",
+                "学习"
+            ]
+        }
+    ]
+}

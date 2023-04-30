@@ -1,72 +1,465 @@
+
+
+
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
-<meta name="theme-color" content="#222">
-<meta name="generator" content="Hexo 5.0.2">
+<meta name="theme-color" content="#FFF">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="icon" type="image/ico" sizes="32x32" href="/images/favicon.ico">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta http-equiv="Cache-Control" content="no-siteapp">
 
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/lu_avatar_01_120px.png">
-  <link rel="mask-icon" href="/images/lu_avatar_01_240px.png" color="#222">
+<link rel="alternate" type="application/rss+xml" title="成为自由人" href="https://luhuadong.com/rss.xml" />
+<link rel="alternate" type="application/atom+xml" title="成为自由人" href="https://luhuadong.com/atom.xml" />
+<link rel="alternate" type="application/json" title="成为自由人" href="https://luhuadong.com/feed.json" />
 
-<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Mulish:300,300italic,400,400italic,700,700italic%7CFredericka%20the%20Great:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20JP:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20SC:300,300italic,400,400italic,700,700italic%7CInconsolata:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
 
+<link rel="stylesheet" href="/css/app.css?v=0.2.5">
 
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3396347538857110" crossorigin="anonymous"></script>
-
-<script class="hexo-configurations">
-    var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
-  </script>
-<meta name="description" content="如果你和我一样，平时习惯使用 Markdown 写作，当我们想把文章发布到微信公众号或知乎等平台时，就会发现挺麻烦的，尤其是排版方面，因为它们并不支持 Markdown 格式。  那有没有简单高效的办法呢？答案是有的！  你可以借助微信公众号 Markdown 在线编辑器，将写好的 Markdown 文章粘贴过去，调整排版主题，即可生成适合微信公众号或知乎风格的文章。  推荐使用下面几款工具：">
-<meta property="og:type" content="article">
-<meta property="og:title" content="将 Markdown 格式文章发布到微信公众号">
-<meta property="og:url" content="https://luhuadong.com/markdown/markdown-to-wechat.html">
-<meta property="og:site_name" content="成为自由人">
-<meta property="og:description" content="如果你和我一样，平时习惯使用 Markdown 写作，当我们想把文章发布到微信公众号或知乎等平台时，就会发现挺麻烦的，尤其是排版方面，因为它们并不支持 Markdown 格式。  那有没有简单高效的办法呢？答案是有的！  你可以借助微信公众号 Markdown 在线编辑器，将写好的 Markdown 文章粘贴过去，调整排版主题，即可生成适合微信公众号或知乎风格的文章。  推荐使用下面几款工具：">
-<meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://luhuadong.com/images/md/markdown-to-wechat-banner.png">
-<meta property="article:published_time" content="2023-01-26T19:53:41.000Z">
-<meta property="article:modified_time" content="2023-03-24T17:27:54.609Z">
-<meta property="article:author" content="Rudy Lo">
-<meta property="article:tag" content="Markdown">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://luhuadong.com/images/md/markdown-to-wechat-banner.png">
+  
+  <meta name="keywords" content="Markdown" />
 
 
 <link rel="canonical" href="https://luhuadong.com/markdown/markdown-to-wechat.html">
 
 
-<script class="page-configurations">
-  // https://hexo.io/docs/variables.html
-  CONFIG.page = {
-    sidebar: "",
-    isHome : false,
-    isPost : true,
-    lang   : 'zh-CN'
+
+  <title>
+将 Markdown 格式文章发布到微信公众号 - 一起学Markdown |
+Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</title>
+<meta name="generator" content="Hexo 5.4.2"></head>
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div id="loading">
+    <div class="cat">
+      <div class="body"></div>
+      <div class="head">
+        <div class="face"></div>
+      </div>
+      <div class="foot">
+        <div class="tummy-end"></div>
+        <div class="bottom"></div>
+        <div class="legs left"></div>
+        <div class="legs right"></div>
+      </div>
+      <div class="paw">
+        <div class="hands left"></div>
+        <div class="hands right"></div>
+      </div>
+    </div>
+  </div>
+  <div id="container">
+    <header id="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="inner">
+        <div id="brand">
+          <div class="pjax">
+          
+  <h1 itemprop="name headline">将 Markdown 格式文章发布到微信公众号
+  </h1>
+  
+<div class="meta">
+  <span class="item" title="创建时间：2023-01-27 03:53:41">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <span class="text">发表于</span>
+    <time itemprop="dateCreated datePublished" datetime="2023-01-27T03:53:41+08:00">2023-01-27</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span class="text">本文字数</span>
+    <span>307</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span class="text">阅读时长</span>
+    <span>1 分钟</span>
+  </span>
+</div>
+
+
+          </div>
+        </div>
+        <nav id="nav">
+  <div class="inner">
+    <div class="toggle">
+      <div class="lines" aria-label="切换导航栏">
+        <span class="line"></span>
+        <span class="line"></span>
+        <span class="line"></span>
+      </div>
+    </div>
+    <ul class="menu">
+      <li class="item title"><a href="/" rel="start">Freedom Blog</a></li>
+    </ul>
+    <ul class="right">
+      <li class="item theme">
+        <i class="ic i-sun"></i>
+      </li>
+      <li class="item search">
+        <i class="ic i-search"></i>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+      </div>
+      <div id="imgs" class="pjax">
+        <ul>
+          <li class="item" data-background-image="http://static.luhuadong.com/QingMing2023.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/JavaBromo.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/YuanyangChina.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/OrcaNorway.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/AgueroSpain.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/NahargarhFort.jpg"></li>
+        </ul>
+      </div>
+    </header>
+    <div id="waves">
+      <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+        <defs>
+          <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+        </defs>
+        <g class="parallax">
+          <use xlink:href="#gentle-wave" x="48" y="0" />
+          <use xlink:href="#gentle-wave" x="48" y="3" />
+          <use xlink:href="#gentle-wave" x="48" y="5" />
+          <use xlink:href="#gentle-wave" x="48" y="7" />
+        </g>
+      </svg>
+    </div>
+    <main>
+      <div class="inner">
+        <div id="main" class="pjax">
+          
+  <div class="article wrap">
+    
+<div class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+<i class="ic i-home"></i>
+<span><a href="/">首页</a></span><i class="ic i-angle-right"></i>
+<span  class="current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/categories/%E4%B8%80%E8%B5%B7%E5%AD%A6Markdown/" itemprop="item" rel="index" title="分类于 一起学Markdown"><span itemprop="name">一起学Markdown</span></a>
+<meta itemprop="position" content="1" /></span>
+</div>
+
+    <article itemscope itemtype="http://schema.org/Article" class="post block" lang="zh-CN">
+  <link itemprop="mainEntityOfPage" href="https://luhuadong.com/markdown/markdown-to-wechat.html">
+
+  <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <meta itemprop="image" content="/images/lu_20221221.jpg">
+    <meta itemprop="name" content="Rudy Lo">
+    <meta itemprop="description" content="生活的理想，就是为了理想的生活, 阿基米东的网络日志">
+  </span>
+
+  <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+    <meta itemprop="name" content="成为自由人">
+  </span>
+
+  <div class="body md" itemprop="articleBody">
+    
+
+    <p><img data-src="/images/md/markdown-to-wechat-banner.png" alt=""></p>
+<p>如果你和我一样，平时习惯使用 Markdown 写作，当我们想把文章发布到微信公众号或知乎等平台时，就会发现挺麻烦的，尤其是排版方面，因为它们并不支持 Markdown 格式。</p>
+<p>那有没有简单高效的办法呢？答案是有的！</p>
+<p>你可以借助<strong>微信公众号 Markdown 在线编辑器</strong>，将写好的 Markdown 文章粘贴过去，调整排版主题，即可生成适合微信公众号或知乎风格的文章。</p>
+<p>推荐使用下面几款工具：</p>
+<ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9tYXJrZG93bi5jb20uY24vZWRpdG9yLw==">https://markdown.com.cn/editor/</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93YW5nY2h1amlhbmcuY29tL3d4bXAv">https://wangchujiang.com/wxmp/</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9sYWIubHlyaWMuaW0vd3hmb3JtYXQv">https://lab.lyric.im/wxformat/</span></li>
+<li><span class="exturl" data-url="aHR0cDovL21kLmFjbGlja2FsbC5jb20v">http://md.aclickall.com/</span></li>
+</ul>
+<p>🚀 🚀 🚀 👍</p>
+
+      <div class="tags">
+          <a href="/tags/Markdown/" rel="tag"><i class="ic i-tag"></i> Markdown</a>
+      </div>
+  </div>
+
+   <footer>
+
+    <div class="meta">
+  <span class="item">
+    <span class="icon">
+      <i class="ic i-calendar-check"></i>
+    </span>
+    <span class="text">更新于</span>
+    <time title="修改时间：2023-04-30 16:10:37" itemprop="dateModified" datetime="2023-04-30T16:10:37+08:00">2023-04-30</time>
+  </span>
+  <span id="markdown/markdown-to-wechat.html" class="item leancloud_visitors" data-flag-title="将 Markdown 格式文章发布到微信公众号" title="阅读次数">
+      <span class="icon">
+        <i class="ic i-eye"></i>
+      </span>
+      <span class="text">阅读次数</span>
+      <span class="leancloud-visitors-count"></span>
+      <span class="text">次</span>
+  </span>
+</div>
+
+      
+<div class="reward">
+  <button><i class="ic i-heartbeat"></i> 赞赏</button>
+  <p>请我喝[茶]~(￣▽￣)~*</p>
+  <div id="qr">
+      
+      <div>
+        <img data-src="/images/wechatpay-small.jpeg" alt="Rudy Lo 微信支付">
+        <p>微信支付</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/alipay-small.jpeg" alt="Rudy Lo 支付宝">
+        <p>支付宝</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/avatar.png" alt="Rudy Lo 贝宝">
+        <p>贝宝</p>
+      </div>
+  </div>
+</div>
+
+      
+
+<div id="copyright">
+<ul>
+  <li class="author">
+    <strong>本文作者： </strong>Rudy Lo <i class="ic i-at"><em>@</em></i>成为自由人
+  </li>
+  <li class="link">
+    <strong>本文链接：</strong>
+    <a href="https://luhuadong.com/markdown/markdown-to-wechat.html" title="将 Markdown 格式文章发布到微信公众号">https://luhuadong.com/markdown/markdown-to-wechat.html</a>
+  </li>
+  <li class="license">
+    <strong>版权声明： </strong>本站所有文章除特别声明外，均采用 <span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzQuMC9kZWVkLnpo"><i class="ic i-creative-commons"><em>(CC)</em></i>BY-NC-SA</span> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+  </footer>
+
+</article>
+
+  </div>
+  
+
+<div class="post-nav">
+    <div class="item left">
+      
+
+  <a href="/money/%E5%9F%8E%E4%B9%A1%E5%B1%85%E6%B0%91%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9.html" itemprop="url" rel="prev" data-background-image="http:&#x2F;&#x2F;static.luhuadong.com&#x2F;EdaleValley.jpg" title="城乡居民养老保险">
+  <span class="type">上一篇</span>
+  <span class="category"><i class="ic i-flag"></i> 好好赚钱</span>
+  <h3>城乡居民养老保险</h3>
+  </a>
+
+    </div>
+    <div class="item right">
+      
+
+  <a href="/guideline.html" itemprop="url" rel="next" data-background-image="http:&#x2F;&#x2F;static.luhuadong.com&#x2F;OrcaNorway.jpg" title="「成为自由人」博客阅读指南">
+  <span class="type">下一篇</span>
+  <span class="category"><i class="ic i-flag"></i> </span>
+  <h3>「成为自由人」博客阅读指南</h3>
+  </a>
+
+    </div>
+</div>
+
+  
+  <div class="wrap" id="comments"></div>
+
+
+        </div>
+        <div id="sidebar">
+          
+
+<div class="inner">
+
+  <div class="panels">
+    <div class="inner">
+      <div class="contents panel pjax" data-title="文章目录">
+      </div>
+      <div class="related panel pjax" data-title="系列文章">
+        <ul>
+          <li><a href="/markdown/csdn-markdown.html" rel="bookmark" title="CSDN 博客的 Markdown 语法">CSDN 博客的 Markdown 语法</a></li><li><a href="/markdown/markdown-intro.html" rel="bookmark" title="三分钟成为 Markdown 专家">三分钟成为 Markdown 专家</a></li><li><a href="/markdown/markdown-editor.html" rel="bookmark" title="盘点好用的 Markdown 编辑器">盘点好用的 Markdown 编辑器</a></li><li><a href="/markdown/markdown-basic-syntax.html" rel="bookmark" title="快速了解 Markdown 基础语法">快速了解 Markdown 基础语法</a></li><li><a href="/markdown/markdown-extended-syntax.html" rel="bookmark" title="了解常用 Markdown 扩展语法">了解常用 Markdown 扩展语法</a></li><li><a href="/markdown/markdown-emoji.html" rel="bookmark" title="俏皮的 Markdown Emoji 表情">俏皮的 Markdown Emoji 表情</a></li><li><a href="/markdown/markdown-formulas-expression.html" rel="bookmark" title="一次搞定 Markdown 公式表达">一次搞定 Markdown 公式表达</a></li><li><a href="/markdown/markdown-flow-chart.html" rel="bookmark" title="学会用 Markdown 画流程图">学会用 Markdown 画流程图</a></li><li><a href="/markdown/markdown-sequence-diagram.html" rel="bookmark" title="学会用 Markdown 画时序图">学会用 Markdown 画时序图</a></li><li class="active"><a href="/markdown/markdown-to-wechat.html" rel="bookmark" title="将 Markdown 格式文章发布到微信公众号">将 Markdown 格式文章发布到微信公众号</a></li>
+        </ul>
+      </div>
+      <div class="overview panel" data-title="站点概览">
+        <div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <img class="image" itemprop="image" alt="Rudy Lo"
+      data-src="/images/lu_20221221.jpg">
+  <p class="name" itemprop="name">Rudy Lo</p>
+  <div class="description" itemprop="description">阿基米东的网络日志</div>
+</div>
+
+<nav class="state">
+    <div class="item posts">
+      <a href="/archives/">
+        <span class="count">295</span>
+        <span class="name">文章</span>
+      </a>
+    </div>
+    <div class="item categories">
+      <a href="/categories/">
+        <span class="count">35</span>
+        <span class="name">分类</span>
+      </a>
+    </div>
+    <div class="item tags">
+      <a href="/tags/">
+        <span class="count">80</span>
+        <span class="name">标签</span>
+      </a>
+    </div>
+</nav>
+
+<div class="social">
+      <span class="exturl item github" data-url="aHR0cHM6Ly9naXRodWIuY29tL2x1aHVhZG9uZw==" title="https:&#x2F;&#x2F;github.com&#x2F;luhuadong"><i class="ic i-github"></i></span>
+      <span class="exturl item csdn" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x1X2VtYmVkZGVk" title="https:&#x2F;&#x2F;blog.csdn.net&#x2F;lu_embedded"><i class="ic i-address-card"></i></span>
+      <span class="exturl item zhihu" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9hcm1zdHJvbmcyMDE0" title="https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014"><i class="ic i-zhihu"></i></span>
+      <span class="exturl item douban" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC83MzAwNDcv" title="https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;"><i class="ic i-douban"></i></span>
+      <span class="exturl item weibo" data-url="aHR0cHM6Ly93ZWliby5jb20vdS8yMDAwMzkxOTUx" title="https:&#x2F;&#x2F;weibo.com&#x2F;u&#x2F;2000391951"><i class="ic i-weibo"></i></span>
+      <span class="exturl item email" data-url="bWFpbHRvOmx1aHVhZG9uZ0AxNjMuY29t" title="mailto:luhuadong@163.com"><i class="ic i-envelope"></i></span>
+</div>
+
+<ul class="menu">
+  
+    
+  <li class="item">
+    <a href="/" rel="section"><i class="ic i-home"></i>首页</a>
+  </li>
+
+    
+  <li class="item">
+    <a href="/about/" rel="section"><i class="ic i-user"></i>关于</a>
+  </li>
+
+        
+  <li class="item dropdown">
+      <a href="javascript:void(0);"><i class="ic i-feather"></i>文章</a>
+    <ul class="submenu">
+
+        
+  <li class="item">
+    <a href="/archives/" rel="section"><i class="ic i-list-alt"></i>归档</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/categories/" rel="section"><i class="ic i-th"></i>分类</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/tags/" rel="section"><i class="ic i-tags"></i>标签</a>
+  </li>
+
+  </ul>
+
+</ul>
+
+      </div>
+    </div>
+  </div>
+
+  <ul id="quick">
+    <li class="prev pjax">
+        <a href="/money/%E5%9F%8E%E4%B9%A1%E5%B1%85%E6%B0%91%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9.html" rel="prev" title="上一篇"><i class="ic i-chevron-left"></i></a>
+    </li>
+    <li class="up"><i class="ic i-arrow-up"></i></li>
+    <li class="down"><i class="ic i-arrow-down"></i></li>
+    <li class="next pjax">
+        <a href="/guideline.html" rel="next" title="下一篇"><i class="ic i-chevron-right"></i></a>
+    </li>
+    <li class="percent"></li>
+  </ul>
+</div>
+
+
+        </div>
+        <div class="dimmer"></div>
+      </div>
+    </main>
+    <footer id="footer">
+      <div class="inner">
+        <div class="widgets">
+          
+
+        </div>
+        <div class="status">
+  <div class="copyright">
+    
+    &copy; 2014 – 
+    <span itemprop="copyrightYear">2023</span>
+    <span class="with-love">
+      <i class="ic i-sakura rotate"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">Rudy Lo @ Freedom Blog</span>
+  </div>
+  <div class="count">
+    <span class="post-meta-item-icon">
+      <i class="ic i-chart-area"></i>
+    </span>
+    <span title="站点总字数">591k 字</span>
+
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="ic i-coffee"></i>
+    </span>
+    <span title="站点阅读时长">8:57</span>
+  </div>
+  <div class="powered-by">
+    基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
+  </div>
+</div>
+
+      </div>
+    </footer>
+  </div>
+<script data-config type="text/javascript">
+  var LOCAL = {
+    path: 'markdown/markdown-to-wechat.html',
+    favicon: {
+      show: "（●´3｀●）やれやれだぜ",
+      hide: "(´Д｀)大変だ！"
+    },
+    search : {
+      placeholder: "文章搜索",
+      empty: "关于 「 ${query} 」，什么也没搜到",
+      stats: "${time} ms 内找到 ${hits} 条结果"
+    },
+    valine: true,fancybox: true,
+    copyright: '复制成功，转载请遵守 <i class="ic i-creative-commons"></i>BY-NC-SA 协议。',
+    ignores : [
+      function(uri) {
+        return uri.includes('#');
+      },
+      function(uri) {
+        return new RegExp(LOCAL.path+"$").test(uri);
+      }
+    ]
   };
 </script>
-<title>将 Markdown 格式文章发布到微信公众号 | 成为自由人</title>
-  
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
-    <script>
-      if (CONFIG.hostname === location.hostname) {
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-190737867-1');
-      }
-    </script>
 
-  <script>
+<script src="https://cdn.polyfill.io/v2/polyfill.js"></script>
+
+<script src="//cdn.jsdelivr.net/combine/npm/pace-js@1.0.2/pace.min.js,npm/pjax@0.2.8/pjax.min.js,npm/whatwg-fetch@3.4.0/dist/fetch.umd.min.js,npm/animejs@3.2.0/lib/anime.min.js,npm/algoliasearch@4/dist/algoliasearch-lite.umd.js,npm/instantsearch.js@4/dist/instantsearch.production.min.js,npm/lozad@1/dist/lozad.min.js,npm/quicklink@2/dist/quicklink.umd.js"></script>
+
+<script src="/js/app.js?v=0.2.5"></script>
+
+
+  <script data-pjax>
     var _hmt = _hmt || [];
     (function() {
       var hm = document.createElement("script");
@@ -75,501 +468,6 @@
       s.parentNode.insertBefore(hm, s);
     })();
   </script>
-
-
-
-  <noscript>
-  <style>
-  body { margin-top: 2rem; }
-
-  .use-motion .menu-item,
-  .use-motion .sidebar,
-  .use-motion .post-block,
-  .use-motion .pagination,
-  .use-motion .comments,
-  .use-motion .post-header,
-  .use-motion .post-body,
-  .use-motion .collection-header {
-    visibility: visible;
-  }
-
-  .use-motion .header,
-  .use-motion .site-brand-container .toggle,
-  .use-motion .footer { opacity: initial; }
-
-  .use-motion .site-title,
-  .use-motion .site-subtitle,
-  .use-motion .custom-logo-image {
-    opacity: initial;
-    top: initial;
-  }
-
-  .use-motion .logo-line {
-    transform: scaleX(1);
-  }
-
-  .search-pop-overlay, .sidebar-nav { display: none; }
-  .sidebar-panel { display: block; }
-  </style>
-</noscript>
-
-</head>
-
-<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
-  <div class="headband"></div>
-
-  <!-- 加入APlayer音乐播放器 -->
-  <link rel="stylesheet" href="/dist/APlayer.min.css">
-  <div id="aplayer"></div>
-  <script type="text/javascript" src="/dist/APlayer.min.js"></script>
-  <script type="text/javascript" src="/dist/music.js"></script>
-
-  <main class="main">
-    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header-inner"><div class="site-brand-container">
-  <div class="site-nav-toggle">
-    <div class="toggle" aria-label="切换导航栏" role="button">
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-    </div>
-  </div>
-
-  <div class="site-meta">
-
-    <a href="/" class="brand" rel="start">
-      <i class="logo-line"></i>
-      <h1 class="site-title">成为自由人</h1>
-      <i class="logo-line"></i>
-    </a>
-      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
-      <img class="custom-logo-image" src="/images/banner_1.gif" alt="成为自由人">
-  </div>
-
-  <div class="site-nav-right">
-    <div class="toggle popup-trigger">
-        <i class="fa fa-search fa-fw fa-lg"></i>
-    </div>
-  </div>
-</div>
-
-
-
-<nav class="site-nav">
-  <ul class="main-menu menu">
-        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
-        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
-        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
-        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
-        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
-        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
-        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
-        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
-      <li class="menu-item menu-item-search">
-        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
-        </a>
-      </li>
-  </ul>
-</nav>
-
-
-
-  <div class="search-pop-overlay">
-    <div class="popup search-popup"><div class="search-header">
-  <span class="search-icon">
-    <i class="fa fa-search"></i>
-  </span>
-  <div class="search-input-container">
-    <input autocomplete="off" autocapitalize="off" maxlength="80"
-           placeholder="搜索..." spellcheck="false"
-           type="search" class="search-input">
-  </div>
-  <span class="popup-btn-close" role="button">
-    <i class="fa fa-times-circle"></i>
-  </span>
-</div>
-<div class="search-result-container no-result">
-  <div class="search-result-icon">
-    <i class="fa fa-spinner fa-pulse fa-5x"></i>
-  </div>
-</div>
-
-    </div>
-  </div>
-
-</div>
-        
-  
-  <div class="toggle sidebar-toggle" role="button">
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-  </div>
-
-  <aside class="sidebar">
-
-    <div class="sidebar-inner sidebar-overview-active">
-      <ul class="sidebar-nav">
-        <li class="sidebar-nav-toc">
-          文章目录
-        </li>
-        <li class="sidebar-nav-overview">
-          站点概览
-        </li>
-      </ul>
-
-      <div class="sidebar-panel-container">
-        <!--noindex-->
-        <div class="post-toc-wrap sidebar-panel">
-        </div>
-        <!--/noindex-->
-
-        <div class="site-overview-wrap sidebar-panel">
-          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
-      src="/images/lu_avatar_04.jpeg">
-  <p class="site-author-name" itemprop="name">Rudy Lo</p>
-  <div class="site-description" itemprop="description">阿基米东的网络日志</div>
-</div>
-<div class="site-state-wrap site-overview-item animated">
-  <nav class="site-state">
-      <div class="site-state-item site-state-posts">
-          <a href="/archives/">
-        
-          <span class="site-state-item-count">295</span>
-          <span class="site-state-item-name">日志</span>
-        </a>
-      </div>
-      <div class="site-state-item site-state-categories">
-            <a href="/categories/">
-          
-        <span class="site-state-item-count">35</span>
-        <span class="site-state-item-name">分类</span></a>
-      </div>
-      <div class="site-state-item site-state-tags">
-            <a href="/tags/">
-          
-        <span class="site-state-item-count">80</span>
-        <span class="site-state-item-name">标签</span></a>
-      </div>
-  </nav>
-</div>
-  <div class="links-of-author site-overview-item animated">
-      <span class="links-of-author-item">
-        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://gitee.com/luhuadong" title="Gitee → https:&#x2F;&#x2F;gitee.com&#x2F;luhuadong" rel="noopener" target="_blank">Gitee</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.douban.com/group/730047/" title="豆瓣 → https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;" rel="noopener" target="_blank">豆瓣</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://zerotogether.net/" title="零废弃部落 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零废弃部落</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
-      </span>
-  </div>
-  <div class="cc-license site-overview-item animated" itemprop="license">
-    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
-  </div>
-
-
-
-        </div>
-      </div>
-    </div>
-  </aside>
-  <div class="sidebar-dimmer"></div>
-
-
-    </header>
-
-    
-  <div class="back-to-top" role="button">
-    <i class="fa fa-arrow-up"></i>
-    <span>0%</span>
-  </div>
-
-<noscript>
-  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
-</noscript>
-
-
-    <div class="main-inner post posts-expand">
-
-
-  
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/markdown/markdown-to-wechat.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
-          将 Markdown 格式文章发布到微信公众号
-        </h1>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2023-01-27 03:53:41" itemprop="dateCreated datePublished" datetime="2023-01-27T03:53:41+08:00">2023-01-27</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%80%E8%B5%B7%E5%AD%A6Markdown/" itemprop="url" rel="index"><span itemprop="name">一起学Markdown</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-        <p><img src="/images/md/markdown-to-wechat-banner.png"></p>
-<p>如果你和我一样，平时习惯使用 Markdown 写作，当我们想把文章发布到微信公众号或知乎等平台时，就会发现挺麻烦的，尤其是排版方面，因为它们并不支持 Markdown 格式。</p>
-<p>那有没有简单高效的办法呢？答案是有的！</p>
-<p>你可以借助<strong>微信公众号 Markdown 在线编辑器</strong>，将写好的 Markdown 文章粘贴过去，调整排版主题，即可生成适合微信公众号或知乎风格的文章。</p>
-<p>推荐使用下面几款工具：</p>
-<ul>
-<li><a target="_blank" rel="noopener" href="https://markdown.com.cn/editor/">https://markdown.com.cn/editor/</a></li>
-<li><a target="_blank" rel="noopener" href="https://wangchujiang.com/wxmp/">https://wangchujiang.com/wxmp/</a></li>
-<li><a target="_blank" rel="noopener" href="https://lab.lyric.im/wxformat/">https://lab.lyric.im/wxformat/</a></li>
-<li><a target="_blank" rel="noopener" href="http://md.aclickall.com/">http://md.aclickall.com/</a></li>
-</ul>
-<p>🚀 🚀 🚀 👍</p>
-
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-          <div class="reward-container">
-  <div>您的鼓励是我最大的动力！</div>
-  <button onclick="document.querySelector('.post-reward').classList.toggle('active');">
-    赞赏
-  </button>
-  <div class="post-reward">
-      <div>
-        <img src="/images/wechatpay.jpeg" alt="Rudy Lo 微信">
-        <span>微信</span>
-      </div>
-      <div>
-        <img src="/images/alipay.jpeg" alt="Rudy Lo 支付宝">
-        <span>支付宝</span>
-      </div>
-
-  </div>
-</div>
-
-          
-
-<div class="post-copyright">
-<ul>
-  <li class="post-copyright-author">
-      <strong>本文作者： </strong>Rudy Lo
-  </li>
-  <li class="post-copyright-link">
-      <strong>本文链接：</strong>
-      <a href="https://luhuadong.com/markdown/markdown-to-wechat.html" title="将 Markdown 格式文章发布到微信公众号">https://luhuadong.com/markdown/markdown-to-wechat.html</a>
-  </li>
-  <li class="post-copyright-license">
-    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
-  </li>
-</ul>
-</div>
-
-          <div class="post-tags">
-              <a href="/tags/Markdown/" rel="tag"># Markdown</a>
-          </div>
-
-        
-
-          <div class="post-nav">
-            <div class="post-nav-item">
-                <a href="/money/%E5%9F%8E%E4%B9%A1%E5%B1%85%E6%B0%91%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9.html" rel="prev" title="城乡居民养老保险">
-                  <i class="fa fa-chevron-left"></i> 城乡居民养老保险
-                </a>
-            </div>
-            <div class="post-nav-item">
-                <a href="/guideline.html" rel="next" title="「成为自由人」博客阅读指南">
-                  「成为自由人」博客阅读指南 <i class="fa fa-chevron-right"></i>
-                </a>
-            </div>
-          </div>
-    </footer>
-  </article>
-</div>
-
-
-
-
-
-
-    
-  
-  <div class="comments">
-    <script src="https://giscus.app/client.js"
-        data-repo="luhuadong/blog" 
-        data-repo-id="MDEwOlJlcG9zaXRvcnkzNDEzOTU5NzQ=" 
-        data-category="General"
-        data-category-id="DIC_kwDOFFlKBs4CSTqq"
-        data-mapping="pathname" 
-        data-reactions-enabled="1" 
-        data-emit-metadata="1" 
-        data-theme="light"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        data-input-position="bottom"
-        data-loading="lazy"
-        async>
-    </script>
-  </div>
-  
-  
-
-<script>
-  window.addEventListener('tabs:register', () => {
-    let { activeClass } = CONFIG.comments;
-    if (CONFIG.comments.storage) {
-      activeClass = localStorage.getItem('comments_active') || activeClass;
-    }
-    if (activeClass) {
-      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
-      if (activeTab) {
-        activeTab.click();
-      }
-    }
-  });
-  if (CONFIG.comments.storage) {
-    window.addEventListener('tabs:click', event => {
-      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
-      const commentClass = event.target.classList[1];
-      localStorage.setItem('comments_active', commentClass);
-    });
-  }
-</script>
-</div>
-  </main>
-
-  <footer class="footer">
-    <div class="footer-inner">
-
-
-<div class="copyright">
-  &copy; 
-  <span itemprop="copyrightYear">2023</span>
-  <span class="with-love">
-    <i class="fa fa-heart"></i>
-  </span>
-  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
-</div>
-  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
-  </div>
-
-    </div>
-  </footer>
-
-  
-  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
-
-  
-<script src="/js/local-search.js"></script>
-
-
-
-
-
-
-  
-
-
-
-
-  <script>
-  if (typeof MathJax === 'undefined') {
-    window.MathJax = {
-      tex: {
-        inlineMath: {'[+]': [['$', '$']]},
-        tags: 'none'
-      },
-      options: {
-        renderActions: {
-          insertedScript: [200, () => {
-            document.querySelectorAll('mjx-container').forEach(node => {
-              const target = node.parentNode;
-              if (target.nodeName.toLowerCase() === 'li') {
-                target.parentNode.classList.add('has-jax');
-              }
-            });
-          }, '', false]
-        }
-      }
-    };
-    const script = document.createElement('script');
-    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
-    script.defer = true;
-    document.head.appendChild(script);
-  } else {
-    MathJax.startup.document.state(0);
-    MathJax.typesetClear();
-    MathJax.texReset();
-    MathJax.typeset();
-  }
-</script>
-
 
 
 </body>

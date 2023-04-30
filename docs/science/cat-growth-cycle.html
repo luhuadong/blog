@@ -1,554 +1,360 @@
+
+
+
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
-<meta name="theme-color" content="#222">
-<meta name="generator" content="Hexo 5.0.2">
+<meta name="theme-color" content="#FFF">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="icon" type="image/ico" sizes="32x32" href="/images/favicon.ico">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta http-equiv="Cache-Control" content="no-siteapp">
 
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/lu_avatar_01_120px.png">
-  <link rel="mask-icon" href="/images/lu_avatar_01_240px.png" color="#222">
+<link rel="alternate" type="application/rss+xml" title="成为自由人" href="https://luhuadong.com/rss.xml" />
+<link rel="alternate" type="application/atom+xml" title="成为自由人" href="https://luhuadong.com/atom.xml" />
+<link rel="alternate" type="application/json" title="成为自由人" href="https://luhuadong.com/feed.json" />
 
-<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Mulish:300,300italic,400,400italic,700,700italic%7CFredericka%20the%20Great:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20JP:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20SC:300,300italic,400,400italic,700,700italic%7CInconsolata:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
 
+<link rel="stylesheet" href="/css/app.css?v=0.2.5">
 
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3396347538857110" crossorigin="anonymous"></script>
-
-<script class="hexo-configurations">
-    var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
-  </script>
-<meta name="description" content="猫的一生 类似于人类，猫的一生分为胎儿期、婴幼儿期、幼年期、少年期、青年期、中年期、老年期。   * 从受精到出生为胎儿期，差不多63-68天，此时，在母猫的子宫内，由母体提供营养。  * 从出生到2个月，为婴幼儿期，此时主要依靠母乳喂养。  * 从3个月大猫6个月，为幼年期，此时需要饲喂幼猫猫粮。  * 从7个月到2岁，为少年期，在12个月之前可以继续吃幼猫猫粮，12个月后可以更换为成猫猫粮，此">
-<meta property="og:type" content="article">
-<meta property="og:title" content="猫的生长周期">
-<meta property="og:url" content="https://luhuadong.com/science/cat-growth-cycle.html">
-<meta property="og:site_name" content="成为自由人">
-<meta property="og:description" content="猫的一生 类似于人类，猫的一生分为胎儿期、婴幼儿期、幼年期、少年期、青年期、中年期、老年期。   * 从受精到出生为胎儿期，差不多63-68天，此时，在母猫的子宫内，由母体提供营养。  * 从出生到2个月，为婴幼儿期，此时主要依靠母乳喂养。  * 从3个月大猫6个月，为幼年期，此时需要饲喂幼猫猫粮。  * 从7个月到2岁，为少年期，在12个月之前可以继续吃幼猫猫粮，12个月后可以更换为成猫猫粮，此">
-<meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2019-10-30T13:47:24.000Z">
-<meta property="article:modified_time" content="2023-03-24T17:27:54.609Z">
-<meta property="article:author" content="Rudy Lo">
-<meta property="article:tag" content="科普">
-<meta property="article:tag" content="猫">
-<meta name="twitter:card" content="summary">
+  
+  <meta name="keywords" content="科普,猫" />
 
 
 <link rel="canonical" href="https://luhuadong.com/science/cat-growth-cycle.html">
 
 
-<script class="page-configurations">
-  // https://hexo.io/docs/variables.html
-  CONFIG.page = {
-    sidebar: "",
-    isHome : false,
-    isPost : true,
-    lang   : 'zh-CN'
-  };
-</script>
-<title>猫的生长周期 | 成为自由人</title>
+
+  <title>
+猫的生长周期 - 科普知识 |
+Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</title>
+<meta name="generator" content="Hexo 5.4.2"></head>
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div id="loading">
+    <div class="cat">
+      <div class="body"></div>
+      <div class="head">
+        <div class="face"></div>
+      </div>
+      <div class="foot">
+        <div class="tummy-end"></div>
+        <div class="bottom"></div>
+        <div class="legs left"></div>
+        <div class="legs right"></div>
+      </div>
+      <div class="paw">
+        <div class="hands left"></div>
+        <div class="hands right"></div>
+      </div>
+    </div>
+  </div>
+  <div id="container">
+    <header id="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="inner">
+        <div id="brand">
+          <div class="pjax">
+          
+  <h1 itemprop="name headline">猫的生长周期
+  </h1>
   
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
-    <script>
-      if (CONFIG.hostname === location.hostname) {
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-190737867-1');
-      }
-    </script>
-
-  <script>
-    var _hmt = _hmt || [];
-    (function() {
-      var hm = document.createElement("script");
-      hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58";
-      var s = document.getElementsByTagName("script")[0];
-      s.parentNode.insertBefore(hm, s);
-    })();
-  </script>
-
-
-
-  <noscript>
-  <style>
-  body { margin-top: 2rem; }
-
-  .use-motion .menu-item,
-  .use-motion .sidebar,
-  .use-motion .post-block,
-  .use-motion .pagination,
-  .use-motion .comments,
-  .use-motion .post-header,
-  .use-motion .post-body,
-  .use-motion .collection-header {
-    visibility: visible;
-  }
-
-  .use-motion .header,
-  .use-motion .site-brand-container .toggle,
-  .use-motion .footer { opacity: initial; }
-
-  .use-motion .site-title,
-  .use-motion .site-subtitle,
-  .use-motion .custom-logo-image {
-    opacity: initial;
-    top: initial;
-  }
-
-  .use-motion .logo-line {
-    transform: scaleX(1);
-  }
-
-  .search-pop-overlay, .sidebar-nav { display: none; }
-  .sidebar-panel { display: block; }
-  </style>
-</noscript>
-
-</head>
-
-<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
-  <div class="headband"></div>
-
-  <!-- 加入APlayer音乐播放器 -->
-  <link rel="stylesheet" href="/dist/APlayer.min.css">
-  <div id="aplayer"></div>
-  <script type="text/javascript" src="/dist/APlayer.min.js"></script>
-  <script type="text/javascript" src="/dist/music.js"></script>
-
-  <main class="main">
-    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header-inner"><div class="site-brand-container">
-  <div class="site-nav-toggle">
-    <div class="toggle" aria-label="切换导航栏" role="button">
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-    </div>
-  </div>
-
-  <div class="site-meta">
-
-    <a href="/" class="brand" rel="start">
-      <i class="logo-line"></i>
-      <h1 class="site-title">成为自由人</h1>
-      <i class="logo-line"></i>
-    </a>
-      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
-      <img class="custom-logo-image" src="/images/banner_1.gif" alt="成为自由人">
-  </div>
-
-  <div class="site-nav-right">
-    <div class="toggle popup-trigger">
-        <i class="fa fa-search fa-fw fa-lg"></i>
-    </div>
-  </div>
+<div class="meta">
+  <span class="item" title="创建时间：2019-10-30 21:47:24">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <span class="text">发表于</span>
+    <time itemprop="dateCreated datePublished" datetime="2019-10-30T21:47:24+08:00">2019-10-30</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span class="text">本文字数</span>
+    <span>1.3k</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span class="text">阅读时长</span>
+    <span>1 分钟</span>
+  </span>
 </div>
 
 
-
-<nav class="site-nav">
-  <ul class="main-menu menu">
-        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
-        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
-        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
-        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
-        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
-        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
-        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
-        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
-      <li class="menu-item menu-item-search">
-        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
-        </a>
+          </div>
+        </div>
+        <nav id="nav">
+  <div class="inner">
+    <div class="toggle">
+      <div class="lines" aria-label="切换导航栏">
+        <span class="line"></span>
+        <span class="line"></span>
+        <span class="line"></span>
+      </div>
+    </div>
+    <ul class="menu">
+      <li class="item title"><a href="/" rel="start">Freedom Blog</a></li>
+    </ul>
+    <ul class="right">
+      <li class="item theme">
+        <i class="ic i-sun"></i>
       </li>
-  </ul>
+      <li class="item search">
+        <i class="ic i-search"></i>
+      </li>
+    </ul>
+  </div>
 </nav>
 
-
-
-  <div class="search-pop-overlay">
-    <div class="popup search-popup"><div class="search-header">
-  <span class="search-icon">
-    <i class="fa fa-search"></i>
-  </span>
-  <div class="search-input-container">
-    <input autocomplete="off" autocapitalize="off" maxlength="80"
-           placeholder="搜索..." spellcheck="false"
-           type="search" class="search-input">
-  </div>
-  <span class="popup-btn-close" role="button">
-    <i class="fa fa-times-circle"></i>
-  </span>
-</div>
-<div class="search-result-container no-result">
-  <div class="search-result-icon">
-    <i class="fa fa-spinner fa-pulse fa-5x"></i>
-  </div>
-</div>
-
-    </div>
-  </div>
-
-</div>
-        
-  
-  <div class="toggle sidebar-toggle" role="button">
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-  </div>
-
-  <aside class="sidebar">
-
-    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
-      <ul class="sidebar-nav">
-        <li class="sidebar-nav-toc">
-          文章目录
-        </li>
-        <li class="sidebar-nav-overview">
-          站点概览
-        </li>
-      </ul>
-
-      <div class="sidebar-panel-container">
-        <!--noindex-->
-        <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%8C%AB%E7%9A%84%E4%B8%80%E7%94%9F"><span class="nav-number">1.</span> <span class="nav-text">猫的一生</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%8C%AB%E7%9A%84%E5%AF%BF%E5%91%BD"><span class="nav-number">2.</span> <span class="nav-text">猫的寿命</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%8C%AB%E4%B8%8E%E4%BA%BA%E7%B1%BB%E5%B9%B4%E9%BE%84%E6%8D%A2%E7%AE%97"><span class="nav-number">3.</span> <span class="nav-text">猫与人类年龄换算</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%B9%BC%E7%8C%AB%E7%94%9F%E9%95%BF%E5%91%A8%E6%9C%9F%E5%AF%B9%E7%85%A7%E8%A1%A8"><span class="nav-number">4.</span> <span class="nav-text">幼猫生长周期对照表</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%96%B0%E6%89%8B%E9%93%B2%E5%B1%8E%E5%AE%98%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9"><span class="nav-number">5.</span> <span class="nav-text">新手铲屎官注意事项</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%A0%B8%E5%BF%83%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E6%96%B9%E6%A1%88"><span class="nav-number">5.1.</span> <span class="nav-text">核心疫苗接种方案</span></a></li></ol></li></ol></div>
-        </div>
-        <!--/noindex-->
-
-        <div class="site-overview-wrap sidebar-panel">
-          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
-      src="/images/lu_avatar_04.jpeg">
-  <p class="site-author-name" itemprop="name">Rudy Lo</p>
-  <div class="site-description" itemprop="description">阿基米东的网络日志</div>
-</div>
-<div class="site-state-wrap site-overview-item animated">
-  <nav class="site-state">
-      <div class="site-state-item site-state-posts">
-          <a href="/archives/">
-        
-          <span class="site-state-item-count">295</span>
-          <span class="site-state-item-name">日志</span>
-        </a>
       </div>
-      <div class="site-state-item site-state-categories">
-            <a href="/categories/">
-          
-        <span class="site-state-item-count">35</span>
-        <span class="site-state-item-name">分类</span></a>
+      <div id="imgs" class="pjax">
+        <ul>
+          <li class="item" data-background-image="http://static.luhuadong.com/MPPUnesco.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/EdaleValley.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/ProcidaItaly.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/OrcaNorway.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/PicoVolcano.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/JTNPMilkyWay.jpg"></li>
+        </ul>
       </div>
-      <div class="site-state-item site-state-tags">
-            <a href="/tags/">
-          
-        <span class="site-state-item-count">80</span>
-        <span class="site-state-item-name">标签</span></a>
-      </div>
-  </nav>
-</div>
-  <div class="links-of-author site-overview-item animated">
-      <span class="links-of-author-item">
-        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://gitee.com/luhuadong" title="Gitee → https:&#x2F;&#x2F;gitee.com&#x2F;luhuadong" rel="noopener" target="_blank">Gitee</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.douban.com/group/730047/" title="豆瓣 → https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;" rel="noopener" target="_blank">豆瓣</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://zerotogether.net/" title="零废弃部落 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零废弃部落</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
-      </span>
-  </div>
-  <div class="cc-license site-overview-item animated" itemprop="license">
-    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
-  </div>
-
-
-
-        </div>
-      </div>
-    </div>
-  </aside>
-  <div class="sidebar-dimmer"></div>
-
-
     </header>
-
+    <div id="waves">
+      <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+        <defs>
+          <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+        </defs>
+        <g class="parallax">
+          <use xlink:href="#gentle-wave" x="48" y="0" />
+          <use xlink:href="#gentle-wave" x="48" y="3" />
+          <use xlink:href="#gentle-wave" x="48" y="5" />
+          <use xlink:href="#gentle-wave" x="48" y="7" />
+        </g>
+      </svg>
+    </div>
+    <main>
+      <div class="inner">
+        <div id="main" class="pjax">
+          
+  <div class="article wrap">
     
-  <div class="back-to-top" role="button">
-    <i class="fa fa-arrow-up"></i>
-    <span>0%</span>
-  </div>
-
-<noscript>
-  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
-</noscript>
-
-
-    <div class="main-inner post posts-expand">
-
-
-  
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/science/cat-growth-cycle.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
-          猫的生长周期
-        </h1>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2019-10-30 21:47:24" itemprop="dateCreated datePublished" datetime="2019-10-30T21:47:24+08:00">2019-10-30</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E7%A7%91%E6%99%AE%E7%9F%A5%E8%AF%86/" itemprop="url" rel="index"><span itemprop="name">科普知识</span></a>
-        </span>
-    </span>
-
-  
+<div class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+<i class="ic i-home"></i>
+<span><a href="/">首页</a></span><i class="ic i-angle-right"></i>
+<span  class="current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/categories/%E7%A7%91%E6%99%AE%E7%9F%A5%E8%AF%86/" itemprop="item" rel="index" title="分类于 科普知识"><span itemprop="name">科普知识</span></a>
+<meta itemprop="position" content="1" /></span>
 </div>
 
-        </div>
-      </header>
+    <article itemscope itemtype="http://schema.org/Article" class="post block" lang="zh-CN">
+  <link itemprop="mainEntityOfPage" href="https://luhuadong.com/science/cat-growth-cycle.html">
 
+  <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <meta itemprop="image" content="/images/lu_20221221.jpg">
+    <meta itemprop="name" content="Rudy Lo">
+    <meta itemprop="description" content="生活的理想，就是为了理想的生活, 阿基米东的网络日志">
+  </span>
+
+  <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+    <meta itemprop="name" content="成为自由人">
+  </span>
+
+  <div class="body md" itemprop="articleBody">
     
-    
-    
-    <div class="post-body" itemprop="articleBody">
-        <h2 id="猫的一生"><a href="#猫的一生" class="headerlink" title="猫的一生"></a>猫的一生</h2><p>类似于人类，猫的一生分为胎儿期、婴幼儿期、幼年期、少年期、青年期、中年期、老年期。</p>
+
+    <h2 id="猫的一生"><a class="markdownIt-Anchor" href="#猫的一生">#</a> 猫的一生</h2>
+<p>类似于人类，猫的一生分为胎儿期、婴幼儿期、幼年期、少年期、青年期、中年期、老年期。</p>
 <ul>
-<li>从受精到出生为胎儿期，差不多63-68天，此时，在母猫的子宫内，由母体提供营养。</li>
-<li>从出生到2个月，为婴幼儿期，此时主要依靠母乳喂养。</li>
-<li>从3个月大猫6个月，为幼年期，此时需要饲喂幼猫猫粮。</li>
-<li>从7个月到2岁，为少年期，在12个月之前可以继续吃幼猫猫粮，12个月后可以更换为成猫猫粮，此期可以做绝育手术。</li>
-<li>从3岁到6岁，为青年期，每年做一次体检。</li>
-<li>从7岁到10岁为中年期，每年做两次体检。</li>
-<li>11岁以上为老年期，每年做两次体检或者根据猫本身体况定期体检。</li>
+<li>从受精到出生为胎儿期，差不多 63-68 天，此时，在母猫的子宫内，由母体提供营养。</li>
+<li>从出生到 2 个月，为婴幼儿期，此时主要依靠母乳喂养。</li>
+<li>从 3 个月大猫 6 个月，为幼年期，此时需要饲喂幼猫猫粮。</li>
+<li>从 7 个月到 2 岁，为少年期，在 12 个月之前可以继续吃幼猫猫粮，12 个月后可以更换为成猫猫粮，此期可以做绝育手术。</li>
+<li>从 3 岁到 6 岁，为青年期，每年做一次体检。</li>
+<li>从 7 岁到 10 岁为中年期，每年做两次体检。</li>
+<li>11 岁以上为老年期，每年做两次体检或者根据猫本身体况定期体检。</li>
 </ul>
-<h2 id="猫的寿命"><a href="#猫的寿命" class="headerlink" title="猫的寿命"></a>猫的寿命</h2><p>家猫的平均年龄一般是13年，由于医疗水平生活水平提升，现在的猫咪都可以活过这个年龄。</p>
-<p>主人用心照顾的猫通常室内猫能活到12-18岁，有些甚至能活到20岁；但是流浪猫由于需要面对各种威胁和缺少食物，因此很难活过过10岁。所以下面的表格增加了野猫的年纪对照。</p>
-<p>此外，猫在2岁前是年龄增长最快的时期，第一年比第二年增长更快。所以，猫的年纪并不是线性增加的，而是递减式的。</p>
-<p>根据吉尼斯世界纪录的记载，世界上寿命最长的猫，是住在美国德州，叫 Creme Puff 的母猫，一共活了38年又3天（1967年8月3日~2005年8月6日），相当于人类的169岁以上！</p>
-<h2 id="猫与人类年龄换算"><a href="#猫与人类年龄换算" class="headerlink" title="猫与人类年龄换算"></a>猫与人类年龄换算</h2><p>猫咪与人类的年龄，大致可以通过这张表来对比换算：</p>
+<h2 id="猫的寿命"><a class="markdownIt-Anchor" href="#猫的寿命">#</a> 猫的寿命</h2>
+<p>家猫的平均年龄一般是 13 年，由于医疗水平生活水平提升，现在的猫咪都可以活过这个年龄。</p>
+<p>主人用心照顾的猫通常室内猫能活到 12-18 岁，有些甚至能活到 20 岁；但是流浪猫由于需要面对各种威胁和缺少食物，因此很难活过过 10 岁。所以下面的表格增加了野猫的年纪对照。</p>
+<p>此外，猫在 2 岁前是年龄增长最快的时期，第一年比第二年增长更快。所以，猫的年纪并不是线性增加的，而是递减式的。</p>
+<p>根据吉尼斯世界纪录的记载，世界上寿命最长的猫，是住在美国德州，叫 Creme Puff 的母猫，一共活了 38 年又 3 天（1967 年 8 月 3 日～2005 年 8 月 6 日），相当于人类的 169 岁以上！</p>
+<h2 id="猫与人类年龄换算"><a class="markdownIt-Anchor" href="#猫与人类年龄换算">#</a> 猫与人类年龄换算</h2>
+<p>猫咪与人类的年龄，大致可以通过这张表来对比换算：</p>
 <table>
 <thead>
 <tr>
-<th align="center">猫的年龄</th>
-<th align="center">人的年龄</th>
-<th align="center">猫的年龄</th>
-<th align="center">人的年龄</th>
+<th style="text-align:center">猫的年龄</th>
+<th style="text-align:center">人的年龄</th>
+<th style="text-align:center">猫的年龄</th>
+<th style="text-align:center">人的年龄</th>
 </tr>
 </thead>
-<tbody><tr>
-<td align="center">1个月</td>
-<td align="center">1岁</td>
-<td align="center">8岁</td>
-<td align="center">48岁</td>
+<tbody>
+<tr>
+<td style="text-align:center">1 个月</td>
+<td style="text-align:center">1 岁</td>
+<td style="text-align:center">8 岁</td>
+<td style="text-align:center">48 岁</td>
 </tr>
 <tr>
-<td align="center">2个月</td>
-<td align="center">3岁</td>
-<td align="center">9岁</td>
-<td align="center">52岁</td>
+<td style="text-align:center">2 个月</td>
+<td style="text-align:center">3 岁</td>
+<td style="text-align:center">9 岁</td>
+<td style="text-align:center">52 岁</td>
 </tr>
 <tr>
-<td align="center">3个月</td>
-<td align="center">5岁</td>
-<td align="center">10岁</td>
-<td align="center">56岁</td>
+<td style="text-align:center">3 个月</td>
+<td style="text-align:center">5 岁</td>
+<td style="text-align:center">10 岁</td>
+<td style="text-align:center">56 岁</td>
 </tr>
 <tr>
-<td align="center">6个月</td>
-<td align="center">9岁</td>
-<td align="center">11岁</td>
-<td align="center">60岁</td>
+<td style="text-align:center">6 个月</td>
+<td style="text-align:center">9 岁</td>
+<td style="text-align:center">11 岁</td>
+<td style="text-align:center">60 岁</td>
 </tr>
 <tr>
-<td align="center">9个月</td>
-<td align="center">12岁</td>
-<td align="center">12岁</td>
-<td align="center">64岁</td>
+<td style="text-align:center">9 个月</td>
+<td style="text-align:center">12 岁</td>
+<td style="text-align:center">12 岁</td>
+<td style="text-align:center">64 岁</td>
 </tr>
 <tr>
-<td align="center">1岁</td>
-<td align="center">15岁</td>
-<td align="center">13岁</td>
-<td align="center">68岁</td>
+<td style="text-align:center">1 岁</td>
+<td style="text-align:center">15 岁</td>
+<td style="text-align:center">13 岁</td>
+<td style="text-align:center">68 岁</td>
 </tr>
 <tr>
-<td align="center">2岁</td>
-<td align="center">24岁</td>
-<td align="center">14岁</td>
-<td align="center">72岁</td>
+<td style="text-align:center">2 岁</td>
+<td style="text-align:center">24 岁</td>
+<td style="text-align:center">14 岁</td>
+<td style="text-align:center">72 岁</td>
 </tr>
 <tr>
-<td align="center">3岁</td>
-<td align="center">28岁</td>
-<td align="center">15岁</td>
-<td align="center">76岁</td>
+<td style="text-align:center">3 岁</td>
+<td style="text-align:center">28 岁</td>
+<td style="text-align:center">15 岁</td>
+<td style="text-align:center">76 岁</td>
 </tr>
 <tr>
-<td align="center">4岁</td>
-<td align="center">32岁</td>
-<td align="center">16岁</td>
-<td align="center">80岁</td>
+<td style="text-align:center">4 岁</td>
+<td style="text-align:center">32 岁</td>
+<td style="text-align:center">16 岁</td>
+<td style="text-align:center">80 岁</td>
 </tr>
 <tr>
-<td align="center">5岁</td>
-<td align="center">36岁</td>
-<td align="center">17岁</td>
-<td align="center">84岁</td>
+<td style="text-align:center">5 岁</td>
+<td style="text-align:center">36 岁</td>
+<td style="text-align:center">17 岁</td>
+<td style="text-align:center">84 岁</td>
 </tr>
 <tr>
-<td align="center">6岁</td>
-<td align="center">40岁</td>
-<td align="center">18岁</td>
-<td align="center">88岁</td>
+<td style="text-align:center">6 岁</td>
+<td style="text-align:center">40 岁</td>
+<td style="text-align:center">18 岁</td>
+<td style="text-align:center">88 岁</td>
 </tr>
 <tr>
-<td align="center">7岁</td>
-<td align="center">44岁</td>
-<td align="center">19岁</td>
-<td align="center">92岁</td>
+<td style="text-align:center">7 岁</td>
+<td style="text-align:center">44 岁</td>
+<td style="text-align:center">19 岁</td>
+<td style="text-align:center">92 岁</td>
 </tr>
-</tbody></table>
-<h2 id="幼猫生长周期对照表"><a href="#幼猫生长周期对照表" class="headerlink" title="幼猫生长周期对照表"></a>幼猫生长周期对照表</h2><p>1、视力</p>
+</tbody>
+</table>
+<h2 id="幼猫生长周期对照表"><a class="markdownIt-Anchor" href="#幼猫生长周期对照表">#</a> 幼猫生长周期对照表</h2>
+<p>1、视力</p>
 <ul>
-<li>睁眼：8～20天</li>
-<li>眼睛变为固定的颜色：12周</li>
+<li>睁眼：8～20 天</li>
+<li>眼睛变为固定的颜色：12 周</li>
 </ul>
 <p>2、运动能力</p>
 <ul>
-<li>爬：16～20天</li>
-<li>走：21～25天</li>
-<li>跑：4～5周</li>
+<li>爬：16～20 天</li>
+<li>走：21～25 天</li>
+<li>跑：4～5 周</li>
 </ul>
 <p>3、断奶</p>
 <ul>
-<li>开始吃固体食物：3～4周</li>
-<li>完全断奶：8周</li>
+<li>开始吃固体食物：3～4 周</li>
+<li>完全断奶：8 周</li>
 </ul>
 <p>4、训练</p>
 <ul>
-<li>开始训练大小便：3～4周</li>
+<li>开始训练大小便：3～4 周</li>
 </ul>
 <p>5、长牙</p>
 <ul>
-<li>乳牙长齐：8周</li>
-<li>出恒牙：12～18周</li>
+<li>乳牙长齐：8 周</li>
+<li>出恒牙：12～18 周</li>
 </ul>
 <p>6、学本领</p>
 <ul>
-<li>洗脸理毛：4～5周</li>
-<li>开始嬉戏：4～5周</li>
-<li>开始练习狩猎：6～8周</li>
+<li>洗脸理毛：4～5 周</li>
+<li>开始嬉戏：4～5 周</li>
+<li>开始练习狩猎：6～8 周</li>
 </ul>
 <p>7、离开母猫独立生活</p>
 <ul>
-<li>最早能离开母猫的时间：6～8周</li>
-<li>能离开母猫完全独立生活的时间：6个月</li>
+<li>最早能离开母猫的时间：6～8 周</li>
+<li>能离开母猫完全独立生活的时间：6 个月</li>
 </ul>
-<h2 id="新手铲屎官注意事项"><a href="#新手铲屎官注意事项" class="headerlink" title="新手铲屎官注意事项"></a>新手铲屎官注意事项</h2><ul>
-<li>2个月左右可以给猫咪做驱虫（体外驱虫，可以在洗澡吹干后再做驱虫）；</li>
-<li>3个月后就可以搭配内服药，做全面的体内外驱虫了；</li>
+<h2 id="新手铲屎官注意事项"><a class="markdownIt-Anchor" href="#新手铲屎官注意事项">#</a> 新手铲屎官注意事项</h2>
+<ul>
+<li>2 个月左右可以给猫咪做驱虫（体外驱虫，可以在洗澡吹干后再做驱虫）；</li>
+<li>3 个月后就可以搭配内服药，做全面的体内外驱虫了；</li>
 <li>体内驱虫要和疫苗间隔一周时间，以免产生不良反应，引起疫苗失效；</li>
-<li>疫苗（必须打的）<ul>
+<li>疫苗（必须打的）
+<ul>
 <li>猫三联疫苗</li>
 <li>狂犬疫苗</li>
 </ul>
 </li>
 </ul>
-<h3 id="核心疫苗接种方案"><a href="#核心疫苗接种方案" class="headerlink" title="核心疫苗接种方案"></a>核心疫苗接种方案</h3><p><strong>幼猫（＜16周龄）首次免疫建议：</strong></p>
+<h3 id="核心疫苗接种方案"><a class="markdownIt-Anchor" href="#核心疫苗接种方案">#</a> 核心疫苗接种方案</h3>
+<p><strong>幼猫（＜16 周龄）首次免疫建议：</strong></p>
 <ul>
-<li>猫三联在8周龄之后接种第一剂，之后每间隔4周接种一剂；</li>
-<li>狂犬病毒疫苗在12周以后接种一次。</li>
+<li>猫三联在 8 周龄之后接种第一剂，之后每间隔 4 周接种一剂；</li>
+<li>狂犬病毒疫苗在 12 周以后接种一次。</li>
 </ul>
 <table>
 <thead>
 <tr>
-<th align="center"></th>
-<th align="center">猫三联疫苗</th>
-<th align="center">狂犬疫苗</th>
+<th style="text-align:center"></th>
+<th style="text-align:center">猫三联疫苗</th>
+<th style="text-align:center">狂犬疫苗</th>
 </tr>
 </thead>
-<tbody><tr>
-<td align="center">8周龄</td>
-<td align="center">√</td>
-<td align="center"></td>
+<tbody>
+<tr>
+<td style="text-align:center">8 周龄</td>
+<td style="text-align:center">√</td>
+<td style="text-align:center"></td>
 </tr>
 <tr>
-<td align="center">12周龄</td>
-<td align="center">√</td>
-<td align="center">√</td>
+<td style="text-align:center">12 周龄</td>
+<td style="text-align:center">√</td>
+<td style="text-align:center">√</td>
 </tr>
 <tr>
-<td align="center">16周龄</td>
-<td align="center">√</td>
-<td align="center"></td>
+<td style="text-align:center">16 周龄</td>
+<td style="text-align:center">√</td>
+<td style="text-align:center"></td>
 </tr>
-</tbody></table>
-<p><strong>成年猫（＞16周龄）首次免疫建议：</strong></p>
+</tbody>
+</table>
+<p><strong>成年猫（＞16 周龄）首次免疫建议：</strong></p>
 <ul>
-<li>猫三联注射2次，间隔3-4周；</li>
-<li>狂犬疫苗接种2次，之间间隔1年。</li>
+<li>猫三联注射 2 次，间隔 3-4 周；</li>
+<li>狂犬疫苗接种 2 次，之间间隔 1 年。</li>
 </ul>
 <p><strong>补种建议：</strong></p>
 <ul>
@@ -558,195 +364,299 @@
 <p><strong>其他注意事项：</strong></p>
 <ul>
 <li>打完疫苗不可以洗澡，在疫苗全部打完后，最少隔一周再洗。</li>
-<li>首次接种疫苗的3针最好为同一品牌，后面的加强针可以是不同品牌。</li>
+<li>首次接种疫苗的 3 针最好为同一品牌，后面的加强针可以是不同品牌。</li>
 <li>疫苗接种最少隔一周才可进行体内驱虫，体外驱虫可以和疫苗接种同时进行。</li>
 </ul>
 
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-          <div class="reward-container">
-  <div>您的鼓励是我最大的动力！</div>
-  <button onclick="document.querySelector('.post-reward').classList.toggle('active');">
-    赞赏
-  </button>
-  <div class="post-reward">
-      <div>
-        <img src="/images/wechatpay.jpeg" alt="Rudy Lo 微信">
-        <span>微信</span>
+      <div class="tags">
+          <a href="/tags/%E7%A7%91%E6%99%AE/" rel="tag"><i class="ic i-tag"></i> 科普</a>
+          <a href="/tags/%E7%8C%AB/" rel="tag"><i class="ic i-tag"></i> 猫</a>
       </div>
-      <div>
-        <img src="/images/alipay.jpeg" alt="Rudy Lo 支付宝">
-        <span>支付宝</span>
-      </div>
+  </div>
 
+   <footer>
+
+    <div class="meta">
+  <span class="item">
+    <span class="icon">
+      <i class="ic i-calendar-check"></i>
+    </span>
+    <span class="text">更新于</span>
+    <time title="修改时间：2023-04-30 16:10:37" itemprop="dateModified" datetime="2023-04-30T16:10:37+08:00">2023-04-30</time>
+  </span>
+  <span id="science/cat-growth-cycle.html" class="item leancloud_visitors" data-flag-title="猫的生长周期" title="阅读次数">
+      <span class="icon">
+        <i class="ic i-eye"></i>
+      </span>
+      <span class="text">阅读次数</span>
+      <span class="leancloud-visitors-count"></span>
+      <span class="text">次</span>
+  </span>
+</div>
+
+      
+<div class="reward">
+  <button><i class="ic i-heartbeat"></i> 赞赏</button>
+  <p>请我喝[茶]~(￣▽￣)~*</p>
+  <div id="qr">
+      
+      <div>
+        <img data-src="/images/wechatpay-small.jpeg" alt="Rudy Lo 微信支付">
+        <p>微信支付</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/alipay-small.jpeg" alt="Rudy Lo 支付宝">
+        <p>支付宝</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/avatar.png" alt="Rudy Lo 贝宝">
+        <p>贝宝</p>
+      </div>
   </div>
 </div>
 
-          
+      
 
-<div class="post-copyright">
+<div id="copyright">
 <ul>
-  <li class="post-copyright-author">
-      <strong>本文作者： </strong>Rudy Lo
+  <li class="author">
+    <strong>本文作者： </strong>Rudy Lo <i class="ic i-at"><em>@</em></i>成为自由人
   </li>
-  <li class="post-copyright-link">
-      <strong>本文链接：</strong>
-      <a href="https://luhuadong.com/science/cat-growth-cycle.html" title="猫的生长周期">https://luhuadong.com/science/cat-growth-cycle.html</a>
+  <li class="link">
+    <strong>本文链接：</strong>
+    <a href="https://luhuadong.com/science/cat-growth-cycle.html" title="猫的生长周期">https://luhuadong.com/science/cat-growth-cycle.html</a>
   </li>
-  <li class="post-copyright-license">
-    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  <li class="license">
+    <strong>版权声明： </strong>本站所有文章除特别声明外，均采用 <span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzQuMC9kZWVkLnpo"><i class="ic i-creative-commons"><em>(CC)</em></i>BY-NC-SA</span> 许可协议。转载请注明出处！
   </li>
 </ul>
 </div>
 
-          <div class="post-tags">
-              <a href="/tags/%E7%A7%91%E6%99%AE/" rel="tag"># 科普</a>
-              <a href="/tags/%E7%8C%AB/" rel="tag"># 猫</a>
-          </div>
-
-        
-
-          <div class="post-nav">
-            <div class="post-nav-item">
-                <a href="/career/programmers-law-of-survival.html" rel="prev" title="程序员生存定律">
-                  <i class="fa fa-chevron-left"></i> 程序员生存定律
-                </a>
-            </div>
-            <div class="post-nav-item">
-                <a href="/english/en-start-vs-begin.html" rel="next" title="英语单词辨析：Start vs. Begin">
-                  英语单词辨析：Start vs. Begin <i class="fa fa-chevron-right"></i>
-                </a>
-            </div>
-          </div>
-    </footer>
-  </article>
-</div>
-
-
-
-
-
-
-    
-  
-  <div class="comments">
-    <script src="https://giscus.app/client.js"
-        data-repo="luhuadong/blog" 
-        data-repo-id="MDEwOlJlcG9zaXRvcnkzNDEzOTU5NzQ=" 
-        data-category="General"
-        data-category-id="DIC_kwDOFFlKBs4CSTqq"
-        data-mapping="pathname" 
-        data-reactions-enabled="1" 
-        data-emit-metadata="1" 
-        data-theme="light"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        data-input-position="bottom"
-        data-loading="lazy"
-        async>
-    </script>
-  </div>
-  
-  
-
-<script>
-  window.addEventListener('tabs:register', () => {
-    let { activeClass } = CONFIG.comments;
-    if (CONFIG.comments.storage) {
-      activeClass = localStorage.getItem('comments_active') || activeClass;
-    }
-    if (activeClass) {
-      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
-      if (activeTab) {
-        activeTab.click();
-      }
-    }
-  });
-  if (CONFIG.comments.storage) {
-    window.addEventListener('tabs:click', event => {
-      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
-      const commentClass = event.target.classList[1];
-      localStorage.setItem('comments_active', commentClass);
-    });
-  }
-</script>
-</div>
-  </main>
-
-  <footer class="footer">
-    <div class="footer-inner">
-
-
-<div class="copyright">
-  &copy; 
-  <span itemprop="copyrightYear">2023</span>
-  <span class="with-love">
-    <i class="fa fa-heart"></i>
-  </span>
-  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
-</div>
-  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
-  </div>
-
-    </div>
   </footer>
 
-  
-  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+</article>
 
-  
-<script src="/js/local-search.js"></script>
-
-
-
-
-
-
+  </div>
   
 
+<div class="post-nav">
+    <div class="item left">
+      
+
+  <a href="/career/programmers-law-of-survival.html" itemprop="url" rel="prev" data-background-image="http:&#x2F;&#x2F;static.luhuadong.com&#x2F;EuropeFromISS.jpg" title="程序员生存定律">
+  <span class="type">上一篇</span>
+  <span class="category"><i class="ic i-flag"></i> 了不起的打工人</span>
+  <h3>程序员生存定律</h3>
+  </a>
+
+    </div>
+    <div class="item right">
+      
+
+  <a href="/english/en-start-vs-begin.html" itemprop="url" rel="next" data-background-image="http:&#x2F;&#x2F;static.luhuadong.com&#x2F;QingMing2023.jpg" title="英语单词辨析：Start vs. Begin">
+  <span class="type">下一篇</span>
+  <span class="category"><i class="ic i-flag"></i> 一起学英语</span>
+  <h3>英语单词辨析：Start vs. Begin</h3>
+  </a>
+
+    </div>
+</div>
+
+  
+  <div class="wrap" id="comments"></div>
 
 
+        </div>
+        <div id="sidebar">
+          
 
-  <script>
-  if (typeof MathJax === 'undefined') {
-    window.MathJax = {
-      tex: {
-        inlineMath: {'[+]': [['$', '$']]},
-        tags: 'none'
+<div class="inner">
+
+  <div class="panels">
+    <div class="inner">
+      <div class="contents panel pjax" data-title="文章目录">
+          <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%8C%AB%E7%9A%84%E4%B8%80%E7%94%9F"><span class="toc-number">1.</span> <span class="toc-text"> 猫的一生</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%8C%AB%E7%9A%84%E5%AF%BF%E5%91%BD"><span class="toc-number">2.</span> <span class="toc-text"> 猫的寿命</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%8C%AB%E4%B8%8E%E4%BA%BA%E7%B1%BB%E5%B9%B4%E9%BE%84%E6%8D%A2%E7%AE%97"><span class="toc-number">3.</span> <span class="toc-text"> 猫与人类年龄换算</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%B9%BC%E7%8C%AB%E7%94%9F%E9%95%BF%E5%91%A8%E6%9C%9F%E5%AF%B9%E7%85%A7%E8%A1%A8"><span class="toc-number">4.</span> <span class="toc-text"> 幼猫生长周期对照表</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%96%B0%E6%89%8B%E9%93%B2%E5%B1%8E%E5%AE%98%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9"><span class="toc-number">5.</span> <span class="toc-text"> 新手铲屎官注意事项</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%A0%B8%E5%BF%83%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E6%96%B9%E6%A1%88"><span class="toc-number">5.1.</span> <span class="toc-text"> 核心疫苗接种方案</span></a></li></ol></li></ol>
+      </div>
+      <div class="related panel pjax" data-title="系列文章">
+        <ul>
+          <li class="active"><a href="/science/cat-growth-cycle.html" rel="bookmark" title="猫的生长周期">猫的生长周期</a></li><li><a href="/science/why-do-we-need-four-satellites-for-gps.html" rel="bookmark" title="至少需要多少颗卫星才能准确定位？">至少需要多少颗卫星才能准确定位？</a></li><li><a href="/science/why-the-earth-rotation-is-getting-slower-and-slower.html" rel="bookmark" title="为什么地球自转越来越慢">为什么地球自转越来越慢</a></li><li><a href="/science/why-the-moon-change-shapes.html" rel="bookmark" title="为什么月有阴晴圆缺？">为什么月有阴晴圆缺？</a></li><li><a href="/science/trap-neuter-release.html" rel="bookmark" title="流浪动物福利 —— TNR">流浪动物福利 —— TNR</a></li><li><a href="/science/e-books-formats.html" rel="bookmark" title="电子书的各种格式">电子书的各种格式</a></li>
+        </ul>
+      </div>
+      <div class="overview panel" data-title="站点概览">
+        <div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <img class="image" itemprop="image" alt="Rudy Lo"
+      data-src="/images/lu_20221221.jpg">
+  <p class="name" itemprop="name">Rudy Lo</p>
+  <div class="description" itemprop="description">阿基米东的网络日志</div>
+</div>
+
+<nav class="state">
+    <div class="item posts">
+      <a href="/archives/">
+        <span class="count">295</span>
+        <span class="name">文章</span>
+      </a>
+    </div>
+    <div class="item categories">
+      <a href="/categories/">
+        <span class="count">35</span>
+        <span class="name">分类</span>
+      </a>
+    </div>
+    <div class="item tags">
+      <a href="/tags/">
+        <span class="count">80</span>
+        <span class="name">标签</span>
+      </a>
+    </div>
+</nav>
+
+<div class="social">
+      <span class="exturl item github" data-url="aHR0cHM6Ly9naXRodWIuY29tL2x1aHVhZG9uZw==" title="https:&#x2F;&#x2F;github.com&#x2F;luhuadong"><i class="ic i-github"></i></span>
+      <span class="exturl item csdn" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x1X2VtYmVkZGVk" title="https:&#x2F;&#x2F;blog.csdn.net&#x2F;lu_embedded"><i class="ic i-address-card"></i></span>
+      <span class="exturl item zhihu" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9hcm1zdHJvbmcyMDE0" title="https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014"><i class="ic i-zhihu"></i></span>
+      <span class="exturl item douban" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC83MzAwNDcv" title="https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;"><i class="ic i-douban"></i></span>
+      <span class="exturl item weibo" data-url="aHR0cHM6Ly93ZWliby5jb20vdS8yMDAwMzkxOTUx" title="https:&#x2F;&#x2F;weibo.com&#x2F;u&#x2F;2000391951"><i class="ic i-weibo"></i></span>
+      <span class="exturl item email" data-url="bWFpbHRvOmx1aHVhZG9uZ0AxNjMuY29t" title="mailto:luhuadong@163.com"><i class="ic i-envelope"></i></span>
+</div>
+
+<ul class="menu">
+  
+    
+  <li class="item">
+    <a href="/" rel="section"><i class="ic i-home"></i>首页</a>
+  </li>
+
+    
+  <li class="item">
+    <a href="/about/" rel="section"><i class="ic i-user"></i>关于</a>
+  </li>
+
+        
+  <li class="item dropdown">
+      <a href="javascript:void(0);"><i class="ic i-feather"></i>文章</a>
+    <ul class="submenu">
+
+        
+  <li class="item">
+    <a href="/archives/" rel="section"><i class="ic i-list-alt"></i>归档</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/categories/" rel="section"><i class="ic i-th"></i>分类</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/tags/" rel="section"><i class="ic i-tags"></i>标签</a>
+  </li>
+
+  </ul>
+
+</ul>
+
+      </div>
+    </div>
+  </div>
+
+  <ul id="quick">
+    <li class="prev pjax">
+        <a href="/career/programmers-law-of-survival.html" rel="prev" title="上一篇"><i class="ic i-chevron-left"></i></a>
+    </li>
+    <li class="up"><i class="ic i-arrow-up"></i></li>
+    <li class="down"><i class="ic i-arrow-down"></i></li>
+    <li class="next pjax">
+        <a href="/english/en-start-vs-begin.html" rel="next" title="下一篇"><i class="ic i-chevron-right"></i></a>
+    </li>
+    <li class="percent"></li>
+  </ul>
+</div>
+
+
+        </div>
+        <div class="dimmer"></div>
+      </div>
+    </main>
+    <footer id="footer">
+      <div class="inner">
+        <div class="widgets">
+          
+
+        </div>
+        <div class="status">
+  <div class="copyright">
+    
+    &copy; 2014 – 
+    <span itemprop="copyrightYear">2023</span>
+    <span class="with-love">
+      <i class="ic i-sakura rotate"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">Rudy Lo @ Freedom Blog</span>
+  </div>
+  <div class="count">
+    <span class="post-meta-item-icon">
+      <i class="ic i-chart-area"></i>
+    </span>
+    <span title="站点总字数">591k 字</span>
+
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="ic i-coffee"></i>
+    </span>
+    <span title="站点阅读时长">8:57</span>
+  </div>
+  <div class="powered-by">
+    基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
+  </div>
+</div>
+
+      </div>
+    </footer>
+  </div>
+<script data-config type="text/javascript">
+  var LOCAL = {
+    path: 'science/cat-growth-cycle.html',
+    favicon: {
+      show: "（●´3｀●）やれやれだぜ",
+      hide: "(´Д｀)大変だ！"
+    },
+    search : {
+      placeholder: "文章搜索",
+      empty: "关于 「 ${query} 」，什么也没搜到",
+      stats: "${time} ms 内找到 ${hits} 条结果"
+    },
+    valine: true,fancybox: true,
+    copyright: '复制成功，转载请遵守 <i class="ic i-creative-commons"></i>BY-NC-SA 协议。',
+    ignores : [
+      function(uri) {
+        return uri.includes('#');
       },
-      options: {
-        renderActions: {
-          insertedScript: [200, () => {
-            document.querySelectorAll('mjx-container').forEach(node => {
-              const target = node.parentNode;
-              if (target.nodeName.toLowerCase() === 'li') {
-                target.parentNode.classList.add('has-jax');
-              }
-            });
-          }, '', false]
-        }
+      function(uri) {
+        return new RegExp(LOCAL.path+"$").test(uri);
       }
-    };
-    const script = document.createElement('script');
-    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
-    script.defer = true;
-    document.head.appendChild(script);
-  } else {
-    MathJax.startup.document.state(0);
-    MathJax.typesetClear();
-    MathJax.texReset();
-    MathJax.typeset();
-  }
+    ]
+  };
 </script>
 
+<script src="https://cdn.polyfill.io/v2/polyfill.js"></script>
+
+<script src="//cdn.jsdelivr.net/combine/npm/pace-js@1.0.2/pace.min.js,npm/pjax@0.2.8/pjax.min.js,npm/whatwg-fetch@3.4.0/dist/fetch.umd.min.js,npm/animejs@3.2.0/lib/anime.min.js,npm/algoliasearch@4/dist/algoliasearch-lite.umd.js,npm/instantsearch.js@4/dist/instantsearch.production.min.js,npm/lozad@1/dist/lozad.min.js,npm/quicklink@2/dist/quicklink.umd.js"></script>
+
+<script src="/js/app.js?v=0.2.5"></script>
+
+
+  <script data-pjax>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
 
 
 </body>

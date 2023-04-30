@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://luhuadong.com</id>
+    <title>成为自由人 • Posts by &#34;气象爱好者&#34; tag</title>
+    <link href="https://luhuadong.com" />
+    <updated>2019-10-07T07:26:39.000Z</updated>
+    <category term="商业" />
+    <category term="成长" />
+    <category term="日记" />
+    <category term="创业" />
+    <category term="家居" />
+    <category term="互联网" />
+    <category term="读书笔记" />
+    <category term="工程师" />
+    <category term="爱" />
+    <category term="名言" />
+    <category term="奋斗" />
+    <category term="信息世界" />
+    <category term="管理" />
+    <category term="程序员" />
+    <category term="职场" />
+    <category term="人生" />
+    <category term="物联网" />
+    <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
+    <category term="创客" />
+    <category term="比赛" />
+    <category term="科技向善" />
+    <category term="英语" />
+    <category term="学习" />
+    <category term="环保" />
+    <category term="碳中和" />
+    <category term="种植" />
+    <category term="健身" />
+    <category term="地理" />
+    <category term="城市" />
+    <category term="气象爱好者" />
+    <category term="指南" />
+    <category term="自律" />
+    <category term="思维" />
+    <category term="健康" />
+    <category term="Hexo" />
+    <category term="科普" />
+    <category term="可持续" />
+    <category term="能源" />
+    <category term="职业" />
+    <category term="时间管理" />
+    <category term="工作" />
+    <category term="总结" />
+    <category term="慈济" />
+    <category term="RT-Thread" />
+    <category term="开源" />
+    <category term="思考" />
+    <category term="生活" />
+    <category term="猫" />
+    <category term="幸福" />
+    <category term="修身" />
+    <category term="写书" />
+    <category term="milestone" />
+    <category term="地铁" />
+    <category term="Markdown" />
+    <category term="计划" />
+    <category term="股票" />
+    <category term="理财" />
+    <category term="投资" />
+    <category term="财富" />
+    <category term="保险" />
+    <category term="纪录片" />
+    <category term="自由" />
+    <category term="电影" />
+    <category term="TED演讲" />
+    <category term="时间" />
+    <category term="心理学" />
+    <category term="无线电爱好者" />
+    <category term="亲密关系" />
+    <category term="农业" />
+    <category term="游泳" />
+    <category term="励志" />
+    <category term="演讲" />
+    <category term="蔬食" />
+    <category term="电台主播" />
+    <category term="WordPress" />
+    <category term="垃圾分类" />
+    <category term="零废弃" />
+    <category term="低碳" />
+    <entry>
+        <id>https://luhuadong.com/geography/meteorology-basic.html</id>
+        <title>【科普】气象基础知识</title>
+        <link rel="alternate" href="https://luhuadong.com/geography/meteorology-basic.html"/>
+        <content type="html">&lt;h2 id=&#34;读懂天气用语&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#读懂天气用语&#34;&gt;#&lt;/a&gt; 读懂天气用语&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;天气&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;晴天 🌞&lt;/td&gt;
+&lt;td&gt;是指天空无云或有零星的云，但云量占不到天空的 1/10。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;多云 🌥️&lt;/td&gt;
+&lt;td&gt;是指天空中云层较多，阳光不很充足，但仍能从云的缝隙中见到蓝天，&lt;br/&gt;总云量占天空面积的 4/10 ~ 7/10 的天气现象。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;阴天 ☁️&lt;/td&gt;
+&lt;td&gt;是指天空中云层覆盖超过 8 成以上，全天很少见到蓝天。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;雨 🌧️&lt;/td&gt;
+&lt;td&gt;是指从天空降落的水滴。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;阵雨 🌦️&lt;/td&gt;
+&lt;td&gt;是指在降水开始和终止都很突然，降水强度变化很大的雨。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;雷阵雨 ⛈️&lt;/td&gt;
+&lt;td&gt;又称雷雨，是指伴有雷电的降雨现象。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;基础概念科普&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#基础概念科普&#34;&gt;#&lt;/a&gt; 基础概念科普&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;什么是天气？&lt;/strong&gt;&lt;br&gt;
+天气是指短时间 (几分钟到几天) 发生的气象现象，如雷雨、冰雹、台风、寒潮、大风等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;什么是气候？&lt;/strong&gt;&lt;br&gt;
+气候是指某一地区长时期内 (月、季、年、数年、甚至数百年等) 各气象要素长年的平均值。是一个地区的冷、暖、干、湿等天气状况基本特征的综合反映。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;气候资源&lt;/strong&gt;&lt;br&gt;
+气候资源是指广泛存在于大气圈中的光能、热能、降水、风能等可以为人们直接或间接利用，能够形成财富，具有使用价值的自然物质和能量，是一种十分宝贵的可以再生的自然资源，它是人类社会赖以生存和发展的基本条件，已被广泛用于国计民生的方方面面。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;小气候&lt;/strong&gt;&lt;br&gt;
+小气候是在具有相同的大气候背景的范围内，在局部地区，由于地形方位、土壤条件和植被不一致，使该地区具有独特的气候状况。小气候的特点，主要表现在个别气象要素变化剧烈，以及个别天气现象上的差异。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;城市气候&lt;/strong&gt;&lt;br&gt;
+在大气候或区域气候的背景条件下，由于城市化的影响而形成的一种局地气候或小气候。城市气候呈现出所谓 “五岛” 的特征，即 “热岛”、“湿岛”、“干岛”、“雨岛”、“混浊岛”。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;热岛效应&lt;/strong&gt;&lt;br&gt;
+热岛是由于人们改变城市地表而引起小气候变化的综合现象，是城市气候最明显的特征之一。由于城市化的速度加快，城市建筑群密集、柏油路和水泥路面比郊区的土壤、植被具有更大的热容量和吸热率，使得城区储存了较多的热量，并向四周和大气中幅射，造成了同一时间城区气温普遍高于周围的郊区气温，高温的城区处于低温的郊区包围之中，如同汪洋大海中的岛屿，人们把这种现象称之为城市热岛效应。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;什么是气象灾害？&lt;/strong&gt;&lt;br&gt;
+气象灾害是指大气运动和演变对人类生命财产和国民经济以及国防建设等造成的直接或间接损害。如台风、干旱、暴雨、暴雪、冰雹、霜冻、寒潮、雷电、高温等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;什么叫降水量？&lt;/strong&gt;&lt;br&gt;
+从天空降落到地面的雨水（或雪、冰雹融化后的水），没有经过蒸发、渗透和流失而在水平面上积聚的深度，就称为降水量。人们习惯将 “降水量” 称为 “降雨量”，其实 “降水量” 是雨水、雪水、冰雹水的统称，而 “降雨量” 仅指降雨的量。降水量可以直观地表示降水的多少。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;降水量 1 mm 有多少水？&lt;/strong&gt;&lt;br&gt;
+在气象上，一般把单位时间内的降水量称为降水强度。所谓降水量 1 mm 是指在单位面积上水深 1 mm。每亩地面积约是 666.7 m2，因此，1 mm 降水量就等于每亩地里增加 0.667 m3 的水。每立方米的水是 1000 kg，这样，1mm 降水量也就等于向每亩地浇了 666.7 kg 水。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;降雨量的划分标准&lt;/strong&gt;&lt;br&gt;
+若 24 h 内的降水量达到 0.1～9.9 mm，称为小雨；10.0～24.9 mm，称为中雨；25.0～49.9 mm，称为大雨；50.0～99.9 mm，称为暴雨；100.0～249.9 mm，称为大暴雨；≥250.0 mm，称为特大暴雨。贵州省内各地全年各月均可出现暴雨，每年汛期 5—9 月是暴雨性天气最集中季节，全年降雨量的 70% 都集中在此阶段。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;为什么冬天的气压比夏天高？&lt;/strong&gt;&lt;br&gt;
+气压是指地球上空气柱在单位面积上产生的压力。一个地方的气压是经常发生变化的，当气压降低时，天气阴雨，气象升高时，天气转晴。气压发生变化有许多原因。其中空气温度的变化是引起气压变化的一个很重要的原因。当空气冷却时，空气收缩，密度增大，单位面积上承受的空气柱重量增加，气压也就升高。因此，冷空气一到，总是伴随着气压的升高；而在暖空气来临的同时，气压常常降压。冬天是冷空气的世界，夏季则是暖空气的天地，气压冬高夏低的道理也就很清楚了。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;什么是数值天气预报？&lt;/strong&gt;&lt;br&gt;
+数值预报是根据现有的天气状况和已知的初始条件，利用高速计算机，求解控制大气运动的动力 - 热力学方程，从而得出一段时期内的天气形势和有关气象要素的客观定量预报方法。数值天气预报是当今天气预报的基础，也是气象现代化建设的重要标志之一。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;气候变化&lt;/strong&gt;&lt;br&gt;
+长时期内气候状态的变化。通常用不同时期的温度和降水等气候要素的统计量的差异来反映。变化的时间长度从最长的几十亿年至最短的年际变化。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;气候异常&lt;/strong&gt;&lt;br&gt;
+正常气候起伏中出现的明显反常现象。主要由气候因子的配置发生较大变化所致。常导致人类及动植物的不相适应，而影响人类社会活动及生产活动，危及动植物的正常生长发育等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;二十四节气&lt;/strong&gt;&lt;br&gt;
+二十四节气是根据地球在环绕太阳运行的轨道上所处位置划定的，属于阳历的范畴。地球绕太阳公转一周为 360 度，以春分时为 0 度，清明时为 15 度，以后每隔 15 度为一个节气，其日期在阳历中是基本固定的。二十四节气是中国历法的独创，是我国古代科学文化的辉煌成就之一。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;太阳黑子&lt;/strong&gt;&lt;br&gt;
+太阳光球上经常出现的阴暗斑点。它是太阳活动的基本标志。根据统计，地球上天气或气候反常均与太阳黑子活动有密切关系。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;气候异常&lt;/strong&gt;&lt;br&gt;
+正常气候起伏中出现的明显反常现象。主要由气候因子的配置发生较大变化所致。常导致人类及动植物的不相适应，而影响人类社会活动及生产活动，危及动植物的正常生长发育等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;气候因子&lt;/strong&gt;&lt;br&gt;
+形成气候的基本因子。主要有三个主要方面：辐射因子、环流因子、地理因子。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;气候预报&lt;/strong&gt;&lt;br&gt;
+指利用气候演变规律制作的预报。制作方法与 “长期天气预报” 相似。它是从气候演变规律出发预报未来一段时期内可能出现的天气状况。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生物气候学&lt;/strong&gt;&lt;br&gt;
+研究生命有机体与气候环境条件相互影响、相互作用的学科。属于应用气候学范畴。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;季风与季风气候&lt;/strong&gt;&lt;br&gt;
+由于大陆及邻近海洋之间存在的温度差异而形成大范围盛行的、风向随季节有显著变化的风系，具有这种大气环流特征的风被称为季风。受季风支配的区域里的气候又被称为季风气候，季风气候区一般夏季受海洋气流影响，冬季受大陆气流影响，主要特征为冬干夏湿。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;雾与城市雾&lt;/strong&gt;&lt;br&gt;
+雾是悬浮在近地面层大气中大量微细水滴的可见集合体。是近地面层空气中水汽凝华的结果。城市雾是发生在受人类活动影响最集中的城区及其相关设施 (机场、港口及高速公路等) 的雾，城市雾的出现往往叠加了城市环境和人类活动的影响。雾本身就具有局地性的特征，而城市雾则是发生在局地性极强的城市环境中的雾。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;全球变暖&lt;/strong&gt;&lt;br&gt;
+近年来全球气候普遍偏暖，且气温有持续逐年升高的趋势。据统计，全球气温已经连续 20 年高于正常值，其中最暖的 10 年全部发生在 1983 年以来，而其中 7 年又发生在 1990 年以来。近年来的气候变暖，不仅受自然因素影响，而且人类活动对气候的影响也日益明显。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;厄尔尼诺&lt;/strong&gt;&lt;br&gt;
+厄尔尼诺为西班牙语 “EI Nino” 的音译。在南美厄瓜多尔和秘鲁沿岸，海水每年都会出现季节性增暖现象，因为这种现象发生在圣诞节前后，则被当地渔民称为厄尔尼诺，是 “圣婴”(上帝之子) 的意思。现在厄尔尼诺一词已被气象和海洋学家用来专门指那些发生在赤道太平洋东部和中部海水的大范围持续异常增暖现象。80 年代以来，厄尔尼诺发生频数明显增加，强度明显加强。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;拉尼娜&lt;/strong&gt;&lt;br&gt;
+拉尼娜是西班牙语 “La Nina” 的音译，是 “小女孩” 的意思。气象学家用以指赤道太平洋东部和中部海表温度大范围持续异常变冷的现象，也称为反厄尔尼诺。从近 50 年的结果来看，这种现象发生频率少于厄尔尼诺，强度也比厄尔尼诺弱，持续时间则大多数偏长。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;相关网址&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#相关网址&#34;&gt;#&lt;/a&gt; 相关网址&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5jbWEuZ292LmNu&#34;&gt;中国气象局&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5ubWMuY24=&#34;&gt;中央气象台&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cud2luZHkuY29t&#34;&gt;Windy&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="气象爱好者" />
+        <updated>2019-10-07T07:26:39.000Z</updated>
+    </entry>
+</feed>

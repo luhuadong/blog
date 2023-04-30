@@ -1,0 +1,82 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "成为自由人 • All posts by \"互联网\" tag",
+    "description": "阿基米东的网络日志",
+    "home_page_url": "https://luhuadong.com",
+    "items": [
+        {
+            "id": "https://luhuadong.com/it/static-web-hosting-service.html",
+            "url": "https://luhuadong.com/it/static-web-hosting-service.html",
+            "title": "静态网页托管服务",
+            "date_published": "2021-11-26T02:09:40.000Z",
+            "content_html": "<p><img data-src=\"/images/it/static-web-hosting.png\" alt=\"\"></p>\n<h2 id=\"github-pages\"><a class=\"markdownIt-Anchor\" href=\"#github-pages\">#</a> GitHub Pages</h2>\n<p>GitHub Pages 是 GitHub 公司提供的免费的静态网站托管服务，用起来方便而且功能强大，不仅没有空间限制，还可以绑定自己的域名。很多非常著名的公司和项目也都用这种方式来搭建网站，如微软和 twitter 的网站，还有谷歌的 Material Design 图标网站。</p>\n<p>网址：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9wYWdlcy5naXRodWIuY29t\">https://pages.github.com</span></p>\n<h2 id=\"cloudflare-pages\"><a class=\"markdownIt-Anchor\" href=\"#cloudflare-pages\">#</a> Cloudflare Pages</h2>\n<p>Cloudflare Pages 是一个静态网站托管服务，功能和 Github Pages 差不多，可以存放静态网页，还可以直接部署前端项目。如果你的网站只是静态博客或帮助文档的话，可以完全不需要购买服务器。Cloudflare 是全球最大的几个 CDN 服务商之一，速度应该会比 Github Pages 好一些，而且 Cloudflare Pages 一个账户可以创建多个网站。</p>\n<p>网址：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9wYWdlcy5jbG91ZGZsYXJlLmNvbQ==\">https://pages.cloudflare.com</span></p>\n<h2 id=\"dropbox\"><a class=\"markdownIt-Anchor\" href=\"#dropbox\">#</a> Dropbox</h2>\n<p>Dropbox 云存储是国外著名的网盘服务商，成立于 2007 年，为用户免费提供 2G 初始容量的网络云存储空间。类似于微软的 OneDrive。用户可以在网页客户端上传文件或使用共享链接与好友分享自己的文件，也可以通过 PC 客户端同步本地文件到 Dropbox 云端服务器中保存。</p>\n<p>Droppages 是一款通过 Dropbox API 开发的免费第三方应用，可以在 Dropbox 中搭建静态博客。博客的免费域名、主题模板、文件编辑等功能由 DropPages 提供，而网站文件则存入在 Dropbox 中。</p>\n<p>网址：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9kcm9wcGFnZXMuY29t\">https://droppages.com</span></p>\n<h2 id=\"netlify\"><a class=\"markdownIt-Anchor\" href=\"#netlify\">#</a> Netlify</h2>\n<p>Netlify 是一个提供静态网站托管的服务，提供 CI 服务，能够托管 GitHub、GitLab 等网站上的 Jekyll、Hexo、Hugo 等静态网站。</p>\n<p>Netlify 有如下的功能：</p>\n<ul>\n<li>能够托管服务，免费 CDN</li>\n<li>能够绑定自定义域名，支持 SSL 证书</li>\n<li>支持自动构建</li>\n<li>提供 Webhooks 和 API</li>\n</ul>\n<p>除此之外，Netlify CMS 还为这些静态网站提供管理内容的能力，可以让用户在线编辑源文件。</p>\n<p>简单来说，Netlify CMS 给静态网站增加了一个控制台界面。如果在本站的网站后面加上  <code>/Admin/</code> ，可以看到一个登录界面。这个登陆界面来自于 Netlify CMS 的登录管理系统，也就是 Netlify CMS Identity。进入控制台之后，可以看到一个类似文件管理器的界面，可以编辑 Markdown 源文件。</p>\n<p>Netlify CMS 支持 Git 工作流。也就是说网站的源文件是存储在一个 Git 仓库。 在 Netlify CMS 的 Admin 界面添加了文件之后，会被自动提交到 Git 仓库，然后触发 CI（自动集成）流程，Netlify 会自动帮你部署更新后的版本。</p>\n<p>网址：</p>\n<ul>\n<li>Netlify：<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cubmV0bGlmeS5jb20=\">https://www.netlify.com</span></li>\n<li>Netlify CMS：<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cubmV0bGlmeWNtcy5vcmc=\">https://www.netlifycms.org</span></li>\n</ul>\n<h2 id=\"gitbook\"><a class=\"markdownIt-Anchor\" href=\"#gitbook\">#</a> GitBook</h2>\n<p>GitBook 是一个使用 Git 和 Markdown 来构建书籍的工具，它基于 Node.js 技术，可以将电子书输出为格式 PDF，ePub，mobi 或者静态网页等格式。</p>\n<p>对于静态网页，可以将其托管在 <span class=\"exturl\" data-url=\"aHR0cDovL0dpdEJvb2suY29t\">GitBook.com</span> 在线平台。</p>\n<p>网址：<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuZ2l0Ym9vay5jb20=\">https://www.gitbook.com</span></p>\n<h2 id=\"read-the-docs\"><a class=\"markdownIt-Anchor\" href=\"#read-the-docs\">#</a> Read the Docs</h2>\n<p>Read the Docs 是一个在线文档托管服务，你可以从各种版本控制系统（例如 Github）中导入文档，每次提交代码后可以自动构建并上传至 readthedocs 网站，非常方便。</p>\n<p>Read the Docs 是一个基于 Sphinx 的免费文档托管项目，目前已经托管了超过 9 万份文档。Sphinx 是一个基于 Python 的文档生成项目，最早只是用来生成 Python 官方文档，随着工具的完善， 越来越多的知名的项目也用他来生成文档。</p>\n<p>网址：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9yZWFkdGhlZG9jcy5vcmc=\">https://readthedocs.org</span></p>\n",
+            "tags": [
+                "互联网"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/industry/search-engines.html",
+            "url": "https://luhuadong.com/industry/search-engines.html",
+            "title": "国内外常用搜索引擎",
+            "date_published": "2021-10-21T03:19:39.000Z",
+            "content_html": "<h2 id=\"谷歌\"><a class=\"markdownIt-Anchor\" href=\"#谷歌\">#</a> 谷歌</h2>\n<p>谷歌（Google）搜索是由 Google 公司推出的一个互联网搜索引擎，它是互联网上最大、影响最广泛的搜索引擎。Google 每日透过不同的服务，处理来自世界各地超过 30 亿次的查询。</p>\n<p>网址：<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbQ==\">https://www.google.com</span></p>\n<p><img data-src=\"/images/industry/google-search.png\" alt=\"\"></p>\n<h2 id=\"必应\"><a class=\"markdownIt-Anchor\" href=\"#必应\">#</a> 必应</h2>\n<p>必应搜索是由微软公司出品的国际搜索引擎。针对中国用户，提供国内版和国际版两个搜索域。令人印象深刻的是，每次打开必应搜索，就能欣赏到每日更新的必应美图及背后的图片故事，让每次搜索都从一个愉悦的心情开始。</p>\n<p>网址：<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmluZy5jb20=\">https://www.bing.com</span></p>\n<p><img data-src=\"/images/industry/bing-search.png\" alt=\"\"></p>\n<h2 id=\"百度\"><a class=\"markdownIt-Anchor\" href=\"#百度\">#</a> 百度</h2>\n<p>百度是中国互联网用户最常用的搜索引擎，每天完成上亿次搜索，也是全球最大的中文搜索引擎。2000 年 1 月由李彦宏、徐勇两人创立于北京中关村，致力于向人们提供 “简单，可依赖” 的信息获取方式。</p>\n<p>网址：<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmFpZHUuY29t\">https://www.baidu.com</span></p>\n<p><img data-src=\"/images/industry/baidu-search.png\" alt=\"\"></p>\n<h2 id=\"360搜索\"><a class=\"markdownIt-Anchor\" href=\"#360搜索\">#</a> 360 搜索</h2>\n<p>全球第二大的中文搜索引擎，依托于 360 母品牌的安全优势，全面拦截各类钓鱼欺诈等恶意网站，提供更放心的搜索服务。360 搜索的前身是 “好搜搜索”， 2016 年 2 月 1 日，好搜搜索更名为 360 搜索，域名也从 “<span class=\"exturl\" data-url=\"aHR0cDovL2hhb3NvdS5jb20=\">haosou.com</span>”，切换为更易记忆、更易输入的 “<span class=\"exturl\" data-url=\"aHR0cDovL3NvLmNvbQ==\">so.com</span>”。</p>\n<p>网址：<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuc28uY29t\">https://www.so.com</span></p>\n<p><img data-src=\"/images/industry/360-search.png\" alt=\"\"></p>\n<h2 id=\"搜狗搜索\"><a class=\"markdownIt-Anchor\" href=\"#搜狗搜索\">#</a> 搜狗搜索</h2>\n<p>搜狗搜索是搜狐公司于 2004 年 8 月 3 日推出的全球首个第三代互动式中文搜索引擎。致力于中文互联网信息的深度挖掘，从用户需求出发，以人工智能新算法，分析和理解用户可能的查询意图，对不同的搜索结果进行分类，对相同的搜索结果进行聚类，在用户查询和搜索引擎返回结果的过程中，引导用户更快速准确定位自己所关注的内容。</p>\n<p>值得关注的是，搜狗搜索提供了微信订阅号的文章搜索功能。（<span class=\"exturl\" data-url=\"aHR0cHM6Ly93ZWl4aW4uc29nb3UuY29t\">https://weixin.sogou.com</span>）</p>\n<p>网址：<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuc29nb3UuY29t\">https://www.sogou.com</span></p>\n<p><img data-src=\"/images/industry/sogou-search.png\" alt=\"\"></p>\n<h2 id=\"yandex\"><a class=\"markdownIt-Anchor\" href=\"#yandex\">#</a> Yandex</h2>\n<p>Yandex 号称 “东欧第一搜索门户”，是俄罗斯网络拥有用户较多的网站。Yandex 的服务包括搜索、最近新闻、地图和百科、电子信箱、电子商务及其他服务。Yandex 非常注重区域网站工作，所有的服务都考虑到了使用者的地理位置：可以在区域网站上搜索，“新闻” 里提供地方信息，“市场” 里首先就提供地区商店的物品。</p>\n<p>网址：<span class=\"exturl\" data-url=\"aHR0cHM6Ly95YW5kZXguY29t\">https://yandex.com</span></p>\n<p><img data-src=\"/images/industry/yandex-search.png\" alt=\"\"></p>\n<h2 id=\"神马搜索\"><a class=\"markdownIt-Anchor\" href=\"#神马搜索\">#</a> 神马搜索</h2>\n<p>神马搜索是由知名的移动浏览器 UC 优视与中国互联网行业领军企业阿里巴巴共同发起组建，是全球第一款完全基于移动互联网的搜索引擎。它是专注移动互联网的搜索引擎，基于阿里云搜索的积累和 UC 浏览器的自身的发展，为企业提供全方位推广。也就是说，神马搜索只专注于移动搜索，不提供 PC 端搜索功能，目前已成为移动市场里最大的贡献流量搜索引擎之一。</p>\n<p>网址：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9tLnNtLmNu\">https://m.sm.cn</span></p>\n<img data-src=\"/images/industry/sm-search.jpeg\" width=\"520\">\n",
+            "tags": [
+                "互联网"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/industry/gen-z-in-words.html",
+            "url": "https://luhuadong.com/industry/gen-z-in-words.html",
+            "title": "Z 世代的互联网“黑话”",
+            "date_published": "2021-10-02T14:45:37.000Z",
+            "content_html": "<p>00 后网络 “黑话” 与弹幕文化相伴相生。弹幕最早来源于日本动漫网站，经过二次元文化的传播，它在国内逐渐获得了一批拥趸，AcFun、哔哩哔哩等网站也因此获得了巨大的流量，尤其受到 00 后的喜爱。弹幕的本义就是 “屏幕上的文字像密集的子弹一样扫射而过”，只是体现了网络时代海量数据，但因为任何网民都能加入发弹幕（类似网上发表评论）的游戏中，它因此具备了极强的互动性。</p>\n<ul>\n<li>yyds：永远的神</li>\n<li>zqsg：真情实感</li>\n<li>awsl：啊我死了</li>\n<li>hhh：哈哈哈</li>\n<li>xswl：笑死我了</li>\n<li>dbg：对不起</li>\n<li>jdl：讲道理</li>\n<li>drl：打扰了</li>\n<li>bdjw：不懂就问</li>\n<li>nsdd：你说得对</li>\n<li>plgg：漂亮哥哥</li>\n<li>plmm：漂亮妹妹</li>\n<li>duck 不必：大可不必</li>\n<li>xyxf：血雨腥风</li>\n<li>yjgj：有一句说一句</li>\n<li>ssfd：瑟瑟发抖</li>\n<li>cdx：处对象</li>\n<li>cbx：处奔现</li>\n<li>cqy：处 Q 友</li>\n<li>xjj：小姐姐</li>\n<li>深藏 blue：深藏不露</li>\n<li>osso：哦，是哦</li>\n<li>blx：玻璃心</li>\n<li>mly：let me love you</li>\n<li>nnzyb：be back soon 很快回来</li>\n<li>bg：boy &amp; girl</li>\n<li>gzs：工作室</li>\n<li>sk：生快</li>\n<li>gnps：关你屁事</li>\n<li>tsg：图书馆</li>\n<li>B4N：再见</li>\n<li>ball ball you：意思是 “请”</li>\n<li>BBS：图书馆</li>\n<li>yq：友情</li>\n<li>BFF：Best Friens forever</li>\n<li>AFAIK：As far as I know 据我所知</li>\n<li>ylq：娱乐圈</li>\n<li>nnnnp：牛逼</li>\n<li>NBCS：Nobody Cares</li>\n<li>lwjcf：来我家吃饭</li>\n<li>bhs：来嗨森</li>\n<li>yqjj：氧气姐姐</li>\n<li>hyq：后援会</li>\n<li>qjdc：倾家荡产</li>\n<li>ns：泥塑（娘化）</li>\n<li>btw：By the way</li>\n<li>GN：Good Night</li>\n</ul>\n",
+            "tags": [
+                "互联网"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/industry/%E6%96%B0%E5%AA%92%E4%BD%93%E6%97%B6%E4%BB%A3%E7%BD%91%E7%BB%9C%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.html",
+            "url": "https://luhuadong.com/industry/%E6%96%B0%E5%AA%92%E4%BD%93%E6%97%B6%E4%BB%A3%E7%BD%91%E7%BB%9C%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.html",
+            "title": "新媒体时代网络名词解释",
+            "date_published": "2021-10-02T13:39:57.000Z",
+            "content_html": "<h2 id=\"网媒\"><a class=\"markdownIt-Anchor\" href=\"#网媒\">#</a> 网媒</h2>\n<p>网媒就是以网络为载体的媒体。常见的博客、新浪微博、微信公众号、今日头条、哔哩哔哩等平台上的内容都是互联网媒体，即网媒。相对来说，电视、广播、报刊、杂志等则称为传统媒体。</p>\n<h2 id=\"自媒体\"><a class=\"markdownIt-Anchor\" href=\"#自媒体\">#</a> 自媒体</h2>\n<p>自媒体的英文是 “We Media”，是指普通大众（个人或团队）通过网络等途径向外发布他们本身的事实和新闻的传播方式。是一种私人化、平民化、普泛化、自主化的知识分享与传播新途径。</p>\n<h2 id=\"自媒体平台\"><a class=\"markdownIt-Anchor\" href=\"#自媒体平台\">#</a> 自媒体平台</h2>\n<p>从字面上可以理解，自媒体平台就是以自媒体为管理中心的平台。如今的自媒体平台非常多，目前比较受欢迎的有微信公众平台、抖音、B 站、今日头条、百家号等等。这些自媒体平台都是超级流量平台，但内容形式、算法推荐机制有所不同。</p>\n<h2 id=\"网红经济\"><a class=\"markdownIt-Anchor\" href=\"#网红经济\">#</a> 网红经济</h2>\n<p>网红经济就是指通过粉丝与被关注的人产生能够挣钱的的事。过去，被关注的一般都是明星名人，或是制造行业巨头等。例如篮球运动员科比球衣、电影明星李易峰、文学家韩寒书粉等。如今，有越来越多自媒体在获得受众关注后，也能利用其知名度进行一定方式的变现，这就是网红经济，或者称为粉丝经济。</p>\n<h2 id=\"鱼塘\"><a class=\"markdownIt-Anchor\" href=\"#鱼塘\">#</a> 鱼塘</h2>\n<p>此鱼塘并不是指农场里养魚的塘。在互联网经济中，是指为了获取流量，是把人比成鱼，先把人养起来，再进行收割的形式。</p>\n<h2 id=\"互联网\"><a class=\"markdownIt-Anchor\" href=\"#互联网\">#</a> 互联网 +</h2>\n<p>就是说传统产业 + 互联网方法，例如线下推广开个早餐店，刚开始用美团外卖送餐员，也可以叫互联网 + 了。</p>\n<h2 id=\"共享经济\"><a class=\"markdownIt-Anchor\" href=\"#共享经济\">#</a> 共享经济</h2>\n<p>共享经济（Sharing Economy）是指拥有闲置资源的机构或个人有偿让渡资源使用权给他人，让渡者获取回报，分享者利用分享自己的闲置资源创造价值。其中车子和房屋共享的概念较早，也最被接受，像 Uber、Airbnb 等都是为人所知的例子。</p>\n<h2 id=\"长尾理论\"><a class=\"markdownIt-Anchor\" href=\"#长尾理论\">#</a> 长尾理论</h2>\n<p>长尾理论（The Long Tail Effect）是指那些原来不受到重视的销量小但种类多的产品或服务由于总量巨大，累积起来的总收益超过主流产品的现象。在互联网领域，长尾效应尤为显著。</p>\n<p>用 SEO 的话来解释长尾理论，就是说，不必只盯住主关键字排名产生流量，你可以做很多长尾词排行。例如你也是搞室内装修的，你不必只做房子装修，你应当把 “房子装修哪家好”、“北京房屋装修企业”、“房子装修步骤是啥” 等关键字排名都做上来。</p>\n<h2 id=\"ugc\"><a class=\"markdownIt-Anchor\" href=\"#ugc\">#</a> UGC</h2>\n<p>UGC（User Generated Content，用户原创内容）的概念最早起源于互联网领域，即用户将自己原创的内容通过互联网平台进行展示或者提供给其他用户。UGC 是伴随着以提倡个性化为主要特点的 Web2.0 概念兴起的。UGC 并不是某一种具体的业务，而是一种用户使用互联网的新方式，即由原来的以下载为主变成下载和上传并重。YouTube、MySpace、哔哩哔哩、喜马拉雅等网站都可以看做是 UGC 的成功案例，社区网络、视频分享、博客和播客（视频分享）等都是 UGC 的主要应用形式。</p>\n<h2 id=\"pgc\"><a class=\"markdownIt-Anchor\" href=\"#pgc\">#</a> PGC</h2>\n<p>PGC（Professionally Generated Content，专业生产内容），与 UGC 相比，PGC 产出的内容通常更加专业化、更具公信力、更有价值。这是由创作主体决定的，UGC 更偏向于话题社区，PGC 则更多是在特定领域内的单方面信息的输出。PGC 有时候泛指个性化、视角多元化、传播民主化、社会关系虚拟化的内容。</p>\n<h2 id=\"ogc\"><a class=\"markdownIt-Anchor\" href=\"#ogc\">#</a> OGC</h2>\n<p>OGC（Occupationally Generated Content，品牌生产内容）有两种主体，一类是新媒体从业者、新闻背景工作者、传媒行业人员创作；另一类是某些行业的精英、特长、专业人士，与 PGC 一样。OGC 的创作主体与 PGC 的区别在于是否有目的性、盈利性。PGC 更多的是个人兴趣、个人表达需求的满足，这是创作的动机。而 OGC，获得报酬是他们的创作动机。</p>\n<h2 id=\"ip\"><a class=\"markdownIt-Anchor\" href=\"#ip\">#</a> IP</h2>\n<p>这里的 IP 并不是指人们建立网站流量里边那个 IP，或者网络 IP 地址那个 IP。而是指专利权的 IP，即 Intellectual Property，可以理解为知识财产、智慧财产、知识产权等意思。在网络新媒体中，我们常常听到有人说 “打造个人 IP”，意思就是通过文字、视频、音频等载体创造具有价值的内容，从而打造个人品牌。</p>\n<h2 id=\"kol\"><a class=\"markdownIt-Anchor\" href=\"#kol\">#</a> KOL</h2>\n<p>KOL（英文全拼：Key Opinion Leader），即关键意见领袖。是指在互联网上特别有影响力的人，例如通过 YouTube、Facebook、Instagram 等社交平台发布内容和分享观点的人。</p>\n<p>“意见领袖” 这个概念起源于行销学 / 市场营销学。例如某某行业的权威人士说了一句话，于是好多人都相信，从而影响了消费者的想法、决策以及产品的广告效果。</p>\n<h2 id=\"koc\"><a class=\"markdownIt-Anchor\" href=\"#koc\">#</a> KOC</h2>\n<p>KOC（英文全拼：Key Opinion Consumer），即关键意见消费者。从名字可以看出，它与 KOL 是相对应的，通常指能影响自己的朋友、粉丝，产生消费行为的消费者。相比于 KOL，KOC 的粉丝更少，影响力更小，优势是更垂直、更便宜。例如小红书 App 上就有许多 KOC。</p>\n<h2 id=\"mcn\"><a class=\"markdownIt-Anchor\" href=\"#mcn\">#</a> MCN</h2>\n<p>MCN（英文全拼：Multi-Channel Network），即多频道网络，是一种新的网红经济运作模式。MCN 模式源于国外成熟的网红经济运作，其本质是一个多频道网络的产品形态，将 PGC（专业内容生产）内容联合起来，在资本的有力支持下，保障内容的持续输出，从而最终实现商业的稳定变现。</p>\n<p>简单来说，MCN 就像是一个中介公司，上游对接优质内容，下游寻找推广平台变现。国外的 MCN 早期以经纪模式为主，帮助视频红人变现；而国内的 MCN 模式不同，机构只需要和内容生产者对接上，内容生产者专心做内容，MCN 机构帮你包装、营销、推广和变现。与李子柒合作的杭州微念公司就是一家 MCN 机构。</p>\n<h2 id=\"社群营销\"><a class=\"markdownIt-Anchor\" href=\"#社群营销\">#</a> 社群营销</h2>\n<p>网络社群营销是基于互联网等移动终端把具有共同兴趣、爱好的人聚集在一起，进行营销传播的过程，营销过程中通过引起受众的关注度，汇聚人群达到最终的营销目的。说的直接点就是，建微信群、QQ 群、知识星球等社群，还可以设置收费标准。</p>\n<h2 id=\"社群经济\"><a class=\"markdownIt-Anchor\" href=\"#社群经济\">#</a> 社群经济</h2>\n<p>社群经济是指互联网时代，一群有共同兴趣、认知、价值观的用户抱成团，发生群蜂效应，在一起互动、交流、协作、感染，对产品品牌本身产生反哺的价值关系，这种建立在产品与粉丝群体之间的情感信任 + 价值反哺，共同作用形成的自运转、自循环的范围经济系统。</p>\n<p>社群经济，就是说拉人头数卖东西，购买划算（团购），转发赚钱（导购）。</p>\n",
+            "tags": [
+                "互联网"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/movies/The-Story-of-Aaron-Swartz.html",
+            "url": "https://luhuadong.com/movies/The-Story-of-Aaron-Swartz.html",
+            "title": "【纪录片】互联网之子（Aaron Swartz）",
+            "date_published": "2021-03-05T17:43:41.000Z",
+            "content_html": "<iframe src=\"//player.bilibili.com/player.html?aid=16549975&bvid=BV1rx411V75r&cid=26994578&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>\n",
+            "tags": [
+                "互联网",
+                "纪录片",
+                "自由"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/entrepreneurship/how-to-build-an-online-business.html",
+            "url": "https://luhuadong.com/entrepreneurship/how-to-build-an-online-business.html",
+            "title": "如何建立网络生意",
+            "date_published": "2020-10-24T08:59:32.000Z",
+            "content_html": "<ol>\n<li>建立平台</li>\n<li>建立品牌</li>\n<li>网络宣传（做广告，以及赚广告费）</li>\n<li>网上课程（制作课程）</li>\n<li>收费平台（全球各地都可以用的收费系统）</li>\n<li>上课平台（足不出户的网络课程服务）</li>\n<li>客户跟进（upsell）</li>\n</ol>\n<p>好的生意模式，七个环节缺一不可。</p>\n",
+            "tags": [
+                "创业",
+                "互联网"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/movies/code-rush.html",
+            "url": "https://luhuadong.com/movies/code-rush.html",
+            "title": "【纪录片】代码奔腾（Code Rush）",
+            "date_published": "2020-02-03T06:45:49.000Z",
+            "content_html": "<p>《Code Rush》是 David Winton 导演于 1998 年至 2000 年间拍摄的纪录片，记录了硅谷的 Netscape 工程师们将浏览器源代码开源，成立 Mozilla 项目的经历；同时 Netscape 也正经历被 AOL 并购的过程。本片描绘了 Netscape 的工程师们，牺牲日常生活与家庭，努力防止他们的公司倒闭的经历。</p>\n<iframe src=\"//player.bilibili.com/player.html?aid=15989846&bvid=BV1rx411E7oW&cid=26090372&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>\n<blockquote>\n<p>从 1998 年 3 月到 1999 年 4 月，一个独立纪录片摄制组跟随着网景公司的一个软件工程师团队，记录了他们公司和互联网历史上的分水岭。</p>\n</blockquote>\n<p>这部纪录片详实地记录了软件工程师的生活、对写代码的热情与执着、硅谷的淘金梦、投资银行家的贪婪，以及 2000 年当时尚未破灭的互联网泡沫。虽然我们没有经历那个年代，哪怕只是过去了 20 多年，对我们来说却十分陌生。强烈推荐大家观看该影片，也许能激起你对科技行业的热情，成为这个时代的爆肝工程师。</p>\n",
+            "tags": [
+                "互联网",
+                "纪录片"
+            ]
+        }
+    ]
+}

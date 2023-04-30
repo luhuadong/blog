@@ -1,471 +1,228 @@
+
+
+
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
-<meta name="theme-color" content="#222">
-<meta name="generator" content="Hexo 5.0.2">
+<meta name="theme-color" content="#FFF">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="icon" type="image/ico" sizes="32x32" href="/images/favicon.ico">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta http-equiv="Cache-Control" content="no-siteapp">
 
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/lu_avatar_01_120px.png">
-  <link rel="mask-icon" href="/images/lu_avatar_01_240px.png" color="#222">
+<link rel="alternate" type="application/rss+xml" title="成为自由人" href="https://luhuadong.com/rss.xml" />
+<link rel="alternate" type="application/atom+xml" title="成为自由人" href="https://luhuadong.com/atom.xml" />
+<link rel="alternate" type="application/json" title="成为自由人" href="https://luhuadong.com/feed.json" />
 
-<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Mulish:300,300italic,400,400italic,700,700italic%7CFredericka%20the%20Great:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20JP:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20SC:300,300italic,400,400italic,700,700italic%7CInconsolata:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
 
+<link rel="stylesheet" href="/css/app.css?v=0.2.5">
 
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3396347538857110" crossorigin="anonymous"></script>
-
-<script class="hexo-configurations">
-    var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
-  </script>
-<meta name="description" content="听说成都地区的垃圾分类和末端处置做得不错，7月31日至8月1日，R先生跟随零废弃参访团在成都进行了游学参访。两天的参访中，我们学习到了成都根与芽在八宝街社区就地解决厨余垃圾的成功经验，了解到零废弃校园打造过程中的点点滴滴，看到了闲品再生和奥北环保这样不依赖于政府补贴的可持续运营的垃圾分类和资源化的商业模式，也见识到了大爱感恩环保科技在垃圾分类后端处理的情况，以及不可或缺的环保教育。  事不宜迟，开">
-<meta property="og:type" content="article">
-<meta property="og:title" content="零废弃联盟 | 成都参访学到了什么">
-<meta property="og:url" content="https://luhuadong.com/zerowaste/2018-czwa-chengdu-visit.html">
-<meta property="og:site_name" content="成为自由人">
-<meta property="og:description" content="听说成都地区的垃圾分类和末端处置做得不错，7月31日至8月1日，R先生跟随零废弃参访团在成都进行了游学参访。两天的参访中，我们学习到了成都根与芽在八宝街社区就地解决厨余垃圾的成功经验，了解到零废弃校园打造过程中的点点滴滴，看到了闲品再生和奥北环保这样不依赖于政府补贴的可持续运营的垃圾分类和资源化的商业模式，也见识到了大爱感恩环保科技在垃圾分类后端处理的情况，以及不可或缺的环保教育。  事不宜迟，开">
-<meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/line-02.webp">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-01.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-02.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-03.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-04.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-05.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-06.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-07.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-08.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-09.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-10.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-11.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-12.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-13.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-14.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/aobag-recyle-14.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-15.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-16.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-17.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-18.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-19.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-19-1.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-20.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-21.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-22.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-23.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-24.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-25.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/line-02.webp">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/2018-czwa-chengdu-00.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/zerowaste/1st-zero-waste-day.jpeg">
-<meta property="article:published_time" content="2018-08-05T04:21:23.000Z">
-<meta property="article:modified_time" content="2023-03-24T17:27:54.613Z">
-<meta property="article:author" content="Rudy Lo">
-<meta property="article:tag" content="环保">
-<meta property="article:tag" content="垃圾分类">
-<meta property="article:tag" content="零废弃">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://luhuadong.com/images/zerowaste/line-02.webp">
+  
+  <meta name="keywords" content="环保,垃圾分类,零废弃" />
 
 
 <link rel="canonical" href="https://luhuadong.com/zerowaste/2018-czwa-chengdu-visit.html">
 
 
-<script class="page-configurations">
-  // https://hexo.io/docs/variables.html
-  CONFIG.page = {
-    sidebar: "",
-    isHome : false,
-    isPost : true,
-    lang   : 'zh-CN'
-  };
-</script>
-<title>零废弃联盟 | 成都参访学到了什么 | 成为自由人</title>
+
+  <title>
+零废弃联盟 | 成都参访学到了什么 - 一起零废弃 |
+Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</title>
+<meta name="generator" content="Hexo 5.4.2"></head>
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div id="loading">
+    <div class="cat">
+      <div class="body"></div>
+      <div class="head">
+        <div class="face"></div>
+      </div>
+      <div class="foot">
+        <div class="tummy-end"></div>
+        <div class="bottom"></div>
+        <div class="legs left"></div>
+        <div class="legs right"></div>
+      </div>
+      <div class="paw">
+        <div class="hands left"></div>
+        <div class="hands right"></div>
+      </div>
+    </div>
+  </div>
+  <div id="container">
+    <header id="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="inner">
+        <div id="brand">
+          <div class="pjax">
+          
+  <h1 itemprop="name headline">零废弃联盟 | 成都参访学到了什么
+  </h1>
   
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
-    <script>
-      if (CONFIG.hostname === location.hostname) {
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-190737867-1');
-      }
-    </script>
-
-  <script>
-    var _hmt = _hmt || [];
-    (function() {
-      var hm = document.createElement("script");
-      hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58";
-      var s = document.getElementsByTagName("script")[0];
-      s.parentNode.insertBefore(hm, s);
-    })();
-  </script>
-
-
-
-  <noscript>
-  <style>
-  body { margin-top: 2rem; }
-
-  .use-motion .menu-item,
-  .use-motion .sidebar,
-  .use-motion .post-block,
-  .use-motion .pagination,
-  .use-motion .comments,
-  .use-motion .post-header,
-  .use-motion .post-body,
-  .use-motion .collection-header {
-    visibility: visible;
-  }
-
-  .use-motion .header,
-  .use-motion .site-brand-container .toggle,
-  .use-motion .footer { opacity: initial; }
-
-  .use-motion .site-title,
-  .use-motion .site-subtitle,
-  .use-motion .custom-logo-image {
-    opacity: initial;
-    top: initial;
-  }
-
-  .use-motion .logo-line {
-    transform: scaleX(1);
-  }
-
-  .search-pop-overlay, .sidebar-nav { display: none; }
-  .sidebar-panel { display: block; }
-  </style>
-</noscript>
-
-</head>
-
-<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
-  <div class="headband"></div>
-
-  <!-- 加入APlayer音乐播放器 -->
-  <link rel="stylesheet" href="/dist/APlayer.min.css">
-  <div id="aplayer"></div>
-  <script type="text/javascript" src="/dist/APlayer.min.js"></script>
-  <script type="text/javascript" src="/dist/music.js"></script>
-
-  <main class="main">
-    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header-inner"><div class="site-brand-container">
-  <div class="site-nav-toggle">
-    <div class="toggle" aria-label="切换导航栏" role="button">
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-    </div>
-  </div>
-
-  <div class="site-meta">
-
-    <a href="/" class="brand" rel="start">
-      <i class="logo-line"></i>
-      <h1 class="site-title">成为自由人</h1>
-      <i class="logo-line"></i>
-    </a>
-      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
-      <img class="custom-logo-image" src="/images/banner_1.gif" alt="成为自由人">
-  </div>
-
-  <div class="site-nav-right">
-    <div class="toggle popup-trigger">
-        <i class="fa fa-search fa-fw fa-lg"></i>
-    </div>
-  </div>
+<div class="meta">
+  <span class="item" title="创建时间：2018-08-05 12:21:23">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <span class="text">发表于</span>
+    <time itemprop="dateCreated datePublished" datetime="2018-08-05T12:21:23+08:00">2018-08-05</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span class="text">本文字数</span>
+    <span>5k</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span class="text">阅读时长</span>
+    <span>5 分钟</span>
+  </span>
 </div>
 
 
-
-<nav class="site-nav">
-  <ul class="main-menu menu">
-        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
-        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
-        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
-        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
-        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
-        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
-        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
-        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
-      <li class="menu-item menu-item-search">
-        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
-        </a>
+          </div>
+        </div>
+        <nav id="nav">
+  <div class="inner">
+    <div class="toggle">
+      <div class="lines" aria-label="切换导航栏">
+        <span class="line"></span>
+        <span class="line"></span>
+        <span class="line"></span>
+      </div>
+    </div>
+    <ul class="menu">
+      <li class="item title"><a href="/" rel="start">Freedom Blog</a></li>
+    </ul>
+    <ul class="right">
+      <li class="item theme">
+        <i class="ic i-sun"></i>
       </li>
-  </ul>
+      <li class="item search">
+        <i class="ic i-search"></i>
+      </li>
+    </ul>
+  </div>
 </nav>
 
-
-
-  <div class="search-pop-overlay">
-    <div class="popup search-popup"><div class="search-header">
-  <span class="search-icon">
-    <i class="fa fa-search"></i>
-  </span>
-  <div class="search-input-container">
-    <input autocomplete="off" autocapitalize="off" maxlength="80"
-           placeholder="搜索..." spellcheck="false"
-           type="search" class="search-input">
-  </div>
-  <span class="popup-btn-close" role="button">
-    <i class="fa fa-times-circle"></i>
-  </span>
-</div>
-<div class="search-result-container no-result">
-  <div class="search-result-icon">
-    <i class="fa fa-spinner fa-pulse fa-5x"></i>
-  </div>
-</div>
-
-    </div>
-  </div>
-
-</div>
-        
-  
-  <div class="toggle sidebar-toggle" role="button">
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-  </div>
-
-  <aside class="sidebar">
-
-    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
-      <ul class="sidebar-nav">
-        <li class="sidebar-nav-toc">
-          文章目录
-        </li>
-        <li class="sidebar-nav-overview">
-          站点概览
-        </li>
-      </ul>
-
-      <div class="sidebar-panel-container">
-        <!--noindex-->
-        <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%88%90%E9%83%BD%E6%A0%B9%E4%B8%8E%E8%8A%BD%E5%85%AB%E5%AE%9D%E8%A1%97%E7%A4%BE%E5%8C%BA"><span class="nav-number">1.</span> <span class="nav-text">成都根与芽八宝街社区</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%97%B2%E5%93%81%E5%86%8D%E7%94%9F%E7%A4%BE%E5%8C%BA%E5%8F%82%E8%AE%BF"><span class="nav-number">2.</span> <span class="nav-text">闲品再生社区参访</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%A5%A5%E5%8C%97%E7%8E%AF%E4%BF%9D%E8%87%AA%E5%8A%A9%E5%9B%9E%E6%94%B6%E7%82%B9"><span class="nav-number">3.</span> <span class="nav-text">奥北环保自助回收点</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BB%80%E9%82%A1%E5%A4%A7%E7%88%B1%E6%84%9F%E6%81%A9%E7%8E%AF%E4%BF%9D%E7%A7%91%E6%8A%80"><span class="nav-number">4.</span> <span class="nav-text">什邡大爱感恩环保科技</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%BE%99%E6%B3%89%E9%A9%BF%E5%8C%BA%E6%B4%AA%E5%AE%89%E5%B0%8F%E5%AD%A6%E9%9B%B6%E5%BA%9F%E5%BC%83%E6%A0%A1%E5%9B%AD"><span class="nav-number">5.</span> <span class="nav-text">龙泉驿区洪安小学零废弃校园</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%80%BB%E7%BB%93"><span class="nav-number">6.</span> <span class="nav-text">总结</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%BD%A9%E8%9B%8B"><span class="nav-number">7.</span> <span class="nav-text">彩蛋</span></a></li></ol></div>
-        </div>
-        <!--/noindex-->
-
-        <div class="site-overview-wrap sidebar-panel">
-          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
-      src="/images/lu_avatar_04.jpeg">
-  <p class="site-author-name" itemprop="name">Rudy Lo</p>
-  <div class="site-description" itemprop="description">阿基米东的网络日志</div>
-</div>
-<div class="site-state-wrap site-overview-item animated">
-  <nav class="site-state">
-      <div class="site-state-item site-state-posts">
-          <a href="/archives/">
-        
-          <span class="site-state-item-count">295</span>
-          <span class="site-state-item-name">日志</span>
-        </a>
       </div>
-      <div class="site-state-item site-state-categories">
-            <a href="/categories/">
-          
-        <span class="site-state-item-count">35</span>
-        <span class="site-state-item-name">分类</span></a>
+      <div id="imgs" class="pjax">
+        <ul>
+          <li class="item" data-background-image="http://static.luhuadong.com/QingMing2023.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/MPPUnesco.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/JTNPMilkyWay.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/NahargarhFort.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/MinouLighthouse.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/EuropeFromISS.jpg"></li>
+        </ul>
       </div>
-      <div class="site-state-item site-state-tags">
-            <a href="/tags/">
-          
-        <span class="site-state-item-count">80</span>
-        <span class="site-state-item-name">标签</span></a>
-      </div>
-  </nav>
-</div>
-  <div class="links-of-author site-overview-item animated">
-      <span class="links-of-author-item">
-        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://gitee.com/luhuadong" title="Gitee → https:&#x2F;&#x2F;gitee.com&#x2F;luhuadong" rel="noopener" target="_blank">Gitee</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.douban.com/group/730047/" title="豆瓣 → https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;" rel="noopener" target="_blank">豆瓣</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://zerotogether.net/" title="零废弃部落 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零废弃部落</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
-      </span>
-  </div>
-  <div class="cc-license site-overview-item animated" itemprop="license">
-    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
-  </div>
-
-
-
-        </div>
-      </div>
-    </div>
-  </aside>
-  <div class="sidebar-dimmer"></div>
-
-
     </header>
-
+    <div id="waves">
+      <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+        <defs>
+          <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+        </defs>
+        <g class="parallax">
+          <use xlink:href="#gentle-wave" x="48" y="0" />
+          <use xlink:href="#gentle-wave" x="48" y="3" />
+          <use xlink:href="#gentle-wave" x="48" y="5" />
+          <use xlink:href="#gentle-wave" x="48" y="7" />
+        </g>
+      </svg>
+    </div>
+    <main>
+      <div class="inner">
+        <div id="main" class="pjax">
+          
+  <div class="article wrap">
     
-  <div class="back-to-top" role="button">
-    <i class="fa fa-arrow-up"></i>
-    <span>0%</span>
-  </div>
-
-<noscript>
-  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
-</noscript>
-
-
-    <div class="main-inner post posts-expand">
-
-
-  
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/zerowaste/2018-czwa-chengdu-visit.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
-          零废弃联盟 | 成都参访学到了什么
-        </h1>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2018-08-05 12:21:23" itemprop="dateCreated datePublished" datetime="2018-08-05T12:21:23+08:00">2018-08-05</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%80%E8%B5%B7%E9%9B%B6%E5%BA%9F%E5%BC%83/" itemprop="url" rel="index"><span itemprop="name">一起零废弃</span></a>
-        </span>
-    </span>
-
-  
+<div class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+<i class="ic i-home"></i>
+<span><a href="/">首页</a></span><i class="ic i-angle-right"></i>
+<span  class="current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/categories/%E4%B8%80%E8%B5%B7%E9%9B%B6%E5%BA%9F%E5%BC%83/" itemprop="item" rel="index" title="分类于 一起零废弃"><span itemprop="name">一起零废弃</span></a>
+<meta itemprop="position" content="1" /></span>
 </div>
 
-        </div>
-      </header>
+    <article itemscope itemtype="http://schema.org/Article" class="post block" lang="zh-CN">
+  <link itemprop="mainEntityOfPage" href="https://luhuadong.com/zerowaste/2018-czwa-chengdu-visit.html">
 
+  <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <meta itemprop="image" content="/images/lu_20221221.jpg">
+    <meta itemprop="name" content="Rudy Lo">
+    <meta itemprop="description" content="生活的理想，就是为了理想的生活, 阿基米东的网络日志">
+  </span>
+
+  <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+    <meta itemprop="name" content="成为自由人">
+  </span>
+
+  <div class="body md" itemprop="articleBody">
     
-    
-    
-    <div class="post-body" itemprop="articleBody">
-        <p>听说成都地区的垃圾分类和末端处置做得不错，7月31日至8月1日，R先生跟随零废弃参访团在成都进行了游学参访。两天的参访中，我们学习到了成都根与芽在八宝街社区就地解决厨余垃圾的成功经验，了解到零废弃校园打造过程中的点点滴滴，看到了闲品再生和奥北环保这样不依赖于政府补贴的可持续运营的垃圾分类和资源化的商业模式，也见识到了大爱感恩环保科技在垃圾分类后端处理的情况，以及不可或缺的环保教育。</p>
+
+    <p>听说成都地区的垃圾分类和末端处置做得不错，7 月 31 日至 8 月 1 日，R 先生跟随零废弃参访团在成都进行了游学参访。两天的参访中，我们学习到了成都根与芽在八宝街社区就地解决厨余垃圾的成功经验，了解到零废弃校园打造过程中的点点滴滴，看到了闲品再生和奥北环保这样不依赖于政府补贴的可持续运营的垃圾分类和资源化的商业模式，也见识到了大爱感恩环保科技在垃圾分类后端处理的情况，以及不可或缺的环保教育。</p>
 <p>事不宜迟，开片！</p>
-<p><img src="/images/zerowaste/line-02.webp"></p>
-<h2 id="成都根与芽八宝街社区"><a href="#成都根与芽八宝街社区" class="headerlink" title="成都根与芽八宝街社区"></a>成都根与芽八宝街社区</h2><p><img src="/images/zerowaste/2018-czwa-chengdu-01.jpeg"></p>
+<p><img data-src="/images/zerowaste/line-02.webp" alt=""></p>
+<h2 id="成都根与芽八宝街社区"><a class="markdownIt-Anchor" href="#成都根与芽八宝街社区">#</a> 成都根与芽八宝街社区</h2>
+<p><img data-src="/images/zerowaste/2018-czwa-chengdu-01.jpeg" alt=""></p>
 <blockquote>
 <p>八宝街社区合影留念</p>
 </blockquote>
 <p>厨余垃圾（干湿分离）一直是我国城市垃圾分类中的痛点和难点，成都根与芽在八宝街社区进行厨余堆肥的成功经验，不仅给我们提供了经验，也给了我们信心。晓娟介绍，这个项目最开始是参考印度班加罗尔在公共区堆肥的成功案例，而且是包含肉和油的。既然班加罗尔能成功，成都也应该能成功，所以开始在八宝街社区进行尝试。</p>
 <p>“厨余变沃土” 听起来很好玩，但是真正实施起来却是辛酸血泪史。从第一代的堆肥桶开始尝试，遇到发臭、长蛆等问题，再到后来赵哥亲自出马用空心砖修建堆肥池。经历了长时间的摸索才取得了如今较为成功的堆肥效果。</p>
-<img src="/images/zerowaste/2018-czwa-chengdu-02.jpeg" width="400" />
-
+<img data-src="/images/zerowaste/2018-czwa-chengdu-02.jpeg" width="400" />
 <blockquote>
 <p>八宝街社区第一代堆肥桶</p>
 </blockquote>
-<img src="/images/zerowaste/2018-czwa-chengdu-03.jpeg" width="400" />
-
+<img data-src="/images/zerowaste/2018-czwa-chengdu-03.jpeg" width="400" />
 <blockquote>
 <p>赵哥和他修建的堆肥池</p>
 </blockquote>
-<p>赵哥表示，原来每天需要花2个小时处理堆肥的事情，现在只需要40分钟。包括清运下图中三个厨余桶中的厨余垃圾，粉碎大件厨余，翻动堆肥池等环节。八宝街社区堆肥项目，不仅使得厨余变成沃土，美化了社区环境，而且社区居民也可以随时获得有机肥，真是一举多得！</p>
-<img src="/images/zerowaste/2018-czwa-chengdu-04.jpeg" width="600" />
-
+<p>赵哥表示，原来每天需要花 2 个小时处理堆肥的事情，现在只需要 40 分钟。包括清运下图中三个厨余桶中的厨余垃圾，粉碎大件厨余，翻动堆肥池等环节。八宝街社区堆肥项目，不仅使得厨余变成沃土，美化了社区环境，而且社区居民也可以随时获得有机肥，真是一举多得！</p>
+<img data-src="/images/zerowaste/2018-czwa-chengdu-04.jpeg" width="600" />
 <blockquote>
 <p>八宝街社区垃圾分类站</p>
 </blockquote>
-<img src="/images/zerowaste/2018-czwa-chengdu-05.jpeg" width="600" />
-
+<img data-src="/images/zerowaste/2018-czwa-chengdu-05.jpeg" width="600" />
 <blockquote>
 <p>社区居民亲自粉刷的壁画</p>
 </blockquote>
-<p>这让R先生想起来日本转型城镇藤野创始人榎本英刚老师的一句话 —— 世界上最多的能源并不是太阳能，而是每个人的创造力。社区转型实际上就是为了<strong>释放出每个人本自具足的创造力</strong>！</p>
+<p>这让 R 先生想起来日本转型城镇藤野创始人榎本英刚老师的一句话 —— 世界上最多的能源并不是太阳能，而是每个人的创造力。社区转型实际上就是为了<strong>释放出每个人本自具足的创造力</strong>！</p>
 <p>更多 &gt;&gt;</p>
 <ul>
-<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s?__biz=MzA5MzMxMTM0NA==&mid=2650380267&idx=1&sn=055ea8f163d55f28aec8105f33410ecc&chksm=8852eff4bf2566e234a9b8449557cdbaefe58027c9392ff119bf24954897a340ab074d07de1f&scene=21#wechat_redirect">零废案例 | 厨余垃圾何处去？化作春泥更护花</a></li>
-<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s?__biz=MzA5MzMxMTM0NA==&mid=2650380421&idx=1&sn=bd3bf2687f5389acfa97a740b828ad36&chksm=8852e09abf25698caa7807a5bad35680f9a9b0c1d48b2149a238e6514ccc6d00217a925fbc1e&scene=21#wechat_redirect">人物 | 环保汉子赵哥的故事</a></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3M/X19iaXo9TXpBNU16TXhNVE0wTkE9PSZhbXA7bWlkPTI2NTAzODAyNjcmYW1wO2lkeD0xJmFtcDtzbj0wNTVlYThmMTYzZDU1ZjI4YWVjODEwNWYzMzQxMGVjYyZhbXA7Y2hrc209ODg1MmVmZjRiZjI1NjZlMjM0YTliODQ0OTU1N2NkYmFlZmU1ODAyN2M5MzkyZmYxMTliZjI0OTU0ODk3YTM0MGFiMDc0ZDA3ZGUxZiZhbXA7c2NlbmU9MjEjd2VjaGF0X3JlZGlyZWN0">零废案例 | 厨余垃圾何处去？化作春泥更护花</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3M/X19iaXo9TXpBNU16TXhNVE0wTkE9PSZhbXA7bWlkPTI2NTAzODA0MjEmYW1wO2lkeD0xJmFtcDtzbj1iZDNiZjI2ODdmNTM4OWFjZmE5N2E3NDBiODI4YWQzNiZhbXA7Y2hrc209ODg1MmUwOWFiZjI1Njk4Y2FhNzgwN2E1YmFkMzU2ODBmOWE5YjBjMWQ0OGIyMTQ5YTIzOGU2NTE0Y2NjNmQwMDIxN2E5MjVmYmMxZSZhbXA7c2NlbmU9MjEjd2VjaGF0X3JlZGlyZWN0">人物 | 环保汉子赵哥的故事</span></li>
 </ul>
-<h2 id="闲品再生社区参访"><a href="#闲品再生社区参访" class="headerlink" title="闲品再生社区参访"></a>闲品再生社区参访</h2><p>成都市闲品再生资源有限公司是四川省首家通过<strong>自我造血</strong>把垃圾分类回收及资源化服务无偿面向政府、社区、个人使用的一家环保企业，根据市场需求于2018年开通成都市大件垃圾有偿一站式回收服务。</p>
-<p>闲品再生的含义是“<strong>闲置物品，再获新生</strong>”。创始人陈天亮说他是误打误撞进入此行的，创业初期以回收衣服为主，因为这其中有商业前景、有政策导向，同时也很有意义。</p>
-<img src="/images/zerowaste/2018-czwa-chengdu-06.jpeg" width="600" />
-
+<h2 id="闲品再生社区参访"><a class="markdownIt-Anchor" href="#闲品再生社区参访">#</a> 闲品再生社区参访</h2>
+<p>成都市闲品再生资源有限公司是四川省首家通过<strong>自我造血</strong>把垃圾分类回收及资源化服务无偿面向政府、社区、个人使用的一家环保企业，根据市场需求于 2018 年开通成都市大件垃圾有偿一站式回收服务。</p>
+<p>闲品再生的含义是 “<strong>闲置物品，再获新生</strong>”。创始人陈天亮说他是误打误撞进入此行的，创业初期以回收衣服为主，因为这其中有商业前景、有政策导向，同时也很有意义。</p>
+<img data-src="/images/zerowaste/2018-czwa-chengdu-06.jpeg" width="600" />
 <blockquote>
-<p>围观瑞安·城中汇的分类回收箱</p>
+<p>围观瑞安・城中汇的分类回收箱</p>
 </blockquote>
-<img src="/images/zerowaste/2018-czwa-chengdu-07.jpeg" width="600" />
-
+<img data-src="/images/zerowaste/2018-czwa-chengdu-07.jpeg" width="600" />
 <blockquote>
 <p>分类回收箱内景</p>
 </blockquote>
 <p>闲品再生工作人员介绍，昨天才来这个小区收运过一次，现在回收箱中已经有不少物资了，包括灯泡、过期药品、书籍、衣服等等，甚至还有一双全新的小朋友凉鞋。</p>
-<img src="/images/zerowaste/2018-czwa-chengdu-08.jpeg" width="600" />
-
+<img data-src="/images/zerowaste/2018-czwa-chengdu-08.jpeg" width="600" />
 <blockquote>
 <p>闲品再生高颜值分类回收箱</p>
 </blockquote>
 <p>陈天亮表示，第一代回收箱只设计用于回收旧衣物，后来由于居民的建议和需求，经过更新换代，增加了有害物品、过期药品、化妆品、废旧手机、电池等回收种类，最后设计出这款高颜值的回收箱。高颜值有利于增加居民参与度，也让居民更爱护它们。</p>
-<p>闲品再生经过两年多的发展，目前已投放580个回收箱，覆盖成都市内四百多个社区。微信平台用户达4万人，线上、线下覆盖家庭超过30万户，累计上门回收3500余次。目前每月回收100吨左右，争取2019年中期在主城区完成1500个投放量，每月回收300-500吨。这种“互联网+”的运营模式，以及<strong>环保</strong>、<strong>公益</strong>、<strong>互惠</strong>的“闲品再生”理念，已经得到社会的广泛认可。更可喜的是，闲品再生前段时间已经突破盈亏平衡点，意味着这种模式是可持续的。</p>
+<p>闲品再生经过两年多的发展，目前已投放 580 个回收箱，覆盖成都市内四百多个社区。微信平台用户达 4 万人，线上、线下覆盖家庭超过 30 万户，累计上门回收 3500 余次。目前每月回收 100 吨左右，争取 2019 年中期在主城区完成 1500 个投放量，每月回收 300-500 吨。这种 “互联网 +” 的运营模式，以及<strong>环保</strong>、<strong>公益</strong>、<strong>互惠</strong>的 “闲品再生” 理念，已经得到社会的广泛认可。更可喜的是，闲品再生前段时间已经突破盈亏平衡点，意味着这种模式是可持续的。</p>
 <p>那么，闲品再生当初是如何进入社区？黄佳表示，其实他们是直接联系城管委获取准入许可，然后就开始在社区投放回收箱的，这部分的阻力较小，因为这件事对城市垃圾减量是有帮助的，所以城管委也比较支持。</p>
-<p><img src="/images/zerowaste/2018-czwa-chengdu-09.jpeg"></p>
+<p><img data-src="/images/zerowaste/2018-czwa-chengdu-09.jpeg" alt=""></p>
 <blockquote>
-<p>R先生徒手画的运营模式</p>
+<p>R 先生徒手画的运营模式</p>
 </blockquote>
 <p>小伙伴们比较关心的是闲品再生到底是如何实现可持续运营的，毕竟回收箱是免费投入的，是纯机械式的，没有直接收益反馈给投放者，而且要自建物流和仓储体系，同时还兼顾公益，它到底如何自我造血呢？</p>
 <p>面对疑问，陈天亮给了我们答案：</p>
@@ -480,321 +237,419 @@
 <li>无偿投放，无偿回收，无中间成本</li>
 <li>规模（密集）、人力成本、减少环节</li>
 </ul>
-<p>其实目前的盈利点主要还是在于出口。在日常回收中，书籍、服装、电器等，70%是八成新，可以继续用的，其中10%甚至是全新的。如果把它们看成垃圾，只能像废品那样再造为原料，但是如果把它们看成闲置物品，不改变状态而继续使用，不仅是最环保、经济的利用方式，同时价值也会大大提升，所以闲品再生未来会尝试做二手商店。</p>
-<p><img src="/images/zerowaste/2018-czwa-chengdu-10.jpeg"></p>
+<p>其实目前的盈利点主要还是在于出口。在日常回收中，书籍、服装、电器等，70% 是八成新，可以继续用的，其中 10% 甚至是全新的。如果把它们看成垃圾，只能像废品那样再造为原料，但是如果把它们看成闲置物品，不改变状态而继续使用，不仅是最环保、经济的利用方式，同时价值也会大大提升，所以闲品再生未来会尝试做二手商店。</p>
+<p><img data-src="/images/zerowaste/2018-czwa-chengdu-10.jpeg" alt=""></p>
 <blockquote>
 <p>非洲小哥穿着成都七中的校服</p>
 </blockquote>
-<p>在短短几十分钟的交流中，R先生可以感受到闲品再生是一家有商业，有公益，还有梦想的企业。学到的不仅是垃圾分类的经验，还有充满坎坷的创业史。</p>
+<p>在短短几十分钟的交流中，R 先生可以感受到闲品再生是一家有商业，有公益，还有梦想的企业。学到的不仅是垃圾分类的经验，还有充满坎坷的创业史。</p>
 <p>更多 &gt;&gt;</p>
 <ul>
-<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s?__biz=MzA5MTkxNzA3Ng==&mid=2654098128&idx=1&sn=cbea2e60a0ebc09adcce2dcde7e71233&chksm=8bb3ecabbcc465bd7c2b29b0f82d92f31e11a24260c03d9136997712989ab188c0249ffc1e92&scene=21#wechat_redirect">【成都新青年】陈天亮：专注于“收破烂”的创业者</a></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3M/X19iaXo9TXpBNU1Ua3hOekEzTmc9PSZhbXA7bWlkPTI2NTQwOTgxMjgmYW1wO2lkeD0xJmFtcDtzbj1jYmVhMmU2MGEwZWJjMDlhZGNjZTJkY2RlN2U3MTIzMyZhbXA7Y2hrc209OGJiM2VjYWJiY2M0NjViZDdjMmIyOWIwZjgyZDkyZjMxZTExYTI0MjYwYzAzZDkxMzY5OTc3MTI5ODlhYjE4OGMwMjQ5ZmZjMWU5MiZhbXA7c2NlbmU9MjEjd2VjaGF0X3JlZGlyZWN0">【成都新青年】陈天亮：专注于 “收破烂” 的创业者</span></li>
 </ul>
-<h2 id="奥北环保自助回收点"><a href="#奥北环保自助回收点" class="headerlink" title="奥北环保自助回收点"></a>奥北环保自助回收点</h2><p>相信很多关注垃圾分类的小伙伴们和R先生一样，对奥北环保也有所了解，奥北环保的垃圾分类模式给了我们很多想象空间。那么下面，R先生想从程序员的角度来分析，为什么 aobag 的模式是科学合理的？</p>
+<h2 id="奥北环保自助回收点"><a class="markdownIt-Anchor" href="#奥北环保自助回收点">#</a> 奥北环保自助回收点</h2>
+<p>相信很多关注垃圾分类的小伙伴们和 R 先生一样，对奥北环保也有所了解，奥北环保的垃圾分类模式给了我们很多想象空间。那么下面，R 先生想从程序员的角度来分析，为什么 aobag 的模式是科学合理的？</p>
 <p>我们回想一下在黑暗时期是如何做垃圾分类的：把能卖的瓶瓶罐罐、纸皮等等收集起来，拉到废品回收站，还要忍受市场价格不公开、短斤缺两的情况；可回收物的去向更是难以追踪；并且低价值的可回收物，甚至有害垃圾只能当垃圾丢掉，最终的命运将是焚烧和填埋。</p>
-<p><img src="/images/zerowaste/2018-czwa-chengdu-11.jpeg"></p>
-<p>现在有了 aobag，参与垃圾分类变得简单多了，用户只需要购买“一次投资，终生使用”的回收袋，就可以开始收集可回收物，然后选择合适的时间到附近的投放点进行投递，领取一个新的回收袋即可。剩下的就交给 aobag 吧！aobag 的回收价格是公开的，而且回收种类丰富，同时，所产生的收益可以直接提取到微信零钱。R先生觉得更棒的是 —— aobag 的操作模式对于个人、学校、企业、单位都是一致的。</p>
-<p><img src="/images/zerowaste/2018-czwa-chengdu-12.jpeg"></p>
+<p><img data-src="/images/zerowaste/2018-czwa-chengdu-11.jpeg" alt=""></p>
+<p>现在有了 aobag，参与垃圾分类变得简单多了，用户只需要购买 “一次投资，终生使用” 的回收袋，就可以开始收集可回收物，然后选择合适的时间到附近的投放点进行投递，领取一个新的回收袋即可。剩下的就交给 aobag 吧！aobag 的回收价格是公开的，而且回收种类丰富，同时，所产生的收益可以直接提取到微信零钱。R 先生觉得更棒的是 —— aobag 的操作模式对于个人、学校、企业、单位都是一致的。</p>
+<p><img data-src="/images/zerowaste/2018-czwa-chengdu-12.jpeg" alt=""></p>
 <blockquote>
-<p>R先生又徒手画了一张图</p>
+<p>R 先生又徒手画了一张图</p>
 </blockquote>
-<p>从软件工程的角度来看，aobag 在这里的角色就是一个 API（用户编程接口），一个面向个人、学校、企业的统一的操作接口。通过 aobag 这个接口，<strong>实现了前端和后端的解耦合</strong>。也就是说，用户不再需要跟废品回收站打交道，前端部分变成了用户按照奥北14分类法将可回收物打包在 aobag 中，然后自行选择合适的时间将这一袋 aobag 投递到附近的回收点，done！后端部分统统由奥北负责，包括定期的收运、再分类、称重、对接有资质的处理企业，以及数据分析、反馈等等。</p>
-<p>如果你熟悉计算机架构，就会发现这里的<strong>暂存点和自助回收点相当于 cache，仓库/分拣中心相当于 buffer，奥北环保扮演的是操作系统的角色，而 aobag 回收袋则是其提供给上层用户的系统调用/库函数。至于底层驱动（后端处理），对用户来说是透明的。</strong>要提高这套系统的吞吐量，使利益最大化，势必要从深度和广度上增加系统缓存（通过增加共享暂存点或自建自助回收点），让更多人参与进来。</p>
+<p>从软件工程的角度来看，aobag 在这里的角色就是一个 API（用户编程接口），一个面向个人、学校、企业的统一的操作接口。通过 aobag 这个接口，<strong>实现了前端和后端的解耦合</strong>。也就是说，用户不再需要跟废品回收站打交道，前端部分变成了用户按照奥北 14 分类法将可回收物打包在 aobag 中，然后自行选择合适的时间将这一袋 aobag 投递到附近的回收点，done！后端部分统统由奥北负责，包括定期的收运、再分类、称重、对接有资质的处理企业，以及数据分析、反馈等等。</p>
+<p>如果你熟悉计算机架构，就会发现这里的 ** 暂存点和自助回收点相当于 cache，仓库 / 分拣中心相当于 buffer，奥北环保扮演的是操作系统的角色，而 aobag 回收袋则是其提供给上层用户的系统调用 / 库函数。至于底层驱动（后端处理），对用户来说是透明的。** 要提高这套系统的吞吐量，使利益最大化，势必要从深度和广度上增加系统缓存（通过增加共享暂存点或自建自助回收点），让更多人参与进来。</p>
 <p>这种模式实际上是重新构建了一套垃圾分类的机制，降低了参与垃圾分类的门槛，使更多愿意参与的人找到有效的参与途径。</p>
-<p>当然，也有小伙伴说奥北的模式门槛太高，老人和小孩参与不了，年轻人又没空参与，一定不行。但是R先生反而不觉得是问题，无论哪种垃圾分类模式，都需要培养用户习惯。aobag 模式从某种程度上来说，它在提醒大家 —— 年轻人不能拿工作忙作为借口而不做垃圾分类，不能把垃圾分类看成是环卫工人、拾荒者、老人，甚至小学生的事情。无论是谁，自己产生的垃圾就应该自己负责。</p>
-<p>就像<a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s?__biz=MzI5OTM2NTM3OA==&mid=2247489058&idx=2&sn=8f6e7b9c636fdf1b60b06e063cb9ce83&chksm=ec96f34fdbe17a5996364632a05b915d2cba645cdfae65759eee8c777f68ebb144915476026d&scene=21#wechat_redirect">付妈妈</a>说的：生活也是学习的一部分，家务劳动的能力会锻炼你的动手能力，培养你的感恩之心，让你更有耐心和爱心。R先生想说：<strong>垃圾分类也是生活的一部分</strong>！</p>
-<p><img src="/images/zerowaste/2018-czwa-chengdu-13.jpeg"></p>
-<p>R先生斗胆认为，奥北要做的就是垃圾分类产业链中的操作系统。</p>
-<p>计算机界的操作系统有很多种类，常见的两大类型是通用操作系统和嵌入式操作系统。显然奥北目前还做不了通用操作系统（毕竟它连厨余垃圾都没有涵盖进来），只能算是垃圾分类界中残缺的嵌入式系统。然而，有趣的地方在于 —— 嵌入式系统的优势就是“残缺”，为了某些指定的非常规目的，不计代价地去舍弃很多通用系统的东西。于是，弱小、残缺、功能单一、上手复杂…… 都可以成为优势。我想，这就是小米加步枪式的 aobag 吧。</p>
-<p><img src="/images/zerowaste/2018-czwa-chengdu-14.jpeg"></p>
+<p>当然，也有小伙伴说奥北的模式门槛太高，老人和小孩参与不了，年轻人又没空参与，一定不行。但是 R 先生反而不觉得是问题，无论哪种垃圾分类模式，都需要培养用户习惯。aobag 模式从某种程度上来说，它在提醒大家 —— 年轻人不能拿工作忙作为借口而不做垃圾分类，不能把垃圾分类看成是环卫工人、拾荒者、老人，甚至小学生的事情。无论是谁，自己产生的垃圾就应该自己负责。</p>
+<p>就像<span class="exturl" data-url="aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3M/X19iaXo9TXpJNU9UTTJOVE0zT0E9PSZhbXA7bWlkPTIyNDc0ODkwNTgmYW1wO2lkeD0yJmFtcDtzbj04ZjZlN2I5YzYzNmZkZjFiNjBiMDZlMDYzY2I5Y2U4MyZhbXA7Y2hrc209ZWM5NmYzNGZkYmUxN2E1OTk2MzY0NjMyYTA1YjkxNWQyY2JhNjQ1Y2RmYWU2NTc1OWVlZThjNzc3ZjY4ZWJiMTQ0OTE1NDc2MDI2ZCZhbXA7c2NlbmU9MjEjd2VjaGF0X3JlZGlyZWN0">付妈妈</span>说的：生活也是学习的一部分，家务劳动的能力会锻炼你的动手能力，培养你的感恩之心，让你更有耐心和爱心。R 先生想说：<strong>垃圾分类也是生活的一部分</strong>！</p>
+<p><img data-src="/images/zerowaste/2018-czwa-chengdu-13.jpeg" alt=""></p>
+<p>R 先生斗胆认为，奥北要做的就是垃圾分类产业链中的操作系统。</p>
+<p>计算机界的操作系统有很多种类，常见的两大类型是通用操作系统和嵌入式操作系统。显然奥北目前还做不了通用操作系统（毕竟它连厨余垃圾都没有涵盖进来），只能算是垃圾分类界中残缺的嵌入式系统。然而，有趣的地方在于 —— 嵌入式系统的优势就是 “残缺”，为了某些指定的非常规目的，不计代价地去舍弃很多通用系统的东西。于是，弱小、残缺、功能单一、上手复杂…… 都可以成为优势。我想，这就是小米加步枪式的 aobag 吧。</p>
+<p><img data-src="/images/zerowaste/2018-czwa-chengdu-14.jpeg" alt=""></p>
 <blockquote>
 <p>在 aobag 自助回收点合影留念</p>
 </blockquote>
-<p><img src="/images/zerowaste/aobag-recyle-14.jpeg"></p>
+<p><img data-src="/images/zerowaste/aobag-recyle-14.jpeg" alt=""></p>
 <blockquote>
-<p>aobag 的14分类表</p>
+<p>aobag 的 14 分类表</p>
 </blockquote>
 <p>更多 &gt;&gt;</p>
 <ul>
-<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s?__biz=MzIzMjc5NjAzMw==&mid=2247483926&idx=1&sn=3a7766cb288f22cfce8dd32b709a0b3c&chksm=e88e38f8dff9b1ee4f5c200eb19f7217f3a4724a1c7b523d92f6da478f3bbe19c7525397073d&scene=21#wechat_redirect">垃圾分类这一年，我们做了什么？</a></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3M/X19iaXo9TXpJek1qYzVOakF6TXc9PSZhbXA7bWlkPTIyNDc0ODM5MjYmYW1wO2lkeD0xJmFtcDtzbj0zYTc3NjZjYjI4OGYyMmNmY2U4ZGQzMmI3MDlhMGIzYyZhbXA7Y2hrc209ZTg4ZTM4ZjhkZmY5YjFlZTRmNWMyMDBlYjE5ZjcyMTdmM2E0NzI0YTFjN2I1MjNkOTJmNmRhNDc4ZjNiYmUxOWM3NTI1Mzk3MDczZCZhbXA7c2NlbmU9MjEjd2VjaGF0X3JlZGlyZWN0">垃圾分类这一年，我们做了什么？</span></li>
 </ul>
-<h2 id="什邡大爱感恩环保科技"><a href="#什邡大爱感恩环保科技" class="headerlink" title="什邡大爱感恩环保科技"></a>什邡大爱感恩环保科技</h2><p><img src="/images/zerowaste/2018-czwa-chengdu-15.jpeg"></p>
+<h2 id="什邡大爱感恩环保科技"><a class="markdownIt-Anchor" href="#什邡大爱感恩环保科技">#</a> 什邡大爱感恩环保科技</h2>
+<p><img data-src="/images/zerowaste/2018-czwa-chengdu-15.jpeg" alt=""></p>
 <blockquote>
 <p>烟雨中的什邡大爱感恩</p>
 </blockquote>
-<p>慈济人所推动的包括慈善、医疗、教育、人文四项，统称为“四大志业”；另投入骨髓捐赠、环境保护、小区志工、海外赈灾，此八项同时推动，称之为“一步八法印”。</p>
-<p>慈济人从1990年起 “用鼓掌的双手做环保，让垃圾变黄金，黄金变爱心” 开始不畏脏乱、不辞辛劳、低头弯腰，为地球环境而无私付出。2008年汶川地震，慈济人赶赴灾区救援，并参与灾后重建工作。2010年分别在成都和什邡成立了大爱感恩环保科技有限公司，其中成都大爱感恩主营废旧塑料回收处理及纺织业务，什邡大爱感恩主营废旧电器电子产品拆解处理业务。</p>
-<img src="/images/zerowaste/2018-czwa-chengdu-16.jpeg" width="600" />
-
+<p>慈济人所推动的包括慈善、医疗、教育、人文四项，统称为 “四大志业”；另投入骨髓捐赠、环境保护、小区志工、海外赈灾，此八项同时推动，称之为 “一步八法印”。</p>
+<p>慈济人从 1990 年起 “用鼓掌的双手做环保，让垃圾变黄金，黄金变爱心” 开始不畏脏乱、不辞辛劳、低头弯腰，为地球环境而无私付出。2008 年汶川地震，慈济人赶赴灾区救援，并参与灾后重建工作。2010 年分别在成都和什邡成立了大爱感恩环保科技有限公司，其中成都大爱感恩主营废旧塑料回收处理及纺织业务，什邡大爱感恩主营废旧电器电子产品拆解处理业务。</p>
+<img data-src="/images/zerowaste/2018-czwa-chengdu-16.jpeg" width="600" />
 <blockquote>
 <p>电视机拆解展示</p>
 </blockquote>
-<p>师姐介绍，目前厂区只建成了规划的三分之一，主要对“四机一脑”进行拆解（即洗衣机、电视机、冰箱、空调、电脑）。</p>
+<p>师姐介绍，目前厂区只建成了规划的三分之一，主要对 “四机一脑” 进行拆解（即洗衣机、电视机、冰箱、空调、电脑）。</p>
 <p>什邡大爱感恩科技处于垃圾分类产业链中的后端处理企业，其表示会接收来自社会各界合法的电器电子废弃物，有需要的小伙伴可以进一步沟通。</p>
-<p>企业设立的宗旨为“守护地球环境”，不以盈利为目的，业务除资源再生处理项目外，还有环保人文教育园区项目。</p>
-<img src="/images/zerowaste/2018-czwa-chengdu-17.jpeg" width="600" />
-
+<p>企业设立的宗旨为 “守护地球环境”，不以盈利为目的，业务除资源再生处理项目外，还有环保人文教育园区项目。</p>
+<img data-src="/images/zerowaste/2018-czwa-chengdu-17.jpeg" width="600" />
 <blockquote>
 <p>环保人文教育馆</p>
 </blockquote>
-<img src="/images/zerowaste/2018-czwa-chengdu-18.jpeg" width="600" />
-
+<img data-src="/images/zerowaste/2018-czwa-chengdu-18.jpeg" width="600" />
 <blockquote>
 <p>环保十指口诀</p>
 </blockquote>
-<img src="/images/zerowaste/2018-czwa-chengdu-19.jpeg" width="600" />
-
+<img data-src="/images/zerowaste/2018-czwa-chengdu-19.jpeg" width="600" />
 <blockquote>
 <p>讲解 5R 环保原则</p>
 </blockquote>
-<img src="/images/zerowaste/2018-czwa-chengdu-19-1.jpeg" width="600" />
-
+<img data-src="/images/zerowaste/2018-czwa-chengdu-19-1.jpeg" width="600" />
 <blockquote>
 <p>城市污水废水处理</p>
 </blockquote>
-<p>对于R先生而言，这次没有看到塑料回收末端处理、造粒、拉丝、纺织等工艺流程，确实有点遗憾。但依然深深被慈济的人文精神所折服，无论在台湾还是大陆，慈济人对环境保护所做的贡献都不可忽视，未来也会继续发挥其重要作用 —— 不仅净化环境，更是净化心灵。</p>
-<p>我跟师姐开玩笑说，要是广州也有一家这样的企业就好了，这样R先生就能让事业与志业完美并存了。但我们不得不承认，目前来说，大爱感恩环保科技的运营模式其实很难复制。</p>
+<p>对于 R 先生而言，这次没有看到塑料回收末端处理、造粒、拉丝、纺织等工艺流程，确实有点遗憾。但依然深深被慈济的人文精神所折服，无论在台湾还是大陆，慈济人对环境保护所做的贡献都不可忽视，未来也会继续发挥其重要作用 —— 不仅净化环境，更是净化心灵。</p>
+<p>我跟师姐开玩笑说，要是广州也有一家这样的企业就好了，这样 R 先生就能让事业与志业完美并存了。但我们不得不承认，目前来说，大爱感恩环保科技的运营模式其实很难复制。</p>
 <p>更多 &gt;&gt;</p>
 <ul>
-<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s?__biz=MzI5NDQzMTM0MQ==&mid=2247487420&idx=1&sn=b0c1718fa6e7dce4689f17fe4975e61b&chksm=ec63b0bedb1439a805a71bd205b0d939156ca51464addb75c833e7912f48a453218bdc9a33ab&scene=21#wechat_redirect">扒一扒才知道，世界杯上的球服竟然用这种面料？</a></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3M/X19iaXo9TXpJNU5EUXpNVE0wTVE9PSZhbXA7bWlkPTIyNDc0ODc0MjAmYW1wO2lkeD0xJmFtcDtzbj1iMGMxNzE4ZmE2ZTdkY2U0Njg5ZjE3ZmU0OTc1ZTYxYiZhbXA7Y2hrc209ZWM2M2IwYmVkYjE0MzlhODA1YTcxYmQyMDViMGQ5MzkxNTZjYTUxNDY0YWRkYjc1YzgzM2U3OTEyZjQ4YTQ1MzIxOGJkYzlhMzNhYiZhbXA7c2NlbmU9MjEjd2VjaGF0X3JlZGlyZWN0">扒一扒才知道，世界杯上的球服竟然用这种面料？</span></li>
 </ul>
-<h2 id="龙泉驿区洪安小学零废弃校园"><a href="#龙泉驿区洪安小学零废弃校园" class="headerlink" title="龙泉驿区洪安小学零废弃校园"></a>龙泉驿区洪安小学零废弃校园</h2><p>洪安小学位于成都市龙泉驿区，是与成都根与芽合作的<strong>零废弃校园</strong>之一，学校以“关心环境、关爱动物、关怀社区”的理念打造，校园进行垃圾分类，开设不同主题的环保社团，生厨余及绿化垃圾堆肥，生态种植也在积极进行社区农作物秸秆堆肥还田的尝试。</p>
+<h2 id="龙泉驿区洪安小学零废弃校园"><a class="markdownIt-Anchor" href="#龙泉驿区洪安小学零废弃校园">#</a> 龙泉驿区洪安小学零废弃校园</h2>
+<p>洪安小学位于成都市龙泉驿区，是与成都根与芽合作的<strong>零废弃校园</strong>之一，学校以 “关心环境、关爱动物、关怀社区” 的理念打造，校园进行垃圾分类，开设不同主题的环保社团，生厨余及绿化垃圾堆肥，生态种植也在积极进行社区农作物秸秆堆肥还田的尝试。</p>
 <p>何老师介绍，洪安小学目前已建成垃圾分类站、循乐园、环保银行、生态悦读书吧等阵地。学校开设多个环保社团，让每一个学生都能至少加入一个社团，参与到环保行动中。</p>
-<img src="/images/zerowaste/2018-czwa-chengdu-20.jpeg" width="600" />
-
+<img data-src="/images/zerowaste/2018-czwa-chengdu-20.jpeg" width="600" />
 <blockquote>
 <p>洪安小学的环保银行</p>
 </blockquote>
 <p>环保银行中的行长、副行长、财务、工作人员等等都是由学生来担任，负责环保银行活动的开展以及管理可回收物变卖的资金。同时也会对厨余垃圾进行检查，通过记录班级午餐剩菜剩饭的重量，培养学生珍惜粮食的习惯。</p>
-<img src="/images/zerowaste/2018-czwa-chengdu-21.jpeg" width="600" />
-
+<img data-src="/images/zerowaste/2018-czwa-chengdu-21.jpeg" width="600" />
 <blockquote>
 <p>剩饭剩菜登记表</p>
 </blockquote>
-<p>有人说：孩子们在8岁至10岁之前，田地和花园是他们最好的教室，母亲是他们最好的老师，自然则是他们最好的课本。孩子们无限的好奇心，只有在大自然无尽的探索中才能得以满足。</p>
+<p>有人说：孩子们在 8 岁至 10 岁之前，田地和花园是他们最好的教室，母亲是他们最好的老师，自然则是他们最好的课本。孩子们无限的好奇心，只有在大自然无尽的探索中才能得以满足。</p>
 <p>洪安小学的循乐园就是一个好玩又能让学生探索自然的地方。这里的堆肥区也是由学生社团来管理的。</p>
-<img src="/images/zerowaste/2018-czwa-chengdu-22.jpeg" width="600" />
-
+<img data-src="/images/zerowaste/2018-czwa-chengdu-22.jpeg" width="600" />
 <blockquote>
 <p>循乐园中的堆肥区</p>
 </blockquote>
 <p>动物福利区中有很多小房子，但并不是用来圈养动物的，而是让学生体验动物的感受。这种行为艺术能让学生体会到：人类和其他动物都享有基本需要（生理需要、环境需要、行为需要、心理需要和社会需要）和自由。</p>
-<img src="/images/zerowaste/2018-czwa-chengdu-23.jpeg" width="600" />
-
+<img data-src="/images/zerowaste/2018-czwa-chengdu-23.jpeg" width="600" />
 <blockquote>
 <p>循乐园中的动物福利区</p>
 </blockquote>
-<img src="/images/zerowaste/2018-czwa-chengdu-24.jpeg" width="600" />
-
+<img data-src="/images/zerowaste/2018-czwa-chengdu-24.jpeg" width="600" />
 <blockquote>
 <p>有机农场种出来的大冬瓜</p>
 </blockquote>
-<img src="/images/zerowaste/2018-czwa-chengdu-25.jpeg" width="600" />
-
+<img data-src="/images/zerowaste/2018-czwa-chengdu-25.jpeg" width="600" />
 <blockquote>
 <p>大朋友们也很欢乐</p>
 </blockquote>
 <p>何老师介绍，打造零废弃校园的资金是教育局审批的，学校理念已经影响到了社区、学校所在地洪安镇政府和龙泉驿区其他学校。垃圾分类方面，由于学校位于农村，可回收物通常会就近变卖，由环保社团负责。同时也与奥北环保合作，因为像打印机墨盒这种废弃物，传统废品回收站并不回收，但是奥北会回收。</p>
 <p>更多 &gt;&gt;</p>
 <ul>
-<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s?__biz=MzA5MzMxMTM0NA==&mid=2650380288&idx=1&sn=3453c1e7f13a84fccf83d5480aeacce0&chksm=8852e01fbf25690914a5fee9a6640bf4ffcc5103bb85ee8abca585d50acf1f81c4ec47e198f2&scene=21#wechat_redirect">活动记录 | 洪安小学“循乐共享”现场会</a></li>
-<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s?__biz=MzA5MzMxMTM0NA==&mid=2650380260&idx=1&sn=e07f5b1a4a7e412afda542185b5c6ebd&chksm=8852effbbf2566ed0d936a89b96fc68b4de4dfd20275e9236ec6688c6c4b6d4d203fb2290cd0&scene=21#wechat_redirect">零废弃 | 7个月在西安路小学促成的改变</a></li>
-<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s?__biz=MzA3MDM0ODg4OA==&mid=2649932590&idx=1&sn=db7a23264a5f79b1859a50b2266d9078&chksm=87385a19b04fd30f872432d45ad350df140c4744db92ba8f282a3cdb5a4b72f5ee12e9c453ee&scene=21#wechat_redirect">成都零废弃一日游，这才是精品路线！</a></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3M/X19iaXo9TXpBNU16TXhNVE0wTkE9PSZhbXA7bWlkPTI2NTAzODAyODgmYW1wO2lkeD0xJmFtcDtzbj0zNDUzYzFlN2YxM2E4NGZjY2Y4M2Q1NDgwYWVhY2NlMCZhbXA7Y2hrc209ODg1MmUwMWZiZjI1NjkwOTE0YTVmZWU5YTY2NDBiZjRmZmNjNTEwM2JiODVlZThhYmNhNTg1ZDUwYWNmMWY4MWM0ZWM0N2UxOThmMiZhbXA7c2NlbmU9MjEjd2VjaGF0X3JlZGlyZWN0">活动记录 | 洪安小学 “循乐共享” 现场会</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3M/X19iaXo9TXpBNU16TXhNVE0wTkE9PSZhbXA7bWlkPTI2NTAzODAyNjAmYW1wO2lkeD0xJmFtcDtzbj1lMDdmNWIxYTRhN2U0MTJhZmRhNTQyMTg1YjVjNmViZCZhbXA7Y2hrc209ODg1MmVmZmJiZjI1NjZlZDBkOTM2YTg5Yjk2ZmM2OGI0ZGU0ZGZkMjAyNzVlOTIzNmVjNjY4OGM2YzRiNmQ0ZDIwM2ZiMjI5MGNkMCZhbXA7c2NlbmU9MjEjd2VjaGF0X3JlZGlyZWN0">零废弃 | 7 个月在西安路小学促成的改变</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3M/X19iaXo9TXpBM01ETTBPRGc0T0E9PSZhbXA7bWlkPTI2NDk5MzI1OTAmYW1wO2lkeD0xJmFtcDtzbj1kYjdhMjMyNjRhNWY3OWIxODU5YTUwYjIyNjZkOTA3OCZhbXA7Y2hrc209ODczODVhMTliMDRmZDMwZjg3MjQzMmQ0NWFkMzUwZGYxNDBjNDc0NGRiOTJiYThmMjgyYTNjZGI1YTRiNzJmNWVlMTJlOWM0NTNlZSZhbXA7c2NlbmU9MjEjd2VjaGF0X3JlZGlyZWN0">成都零废弃一日游，这才是精品路线！</span></li>
 </ul>
-<p><img src="/images/zerowaste/line-02.webp"></p>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>总的来说，不同地域的文化不一样，垃圾成分也不一样，未来垃圾分类产业必定是多元化的。政府、企业、社会组织各司其职、各尽其责，缺一不可。</p>
-<p>（错漏之处，请雅正 <span class="github-emoji" alias="smiley" style="" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f603.png?v8">&#x1f603;</span> ）</p>
-<p><img src="/images/zerowaste/2018-czwa-chengdu-00.jpeg"></p>
-<h2 id="彩蛋"><a href="#彩蛋" class="headerlink" title="彩蛋"></a>彩蛋</h2><p>首届零废弃日（Zero Waste Day）</p>
-<p><img src="/images/zerowaste/1st-zero-waste-day.jpeg"></p>
-<p><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s?__biz=MzA3MDM0ODg4OA==&mid=2649933923&idx=1&sn=3c5621c37617e4eb12268a2e34f77213&chksm=87385154b04fd842e841a5367e8da831a9efa67dcf520a6adef562f883f811343c6a6b620a60&scene=21#wechat_redirect">Zero Waste Day | 加速减塑！加入我们！——首届零废弃日伙伴招募</a></p>
+<p><img data-src="/images/zerowaste/line-02.webp" alt=""></p>
+<h2 id="总结"><a class="markdownIt-Anchor" href="#总结">#</a> 总结</h2>
+<p>总的来说，不同地域的文化不一样，垃圾成分也不一样，未来垃圾分类产业必定是多元化的。政府、企业、社会组织各司其职、各尽其责，缺一不可。</p>
+<p>（错漏之处，请雅正 <span class="github-emoji" alias="smiley" style="" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f603.png?v8">😃</span> ）</p>
+<p><img data-src="/images/zerowaste/2018-czwa-chengdu-00.jpeg" alt=""></p>
+<h2 id="彩蛋"><a class="markdownIt-Anchor" href="#彩蛋">#</a> 彩蛋</h2>
+<p>首届零废弃日（Zero Waste Day）</p>
+<p><img data-src="/images/zerowaste/1st-zero-waste-day.jpeg" alt=""></p>
+<p><span class="exturl" data-url="aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3M/X19iaXo9TXpBM01ETTBPRGc0T0E9PSZhbXA7bWlkPTI2NDk5MzM5MjMmYW1wO2lkeD0xJmFtcDtzbj0zYzU2MjFjMzc2MTdlNGViMTIyNjhhMmUzNGY3NzIxMyZhbXA7Y2hrc209ODczODUxNTRiMDRmZDg0MmU4NDFhNTM2N2U4ZGE4MzFhOWVmYTY3ZGNmNTIwYTZhZGVmNTYyZjg4M2Y4MTEzNDNjNmE2YjYyMGE2MCZhbXA7c2NlbmU9MjEjd2VjaGF0X3JlZGlyZWN0">Zero Waste Day | 加速减塑！加入我们！—— 首届零废弃日伙伴招募</span></p>
 
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-          <div class="reward-container">
-  <div>您的鼓励是我最大的动力！</div>
-  <button onclick="document.querySelector('.post-reward').classList.toggle('active');">
-    赞赏
-  </button>
-  <div class="post-reward">
-      <div>
-        <img src="/images/wechatpay.jpeg" alt="Rudy Lo 微信">
-        <span>微信</span>
+      <div class="tags">
+          <a href="/tags/%E7%8E%AF%E4%BF%9D/" rel="tag"><i class="ic i-tag"></i> 环保</a>
+          <a href="/tags/%E5%9E%83%E5%9C%BE%E5%88%86%E7%B1%BB/" rel="tag"><i class="ic i-tag"></i> 垃圾分类</a>
+          <a href="/tags/%E9%9B%B6%E5%BA%9F%E5%BC%83/" rel="tag"><i class="ic i-tag"></i> 零废弃</a>
       </div>
-      <div>
-        <img src="/images/alipay.jpeg" alt="Rudy Lo 支付宝">
-        <span>支付宝</span>
-      </div>
-
   </div>
-</div>
 
-          
+   <footer>
 
-<div class="post-copyright">
-<ul>
-  <li class="post-copyright-author">
-      <strong>本文作者： </strong>Rudy Lo
-  </li>
-  <li class="post-copyright-link">
-      <strong>本文链接：</strong>
-      <a href="https://luhuadong.com/zerowaste/2018-czwa-chengdu-visit.html" title="零废弃联盟 | 成都参访学到了什么">https://luhuadong.com/zerowaste/2018-czwa-chengdu-visit.html</a>
-  </li>
-  <li class="post-copyright-license">
-    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
-  </li>
-</ul>
-</div>
-
-          <div class="post-tags">
-              <a href="/tags/%E7%8E%AF%E4%BF%9D/" rel="tag"># 环保</a>
-              <a href="/tags/%E5%9E%83%E5%9C%BE%E5%88%86%E7%B1%BB/" rel="tag"># 垃圾分类</a>
-              <a href="/tags/%E9%9B%B6%E5%BA%9F%E5%BC%83/" rel="tag"># 零废弃</a>
-          </div>
-
-        
-
-          <div class="post-nav">
-            <div class="post-nav-item">
-                <a href="/zerowaste/2018-guangzhou-waste-management.html" rel="prev" title="解读 | 广州市生活垃圾分类管理条例">
-                  <i class="fa fa-chevron-left"></i> 解读 | 广州市生活垃圾分类管理条例
-                </a>
-            </div>
-            <div class="post-nav-item">
-                <a href="/career/workplace-notes-for-programmers.html" rel="next" title="程序员职场须知">
-                  程序员职场须知 <i class="fa fa-chevron-right"></i>
-                </a>
-            </div>
-          </div>
-    </footer>
-  </article>
-</div>
-
-
-
-
-
-
-    
-  
-  <div class="comments">
-    <script src="https://giscus.app/client.js"
-        data-repo="luhuadong/blog" 
-        data-repo-id="MDEwOlJlcG9zaXRvcnkzNDEzOTU5NzQ=" 
-        data-category="General"
-        data-category-id="DIC_kwDOFFlKBs4CSTqq"
-        data-mapping="pathname" 
-        data-reactions-enabled="1" 
-        data-emit-metadata="1" 
-        data-theme="light"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        data-input-position="bottom"
-        data-loading="lazy"
-        async>
-    </script>
-  </div>
-  
-  
-
-<script>
-  window.addEventListener('tabs:register', () => {
-    let { activeClass } = CONFIG.comments;
-    if (CONFIG.comments.storage) {
-      activeClass = localStorage.getItem('comments_active') || activeClass;
-    }
-    if (activeClass) {
-      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
-      if (activeTab) {
-        activeTab.click();
-      }
-    }
-  });
-  if (CONFIG.comments.storage) {
-    window.addEventListener('tabs:click', event => {
-      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
-      const commentClass = event.target.classList[1];
-      localStorage.setItem('comments_active', commentClass);
-    });
-  }
-</script>
-</div>
-  </main>
-
-  <footer class="footer">
-    <div class="footer-inner">
-
-
-<div class="copyright">
-  &copy; 
-  <span itemprop="copyrightYear">2023</span>
-  <span class="with-love">
-    <i class="fa fa-heart"></i>
+    <div class="meta">
+  <span class="item">
+    <span class="icon">
+      <i class="ic i-calendar-check"></i>
+    </span>
+    <span class="text">更新于</span>
+    <time title="修改时间：2023-04-30 16:10:37" itemprop="dateModified" datetime="2023-04-30T16:10:37+08:00">2023-04-30</time>
   </span>
-  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
+  <span id="zerowaste/2018-czwa-chengdu-visit.html" class="item leancloud_visitors" data-flag-title="零废弃联盟 | 成都参访学到了什么" title="阅读次数">
+      <span class="icon">
+        <i class="ic i-eye"></i>
+      </span>
+      <span class="text">阅读次数</span>
+      <span class="leancloud-visitors-count"></span>
+      <span class="text">次</span>
+  </span>
 </div>
-  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
-  </div>
 
-    </div>
+      
+<div class="reward">
+  <button><i class="ic i-heartbeat"></i> 赞赏</button>
+  <p>请我喝[茶]~(￣▽￣)~*</p>
+  <div id="qr">
+      
+      <div>
+        <img data-src="/images/wechatpay-small.jpeg" alt="Rudy Lo 微信支付">
+        <p>微信支付</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/alipay-small.jpeg" alt="Rudy Lo 支付宝">
+        <p>支付宝</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/avatar.png" alt="Rudy Lo 贝宝">
+        <p>贝宝</p>
+      </div>
+  </div>
+</div>
+
+      
+
+<div id="copyright">
+<ul>
+  <li class="author">
+    <strong>本文作者： </strong>Rudy Lo <i class="ic i-at"><em>@</em></i>成为自由人
+  </li>
+  <li class="link">
+    <strong>本文链接：</strong>
+    <a href="https://luhuadong.com/zerowaste/2018-czwa-chengdu-visit.html" title="零废弃联盟 | 成都参访学到了什么">https://luhuadong.com/zerowaste/2018-czwa-chengdu-visit.html</a>
+  </li>
+  <li class="license">
+    <strong>版权声明： </strong>本站所有文章除特别声明外，均采用 <span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzQuMC9kZWVkLnpo"><i class="ic i-creative-commons"><em>(CC)</em></i>BY-NC-SA</span> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
   </footer>
 
-  
-  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+</article>
 
-  
-<script src="/js/local-search.js"></script>
-
-
-
-
-
-
+  </div>
   
 
+<div class="post-nav">
+    <div class="item left">
+      
+
+  <a href="/zerowaste/2018-guangzhou-waste-management.html" itemprop="url" rel="prev" data-background-image="http:&#x2F;&#x2F;static.luhuadong.com&#x2F;JavaBromo.jpg" title="解读 | 广州市生活垃圾分类管理条例">
+  <span class="type">上一篇</span>
+  <span class="category"><i class="ic i-flag"></i> 一起零废弃</span>
+  <h3>解读 | 广州市生活垃圾分类管理条例</h3>
+  </a>
+
+    </div>
+    <div class="item right">
+      
+
+  <a href="/career/workplace-notes-for-programmers.html" itemprop="url" rel="next" data-background-image="http:&#x2F;&#x2F;static.luhuadong.com&#x2F;MinouLighthouse.jpg" title="程序员职场须知">
+  <span class="type">下一篇</span>
+  <span class="category"><i class="ic i-flag"></i> 了不起的打工人</span>
+  <h3>程序员职场须知</h3>
+  </a>
+
+    </div>
+</div>
+
+  
+  <div class="wrap" id="comments"></div>
 
 
+        </div>
+        <div id="sidebar">
+          
 
-  <script>
-  if (typeof MathJax === 'undefined') {
-    window.MathJax = {
-      tex: {
-        inlineMath: {'[+]': [['$', '$']]},
-        tags: 'none'
+<div class="inner">
+
+  <div class="panels">
+    <div class="inner">
+      <div class="contents panel pjax" data-title="文章目录">
+          <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%88%90%E9%83%BD%E6%A0%B9%E4%B8%8E%E8%8A%BD%E5%85%AB%E5%AE%9D%E8%A1%97%E7%A4%BE%E5%8C%BA"><span class="toc-number">1.</span> <span class="toc-text"> 成都根与芽八宝街社区</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E9%97%B2%E5%93%81%E5%86%8D%E7%94%9F%E7%A4%BE%E5%8C%BA%E5%8F%82%E8%AE%BF"><span class="toc-number">2.</span> <span class="toc-text"> 闲品再生社区参访</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%A5%A5%E5%8C%97%E7%8E%AF%E4%BF%9D%E8%87%AA%E5%8A%A9%E5%9B%9E%E6%94%B6%E7%82%B9"><span class="toc-number">3.</span> <span class="toc-text"> 奥北环保自助回收点</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%BB%80%E9%82%A1%E5%A4%A7%E7%88%B1%E6%84%9F%E6%81%A9%E7%8E%AF%E4%BF%9D%E7%A7%91%E6%8A%80"><span class="toc-number">4.</span> <span class="toc-text"> 什邡大爱感恩环保科技</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E9%BE%99%E6%B3%89%E9%A9%BF%E5%8C%BA%E6%B4%AA%E5%AE%89%E5%B0%8F%E5%AD%A6%E9%9B%B6%E5%BA%9F%E5%BC%83%E6%A0%A1%E5%9B%AD"><span class="toc-number">5.</span> <span class="toc-text"> 龙泉驿区洪安小学零废弃校园</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%80%BB%E7%BB%93"><span class="toc-number">6.</span> <span class="toc-text"> 总结</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%BD%A9%E8%9B%8B"><span class="toc-number">7.</span> <span class="toc-text"> 彩蛋</span></a></li></ol>
+      </div>
+      <div class="related panel pjax" data-title="系列文章">
+        <ul>
+          <li><a href="/zerowaste/travel-frog-eco-life.html" rel="bookmark" title="《旅行青蛙》其实在讲环保故事">《旅行青蛙》其实在讲环保故事</a></li><li><a href="/zerowaste/2018-czwa-guangzhou-training.html" rel="bookmark" title="2018 社区垃圾分类技能培训笔记（广州）">2018 社区垃圾分类技能培训笔记（广州）</a></li><li><a href="/zerowaste/a-zero-waste-eating-watermelon-guide.html" rel="bookmark" title="零废弃吃瓜指南">零废弃吃瓜指南</a></li><li><a href="/zerowaste/2018-guangzhou-waste-management.html" rel="bookmark" title="解读 | 广州市生活垃圾分类管理条例">解读 | 广州市生活垃圾分类管理条例</a></li><li class="active"><a href="/zerowaste/2018-czwa-chengdu-visit.html" rel="bookmark" title="零废弃联盟 | 成都参访学到了什么">零废弃联盟 | 成都参访学到了什么</a></li><li><a href="/zerowaste/more-vegetarian-food-and-less-plastic.html" rel="bookmark" title="垃圾分类学不会？加素减塑来帮您！">垃圾分类学不会？加素减塑来帮您！</a></li><li><a href="/zerowaste/2019-czwa-shenzhen-visit.html" rel="bookmark" title="零废弃联盟 | 从“九大分流体系”看深圳模式">零废弃联盟 | 从“九大分流体系”看深圳模式</a></li><li><a href="/zerowaste/precious-plastic-manual-zh.html" rel="bookmark" title="Precious Plastic 中文手册 V1.0">Precious Plastic 中文手册 V1.0</a></li><li><a href="/zerowaste/eco-days-in-the-year.html" rel="bookmark" title="一年中的环保节日">一年中的环保节日</a></li><li><a href="/zerowaste/%E8%AF%AF%E5%85%A5GoGreen%E5%8F%AF%E6%8C%81%E7%BB%AD%E7%94%9F%E6%B4%BB%E5%88%9B%E5%8F%98%E8%90%A5.html" rel="bookmark" title="误入 GoGreen! 可持续生活创变营">误入 GoGreen! 可持续生活创变营</a></li><li><a href="/zerowaste/%E5%8F%AF%E6%8C%81%E7%BB%AD%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97.html" rel="bookmark" title="可持续的《可持续生活指南》">可持续的《可持续生活指南》</a></li><li><a href="/zerowaste/garbage-sorting-method.html" rel="bookmark" title="垃圾分类方法参考，DIY 垃圾回收箱">垃圾分类方法参考，DIY 垃圾回收箱</a></li><li><a href="/zerowaste/zero-waste-home.html" rel="bookmark" title="零浪费的家 | 环保主义者的倔强">零浪费的家 | 环保主义者的倔强</a></li><li><a href="/zerowaste/carbon-neutral-thinking.html" rel="bookmark" title="关于“碳中和”的一些思考">关于“碳中和”的一些思考</a></li><li><a href="/zerowaste/cloud-computing-and-carbon-neutrality.html" rel="bookmark" title="云计算与碳中和">云计算与碳中和</a></li>
+        </ul>
+      </div>
+      <div class="overview panel" data-title="站点概览">
+        <div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <img class="image" itemprop="image" alt="Rudy Lo"
+      data-src="/images/lu_20221221.jpg">
+  <p class="name" itemprop="name">Rudy Lo</p>
+  <div class="description" itemprop="description">阿基米东的网络日志</div>
+</div>
+
+<nav class="state">
+    <div class="item posts">
+      <a href="/archives/">
+        <span class="count">295</span>
+        <span class="name">文章</span>
+      </a>
+    </div>
+    <div class="item categories">
+      <a href="/categories/">
+        <span class="count">35</span>
+        <span class="name">分类</span>
+      </a>
+    </div>
+    <div class="item tags">
+      <a href="/tags/">
+        <span class="count">80</span>
+        <span class="name">标签</span>
+      </a>
+    </div>
+</nav>
+
+<div class="social">
+      <span class="exturl item github" data-url="aHR0cHM6Ly9naXRodWIuY29tL2x1aHVhZG9uZw==" title="https:&#x2F;&#x2F;github.com&#x2F;luhuadong"><i class="ic i-github"></i></span>
+      <span class="exturl item csdn" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x1X2VtYmVkZGVk" title="https:&#x2F;&#x2F;blog.csdn.net&#x2F;lu_embedded"><i class="ic i-address-card"></i></span>
+      <span class="exturl item zhihu" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9hcm1zdHJvbmcyMDE0" title="https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014"><i class="ic i-zhihu"></i></span>
+      <span class="exturl item douban" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC83MzAwNDcv" title="https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;"><i class="ic i-douban"></i></span>
+      <span class="exturl item weibo" data-url="aHR0cHM6Ly93ZWliby5jb20vdS8yMDAwMzkxOTUx" title="https:&#x2F;&#x2F;weibo.com&#x2F;u&#x2F;2000391951"><i class="ic i-weibo"></i></span>
+      <span class="exturl item email" data-url="bWFpbHRvOmx1aHVhZG9uZ0AxNjMuY29t" title="mailto:luhuadong@163.com"><i class="ic i-envelope"></i></span>
+</div>
+
+<ul class="menu">
+  
+    
+  <li class="item">
+    <a href="/" rel="section"><i class="ic i-home"></i>首页</a>
+  </li>
+
+    
+  <li class="item">
+    <a href="/about/" rel="section"><i class="ic i-user"></i>关于</a>
+  </li>
+
+        
+  <li class="item dropdown">
+      <a href="javascript:void(0);"><i class="ic i-feather"></i>文章</a>
+    <ul class="submenu">
+
+        
+  <li class="item">
+    <a href="/archives/" rel="section"><i class="ic i-list-alt"></i>归档</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/categories/" rel="section"><i class="ic i-th"></i>分类</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/tags/" rel="section"><i class="ic i-tags"></i>标签</a>
+  </li>
+
+  </ul>
+
+</ul>
+
+      </div>
+    </div>
+  </div>
+
+  <ul id="quick">
+    <li class="prev pjax">
+        <a href="/zerowaste/2018-guangzhou-waste-management.html" rel="prev" title="上一篇"><i class="ic i-chevron-left"></i></a>
+    </li>
+    <li class="up"><i class="ic i-arrow-up"></i></li>
+    <li class="down"><i class="ic i-arrow-down"></i></li>
+    <li class="next pjax">
+        <a href="/career/workplace-notes-for-programmers.html" rel="next" title="下一篇"><i class="ic i-chevron-right"></i></a>
+    </li>
+    <li class="percent"></li>
+  </ul>
+</div>
+
+
+        </div>
+        <div class="dimmer"></div>
+      </div>
+    </main>
+    <footer id="footer">
+      <div class="inner">
+        <div class="widgets">
+          
+
+        </div>
+        <div class="status">
+  <div class="copyright">
+    
+    &copy; 2014 – 
+    <span itemprop="copyrightYear">2023</span>
+    <span class="with-love">
+      <i class="ic i-sakura rotate"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">Rudy Lo @ Freedom Blog</span>
+  </div>
+  <div class="count">
+    <span class="post-meta-item-icon">
+      <i class="ic i-chart-area"></i>
+    </span>
+    <span title="站点总字数">591k 字</span>
+
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="ic i-coffee"></i>
+    </span>
+    <span title="站点阅读时长">8:57</span>
+  </div>
+  <div class="powered-by">
+    基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
+  </div>
+</div>
+
+      </div>
+    </footer>
+  </div>
+<script data-config type="text/javascript">
+  var LOCAL = {
+    path: 'zerowaste/2018-czwa-chengdu-visit.html',
+    favicon: {
+      show: "（●´3｀●）やれやれだぜ",
+      hide: "(´Д｀)大変だ！"
+    },
+    search : {
+      placeholder: "文章搜索",
+      empty: "关于 「 ${query} 」，什么也没搜到",
+      stats: "${time} ms 内找到 ${hits} 条结果"
+    },
+    valine: true,fancybox: true,
+    copyright: '复制成功，转载请遵守 <i class="ic i-creative-commons"></i>BY-NC-SA 协议。',
+    ignores : [
+      function(uri) {
+        return uri.includes('#');
       },
-      options: {
-        renderActions: {
-          insertedScript: [200, () => {
-            document.querySelectorAll('mjx-container').forEach(node => {
-              const target = node.parentNode;
-              if (target.nodeName.toLowerCase() === 'li') {
-                target.parentNode.classList.add('has-jax');
-              }
-            });
-          }, '', false]
-        }
+      function(uri) {
+        return new RegExp(LOCAL.path+"$").test(uri);
       }
-    };
-    const script = document.createElement('script');
-    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
-    script.defer = true;
-    document.head.appendChild(script);
-  } else {
-    MathJax.startup.document.state(0);
-    MathJax.typesetClear();
-    MathJax.texReset();
-    MathJax.typeset();
-  }
+    ]
+  };
 </script>
 
+<script src="https://cdn.polyfill.io/v2/polyfill.js"></script>
+
+<script src="//cdn.jsdelivr.net/combine/npm/pace-js@1.0.2/pace.min.js,npm/pjax@0.2.8/pjax.min.js,npm/whatwg-fetch@3.4.0/dist/fetch.umd.min.js,npm/animejs@3.2.0/lib/anime.min.js,npm/algoliasearch@4/dist/algoliasearch-lite.umd.js,npm/instantsearch.js@4/dist/instantsearch.production.min.js,npm/lozad@1/dist/lozad.min.js,npm/quicklink@2/dist/quicklink.umd.js"></script>
+
+<script src="/js/app.js?v=0.2.5"></script>
+
+
+  <script data-pjax>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
 
 
 </body>

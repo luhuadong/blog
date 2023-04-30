@@ -1,70 +1,503 @@
+
+
+
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
-<meta name="theme-color" content="#222">
-<meta name="generator" content="Hexo 5.0.2">
+<meta name="theme-color" content="#FFF">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="icon" type="image/ico" sizes="32x32" href="/images/favicon.ico">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta http-equiv="Cache-Control" content="no-siteapp">
 
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/lu_avatar_01_120px.png">
-  <link rel="mask-icon" href="/images/lu_avatar_01_240px.png" color="#222">
+<link rel="alternate" type="application/rss+xml" title="成为自由人" href="https://luhuadong.com/rss.xml" />
+<link rel="alternate" type="application/atom+xml" title="成为自由人" href="https://luhuadong.com/atom.xml" />
+<link rel="alternate" type="application/json" title="成为自由人" href="https://luhuadong.com/feed.json" />
 
-<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Mulish:300,300italic,400,400italic,700,700italic%7CFredericka%20the%20Great:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20JP:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20SC:300,300italic,400,400italic,700,700italic%7CInconsolata:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
 
+<link rel="stylesheet" href="/css/app.css?v=0.2.5">
 
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3396347538857110" crossorigin="anonymous"></script>
-
-<script class="hexo-configurations">
-    var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
-  </script>
-<meta name="description" content="一眨眼，2021年就到尾声了，叹时间如白驹过隙，忧此生碌碌无为，徒增年岁。今年是 2 字头的最后一年了，明年就 30 岁，想想还是挺恐怖的，儿时的记忆仿佛昨日，而我却已三十，人生有几个三十？  今年的小标题是“为自己的选择放手一搏”，完整的台词是：“青春是为自己的选择放手一搏，青春是为自己的热爱拼尽全力！” 虽然很多人都说选择大于努力，以至于常常焦虑自己的选择是否正确，但我逐渐意识到，其实很多东西">
-<meta property="og:type" content="article">
-<meta property="og:title" content="我的2021——为自己的选择放手一搏">
-<meta property="og:url" content="https://luhuadong.com/journal/2021-year-end-summary.html">
-<meta property="og:site_name" content="成为自由人">
-<meta property="og:description" content="一眨眼，2021年就到尾声了，叹时间如白驹过隙，忧此生碌碌无为，徒增年岁。今年是 2 字头的最后一年了，明年就 30 岁，想想还是挺恐怖的，儿时的记忆仿佛昨日，而我却已三十，人生有几个三十？  今年的小标题是“为自己的选择放手一搏”，完整的台词是：“青春是为自己的选择放手一搏，青春是为自己的热爱拼尽全力！” 虽然很多人都说选择大于努力，以至于常常焦虑自己的选择是否正确，但我逐渐意识到，其实很多东西">
-<meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2021-12-31T00:45:00.000Z">
-<meta property="article:modified_time" content="2023-03-24T17:27:54.605Z">
-<meta property="article:author" content="Rudy Lo">
-<meta property="article:tag" content="总结">
-<meta name="twitter:card" content="summary">
+  
+  <meta name="keywords" content="总结" />
 
 
 <link rel="canonical" href="https://luhuadong.com/journal/2021-year-end-summary.html">
 
 
-<script class="page-configurations">
-  // https://hexo.io/docs/variables.html
-  CONFIG.page = {
-    sidebar: "",
-    isHome : false,
-    isPost : true,
-    lang   : 'zh-CN'
+
+  <title>
+我的2021——为自己的选择放手一搏 - 不定时日记 |
+Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</title>
+<meta name="generator" content="Hexo 5.4.2"></head>
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div id="loading">
+    <div class="cat">
+      <div class="body"></div>
+      <div class="head">
+        <div class="face"></div>
+      </div>
+      <div class="foot">
+        <div class="tummy-end"></div>
+        <div class="bottom"></div>
+        <div class="legs left"></div>
+        <div class="legs right"></div>
+      </div>
+      <div class="paw">
+        <div class="hands left"></div>
+        <div class="hands right"></div>
+      </div>
+    </div>
+  </div>
+  <div id="container">
+    <header id="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="inner">
+        <div id="brand">
+          <div class="pjax">
+          
+  <h1 itemprop="name headline">我的2021——为自己的选择放手一搏
+  </h1>
+  
+<div class="meta">
+  <span class="item" title="创建时间：2021-12-31 08:45:00">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <span class="text">发表于</span>
+    <time itemprop="dateCreated datePublished" datetime="2021-12-31T08:45:00+08:00">2021-12-31</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span class="text">本文字数</span>
+    <span>5k</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span class="text">阅读时长</span>
+    <span>5 分钟</span>
+  </span>
+</div>
+
+
+          </div>
+        </div>
+        <nav id="nav">
+  <div class="inner">
+    <div class="toggle">
+      <div class="lines" aria-label="切换导航栏">
+        <span class="line"></span>
+        <span class="line"></span>
+        <span class="line"></span>
+      </div>
+    </div>
+    <ul class="menu">
+      <li class="item title"><a href="/" rel="start">Freedom Blog</a></li>
+    </ul>
+    <ul class="right">
+      <li class="item theme">
+        <i class="ic i-sun"></i>
+      </li>
+      <li class="item search">
+        <i class="ic i-search"></i>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+      </div>
+      <div id="imgs" class="pjax">
+        <ul>
+          <li class="item" data-background-image="http://static.luhuadong.com/OrcaNorway.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/QingMing2023.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/CrestedButteEclispe.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/NIrelandGiants.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/PicoVolcano.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/MinouLighthouse.jpg"></li>
+        </ul>
+      </div>
+    </header>
+    <div id="waves">
+      <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+        <defs>
+          <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+        </defs>
+        <g class="parallax">
+          <use xlink:href="#gentle-wave" x="48" y="0" />
+          <use xlink:href="#gentle-wave" x="48" y="3" />
+          <use xlink:href="#gentle-wave" x="48" y="5" />
+          <use xlink:href="#gentle-wave" x="48" y="7" />
+        </g>
+      </svg>
+    </div>
+    <main>
+      <div class="inner">
+        <div id="main" class="pjax">
+          
+  <div class="article wrap">
+    
+<div class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+<i class="ic i-home"></i>
+<span><a href="/">首页</a></span><i class="ic i-angle-right"></i>
+<span  class="current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/categories/journal/" itemprop="item" rel="index" title="分类于 不定时日记"><span itemprop="name">不定时日记</span></a>
+<meta itemprop="position" content="1" /></span>
+</div>
+
+    <article itemscope itemtype="http://schema.org/Article" class="post block" lang="zh-CN">
+  <link itemprop="mainEntityOfPage" href="https://luhuadong.com/journal/2021-year-end-summary.html">
+
+  <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <meta itemprop="image" content="/images/lu_20221221.jpg">
+    <meta itemprop="name" content="Rudy Lo">
+    <meta itemprop="description" content="生活的理想，就是为了理想的生活, 阿基米东的网络日志">
+  </span>
+
+  <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+    <meta itemprop="name" content="成为自由人">
+  </span>
+
+  <div class="body md" itemprop="articleBody">
+    
+
+    <p>一眨眼，2021 年就到尾声了，叹时间如白驹过隙，忧此生碌碌无为，徒增年岁。今年是 2 字头的最后一年了，明年就 30 岁，想想还是挺恐怖的，儿时的记忆仿佛昨日，而我却已三十，人生有几个三十？</p>
+<p>今年的小标题是 “为自己的选择放手一搏”，完整的台词是：“青春是为自己的选择放手一搏，青春是为自己的热爱拼尽全力！” 虽然很多人都说选择大于努力，以至于常常焦虑自己的选择是否正确，但我逐渐意识到，其实很多东西根本就没有正确的选择，我们只能靠奋斗，来使当初的选择显得正确。同时，希望我能一直保持年轻，不被束缚。</p>
+<h2 id="工作"><a class="markdownIt-Anchor" href="#工作">#</a> 工作</h2>
+<p>按照惯例，先说说今年的工作情况。2020 年底离开了工作四年零五个月的老牌国企，终于离开了！常常跟朋友说要辞职，这次终于是真的了。我也纳闷自己，怎么好像越来越害怕离开舒适圈，害怕没有公司的标签？我想，如果不提及工作，自我介绍的时候我应该怎么介绍自己？好像自己并没有特别有趣…</p>
+<p>总之就是辞职了，虽然总有人吓唬我，比如说现在疫情期间工作不好找、不上班你怎么还房贷、干嘛不好好上班… 但其实并没有那么可怕。不过，没休息多久，我还是决定去上班了。</p>
+<p>2021 年 1 月份，加入了某环保数采仪头部厂商，岗位是 Linux 驱动工程师。因为常年关注环保，所以有关注这家公司，刚好也想了解这些环保设备的构造和市场，所以就加入了。后来参与了一个完整的环保数采仪项目，基于 NXP i.MX8，移植上一代产品的后端程序，自己实现的 UI。前前后后折腾大半年，从硬件到软件，从架构到应用，都摸了个透。算是满足了当初在国企想做却没有机会做的项目的愿望。</p>
+<p>技术上感觉并没有太多长进，都是嵌入式、Linux 那堆东西，有现成的开源库就用，没有就自己写写，感觉都是炒冷饭，只是应用场景不一样而已。虽然这些年来都说自己做研发工作，但好像从来都只是 Development，并没有什么 Research。毕竟不是在大公司的研究所，公司雇佣我也就是为了做产品应用，自然不会愿意花钱让我们搞啥研究。所以，还是要靠自己利用业余时间搞学习、搞研究。</p>
+<p>不过，前段时间项目结束之后，我还是辞职了。辞职的原因有很多，包括从项目中学到的东西越来越少了，而乱七八糟的事却越来越多了；了解到环保数采仪的市场行情之后，略有失望，一方面市场太小，另一方面需要与政府部门打交道，很难作为我下一个阶段的起点；另外，长期一个人在郊区生活，不利于身心健康。</p>
+<p>后来有接触两家新能源车企，毕竟天天关注 “碳中和” 的我，觉得自己还是要投入到碳中和的大趋势中。只不过，拿到 offer 之后，我又拒绝了。虽然薪资很吸引人，工作内容也很契合，但我感觉自己还没准备好全心投入到新的工作。同时，这个阶段的我，内心也有一点 “宁做鸡头，不做凤尾” 的心理倾向，作为长期主义者，我还是希望能够沉淀出一些自己的东西，做一些属于自己的产品，而不是无休止地开发。</p>
+<h2 id="学习"><a class="markdownIt-Anchor" href="#学习">#</a> 学习</h2>
+<p>今年学到最重要的一样东西是 —— 不要劝别人学习！我以前老爱说教，给别人提建议，自以为在帮别人，实际上可能在害别人。不是说学习不重要，而是每个人的点都不一样，为什么学、怎么学、学什么… 都不一样，自然不能用我觉得好的方法要求别人。</p>
+<p>在人际关系中，“说教” 是会带来伤害的，“以身作则” 才是最好的教育方式。当意识到要对自己负责的时候，人自然会提起精神来学习。这和苏轼最后说的一句话 —— “着力即差” 的道理一样。有时候我们使劲地推，逼孩子学习、推项目进度等等，效果反而很差。</p>
+<p>“着力即差” 的意思是：下的功夫越多，事情就越容易做错。真正的热爱是不需要坚持的。我们常常对自己说要努力学习、努力工作、努力赚钱，要坚持不懈，但结果可能是问题越来越多，甚至坠入深渊。佛法还是蛮有趣的，不执着、一切随缘。</p>
+<p>说完虚的，再说点实的。</p>
+<p>今年读了一些心理学方面的书，因为我感觉自己需要采取一些主动的心理干预，才能进入人生的下一阶段，真是 “人均抑郁” 的时代。书是看了，不过好像也没记住多少，印象最深刻的是《被讨厌的勇气》，代入感很强！也让我从 “原因论” 转变为 “目的论”，以前总是下意识地找借口 —— 因为以前怎么怎么样，所以现在怎么怎么样…（感觉是在国企养成的坏思维习惯）一开始很难接受 “目的论”，因为这意味着过去的很多东西是错误的，非常矛盾。不过好在我的接受能力比较强，我很喜欢这种颠覆观念的感觉。在我看来，“目的论” 和马斯克的 “第一性原理” 有着共同点，我们思考问题应该朝着目标的方向去思考，回归到事物本身，它需要哪些基本条件，如何满足这些条件，如何找到实现目标的最优路径？</p>
+<p>比如，我经常在知乎遇到类似这样的问题：要不要学编程？转行做软件开发难不难？“原因论” 者思考的是：我不是理工科、不是计算机专业，是不是学不会编程？而 “目的论” 者思考的是：编程是什么？我要怎么学编程？怎么样一步步深入学习，解决问题？再比如，现在很多年轻人恐婚（比如我），“原因论” 思维是：因为我的父母婚姻不幸福，所以我可能也不幸福。而 “目的论” 思维是：幸福是什么？它有哪些指标？我要怎么一步步达到幸福？</p>
+<p>当然，《被讨厌的勇气》这本书还有很多受启发的内容，包括课题分离、共同体感觉等等。对我来说，这些方法确实能帮助到我。所有烦恼都是人际关系的烦恼，当划清界限之后，许多问题就迎刃而解了。课题分离，把我的问题交给我，把你的问题还给你，做好自己的份内事，因上努力，果上随缘。</p>
+<p>除了心理学，今年还看了许多关于 “碳中和” 的书，毕竟 2021 年被称为 “碳中和元年”。其实老早之前就知道碳中和的概念，包括气候变化、碳交易市场、碳配额等等，只不过一直没有深入研究。直到最近闲赋在家，陆陆续续买了七、八本关于碳中和的书，才发现其实很好理解，就是一场广泛而深刻的经济社会系统性变革，百年未有之大变局嘛。确实很让人兴奋，不过对于咱们做事的人，还是要踏踏实实让项目落地，思考如何帮助更多人低碳生活。关于这部分就不在这里不细说了。</p>
+<p>除此之外，今年还学了一些开发技术，包括网络建站、数据分析、边缘计算等等，也开始尝试一些 DIY 硬件项目，说了那么多年，今年终于感觉自己有点像 Maker 啦！我想这些大概就是我的兴趣所在吧，不需要外力推动，却依旧乐在其中。低碳环保和创客精神将伴随我一生，说浪漫点 —— 此生追求，唯有爱与自由！（这大概就是信仰吧）</p>
+<h2 id="感情"><a class="markdownIt-Anchor" href="#感情">#</a> 感情</h2>
+<p>感情是我最不愿提及的一部分，包括亲情和爱情。不过，我现在已经是 “目的论” 者，所以还是要勇敢面对，因为要达到 “幸福的彼岸”，无法绕开它们。</p>
+<p>是的，我结束了一段长达六年的感情。是我结束的，而且在我们即将跨入三十岁的阶段。我知道很多人会骂我，我也承受着来自家人和朋友的心理压力，只不过亲密关系是很私人的问题，很难用常理来解答。</p>
+<p>好像现在的生活越来越便利之后，大家对感情和婚姻的要求越来越高了。尤其是 “女性主义” 的崛起，在亲密关系中，常常让我思考：我应该怎么样和 “女性主义” 共生？我怎么样才能被需要？我能为对方提供什么服务？现在和以前不一样，比如说在石器时代，只要身体强壮就可以了，不管长得多丑；比如早几十年前，只要顾家、能养家糊口就可以了。而现在，会更多的考虑自身的感受，同时对方还要长得帅、能赚钱、性格好、品行好、身体好、会做饭、顾家… 最好还风趣幽默，还有没事最好别烦我，我只想岁月静好…</p>
+<p>我觉得 “女性主义” 的崛起对人类发展来说是好事，但争取平等不是为了营造男女性别的对立。更何况，宏观和微观是有很大区别的，只有宏观达到 “平等” 才能解决许多社会问题。反正，我就是在这里摔了一跤。以前我觉得我应该会在三十岁之前结婚吧，现在觉得三十五之前能结婚就挺好的了。</p>
+<p>前几年看过一部印度电影《Pad Man》，把我看哭了。人生很长，会遇到许多问题，能遇到愿意一起成长的就好好珍惜吧！爱情的真正意义在于帮助对方提高的同时，提高自己。“共同体感觉” 真的很重要。</p>
+<p>其实吧，我自己也很慌，不过随缘吧！因为我现在的课题是如何做好想做的事，成为更好的自己。</p>
+<h2 id="生活"><a class="markdownIt-Anchor" href="#生活">#</a> 生活</h2>
+<p>生活方面好像没什么可总结的，可以说是一如既往的单调。不过，好在我总能自己找乐子，所以也挺享受独处。毕竟还有那么多书没看，还有那么多项目没做…</p>
+<p>今年终于把房子装修好了，不过我还不太习惯称它为 “家”，因为我的心似乎还无法安放于此。和很多环保人士（极简、零废弃）一样，我对物质的追求并不高，而更注重精神世界的富足。不过这个观点得改，因为钱真的能解决很多问题！如果长期过着低物欲的生活，可能会丧失赚钱的欲望。</p>
+<p>贪官要奸，清官要更奸。同样，为了实现碳中和，富人要有钱，环保人士要更有钱。</p>
+<p>说到钱，今年的财商好像也没啥长进，还是以稳健型的指数基金定投为主，而且收益也不太理想，希望明年能优化一下策略吧。不过实现财务自由肯定不能光指望它，还是要增加更多的被动收入才行。今年的一个尝试是在自己的网站上接入了 Google Adsense，获取谷歌广告收益，不过现在的收入还太少了，都不够养活我自己。明年继续加油吧！</p>
+<p>布赖恩・费瑟斯通豪在《远见》书中写道：40 岁之后能赚到的将占你一生个人财富的 85% 至 90%。</p>
+<p>人生是不断积累的过程，我还有 10 年厚积薄发，哈哈哈！做一个坚定的长期主义者！</p>
+<h2 id="计划"><a class="markdownIt-Anchor" href="#计划">#</a> 计划</h2>
+<p>又到了立 Flag 的时候，先对自己说一声抱歉，去年立的 Flag 也有好一些没完成。比如说出书，说了一年都还没交稿，说了学 Rust 也没学，说了学素描也没学… 不过 “着力即差”，哈哈哈，随缘吧！该完成的时候，自然会完成，那时候才是最好的！</p>
+<p>好吧，还是先列几个重要的 Flag：</p>
+<ul>
+<li>出书（增加嵌入式人工智能的内容，并争取早日走完出版流程）</li>
+<li>持续维护个人网站，争取 Google Adsense 收入达 $500 / 月</li>
+<li>完成几个 SDGs 可持续发展目标相关的硬件 DIY 项目</li>
+<li>参加一次创投项目</li>
+</ul>
+<p>另外，关于明年的工作计划，是一个比较头痛的问题。一方面，我对过去的工作内容几乎失去了兴趣，所以很难说服自己去找一个类似的工作，把自己摁在办公室上班赚钱。另一方面，我在准备明年的一个比赛，想看看能不能进入决赛再决定去哪工作，做什么工作。</p>
+<p>至于工作内容，我也想过，如果继续做嵌入式开发，优先考虑光伏储能、新能源汽车、自动驾驶、智能硬件，以及做开源软件的企业。如果跨行业就业，优先碳中和（环保、可持续）相关的创业项目和团队，虽然水很深，但以我的分析能力应该能辨别出优质的团队吧。另外，除了研发岗位，我也在考虑更接近用户的岗位，虽然对着 Datasheet 写代码很酷，但是用户也很有趣呀！是的，我意识到我的观念在发生变化… 我开始关心用户需求、产品设计、交互方式这些东西了。</p>
+<p>自从认识尼古拉・特斯拉以来，他就是我的偶像，甚至因此而极其讨厌爱迪生。现在特斯拉依然是我的偶像，只不过我可能会更想成为爱迪生或马可尼那样的人。一方面，几乎可以断定我这辈子都无法达到特斯拉的高度，在学术领域获得显著成就；另一方面，技术的应用和商业化也很重要，让更多人因为科技的发展而获得更多公平机会，过上更可持续的生活，非常重要，也是我目前关心的。</p>
+<p>除了工作上的变化，明年还计划改善一下人际关系。你们知道，我真是一个非常懒的人，很少主动联系朋友（但不代表我不在乎你们）。我翻看通话记录才发现这些年来联系最多的是 Tina 和我妈，我就知道我肯定出问题了！—— 社交多样性的缺失会导致我对亲密关系的需求增多。毕业后的这些年来，我知道我错过了许多优秀的小伙伴的成长，也错过了许多绝地反击的机会，但也正是这些遗憾磨砺了我们的意志，未来也许会因此走得更坚定些。所以，如果有一天我突然联系你了，请不要害怕，我不是来找你借钱的～</p>
+<p>好啦，2021 年的总结到这里就快结束了，感谢你能看到这里！</p>
+<p>最近经常想起高中时期的一个画面，我的初中同校师弟（我和他都是初中那所学校中考第一名考进这所高中的）跟我说：“以前我觉得自己就是万里挑一的天选之子，清华北大就是为我准备的，但现在只要能考个本科就很好了…” 还好我从来没这么想过，后知后觉的我甚至很久以后才发现大学与大学之间的区别。直到现在，快三十的年纪，才慢慢悟出了一点做人和做事的方法。这些年来，虽然走了很多弯路，做了很多三天打鱼两天晒网的事情，但唯二坚持到现在依然热情不减的，是 Maker 和环保。我也不知道为啥，不过既然来了，那我就迎接它们吧。“十年饮冰，难凉热血” 也许就是这种感觉。而我过去苦苦寻找的交汇点，突然发现，原来是碳中和。我想，我必定是要在这个领域做点事情了！</p>
+<p>希望明年，我也能像孔子一样，说一句：“吾十有五而志于学，三十而立”。</p>
+
+      <div class="tags">
+          <a href="/tags/%E6%80%BB%E7%BB%93/" rel="tag"><i class="ic i-tag"></i> 总结</a>
+      </div>
+  </div>
+
+   <footer>
+
+    <div class="meta">
+  <span class="item">
+    <span class="icon">
+      <i class="ic i-calendar-check"></i>
+    </span>
+    <span class="text">更新于</span>
+    <time title="修改时间：2023-04-30 16:10:37" itemprop="dateModified" datetime="2023-04-30T16:10:37+08:00">2023-04-30</time>
+  </span>
+  <span id="journal/2021-year-end-summary.html" class="item leancloud_visitors" data-flag-title="我的2021——为自己的选择放手一搏" title="阅读次数">
+      <span class="icon">
+        <i class="ic i-eye"></i>
+      </span>
+      <span class="text">阅读次数</span>
+      <span class="leancloud-visitors-count"></span>
+      <span class="text">次</span>
+  </span>
+</div>
+
+      
+<div class="reward">
+  <button><i class="ic i-heartbeat"></i> 赞赏</button>
+  <p>请我喝[茶]~(￣▽￣)~*</p>
+  <div id="qr">
+      
+      <div>
+        <img data-src="/images/wechatpay-small.jpeg" alt="Rudy Lo 微信支付">
+        <p>微信支付</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/alipay-small.jpeg" alt="Rudy Lo 支付宝">
+        <p>支付宝</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/avatar.png" alt="Rudy Lo 贝宝">
+        <p>贝宝</p>
+      </div>
+  </div>
+</div>
+
+      
+
+<div id="copyright">
+<ul>
+  <li class="author">
+    <strong>本文作者： </strong>Rudy Lo <i class="ic i-at"><em>@</em></i>成为自由人
+  </li>
+  <li class="link">
+    <strong>本文链接：</strong>
+    <a href="https://luhuadong.com/journal/2021-year-end-summary.html" title="我的2021——为自己的选择放手一搏">https://luhuadong.com/journal/2021-year-end-summary.html</a>
+  </li>
+  <li class="license">
+    <strong>版权声明： </strong>本站所有文章除特别声明外，均采用 <span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzQuMC9kZWVkLnpo"><i class="ic i-creative-commons"><em>(CC)</em></i>BY-NC-SA</span> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+  </footer>
+
+</article>
+
+  </div>
+  
+
+<div class="post-nav">
+    <div class="item left">
+      
+
+  <a href="/entrepreneurship/innovation-entrepreneurship-competition.html" itemprop="url" rel="prev" data-background-image="http:&#x2F;&#x2F;static.luhuadong.com&#x2F;ProcidaItaly.jpg" title="创新创业大赛">
+  <span class="type">上一篇</span>
+  <span class="category"><i class="ic i-flag"></i> 一起创业呀</span>
+  <h3>创新创业大赛</h3>
+  </a>
+
+    </div>
+    <div class="item right">
+      
+
+  <a href="/english/michael-levitt-chemistry.html" itemprop="url" rel="next" data-background-image="http:&#x2F;&#x2F;static.luhuadong.com&#x2F;EuropeFromISS.jpg" title="【英语演说】迈克尔·莱维特：我为“化学”正名">
+  <span class="type">下一篇</span>
+  <span class="category"><i class="ic i-flag"></i> 一起学英语</span>
+  <h3>【英语演说】迈克尔·莱维特：我为“化学”正名</h3>
+  </a>
+
+    </div>
+</div>
+
+  
+  <div class="wrap" id="comments"></div>
+
+
+        </div>
+        <div id="sidebar">
+          
+
+<div class="inner">
+
+  <div class="panels">
+    <div class="inner">
+      <div class="contents panel pjax" data-title="文章目录">
+          <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%B7%A5%E4%BD%9C"><span class="toc-number">1.</span> <span class="toc-text"> 工作</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%AD%A6%E4%B9%A0"><span class="toc-number">2.</span> <span class="toc-text"> 学习</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%84%9F%E6%83%85"><span class="toc-number">3.</span> <span class="toc-text"> 感情</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%94%9F%E6%B4%BB"><span class="toc-number">4.</span> <span class="toc-text"> 生活</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E8%AE%A1%E5%88%92"><span class="toc-number">5.</span> <span class="toc-text"> 计划</span></a></li></ol>
+      </div>
+      <div class="related panel pjax" data-title="系列文章">
+        <ul>
+          <li><a href="/journal/this-blog.html" rel="bookmark" title="这个部落格">这个部落格</a></li><li><a href="/journal/2016-year-end-summary.html" rel="bookmark" title="我的2016——我和嵌入式的那些事">我的2016——我和嵌入式的那些事</a></li><li><a href="/journal/how-do-i-become-a-programmer.html" rel="bookmark" title="从高考到程序员——我一直在寻找答案">从高考到程序员——我一直在寻找答案</a></li><li><a href="/journal/2017-tzuchi-qingyuan.html" rel="bookmark" title="2017清远冬令发放环保心得分享">2017清远冬令发放环保心得分享</a></li><li><a href="/journal/2017-year-end-summary.html" rel="bookmark" title="我的2017——作为一名程序员，我重新思考了我生活的目标">我的2017——作为一名程序员，我重新思考了我生活的目标</a></li><li><a href="/journal/2018-year-end-summary.html" rel="bookmark" title="我的2018——上懂机器学习，下懂微信建群">我的2018——上懂机器学习，下懂微信建群</a></li><li><a href="/journal/donate-hair-to-charity.html" rel="bookmark" title="留了三年长发，只为了让生命更美丽">留了三年长发，只为了让生命更美丽</a></li><li><a href="/journal/2019-year-end-summary.html" rel="bookmark" title="我的2019——努力成为我认为我可以成为的人">我的2019——努力成为我认为我可以成为的人</a></li><li><a href="/journal/%E8%BF%9C%E7%A6%BB%E9%82%A3%E4%BA%9B%E6%B6%88%E8%80%97%E4%BD%A0%E7%9A%84%E4%BA%BA%E5%92%8C%E4%BA%8B.html" rel="bookmark" title="远离那些消耗你的人和事">远离那些消耗你的人和事</a></li><li><a href="/journal/%E7%A7%AF%E7%B4%AF%E5%AE%9A%E5%BE%8B.html" rel="bookmark" title="积累定律：努力让自己值钱">积累定律：努力让自己值钱</a></li><li><a href="/journal/%E4%BB%BB%E4%BD%95%E4%B8%80%E6%9D%A1%E8%B7%AF%E9%83%BD%E6%98%AF%E4%BD%A0%E7%9A%84%E9%80%89%E6%8B%A9.html" rel="bookmark" title="如果你不知道去哪里，任何一条路都是你的选择">如果你不知道去哪里，任何一条路都是你的选择</a></li><li><a href="/journal/%E5%AD%A6%E4%BC%9A%E4%BB%8E%E5%88%AB%E4%BA%BA%E7%9A%84%E5%A4%B1%E8%B4%A5%E4%B8%AD%E5%90%B8%E5%8F%96%E6%95%99%E8%AE%AD.html" rel="bookmark" title="学会从别人的失败中吸取教训">学会从别人的失败中吸取教训</a></li><li><a href="/journal/two-decision-method-wcca-and-wadm.html" rel="bookmark" title="分享两个决策方法WCCA和WADM">分享两个决策方法WCCA和WADM</a></li><li><a href="/journal/%E4%BB%8E%E6%8B%BCT%E5%AD%97%E4%B8%AD%E9%87%8D%E6%96%B0%E7%90%86%E8%A7%A3%E5%9B%A2%E9%98%9F%E5%90%88%E4%BD%9C.html" rel="bookmark" title="从拼T字中重新理解团队合作">从拼T字中重新理解团队合作</a></li><li><a href="/journal/2020-rtt-community-contribution-award.html" rel="bookmark" title="我与 RT-Thread 社区一起成长的故事">我与 RT-Thread 社区一起成长的故事</a></li><li><a href="/journal/2020-year-end-summary.html" rel="bookmark" title="我的2020——一颗红心，两手准备">我的2020——一颗红心，两手准备</a></li><li><a href="/journal/opensource-guide.html" rel="bookmark" title="《开源指北》之我和开源的故事">《开源指北》之我和开源的故事</a></li><li><a href="/journal/how-are-you-today.html" rel="bookmark" title="「每日一问」你今天过得怎么样？">「每日一问」你今天过得怎么样？</a></li><li><a href="/journal/ugly-apple.html" rel="bookmark" title="丑苹果">丑苹果</a></li><li><a href="/journal/to-myself-in-five-years-written-on-the-29-birthday.html" rel="bookmark" title="给五年后的自己（写在29岁生日）">给五年后的自己（写在29岁生日）</a></li><li><a href="/journal/happiness-in-ordinary-life.html" rel="bookmark" title="平淡生活里的琐碎幸福">平淡生活里的琐碎幸福</a></li><li><a href="/journal/2021-resignation-summary-and-plan.html" rel="bookmark" title="2021离职总结与计划">2021离职总结与计划</a></li><li><a href="/journal/keeping-cats.html" rel="bookmark" title="养猫经历">养猫经历</a></li><li><a href="/journal/diary-20210925.html" rel="bookmark" title="一个平淡无奇的周末">一个平淡无奇的周末</a></li><li><a href="/journal/living-in-the-moment.html" rel="bookmark" title="一番番春秋冬夏，一场场酸甜苦辣">一番番春秋冬夏，一场场酸甜苦辣</a></li><li><a href="/journal/decorate-my-small-house.html" rel="bookmark" title="装了个修，居然还治好了选择困难症！">装了个修，居然还治好了选择困难症！</a></li><li><a href="/journal/diary-20211028.html" rel="bookmark" title="【总结】但行好事，莫问前程">【总结】但行好事，莫问前程</a></li><li><a href="/journal/dont-waste-your-full-potential.html" rel="bookmark" title="如果这十年，你没有浪费">如果这十年，你没有浪费</a></li><li class="active"><a href="/journal/2021-year-end-summary.html" rel="bookmark" title="我的2021——为自己的选择放手一搏">我的2021——为自己的选择放手一搏</a></li><li><a href="/journal/30-year-old-summary.html" rel="bookmark" title="一觉醒来，喜提我的30岁">一觉醒来，喜提我的30岁</a></li><li><a href="/journal/jiangmengnan.html" rel="bookmark" title="江梦南：世界以痛吻我，我却报之以歌">江梦南：世界以痛吻我，我却报之以歌</a></li><li><a href="/journal/20220608.html" rel="bookmark" title="我有点喜欢现在的工作了">我有点喜欢现在的工作了</a></li><li><a href="/journal/become-a-feminist.html" rel="bookmark" title="成为一名女权主义者">成为一名女权主义者</a></li><li><a href="/journal/20220611.html" rel="bookmark" title="唐山烧烤店打人事件太让人气愤了！">唐山烧烤店打人事件太让人气愤了！</a></li><li><a href="/journal/20220612.html" rel="bookmark" title="开始我的环保博主生涯">开始我的环保博主生涯</a></li><li><a href="/journal/20220702.html" rel="bookmark" title="我好像升职了，又好像没有">我好像升职了，又好像没有</a></li><li><a href="/journal/to-be-a-sailor-of-the-world.html" rel="bookmark" title="做一个世界的水手，奔赴所有的码头">做一个世界的水手，奔赴所有的码头</a></li><li><a href="/journal/20220712.html" rel="bookmark" title="成为 LVGL 贡献者了">成为 LVGL 贡献者了</a></li><li><a href="/journal/14-days-to-get-up-early.html" rel="bookmark" title="14天早起打卡！">14天早起打卡！</a></li><li><a href="/journal/BYD-Dolphin.html" rel="bookmark" title="比亚迪·海豚，我的移动城堡">比亚迪·海豚，我的移动城堡</a></li><li><a href="/journal/i-got-covid-19.html" rel="bookmark" title="放开疫情管控之后，我就阳了">放开疫情管控之后，我就阳了</a></li><li><a href="/journal/2022-year-end-summary.html" rel="bookmark" title="我的2022——三十不惑">我的2022——三十不惑</a></li><li><a href="/journal/20230201.html" rel="bookmark" title="打工的目的只有一个">打工的目的只有一个</a></li><li><a href="/journal/life-meaning.html" rel="bookmark" title="当我不再寻找人生的意义，生活才刚刚开始">当我不再寻找人生的意义，生活才刚刚开始</a></li>
+        </ul>
+      </div>
+      <div class="overview panel" data-title="站点概览">
+        <div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <img class="image" itemprop="image" alt="Rudy Lo"
+      data-src="/images/lu_20221221.jpg">
+  <p class="name" itemprop="name">Rudy Lo</p>
+  <div class="description" itemprop="description">阿基米东的网络日志</div>
+</div>
+
+<nav class="state">
+    <div class="item posts">
+      <a href="/archives/">
+        <span class="count">295</span>
+        <span class="name">文章</span>
+      </a>
+    </div>
+    <div class="item categories">
+      <a href="/categories/">
+        <span class="count">35</span>
+        <span class="name">分类</span>
+      </a>
+    </div>
+    <div class="item tags">
+      <a href="/tags/">
+        <span class="count">80</span>
+        <span class="name">标签</span>
+      </a>
+    </div>
+</nav>
+
+<div class="social">
+      <span class="exturl item github" data-url="aHR0cHM6Ly9naXRodWIuY29tL2x1aHVhZG9uZw==" title="https:&#x2F;&#x2F;github.com&#x2F;luhuadong"><i class="ic i-github"></i></span>
+      <span class="exturl item csdn" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x1X2VtYmVkZGVk" title="https:&#x2F;&#x2F;blog.csdn.net&#x2F;lu_embedded"><i class="ic i-address-card"></i></span>
+      <span class="exturl item zhihu" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9hcm1zdHJvbmcyMDE0" title="https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014"><i class="ic i-zhihu"></i></span>
+      <span class="exturl item douban" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC83MzAwNDcv" title="https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;"><i class="ic i-douban"></i></span>
+      <span class="exturl item weibo" data-url="aHR0cHM6Ly93ZWliby5jb20vdS8yMDAwMzkxOTUx" title="https:&#x2F;&#x2F;weibo.com&#x2F;u&#x2F;2000391951"><i class="ic i-weibo"></i></span>
+      <span class="exturl item email" data-url="bWFpbHRvOmx1aHVhZG9uZ0AxNjMuY29t" title="mailto:luhuadong@163.com"><i class="ic i-envelope"></i></span>
+</div>
+
+<ul class="menu">
+  
+    
+  <li class="item">
+    <a href="/" rel="section"><i class="ic i-home"></i>首页</a>
+  </li>
+
+    
+  <li class="item">
+    <a href="/about/" rel="section"><i class="ic i-user"></i>关于</a>
+  </li>
+
+        
+  <li class="item dropdown">
+      <a href="javascript:void(0);"><i class="ic i-feather"></i>文章</a>
+    <ul class="submenu">
+
+        
+  <li class="item">
+    <a href="/archives/" rel="section"><i class="ic i-list-alt"></i>归档</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/categories/" rel="section"><i class="ic i-th"></i>分类</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/tags/" rel="section"><i class="ic i-tags"></i>标签</a>
+  </li>
+
+  </ul>
+
+</ul>
+
+      </div>
+    </div>
+  </div>
+
+  <ul id="quick">
+    <li class="prev pjax">
+        <a href="/entrepreneurship/innovation-entrepreneurship-competition.html" rel="prev" title="上一篇"><i class="ic i-chevron-left"></i></a>
+    </li>
+    <li class="up"><i class="ic i-arrow-up"></i></li>
+    <li class="down"><i class="ic i-arrow-down"></i></li>
+    <li class="next pjax">
+        <a href="/english/michael-levitt-chemistry.html" rel="next" title="下一篇"><i class="ic i-chevron-right"></i></a>
+    </li>
+    <li class="percent"></li>
+  </ul>
+</div>
+
+
+        </div>
+        <div class="dimmer"></div>
+      </div>
+    </main>
+    <footer id="footer">
+      <div class="inner">
+        <div class="widgets">
+          
+
+        </div>
+        <div class="status">
+  <div class="copyright">
+    
+    &copy; 2014 – 
+    <span itemprop="copyrightYear">2023</span>
+    <span class="with-love">
+      <i class="ic i-sakura rotate"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">Rudy Lo @ Freedom Blog</span>
+  </div>
+  <div class="count">
+    <span class="post-meta-item-icon">
+      <i class="ic i-chart-area"></i>
+    </span>
+    <span title="站点总字数">591k 字</span>
+
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="ic i-coffee"></i>
+    </span>
+    <span title="站点阅读时长">8:57</span>
+  </div>
+  <div class="powered-by">
+    基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
+  </div>
+</div>
+
+      </div>
+    </footer>
+  </div>
+<script data-config type="text/javascript">
+  var LOCAL = {
+    path: 'journal/2021-year-end-summary.html',
+    favicon: {
+      show: "（●´3｀●）やれやれだぜ",
+      hide: "(´Д｀)大変だ！"
+    },
+    search : {
+      placeholder: "文章搜索",
+      empty: "关于 「 ${query} 」，什么也没搜到",
+      stats: "${time} ms 内找到 ${hits} 条结果"
+    },
+    valine: true,fancybox: true,
+    copyright: '复制成功，转载请遵守 <i class="ic i-creative-commons"></i>BY-NC-SA 协议。',
+    ignores : [
+      function(uri) {
+        return uri.includes('#');
+      },
+      function(uri) {
+        return new RegExp(LOCAL.path+"$").test(uri);
+      }
+    ]
   };
 </script>
-<title>我的2021——为自己的选择放手一搏 | 成为自由人</title>
-  
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
-    <script>
-      if (CONFIG.hostname === location.hostname) {
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-190737867-1');
-      }
-    </script>
 
-  <script>
+<script src="https://cdn.polyfill.io/v2/polyfill.js"></script>
+
+<script src="//cdn.jsdelivr.net/combine/npm/pace-js@1.0.2/pace.min.js,npm/pjax@0.2.8/pjax.min.js,npm/whatwg-fetch@3.4.0/dist/fetch.umd.min.js,npm/animejs@3.2.0/lib/anime.min.js,npm/algoliasearch@4/dist/algoliasearch-lite.umd.js,npm/instantsearch.js@4/dist/instantsearch.production.min.js,npm/lozad@1/dist/lozad.min.js,npm/quicklink@2/dist/quicklink.umd.js"></script>
+
+<script src="/js/app.js?v=0.2.5"></script>
+
+
+  <script data-pjax>
     var _hmt = _hmt || [];
     (function() {
       var hm = document.createElement("script");
@@ -73,534 +506,6 @@
       s.parentNode.insertBefore(hm, s);
     })();
   </script>
-
-
-
-  <noscript>
-  <style>
-  body { margin-top: 2rem; }
-
-  .use-motion .menu-item,
-  .use-motion .sidebar,
-  .use-motion .post-block,
-  .use-motion .pagination,
-  .use-motion .comments,
-  .use-motion .post-header,
-  .use-motion .post-body,
-  .use-motion .collection-header {
-    visibility: visible;
-  }
-
-  .use-motion .header,
-  .use-motion .site-brand-container .toggle,
-  .use-motion .footer { opacity: initial; }
-
-  .use-motion .site-title,
-  .use-motion .site-subtitle,
-  .use-motion .custom-logo-image {
-    opacity: initial;
-    top: initial;
-  }
-
-  .use-motion .logo-line {
-    transform: scaleX(1);
-  }
-
-  .search-pop-overlay, .sidebar-nav { display: none; }
-  .sidebar-panel { display: block; }
-  </style>
-</noscript>
-
-</head>
-
-<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
-  <div class="headband"></div>
-
-  <!-- 加入APlayer音乐播放器 -->
-  <link rel="stylesheet" href="/dist/APlayer.min.css">
-  <div id="aplayer"></div>
-  <script type="text/javascript" src="/dist/APlayer.min.js"></script>
-  <script type="text/javascript" src="/dist/music.js"></script>
-
-  <main class="main">
-    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header-inner"><div class="site-brand-container">
-  <div class="site-nav-toggle">
-    <div class="toggle" aria-label="切换导航栏" role="button">
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-    </div>
-  </div>
-
-  <div class="site-meta">
-
-    <a href="/" class="brand" rel="start">
-      <i class="logo-line"></i>
-      <h1 class="site-title">成为自由人</h1>
-      <i class="logo-line"></i>
-    </a>
-      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
-      <img class="custom-logo-image" src="/images/banner_1.gif" alt="成为自由人">
-  </div>
-
-  <div class="site-nav-right">
-    <div class="toggle popup-trigger">
-        <i class="fa fa-search fa-fw fa-lg"></i>
-    </div>
-  </div>
-</div>
-
-
-
-<nav class="site-nav">
-  <ul class="main-menu menu">
-        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
-        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
-        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
-        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
-        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
-        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
-        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
-        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
-      <li class="menu-item menu-item-search">
-        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
-        </a>
-      </li>
-  </ul>
-</nav>
-
-
-
-  <div class="search-pop-overlay">
-    <div class="popup search-popup"><div class="search-header">
-  <span class="search-icon">
-    <i class="fa fa-search"></i>
-  </span>
-  <div class="search-input-container">
-    <input autocomplete="off" autocapitalize="off" maxlength="80"
-           placeholder="搜索..." spellcheck="false"
-           type="search" class="search-input">
-  </div>
-  <span class="popup-btn-close" role="button">
-    <i class="fa fa-times-circle"></i>
-  </span>
-</div>
-<div class="search-result-container no-result">
-  <div class="search-result-icon">
-    <i class="fa fa-spinner fa-pulse fa-5x"></i>
-  </div>
-</div>
-
-    </div>
-  </div>
-
-</div>
-        
-  
-  <div class="toggle sidebar-toggle" role="button">
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-  </div>
-
-  <aside class="sidebar">
-
-    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
-      <ul class="sidebar-nav">
-        <li class="sidebar-nav-toc">
-          文章目录
-        </li>
-        <li class="sidebar-nav-overview">
-          站点概览
-        </li>
-      </ul>
-
-      <div class="sidebar-panel-container">
-        <!--noindex-->
-        <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%B7%A5%E4%BD%9C"><span class="nav-number">1.</span> <span class="nav-text">工作</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%AD%A6%E4%B9%A0"><span class="nav-number">2.</span> <span class="nav-text">学习</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%84%9F%E6%83%85"><span class="nav-number">3.</span> <span class="nav-text">感情</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%94%9F%E6%B4%BB"><span class="nav-number">4.</span> <span class="nav-text">生活</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%AE%A1%E5%88%92"><span class="nav-number">5.</span> <span class="nav-text">计划</span></a></li></ol></div>
-        </div>
-        <!--/noindex-->
-
-        <div class="site-overview-wrap sidebar-panel">
-          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
-      src="/images/lu_avatar_04.jpeg">
-  <p class="site-author-name" itemprop="name">Rudy Lo</p>
-  <div class="site-description" itemprop="description">阿基米东的网络日志</div>
-</div>
-<div class="site-state-wrap site-overview-item animated">
-  <nav class="site-state">
-      <div class="site-state-item site-state-posts">
-          <a href="/archives/">
-        
-          <span class="site-state-item-count">295</span>
-          <span class="site-state-item-name">日志</span>
-        </a>
-      </div>
-      <div class="site-state-item site-state-categories">
-            <a href="/categories/">
-          
-        <span class="site-state-item-count">35</span>
-        <span class="site-state-item-name">分类</span></a>
-      </div>
-      <div class="site-state-item site-state-tags">
-            <a href="/tags/">
-          
-        <span class="site-state-item-count">80</span>
-        <span class="site-state-item-name">标签</span></a>
-      </div>
-  </nav>
-</div>
-  <div class="links-of-author site-overview-item animated">
-      <span class="links-of-author-item">
-        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://gitee.com/luhuadong" title="Gitee → https:&#x2F;&#x2F;gitee.com&#x2F;luhuadong" rel="noopener" target="_blank">Gitee</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.douban.com/group/730047/" title="豆瓣 → https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;" rel="noopener" target="_blank">豆瓣</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://zerotogether.net/" title="零废弃部落 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零废弃部落</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
-      </span>
-  </div>
-  <div class="cc-license site-overview-item animated" itemprop="license">
-    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
-  </div>
-
-
-
-        </div>
-      </div>
-    </div>
-  </aside>
-  <div class="sidebar-dimmer"></div>
-
-
-    </header>
-
-    
-  <div class="back-to-top" role="button">
-    <i class="fa fa-arrow-up"></i>
-    <span>0%</span>
-  </div>
-
-<noscript>
-  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
-</noscript>
-
-
-    <div class="main-inner post posts-expand">
-
-
-  
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/journal/2021-year-end-summary.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
-          我的2021——为自己的选择放手一搏
-        </h1>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2021-12-31 08:45:00" itemprop="dateCreated datePublished" datetime="2021-12-31T08:45:00+08:00">2021-12-31</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%8D%E5%AE%9A%E6%97%B6%E6%97%A5%E8%AE%B0/" itemprop="url" rel="index"><span itemprop="name">不定时日记</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-        <p>一眨眼，2021年就到尾声了，叹时间如白驹过隙，忧此生碌碌无为，徒增年岁。今年是 2 字头的最后一年了，明年就 30 岁，想想还是挺恐怖的，儿时的记忆仿佛昨日，而我却已三十，人生有几个三十？</p>
-<p>今年的小标题是“为自己的选择放手一搏”，完整的台词是：“青春是为自己的选择放手一搏，青春是为自己的热爱拼尽全力！” 虽然很多人都说选择大于努力，以至于常常焦虑自己的选择是否正确，但我逐渐意识到，其实很多东西根本就没有正确的选择，我们只能靠奋斗，来使当初的选择显得正确。同时，希望我能一直保持年轻，不被束缚。</p>
-<h2 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h2><p>按照惯例，先说说今年的工作情况。2020 年底离开了工作四年零五个月的老牌国企，终于离开了！常常跟朋友说要辞职，这次终于是真的了。我也纳闷自己，怎么好像越来越害怕离开舒适圈，害怕没有公司的标签？我想，如果不提及工作，自我介绍的时候我应该怎么介绍自己？好像自己并没有特别有趣……</p>
-<p>总之就是辞职了，虽然总有人吓唬我，比如说现在疫情期间工作不好找、不上班你怎么还房贷、干嘛不好好上班…… 但其实并没有那么可怕。不过，没休息多久，我还是决定去上班了。</p>
-<p>2021年1月份，加入了某环保数采仪头部厂商，岗位是 Linux 驱动工程师。因为常年关注环保，所以有关注这家公司，刚好也想了解这些环保设备的构造和市场，所以就加入了。后来参与了一个完整的环保数采仪项目，基于 NXP i.MX8，移植上一代产品的后端程序，自己实现的 UI。前前后后折腾大半年，从硬件到软件，从架构到应用，都摸了个透。算是满足了当初在国企想做却没有机会做的项目的愿望。</p>
-<p>技术上感觉并没有太多长进，都是嵌入式、Linux 那堆东西，有现成的开源库就用，没有就自己写写，感觉都是炒冷饭，只是应用场景不一样而已。虽然这些年来都说自己做研发工作，但好像从来都只是 Development，并没有什么 Research。毕竟不是在大公司的研究所，公司雇佣我也就是为了做产品应用，自然不会愿意花钱让我们搞啥研究。所以，还是要靠自己利用业余时间搞学习、搞研究。</p>
-<p>不过，前段时间项目结束之后，我还是辞职了。辞职的原因有很多，包括从项目中学到的东西越来越少了，而乱七八糟的事却越来越多了；了解到环保数采仪的市场行情之后，略有失望，一方面市场太小，另一方面需要与政府部门打交道，很难作为我下一个阶段的起点；另外，长期一个人在郊区生活，不利于身心健康。</p>
-<p>后来有接触两家新能源车企，毕竟天天关注“碳中和”的我，觉得自己还是要投入到碳中和的大趋势中。只不过，拿到 offer 之后，我又拒绝了。虽然薪资很吸引人，工作内容也很契合，但我感觉自己还没准备好全心投入到新的工作。同时，这个阶段的我，内心也有一点“宁做鸡头，不做凤尾”的心理倾向，作为长期主义者，我还是希望能够沉淀出一些自己的东西，做一些属于自己的产品，而不是无休止地开发。</p>
-<h2 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h2><p>今年学到最重要的一样东西是 —— 不要劝别人学习！我以前老爱说教，给别人提建议，自以为在帮别人，实际上可能在害别人。不是说学习不重要，而是每个人的点都不一样，为什么学、怎么学、学什么… 都不一样，自然不能用我觉得好的方法要求别人。</p>
-<p>在人际关系中，“说教”是会带来伤害的，“以身作则”才是最好的教育方式。当意识到要对自己负责的时候，人自然会提起精神来学习。这和苏轼最后说的一句话 —— “着力即差” 的道理一样。有时候我们使劲地推，逼孩子学习、推项目进度等等，效果反而很差。</p>
-<p>“着力即差”的意思是：下的功夫越多，事情就越容易做错。真正的热爱是不需要坚持的。我们常常对自己说要努力学习、努力工作、努力赚钱，要坚持不懈，但结果可能是问题越来越多，甚至坠入深渊。佛法还是蛮有趣的，不执着、一切随缘。</p>
-<p>说完虚的，再说点实的。</p>
-<p>今年读了一些心理学方面的书，因为我感觉自己需要采取一些主动的心理干预，才能进入人生的下一阶段，真是“人均抑郁”的时代。书是看了，不过好像也没记住多少，印象最深刻的是《被讨厌的勇气》，代入感很强！也让我从“原因论”转变为“目的论”，以前总是下意识地找借口 —— 因为以前怎么怎么样，所以现在怎么怎么样…（感觉是在国企养成的坏思维习惯）一开始很难接受“目的论”，因为这意味着过去的很多东西是错误的，非常矛盾。不过好在我的接受能力比较强，我很喜欢这种颠覆观念的感觉。在我看来，“目的论”和马斯克的“第一性原理”有着共同点，我们思考问题应该朝着目标的方向去思考，回归到事物本身，它需要哪些基本条件，如何满足这些条件，如何找到实现目标的最优路径？</p>
-<p>比如，我经常在知乎遇到类似这样的问题：要不要学编程？转行做软件开发难不难？“原因论”者思考的是：我不是理工科、不是计算机专业，是不是学不会编程？而“目的论”者思考的是：编程是什么？我要怎么学编程？怎么样一步步深入学习，解决问题？再比如，现在很多年轻人恐婚（比如我），“原因论”思维是：因为我的父母婚姻不幸福，所以我可能也不幸福。而“目的论”思维是：幸福是什么？它有哪些指标？我要怎么一步步达到幸福？</p>
-<p>当然，《被讨厌的勇气》这本书还有很多受启发的内容，包括课题分离、共同体感觉等等。对我来说，这些方法确实能帮助到我。所有烦恼都是人际关系的烦恼，当划清界限之后，许多问题就迎刃而解了。课题分离，把我的问题交给我，把你的问题还给你，做好自己的份内事，因上努力，果上随缘。</p>
-<p>除了心理学，今年还看了许多关于“碳中和”的书，毕竟 2021 年被称为“碳中和元年”。其实老早之前就知道碳中和的概念，包括气候变化、碳交易市场、碳配额等等，只不过一直没有深入研究。直到最近闲赋在家，陆陆续续买了七、八本关于碳中和的书，才发现其实很好理解，就是一场广泛而深刻的经济社会系统性变革，百年未有之大变局嘛。确实很让人兴奋，不过对于咱们做事的人，还是要踏踏实实让项目落地，思考如何帮助更多人低碳生活。关于这部分就不在这里不细说了。</p>
-<p>除此之外，今年还学了一些开发技术，包括网络建站、数据分析、边缘计算等等，也开始尝试一些 DIY 硬件项目，说了那么多年，今年终于感觉自己有点像 Maker 啦！我想这些大概就是我的兴趣所在吧，不需要外力推动，却依旧乐在其中。低碳环保和创客精神将伴随我一生，说浪漫点 —— 此生追求，唯有爱与自由！（这大概就是信仰吧）</p>
-<h2 id="感情"><a href="#感情" class="headerlink" title="感情"></a>感情</h2><p>感情是我最不愿提及的一部分，包括亲情和爱情。不过，我现在已经是“目的论”者，所以还是要勇敢面对，因为要达到“幸福的彼岸”，无法绕开它们。</p>
-<p>是的，我结束了一段长达六年的感情。是我结束的，而且在我们即将跨入三十岁的阶段。我知道很多人会骂我，我也承受着来自家人和朋友的心理压力，只不过亲密关系是很私人的问题，很难用常理来解答。</p>
-<p>好像现在的生活越来越便利之后，大家对感情和婚姻的要求越来越高了。尤其是“女性主义”的崛起，在亲密关系中，常常让我思考：我应该怎么样和“女性主义”共生？我怎么样才能被需要？我能为对方提供什么服务？现在和以前不一样，比如说在石器时代，只要身体强壮就可以了，不管长得多丑；比如早几十年前，只要顾家、能养家糊口就可以了。而现在，会更多的考虑自身的感受，同时对方还要长得帅、能赚钱、性格好、品行好、身体好、会做饭、顾家…… 最好还风趣幽默，还有没事最好别烦我，我只想岁月静好……</p>
-<p>我觉得“女性主义”的崛起对人类发展来说是好事，但争取平等不是为了营造男女性别的对立。更何况，宏观和微观是有很大区别的，只有宏观达到“平等”才能解决许多社会问题。反正，我就是在这里摔了一跤。以前我觉得我应该会在三十岁之前结婚吧，现在觉得三十五之前能结婚就挺好的了。</p>
-<p>前几年看过一部印度电影《Pad Man》，把我看哭了。人生很长，会遇到许多问题，能遇到愿意一起成长的就好好珍惜吧！爱情的真正意义在于帮助对方提高的同时，提高自己。“共同体感觉”真的很重要。</p>
-<p>其实吧，我自己也很慌，不过随缘吧！因为我现在的课题是如何做好想做的事，成为更好的自己。</p>
-<h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><p>生活方面好像没什么可总结的，可以说是一如既往的单调。不过，好在我总能自己找乐子，所以也挺享受独处。毕竟还有那么多书没看，还有那么多项目没做……</p>
-<p>今年终于把房子装修好了，不过我还不太习惯称它为“家”，因为我的心似乎还无法安放于此。和很多环保人士（极简、零废弃）一样，我对物质的追求并不高，而更注重精神世界的富足。不过这个观点得改，因为钱真的能解决很多问题！如果长期过着低物欲的生活，可能会丧失赚钱的欲望。</p>
-<p>贪官要奸，清官要更奸。同样，为了实现碳中和，富人要有钱，环保人士要更有钱。</p>
-<p>说到钱，今年的财商好像也没啥长进，还是以稳健型的指数基金定投为主，而且收益也不太理想，希望明年能优化一下策略吧。不过实现财务自由肯定不能光指望它，还是要增加更多的被动收入才行。今年的一个尝试是在自己的网站上接入了 Google Adsense，获取谷歌广告收益，不过现在的收入还太少了，都不够养活我自己。明年继续加油吧！</p>
-<p>布赖恩·费瑟斯通豪在《远见》书中写道：40岁之后能赚到的将占你一生个人财富的 85% 至 90%。</p>
-<p>人生是不断积累的过程，我还有10年厚积薄发，哈哈哈！做一个坚定的长期主义者！</p>
-<h2 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h2><p>又到了立 Flag 的时候，先对自己说一声抱歉，去年立的 Flag 也有好一些没完成。比如说出书，说了一年都还没交稿，说了学 Rust 也没学，说了学素描也没学…… 不过 “着力即差”，哈哈哈，随缘吧！该完成的时候，自然会完成，那时候才是最好的！</p>
-<p>好吧，还是先列几个重要的 Flag：</p>
-<ul>
-<li>出书（增加嵌入式人工智能的内容，并争取早日走完出版流程）</li>
-<li>持续维护个人网站，争取 Google Adsense 收入达 $500/月</li>
-<li>完成几个 SDGs 可持续发展目标相关的硬件 DIY 项目</li>
-<li>参加一次创投项目</li>
-</ul>
-<p>另外，关于明年的工作计划，是一个比较头痛的问题。一方面，我对过去的工作内容几乎失去了兴趣，所以很难说服自己去找一个类似的工作，把自己摁在办公室上班赚钱。另一方面，我在准备明年的一个比赛，想看看能不能进入决赛再决定去哪工作，做什么工作。</p>
-<p>至于工作内容，我也想过，如果继续做嵌入式开发，优先考虑光伏储能、新能源汽车、自动驾驶、智能硬件，以及做开源软件的企业。如果跨行业就业，优先碳中和（环保、可持续）相关的创业项目和团队，虽然水很深，但以我的分析能力应该能辨别出优质的团队吧。另外，除了研发岗位，我也在考虑更接近用户的岗位，虽然对着 Datasheet 写代码很酷，但是用户也很有趣呀！是的，我意识到我的观念在发生变化…… 我开始关心用户需求、产品设计、交互方式这些东西了。</p>
-<p>自从认识尼古拉·特斯拉以来，他就是我的偶像，甚至因此而极其讨厌爱迪生。现在特斯拉依然是我的偶像，只不过我可能会更想成为爱迪生或马可尼那样的人。一方面，几乎可以断定我这辈子都无法达到特斯拉的高度，在学术领域获得显著成就；另一方面，技术的应用和商业化也很重要，让更多人因为科技的发展而获得更多公平机会，过上更可持续的生活，非常重要，也是我目前关心的。</p>
-<p>除了工作上的变化，明年还计划改善一下人际关系。你们知道，我真是一个非常懒的人，很少主动联系朋友（但不代表我不在乎你们）。我翻看通话记录才发现这些年来联系最多的是 Tina 和我妈，我就知道我肯定出问题了！—— 社交多样性的缺失会导致我对亲密关系的需求增多。毕业后的这些年来，我知道我错过了许多优秀的小伙伴的成长，也错过了许多绝地反击的机会，但也正是这些遗憾磨砺了我们的意志，未来也许会因此走得更坚定些。所以，如果有一天我突然联系你了，请不要害怕，我不是来找你借钱的~</p>
-<p>好啦，2021 年的总结到这里就快结束了，感谢你能看到这里！</p>
-<p>最近经常想起高中时期的一个画面，我的初中同校师弟（我和他都是初中那所学校中考第一名考进这所高中的）跟我说：“以前我觉得自己就是万里挑一的天选之子，清华北大就是为我准备的，但现在只要能考个本科就很好了……” 还好我从来没这么想过，后知后觉的我甚至很久以后才发现大学与大学之间的区别。直到现在，快三十的年纪，才慢慢悟出了一点做人和做事的方法。这些年来，虽然走了很多弯路，做了很多三天打鱼两天晒网的事情，但唯二坚持到现在依然热情不减的，是 Maker 和环保。我也不知道为啥，不过既然来了，那我就迎接它们吧。“十年饮冰，难凉热血” 也许就是这种感觉。而我过去苦苦寻找的交汇点，突然发现，原来是碳中和。我想，我必定是要在这个领域做点事情了！</p>
-<p>希望明年，我也能像孔子一样，说一句：“吾十有五而志于学，三十而立”。</p>
-
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-          <div class="reward-container">
-  <div>您的鼓励是我最大的动力！</div>
-  <button onclick="document.querySelector('.post-reward').classList.toggle('active');">
-    赞赏
-  </button>
-  <div class="post-reward">
-      <div>
-        <img src="/images/wechatpay.jpeg" alt="Rudy Lo 微信">
-        <span>微信</span>
-      </div>
-      <div>
-        <img src="/images/alipay.jpeg" alt="Rudy Lo 支付宝">
-        <span>支付宝</span>
-      </div>
-
-  </div>
-</div>
-
-          
-
-<div class="post-copyright">
-<ul>
-  <li class="post-copyright-author">
-      <strong>本文作者： </strong>Rudy Lo
-  </li>
-  <li class="post-copyright-link">
-      <strong>本文链接：</strong>
-      <a href="https://luhuadong.com/journal/2021-year-end-summary.html" title="我的2021——为自己的选择放手一搏">https://luhuadong.com/journal/2021-year-end-summary.html</a>
-  </li>
-  <li class="post-copyright-license">
-    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
-  </li>
-</ul>
-</div>
-
-          <div class="post-tags">
-              <a href="/tags/%E6%80%BB%E7%BB%93/" rel="tag"># 总结</a>
-          </div>
-
-        
-
-          <div class="post-nav">
-            <div class="post-nav-item">
-                <a href="/entrepreneurship/innovation-entrepreneurship-competition.html" rel="prev" title="创新创业大赛">
-                  <i class="fa fa-chevron-left"></i> 创新创业大赛
-                </a>
-            </div>
-            <div class="post-nav-item">
-                <a href="/english/michael-levitt-chemistry.html" rel="next" title="【英语演说】迈克尔·莱维特：我为“化学”正名">
-                  【英语演说】迈克尔·莱维特：我为“化学”正名 <i class="fa fa-chevron-right"></i>
-                </a>
-            </div>
-          </div>
-    </footer>
-  </article>
-</div>
-
-
-
-
-
-
-    
-  
-  <div class="comments">
-    <script src="https://giscus.app/client.js"
-        data-repo="luhuadong/blog" 
-        data-repo-id="MDEwOlJlcG9zaXRvcnkzNDEzOTU5NzQ=" 
-        data-category="General"
-        data-category-id="DIC_kwDOFFlKBs4CSTqq"
-        data-mapping="pathname" 
-        data-reactions-enabled="1" 
-        data-emit-metadata="1" 
-        data-theme="light"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        data-input-position="bottom"
-        data-loading="lazy"
-        async>
-    </script>
-  </div>
-  
-  
-
-<script>
-  window.addEventListener('tabs:register', () => {
-    let { activeClass } = CONFIG.comments;
-    if (CONFIG.comments.storage) {
-      activeClass = localStorage.getItem('comments_active') || activeClass;
-    }
-    if (activeClass) {
-      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
-      if (activeTab) {
-        activeTab.click();
-      }
-    }
-  });
-  if (CONFIG.comments.storage) {
-    window.addEventListener('tabs:click', event => {
-      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
-      const commentClass = event.target.classList[1];
-      localStorage.setItem('comments_active', commentClass);
-    });
-  }
-</script>
-</div>
-  </main>
-
-  <footer class="footer">
-    <div class="footer-inner">
-
-
-<div class="copyright">
-  &copy; 
-  <span itemprop="copyrightYear">2023</span>
-  <span class="with-love">
-    <i class="fa fa-heart"></i>
-  </span>
-  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
-</div>
-  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
-  </div>
-
-    </div>
-  </footer>
-
-  
-  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
-
-  
-<script src="/js/local-search.js"></script>
-
-
-
-
-
-
-  
-
-
-
-
-  <script>
-  if (typeof MathJax === 'undefined') {
-    window.MathJax = {
-      tex: {
-        inlineMath: {'[+]': [['$', '$']]},
-        tags: 'none'
-      },
-      options: {
-        renderActions: {
-          insertedScript: [200, () => {
-            document.querySelectorAll('mjx-container').forEach(node => {
-              const target = node.parentNode;
-              if (target.nodeName.toLowerCase() === 'li') {
-                target.parentNode.classList.add('has-jax');
-              }
-            });
-          }, '', false]
-        }
-      }
-    };
-    const script = document.createElement('script');
-    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
-    script.defer = true;
-    document.head.appendChild(script);
-  } else {
-    MathJax.startup.document.state(0);
-    MathJax.typesetClear();
-    MathJax.texReset();
-    MathJax.typeset();
-  }
-</script>
-
 
 
 </body>

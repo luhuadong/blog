@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>成为自由人 • Posts by &#34;能源&#34; tag</title>
+        <link>https://luhuadong.com</link>
+        <description>阿基米东的网络日志</description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 28 Sep 2021 00:47:37 +0800</pubDate>
+        <lastBuildDate>Tue, 28 Sep 2021 00:47:37 +0800</lastBuildDate>
+        <category>商业</category>
+        <category>成长</category>
+        <category>日记</category>
+        <category>创业</category>
+        <category>家居</category>
+        <category>互联网</category>
+        <category>读书笔记</category>
+        <category>工程师</category>
+        <category>爱</category>
+        <category>名言</category>
+        <category>奋斗</category>
+        <category>信息世界</category>
+        <category>管理</category>
+        <category>程序员</category>
+        <category>职场</category>
+        <category>人生</category>
+        <category>物联网</category>
+        <category>城市规划</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
+        <category>创客</category>
+        <category>比赛</category>
+        <category>科技向善</category>
+        <category>英语</category>
+        <category>学习</category>
+        <category>环保</category>
+        <category>碳中和</category>
+        <category>种植</category>
+        <category>健身</category>
+        <category>地理</category>
+        <category>城市</category>
+        <category>气象爱好者</category>
+        <category>指南</category>
+        <category>自律</category>
+        <category>思维</category>
+        <category>健康</category>
+        <category>Hexo</category>
+        <category>科普</category>
+        <category>可持续</category>
+        <category>能源</category>
+        <category>职业</category>
+        <category>时间管理</category>
+        <category>工作</category>
+        <category>总结</category>
+        <category>慈济</category>
+        <category>RT-Thread</category>
+        <category>开源</category>
+        <category>思考</category>
+        <category>生活</category>
+        <category>猫</category>
+        <category>幸福</category>
+        <category>修身</category>
+        <category>写书</category>
+        <category>milestone</category>
+        <category>地铁</category>
+        <category>Markdown</category>
+        <category>计划</category>
+        <category>股票</category>
+        <category>理财</category>
+        <category>投资</category>
+        <category>财富</category>
+        <category>保险</category>
+        <category>纪录片</category>
+        <category>自由</category>
+        <category>电影</category>
+        <category>TED演讲</category>
+        <category>时间</category>
+        <category>心理学</category>
+        <category>无线电爱好者</category>
+        <category>亲密关系</category>
+        <category>农业</category>
+        <category>游泳</category>
+        <category>励志</category>
+        <category>演讲</category>
+        <category>蔬食</category>
+        <category>电台主播</category>
+        <category>WordPress</category>
+        <category>垃圾分类</category>
+        <category>零废弃</category>
+        <category>低碳</category>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/household/%E5%AE%B6%E7%94%B5%E8%83%BD%E6%95%88%E7%AD%89%E7%BA%A7.html</guid>
+            <title>【科普】家电能效等级</title>
+            <link>https://luhuadong.com/household/%E5%AE%B6%E7%94%B5%E8%83%BD%E6%95%88%E7%AD%89%E7%BA%A7.html</link>
+            <category>家居</category>
+            <category>能源</category>
+            <pubDate>Tue, 28 Sep 2021 00:47:37 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;能效等级&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#能效等级&#34;&gt;#&lt;/a&gt; 能效等级&lt;/h2&gt;
+&lt;p&gt;能效等级（英文全拼：Energy Efficiency Index，缩写 EEI）是表示家用电器产品能效高低差别的一种分级方法，目前我国的能效标识将能效分为五个等级，级别数越小就越好。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;等级 1 表示产品节电已达到国际先进水平，能耗最低；&lt;/li&gt;
+&lt;li&gt;等级 2 表示产品比较节电；&lt;/li&gt;
+&lt;li&gt;等级 3 表示产品能源效率为我国市场的平均水平；&lt;/li&gt;
+&lt;li&gt;等级 4 表示产品能源效率低于市场平均水平；&lt;/li&gt;
+&lt;li&gt;等级 5 是产品市场准入指标，低于该等级要求的产品不允许生产和销售。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;能效标识&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#能效标识&#34;&gt;#&lt;/a&gt; 能效标识&lt;/h2&gt;
+&lt;p&gt;常见的家电（例如空调、冰箱、洗衣机）的能效等级是用 “中国能效标识”（China Energy Label）来标示的。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/household/china-energy-label-5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;不同家电的能效比是不一样的。以空调为例，空调的能效比实际上就是 “制冷（热）量与输出功率” 的比值，数值越大意味着同等制冷气量，消耗的功率越小即越省电。通俗地说，空调能效就是消耗同样多的电所产生的冷气 / 暖气有多少，能效越高的空调越省电。所以，在选购空调时，除了关注功率和匹数，空调能效也是衡量空调性能优劣的重要参数。&lt;/p&gt;
+&lt;p&gt;空调能效等级和能效比的关系如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;能效等级 1 级：能效比 3.40 以上（变频空调）。&lt;/li&gt;
+&lt;li&gt;能效等级 2 级：能效比 3.20~3.39。&lt;/li&gt;
+&lt;li&gt;能效等级 3 级：能效比 3.00~3.19。&lt;/li&gt;
+&lt;li&gt;能效等级 4 级：能效比 2.80~2.99。&lt;/li&gt;
+&lt;li&gt;能效等级 5 级：能效比 2.50~2.79。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;为什么要规定能效标准&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#为什么要规定能效标准&#34;&gt;#&lt;/a&gt; 为什么要规定能效标准&lt;/h2&gt;
+&lt;p&gt;能效标识是国家的一项强制规定。能效的大小，并不能仅仅是对于电量成本的计算，更主要的是对环保的影响。能效等级的划分，节约了能源，有利于环境的保护。所以在选择时，还是更建议大家优先选择一级能效的家电产品，例如 1 级能效的变频空调。&lt;/p&gt;
+&lt;p&gt;我们知道，中国是全球最大的家用电器生产和消费国之一。家用电器拥有量的迅速增长带来了巨大的能源消耗，同时也加重了对环境的污染。世界各国都通过制定和实施能效标准、推广能效标识制度来提高用能产品的能源效率，促进节能技术进步，进而减少有害物的排放和保护环境。&lt;/p&gt;
+&lt;p&gt;能效标准与能效标识已被证明是在降低能耗方面成本效益最佳的途径，同时会带来巨大的环境效益，也为消费者提供了积极的回报。近期的研究结果表明，制定和有效地实施新的能效标准和能源标识，提高产品的能效水平和消费者节能意识，在 2020 年能节电 277.5TWh，约折合节能量 1.29 亿吨标准煤。二者共同的节电量相当于 2020 年中国城乡居民生活总用电量的 56%，也就是说，通过制定和推广能效标准、实施能效标识，中国未来 20 年城乡居民生活用电量的预期增长可以减少近 85%。&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

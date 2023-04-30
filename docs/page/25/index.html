@@ -1,983 +1,154 @@
+
+
+
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
-<meta name="theme-color" content="#222">
-<meta name="generator" content="Hexo 5.0.2">
+<meta name="theme-color" content="#FFF">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="icon" type="image/ico" sizes="32x32" href="/images/favicon.ico">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta http-equiv="Cache-Control" content="no-siteapp">
 
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/lu_avatar_01_120px.png">
-  <link rel="mask-icon" href="/images/lu_avatar_01_240px.png" color="#222">
+<link rel="alternate" type="application/rss+xml" title="成为自由人" href="https://luhuadong.com/rss.xml" />
+<link rel="alternate" type="application/atom+xml" title="成为自由人" href="https://luhuadong.com/atom.xml" />
+<link rel="alternate" type="application/json" title="成为自由人" href="https://luhuadong.com/feed.json" />
 
-<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Mulish:300,300italic,400,400italic,700,700italic%7CFredericka%20the%20Great:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20JP:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20SC:300,300italic,400,400italic,700,700italic%7CInconsolata:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
 
+<link rel="stylesheet" href="/css/app.css?v=0.2.5">
 
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3396347538857110" crossorigin="anonymous"></script>
-
-<script class="hexo-configurations">
-    var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
-  </script>
-<meta name="description" content="阿基米东的网络日志">
-<meta property="og:type" content="website">
-<meta property="og:title" content="成为自由人">
-<meta property="og:url" content="https://luhuadong.com/page/25/index.html">
-<meta property="og:site_name" content="成为自由人">
-<meta property="og:description" content="阿基米东的网络日志">
-<meta property="og:locale" content="zh_CN">
-<meta property="article:author" content="Rudy Lo">
-<meta name="twitter:card" content="summary">
-
+  
 
 <link rel="canonical" href="https://luhuadong.com/page/25/">
 
 
-<script class="page-configurations">
-  // https://hexo.io/docs/variables.html
-  CONFIG.page = {
-    sidebar: "",
-    isHome : true,
-    isPost : false,
-    lang   : 'zh-CN'
-  };
-</script>
-<title>成为自由人</title>
-  
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
-    <script>
-      if (CONFIG.hostname === location.hostname) {
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-190737867-1');
-      }
-    </script>
 
-  <script>
-    var _hmt = _hmt || [];
-    (function() {
-      var hm = document.createElement("script");
-      hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58";
-      var s = document.getElementsByTagName("script")[0];
-      s.parentNode.insertBefore(hm, s);
-    })();
-  </script>
-
-
-
-  <noscript>
-  <style>
-  body { margin-top: 2rem; }
-
-  .use-motion .menu-item,
-  .use-motion .sidebar,
-  .use-motion .post-block,
-  .use-motion .pagination,
-  .use-motion .comments,
-  .use-motion .post-header,
-  .use-motion .post-body,
-  .use-motion .collection-header {
-    visibility: visible;
-  }
-
-  .use-motion .header,
-  .use-motion .site-brand-container .toggle,
-  .use-motion .footer { opacity: initial; }
-
-  .use-motion .site-title,
-  .use-motion .site-subtitle,
-  .use-motion .custom-logo-image {
-    opacity: initial;
-    top: initial;
-  }
-
-  .use-motion .logo-line {
-    transform: scaleX(1);
-  }
-
-  .search-pop-overlay, .sidebar-nav { display: none; }
-  .sidebar-panel { display: block; }
-  </style>
-</noscript>
-
-</head>
-
-<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
-  <div class="headband"></div>
-
-  <!-- 加入APlayer音乐播放器 -->
-  <link rel="stylesheet" href="/dist/APlayer.min.css">
-  <div id="aplayer"></div>
-  <script type="text/javascript" src="/dist/APlayer.min.js"></script>
-  <script type="text/javascript" src="/dist/music.js"></script>
-
-  <main class="main">
-    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header-inner"><div class="site-brand-container">
-  <div class="site-nav-toggle">
-    <div class="toggle" aria-label="切换导航栏" role="button">
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
+  <title>Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</title>
+<meta name="generator" content="Hexo 5.4.2"></head>
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div id="loading">
+    <div class="cat">
+      <div class="body"></div>
+      <div class="head">
+        <div class="face"></div>
+      </div>
+      <div class="foot">
+        <div class="tummy-end"></div>
+        <div class="bottom"></div>
+        <div class="legs left"></div>
+        <div class="legs right"></div>
+      </div>
+      <div class="paw">
+        <div class="hands left"></div>
+        <div class="hands right"></div>
+      </div>
     </div>
   </div>
-
-  <div class="site-meta">
-
-    <a href="/" class="brand" rel="start">
-      <i class="logo-line"></i>
-      <h1 class="site-title">成为自由人</h1>
-      <i class="logo-line"></i>
-    </a>
-      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
-      <img class="custom-logo-image" src="/images/banner_1.gif" alt="成为自由人">
-  </div>
-
-  <div class="site-nav-right">
-    <div class="toggle popup-trigger">
-        <i class="fa fa-search fa-fw fa-lg"></i>
+  <div id="container">
+    <header id="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="inner">
+        <div id="brand">
+          <div class="pjax">
+          
+            <a href="/" class="logo" rel="start"><p class="artboard">Freedom Blog</p>
+              <h1 itemprop="name headline" class="title">成为自由人</h1>
+            </a>
+            <p class="meta" itemprop="description">= 生活的理想，就是为了理想的生活 =</p>
+          
+          </div>
+        </div>
+        <nav id="nav">
+  <div class="inner">
+    <div class="toggle">
+      <div class="lines" aria-label="切换导航栏">
+        <span class="line"></span>
+        <span class="line"></span>
+        <span class="line"></span>
+      </div>
     </div>
-  </div>
-</div>
-
-
-
-<nav class="site-nav">
-  <ul class="main-menu menu">
-        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
-        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
-        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
-        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
-        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
-        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
-        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
-        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
-      <li class="menu-item menu-item-search">
-        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
-        </a>
+    <ul class="menu">
+      <li class="item title"><a href="/" rel="start">Freedom Blog</a></li>
+    </ul>
+    <ul class="right">
+      <li class="item theme">
+        <i class="ic i-sun"></i>
       </li>
-  </ul>
+      <li class="item search">
+        <i class="ic i-search"></i>
+      </li>
+    </ul>
+  </div>
 </nav>
 
-
-
-  <div class="search-pop-overlay">
-    <div class="popup search-popup"><div class="search-header">
-  <span class="search-icon">
-    <i class="fa fa-search"></i>
-  </span>
-  <div class="search-input-container">
-    <input autocomplete="off" autocapitalize="off" maxlength="80"
-           placeholder="搜索..." spellcheck="false"
-           type="search" class="search-input">
-  </div>
-  <span class="popup-btn-close" role="button">
-    <i class="fa fa-times-circle"></i>
-  </span>
-</div>
-<div class="search-result-container no-result">
-  <div class="search-result-icon">
-    <i class="fa fa-spinner fa-pulse fa-5x"></i>
-  </div>
-</div>
-
-    </div>
-  </div>
-
-</div>
-        
-  
-  <div class="toggle sidebar-toggle" role="button">
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-  </div>
-
-  <aside class="sidebar">
-
-    <div class="sidebar-inner sidebar-overview-active">
-      <ul class="sidebar-nav">
-        <li class="sidebar-nav-toc">
-          文章目录
-        </li>
-        <li class="sidebar-nav-overview">
-          站点概览
-        </li>
-      </ul>
-
-      <div class="sidebar-panel-container">
-        <!--noindex-->
-        <div class="post-toc-wrap sidebar-panel">
-        </div>
-        <!--/noindex-->
-
-        <div class="site-overview-wrap sidebar-panel">
-          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
-      src="/images/lu_avatar_04.jpeg">
-  <p class="site-author-name" itemprop="name">Rudy Lo</p>
-  <div class="site-description" itemprop="description">阿基米东的网络日志</div>
-</div>
-<div class="site-state-wrap site-overview-item animated">
-  <nav class="site-state">
-      <div class="site-state-item site-state-posts">
-          <a href="/archives/">
-        
-          <span class="site-state-item-count">295</span>
-          <span class="site-state-item-name">日志</span>
-        </a>
       </div>
-      <div class="site-state-item site-state-categories">
-            <a href="/categories/">
-          
-        <span class="site-state-item-count">35</span>
-        <span class="site-state-item-name">分类</span></a>
+      <div id="imgs" class="pjax">
+        <ul>
+          <li class="item" data-background-image="http://static.luhuadong.com/JavaBromo.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/NahargarhFort.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/EuropeFromISS.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/QingMing2023.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/MPPUnesco.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/CrestedButteEclispe.jpg"></li>
+        </ul>
       </div>
-      <div class="site-state-item site-state-tags">
-            <a href="/tags/">
-          
-        <span class="site-state-item-count">80</span>
-        <span class="site-state-item-name">标签</span></a>
-      </div>
-  </nav>
-</div>
-  <div class="links-of-author site-overview-item animated">
-      <span class="links-of-author-item">
-        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://gitee.com/luhuadong" title="Gitee → https:&#x2F;&#x2F;gitee.com&#x2F;luhuadong" rel="noopener" target="_blank">Gitee</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.douban.com/group/730047/" title="豆瓣 → https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;" rel="noopener" target="_blank">豆瓣</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://zerotogether.net/" title="零废弃部落 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零废弃部落</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
-      </span>
-  </div>
-  <div class="cc-license site-overview-item animated" itemprop="license">
-    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
-  </div>
-
-
-
-        </div>
-      </div>
-    </div>
-  </aside>
-  <div class="sidebar-dimmer"></div>
-
-
     </header>
-
-    
-  <div class="back-to-top" role="button">
-    <i class="fa fa-arrow-up"></i>
-    <span>0%</span>
+    <div id="waves">
+      <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+        <defs>
+          <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+        </defs>
+        <g class="parallax">
+          <use xlink:href="#gentle-wave" x="48" y="0" />
+          <use xlink:href="#gentle-wave" x="48" y="3" />
+          <use xlink:href="#gentle-wave" x="48" y="5" />
+          <use xlink:href="#gentle-wave" x="48" y="7" />
+        </g>
+      </svg>
+    </div>
+    <main>
+      <div class="inner">
+        <div id="main" class="pjax">
+          
+  <div class="index wrap">
+    <div class="segments posts">
+        
+<article class="item">
+  <div class="cover">
+    <a href="/journal/2018-year-end-summary.html" itemprop="url" title="我的2018——上懂机器学习，下懂微信建群"><img data-src="http://static.luhuadong.com/JTNPMilkyWay.jpg"></a>
   </div>
-
-<noscript>
-  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
-</noscript>
-
-
-    <div class="main-inner index posts-expand">
-
+  <div class="info">
     
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/coding/PyTK-2019-Day06.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
+<div class="meta">
+  <span class="item" title="创建时间：2019-01-01 23:22:11">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
     </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
+    <time itemprop="dateCreated datePublished" datetime="2019-01-01T23:22:11+08:00">2019-01-01</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
     </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/coding/PyTK-2019-Day06.html" class="post-title-link" itemprop="url">【教孩子学编程】第6天 电脑也会九九乘法口诀</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2019-02-08 10:53:27" itemprop="dateCreated datePublished" datetime="2019-02-08T10:53:27+08:00">2019-02-08</time>
+    <span>3.5k</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
     </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%80%E8%B5%B7%E5%AD%A6%E7%BC%96%E7%A8%8B/" itemprop="url" rel="index"><span itemprop="name">一起学编程</span></a>
-        </span>
-    </span>
-
-  
+    <span>3 分钟</span>
+  </span>
 </div>
 
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>【教孩子学 Python 编程】系列 Day6：编写九九乘法程序</p>
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/coding/PyTK-2019-Day06.html">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/coding/PyTK-2019-Day05.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/coding/PyTK-2019-Day05.html" class="post-title-link" itemprop="url">【教孩子学编程】第5天 你的第一个 Python 程序</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2019-02-07 10:53:27" itemprop="dateCreated datePublished" datetime="2019-02-07T10:53:27+08:00">2019-02-07</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%80%E8%B5%B7%E5%AD%A6%E7%BC%96%E7%A8%8B/" itemprop="url" rel="index"><span itemprop="name">一起学编程</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>【教孩子学 Python 编程】系列 Day5：编写 Hello World 程序</p>
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/coding/PyTK-2019-Day05.html">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/coding/PyTK-2019-Day04.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/coding/PyTK-2019-Day04.html" class="post-title-link" itemprop="url">【教孩子学编程】第4天 咿呀学语，Python常用英文单词</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2019-02-06 10:53:27" itemprop="dateCreated datePublished" datetime="2019-02-06T10:53:27+08:00">2019-02-06</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%80%E8%B5%B7%E5%AD%A6%E7%BC%96%E7%A8%8B/" itemprop="url" rel="index"><span itemprop="name">一起学编程</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>【教孩子学 Python 编程】系列 Day4：学习编程单词、二进制、与或非概念</p>
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/coding/PyTK-2019-Day04.html">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/coding/PyTK-2019-Day03.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/coding/PyTK-2019-Day03.html" class="post-title-link" itemprop="url">【教孩子学编程】第3天 打倒拦路虎，学会键盘打字</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2019-02-05 10:53:27" itemprop="dateCreated datePublished" datetime="2019-02-05T10:53:27+08:00">2019-02-05</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%80%E8%B5%B7%E5%AD%A6%E7%BC%96%E7%A8%8B/" itemprop="url" rel="index"><span itemprop="name">一起学编程</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>【教孩子学 Python 编程】系列 Day3：学习使用键盘打字</p>
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/coding/PyTK-2019-Day03.html">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/coding/PyTK-2019-Day02.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/coding/PyTK-2019-Day02.html" class="post-title-link" itemprop="url">【教孩子学编程】第2天 不同性格的电脑</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2019-02-04 10:53:27" itemprop="dateCreated datePublished" datetime="2019-02-04T10:53:27+08:00">2019-02-04</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%80%E8%B5%B7%E5%AD%A6%E7%BC%96%E7%A8%8B/" itemprop="url" rel="index"><span itemprop="name">一起学编程</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>【教孩子学 Python 编程】系列 Day2：了解计算机系统与软件概念</p>
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/coding/PyTK-2019-Day02.html">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/coding/PyTK-2019-Day01.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/coding/PyTK-2019-Day01.html" class="post-title-link" itemprop="url">【教孩子学编程】第1天 和电脑做朋友</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2019-02-03 10:53:27" itemprop="dateCreated datePublished" datetime="2019-02-03T10:53:27+08:00">2019-02-03</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%80%E8%B5%B7%E5%AD%A6%E7%BC%96%E7%A8%8B/" itemprop="url" rel="index"><span itemprop="name">一起学编程</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>【教孩子学 Python 编程】系列 Day1：了解计算机的组成</p>
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/coding/PyTK-2019-Day01.html">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/career/dont-kill-self-career.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/career/dont-kill-self-career.html" class="post-title-link" itemprop="url">大龄码农是如何把自己逼死的</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2019-01-10 18:11:46" itemprop="dateCreated datePublished" datetime="2019-01-10T18:11:46+08:00">2019-01-10</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E6%89%93%E5%B7%A5%E4%BA%BA/" itemprop="url" rel="index"><span itemprop="name">了不起的打工人</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          引子
-小C由于学习成绩不好，高中毕业没有考上大学，找了一份业务员的工作匆匆开始了职业生涯。混了两年，业绩一直上不去，在家人的建议下，去了一家高职学习物流管理。两年后，小C顺利毕业，在当地一家物流公司当叉车司机。几个月后，小C觉得这份工作太苦太累、收入低，平时喜欢玩网游的他听说做游戏很赚钱，所以暗下决心要转行。很快，小C辞职了，并说服家人让他到一家培训机构学习游戏开发。本来计划的学习时间是一年，但小C的基础不扎实，没能通过考核，经过沟通，培训机构同意让小C免费再学一年。很快一年又过去了，由于小C缺少练习和思考，虽然勉强通过考核，但仍然找不到他想象中的游戏开发工作。几个月后，在培训老师的推荐下，去
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/career/dont-kill-self-career.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/journal/2018-year-end-summary.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/journal/2018-year-end-summary.html" class="post-title-link" itemprop="url">我的2018——上懂机器学习，下懂微信建群</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2019-01-01 23:22:11" itemprop="dateCreated datePublished" datetime="2019-01-01T23:22:11+08:00">2019-01-01</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%8D%E5%AE%9A%E6%97%B6%E6%97%A5%E8%AE%B0/" itemprop="url" rel="index"><span itemprop="name">不定时日记</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          全年梳理
+    <h3><a href="/journal/2018-year-end-summary.html" itemprop="url" title="我的2018——上懂机器学习，下懂微信建群">我的2018——上懂机器学习，下懂微信建群</a></h3>
+    <div class="excerpt">
+        # 全年梳理
  * 上半年，结束了在绿色城乡公益机构的兼职工作，对社区垃圾分类有了深入认识
  * 三月份，参加了广州社科院的城市废弃物管理研讨会
  * 四月份，完成了英语流利说的课程，并成功返学费
@@ -987,186 +158,98 @@
  * 五月份，参加了零废弃联盟的 “城市生活垃圾分类” 培训，从业余环保主义者到半职业环保工作者
  * 五月份，开始尝试在家做厨余堆肥，干湿分类的第一步
  * 六月份，注销了业余时间和朋友一起成立的公司
- * 六月份，参与 R
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/journal/2018-year-end-summary.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
+ * 六月份，参与
       
     </div>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/journal/" itemprop="url" title="不定时日记"><i class="ic i-flag"></i>不定时日记</a>
+      </span>
+    </div>
+    <a href="/journal/2018-year-end-summary.html" itemprop="url" title="我的2018——上懂机器学习，下懂微信建群" class="btn">more...</a>
+  </div>
+</article>
 
+        
+<article class="item">
+  <div class="cover">
+    <a href="/reading/the-autobiography-of-benjamin-franklin.html" itemprop="url" title="《富兰克林自传》13准则"><img data-src="http://static.luhuadong.com/EuropeFromISS.jpg"></a>
+  </div>
+  <div class="info">
     
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
+<div class="meta">
+  <span class="item" title="创建时间：2018-11-27 10:28:16">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2018-11-27T10:28:16+08:00">2018-11-27</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>675</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>1 分钟</span>
+  </span>
 </div>
 
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/reading/the-autobiography-of-benjamin-franklin.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/reading/the-autobiography-of-benjamin-franklin.html" class="post-title-link" itemprop="url">《富兰克林自传》13准则</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2018-11-27 10:28:16" itemprop="dateCreated datePublished" datetime="2018-11-27T10:28:16+08:00">2018-11-27</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%80%E8%B5%B7%E8%AF%BB%E4%B9%A6%E5%91%80/" itemprop="url" rel="index"><span itemprop="name">一起读书呀</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          《富兰克林自传》这本书其实是本杰明·富兰克林写给儿子威廉·富兰克林的家书。所以这部书的创作时间很长，从1771年动笔，到1788年完成，前后经历了17年。也正因如此，阅读本书时，会给人一种代入感，就好像一位长辈在给你分享他的成长经历一样，富含睿智与哲理，又不失真实性。虽然和写书的年代相差两百多年，却依然能给人启发和鼓舞！
+    <h3><a href="/reading/the-autobiography-of-benjamin-franklin.html" itemprop="url" title="《富兰克林自传》13准则">《富兰克林自传》13准则</a></h3>
+    <div class="excerpt">
+        《富兰克林自传》这本书其实是本杰明・富兰克林写给儿子威廉・富兰克林的家书。所以这部书的创作时间很长，从 1771 年动笔，到 1788 年完成，前后经历了 17 年。也正因如此，阅读本书时，会给人一种代入感，就好像一位长辈在给你分享他的成长经历一样，富含睿智与哲理，又不失真实性。虽然和写书的年代相差两百多年，却依然能给人启发和鼓舞！
 
 阅读本书，给我的感觉是一次伟大而有趣的心灵对话，常读常新，祝愿大家都能收获一份人生修养的智慧。
 
-时间管理
-本杰明·富兰克林虽然出身贫寒，只念过两年书，却有着传奇的一生。之所以能取得这么大的成就，其中一个原因就是他出色的时间管理能力。我们来看一下他的“手帐” —— 24小时
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/reading/the-autobiography-of-benjamin-franklin.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
+# 时间管理
+本杰明・富兰克林虽然出身贫寒，只念过两年书，却有着传奇的一生。之所以能取得这么大的成就，其中一个原因就是他出色的时间管理能力。我们来看一下他的 “手帐
       
     </div>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/reading/" itemprop="url" title="一起读书呀"><i class="ic i-flag"></i>一起读书呀</a>
+      </span>
+    </div>
+    <a href="/reading/the-autobiography-of-benjamin-franklin.html" itemprop="url" title="《富兰克林自传》13准则" class="btn">more...</a>
+  </div>
+</article>
 
+        
+<article class="item">
+  <div class="cover">
+    <a href="/career/how-to-prevent-programmers-from-getting-bored-with-work.html" itemprop="url" title="如何让你的程序员不要厌倦工作"><img data-src="http://static.luhuadong.com/PicoVolcano.jpg"></a>
+  </div>
+  <div class="info">
     
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
+<div class="meta">
+  <span class="item" title="创建时间：2018-10-10 15:09:01">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2018-10-10T15:09:01+08:00">2018-10-10</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>5.1k</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>5 分钟</span>
+  </span>
 </div>
 
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/career/how-to-prevent-programmers-from-getting-bored-with-work.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/career/how-to-prevent-programmers-from-getting-bored-with-work.html" class="post-title-link" itemprop="url">如何让你的程序员不要厌倦工作</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2018-10-10 15:09:01" itemprop="dateCreated datePublished" datetime="2018-10-10T15:09:01+08:00">2018-10-10</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E6%89%93%E5%B7%A5%E4%BA%BA/" itemprop="url" rel="index"><span itemprop="name">了不起的打工人</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          文章来源：Medium，由 TECH2IPO / 创见 陈铮 翻译，首发于创见科技，转载请注明出处。
+    <h3><a href="/career/how-to-prevent-programmers-from-getting-bored-with-work.html" itemprop="url" title="如何让你的程序员不要厌倦工作">如何让你的程序员不要厌倦工作</a></h3>
+    <div class="excerpt">
+        文章来源：Medium，由 TECH2IPO / 创见 陈铮 翻译，首发于创见科技，转载请注明出处。
 
 
 
@@ -1176,129 +259,594 @@
 免责声明：我很幸运地生活在一个程序员工作岗位供大于求的地方，所以对我来说在换工作永远不止一个选择。
 
 如今我成为了 Enki 公司的合伙人与 CTO，同时我还要负责在公司里面打造工程师文化。我工作内容的一部分就是确保我们的程
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/career/how-to-prevent-programmers-from-getting-bored-with-work.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
       
     </div>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/career/" itemprop="url" title="了不起的打工人"><i class="ic i-flag"></i>了不起的打工人</a>
+      </span>
+    </div>
+    <a href="/career/how-to-prevent-programmers-from-getting-bored-with-work.html" itemprop="url" title="如何让你的程序员不要厌倦工作" class="btn">more...</a>
+  </div>
+</article>
 
+        
+<article class="item">
+  <div class="cover">
+    <a href="/movies/dead-poets-society.html" itemprop="url" title="【电影】死亡诗社（Dead Poets Society）"><img data-src="http://static.luhuadong.com/NIrelandGiants.jpg"></a>
+  </div>
+  <div class="info">
     
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
+<div class="meta">
+  <span class="item" title="创建时间：2018-10-04 22:53:15">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2018-10-04T22:53:15+08:00">2018-10-04</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>2.8k</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>3 分钟</span>
+  </span>
 </div>
 
+    <h3><a href="/movies/dead-poets-society.html" itemprop="url" title="【电影】死亡诗社（Dead Poets Society）">【电影】死亡诗社（Dead Poets Society）</a></h3>
+    <div class="excerpt">
+        # 电影简介
+《死亡诗社》是美国 1989 年上映的一部剧情电影，影片展示了关于守旧与创新、现实与浪漫、新人与老人两股势力的较量。每次看都会勾起我心中的波澜，反思现在的生活，变得有力量。
+
+# 经典语录
+ 1.  I went to the woods because I wanted to live deliberately… I wanted to live deep and suck out all the marrow of life! To put to rout all that was not life… And not when I came to die, discover 
+      
+    </div>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/%E4%B8%80%E8%B5%B7%E7%9C%8B%E5%BD%B1%E7%89%87/" itemprop="url" title="一起看影片"><i class="ic i-flag"></i>一起看影片</a>
+      </span>
+    </div>
+    <a href="/movies/dead-poets-society.html" itemprop="url" title="【电影】死亡诗社（Dead Poets Society）" class="btn">more...</a>
+  </div>
+</article>
+
+        
+<article class="item">
+  <div class="cover">
+    <a href="/career/workplace-notes-for-programmers.html" itemprop="url" title="程序员职场须知"><img data-src="http://static.luhuadong.com/EdaleValley.jpg"></a>
+  </div>
+  <div class="info">
+    
+<div class="meta">
+  <span class="item" title="创建时间：2018-09-22 18:12:55">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2018-09-22T18:12:55+08:00">2018-09-22</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>434</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>1 分钟</span>
+  </span>
+</div>
+
+    <h3><a href="/career/workplace-notes-for-programmers.html" itemprop="url" title="程序员职场须知">程序员职场须知</a></h3>
+    <div class="excerpt">
+        # 程序员如何避免裁员
+有时候被裁员并非能力问题，而是企业或自身年龄的问题，这些算是不可抗力。那程序员应该如何最大程度地避免裁员呢？
+
+ * ** 技术是根本。** 对于不属于自己的模块、整个项目的架构等等，如果有条件，都要去了解。
+ * ** 业余时间一定要学习。** 把一门技术做深后，再去拓展，不要轻易地变换方向，对于技术趋势，要有自己的判断和理解。
+ * ** 不要局限于程序员这个角色。** 业务、产品和设计，都要有所看法，如果有发言权，都要尽力地说出来。
+ * ** 学习管理者的思维。** 知道公司的愿景、领导的意图和愿景。
+ * ** 提高沟通能力。** 学会沟通和待人接物，做到与人
+      
+    </div>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/career/" itemprop="url" title="了不起的打工人"><i class="ic i-flag"></i>了不起的打工人</a>
+      </span>
+    </div>
+    <a href="/career/workplace-notes-for-programmers.html" itemprop="url" title="程序员职场须知" class="btn">more...</a>
+  </div>
+</article>
+
+        
+<article class="item">
+  <div class="cover">
+    <a href="/zerowaste/2018-czwa-chengdu-visit.html" itemprop="url" title="零废弃联盟 | 成都参访学到了什么"><img data-src="http://static.luhuadong.com/MinouLighthouse.jpg"></a>
+  </div>
+  <div class="info">
+    
+<div class="meta">
+  <span class="item" title="创建时间：2018-08-05 12:21:23">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2018-08-05T12:21:23+08:00">2018-08-05</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>5k</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>5 分钟</span>
+  </span>
+</div>
+
+    <h3><a href="/zerowaste/2018-czwa-chengdu-visit.html" itemprop="url" title="零废弃联盟 | 成都参访学到了什么">零废弃联盟 | 成都参访学到了什么</a></h3>
+    <div class="excerpt">
+        听说成都地区的垃圾分类和末端处置做得不错，7 月 31 日至 8 月 1 日，R 先生跟随零废弃参访团在成都进行了游学参访。两天的参访中，我们学习到了成都根与芽在八宝街社区就地解决厨余垃圾的成功经验，了解到零废弃校园打造过程中的点点滴滴，看到了闲品再生和奥北环保这样不依赖于政府补贴的可持续运营的垃圾分类和资源化的商业模式，也见识到了大爱感恩环保科技在垃圾分类后端处理的情况，以及不可或缺的环保教育。
+
+事不宜迟，开片！
 
 
 
+# 成都根与芽八宝街社区
+
+
+八宝街社区合影留念
+
+厨余垃圾（干湿分离）一直是我国城市垃圾分类中的痛点和难点，成都根与芽在八宝街社区进行厨余堆肥的成功经验，不仅给我们提供了
+      
+    </div>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/%E4%B8%80%E8%B5%B7%E9%9B%B6%E5%BA%9F%E5%BC%83/" itemprop="url" title="一起零废弃"><i class="ic i-flag"></i>一起零废弃</a>
+      </span>
+    </div>
+    <a href="/zerowaste/2018-czwa-chengdu-visit.html" itemprop="url" title="零废弃联盟 | 成都参访学到了什么" class="btn">more...</a>
+  </div>
+</article>
+
+        
+<article class="item">
+  <div class="cover">
+    <a href="/zerowaste/2018-guangzhou-waste-management.html" itemprop="url" title="解读 | 广州市生活垃圾分类管理条例"><img data-src="http://static.luhuadong.com/JTNPMilkyWay.jpg"></a>
+  </div>
+  <div class="info">
+    
+<div class="meta">
+  <span class="item" title="创建时间：2018-07-13 11:23:33">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2018-07-13T11:23:33+08:00">2018-07-13</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>14k</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>13 分钟</span>
+  </span>
+</div>
+
+    <h3><a href="/zerowaste/2018-guangzhou-waste-management.html" itemprop="url" title="解读 | 广州市生活垃圾分类管理条例">解读 | 广州市生活垃圾分类管理条例</a></h3>
+    <div class="excerpt">
+        2018 年 4 月，广州市人大常委会出台《广州市生活垃圾分类管理条例》，并批准于 2018 年 7 月 1 日正式实施。
+
+其实早在 2011 年，广州市政府就已经出台了《广州市生活垃圾分类管理暂行规定》，并一举成为全国首部针对生活垃圾分类的规范性文件。到了 2015 年，又基于《暂行规定》修订并颁布了《广州市城市生活垃圾分类管理规定》。现在 2018 年，又在《规定》的基础上颁布了更加细化的改进版《广州市生活垃圾分类管理条例》。
+
+当然啦，相比于此前出台的两部地方规范性文件，此次颁布的《条例》作为人大通过正式立法程序制定的地方法规，将更具效力和权威性。
+
+
+
+但据 R 先生观察，其实很多小
+      
+    </div>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/%E4%B8%80%E8%B5%B7%E9%9B%B6%E5%BA%9F%E5%BC%83/" itemprop="url" title="一起零废弃"><i class="ic i-flag"></i>一起零废弃</a>
+      </span>
+    </div>
+    <a href="/zerowaste/2018-guangzhou-waste-management.html" itemprop="url" title="解读 | 广州市生活垃圾分类管理条例" class="btn">more...</a>
+  </div>
+</article>
+
+        
+<article class="item">
+  <div class="cover">
+    <a href="/zerowaste/a-zero-waste-eating-watermelon-guide.html" itemprop="url" title="零废弃吃瓜指南"><img data-src="http://static.luhuadong.com/ProcidaItaly.jpg"></a>
+  </div>
+  <div class="info">
+    
+<div class="meta">
+  <span class="item" title="创建时间：2018-06-05 22:37:25">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2018-06-05T22:37:25+08:00">2018-06-05</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>338</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>1 分钟</span>
+  </span>
+</div>
+
+    <h3><a href="/zerowaste/a-zero-waste-eating-watermelon-guide.html" itemprop="url" title="零废弃吃瓜指南">零废弃吃瓜指南</a></h3>
+    <div class="excerpt">
+        炎炎夏日，少不了空调、WiFi、西瓜。那么，如何解锁零废弃吃瓜新技能？
+
+
+
+# Step1：挑个好瓜
+找个瓜店，pia pia pia 地拍瓜，直到老板看不过眼，过来帮你挑个好瓜。
+
+
+
+# Step2：不用塑料袋
+买单时跟老板说不用塑料袋，老板看你抱着瓜傻傻的样子，可能顺便就给你打个折了。
+
+
+
+# Step3：准备吃瓜
+把瓜切开，吃不完的另一半瓜，用蜂蜡布包裹，放进冰箱保鲜。然后，就可以巴滋巴滋地吃瓜啦～
+
+
+
+咳咳，敲黑板！上面的切法是错误的，因为蜂蜡布很难将西瓜完全包裹。所以应该横着切，有利于保存西瓜内部水分，横切面包裹起来也方便多了。
+
+
+
+# Step4：瓜皮堆肥
+把瓜皮和瓜籽收
+      
+    </div>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/%E4%B8%80%E8%B5%B7%E9%9B%B6%E5%BA%9F%E5%BC%83/" itemprop="url" title="一起零废弃"><i class="ic i-flag"></i>一起零废弃</a>
+      </span>
+    </div>
+    <a href="/zerowaste/a-zero-waste-eating-watermelon-guide.html" itemprop="url" title="零废弃吃瓜指南" class="btn">more...</a>
+  </div>
+</article>
+
+        
+<article class="item">
+  <div class="cover">
+    <a href="/zerowaste/2018-czwa-guangzhou-training.html" itemprop="url" title="2018 社区垃圾分类技能培训笔记（广州）"><img data-src="http://static.luhuadong.com/OrcaNorway.jpg"></a>
+  </div>
+  <div class="info">
+    
+<div class="meta">
+  <span class="item" title="创建时间：2018-05-15 17:08:28">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2018-05-15T17:08:28+08:00">2018-05-15</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>7.8k</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>7 分钟</span>
+  </span>
+</div>
+
+    <h3><a href="/zerowaste/2018-czwa-guangzhou-training.html" itemprop="url" title="2018 社区垃圾分类技能培训笔记（广州）">2018 社区垃圾分类技能培训笔记（广州）</a></h3>
+    <div class="excerpt">
+        时间：2018.05.13~2018.05.15
+
+地点：广州 T.I.T 创意园
+
+# 零废弃联盟
+# 简介
+中国零废弃联盟（简称零盟），成立于 2011 年 10 月，由芜湖生态中心、自然之友、自然大学、宜居广州四家机构共同组成零盟秘书处（网络发展）。零盟旨在推动中国垃圾危机的解决，促进政府、企业、学者、公众及公益组织等社会各界在垃圾管理过程中的对话与合作。
+
+零盟的定位：引领者，支持者，联结者
+
+壹起分社区计划（进驻社区、开展垃圾分类的前后端）
+
+ * 壹起分 —— 城市垃圾技能培训
+ * 壹起分 —— 城市零废弃参访
+
+# 2018 年零盟重要事件
+ 1. 限塑令十周年发布会（5 月 
+      
+    </div>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/%E4%B8%80%E8%B5%B7%E9%9B%B6%E5%BA%9F%E5%BC%83/" itemprop="url" title="一起零废弃"><i class="ic i-flag"></i>一起零废弃</a>
+      </span>
+    </div>
+    <a href="/zerowaste/2018-czwa-guangzhou-training.html" itemprop="url" title="2018 社区垃圾分类技能培训笔记（广州）" class="btn">more...</a>
+  </div>
+</article>
+
+        
+<article class="item">
+  <div class="cover">
+    <a href="/journal/2017-year-end-summary.html" itemprop="url" title="我的2017——作为一名程序员，我重新思考了我生活的目标"><img data-src="http://static.luhuadong.com/QingMing2023.jpg"></a>
+  </div>
+  <div class="info">
+    
+<div class="meta">
+  <span class="item" title="创建时间：2018-02-17 22:02:12">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2018-02-17T22:02:12+08:00">2018-02-17</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>2.6k</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>2 分钟</span>
+  </span>
+</div>
+
+    <h3><a href="/journal/2017-year-end-summary.html" itemprop="url" title="我的2017——作为一名程序员，我重新思考了我生活的目标">我的2017——作为一名程序员，我重新思考了我生活的目标</a></h3>
+    <div class="excerpt">
+        今年 CSDN 没有组织程序员年终总结征文活动，于是我这篇文章在云笔记中躺了好几个星期，今天（大年初二）—— 终于有点时间和心情把它写完，回想过去一年里所发生的事，嘿，时间过得真快。
+
+
+
+
+
+
+# 工作
+首先，工作上不紧不慢、按部就班，还是以嵌入式软件工程师的身份走完了整个 2017，完成了公司计划内的两个项目。工作内容还是传统通信行业的一些嵌入式和应用层的软件开发，涉及 ARM、Linux、FreeRTOS、音视频，以及一些通信协议和特定应用场合的业务逻辑等内容。
+
+但是总体来说，工作上并没有太多亮点（或者说给我带来太大的自豪感和满足感），在国企做研发，给我的感觉就是 —— 没有研只有发。
+      
+    </div>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/journal/" itemprop="url" title="不定时日记"><i class="ic i-flag"></i>不定时日记</a>
+      </span>
+    </div>
+    <a href="/journal/2017-year-end-summary.html" itemprop="url" title="我的2017——作为一名程序员，我重新思考了我生活的目标" class="btn">more...</a>
+  </div>
+</article>
+
+    </div>
+
+  </div>
+
+  
   <nav class="pagination">
-    <a class="extend prev" rel="prev" href="/page/24/"><i class="fa fa-angle-left" aria-label="上一页"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/24/">24</a><span class="page-number current">25</span><a class="page-number" href="/page/26/">26</a><span class="space">&hellip;</span><a class="page-number" href="/page/30/">30</a><a class="extend next" rel="next" href="/page/26/"><i class="fa fa-angle-right" aria-label="下一页"></i></a>
+    <div class="inner">
+    <a class="extend prev" rel="prev" href="/page/24/"><i class="ic i-angle-left" aria-label="上一页"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/24/">24</a><span class="page-number current">25</span><a class="page-number" href="/page/26/">26</a><span class="space">&hellip;</span><a class="page-number" href="/page/29/">29</a><a class="extend next" rel="next" href="/page/26/"><i class="ic i-angle-right" aria-label="下一页"></i></a>
+    </div>
   </nav>
 
 
-<script>
-  window.addEventListener('tabs:register', () => {
-    let { activeClass } = CONFIG.comments;
-    if (CONFIG.comments.storage) {
-      activeClass = localStorage.getItem('comments_active') || activeClass;
-    }
-    if (activeClass) {
-      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
-      if (activeTab) {
-        activeTab.click();
-      }
-    }
-  });
-  if (CONFIG.comments.storage) {
-    window.addEventListener('tabs:click', event => {
-      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
-      const commentClass = event.target.classList[1];
-      localStorage.setItem('comments_active', commentClass);
-    });
-  }
-</script>
+
+        </div>
+        <div id="sidebar">
+          
+<div class="inner">
+
+  <div class="panels">
+    <div class="inner">
+      <div class="contents panel pjax" data-title="文章目录">
+      </div>
+      <div class="related panel pjax" data-title="系列文章">
+      </div>
+      <div class="overview panel" data-title="站点概览">
+        <div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <img class="image" itemprop="image" alt="Rudy Lo"
+      data-src="/images/lu_20221221.jpg">
+  <p class="name" itemprop="name">Rudy Lo</p>
+  <div class="description" itemprop="description">阿基米东的网络日志</div>
 </div>
-  </main>
 
-  <footer class="footer">
-    <div class="footer-inner">
+<nav class="state">
+    <div class="item posts">
+      <a href="/archives/">
+        <span class="count">295</span>
+        <span class="name">文章</span>
+      </a>
+    </div>
+    <div class="item categories">
+      <a href="/categories/">
+        <span class="count">35</span>
+        <span class="name">分类</span>
+      </a>
+    </div>
+    <div class="item tags">
+      <a href="/tags/">
+        <span class="count">80</span>
+        <span class="name">标签</span>
+      </a>
+    </div>
+</nav>
 
-
-<div class="copyright">
-  &copy; 
-  <span itemprop="copyrightYear">2023</span>
-  <span class="with-love">
-    <i class="fa fa-heart"></i>
-  </span>
-  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
+<div class="social">
+      <span class="exturl item github" data-url="aHR0cHM6Ly9naXRodWIuY29tL2x1aHVhZG9uZw==" title="https:&#x2F;&#x2F;github.com&#x2F;luhuadong"><i class="ic i-github"></i></span>
+      <span class="exturl item csdn" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x1X2VtYmVkZGVk" title="https:&#x2F;&#x2F;blog.csdn.net&#x2F;lu_embedded"><i class="ic i-address-card"></i></span>
+      <span class="exturl item zhihu" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9hcm1zdHJvbmcyMDE0" title="https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014"><i class="ic i-zhihu"></i></span>
+      <span class="exturl item douban" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC83MzAwNDcv" title="https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;"><i class="ic i-douban"></i></span>
+      <span class="exturl item weibo" data-url="aHR0cHM6Ly93ZWliby5jb20vdS8yMDAwMzkxOTUx" title="https:&#x2F;&#x2F;weibo.com&#x2F;u&#x2F;2000391951"><i class="ic i-weibo"></i></span>
+      <span class="exturl item email" data-url="bWFpbHRvOmx1aHVhZG9uZ0AxNjMuY29t" title="mailto:luhuadong@163.com"><i class="ic i-envelope"></i></span>
 </div>
-  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
+
+<ul class="menu">
+  
+    
+  <li class="item">
+    <a href="/" rel="section"><i class="ic i-home"></i>首页</a>
+  </li>
+
+    
+  <li class="item">
+    <a href="/about/" rel="section"><i class="ic i-user"></i>关于</a>
+  </li>
+
+        
+  <li class="item dropdown">
+      <a href="javascript:void(0);"><i class="ic i-feather"></i>文章</a>
+    <ul class="submenu">
+
+        
+  <li class="item">
+    <a href="/archives/" rel="section"><i class="ic i-list-alt"></i>归档</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/categories/" rel="section"><i class="ic i-th"></i>分类</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/tags/" rel="section"><i class="ic i-tags"></i>标签</a>
+  </li>
+
+  </ul>
+
+</ul>
+
+      </div>
+    </div>
   </div>
 
-    </div>
-  </footer>
+  <ul id="quick">
+    <li class="prev pjax">
+        <a href="/page/24/" rel="prev" title="上一篇"><i class="ic i-chevron-left"></i></a>
+    </li>
+    <li class="up"><i class="ic i-arrow-up"></i></li>
+    <li class="down"><i class="ic i-arrow-down"></i></li>
+    <li class="next pjax">
+        <a href="/page/26/" rel="next" title="下一篇"><i class="ic i-chevron-right"></i></a>
+    </li>
+    <li class="percent"></li>
+  </ul>
+</div>
 
-  
-  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+        </div>
+        <div class="dimmer"></div>
+      </div>
+    </main>
+    <footer id="footer">
+      <div class="inner">
+        <div class="widgets">
+          
 
-  
-<script src="/js/local-search.js"></script>
+        </div>
+        <div class="status">
+  <div class="copyright">
+    
+    &copy; 2014 – 
+    <span itemprop="copyrightYear">2023</span>
+    <span class="with-love">
+      <i class="ic i-sakura rotate"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">Rudy Lo @ Freedom Blog</span>
+  </div>
+  <div class="count">
+    <span class="post-meta-item-icon">
+      <i class="ic i-chart-area"></i>
+    </span>
+    <span title="站点总字数">591k 字</span>
 
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="ic i-coffee"></i>
+    </span>
+    <span title="站点阅读时长">8:57</span>
+  </div>
+  <div class="powered-by">
+    基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
+  </div>
+</div>
 
-
-
-
-
-  
-
-
-
-
-  <script>
-  if (typeof MathJax === 'undefined') {
-    window.MathJax = {
-      tex: {
-        inlineMath: {'[+]': [['$', '$']]},
-        tags: 'none'
+      </div>
+    </footer>
+  </div>
+<script data-config type="text/javascript">
+  var LOCAL = {
+    path: 'page/25/',
+    favicon: {
+      show: "（●´3｀●）やれやれだぜ",
+      hide: "(´Д｀)大変だ！"
+    },
+    search : {
+      placeholder: "文章搜索",
+      empty: "关于 「 ${query} 」，什么也没搜到",
+      stats: "${time} ms 内找到 ${hits} 条结果"
+    },
+    valine: true,fancybox: true,
+    copyright: '复制成功，转载请遵守 <i class="ic i-creative-commons"></i>BY-NC-SA 协议。',
+    ignores : [
+      function(uri) {
+        return uri.includes('#');
       },
-      options: {
-        renderActions: {
-          insertedScript: [200, () => {
-            document.querySelectorAll('mjx-container').forEach(node => {
-              const target = node.parentNode;
-              if (target.nodeName.toLowerCase() === 'li') {
-                target.parentNode.classList.add('has-jax');
-              }
-            });
-          }, '', false]
-        }
+      function(uri) {
+        return new RegExp(LOCAL.path+"$").test(uri);
       }
-    };
-    const script = document.createElement('script');
-    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
-    script.defer = true;
-    document.head.appendChild(script);
-  } else {
-    MathJax.startup.document.state(0);
-    MathJax.typesetClear();
-    MathJax.texReset();
-    MathJax.typeset();
-  }
+    ]
+  };
 </script>
 
+<script src="https://cdn.polyfill.io/v2/polyfill.js"></script>
+
+<script src="//cdn.jsdelivr.net/combine/npm/pace-js@1.0.2/pace.min.js,npm/pjax@0.2.8/pjax.min.js,npm/whatwg-fetch@3.4.0/dist/fetch.umd.min.js,npm/animejs@3.2.0/lib/anime.min.js,npm/algoliasearch@4/dist/algoliasearch-lite.umd.js,npm/instantsearch.js@4/dist/instantsearch.production.min.js,npm/lozad@1/dist/lozad.min.js,npm/quicklink@2/dist/quicklink.umd.js"></script>
+
+<script src="/js/app.js?v=0.2.5"></script>
+
+
+  <script data-pjax>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
 
 
 </body>

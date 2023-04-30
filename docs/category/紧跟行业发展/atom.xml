@@ -1,0 +1,297 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://luhuadong.com</id>
+    <title>成为自由人 • Posts by &#34;紧跟行业发展&#34; category</title>
+    <link href="https://luhuadong.com" />
+    <updated>2021-10-21T03:19:39.000Z</updated>
+    <category term="商业" />
+    <category term="成长" />
+    <category term="日记" />
+    <category term="创业" />
+    <category term="家居" />
+    <category term="互联网" />
+    <category term="读书笔记" />
+    <category term="工程师" />
+    <category term="爱" />
+    <category term="名言" />
+    <category term="奋斗" />
+    <category term="信息世界" />
+    <category term="管理" />
+    <category term="程序员" />
+    <category term="职场" />
+    <category term="人生" />
+    <category term="物联网" />
+    <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
+    <category term="创客" />
+    <category term="比赛" />
+    <category term="科技向善" />
+    <category term="英语" />
+    <category term="学习" />
+    <category term="环保" />
+    <category term="碳中和" />
+    <category term="种植" />
+    <category term="健身" />
+    <category term="地理" />
+    <category term="城市" />
+    <category term="气象爱好者" />
+    <category term="指南" />
+    <category term="自律" />
+    <category term="思维" />
+    <category term="健康" />
+    <category term="Hexo" />
+    <category term="科普" />
+    <category term="可持续" />
+    <category term="能源" />
+    <category term="职业" />
+    <category term="时间管理" />
+    <category term="工作" />
+    <category term="总结" />
+    <category term="慈济" />
+    <category term="RT-Thread" />
+    <category term="开源" />
+    <category term="思考" />
+    <category term="生活" />
+    <category term="猫" />
+    <category term="幸福" />
+    <category term="修身" />
+    <category term="写书" />
+    <category term="milestone" />
+    <category term="地铁" />
+    <category term="Markdown" />
+    <category term="计划" />
+    <category term="股票" />
+    <category term="理财" />
+    <category term="投资" />
+    <category term="财富" />
+    <category term="保险" />
+    <category term="纪录片" />
+    <category term="自由" />
+    <category term="电影" />
+    <category term="TED演讲" />
+    <category term="时间" />
+    <category term="心理学" />
+    <category term="无线电爱好者" />
+    <category term="亲密关系" />
+    <category term="农业" />
+    <category term="游泳" />
+    <category term="励志" />
+    <category term="演讲" />
+    <category term="蔬食" />
+    <category term="电台主播" />
+    <category term="WordPress" />
+    <category term="垃圾分类" />
+    <category term="零废弃" />
+    <category term="低碳" />
+    <entry>
+        <id>https://luhuadong.com/industry/search-engines.html</id>
+        <title>国内外常用搜索引擎</title>
+        <link rel="alternate" href="https://luhuadong.com/industry/search-engines.html"/>
+        <content type="html">&lt;h2 id=&#34;谷歌&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#谷歌&#34;&gt;#&lt;/a&gt; 谷歌&lt;/h2&gt;
+&lt;p&gt;谷歌（Google）搜索是由 Google 公司推出的一个互联网搜索引擎，它是互联网上最大、影响最广泛的搜索引擎。Google 每日透过不同的服务，处理来自世界各地超过 30 亿次的查询。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbQ==&#34;&gt;https://www.google.com&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/industry/google-search.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;必应&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#必应&#34;&gt;#&lt;/a&gt; 必应&lt;/h2&gt;
+&lt;p&gt;必应搜索是由微软公司出品的国际搜索引擎。针对中国用户，提供国内版和国际版两个搜索域。令人印象深刻的是，每次打开必应搜索，就能欣赏到每日更新的必应美图及背后的图片故事，让每次搜索都从一个愉悦的心情开始。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmluZy5jb20=&#34;&gt;https://www.bing.com&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/industry/bing-search.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;百度&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#百度&#34;&gt;#&lt;/a&gt; 百度&lt;/h2&gt;
+&lt;p&gt;百度是中国互联网用户最常用的搜索引擎，每天完成上亿次搜索，也是全球最大的中文搜索引擎。2000 年 1 月由李彦宏、徐勇两人创立于北京中关村，致力于向人们提供 “简单，可依赖” 的信息获取方式。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmFpZHUuY29t&#34;&gt;https://www.baidu.com&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/industry/baidu-search.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;360搜索&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#360搜索&#34;&gt;#&lt;/a&gt; 360 搜索&lt;/h2&gt;
+&lt;p&gt;全球第二大的中文搜索引擎，依托于 360 母品牌的安全优势，全面拦截各类钓鱼欺诈等恶意网站，提供更放心的搜索服务。360 搜索的前身是 “好搜搜索”， 2016 年 2 月 1 日，好搜搜索更名为 360 搜索，域名也从 “&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2hhb3NvdS5jb20=&#34;&gt;haosou.com&lt;/span&gt;”，切换为更易记忆、更易输入的 “&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3NvLmNvbQ==&#34;&gt;so.com&lt;/span&gt;”。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc28uY29t&#34;&gt;https://www.so.com&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/industry/360-search.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;搜狗搜索&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#搜狗搜索&#34;&gt;#&lt;/a&gt; 搜狗搜索&lt;/h2&gt;
+&lt;p&gt;搜狗搜索是搜狐公司于 2004 年 8 月 3 日推出的全球首个第三代互动式中文搜索引擎。致力于中文互联网信息的深度挖掘，从用户需求出发，以人工智能新算法，分析和理解用户可能的查询意图，对不同的搜索结果进行分类，对相同的搜索结果进行聚类，在用户查询和搜索引擎返回结果的过程中，引导用户更快速准确定位自己所关注的内容。&lt;/p&gt;
+&lt;p&gt;值得关注的是，搜狗搜索提供了微信订阅号的文章搜索功能。（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93ZWl4aW4uc29nb3UuY29t&#34;&gt;https://weixin.sogou.com&lt;/span&gt;）&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc29nb3UuY29t&#34;&gt;https://www.sogou.com&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/industry/sogou-search.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;yandex&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#yandex&#34;&gt;#&lt;/a&gt; Yandex&lt;/h2&gt;
+&lt;p&gt;Yandex 号称 “东欧第一搜索门户”，是俄罗斯网络拥有用户较多的网站。Yandex 的服务包括搜索、最近新闻、地图和百科、电子信箱、电子商务及其他服务。Yandex 非常注重区域网站工作，所有的服务都考虑到了使用者的地理位置：可以在区域网站上搜索，“新闻” 里提供地方信息，“市场” 里首先就提供地区商店的物品。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly95YW5kZXguY29t&#34;&gt;https://yandex.com&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/industry/yandex-search.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;神马搜索&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#神马搜索&#34;&gt;#&lt;/a&gt; 神马搜索&lt;/h2&gt;
+&lt;p&gt;神马搜索是由知名的移动浏览器 UC 优视与中国互联网行业领军企业阿里巴巴共同发起组建，是全球第一款完全基于移动互联网的搜索引擎。它是专注移动互联网的搜索引擎，基于阿里云搜索的积累和 UC 浏览器的自身的发展，为企业提供全方位推广。也就是说，神马搜索只专注于移动搜索，不提供 PC 端搜索功能，目前已成为移动市场里最大的贡献流量搜索引擎之一。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tLnNtLmNu&#34;&gt;https://m.sm.cn&lt;/span&gt;&lt;/p&gt;
+&lt;img data-src=&#34;/images/industry/sm-search.jpeg&#34; width=&#34;520&#34;&gt;
+</content>
+        <category term="互联网" />
+        <updated>2021-10-21T03:19:39.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/industry/how-to-learn-electrical-engineering.html</id>
+        <title>电子电气工程师（EE）学习路线</title>
+        <link rel="alternate" href="https://luhuadong.com/industry/how-to-learn-electrical-engineering.html"/>
+        <content type="html">&lt;h2 id=&#34;说明&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#说明&#34;&gt;#&lt;/a&gt; 说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;EE&lt;/strong&gt;：&lt;br&gt;
+通常指电气工程（Electrical Engineering）或电子工程（Electronic Engineering），又或者电子电气工程（Electrical and Electronics Engineering，EEE）。简单来说，是一门以电磁学为基础，研究利用电与磁现象传输、转化能量的工程学科，其研究内容涵盖了产生电能（发电）、传输电能（输配电）、转化电能、储存电能、使用电能（用电器）等环节。而电子工程则是电气工程的一个分支，涉及电磁频谱的使用以及集成电路和晶体管等电子设备的应用。也就是说，电气工程偏向强电（能源），电子工程偏向弱电（计算机硬件）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CS&lt;/strong&gt;：&lt;br&gt;
+通常指计算机科学（Computer Science），是一门包括各种各样与计算机信息处理相关的系统学科，从抽象的操作系统、数据结构、算法分析等，到更具体的如编程语言、程序设计、网络安全、数据分析、人工智能等。最常见的工作就是潜伏在各大 IT 公司的各类程序员们。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;STEM&lt;/strong&gt;：&lt;br&gt;
+STEM 是科学（Science）、技术（Technology）、工程（Engineering）和数学（Mathematics）四个单词的缩写，意味着它融合了这四门学科的知识与技能。能够同时掌握这几门学科的人都是很厉害的，而且他们可能在艺术和人文方面也颇有见解。这类人有时也被称为创客（Maker）或极客（Geek），拥有自驱力极强的学习与创造能力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;代表人物：尼古拉・特斯拉、稚晖君&lt;/p&gt;
+&lt;h2 id=&#34;学习路线&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#学习路线&#34;&gt;#&lt;/a&gt; 学习路线&lt;/h2&gt;
+&lt;p&gt;基础课程学习类：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;电路 —— 推荐课程：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueHVldGFuZ3guY29tL2NvdXJzZS9USFUwODA2MTAwMDI5NC83NzU0MzAw&#34;&gt;电路原理 - 清华大学&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;机器人设计&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#机器人设计&#34;&gt;#&lt;/a&gt; 机器人设计&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;机械设计&lt;/li&gt;
+&lt;li&gt;硬件设计&lt;/li&gt;
+&lt;li&gt;嵌入式系统&lt;/li&gt;
+&lt;li&gt;算法&lt;/li&gt;
+&lt;li&gt;机器学习&lt;/li&gt;
+&lt;li&gt;艺术&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuemhpaHUuY29tL3F1ZXN0aW9uLzIxNDE1MTA5&#34;&gt;我想成为电气工程师，学习电气有哪些可以利用的好的网络资源？&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="工程师" />
+        <category term="创客" />
+        <category term="学习" />
+        <updated>2021-10-09T07:57:09.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/industry/gen-z-in-words.html</id>
+        <title>Z 世代的互联网“黑话”</title>
+        <link rel="alternate" href="https://luhuadong.com/industry/gen-z-in-words.html"/>
+        <content type="html">&lt;p&gt;00 后网络 “黑话” 与弹幕文化相伴相生。弹幕最早来源于日本动漫网站，经过二次元文化的传播，它在国内逐渐获得了一批拥趸，AcFun、哔哩哔哩等网站也因此获得了巨大的流量，尤其受到 00 后的喜爱。弹幕的本义就是 “屏幕上的文字像密集的子弹一样扫射而过”，只是体现了网络时代海量数据，但因为任何网民都能加入发弹幕（类似网上发表评论）的游戏中，它因此具备了极强的互动性。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;yyds：永远的神&lt;/li&gt;
+&lt;li&gt;zqsg：真情实感&lt;/li&gt;
+&lt;li&gt;awsl：啊我死了&lt;/li&gt;
+&lt;li&gt;hhh：哈哈哈&lt;/li&gt;
+&lt;li&gt;xswl：笑死我了&lt;/li&gt;
+&lt;li&gt;dbg：对不起&lt;/li&gt;
+&lt;li&gt;jdl：讲道理&lt;/li&gt;
+&lt;li&gt;drl：打扰了&lt;/li&gt;
+&lt;li&gt;bdjw：不懂就问&lt;/li&gt;
+&lt;li&gt;nsdd：你说得对&lt;/li&gt;
+&lt;li&gt;plgg：漂亮哥哥&lt;/li&gt;
+&lt;li&gt;plmm：漂亮妹妹&lt;/li&gt;
+&lt;li&gt;duck 不必：大可不必&lt;/li&gt;
+&lt;li&gt;xyxf：血雨腥风&lt;/li&gt;
+&lt;li&gt;yjgj：有一句说一句&lt;/li&gt;
+&lt;li&gt;ssfd：瑟瑟发抖&lt;/li&gt;
+&lt;li&gt;cdx：处对象&lt;/li&gt;
+&lt;li&gt;cbx：处奔现&lt;/li&gt;
+&lt;li&gt;cqy：处 Q 友&lt;/li&gt;
+&lt;li&gt;xjj：小姐姐&lt;/li&gt;
+&lt;li&gt;深藏 blue：深藏不露&lt;/li&gt;
+&lt;li&gt;osso：哦，是哦&lt;/li&gt;
+&lt;li&gt;blx：玻璃心&lt;/li&gt;
+&lt;li&gt;mly：let me love you&lt;/li&gt;
+&lt;li&gt;nnzyb：be back soon 很快回来&lt;/li&gt;
+&lt;li&gt;bg：boy &amp;amp; girl&lt;/li&gt;
+&lt;li&gt;gzs：工作室&lt;/li&gt;
+&lt;li&gt;sk：生快&lt;/li&gt;
+&lt;li&gt;gnps：关你屁事&lt;/li&gt;
+&lt;li&gt;tsg：图书馆&lt;/li&gt;
+&lt;li&gt;B4N：再见&lt;/li&gt;
+&lt;li&gt;ball ball you：意思是 “请”&lt;/li&gt;
+&lt;li&gt;BBS：图书馆&lt;/li&gt;
+&lt;li&gt;yq：友情&lt;/li&gt;
+&lt;li&gt;BFF：Best Friens forever&lt;/li&gt;
+&lt;li&gt;AFAIK：As far as I know 据我所知&lt;/li&gt;
+&lt;li&gt;ylq：娱乐圈&lt;/li&gt;
+&lt;li&gt;nnnnp：牛逼&lt;/li&gt;
+&lt;li&gt;NBCS：Nobody Cares&lt;/li&gt;
+&lt;li&gt;lwjcf：来我家吃饭&lt;/li&gt;
+&lt;li&gt;bhs：来嗨森&lt;/li&gt;
+&lt;li&gt;yqjj：氧气姐姐&lt;/li&gt;
+&lt;li&gt;hyq：后援会&lt;/li&gt;
+&lt;li&gt;qjdc：倾家荡产&lt;/li&gt;
+&lt;li&gt;ns：泥塑（娘化）&lt;/li&gt;
+&lt;li&gt;btw：By the way&lt;/li&gt;
+&lt;li&gt;GN：Good Night&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="互联网" />
+        <updated>2021-10-02T14:45:37.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/industry/%E6%96%B0%E5%AA%92%E4%BD%93%E6%97%B6%E4%BB%A3%E7%BD%91%E7%BB%9C%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.html</id>
+        <title>新媒体时代网络名词解释</title>
+        <link rel="alternate" href="https://luhuadong.com/industry/%E6%96%B0%E5%AA%92%E4%BD%93%E6%97%B6%E4%BB%A3%E7%BD%91%E7%BB%9C%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.html"/>
+        <content type="html">&lt;h2 id=&#34;网媒&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#网媒&#34;&gt;#&lt;/a&gt; 网媒&lt;/h2&gt;
+&lt;p&gt;网媒就是以网络为载体的媒体。常见的博客、新浪微博、微信公众号、今日头条、哔哩哔哩等平台上的内容都是互联网媒体，即网媒。相对来说，电视、广播、报刊、杂志等则称为传统媒体。&lt;/p&gt;
+&lt;h2 id=&#34;自媒体&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#自媒体&#34;&gt;#&lt;/a&gt; 自媒体&lt;/h2&gt;
+&lt;p&gt;自媒体的英文是 “We Media”，是指普通大众（个人或团队）通过网络等途径向外发布他们本身的事实和新闻的传播方式。是一种私人化、平民化、普泛化、自主化的知识分享与传播新途径。&lt;/p&gt;
+&lt;h2 id=&#34;自媒体平台&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#自媒体平台&#34;&gt;#&lt;/a&gt; 自媒体平台&lt;/h2&gt;
+&lt;p&gt;从字面上可以理解，自媒体平台就是以自媒体为管理中心的平台。如今的自媒体平台非常多，目前比较受欢迎的有微信公众平台、抖音、B 站、今日头条、百家号等等。这些自媒体平台都是超级流量平台，但内容形式、算法推荐机制有所不同。&lt;/p&gt;
+&lt;h2 id=&#34;网红经济&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#网红经济&#34;&gt;#&lt;/a&gt; 网红经济&lt;/h2&gt;
+&lt;p&gt;网红经济就是指通过粉丝与被关注的人产生能够挣钱的的事。过去，被关注的一般都是明星名人，或是制造行业巨头等。例如篮球运动员科比球衣、电影明星李易峰、文学家韩寒书粉等。如今，有越来越多自媒体在获得受众关注后，也能利用其知名度进行一定方式的变现，这就是网红经济，或者称为粉丝经济。&lt;/p&gt;
+&lt;h2 id=&#34;鱼塘&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#鱼塘&#34;&gt;#&lt;/a&gt; 鱼塘&lt;/h2&gt;
+&lt;p&gt;此鱼塘并不是指农场里养魚的塘。在互联网经济中，是指为了获取流量，是把人比成鱼，先把人养起来，再进行收割的形式。&lt;/p&gt;
+&lt;h2 id=&#34;互联网&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#互联网&#34;&gt;#&lt;/a&gt; 互联网 +&lt;/h2&gt;
+&lt;p&gt;就是说传统产业 + 互联网方法，例如线下推广开个早餐店，刚开始用美团外卖送餐员，也可以叫互联网 + 了。&lt;/p&gt;
+&lt;h2 id=&#34;共享经济&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#共享经济&#34;&gt;#&lt;/a&gt; 共享经济&lt;/h2&gt;
+&lt;p&gt;共享经济（Sharing Economy）是指拥有闲置资源的机构或个人有偿让渡资源使用权给他人，让渡者获取回报，分享者利用分享自己的闲置资源创造价值。其中车子和房屋共享的概念较早，也最被接受，像 Uber、Airbnb 等都是为人所知的例子。&lt;/p&gt;
+&lt;h2 id=&#34;长尾理论&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#长尾理论&#34;&gt;#&lt;/a&gt; 长尾理论&lt;/h2&gt;
+&lt;p&gt;长尾理论（The Long Tail Effect）是指那些原来不受到重视的销量小但种类多的产品或服务由于总量巨大，累积起来的总收益超过主流产品的现象。在互联网领域，长尾效应尤为显著。&lt;/p&gt;
+&lt;p&gt;用 SEO 的话来解释长尾理论，就是说，不必只盯住主关键字排名产生流量，你可以做很多长尾词排行。例如你也是搞室内装修的，你不必只做房子装修，你应当把 “房子装修哪家好”、“北京房屋装修企业”、“房子装修步骤是啥” 等关键字排名都做上来。&lt;/p&gt;
+&lt;h2 id=&#34;ugc&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#ugc&#34;&gt;#&lt;/a&gt; UGC&lt;/h2&gt;
+&lt;p&gt;UGC（User Generated Content，用户原创内容）的概念最早起源于互联网领域，即用户将自己原创的内容通过互联网平台进行展示或者提供给其他用户。UGC 是伴随着以提倡个性化为主要特点的 Web2.0 概念兴起的。UGC 并不是某一种具体的业务，而是一种用户使用互联网的新方式，即由原来的以下载为主变成下载和上传并重。YouTube、MySpace、哔哩哔哩、喜马拉雅等网站都可以看做是 UGC 的成功案例，社区网络、视频分享、博客和播客（视频分享）等都是 UGC 的主要应用形式。&lt;/p&gt;
+&lt;h2 id=&#34;pgc&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#pgc&#34;&gt;#&lt;/a&gt; PGC&lt;/h2&gt;
+&lt;p&gt;PGC（Professionally Generated Content，专业生产内容），与 UGC 相比，PGC 产出的内容通常更加专业化、更具公信力、更有价值。这是由创作主体决定的，UGC 更偏向于话题社区，PGC 则更多是在特定领域内的单方面信息的输出。PGC 有时候泛指个性化、视角多元化、传播民主化、社会关系虚拟化的内容。&lt;/p&gt;
+&lt;h2 id=&#34;ogc&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#ogc&#34;&gt;#&lt;/a&gt; OGC&lt;/h2&gt;
+&lt;p&gt;OGC（Occupationally Generated Content，品牌生产内容）有两种主体，一类是新媒体从业者、新闻背景工作者、传媒行业人员创作；另一类是某些行业的精英、特长、专业人士，与 PGC 一样。OGC 的创作主体与 PGC 的区别在于是否有目的性、盈利性。PGC 更多的是个人兴趣、个人表达需求的满足，这是创作的动机。而 OGC，获得报酬是他们的创作动机。&lt;/p&gt;
+&lt;h2 id=&#34;ip&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#ip&#34;&gt;#&lt;/a&gt; IP&lt;/h2&gt;
+&lt;p&gt;这里的 IP 并不是指人们建立网站流量里边那个 IP，或者网络 IP 地址那个 IP。而是指专利权的 IP，即 Intellectual Property，可以理解为知识财产、智慧财产、知识产权等意思。在网络新媒体中，我们常常听到有人说 “打造个人 IP”，意思就是通过文字、视频、音频等载体创造具有价值的内容，从而打造个人品牌。&lt;/p&gt;
+&lt;h2 id=&#34;kol&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#kol&#34;&gt;#&lt;/a&gt; KOL&lt;/h2&gt;
+&lt;p&gt;KOL（英文全拼：Key Opinion Leader），即关键意见领袖。是指在互联网上特别有影响力的人，例如通过 YouTube、Facebook、Instagram 等社交平台发布内容和分享观点的人。&lt;/p&gt;
+&lt;p&gt;“意见领袖” 这个概念起源于行销学 / 市场营销学。例如某某行业的权威人士说了一句话，于是好多人都相信，从而影响了消费者的想法、决策以及产品的广告效果。&lt;/p&gt;
+&lt;h2 id=&#34;koc&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#koc&#34;&gt;#&lt;/a&gt; KOC&lt;/h2&gt;
+&lt;p&gt;KOC（英文全拼：Key Opinion Consumer），即关键意见消费者。从名字可以看出，它与 KOL 是相对应的，通常指能影响自己的朋友、粉丝，产生消费行为的消费者。相比于 KOL，KOC 的粉丝更少，影响力更小，优势是更垂直、更便宜。例如小红书 App 上就有许多 KOC。&lt;/p&gt;
+&lt;h2 id=&#34;mcn&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#mcn&#34;&gt;#&lt;/a&gt; MCN&lt;/h2&gt;
+&lt;p&gt;MCN（英文全拼：Multi-Channel Network），即多频道网络，是一种新的网红经济运作模式。MCN 模式源于国外成熟的网红经济运作，其本质是一个多频道网络的产品形态，将 PGC（专业内容生产）内容联合起来，在资本的有力支持下，保障内容的持续输出，从而最终实现商业的稳定变现。&lt;/p&gt;
+&lt;p&gt;简单来说，MCN 就像是一个中介公司，上游对接优质内容，下游寻找推广平台变现。国外的 MCN 早期以经纪模式为主，帮助视频红人变现；而国内的 MCN 模式不同，机构只需要和内容生产者对接上，内容生产者专心做内容，MCN 机构帮你包装、营销、推广和变现。与李子柒合作的杭州微念公司就是一家 MCN 机构。&lt;/p&gt;
+&lt;h2 id=&#34;社群营销&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#社群营销&#34;&gt;#&lt;/a&gt; 社群营销&lt;/h2&gt;
+&lt;p&gt;网络社群营销是基于互联网等移动终端把具有共同兴趣、爱好的人聚集在一起，进行营销传播的过程，营销过程中通过引起受众的关注度，汇聚人群达到最终的营销目的。说的直接点就是，建微信群、QQ 群、知识星球等社群，还可以设置收费标准。&lt;/p&gt;
+&lt;h2 id=&#34;社群经济&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#社群经济&#34;&gt;#&lt;/a&gt; 社群经济&lt;/h2&gt;
+&lt;p&gt;社群经济是指互联网时代，一群有共同兴趣、认知、价值观的用户抱成团，发生群蜂效应，在一起互动、交流、协作、感染，对产品品牌本身产生反哺的价值关系，这种建立在产品与粉丝群体之间的情感信任 + 价值反哺，共同作用形成的自运转、自循环的范围经济系统。&lt;/p&gt;
+&lt;p&gt;社群经济，就是说拉人头数卖东西，购买划算（团购），转发赚钱（导购）。&lt;/p&gt;
+</content>
+        <category term="互联网" />
+        <updated>2021-10-02T13:39:57.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/industry/carbon-neutral-glossary.html</id>
+        <title>“碳中和”名词解释</title>
+        <link rel="alternate" href="https://luhuadong.com/industry/carbon-neutral-glossary.html"/>
+        <content type="html">&lt;p&gt;最近 “碳中和” 太火了，很多资本都盯着 “碳中和” 领域，所以这里收集一些与碳中和相关的名词解释。（持续更新…）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;碳源&lt;/strong&gt;：产生二氧化碳、甲烷等含碳温室气体的来源。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;碳汇&lt;/strong&gt;：温室气体汇聚、存留之处，称为碳汇。例如，海洋是世界上最大的碳汇，森林是陆地上最大的碳汇。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;非二&lt;/strong&gt;：除二氧化碳以外的其他温室气体。包括甲烷、氧化亚氮、氢氟碳化合物、全氟碳化合物、六氟化硫等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;碳达峰&lt;/strong&gt;：年度二氧化碳排放量达到历史最高值，达峰之后进入逐步下降阶段。（中国将力争 2030 年前实现碳达峰）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;碳中和&lt;/strong&gt;：是指温室气体的净零排放，也就是温室气体的排放量与去除量相互抵消。（中国努力争取 2060 年前实现碳中和）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;减缓&lt;/strong&gt;：为减少温室气体净排放而采取的行动，可以是减少排放源或增加碳汇。（节能减排、低碳出行、清洁能源转型等，属于气候变化减缓措施）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;适应&lt;/strong&gt;：为应对气候变化的现实及潜在影响而采取的调整和改变。（海绵城市、调整农业种植品种适应变化属于常见的适应措施）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1.5℃ 和 2℃&lt;/strong&gt;：《巴黎协定》中的气候目标 —— 把全球平均气温升幅控制在工业化前水平以上低于 2℃ 之内并努力控制在 1.5℃ 之内。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;COP&lt;/strong&gt;：《联合国气候变化框架公约》缔约方大会（Conference of the Parties），也是人们常说的 “联合国气候变化大会”。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NBS&lt;/strong&gt;：基于自然的解决方案（Nature based Solutions）—— 保护和修复生态系统，并对其进行可持续管理，从而使其造福人类的行动。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NDCs&lt;/strong&gt;：国家自主贡献（Nationally determined contributions）—— 是各国自主做出的国家气候行动计划，包括温室气体减排目标、政府旨在实施的气候政策和措施等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CCS&lt;/strong&gt;：二氧化碳捕获与封存（Carbon Dioxide Capture and Storage）—— 可以将二氧化碳流体从工业中分离（捕获）、控制、压缩并运至某个封存地点，使之与大气长期隔离。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BECCS&lt;/strong&gt;：生物能源与二氧化碳捕获与封存相结合（Bioenergy with carbon dioxide capture and storage）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DACCS&lt;/strong&gt;：直接空气二氧化碳捕获和封存（Direct air carbon dioxide capture and storage）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;巴黎协定&lt;/strong&gt;：《巴黎协定》是由联合国 195 个成员国于 2015 年联合国气候峰会中通过的气候协议，取代京都协定书，期望能共同遏阻全球暖化趋势。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ETS&lt;/strong&gt;：碳排放权交易系统。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IPCC&lt;/strong&gt;：政府间气候变化专门委员会（Intergovernmental Panel on Climate Change），是牵头评估气候变化的国际组织。它是由联合国环境规划署 (UNEP) 和世界气象组织 (WMO) 于 1988 年建立的， 旨在向世界提供一个清晰的有关对当前气候变化及其潜在环境和社会经济影响认知状况的科学观点。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;碳泄漏&lt;/strong&gt;（carbon leakage）：指国家采用较严格的气候政策而减少排放量，导致另一个国家的温室气体排放量增加的情况。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;碳边境调节机制&lt;/strong&gt;（Carbon Border Adjustment Mechanism，简称 CBAM）：指一地区针对未执行同等强度的减排措施的进口产品制定的单边气候政策，通常指征收碳关税或出售排放许可证。发达国家一直将此机制视为防止碳泄露和营造气候变化领域里 “公平竞争” 环境的重要举措，而发展中国家往往认为此项政策将导致变向的贸易保护。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="环保" />
+        <category term="碳中和" />
+        <updated>2021-09-24T02:57:54.000Z</updated>
+    </entry>
+</feed>

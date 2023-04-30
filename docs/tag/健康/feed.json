@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "成为自由人 • All posts by \"健康\" tag",
+    "description": "阿基米东的网络日志",
+    "home_page_url": "https://luhuadong.com",
+    "items": [
+        {
+            "id": "https://luhuadong.com/healthy/cpr.html",
+            "url": "https://luhuadong.com/healthy/cpr.html",
+            "title": "【急救知识】CPR 心肺复苏术",
+            "date_published": "2015-05-26T05:04:36.000Z",
+            "content_html": "<p><strong>心肺复苏术</strong>（Cardiopulmonary Resuscitation, 简称 CPR）是针对心脏病突发、溺水、触电等各种原因导致的心脏骤停患者，主要包括<strong>胸外按压</strong>和<strong>人工呼吸</strong>，供给心脑重要脏器血流和氧气。大量实践表明，心跳停止 4 分钟内进行心肺复苏，患者救活率可达到 50％，而超过这一时间，被救活的希望就很渺茫。因此被称为 “黄金抢救四分钟”。</p>\n<p><img data-src=\"/images/healthy/news_cpr_covid.jpg\" alt=\"\"></p>\n<h2 id=\"步骤\"><a class=\"markdownIt-Anchor\" href=\"#步骤\">#</a> 步骤</h2>\n<p>CPR 的步骤及要点如下：</p>\n<ol>\n<li>** 判断意识。** 发现有人突然倒地，在环境安全，自我防护做好的情况下，迅速判断伤员意识。轻拍伤员肩膀、大声呼喊询问情况，看是否有意识；如果丧失意识，进一步观察颈部脉搏是否正常，胸腔是否有起伏。</li>\n<li>** 呼救。** 若无意识及呼吸，或仅有喘息，赶紧呼救，同时拨打 120 急救电话。</li>\n<li>** 翻转伤员。** 将伤员调整成仰卧位，让其躺在坚硬的平面上，调整时注意承托头部及受伤部位。</li>\n<li>** 按压胸部。** 双手掌根重叠，在伤员胸部正中乳头连线中点垂直向下按压，频率每分钟至少 100 次，按压深度 4-6 厘米，连续按压 30 次。</li>\n<li>** 人工呼吸。** 按压 30 次后，用仰头举颌法使其鼻孔朝天以打开气道，清理口腔异物，救助者嘴唇包严伤者嘴唇（可以拿纱布、手帕隔开），口对口吹气两次，每次吹气时间大于 1 秒，吹气时观察胸腔是否有起伏。</li>\n<li><strong>重复</strong>按压胸部和人工呼吸，直到伤员恢复意识或 120 急救到达现场。</li>\n</ol>\n<h2 id=\"图示\"><a class=\"markdownIt-Anchor\" href=\"#图示\">#</a> 图示</h2>\n<p>寻找胸部按压点</p>\n<p><img data-src=\"/images/healthy/CPR-01.png\" alt=\"\"></p>\n<p>胸外按压</p>\n<p><img data-src=\"/images/healthy/cpr-compressions.webp\" alt=\"\"></p>\n<p>打开气道</p>\n<p><img data-src=\"/images/healthy/cpr-airway.webp\" alt=\"\"></p>\n<p>人工呼吸</p>\n<p><img data-src=\"/images/healthy/cpr-breathing.webp\" alt=\"\"></p>\n<h2 id=\"references\"><a class=\"markdownIt-Anchor\" href=\"#references\">#</a> References</h2>\n<ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cubWF5b2NsaW5pYy5vcmcvZmlyc3QtYWlkL2ZpcnN0LWFpZC1jcHIvYmFzaWNzL2FydC0yMDA1NjYwMA==\">Cardiopulmonary resuscitation (CPR): First aid</span></li>\n</ul>\n",
+            "tags": [
+                "指南",
+                "健康"
+            ]
+        }
+    ]
+}

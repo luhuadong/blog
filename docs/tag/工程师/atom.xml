@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://luhuadong.com</id>
+    <title>成为自由人 • Posts by &#34;工程师&#34; tag</title>
+    <link href="https://luhuadong.com" />
+    <updated>2021-10-09T07:57:09.000Z</updated>
+    <category term="商业" />
+    <category term="成长" />
+    <category term="日记" />
+    <category term="创业" />
+    <category term="家居" />
+    <category term="互联网" />
+    <category term="读书笔记" />
+    <category term="工程师" />
+    <category term="爱" />
+    <category term="名言" />
+    <category term="奋斗" />
+    <category term="信息世界" />
+    <category term="管理" />
+    <category term="程序员" />
+    <category term="职场" />
+    <category term="人生" />
+    <category term="物联网" />
+    <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
+    <category term="创客" />
+    <category term="比赛" />
+    <category term="科技向善" />
+    <category term="英语" />
+    <category term="学习" />
+    <category term="环保" />
+    <category term="碳中和" />
+    <category term="种植" />
+    <category term="健身" />
+    <category term="地理" />
+    <category term="城市" />
+    <category term="气象爱好者" />
+    <category term="指南" />
+    <category term="自律" />
+    <category term="思维" />
+    <category term="健康" />
+    <category term="Hexo" />
+    <category term="科普" />
+    <category term="可持续" />
+    <category term="能源" />
+    <category term="职业" />
+    <category term="时间管理" />
+    <category term="工作" />
+    <category term="总结" />
+    <category term="慈济" />
+    <category term="RT-Thread" />
+    <category term="开源" />
+    <category term="思考" />
+    <category term="生活" />
+    <category term="猫" />
+    <category term="幸福" />
+    <category term="修身" />
+    <category term="写书" />
+    <category term="milestone" />
+    <category term="地铁" />
+    <category term="Markdown" />
+    <category term="计划" />
+    <category term="股票" />
+    <category term="理财" />
+    <category term="投资" />
+    <category term="财富" />
+    <category term="保险" />
+    <category term="纪录片" />
+    <category term="自由" />
+    <category term="电影" />
+    <category term="TED演讲" />
+    <category term="时间" />
+    <category term="心理学" />
+    <category term="无线电爱好者" />
+    <category term="亲密关系" />
+    <category term="农业" />
+    <category term="游泳" />
+    <category term="励志" />
+    <category term="演讲" />
+    <category term="蔬食" />
+    <category term="电台主播" />
+    <category term="WordPress" />
+    <category term="垃圾分类" />
+    <category term="零废弃" />
+    <category term="低碳" />
+    <entry>
+        <id>https://luhuadong.com/industry/how-to-learn-electrical-engineering.html</id>
+        <title>电子电气工程师（EE）学习路线</title>
+        <link rel="alternate" href="https://luhuadong.com/industry/how-to-learn-electrical-engineering.html"/>
+        <content type="html">&lt;h2 id=&#34;说明&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#说明&#34;&gt;#&lt;/a&gt; 说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;EE&lt;/strong&gt;：&lt;br&gt;
+通常指电气工程（Electrical Engineering）或电子工程（Electronic Engineering），又或者电子电气工程（Electrical and Electronics Engineering，EEE）。简单来说，是一门以电磁学为基础，研究利用电与磁现象传输、转化能量的工程学科，其研究内容涵盖了产生电能（发电）、传输电能（输配电）、转化电能、储存电能、使用电能（用电器）等环节。而电子工程则是电气工程的一个分支，涉及电磁频谱的使用以及集成电路和晶体管等电子设备的应用。也就是说，电气工程偏向强电（能源），电子工程偏向弱电（计算机硬件）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CS&lt;/strong&gt;：&lt;br&gt;
+通常指计算机科学（Computer Science），是一门包括各种各样与计算机信息处理相关的系统学科，从抽象的操作系统、数据结构、算法分析等，到更具体的如编程语言、程序设计、网络安全、数据分析、人工智能等。最常见的工作就是潜伏在各大 IT 公司的各类程序员们。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;STEM&lt;/strong&gt;：&lt;br&gt;
+STEM 是科学（Science）、技术（Technology）、工程（Engineering）和数学（Mathematics）四个单词的缩写，意味着它融合了这四门学科的知识与技能。能够同时掌握这几门学科的人都是很厉害的，而且他们可能在艺术和人文方面也颇有见解。这类人有时也被称为创客（Maker）或极客（Geek），拥有自驱力极强的学习与创造能力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;代表人物：尼古拉・特斯拉、稚晖君&lt;/p&gt;
+&lt;h2 id=&#34;学习路线&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#学习路线&#34;&gt;#&lt;/a&gt; 学习路线&lt;/h2&gt;
+&lt;p&gt;基础课程学习类：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;电路 —— 推荐课程：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueHVldGFuZ3guY29tL2NvdXJzZS9USFUwODA2MTAwMDI5NC83NzU0MzAw&#34;&gt;电路原理 - 清华大学&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;机器人设计&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#机器人设计&#34;&gt;#&lt;/a&gt; 机器人设计&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;机械设计&lt;/li&gt;
+&lt;li&gt;硬件设计&lt;/li&gt;
+&lt;li&gt;嵌入式系统&lt;/li&gt;
+&lt;li&gt;算法&lt;/li&gt;
+&lt;li&gt;机器学习&lt;/li&gt;
+&lt;li&gt;艺术&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuemhpaHUuY29tL3F1ZXN0aW9uLzIxNDE1MTA5&#34;&gt;我想成为电气工程师，学习电气有哪些可以利用的好的网络资源？&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="工程师" />
+        <category term="创客" />
+        <category term="学习" />
+        <updated>2021-10-09T07:57:09.000Z</updated>
+    </entry>
+</feed>

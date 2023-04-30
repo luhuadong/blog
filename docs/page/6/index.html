@@ -1,1038 +1,203 @@
+
+
+
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
-<meta name="theme-color" content="#222">
-<meta name="generator" content="Hexo 5.0.2">
+<meta name="theme-color" content="#FFF">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="icon" type="image/ico" sizes="32x32" href="/images/favicon.ico">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta http-equiv="Cache-Control" content="no-siteapp">
 
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/lu_avatar_01_120px.png">
-  <link rel="mask-icon" href="/images/lu_avatar_01_240px.png" color="#222">
+<link rel="alternate" type="application/rss+xml" title="成为自由人" href="https://luhuadong.com/rss.xml" />
+<link rel="alternate" type="application/atom+xml" title="成为自由人" href="https://luhuadong.com/atom.xml" />
+<link rel="alternate" type="application/json" title="成为自由人" href="https://luhuadong.com/feed.json" />
 
-<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Mulish:300,300italic,400,400italic,700,700italic%7CFredericka%20the%20Great:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20JP:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20SC:300,300italic,400,400italic,700,700italic%7CInconsolata:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
 
+<link rel="stylesheet" href="/css/app.css?v=0.2.5">
 
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3396347538857110" crossorigin="anonymous"></script>
-
-<script class="hexo-configurations">
-    var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
-  </script>
-<meta name="description" content="阿基米东的网络日志">
-<meta property="og:type" content="website">
-<meta property="og:title" content="成为自由人">
-<meta property="og:url" content="https://luhuadong.com/page/6/index.html">
-<meta property="og:site_name" content="成为自由人">
-<meta property="og:description" content="阿基米东的网络日志">
-<meta property="og:locale" content="zh_CN">
-<meta property="article:author" content="Rudy Lo">
-<meta name="twitter:card" content="summary">
-
+  
 
 <link rel="canonical" href="https://luhuadong.com/page/6/">
 
 
-<script class="page-configurations">
-  // https://hexo.io/docs/variables.html
-  CONFIG.page = {
-    sidebar: "",
-    isHome : true,
-    isPost : false,
-    lang   : 'zh-CN'
-  };
-</script>
-<title>成为自由人</title>
-  
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
-    <script>
-      if (CONFIG.hostname === location.hostname) {
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-190737867-1');
-      }
-    </script>
 
-  <script>
-    var _hmt = _hmt || [];
-    (function() {
-      var hm = document.createElement("script");
-      hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58";
-      var s = document.getElementsByTagName("script")[0];
-      s.parentNode.insertBefore(hm, s);
-    })();
-  </script>
-
-
-
-  <noscript>
-  <style>
-  body { margin-top: 2rem; }
-
-  .use-motion .menu-item,
-  .use-motion .sidebar,
-  .use-motion .post-block,
-  .use-motion .pagination,
-  .use-motion .comments,
-  .use-motion .post-header,
-  .use-motion .post-body,
-  .use-motion .collection-header {
-    visibility: visible;
-  }
-
-  .use-motion .header,
-  .use-motion .site-brand-container .toggle,
-  .use-motion .footer { opacity: initial; }
-
-  .use-motion .site-title,
-  .use-motion .site-subtitle,
-  .use-motion .custom-logo-image {
-    opacity: initial;
-    top: initial;
-  }
-
-  .use-motion .logo-line {
-    transform: scaleX(1);
-  }
-
-  .search-pop-overlay, .sidebar-nav { display: none; }
-  .sidebar-panel { display: block; }
-  </style>
-</noscript>
-
-</head>
-
-<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
-  <div class="headband"></div>
-
-  <!-- 加入APlayer音乐播放器 -->
-  <link rel="stylesheet" href="/dist/APlayer.min.css">
-  <div id="aplayer"></div>
-  <script type="text/javascript" src="/dist/APlayer.min.js"></script>
-  <script type="text/javascript" src="/dist/music.js"></script>
-
-  <main class="main">
-    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header-inner"><div class="site-brand-container">
-  <div class="site-nav-toggle">
-    <div class="toggle" aria-label="切换导航栏" role="button">
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
+  <title>Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</title>
+<meta name="generator" content="Hexo 5.4.2"></head>
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div id="loading">
+    <div class="cat">
+      <div class="body"></div>
+      <div class="head">
+        <div class="face"></div>
+      </div>
+      <div class="foot">
+        <div class="tummy-end"></div>
+        <div class="bottom"></div>
+        <div class="legs left"></div>
+        <div class="legs right"></div>
+      </div>
+      <div class="paw">
+        <div class="hands left"></div>
+        <div class="hands right"></div>
+      </div>
     </div>
   </div>
-
-  <div class="site-meta">
-
-    <a href="/" class="brand" rel="start">
-      <i class="logo-line"></i>
-      <h1 class="site-title">成为自由人</h1>
-      <i class="logo-line"></i>
-    </a>
-      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
-      <img class="custom-logo-image" src="/images/banner_1.gif" alt="成为自由人">
-  </div>
-
-  <div class="site-nav-right">
-    <div class="toggle popup-trigger">
-        <i class="fa fa-search fa-fw fa-lg"></i>
+  <div id="container">
+    <header id="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="inner">
+        <div id="brand">
+          <div class="pjax">
+          
+            <a href="/" class="logo" rel="start"><p class="artboard">Freedom Blog</p>
+              <h1 itemprop="name headline" class="title">成为自由人</h1>
+            </a>
+            <p class="meta" itemprop="description">= 生活的理想，就是为了理想的生活 =</p>
+          
+          </div>
+        </div>
+        <nav id="nav">
+  <div class="inner">
+    <div class="toggle">
+      <div class="lines" aria-label="切换导航栏">
+        <span class="line"></span>
+        <span class="line"></span>
+        <span class="line"></span>
+      </div>
     </div>
-  </div>
-</div>
-
-
-
-<nav class="site-nav">
-  <ul class="main-menu menu">
-        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
-        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
-        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
-        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
-        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
-        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
-        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
-        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
-      <li class="menu-item menu-item-search">
-        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
-        </a>
+    <ul class="menu">
+      <li class="item title"><a href="/" rel="start">Freedom Blog</a></li>
+    </ul>
+    <ul class="right">
+      <li class="item theme">
+        <i class="ic i-sun"></i>
       </li>
-  </ul>
+      <li class="item search">
+        <i class="ic i-search"></i>
+      </li>
+    </ul>
+  </div>
 </nav>
 
-
-
-  <div class="search-pop-overlay">
-    <div class="popup search-popup"><div class="search-header">
-  <span class="search-icon">
-    <i class="fa fa-search"></i>
-  </span>
-  <div class="search-input-container">
-    <input autocomplete="off" autocapitalize="off" maxlength="80"
-           placeholder="搜索..." spellcheck="false"
-           type="search" class="search-input">
-  </div>
-  <span class="popup-btn-close" role="button">
-    <i class="fa fa-times-circle"></i>
-  </span>
-</div>
-<div class="search-result-container no-result">
-  <div class="search-result-icon">
-    <i class="fa fa-spinner fa-pulse fa-5x"></i>
-  </div>
-</div>
-
-    </div>
-  </div>
-
-</div>
-        
-  
-  <div class="toggle sidebar-toggle" role="button">
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-  </div>
-
-  <aside class="sidebar">
-
-    <div class="sidebar-inner sidebar-overview-active">
-      <ul class="sidebar-nav">
-        <li class="sidebar-nav-toc">
-          文章目录
-        </li>
-        <li class="sidebar-nav-overview">
-          站点概览
-        </li>
-      </ul>
-
-      <div class="sidebar-panel-container">
-        <!--noindex-->
-        <div class="post-toc-wrap sidebar-panel">
-        </div>
-        <!--/noindex-->
-
-        <div class="site-overview-wrap sidebar-panel">
-          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
-      src="/images/lu_avatar_04.jpeg">
-  <p class="site-author-name" itemprop="name">Rudy Lo</p>
-  <div class="site-description" itemprop="description">阿基米东的网络日志</div>
-</div>
-<div class="site-state-wrap site-overview-item animated">
-  <nav class="site-state">
-      <div class="site-state-item site-state-posts">
-          <a href="/archives/">
-        
-          <span class="site-state-item-count">295</span>
-          <span class="site-state-item-name">日志</span>
-        </a>
       </div>
-      <div class="site-state-item site-state-categories">
-            <a href="/categories/">
-          
-        <span class="site-state-item-count">35</span>
-        <span class="site-state-item-name">分类</span></a>
+      <div id="imgs" class="pjax">
+        <ul>
+          <li class="item" data-background-image="http://static.luhuadong.com/EdaleValley.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/PicoVolcano.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/EuropeFromISS.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/AgueroSpain.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/QingMing2023.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/MPPUnesco.jpg"></li>
+        </ul>
       </div>
-      <div class="site-state-item site-state-tags">
-            <a href="/tags/">
-          
-        <span class="site-state-item-count">80</span>
-        <span class="site-state-item-name">标签</span></a>
-      </div>
-  </nav>
-</div>
-  <div class="links-of-author site-overview-item animated">
-      <span class="links-of-author-item">
-        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://gitee.com/luhuadong" title="Gitee → https:&#x2F;&#x2F;gitee.com&#x2F;luhuadong" rel="noopener" target="_blank">Gitee</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.douban.com/group/730047/" title="豆瓣 → https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;" rel="noopener" target="_blank">豆瓣</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://zerotogether.net/" title="零废弃部落 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零废弃部落</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
-      </span>
-  </div>
-  <div class="cc-license site-overview-item animated" itemprop="license">
-    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
-  </div>
-
-
-
-        </div>
-      </div>
-    </div>
-  </aside>
-  <div class="sidebar-dimmer"></div>
-
-
     </header>
-
-    
-  <div class="back-to-top" role="button">
-    <i class="fa fa-arrow-up"></i>
-    <span>0%</span>
+    <div id="waves">
+      <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+        <defs>
+          <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+        </defs>
+        <g class="parallax">
+          <use xlink:href="#gentle-wave" x="48" y="0" />
+          <use xlink:href="#gentle-wave" x="48" y="3" />
+          <use xlink:href="#gentle-wave" x="48" y="5" />
+          <use xlink:href="#gentle-wave" x="48" y="7" />
+        </g>
+      </svg>
+    </div>
+    <main>
+      <div class="inner">
+        <div id="main" class="pjax">
+          
+  <div class="index wrap">
+    <div class="segments posts">
+        
+<article class="item">
+  <div class="cover">
+    <a href="/management/pomodoro-technique.html" itemprop="url" title="番茄工作法，成就你的高效人生"><img data-src="http://static.luhuadong.com/JTNPMilkyWay.jpg"></a>
   </div>
-
-<noscript>
-  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
-</noscript>
-
-
-    <div class="main-inner index posts-expand">
-
+  <div class="info">
     
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/career/rework-companies.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
+<div class="meta">
+  <span class="item" title="创建时间：2022-05-10 10:44:21">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
     </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
+    <time itemprop="dateCreated datePublished" datetime="2022-05-10T10:44:21+08:00">2022-05-10</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
     </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/career/rework-companies.html" class="post-title-link" itemprop="url">支持远程办公的公司</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2022-06-09 14:13:12" itemprop="dateCreated datePublished" datetime="2022-06-09T14:13:12+08:00">2022-06-09</time>
+    <span>1.7k</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
     </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E6%89%93%E5%B7%A5%E4%BA%BA/" itemprop="url" rel="index"><span itemprop="name">了不起的打工人</span></a>
-        </span>
-    </span>
-
-  
+    <span>2 分钟</span>
+  </span>
 </div>
 
-        </div>
-      </header>
+    <h3><a href="/management/pomodoro-technique.html" itemprop="url" title="番茄工作法，成就你的高效人生">番茄工作法，成就你的高效人生</a></h3>
+    <div class="excerpt">
+        在工作和学习时，很多人希望能够提高自己在单位时间内的效率，此时就会使用很多方法来让自己更加专注，而其中很常用的一个就是番茄工作法。
 
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          国内
-极狐 GitLab
-极狐 GitLab，是一应俱全的一站式 DevOps 平台，提供与独立应用完全一致的使用体验，从根本上改变开发、安全和运维团队的协同工作方式。极狐 GitLab 专注于解决中国用户需求的，是 GitLab DevOps 平台的中国发行版。
+# 概述
+番茄工作法（Pomodoro Technique）是一种专注于提高效率的时间管理方法，在 1980 年代由 Francesco Cirillo 创立。该方法使用一个定时器来分割出一个一般为 25 分钟的工作时间和 5 分钟的休息时间，在工作时间内要专注于工作，除了当前任务不允许做任何其他事情。这样一些被切开的时间段被称为 pomodoros，为意大利语单词 pomodoro（中文：番茄）之复数，因此称为 “番茄工作法”。
 
-极狐（GitLab）公司以“开源开放，人人贡献”为原则，致力于推进开源生态与产业的结合。我们希望通过极狐 GitLab 开源平台，为中国用户提供全球领先的“软件创新加速器”。
-
-网址：https://gitlab.cn
-
-国外
-FOSSASIA
-FOSSASIA 是帮助自由和开源技术开发者和 Maker 的非营利组织。它由 Hon
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/career/rework-companies.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
+使用番茄工作法可以让我们快速
       
     </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/english/en-competition-vs-contest.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/english/en-competition-vs-contest.html" class="post-title-link" itemprop="url">英语单词辨析：Competition vs. Contest</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/%E4%BA%BA%E7%94%9F%E7%AE%A1%E7%90%86%E6%9C%AF/" itemprop="url" title="人生管理术"><i class="ic i-flag"></i>人生管理术</a>
       </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2022-06-09 14:10:49" itemprop="dateCreated datePublished" datetime="2022-06-09T14:10:49+08:00">2022-06-09</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%80%E8%B5%B7%E5%AD%A6%E8%8B%B1%E8%AF%AD/" itemprop="url" rel="index"><span itemprop="name">一起学英语</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          Competition 多指个人或小组之间有直接交锋，直接彼此对抗的比赛。常用于体育类的各种比赛或是知识竞赛等，比赛结果谁输谁赢比较明显，更强调参赛者之间谁比谁更加厉害。
-
-Contest 多指一群参赛者“各自”带作品参赛或进行表演，由一组裁判判定获胜者。通常参赛者之间没有直接的交锋，例如创客作品比赛。
-
-两者之间没有很明显的界限，经常可以互换使用。相对来说，Competition 更强调彼此竞争对抗性，Contest 则不太强调对抗性。
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/english/en-competition-vs-contest.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
     </div>
+    <a href="/management/pomodoro-technique.html" itemprop="url" title="番茄工作法，成就你的高效人生" class="btn">more...</a>
+  </div>
+</article>
 
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/journal/20220608.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/journal/20220608.html" class="post-title-link" itemprop="url">我有点喜欢现在的工作了</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2022-06-08 21:56:20" itemprop="dateCreated datePublished" datetime="2022-06-08T21:56:20+08:00">2022-06-08</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%8D%E5%AE%9A%E6%97%B6%E6%97%A5%E8%AE%B0/" itemprop="url" rel="index"><span itemprop="name">不定时日记</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          下面是联合国 17 个可持续发展目标（SDGs）：
-
- 1.  无贫穷
- 2.  零饥饿
- 3.  良好健康与福祉
- 4.  优质教育
- 5.  性别平等
- 6.  清洁饮水和卫生设施
- 7.  经济适用的清洁能源
- 8.  体面工作和经济增长
- 9.  产业、创新和基础设施
- 10. 减少不平等
- 11. 可持续城市和社区
- 12. 负责任消费和生产
- 13. 气候行动
- 14. 水下生物
- 15. 陆地生物
- 16. 和平、正义和强大机构
- 17. 促进目标实现的伙伴关系
-
-SDG 目标看起来很宏大，离我们很远，但其实离我们很近。比如说我现在从事的智能电动汽车研发工作，研究汽车无人驾驶，看
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/journal/20220608.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
         
-      
-    </div>
-
+<article class="item">
+  <div class="cover">
+    <a href="/reading/soft-skills.html" itemprop="url" title="《软技能——代码之外的生存指南》读书笔记"><img data-src="http://static.luhuadong.com/CrestedButteEclispe.jpg"></a>
+  </div>
+  <div class="info">
     
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
+<div class="meta">
+  <span class="item" title="创建时间：2022-05-10 09:12:45">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2022-05-10T09:12:45+08:00">2022-05-10</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>681</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>1 分钟</span>
+  </span>
 </div>
 
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/contest/seeed-iot-in-the-wild-2022.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/contest/seeed-iot-in-the-wild-2022.html" class="post-title-link" itemprop="url">矽递科技 IoT Into the Wild 大赛 2022</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2022-06-08 15:31:03" itemprop="dateCreated datePublished" datetime="2022-06-08T15:31:03+08:00">2022-06-08</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E6%AF%94%E8%B5%9B-%E6%B4%BB%E5%8A%A8/" itemprop="url" rel="index"><span itemprop="name">比赛 & 活动</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>IoT Into the Wild Contest for Sustainable Planet 2022</p>
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/contest/seeed-iot-in-the-wild-2022.html">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/journal/jiangmengnan.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/journal/jiangmengnan.html" class="post-title-link" itemprop="url">江梦南：世界以痛吻我，我却报之以歌</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2022-05-25 21:48:14" itemprop="dateCreated datePublished" datetime="2022-05-25T21:48:14+08:00">2022-05-25</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%8D%E5%AE%9A%E6%97%B6%E6%97%A5%E8%AE%B0/" itemprop="url" rel="index"><span itemprop="name">不定时日记</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          家里没有电视机，我也好久没上微博、知乎了，今天晚上打开了知乎查点资料，刚好看到关于江梦南的推送，好奇地看完了…… 全程都在惊叹 —— 不容易呀！然后又很开心 —— 以后会越来越好的！
-
-
-
-江梦南，1992年出生在湖南省郴州市宜章县的一个瑶族家庭。父母为她取名的寓意是梦里江南，岁月静好。在半岁时，由于耳毒性药物导致极重度神经性耳聋，平静美好的生活被打破了。当时江梦南左耳损失大于 105 分贝，右耳听力完全丧失。失去了听力，不仅听不到外界的声音，也会听不到自己的发音，就会失去说话的能力。
-
-下面是江梦南同学的大致经历：
-
- * 1992年，在湖南省郴州市宜章县出生；
- * 2007年，进入郴州市
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/journal/jiangmengnan.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/reading/LDLT.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/reading/LDLT.html" class="post-title-link" itemprop="url">十步学习法（学习-实践-掌握-教授）</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2022-05-17 00:05:35" itemprop="dateCreated datePublished" datetime="2022-05-17T00:05:35+08:00">2022-05-17</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%80%E8%B5%B7%E8%AF%BB%E4%B9%A6%E5%91%80/" itemprop="url" rel="index"><span itemprop="name">一起读书呀</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          随着年龄的增长，感觉越来越多事情让人分心，学习效率也大不如前。在技术更新迭代如此迅速的今天，拥有快速学习能力，将大大提升竞争力，完成别人完成不了的任务，成为“十倍”程序员。
-
-下面对《软技能——代码之外的生存指南》一书总结的“十步学习法” —— 学习-实践-掌握-教授（Learning, Doing, Learning and Teaching, LDLT）进行摘抄，希望自己能时常翻阅，加深理解，并坚持实践！
-
-
-
-第一步到第六步：概览全局，设定目标，搜寻资源，创建计划
-集中精力完成足够的前期调研，确保自己明确知道学习的内容，以及如何确定自己达成目标，挑选最好的资源来帮助自己实现目标，制定学习
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/reading/LDLT.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/management/pomodoro-technique.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/management/pomodoro-technique.html" class="post-title-link" itemprop="url">番茄工作法，成就你的高效人生</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2022-05-10 10:44:21" itemprop="dateCreated datePublished" datetime="2022-05-10T10:44:21+08:00">2022-05-10</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%BA%BA%E7%94%9F%E7%AE%A1%E7%90%86%E6%9C%AF/" itemprop="url" rel="index"><span itemprop="name">人生管理术</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          在工作和学习时，很多人希望能够提高自己在单位时间内的效率，此时就会使用很多方法来让自己更加专注，而其中很常用的一个就是番茄工作法。
-
-概述
-番茄工作法（Pomodoro Technique）是一种专注于提高效率的时间管理方法，在 1980 年代由 Francesco Cirillo 创立。该方法使用一个定时器来分割出一个一般为 25 分钟的工作时间和 5 分钟的休息时间，在工作时间内要专注于工作，除了当前任务不允许做任何其他事情。这样一些被切开的时间段被称为 pomodoros，为意大利语单词 pomodoro（中文：番茄）之复数，因此称为“番茄工作法”。
-
-使用番茄工作法可以让我们快速进入工
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/management/pomodoro-technique.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/reading/soft-skills.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/reading/soft-skills.html" class="post-title-link" itemprop="url">《软技能——代码之外的生存指南》读书笔记</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2022-05-10 09:12:45" itemprop="dateCreated datePublished" datetime="2022-05-10T09:12:45+08:00">2022-05-10</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%80%E8%B5%B7%E8%AF%BB%E4%B9%A6%E5%91%80/" itemprop="url" rel="index"><span itemprop="name">一起读书呀</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          职业
-如何晋升
+    <h3><a href="/reading/soft-skills.html" itemprop="url" title="《软技能——代码之外的生存指南》读书笔记">《软技能——代码之外的生存指南》读书笔记</a></h3>
+    <div class="excerpt">
+        # 职业
+# 如何晋升
 0、出色地完成工作
 
  * 按时完成自己负责的工作是最基本也是最重要的；
@@ -1040,7 +205,7 @@ SDG 目标看起来很宏大，离我们很远，但其实离我们很近。比�
 
 1、承担更多责任
 
- * 负责一个不受重视/没人愿意碰的项目，将其作为你日益强大的帝国的领地；
+ * 负责一个不受重视 / 没人愿意碰的项目，将其作为你日益强大的帝国的领地；
  * 帮助团队里的新人成长，成为团队中其他人的导师；
  * 承担程序员不乐意做的文档制作流程，保证及时更新文档；
  * 通过介入和解决别人的问题，学习更多知识，并梳理良好的名声。
@@ -1049,288 +214,672 @@ SDG 目标看起来很宏大，离我们很远，但其实离我们很近。比�
 
  * 每天记录自己的工作日志 —— 以周报的形式发送给你的经理；
  * 提供演讲或培训 —— 选择一个对你的团队有用的话题；
- * 发表意见 —— 
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/reading/soft-skills.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
+ * 发表
       
     </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/business/kitware.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/business/kitware.html" class="post-title-link" itemprop="url">Kitware 公司</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/reading/" itemprop="url" title="一起读书呀"><i class="ic i-flag"></i>一起读书呀</a>
       </span>
-      <span class="post-meta-item-text">发表于</span>
+    </div>
+    <a href="/reading/soft-skills.html" itemprop="url" title="《软技能——代码之外的生存指南》读书笔记" class="btn">more...</a>
+  </div>
+</article>
 
-      <time title="创建时间：2022-05-07 14:57:49" itemprop="dateCreated datePublished" datetime="2022-05-07T14:57:49+08:00">2022-05-07</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          Kitware 是一家技术公司，总部位于纽约克利夫顿公园。该公司专门从事计算机视觉，医学成像，可视化，3D数据发布和技术软件开发领域的开源软件的研究和开发。除了软件开发之外，该公司还提供定制解决方案，技术支持，培训和书籍。
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/business/kitware.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
         
+<article class="item">
+  <div class="cover">
+    <a href="/business/kitware.html" itemprop="url" title="Kitware 公司"><img data-src="http://static.luhuadong.com/NIrelandGiants.jpg"></a>
+  </div>
+  <div class="info">
+    
+<div class="meta">
+  <span class="item" title="创建时间：2022-05-07 14:57:49">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2022-05-07T14:57:49+08:00">2022-05-07</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>110</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>1 分钟</span>
+  </span>
+</div>
+
+    <h3><a href="/business/kitware.html" itemprop="url" title="Kitware 公司">Kitware 公司</a></h3>
+    <div class="excerpt">
+        Kitware 是一家技术公司，总部位于纽约克利夫顿公园。该公司专门从事计算机视觉，医学成像，可视化，3D 数据发布和技术软件开发领域的开源软件的研究和开发。除了软件开发之外，该公司还提供定制解决方案，技术支持，培训和书籍。
       
     </div>
+    <a href="/business/kitware.html" itemprop="url" title="Kitware 公司" class="btn">more...</a>
+  </div>
+</article>
 
+        
+<article class="item">
+  <div class="cover">
+    <a href="/business/atlassian.html" itemprop="url" title="Atlassian"><img data-src="http://static.luhuadong.com/EdaleValley.jpg"></a>
+  </div>
+  <div class="info">
     
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
+<div class="meta">
+  <span class="item" title="创建时间：2022-05-06 13:43:35">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2022-05-06T13:43:35+08:00">2022-05-06</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>21</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>1 分钟</span>
+  </span>
 </div>
 
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/business/atlassian.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/business/atlassian.html" class="post-title-link" itemprop="url">Atlassian</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2022-05-06 13:43:35" itemprop="dateCreated datePublished" datetime="2022-05-06T13:43:35+08:00">2022-05-06</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          参考资料
+    <h3><a href="/business/atlassian.html" itemprop="url" title="Atlassian">Atlassian</a></h3>
+    <div class="excerpt">
+        参考资料
 
  * Atlassian 不一样的发展模式
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/business/atlassian.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
       
     </div>
+    <a href="/business/atlassian.html" itemprop="url" title="Atlassian" class="btn">more...</a>
+  </div>
+</article>
 
+        
+<article class="item">
+  <div class="cover">
+    <a href="/contest/rt-thread-lvgl-gui-2022.html" itemprop="url" title="RT-Thread + LVGL 嵌入式 GUI 挑战赛 2022"><img data-src="http://static.luhuadong.com/MinouLighthouse.jpg"></a>
+  </div>
+  <div class="info">
     
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
+<div class="meta">
+  <span class="item" title="创建时间：2022-05-04 07:32:31">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2022-05-04T07:32:31+08:00">2022-05-04</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>221</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>1 分钟</span>
+  </span>
 </div>
 
+    <h3><a href="/contest/rt-thread-lvgl-gui-2022.html" itemprop="url" title="RT-Thread + LVGL 嵌入式 GUI 挑战赛 2022">RT-Thread + LVGL 嵌入式 GUI 挑战赛 2022</a></h3>
+    <div class="excerpt">
+        # 大赛介绍
+RT-Thread 社区联合 LVGL 社区及合作伙伴新唐科技、意法半导体、NXP 半导体正式开启嵌入式 GUI 挑战赛。
+
+赛程安排：
+
+ * 报名截至时间：5 月 1 日
+ * 完成任务时间：5 月 12 日 - 7 月 12 日
+ * 评奖时间：7 月 13-7 月 20 日
+ * 官宣获奖名单：7 月 21 日
+
+现金奖励：
+
+ * 一等奖 1 名 6000 元 + 获奖证书
+ * 二等奖 2 名 3000 元 + 获奖证书
+ * 三等奖 5 名 500 元 + 获奖证书
+
+# 作品介绍
+基于新唐 NuMaker-HMI-N9H30 的网络收音机
+
+# 相关链接
+ * 嵌
+      
+    </div>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/%E6%AF%94%E8%B5%9B-%E6%B4%BB%E5%8A%A8/" itemprop="url" title="比赛 &amp; 活动"><i class="ic i-flag"></i>比赛 & 活动</a>
+      </span>
+    </div>
+    <a href="/contest/rt-thread-lvgl-gui-2022.html" itemprop="url" title="RT-Thread + LVGL 嵌入式 GUI 挑战赛 2022" class="btn">more...</a>
+  </div>
+</article>
+
+        
+<article class="item">
+  <div class="cover">
+    <a href="/vocal-exercise/speech-eloquence-training.html" itemprop="url" title="演讲口才技巧训练"><img data-src="http://static.luhuadong.com/EuropeFromISS.jpg"></a>
+  </div>
+  <div class="info">
+    
+<div class="meta">
+  <span class="item" title="创建时间：2022-05-03 10:59:57">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2022-05-03T10:59:57+08:00">2022-05-03</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>158</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>1 分钟</span>
+  </span>
+</div>
+
+    <h3><a href="/vocal-exercise/speech-eloquence-training.html" itemprop="url" title="演讲口才技巧训练">演讲口才技巧训练</a></h3>
+    <div class="excerpt">
+        # 当众说话十六字方针
+ * 字正腔圆
+ * 抑扬顿挫
+ * 声情并茂
+ * 声若洪钟
+
+# 当众说话六要素
+ * 声音：宏亮、清晰、抑扬顿挫
+ * 语速：快慢可调
+ * 目光：有交流，点视、环视、巡视、虚视
+ * 表情：喜怒哀乐惊忧恐体现出来
+ * 肢体语言：态势语言、动起来才美
+ * 内容：条理性、概括性、思想性、讲故事
+
+# 自我介绍万能公式
+称呼问好 + 姓名 + 籍贯 + 职业 + 兴趣爱好 + 参加活动的感受 + 祝福语
+      
+    </div>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/%E5%A3%B0%E9%9F%B3%E8%AF%BE%E5%A0%82/" itemprop="url" title="声音课堂"><i class="ic i-flag"></i>声音课堂</a>
+      </span>
+    </div>
+    <a href="/vocal-exercise/speech-eloquence-training.html" itemprop="url" title="演讲口才技巧训练" class="btn">more...</a>
+  </div>
+</article>
+
+        
+<article class="item">
+  <div class="cover">
+    <a href="/management/13-differences-between-busy-people-and-productive-people.html" itemprop="url" title="忙碌人士和高效人士的13个不同点"><img data-src="http://static.luhuadong.com/NahargarhFort.jpg"></a>
+  </div>
+  <div class="info">
+    
+<div class="meta">
+  <span class="item" title="创建时间：2022-05-01 00:28:20">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2022-05-01T00:28:20+08:00">2022-05-01</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>432</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>1 分钟</span>
+  </span>
+</div>
+
+    <h3><a href="/management/13-differences-between-busy-people-and-productive-people.html" itemprop="url" title="忙碌人士和高效人士的13个不同点">忙碌人士和高效人士的13个不同点</a></h3>
+    <div class="excerpt">
+        1、忙碌人士好像他们有非常紧急的任务，而高效人士对整体生活有具体的任务安排。
 
 
 
+2、忙碌人士有非常多的优先级事项，而高效人士只有少数几个优先级事项。
+
+
+
+3、忙碌人士常常不假思索的回答 “好的”，而高效人士回答 “好的” 之前都会三思。
+
+
+
+4、忙碌人士专注于采取行动，而高效人士专注于行动的明确性。
+
+
+
+5、忙碌人士一般都来者不拒，而高效人士常常闭门谢客。
+
+
+
+6、忙碌人士经常不停的强调自己有多忙，而高效人士让结果说话。
+
+
+
+7、忙碌人士总是说自己没有时间，而高效人士把时间花在真正重要的事情上。
+
+
+
+8、忙碌人士常同时处理多重任务，而高效人士专注于一件重要的目标。
+
+
+
+9、忙
+      
+    </div>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/%E4%BA%BA%E7%94%9F%E7%AE%A1%E7%90%86%E6%9C%AF/" itemprop="url" title="人生管理术"><i class="ic i-flag"></i>人生管理术</a>
+      </span>
+    </div>
+    <a href="/management/13-differences-between-busy-people-and-productive-people.html" itemprop="url" title="忙碌人士和高效人士的13个不同点" class="btn">more...</a>
+  </div>
+</article>
+
+        
+<article class="item">
+  <div class="cover">
+    <a href="/management/how-to-stop-procrastinating.html" itemprop="url" title="如何克服拖延症？"><img data-src="http://static.luhuadong.com/ProcidaItaly.jpg"></a>
+  </div>
+  <div class="info">
+    
+<div class="meta">
+  <span class="item" title="创建时间：2022-04-28 17:19:06">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2022-04-28T17:19:06+08:00">2022-04-28</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>826</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>1 分钟</span>
+  </span>
+</div>
+
+    <h3><a href="/management/how-to-stop-procrastinating.html" itemprop="url" title="如何克服拖延症？">如何克服拖延症？</a></h3>
+    <div class="excerpt">
+        你认为引起拖延的原因是什么？据不完全统计，有 21% 的人认为引起拖延的原因是因为 “完美主义”，23% 的人则认为是因为不自信，26% 的人认为时间充足、不着急做。另外有 42% 的人纯粹是因为想偷懒，能拖就拖。你有没有中枪？
+
+那要怎么样才能打败拖延症，提高我们的工作效率，让生活变得越来越惬意呢？下面介绍几种方法 👇
+
+# 1、立即执行
+研究认为，开始着手一件事是最大的障碍！幸运的是，人们天生有一种 “万事有始有终” 的驱动力，它会迫使人们完成已经开始了的工作。当我们没有完成任务时，就会经历不适和入侵性的想法。
+
+# 2、时间管理
+根据时间管理四象限法则，将待办事项按照重要程度排序，为自
+      
+    </div>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/%E4%BA%BA%E7%94%9F%E7%AE%A1%E7%90%86%E6%9C%AF/" itemprop="url" title="人生管理术"><i class="ic i-flag"></i>人生管理术</a>
+      </span>
+    </div>
+    <a href="/management/how-to-stop-procrastinating.html" itemprop="url" title="如何克服拖延症？" class="btn">more...</a>
+  </div>
+</article>
+
+        
+<article class="item">
+  <div class="cover">
+    <a href="/vocal-exercise/tongue-twister.html" itemprop="url" title="声音训练：绕口令"><img data-src="http://static.luhuadong.com/CrestedButteEclispe.jpg"></a>
+  </div>
+  <div class="info">
+    
+<div class="meta">
+  <span class="item" title="创建时间：2022-04-23 11:39:33">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2022-04-23T11:39:33+08:00">2022-04-23</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>514</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>1 分钟</span>
+  </span>
+</div>
+
+    <h3><a href="/vocal-exercise/tongue-twister.html" itemprop="url" title="声音训练：绕口令">声音训练：绕口令</a></h3>
+    <div class="excerpt">
+        # （〇）四是四，十是十
+四是四，十是十，
+
+十四是十四，四十是四十。
+
+莫把四字说成十，休将十字说成四。
+
+若要分清四十和十四，经常练说十和四。
+
+难度系数：⭐ ⭐
+
+# （一）扁担长，板凳宽
+扁担长，板凳宽，
+
+板凳没有扁担长，
+
+扁担没有板凳宽。
+
+扁担要绑在板凳上，
+
+板凳不让扁担绑在板凳上，
+
+扁担偏要扁担绑在板凳上。
+
+难度系数：⭐ ⭐ ⭐
+
+# （二）山前有个严圆眼
+山前有个严圆眼，
+
+山后有个严眼圆，
+
+两人上山来比眼，
+
+不知是严圆眼比严眼圆的眼圆？
+
+还是严眼圆比严圆眼的眼圆？
+
+难度系数：⭐ ⭐ ⭐ ⭐
+
+# （三）你会炖炖冻豆腐
+你会炖炖冻豆腐，
+
+你来炖我的炖冻豆腐；
+      
+    </div>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/%E5%A3%B0%E9%9F%B3%E8%AF%BE%E5%A0%82/" itemprop="url" title="声音课堂"><i class="ic i-flag"></i>声音课堂</a>
+      </span>
+    </div>
+    <a href="/vocal-exercise/tongue-twister.html" itemprop="url" title="声音训练：绕口令" class="btn">more...</a>
+  </div>
+</article>
+
+        
+<article class="item">
+  <div class="cover">
+    <a href="/vocal-exercise/tongue-exercise.html" itemprop="url" title="声音训练：舌部操"><img data-src="http://static.luhuadong.com/NIrelandGiants.jpg"></a>
+  </div>
+  <div class="info">
+    
+<div class="meta">
+  <span class="item" title="创建时间：2022-04-21 19:21:08">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2022-04-21T19:21:08+08:00">2022-04-21</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>81</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>1 分钟</span>
+  </span>
+</div>
+
+    <h3><a href="/vocal-exercise/tongue-exercise.html" itemprop="url" title="声音训练：舌部操">声音训练：舌部操</a></h3>
+    <div class="excerpt">
+        划重点：
+
+ 1. 伸舌卷舌组合练习（10 个一组，每天三组）
+ 2. 舌后舔（10 个一组，每天两组）
+ 3. 刮舌动作到舌头放平（10 个一组，每天两组）
+ 4. 转舌两个方向（各 15 圈算是一组，每天三组）
+      
+    </div>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/%E5%A3%B0%E9%9F%B3%E8%AF%BE%E5%A0%82/" itemprop="url" title="声音课堂"><i class="ic i-flag"></i>声音课堂</a>
+      </span>
+    </div>
+    <a href="/vocal-exercise/tongue-exercise.html" itemprop="url" title="声音训练：舌部操" class="btn">more...</a>
+  </div>
+</article>
+
+    </div>
+
+  </div>
+
+  
   <nav class="pagination">
-    <a class="extend prev" rel="prev" href="/page/5/"><i class="fa fa-angle-left" aria-label="上一页"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/5/">5</a><span class="page-number current">6</span><a class="page-number" href="/page/7/">7</a><span class="space">&hellip;</span><a class="page-number" href="/page/30/">30</a><a class="extend next" rel="next" href="/page/7/"><i class="fa fa-angle-right" aria-label="下一页"></i></a>
+    <div class="inner">
+    <a class="extend prev" rel="prev" href="/page/5/"><i class="ic i-angle-left" aria-label="上一页"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/5/">5</a><span class="page-number current">6</span><a class="page-number" href="/page/7/">7</a><span class="space">&hellip;</span><a class="page-number" href="/page/29/">29</a><a class="extend next" rel="next" href="/page/7/"><i class="ic i-angle-right" aria-label="下一页"></i></a>
+    </div>
   </nav>
 
 
-<script>
-  window.addEventListener('tabs:register', () => {
-    let { activeClass } = CONFIG.comments;
-    if (CONFIG.comments.storage) {
-      activeClass = localStorage.getItem('comments_active') || activeClass;
-    }
-    if (activeClass) {
-      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
-      if (activeTab) {
-        activeTab.click();
-      }
-    }
-  });
-  if (CONFIG.comments.storage) {
-    window.addEventListener('tabs:click', event => {
-      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
-      const commentClass = event.target.classList[1];
-      localStorage.setItem('comments_active', commentClass);
-    });
-  }
-</script>
+
+        </div>
+        <div id="sidebar">
+          
+<div class="inner">
+
+  <div class="panels">
+    <div class="inner">
+      <div class="contents panel pjax" data-title="文章目录">
+      </div>
+      <div class="related panel pjax" data-title="系列文章">
+      </div>
+      <div class="overview panel" data-title="站点概览">
+        <div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <img class="image" itemprop="image" alt="Rudy Lo"
+      data-src="/images/lu_20221221.jpg">
+  <p class="name" itemprop="name">Rudy Lo</p>
+  <div class="description" itemprop="description">阿基米东的网络日志</div>
 </div>
-  </main>
 
-  <footer class="footer">
-    <div class="footer-inner">
+<nav class="state">
+    <div class="item posts">
+      <a href="/archives/">
+        <span class="count">295</span>
+        <span class="name">文章</span>
+      </a>
+    </div>
+    <div class="item categories">
+      <a href="/categories/">
+        <span class="count">35</span>
+        <span class="name">分类</span>
+      </a>
+    </div>
+    <div class="item tags">
+      <a href="/tags/">
+        <span class="count">80</span>
+        <span class="name">标签</span>
+      </a>
+    </div>
+</nav>
 
-
-<div class="copyright">
-  &copy; 
-  <span itemprop="copyrightYear">2023</span>
-  <span class="with-love">
-    <i class="fa fa-heart"></i>
-  </span>
-  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
+<div class="social">
+      <span class="exturl item github" data-url="aHR0cHM6Ly9naXRodWIuY29tL2x1aHVhZG9uZw==" title="https:&#x2F;&#x2F;github.com&#x2F;luhuadong"><i class="ic i-github"></i></span>
+      <span class="exturl item csdn" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x1X2VtYmVkZGVk" title="https:&#x2F;&#x2F;blog.csdn.net&#x2F;lu_embedded"><i class="ic i-address-card"></i></span>
+      <span class="exturl item zhihu" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9hcm1zdHJvbmcyMDE0" title="https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014"><i class="ic i-zhihu"></i></span>
+      <span class="exturl item douban" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC83MzAwNDcv" title="https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;"><i class="ic i-douban"></i></span>
+      <span class="exturl item weibo" data-url="aHR0cHM6Ly93ZWliby5jb20vdS8yMDAwMzkxOTUx" title="https:&#x2F;&#x2F;weibo.com&#x2F;u&#x2F;2000391951"><i class="ic i-weibo"></i></span>
+      <span class="exturl item email" data-url="bWFpbHRvOmx1aHVhZG9uZ0AxNjMuY29t" title="mailto:luhuadong@163.com"><i class="ic i-envelope"></i></span>
 </div>
-  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
+
+<ul class="menu">
+  
+    
+  <li class="item">
+    <a href="/" rel="section"><i class="ic i-home"></i>首页</a>
+  </li>
+
+    
+  <li class="item">
+    <a href="/about/" rel="section"><i class="ic i-user"></i>关于</a>
+  </li>
+
+        
+  <li class="item dropdown">
+      <a href="javascript:void(0);"><i class="ic i-feather"></i>文章</a>
+    <ul class="submenu">
+
+        
+  <li class="item">
+    <a href="/archives/" rel="section"><i class="ic i-list-alt"></i>归档</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/categories/" rel="section"><i class="ic i-th"></i>分类</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/tags/" rel="section"><i class="ic i-tags"></i>标签</a>
+  </li>
+
+  </ul>
+
+</ul>
+
+      </div>
+    </div>
   </div>
 
-    </div>
-  </footer>
+  <ul id="quick">
+    <li class="prev pjax">
+        <a href="/page/5/" rel="prev" title="上一篇"><i class="ic i-chevron-left"></i></a>
+    </li>
+    <li class="up"><i class="ic i-arrow-up"></i></li>
+    <li class="down"><i class="ic i-arrow-down"></i></li>
+    <li class="next pjax">
+        <a href="/page/7/" rel="next" title="下一篇"><i class="ic i-chevron-right"></i></a>
+    </li>
+    <li class="percent"></li>
+  </ul>
+</div>
 
-  
-  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+        </div>
+        <div class="dimmer"></div>
+      </div>
+    </main>
+    <footer id="footer">
+      <div class="inner">
+        <div class="widgets">
+          
 
-  
-<script src="/js/local-search.js"></script>
+        </div>
+        <div class="status">
+  <div class="copyright">
+    
+    &copy; 2014 – 
+    <span itemprop="copyrightYear">2023</span>
+    <span class="with-love">
+      <i class="ic i-sakura rotate"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">Rudy Lo @ Freedom Blog</span>
+  </div>
+  <div class="count">
+    <span class="post-meta-item-icon">
+      <i class="ic i-chart-area"></i>
+    </span>
+    <span title="站点总字数">591k 字</span>
 
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="ic i-coffee"></i>
+    </span>
+    <span title="站点阅读时长">8:57</span>
+  </div>
+  <div class="powered-by">
+    基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
+  </div>
+</div>
 
-
-
-
-
-  
-
-
-
-
-  <script>
-  if (typeof MathJax === 'undefined') {
-    window.MathJax = {
-      tex: {
-        inlineMath: {'[+]': [['$', '$']]},
-        tags: 'none'
+      </div>
+    </footer>
+  </div>
+<script data-config type="text/javascript">
+  var LOCAL = {
+    path: 'page/6/',
+    favicon: {
+      show: "（●´3｀●）やれやれだぜ",
+      hide: "(´Д｀)大変だ！"
+    },
+    search : {
+      placeholder: "文章搜索",
+      empty: "关于 「 ${query} 」，什么也没搜到",
+      stats: "${time} ms 内找到 ${hits} 条结果"
+    },
+    valine: true,fancybox: true,
+    copyright: '复制成功，转载请遵守 <i class="ic i-creative-commons"></i>BY-NC-SA 协议。',
+    ignores : [
+      function(uri) {
+        return uri.includes('#');
       },
-      options: {
-        renderActions: {
-          insertedScript: [200, () => {
-            document.querySelectorAll('mjx-container').forEach(node => {
-              const target = node.parentNode;
-              if (target.nodeName.toLowerCase() === 'li') {
-                target.parentNode.classList.add('has-jax');
-              }
-            });
-          }, '', false]
-        }
+      function(uri) {
+        return new RegExp(LOCAL.path+"$").test(uri);
       }
-    };
-    const script = document.createElement('script');
-    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
-    script.defer = true;
-    document.head.appendChild(script);
-  } else {
-    MathJax.startup.document.state(0);
-    MathJax.typesetClear();
-    MathJax.texReset();
-    MathJax.typeset();
-  }
+    ]
+  };
 </script>
 
+<script src="https://cdn.polyfill.io/v2/polyfill.js"></script>
+
+<script src="//cdn.jsdelivr.net/combine/npm/pace-js@1.0.2/pace.min.js,npm/pjax@0.2.8/pjax.min.js,npm/whatwg-fetch@3.4.0/dist/fetch.umd.min.js,npm/animejs@3.2.0/lib/anime.min.js,npm/algoliasearch@4/dist/algoliasearch-lite.umd.js,npm/instantsearch.js@4/dist/instantsearch.production.min.js,npm/lozad@1/dist/lozad.min.js,npm/quicklink@2/dist/quicklink.umd.js"></script>
+
+<script src="/js/app.js?v=0.2.5"></script>
+
+
+  <script data-pjax>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
 
 
 </body>

@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://luhuadong.com</id>
+    <title>成为自由人 • Posts by &#34;科技向善&#34; tag</title>
+    <link href="https://luhuadong.com" />
+    <updated>2022-07-18T07:04:11.000Z</updated>
+    <category term="商业" />
+    <category term="成长" />
+    <category term="日记" />
+    <category term="创业" />
+    <category term="家居" />
+    <category term="互联网" />
+    <category term="读书笔记" />
+    <category term="工程师" />
+    <category term="爱" />
+    <category term="名言" />
+    <category term="奋斗" />
+    <category term="信息世界" />
+    <category term="管理" />
+    <category term="程序员" />
+    <category term="职场" />
+    <category term="人生" />
+    <category term="物联网" />
+    <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
+    <category term="创客" />
+    <category term="比赛" />
+    <category term="科技向善" />
+    <category term="英语" />
+    <category term="学习" />
+    <category term="环保" />
+    <category term="碳中和" />
+    <category term="种植" />
+    <category term="健身" />
+    <category term="地理" />
+    <category term="城市" />
+    <category term="气象爱好者" />
+    <category term="指南" />
+    <category term="自律" />
+    <category term="思维" />
+    <category term="健康" />
+    <category term="Hexo" />
+    <category term="科普" />
+    <category term="可持续" />
+    <category term="能源" />
+    <category term="职业" />
+    <category term="时间管理" />
+    <category term="工作" />
+    <category term="总结" />
+    <category term="慈济" />
+    <category term="RT-Thread" />
+    <category term="开源" />
+    <category term="思考" />
+    <category term="生活" />
+    <category term="猫" />
+    <category term="幸福" />
+    <category term="修身" />
+    <category term="写书" />
+    <category term="milestone" />
+    <category term="地铁" />
+    <category term="Markdown" />
+    <category term="计划" />
+    <category term="股票" />
+    <category term="理财" />
+    <category term="投资" />
+    <category term="财富" />
+    <category term="保险" />
+    <category term="纪录片" />
+    <category term="自由" />
+    <category term="电影" />
+    <category term="TED演讲" />
+    <category term="时间" />
+    <category term="心理学" />
+    <category term="无线电爱好者" />
+    <category term="亲密关系" />
+    <category term="农业" />
+    <category term="游泳" />
+    <category term="励志" />
+    <category term="演讲" />
+    <category term="蔬食" />
+    <category term="电台主播" />
+    <category term="WordPress" />
+    <category term="垃圾分类" />
+    <category term="零废弃" />
+    <category term="低碳" />
+    <entry>
+        <id>https://luhuadong.com/contest/aws-serverless-for-good-2022.html</id>
+        <title>亚马逊 Serverless For Good - 2022 编程挑战赛</title>
+        <link rel="alternate" href="https://luhuadong.com/contest/aws-serverless-for-good-2022.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/contest/aws-serverless-for-good-2022.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;大赛简介&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#大赛简介&#34;&gt;#&lt;/a&gt; 大赛简介&lt;/h2&gt;
+&lt;p&gt;能源与气候危机愈演愈烈之下，可持续发展成为全球共识。互联网自然不能置身事外。技术人，如何用手中的一行行代码，守护 “绿色” 星球，让人类社会更加美好。充分利用 Serverless（无服务器）是减少能源消耗、践行低碳绝佳的方式之一。&lt;/p&gt;
+&lt;p&gt;Serverless 是一种云原生开发模型，能够让应用在远程托管的执行环境中按需运行，无需维护操作系统，从而提高资源利用率、降低成本、加速创新。&lt;/p&gt;
+&lt;p&gt;2022 年 3 月，Gartner 发布报告指出，到 2026 年，超过 50% 的全球企业将部署无服务器功能。不难看出，Serverless 的出现带来了一种全新的、颠覆式的云开发架构模式。为了践行 “技术向善” 的理念，帮助更多的开发者了解、熟悉无服务器技术，推动无服务器架构的创新，亚马逊云科技主办本次 Serverless for Good-2022 编程挑战赛。&lt;/p&gt;
+&lt;h2 id=&#34;赛程安排&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#赛程安排&#34;&gt;#&lt;/a&gt; 赛程安排&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2022/7/6-2022/8/19：报名 &amp;amp; 初赛阶段&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;提交内容：作品代码、技术文档&lt;/li&gt;
+&lt;li&gt;评分指标：作品完成度 50%、技术架构 20%、使用体验 20%、创意度 10%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2022/8/20-2022/9/18：决赛 &amp;amp; 答辩准备阶段&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;提交内容：测试版作品（DEMO）、作品代码、技术文档、作品演示 PPT&lt;/li&gt;
+&lt;li&gt;评分指标：作品完成度 30%、商业价值 30%、创意度 20%、使用体验 10%、技术难度 10%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2022/9/23：决赛路演&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;作品演示 PPT 最终版&lt;/li&gt;
+&lt;li&gt;评分指标：作品完成度 30%、商业价值 30%、创意度 20%、使用体验 10%、技术难度 10%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;初赛赛题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#初赛赛题&#34;&gt;#&lt;/a&gt; 初赛赛题&lt;/h2&gt;
+&lt;p&gt;参赛选手从给定的两个场景中任选其一，基于 Amazon Serverless 架构实现。每个场景都给出了推荐架构，供参赛者参考，组委会在初赛前将安排一次统一的在线培训。开发者团队可采用推荐架构，也可自由进行架构设计。评委根据作品完成度、技术架构、创意度等评分标准进行评分，前 5-8 名团队进入决赛。&lt;/p&gt;
+&lt;h2 id=&#34;决赛赛题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#决赛赛题&#34;&gt;#&lt;/a&gt; 决赛赛题&lt;/h2&gt;
+&lt;p&gt;参赛者基于 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hd3MuYW1hem9uLmNvbS9jbi9zZXJ2ZXJsZXNzLw==&#34;&gt;Amazon Serverless 架构&lt;/span&gt;，利用 Amazon Serverless 服务，实现社交泛娱乐、互动游戏、电商平台、IoT 等现代化应用场景的搭建，并实现交互。&lt;/p&gt;
+&lt;p&gt;你可以将 Serverless 架构用于物联网场景消除现实与数字世界之间的鸿沟，你可以考虑用 Serverless 解决社交场景下图像、视频处理等诸多问题，亦或是考虑开发一个电商网站，优化剁手党的购物体验… 更多场景等待着你去解锁！尽情发动你的想象力与创造力吧～&lt;/p&gt;
+&lt;p&gt;决赛阶段参赛团队必须完成能够试用的 Demo，可为 Web 网站、APP、小程序等，形式不限，使用的开发语言不限。本阶段将以 “线下编程 + 线上提交 + 现场答辩” 的方式进行。&lt;/p&gt;
+&lt;h2 id=&#34;作品提交&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#作品提交&#34;&gt;#&lt;/a&gt; 作品提交&lt;/h2&gt;
+&lt;p&gt;亚马逊云科技 Serverless 大赛采用线上提交作品的方式，提交方式请查看石墨文档《&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaGltby5pbS9kb2NzL3pka3lCQmFhYm1VUHdkQTYv&#34;&gt;Serverless for Good-2022 选手作品提交方式&lt;/span&gt;》。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hd3MuYW1hem9uLmNvbS9jbi9hYm91dC1hd3MvZXZlbnRzL3NlcnZlcmxlc3MtZm9yLWdvb2QtMjAyMi8=&#34;&gt;https://aws.amazon.com/cn/about-aws/events/serverless-for-good-2022/&lt;/span&gt;&lt;/p&gt;
+</content>
+        <category term="创客" />
+        <category term="比赛" />
+        <category term="科技向善" />
+        <updated>2022-07-18T07:04:11.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/contest/seeed-iot-in-the-wild-2022.html</id>
+        <title>矽递科技 IoT Into the Wild 大赛 2022</title>
+        <link rel="alternate" href="https://luhuadong.com/contest/seeed-iot-in-the-wild-2022.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/contest/iot-in-the-wild-2022-01.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;大赛介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#大赛介绍&#34;&gt;#&lt;/a&gt; 大赛介绍&lt;/h2&gt;
+&lt;p&gt;由 Seeed 联合社区伙伴在 Hakster 上发起的：IoT Into the Wild 大赛今天正式上线！欢迎参与！&lt;/p&gt;
+&lt;p&gt;赛程安排：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2022 年 6 月 8 日，正式发布&lt;/li&gt;
+&lt;li&gt;2022 年 7 月 22 日，硬件申请结束&lt;/li&gt;
+&lt;li&gt;2022 年 7 月 27 日，邮递硬件&lt;/li&gt;
+&lt;li&gt;2022 年 9 月 27 日，提交项目&lt;/li&gt;
+&lt;li&gt;2022 年 10 月 10 日，公布获奖名单&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;五大挑战&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#五大挑战&#34;&gt;#&lt;/a&gt; 五大挑战&lt;/h2&gt;
+&lt;p&gt;In this Contest, you can focus on making easy-to-deploy AIoT solutions that can contribute to tackling any of the following Challenges or challenge topics. There are 5 Challenges in total, among which you can freely choose to concentrate on topics of one Challenge or combine several Challenges that are specified in this Contest. &lt;strong&gt;Make sure to mention the specific Challenge and challenge topics in your project submission.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/contest/iot-in-the-wild-2022-03.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Challenge 1: Climate Crisis Prevention/Mitigation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Global warming&lt;/li&gt;
+&lt;li&gt;Carbon neutrality&lt;/li&gt;
+&lt;li&gt;Natural disaster prevention/mitigation&lt;/li&gt;
+&lt;li&gt;Sand depletion crisis&lt;/li&gt;
+&lt;li&gt;Environmentally-unsustainable tourism mitigation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Challenge 2: Wildlife/Biodiversity Conservation (U&lt;/strong&gt;nlimited to various types of flora and fauna)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Non-intrusive monitoring of endangered wildlife/biodiversity species from various threats&lt;/li&gt;
+&lt;li&gt;Animal movement, behavior and emotion detection&lt;/li&gt;
+&lt;li&gt;Environmental habitat monitoring&lt;/li&gt;
+&lt;li&gt;Human-wildlife conflict prevention/mitigation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Challenge 3: Marine Conser&lt;/strong&gt;v&lt;strong&gt;ation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sea level rise&lt;/li&gt;
+&lt;li&gt;Ice and snow melt&lt;/li&gt;
+&lt;li&gt;Marine pollution&lt;/li&gt;
+&lt;li&gt;Harmful algal bloom&lt;/li&gt;
+&lt;li&gt;Plastic pollution&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Challenge 4: Open Science&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Low-cost, open science hardware solutions as scientific research tools designed for outdoor scenarios in the wild (ex. microscopes, science equipment designs, sensors for environmental monitoring, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Challenge 5: Sustainable Agriculture&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Climate-smart commodities&lt;/li&gt;
+&lt;li&gt;Precision farming&lt;/li&gt;
+&lt;li&gt;Smart husbandry&lt;/li&gt;
+&lt;li&gt;Autonomous greenhouse&lt;/li&gt;
+&lt;li&gt;Local food production&lt;/li&gt;
+&lt;li&gt;Sustainable food supply chain management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;赛事合作方&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#赛事合作方&#34;&gt;#&lt;/a&gt; 赛事合作方&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/contest/iot-in-the-wild-2022-04.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;相关链接&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#相关链接&#34;&gt;#&lt;/a&gt; 相关链接&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaGFja3N0ZXIuaW8vY29udGVzdHMvaW90aW50aGV3aWxk&#34;&gt;https://www.hackster.io/contests/iotinthewild&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="创客" />
+        <category term="比赛" />
+        <category term="科技向善" />
+        <updated>2022-06-08T07:31:03.000Z</updated>
+    </entry>
+</feed>

@@ -1,0 +1,569 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>成为自由人 • Posts by &#34;信息世界&#34; tag</title>
+        <link>https://luhuadong.com</link>
+        <description>阿基米东的网络日志</description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 13 Sep 2021 12:45:58 +0800</pubDate>
+        <lastBuildDate>Mon, 13 Sep 2021 12:45:58 +0800</lastBuildDate>
+        <category>商业</category>
+        <category>成长</category>
+        <category>日记</category>
+        <category>创业</category>
+        <category>家居</category>
+        <category>互联网</category>
+        <category>读书笔记</category>
+        <category>工程师</category>
+        <category>爱</category>
+        <category>名言</category>
+        <category>奋斗</category>
+        <category>信息世界</category>
+        <category>管理</category>
+        <category>程序员</category>
+        <category>职场</category>
+        <category>人生</category>
+        <category>物联网</category>
+        <category>城市规划</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
+        <category>创客</category>
+        <category>比赛</category>
+        <category>科技向善</category>
+        <category>英语</category>
+        <category>学习</category>
+        <category>环保</category>
+        <category>碳中和</category>
+        <category>种植</category>
+        <category>健身</category>
+        <category>地理</category>
+        <category>城市</category>
+        <category>气象爱好者</category>
+        <category>指南</category>
+        <category>自律</category>
+        <category>思维</category>
+        <category>健康</category>
+        <category>Hexo</category>
+        <category>科普</category>
+        <category>可持续</category>
+        <category>能源</category>
+        <category>职业</category>
+        <category>时间管理</category>
+        <category>工作</category>
+        <category>总结</category>
+        <category>慈济</category>
+        <category>RT-Thread</category>
+        <category>开源</category>
+        <category>思考</category>
+        <category>生活</category>
+        <category>猫</category>
+        <category>幸福</category>
+        <category>修身</category>
+        <category>写书</category>
+        <category>milestone</category>
+        <category>地铁</category>
+        <category>Markdown</category>
+        <category>计划</category>
+        <category>股票</category>
+        <category>理财</category>
+        <category>投资</category>
+        <category>财富</category>
+        <category>保险</category>
+        <category>纪录片</category>
+        <category>自由</category>
+        <category>电影</category>
+        <category>TED演讲</category>
+        <category>时间</category>
+        <category>心理学</category>
+        <category>无线电爱好者</category>
+        <category>亲密关系</category>
+        <category>农业</category>
+        <category>游泳</category>
+        <category>励志</category>
+        <category>演讲</category>
+        <category>蔬食</category>
+        <category>电台主播</category>
+        <category>WordPress</category>
+        <category>垃圾分类</category>
+        <category>零废弃</category>
+        <category>低碳</category>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/source-list-getiot.html</guid>
+            <title>GetIoT 信息列表</title>
+            <link>https://luhuadong.com/source-list-getiot.html</link>
+            <category>信息世界</category>
+            <pubDate>Mon, 13 Sep 2021 12:45:58 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;domestic&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#domestic&#34;&gt;#&lt;/a&gt; DOMESTIC&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90aW55bGFiLm9yZw==&#34;&gt;泰晓科技&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZXNiZi5vcmc=&#34;&gt;嵌入式系统联谊会&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;hacker-创客&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hacker-创客&#34;&gt;#&lt;/a&gt; HACKER 创客&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29t&#34;&gt;GitHub&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oYWNrYWRheS5jb20=&#34;&gt;HACKADAY&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oYWNrYWRheS5pbw==&#34;&gt;hackaday.io&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaGFja3N0ZXIuaW8=&#34;&gt;hackster.io&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaW5zdHJ1Y3RhYmxlcy5jb20=&#34;&gt;instructables&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYWRhZnJ1aXQuY29t&#34;&gt;Adafruit&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucmFzcGJlcnJ5cGkub3Jn&#34;&gt;Raspberry Pi&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYXJkdWluby5jbg==&#34;&gt;Arduino 中文社区&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZGZyb2JvdC5jb20uY24=&#34;&gt;DFROBOT&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; 创客导航：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tYy5kZnJvYm90LmNvbS5jbi9saW5rcy8=&#34;&gt;https://mc.dfrobot.com.cn/links/&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;open-source&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#open-source&#34;&gt;#&lt;/a&gt; OPEN SOURCE&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pdHNmb3NzLmNvbQ==&#34;&gt;It’s FOSS&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ib290bGluLmNvbQ==&#34;&gt;bootlin&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9vcGVuc291cmNlLmNvbQ==&#34;&gt;opensource.com&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;info&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#info&#34;&gt;#&lt;/a&gt; INFO&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGludXhmb3JkZXZpY2VzLmNvbQ==&#34;&gt;Linux for Devices&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9saW51eC5jbi8=&#34;&gt;Linux 中国◆开源社区&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;linux&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#linux&#34;&gt;#&lt;/a&gt; Linux&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9saW51eC5jbi8=&#34;&gt;Linux 中国 (opens new window)&lt;/span&gt; ：提供各种资讯、文章、技术&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc2hpeWFubG91LmNvbS8=&#34;&gt;实验楼 (opens new window)&lt;/span&gt; ：免费提供了 Linux 在线环境，不用在自己机子上装系统也可以学习 Linux，超方便实用。&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2xpbnV4LnZiaXJkLm9yZy8=&#34;&gt;鸟哥的 linux 私房菜 (opens new window)&lt;/span&gt; ：非常适合 Linux 入门初学者看的教程。&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5saW51eGlkYy5jb20v&#34;&gt;Linux 公社 (opens new window)&lt;/span&gt; ：Linux 相关的新闻、教程、主题、壁纸都有。&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5saW51eGRlLm5ldC8=&#34;&gt;Linux Today (opens new window)&lt;/span&gt; ：Linux 新闻资讯发布，Linux 职业技术学习！。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;iot&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#iot&#34;&gt;#&lt;/a&gt; IoT&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pb3R0ZWNobmV3cy5jb20=&#34;&gt;IoTnews&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaW90Zm9yYWxsLmNvbQ==&#34;&gt;IoT for all&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;community&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#community&#34;&gt;#&lt;/a&gt; COMMUNITY&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kZXYudG8=&#34;&gt;Dev Community&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;science&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#science&#34;&gt;#&lt;/a&gt; SCIENCE&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc2NpZW5jZWRpcmVjdC5jb20=&#34;&gt;ScienceDirect&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/source-list-zerotogether.html</guid>
+            <title>ZeroTogether 信息列表</title>
+            <link>https://luhuadong.com/source-list-zerotogether.html</link>
+            <category>信息世界</category>
+            <pubDate>Mon, 13 Sep 2021 12:45:49 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;ngo&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#ngo&#34;&gt;#&lt;/a&gt; NGO&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5jaGluYWRldmVsb3BtZW50YnJpZWYub3JnLmNu&#34;&gt;China Development Brief | NGO 信息中心&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d2YucGFuZGEub3Jn&#34;&gt;WWF&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZ3JlZW5wZWFjZS5vcmc=&#34;&gt;绿色和平&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5mb24ub3JnLmNu&#34;&gt;自然之友&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5saW5nZmVpcWkub3Jn&#34;&gt;零废弃联盟&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy55amd6Lm9yZw==&#34;&gt;宜居广州&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5jZGd5eS5vcmc=&#34;&gt;成都根与芽&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2FpZmVuLm9yZw==&#34;&gt;上海爱芬环保&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5pcGUub3JnLmNu&#34;&gt;IPE 公共环境研究中心&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5iZXR0ZXJibHVlLm5ldA==&#34;&gt;无境深蓝&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuemhpaHUuY29tL29yZy9iYWktdHVvLXN1LWZ1&#34;&gt;摆脱塑缚&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wY2Qub3JnLmhr&#34;&gt;社区伙伴 PCD&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucGlja3VwY2hpbmEuY24=&#34;&gt;捡拾中国&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5ncmVlbi1yaXZlci5vcmc=&#34;&gt;绿色江河&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYzQwLm9yZw==&#34;&gt;C40 Cities&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY2hpbmFnb2luZ291dC5vcmc=&#34;&gt;中南屋&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;info&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#info&#34;&gt;#&lt;/a&gt; INFO&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZHJhd2Rvd24ub3Jn&#34;&gt;DRAW DOWN&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jbi53ZWZvcnVtLm9yZw==&#34;&gt;世界经济论坛&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jaGluYWRpYWxvZ3VlLm5ldA==&#34;&gt;中外对话&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5yZWVpLm9yZy5jbg==&#34;&gt;磐之石环境与能源研究中心&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cud3JpLm9yZy5jbg==&#34;&gt;世界资源研究所&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5zZGctY2hpbmEubmV0&#34;&gt;可持续发展经济导刊&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9odWFuYmFvLmJqeC5jb20uY24=&#34;&gt;北极星环保网&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2Vhc3Rhc2lhLmljbGVpLm9yZw==&#34;&gt;ICLEI&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3N0YXRlb2ZncmVlbi5jbg==&#34;&gt;State of Green&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZGVjYWRlb25yZXN0b3JhdGlvbi5vcmc=&#34;&gt;Ecosystem Restoration 2021-2030&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jbGltYXRlZnJlc2sub3Jn&#34;&gt;Climate Fresk&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZW5lcmd5LXJlcG9ydGVycy5jb20=&#34;&gt;Energy Reporters&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hbGxhZnJpY2EuY29t&#34;&gt;allAfrica&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudHJlZWh1Z2dlci5jb20=&#34;&gt;Treehugger | Sustainability for All&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc2hpd3V6cS5jb20vcG9ydGFsLnBocA==&#34;&gt;人民食物主权&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lLWluZm8ub3JnLnR3&#34;&gt;环境资讯中心（台湾）&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy50YW5wYWlmYW5nLmNvbS8=&#34;&gt;碳排放交易&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2d6LmNtYS5nb3YuY24vcXhrcC8=&#34;&gt;气象科普 | 贵州省气象局&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;community&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#community&#34;&gt;#&lt;/a&gt; COMMUNITY&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucGFjaGFtYW1hLm9yZw==&#34;&gt;地球妈妈&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub25lYXJteS5lYXJ0aA==&#34;&gt;One Army&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;foundation&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#foundation&#34;&gt;#&lt;/a&gt; FOUNDATION&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy52YW5rZWZvdW5kYXRpb24ub3Jn&#34;&gt;万科公益基金会&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5jYmNnZGYub3Jn&#34;&gt;中国绿发会&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;zero-waste&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#zero-waste&#34;&gt;#&lt;/a&gt; ZERO WASTE&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96ZXJvd2FzdGVob21lLmNvbQ==&#34;&gt;ZERO WASTE HOME&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96ZXJvd2FzdGVtYWxheXNpYS5vcmc=&#34;&gt;Zero Waste Malaysia&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96ZXJvd2FzdGV3b3JsZC5vcmc=&#34;&gt;Zero Waste World&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;business&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#business&#34;&gt;#&lt;/a&gt; BUSINESS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cud20uY29t&#34;&gt;Waste Management&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudGVycmFjeWNsZS5jbg==&#34;&gt;泰瑞环保&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYW9iYWcuY29t&#34;&gt;奥北环保&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2Jicy41MWZhZ3VhbmcuY29tL3BvcnRhbC5waHA=&#34;&gt;发光公社&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZm15OTAuY29t&#34;&gt;飞蚂蚁&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93ZWliby5jb20vNTJiank=&#34;&gt;白鲸鱼&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZHVvemh1YXl1LmNvbQ==&#34;&gt;多抓鱼&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc3RhcmZpZWxkY24uY29t&#34;&gt;星期零&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuemVyb3plcm8uY29tLnR3&#34;&gt;Zero Zero | 台湾&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubXltaXp1LmNv&#34;&gt;Mymizu | 日本&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucmVzcS1jbHViLmNvbQ==&#34;&gt;ResQ CLUB | 欧洲&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudmFsdWV2aWxsYWdlLmNvbQ==&#34;&gt;Value Village 二手商店&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZm9vZGluYy5jb20uY24=&#34;&gt;小食代&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;up&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#up&#34;&gt;#&lt;/a&gt; UP&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vMTg5Nzk3ODc=&#34;&gt;Eco 梦儿&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNTI0ODA5NTAz&#34;&gt;壹个袋子&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNjkxNzM1NDU2&#34;&gt;隔壁的 Lanai&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;山東女孩 JING&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;素食南安&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vYy8lRTYlODklQkUlRTglOTQlQUMlRTklQTMlOUZUcmF2ZWdnby8=&#34;&gt;找蔬食 Traveggo&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9yZXRoaW5rLnR3Lw==&#34;&gt;RE-THINK 重新思考 | 海岛子民的环保态度&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;播客&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#播客&#34;&gt;#&lt;/a&gt; 播客&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;海外智库能源与气候变化报告解读&lt;/li&gt;
+&lt;li&gt;碳笑风生&lt;/li&gt;
+&lt;li&gt;七个白菜&lt;/li&gt;
+&lt;li&gt;八九不离食&lt;/li&gt;
+&lt;li&gt;声东击西&lt;/li&gt;
+&lt;li&gt;环球地理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;news&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#news&#34;&gt;#&lt;/a&gt; NEWS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc2NpZW5jZW5ld3Mub3Jn&#34;&gt;ScienceNews&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZ2xvYmFsdGltZXMuY24=&#34;&gt;GLOBAL TIMES&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93ZWVrbHkuY2FpeGluLmNvbQ==&#34;&gt;财新周刊&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/source-list-learning.html</guid>
+            <title>一天不学习就浑身难受！😣</title>
+            <link>https://luhuadong.com/source-list-learning.html</link>
+            <category>信息世界</category>
+            <pubDate>Wed, 27 Apr 2016 21:42:37 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;学习平台&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#学习平台&#34;&gt;#&lt;/a&gt; 学习平台&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;中国大学 MOOC&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaWNvdXJzZTE2My5vcmcv&#34;&gt;https://www.icourse163.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;哔哩哔哩（B 站）&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tLw==&#34;&gt;https://www.bilibili.com/&lt;/span&gt; （B 站是一个很棒的免费学习网站，比如你可以搜集从入门到进阶的英语学习视频。）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TED&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudGVkLmNvbS8=&#34;&gt;https://www.ted.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;网易公开课&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9vcGVuLjE2My5jb20v&#34;&gt;https://open.163.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;阿里云大学&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lZHUuYWxpeXVuLmNvbS8=&#34;&gt;https://edu.aliyun.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;腾讯课堂&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9rZS5xcS5jb20v&#34;&gt;https://ke.qq.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;21ic 公开课&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL29wZW4uMjFpYy5jb20v&#34;&gt;http://open.21ic.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;抖音&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZG91eWluLmNvbS8=&#34;&gt;https://www.douyin.com/&lt;/span&gt;（没错，利用抖音的推荐功能，可以学习很多你想学的东西。）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;网易云课堂&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zdHVkeS4xNjMuY29tLw==&#34;&gt;https://study.163.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;慕课网&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaW1vb2MuY29tLw==&#34;&gt;https://www.imooc.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CSDN 学院&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lZHUuY3Nkbi5uZXQv&#34;&gt;https://edu.csdn.net/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;开课吧&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cua2Fpa2ViYS5jb20v&#34;&gt;https://www.kaikeba.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;极客学院&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuamlrZXh1ZXl1YW4uY29tLw==&#34;&gt;https://www.jikexueyuan.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IT 学院&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaXR4dWV5dWFuLmNvbS8=&#34;&gt;https://www.itxueyuan.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;51CTO 学院&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lZHUuNTFjdG8uY29tLw==&#34;&gt;https://edu.51cto.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;粤嵌创客训练营&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5nZWNvbmxpbmUuY24v&#34;&gt;http://www.geconline.cn/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;蓝墨云班课&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubW9zb3RlYWNoLmNuLw==&#34;&gt;https://www.mosoteach.cn/&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;通用知识&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#通用知识&#34;&gt;#&lt;/a&gt; 通用知识&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;wikiHow 指南网站：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aC53aWtpaG93LmNvbQ==&#34;&gt;https://zh.wikihow.com&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;github-资源&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#github-资源&#34;&gt;#&lt;/a&gt; GitHub 资源&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;OSSU 计算机科学自学：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL29zc3UvY29tcHV0ZXItc2NpZW5jZQ==&#34;&gt;https://github.com/ossu/computer-science&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;TeachYourselfCS：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2tlaXRobnVsbC9UZWFjaFlvdXJzZWxmQ1MtQ04=&#34;&gt;https://github.com/keithnull/TeachYourselfCS-CN&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;浙江大学课程攻略共享计划：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL1FTQ1RlY2gvemp1LWljaWNsZXM=&#34;&gt;https://github.com/QSCTech/zju-icicles&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;清华大学计算机系课程攻略：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL1BLVWFub255bS9SRUtDQVJDLVRTQy1VSFQ=&#34;&gt;https://github.com/PKUanonym/REKCARC-TSC-UHT&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;教程网站&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#教程网站&#34;&gt;#&lt;/a&gt; 教程网站&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;人人都懂物联网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nZXRpb3QudGVjaA==&#34;&gt;https://getiot.tech&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;菜鸟教程：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucnVub29iLmNvbQ==&#34;&gt;https://www.runoob.com&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;网道：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93YW5nZG9jLmNvbQ==&#34;&gt;https://wangdoc.com&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;嵌入式-linux&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#嵌入式-linux&#34;&gt;#&lt;/a&gt; 嵌入式 Linux&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GNU 项目：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZ251Lm9yZy8=&#34;&gt;https://www.gnu.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;GNU 的 FTP 站点：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9mdHAuZ251Lm9yZy8=&#34;&gt;https://ftp.gnu.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Linux kernel：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cua2VybmVsLm9yZy8=&#34;&gt;https://www.kernel.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Linux kernel 下载地址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cua2VybmVsLm9yZy9wdWIvbGludXgva2VybmVsLw==&#34;&gt;https://www.kernel.org/pub/linux/kernel/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;U-Boot 下载地址：&lt;span class=&#34;exturl&#34; data-url=&#34;ZnRwOi8vZnRwLmRlbnguZGUvcHViL3UtYm9vdA==&#34;&gt;ftp://ftp.denx.de/pub/u-boot&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;BusyBox：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9idXN5Ym94Lm5ldC8=&#34;&gt;https://busybox.net/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Bash 下载地址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9mdHAuZ251Lm9yZy9nbnUvYmFzaC8=&#34;&gt;https://ftp.gnu.org/gnu/bash/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;ARM 交叉编译工具链：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudmVyeWFybS5jb20v&#34;&gt;https://www.veryarm.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;ARM Developer：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kZXZlbG9wZXIuYXJtLmNvbS8=&#34;&gt;https://developer.arm.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;QEMU：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucWVtdS5vcmcv&#34;&gt;https://www.qemu.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Linux Cross Reference：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2x4ci5mcmVlLWVsZWN0cm9ucy5jb20v&#34;&gt;http://lxr.free-electrons.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Bootlin：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ib290bGluLmNvbS8=&#34;&gt;https://bootlin.com/&lt;/span&gt; （Bootlin is an engineering company specialized in embedded Linux）&lt;/li&gt;
+&lt;li&gt;Linux From Scratch：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5saW51eGZyb21zY3JhdGNoLm9yZy8=&#34;&gt;http://www.linuxfromscratch.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Buildroot：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9idWlsZHJvb3Qub3JnLw==&#34;&gt;https://buildroot.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Yocto Project / OpenEmbedded：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW9jdG9wcm9qZWN0Lm9yZy8=&#34;&gt;https://www.yoctoproject.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Yocto 的 Git 代码库：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXQueW9jdG9wcm9qZWN0Lm9yZy8=&#34;&gt;https://git.yoctoproject.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;OpenEmbedded 的 Git 代码库：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXQub3BlbmVtYmVkZGVkLm9yZy8=&#34;&gt;https://git.openembedded.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Gentoo Linux 手册：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93aWtpLmdlbnRvby5vcmcvd2lraS9IYW5kYm9vazpYODYvRnVsbC9JbnN0YWxsYXRpb24vemgtY24=&#34;&gt;https://wiki.gentoo.org/wiki/Handbook:X86/Full/Installation/zh-cn&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Ubuntu 软件包检索：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYWNrYWdlcy51YnVudHUuY29tLw==&#34;&gt;https://packages.ubuntu.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Ubuntu 中文 Wiki：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93aWtpLnVidW50dS5vcmcuY24v&#34;&gt;https://wiki.ubuntu.org.cn/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Linux 命令大全：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tYW4ubGludXhkZS5uZXQv&#34;&gt;https://man.linuxde.net/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL0xJTlVYLkNPTQ==&#34;&gt;LINUX.COM&lt;/span&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGludXguY29tLw==&#34;&gt;https://www.linux.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Linux 公社：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGludXhpZGMuY29tLw==&#34;&gt;https://www.linuxidc.com/&lt;/span&gt; （下载的话，用户名与密码都是 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5saW51eGlkYy5jb20=&#34;&gt;www.linuxidc.com&lt;/span&gt;）&lt;/li&gt;
+&lt;li&gt;Linux 中国：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9saW51eC5jbi8=&#34;&gt;https://linux.cn/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Qt 下载中心：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb3dubG9hZC5xdC5pby8=&#34;&gt;https://download.qt.io/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;QTCN 开发网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5xdGNuLm9yZy9iYnMvaS5waHA=&#34;&gt;http://www.qtcn.org/bbs/i.php&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Clonezilla（再生龙）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zb3VyY2Vmb3JnZS5uZXQvcHJvamVjdHMvY2xvbmV6aWxsYS9maWxlcy9jbG9uZXppbGxhX2xpdmVfc3RhYmxlLw==&#34;&gt;https://sourceforge.net/projects/clonezilla/files/clonezilla_live_stable/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;跟我一起写 Makefile：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zZWlzbWFuLmdpdGh1Yi5pby9ob3ctdG8td3JpdGUtbWFrZWZpbGUv&#34;&gt;https://seisman.github.io/how-to-write-makefile/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;跟我一起写 Makefile：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93aWtpLnVidW50dS5vcmcuY24vJUU4JUI3JTlGJUU2JTg4JTkxJUU0JUI4JTgwJUU4JUI1JUI3JUU1JTg2JTk5TWFrZWZpbGU=&#34;&gt;https://wiki.ubuntu.org.cn/ 跟我一起写 Makefile&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;RT patch 下载：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cua2VybmVsLm9yZy9wdWIvbGludXgva2VybmVsL3Byb2plY3RzL3J0Lw==&#34;&gt;https://www.kernel.org/pub/linux/kernel/projects/rt/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;RTAI 官网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucnRhaS5vcmcv&#34;&gt;https://www.rtai.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Xenomai 官网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3hlbm9tYWkub3JnLw==&#34;&gt;http://xenomai.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;tslib 库源码下载：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2tlcmdvdGgvdHNsaWI=&#34;&gt;https://github.com/kergoth/tslib&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;oRTP 库源码下载：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2Rvd25sb2FkLnNhdmFubmFoLmdudS5vcmcvcmVsZWFzZXMvbGlucGhvbmUvb3J0cC9zb3VyY2VzLw==&#34;&gt;http://download.savannah.gnu.org/releases/linphone/ortp/sources/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Linphone 源码下载：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5saW5waG9uZS5vcmcvdGVjaG5pY2FsLWNvcm5lci9saW5waG9uZS9kb3dubG9hZHM=&#34;&gt;http://www.linphone.org/technical-corner/linphone/downloads&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;vim 键盘图：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy52aWVtdS5jb20vYV92aV92aW1fZ3JhcGhpY2FsX2NoZWF0X3NoZWV0X3R1dG9yaWFsLmh0bWw=&#34;&gt;http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;书籍教程&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#书籍教程&#34;&gt;#&lt;/a&gt; 书籍教程&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;很不错的资源，包括部分 GFDL books&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;《free programming books》&lt;/strong&gt;：&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3ZoZi9mcmVlLXByb2dyYW1taW5nLWJvb2tzL2Jsb2IvbWFzdGVyL2ZyZWUtcHJvZ3JhbW1pbmctYm9va3MtemgubWQ=&#34;&gt;https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;《开源世界旅行手册》&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pLmxpbnV4dG95Lm9yZy9kb2NzL2d1aWRlL2luZGV4Lmh0bWw=&#34;&gt;https://i.linuxtoy.org/docs/guide/index.html&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;《鸟哥的 Linux 私房菜》&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;新网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9saW51eC52YmlyZC5vcmcv&#34;&gt;https://linux.vbird.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;旧网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2xpbnV4LnZiaXJkLm9yZy8=&#34;&gt;http://linux.vbird.org/&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;《Linux 就该这么学》&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5saW51eHByb2JlLmNvbS9jaGFwdGVyLTAwLmh0bWw=&#34;&gt;http://www.linuxprobe.com/chapter-00.html&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;《Docker 学习笔记》&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2Jsb2cub3Bza3VtdS5jb20vZG9ja2VyLmh0bWw=&#34;&gt;http://blog.opskumu.com/docker.html&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;《Python 全栈工程师学习笔记》&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ib29rLml0eHVleXVhbi5jb20vTDhQOS9FRE1x&#34;&gt;https://book.itxueyuan.com/L8P9/EDMq&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Docker 中文&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5kb2NrZXIub3JnLmNuL2Jvb2svZG9ja2VyL3doYXQtaXMtZG9ja2VyLTE2Lmh0bWw=&#34;&gt;http://www.docker.org.cn/book/docker/what-is-docker-16.html&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;菜鸟教程&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucnVub29iLmNvbS8=&#34;&gt;https://www.runoob.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IT 学院（书籍手册）&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ib29rLml0eHVleXVhbi5jb20vZXhwbG9yZQ==&#34;&gt;https://book.itxueyuan.com/explore&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;W3C school&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudzNjc2Nob29sLmNuLw==&#34;&gt;https://www.w3cschool.cn/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudzNzY2hvb2wuY29tLmNuLw==&#34;&gt;https://www.w3school.com.cn/&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;基础教程网&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3RlbGl1dGUub3JnLw==&#34;&gt;http://teliute.org/&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;电子工程&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#电子工程&#34;&gt;#&lt;/a&gt; 电子工程&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;摩尔吧：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubW9vcmU4LmNvbS8=&#34;&gt;https://www.moore8.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;电子森林：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuLw==&#34;&gt;https://www.eetree.cn/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;硬禾学堂：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jbGFzcy5lZXRyZWUuY24vaW5kZXg=&#34;&gt;https://class.eetree.cn/index&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;硬禾实战营：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5lY2JjYW1wLmNvbS9jYW1wLw==&#34;&gt;http://www.ecbcamp.com/camp/&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;开源硬件&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#开源硬件&#34;&gt;#&lt;/a&gt; 开源硬件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Adafruit：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYWRhZnJ1aXQuY29tLw==&#34;&gt;https://www.adafruit.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;微雪百科：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy53YXZlc2hhcmUubmV0L3dpa2kvTWFpbl9QYWdl&#34;&gt;http://www.waveshare.net/wiki/Main_Page&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Arduino 官网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYXJkdWluby5jYy8=&#34;&gt;https://www.arduino.cc/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Arduino 中文社区：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYXJkdWluby5jbi8=&#34;&gt;https://www.arduino.cn/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;51duino：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy41MWR1aW5vLmNuLw==&#34;&gt;http://www.51duino.cn/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;WiFi 机器人网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy53aWZpLXJvYm90cy5jb20v&#34;&gt;http://www.wifi-robots.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;树莓派：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucmFzcGJlcnJ5cGkub3JnLw==&#34;&gt;https://www.raspberrypi.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Beagle Board：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9iZWFnbGVib2FyZC5vcmcv&#34;&gt;https://beagleboard.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;DragonBoard 410c（CSDN 开发者专区）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3F1YWxjb21tLmNzZG4ubmV0Lw==&#34;&gt;http://qualcomm.csdn.net/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;英特尔 Embedded Community：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lbWJlZGRlZC5jb21tdW5pdGllcy5pbnRlbC5jb20vY29tbXVuaXR5L2Vu&#34;&gt;https://embedded.communities.intel.com/community/en&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;英特尔中国代理：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jY2VjaGluYS5pbnRlbC5jb20v&#34;&gt;https://ccechina.intel.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;element14：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2NuLmVsZW1lbnQxNC5jb20v&#34;&gt;http://cn.element14.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;pcDuino 开源中国：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5vc2NoaW5hLm5ldC9oYXJkd2FyZS90b3BpYy9wY2R1aW5v&#34;&gt;http://www.oschina.net/hardware/topic/pcduino&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;pcDuino（linksprite）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2NuLmxpbmtzcHJpdGUuY29tLw==&#34;&gt;http://cn.linksprite.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;《pcDuino 开发实战指南》：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5wY2R1aW5vLmNvbS93aWtpL2luZGV4LnBocD90aXRsZT0lRTQlQjglQUQlRTYlOTYlODclRTQlQjklQTY=&#34;&gt;http://www.pcduino.com/wiki/index.php?title = 中文书&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;香蕉派：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5iYW5hbmEtcGkub3JnLmNuLw==&#34;&gt;http://www.banana-pi.org.cn/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;cubieboard：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2N1YmllYm9hcmQub3JnLw==&#34;&gt;http://cubieboard.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;cubieboard 中文论坛：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5jdWJpZS5jYy9mb3J1bS5waHA=&#34;&gt;http://www.cubie.cc/forum.php&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;HiKey（LeMaker）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5sZW1ha2VyLm9yZy9jbg==&#34;&gt;http://www.lemaker.org/cn&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;OpenCores（全世界最大的用于开发开源硬件 IP 核心的网站和社区）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL29wZW5jb3Jlcy5vcmcv&#34;&gt;http://opencores.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;OpenHW 开源硬件社区：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5vcGVuaHcub3JnLw==&#34;&gt;http://www.openhw.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;北京创客空间：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5iam1ha2Vyc3BhY2UuY29tLw==&#34;&gt;http://www.bjmakerspace.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;柴火创客空间：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5jaGFpaHVvLm9yZy8=&#34;&gt;http://www.chaihuo.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;新车间：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3hpbmNoZWppYW4uY29tLw==&#34;&gt;http://xinchejian.com/&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;人工智能&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#人工智能&#34;&gt;#&lt;/a&gt; 人工智能&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;TensorFlow：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5sZWlwaG9uZS5jb20vbmV3cy8yMDE2MDYvT1JsUTd1SzNUSVc4eFZHRi5odG1s&#34;&gt;http://www.leiphone.com/news/201606/ORlQ7uK3TIW8xVGF.html&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;吴恩达：
+&lt;ul&gt;
+&lt;li&gt;机器学习课程地址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY291cnNlcmEub3JnL2NvdXJzZS9tbA==&#34;&gt;https://www.coursera.org/course/ml&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;笔记地址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5haS1zdGFydC5jb20vbWwyMDE0Lw==&#34;&gt;http://www.ai-start.com/ml2014/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;深度学习课程地址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tb29jLnN0dWR5LjE2My5jb20vdW5pdmVyc2l0eS9kZWVwbGVhcm5pbmdfYWkjL2M=&#34;&gt;https://mooc.study.163.com/university/deeplearning_ai#/c&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;笔记地址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5haS1zdGFydC5jb20vZGwyMDE3Lw==&#34;&gt;http://www.ai-start.com/dl2017/&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;博客论坛&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#博客论坛&#34;&gt;#&lt;/a&gt; 博客论坛&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;InfoQ：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pbmZvcS5jbg==&#34;&gt;https://infoq.cn&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;CSDN：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Nkbi5uZXQv&#34;&gt;https://www.csdn.net/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;开源中国：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub3NjaGluYS5uZXQv&#34;&gt;https://www.oschina.net/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;稀土掘金
+&lt;ul&gt;
+&lt;li&gt;稀土官网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly94aXR1LmlvLw==&#34;&gt;https://xitu.io/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;掘金社区：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9qdWVqaW4uaW0v&#34;&gt;https://juejin.im/&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;V2EX：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudjJleC5jb20v&#34;&gt;https://www.v2ex.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;知乎&lt;/li&gt;
+&lt;li&gt;简书&lt;/li&gt;
+&lt;li&gt;Stackoverflow&lt;/li&gt;
+&lt;li&gt;RT-Thread 论坛：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucnQtdGhyZWFkLm9yZy9xYS9mb3J1bS5waHA=&#34;&gt;https://www.rt-thread.org/qa/forum.php&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;正点原子论坛：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5vcGVuZWR2LmNvbS8=&#34;&gt;http://www.openedv.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;野火论坛：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5maXJlYmJzLmNuL2ZvcnVtLnBocA==&#34;&gt;http://www.firebbs.cn/forum.php&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;看雪论坛：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9iYnMucGVkaXkuY29tLw==&#34;&gt;https://bbs.pediy.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Deepin 社区：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZGVlcGluLm9yZy8=&#34;&gt;https://www.deepin.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;西邮 Linux 兴趣小组：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueGl5b3VsaW51eC5vcmcv&#34;&gt;https://www.xiyoulinux.org/&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;编程练习&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#编程练习&#34;&gt;#&lt;/a&gt; 编程练习&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;程序媛计划&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3h5NjEuY29tL2dpcmwvYXBwL2hvbWUvaG9tZS5odG1s&#34;&gt;https://www.cxy61.com/girl/app/home/home.html&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;牛客网&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubm93Y29kZXIuY29tLw==&#34;&gt;https://www.nowcoder.com/&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;LeetCode&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZWV0Y29kZS5jb20v&#34;&gt;https://leetcode.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZWV0Y29kZS1jbi5jb20v&#34;&gt;https://leetcode-cn.com/&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Codecademy&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY29kZWNhZGVteS5jb20vemgv&#34;&gt;https://www.codecademy.com/zh/&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Coursera&lt;/strong&gt;：&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;TutorialsPoint&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy50dXRvcmlhbHNwb2ludC5jb20v&#34;&gt;http://www.tutorialspoint.com/&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;程序员技术入门免费教程网站，基本上涵盖了你能想到的编程语言和技术框架。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Lynda&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHluZGEuY29tLw==&#34;&gt;https://www.lynda.com/&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;StuQ&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5zdHVxLm9yZy8=&#34;&gt;http://www.stuq.org/&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;大神网站&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#大神网站&#34;&gt;#&lt;/a&gt; 大神网站&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;蜗窝科技：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy53b3dvdGVjaC5uZXQv&#34;&gt;http://www.wowotech.net/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;廖雪峰：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlhb3h1ZWZlbmcuY29tLw==&#34;&gt;https://www.liaoxuefeng.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;阮一峰：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5ydWFueWlmZW5nLmNvbS8=&#34;&gt;http://www.ruanyifeng.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;何小庆老师：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2FsbGFuaGUueHRyZWVtaG9zdC5jb20v&#34;&gt;http://allanhe.xtreemhost.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;武晔卿老师：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5lZWZvY3VzLmNvbS8lRTYlQUQlQTYlRTYlOTklOTQlRTUlOEQlQkYvYmxvZw==&#34;&gt;http://www.eefocus.com/ 武晔卿 /blog&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;陈莉君老师的 Linux 内核分析与实践：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubW9zb3RlYWNoLmNuL3dlYi9pbmRleC5waHA/Yz1yZXMmYW1wO209aW5kZXgmYW1wO2NsYXp6X2NvdXJzZV9pZD05RUE2OUU4Qy1EMEIwLTExRTctQUEyMi03Q0QzMEFEMzZDMDI=&#34;&gt;https://www.mosoteach.cn/web/index.php?c=res&amp;amp;m=index&amp;amp;clazz_course_id=9EA69E8C-D0B0-11E7-AA22-7CD30AD36C02&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;吴章金的 Cloud Lab（泰晓实验云台）—— 基于 Docker/Qemu 的嵌入式 Linux 开发环境
+&lt;ul&gt;
+&lt;li&gt;泰晓科技：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90aW55bGFiLm9yZy8=&#34;&gt;https://tinylab.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;首页：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3RpbnlsYWIub3JnL2xpbnV4LWxhYg==&#34;&gt;http://tinylab.org/linux-lab&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;仓库：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3RpbnljbHViL2xpbnV4LWxhYg==&#34;&gt;https://github.com/tinyclub/linux-lab&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;访问：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3RpbnlsYWIuY2xvdWQ6NjA4MC9sYWJz&#34;&gt;http://tinylab.cloud:6080/labs&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;周立功专栏：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy56bGcuY24v&#34;&gt;http://www.zlg.cn/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;LEP 项目：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5saW51eGVwLmNvbS8=&#34;&gt;http://www.linuxep.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;一个开源的音频分析软件：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYXVkYWNpdHl0ZWFtLm9yZy8=&#34;&gt;https://www.audacityteam.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;老设计师 James Greig 的博客：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2dyZWlnLmNjLw==&#34;&gt;http://greig.cc/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;吴川斌的博客：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubXItd3UuY24v&#34;&gt;https://www.mr-wu.cn/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Coding Horror：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNvZGluZ2hvcnJvci5jb20v&#34;&gt;https://blog.codinghorror.com/&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;产品设计&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#产品设计&#34;&gt;#&lt;/a&gt; 产品设计&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;起点学院：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucWlkaWFubGEuY29tLw==&#34;&gt;https://www.qidianla.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;蓝铅笔：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGFucWIuY29tLw==&#34;&gt;https://www.lanqb.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;站酷： &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuemNvb2wuY29tLmNuLw==&#34;&gt;https://www.zcool.com.cn/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;站酷高高手： &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZ29nb3VwLmNvbS8=&#34;&gt;https://www.gogoup.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;优设：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy51aXNkYy5jb20v&#34;&gt;http://www.uisdc.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;推酷： &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudHVpY29vbC5jb20v&#34;&gt;https://www.tuicool.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;技匠社：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5qaWppYW5nc2hlLmNvbS8=&#34;&gt;http://www.jijiangshe.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Ember&lt;/li&gt;
+&lt;li&gt;Dribbble&lt;/li&gt;
+&lt;li&gt;Pintrest&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;外语学习&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#外语学习&#34;&gt;#&lt;/a&gt; 外语学习&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;China Daily&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;NPR&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;开言英语&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;英语流利说&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Lingvist&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9saW5ndmlzdC5jb20v&#34;&gt;https://lingvist.com/&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;这个网站不仅可以用来学英语，还可以学习其他语言，如西班牙语、法语、俄罗斯语等等。号称学习一门语言只需要 200 小时，通过人工智能运算、大数据分析，推荐最适合你水平的教材，确定你的学习进度，了解你的学习难点，你的每一步动作与习惯，都会影响它的教程，适合各种水平的英语学习者。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;多邻国&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5kdW9saW5nby5jbi8=&#34;&gt;http://www.duolingo.cn/&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;这个网站只能学习英语和西班牙语，进入网站&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;学术科研&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#学术科研&#34;&gt;#&lt;/a&gt; 学术科研&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;IET&lt;/strong&gt;（The Institution of Engineering and Technology，英国工程技术学会）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudGhlaWV0Lm9yZy8=&#34;&gt;https://www.theiet.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IEEE&lt;/strong&gt;（Institute of Electrical and Electronics Engineers，电气电子工程师学会）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaWVlZS5vcmcv&#34;&gt;https://www.ieee.org/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ITU&lt;/strong&gt;（International Telecommunication Union，世界无线电通信大会）：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaXR1LmludC8=&#34;&gt;https://www.itu.int/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;嵌入式系统联谊会&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5lc2JmLmluZm8v&#34;&gt;http://www.esbf.info/&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;商学院&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#商学院&#34;&gt;#&lt;/a&gt; 商学院&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;得到大学&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;混沌大学&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;电台节目&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#电台节目&#34;&gt;#&lt;/a&gt; 电台节目&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;潘吉 Jenny 告诉你&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;软件那些事儿&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;俊玮谈新&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;静说日本&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Developer Tea&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zcGVjLmZtL3BvZGNhc3RzL2RldmVsb3Blci10ZWE=&#34;&gt;https://spec.fm/podcasts/developer-tea&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IPN&lt;/strong&gt;：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2lwbi5saS8=&#34;&gt;http://ipn.li/&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;微信公众号技术类&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#微信公众号技术类&#34;&gt;#&lt;/a&gt; 微信公众号（技术类）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;嵌入式资讯精选&lt;/strong&gt;：北航杂志社官方公众号。掌握最鲜资讯，尽领行业新风。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Linux 阅码场&lt;/strong&gt;：宋宝华团队运营的公众号。专业的 Linux 技术社区和 Linux 操作系统学习平台，内容涉及 Linux 内核，Linux 内存管理，Linux 进程管理，Linux 文件系统和 IO，Linux 性能调优，Linux 设备驱动以及 Linux 虚拟化和云计算等各方面。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;RTThread 物联网操作系统&lt;/strong&gt;：RT-Thread 官方公众号。帮助您了解 RT-Thread 相关的资讯。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;百问科技&lt;/strong&gt;：韦东山老师的公众号，分享有价值的嵌入式相关知识，如果您是单片机工程师，想转嵌入式 Linux，那关注这个公众号就对了。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;STM32 单片机&lt;/strong&gt;：ST MCU（产品 + 工具 + 资料 + 技术 + 市场 + 活动）× 您的关注 × 您的支持 = STM32 单片机蝴蝶乐园。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI 电堂&lt;/strong&gt;：电子设计知识超市，工程师的随身学堂&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;电子产品世界&lt;/strong&gt;：关注 EEPW 电子产品世界网，获取电子行业的最新资讯和最具价值的技术参考。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;微信公众号生活类&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#微信公众号生活类&#34;&gt;#&lt;/a&gt; 微信公众号（生活类）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GoZeroWaste&lt;/strong&gt;：GoZeroWaste（零活实验室）致力于用轻松愉快的方式帮助更多人开启零垃圾之路。我们通过一系列的活动与工作坊，向公众倡导可持续生活的理念，并鼓励大家采取积极的行动，选择对环境更友善的生活方式。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;零废弃联盟&lt;/strong&gt;：零废弃联盟推动中国实现零废弃。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;固废观察&lt;/strong&gt;：固废观察是原上海环境院院长张益创办的公众号，将每天与朋友分享垃圾处理、污泥处置、土壤修复等专家观点和热点资讯。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;环境健康这些事&lt;/strong&gt;：抗击隐形污染，助力无毒中国。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;徐嘉健康频道&lt;/strong&gt;：营养学严肃科普，谈生活尽量有趣，努力做你健康饮食的工具书。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;绿色和平行动派&lt;/strong&gt;：好玩的环保行动社群。爱地球，做个行动派，行动带来改变！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nZXRpb3QudGVjaC9hd2Vzb21lL2F3ZXNvbWUtbGVhcm4tdG8tY29kZS5odG1s&#34;&gt;优秀编程学习平台 | 人人都懂物联网&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

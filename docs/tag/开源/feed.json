@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "成为自由人 • All posts by \"开源\" tag",
+    "description": "阿基米东的网络日志",
+    "home_page_url": "https://luhuadong.com",
+    "items": [
+        {
+            "id": "https://luhuadong.com/journal/20220712.html",
+            "url": "https://luhuadong.com/journal/20220712.html",
+            "title": "成为 LVGL 贡献者了",
+            "date_published": "2022-07-12T11:33:50.000Z",
+            "content_html": "<p>今天在折腾<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cubnV2b3Rvbi5jb20=\">新唐科技</span>（nuvoTon）提供的 <span class=\"exturl\" data-url=\"aHR0cHM6Ly9nZXRpb3QudGVjaC9udW1ha2VyL251bWFrZXItaG1pLW45aDMwLWludHJvLmh0bWw=\">NuMaker-HMI-N9H30</span> 开发板时，准备编译 RT-Thread 的 BSP 包，添加了 LVGL 软件包，下载了交叉编译工具链… 一顿操作猛如虎，结果出现了好一些 Bug！比如下面这个：</p>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br><span class=\"line\">4</span><br><span class=\"line\">5</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">CC packages/LVGL-latest/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.o</span><br><span class=\"line\">packages/LVGL-latest/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c:5:10: fatal error: lvgl/lvgl.h: No such file or directory</span><br><span class=\"line\"> <span class=\"comment\">#include &quot;lvgl/lvgl.h&quot;</span></span><br><span class=\"line\">          ^~~~~~~~~~~~~</span><br><span class=\"line\">compilation terminated.</span><br></pre></td></tr></table></figure>\n<p>跟着查了代码，发现头文件确实没处理好，于是顺手修复了 Bug 并且提交了合并请求（<span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2x2Z2wvbHZnbC9wdWxsLzM0Nzc=\">PR #3477</span>）。几个小时后，<span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2x2Z2wvbHZnbA==\">LVGL</span> 项目的创始人 <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2tpc3ZlZ2Fib3I=\">Gabor Kiss-Vamosi</span> 合并了我的提交，开心！就这样，我成为了 LVGL 开源项目的第 263 位贡献者。</p>\n<img data-src=\"/images/journal/20220712_lvgl_contributor.png\" width=800 />\n<p>后来，我又发现了 RT-Thread 软件包中的一个 Bug，居然隐藏了 LVGL 的版本选择，导致 NuMaker-HMI-N9H30 没法使用 BSP 包中要求的 v8.2.0 版本。于是，我又顺手修复了 Bug 并且向 RT-Thread 的 <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL1JULVRocmVhZC9wYWNrYWdlcw==\">packages</span> 仓库提交了合并请求（<span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL1JULVRocmVhZC9wYWNrYWdlcy9wdWxsLzEzMDA=\">PR #1300</span>）。</p>\n<p>软件工程是一项很细致的工作，稍不注意或者考虑不周，很容易就产生 Bug。虽然这两个 Bug 都是小问题，但是如果初学者碰到了，就会很疑惑 —— 开源软件怎么这么多 bug？也不知道怎么解决，然后可能就不用了。</p>\n<p>看到 Bug 尽量修复，是一名开源软件工程师的基本修养！希望开源生态越来越好啦～</p>\n<hr>\n<blockquote>\n<p><a href=\"https://getiot.tech/lvgl/lvgl-intro.html\"><strong>LVGL 是什么？</strong></a><br>\nLVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI 所需的功能，具有易于使用的图形元素、精美的视觉效果和低内存占用。该项目原来的名字是 LittlevGL，后来更名为 LVGL，是 Light and Versatile Graphics Library 的首字母缩写，意为 “轻量级多功能图形库”。采用 MIT 许可证。</p>\n</blockquote>\n",
+            "tags": [
+                "日记",
+                "程序员",
+                "开源"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/journal/opensource-guide.html",
+            "url": "https://luhuadong.com/journal/opensource-guide.html",
+            "title": "《开源指北》之我和开源的故事",
+            "date_published": "2021-01-29T11:33:45.000Z",
+            "content_html": "<p><img data-src=\"https://img-blog.csdnimg.cn/20210129192536884.png\" alt=\"在这里插入图片描述\"></p>\n<p><strong>【开源指北 1.0 发布】和你做过最酷的事，就是一起「写书」</strong></p>\n<p>去年参加的《<span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRlZS5jb20vb3BlbnNvdXJjZS1ndWlkZQ==\">开源指北</span>》编写计划最近正式发布啦！</p>\n<p>我大概是最早加入该项目的非官方成员之一，因为我几乎每天都会登陆 Gitee 网站，在去年十月中旬就看到该项目的招募计划，然后就领取了第一章第一节的编写任务 —— <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRlZS5jb20vZ2l0ZWUtY29tbXVuaXR5L29wZW5zb3VyY2UtZ3VpZGUvaXNzdWVzL0kxVFRNQw==\">初识开源： 什么是开源？</span>，接下来两个月里又陆陆续续补充了其他章节的内容。（文章末尾看到「阿基米东」的就是啦～）</p>\n<iframe src=\"//player.bilibili.com/player.html?aid=671252058&bvid=BV1pU4y147Fu&cid=288508137&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>\n<p>可以说，如果不是因为开源，我是不会选择成为一名程序员的。</p>\n<p>我接触计算机非常晚，高考之后家里才有了第一台电脑，也是那时候我才开始学习怎么上网、怎么下载、怎么搜索…（所以真的很羡慕现在的小朋友呢）。但也正是因为接触电脑太晚了，所以我没有时间玩游戏，也没有受 Windows 闭源思想和盗版软件的毒害。</p>\n<p>大二接触 Linux 之后就被开源思想吸引了，开始了解自由软件运动和开源软件的发展史。甚至有一段时间成了 Richard Stallman 的狂热粉丝，捉住机会就给别人讲这段历史和我对自由的理解和追求，以及抛弃所有不自由的软件工具。</p>\n<p>后来我发现这对我来说是不对的，不是不再认同 Richard Stallman 的理念，而是当下作为一个普通人，更多需要考虑的是如何在理想与现实中找到一个平衡点，让自己尽快成长起来。当你变得更强大了，你才能得到真正的自由，才能帮助别人也走向自由。</p>\n<p>Richard Stallman 不仅是一名杰出的程序员，还是一名伟大的思想家。从这一角度来说，Richard Stallman 和我另一位偶像 —— Nikola Tesla 还挺像的。我当然也希望自己也能成为这样的人，只不过从实践的角度出发，我可能会更倾向于 Linus Torvalds 和 Thomas Edison 的做法。</p>\n<iframe src=\"//player.bilibili.com/player.html?aid=76947870&bvid=BV1VJ411R7h2&cid=131611138&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>\n<p>说回这个《开源指北》，是一个不错的项目！项目背景是在动荡的国际形势通过开源软件的方式增强中国基础软件的实力，因此在开源中国和开放原子基金会的支持下，以开源的形式编写一份给开源新手的保姆级开源百科，并以在线文档的形式对外开放阅读和持续迭代。</p>\n<p>虽说我早已是自由和开源软件的忠实拥趸，但真的写书的时候才感到压力，于是我又重新阅读相关书籍和网络资料，希望写出来的东西是正确、严谨，并且有趣的。</p>\n<p>说实话，教比学更难，也更有趣！我在这个过程中，学到了不少东西，比如加深了对开源软件概念、开源社区治理、组织架构、开源软件商业化的理解，也认识到了一些有趣的贡献者、扩充了知识面。更有趣的是，《开源指北》项目本身就是以这种形式在进行，还在上大学的时候，我就曾无数次想象用开源方式写书这件事情。我觉得教科书是最应该采用开源形式持续维护的，以集体贡献、公开的评审的方式决定教科书的内容，教给孩子们正确的知识、培养孩子们独立思考、合作分享的能力。</p>\n<img data-src=\"https://img-blog.csdnimg.cn/20210129193115151.jpg\" width=\"600\" />\n<p>前面说了，我接触电脑很晚，学习编程更晚。不过我觉得幸运的是，我接触电脑不久就进入了 Linux 的世界，学习编程不久就学会了 Git 魔法工具。最近 5 年，我已经将 Ubuntu 变成了我的主力系统，将 Git 相关工具变成的我的资料库，加上各种 SaaS 云服务，能帮助我在不断成长的同时保持轻装上阵，而不是处处受限。这也是我常常建议大家，无论是否是开发者，都应该了解开源软件和开源协作方式的原因。</p>\n<p>世界上有两种知识，一种是你知道的，一种是你知道在哪里能找到的。在现代分工如此精细的社会框架下，许多时候我们都是站在前人的肩膀上前进，这时候你知道在哪里能找到你想要的东西的能力就变得很重要了！而这恰恰是 Linux 哲学和开源协作模式能给我们带来的。懂的人，将会变得越来越厉害。</p>\n<p>希望这份保姆级的《<span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRlZS5jb20vb3BlbnNvdXJjZS1ndWlkZQ==\">开源指北</span>》能带你进入一个新的世界！释放你的创造力～</p>\n<img data-src=\"https://img-blog.csdnimg.cn/20210129193133537.jpeg\" style=\"zoom:50%;\" />\n",
+            "tags": [
+                "开源",
+                "写书"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/movies/revolution-os.html",
+            "url": "https://luhuadong.com/movies/revolution-os.html",
+            "title": "【纪录片】操作系统革命（Revolution OS）",
+            "date_published": "2020-06-17T06:43:59.000Z",
+            "content_html": "<iframe src=\"//player.bilibili.com/player.html?aid=796140504&bvid=BV1iC4y187nT&cid=235560964&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>\n<p>非常经典的有关自由软件运动的纪录片</p>\n<p><span class=\"exturl\" data-url=\"aHR0cDovL3d3dy5yZXZvbHV0aW9uLW9zLmNvbQ==\">http://www.revolution-os.com</span></p>\n",
+            "tags": [
+                "开源",
+                "纪录片",
+                "自由"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/movies/patent-absurdity.html",
+            "url": "https://luhuadong.com/movies/patent-absurdity.html",
+            "title": "【纪录片】软件专利的荒谬性（Patent Absurdity）",
+            "date_published": "2020-04-05T06:36:34.000Z",
+            "content_html": "<iframe src=\"//player.bilibili.com/player.html?aid=15221360&bvid=BV1sx411u7qy&cid=24774214&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>\n<p>官网：<span class=\"exturl\" data-url=\"aHR0cDovL3BhdGVudGFic3VyZGl0eS5jb20vd2F0Y2guaHRtbA==\">http://patentabsurdity.com/watch.html</span></p>\n<ul>\n<li>导演、拍摄、编辑：Luca Lucarini</li>\n<li>制片人：Jamie King</li>\n<li>动画制作：Christopher Allan Webber</li>\n<li>混音：Matt Smith</li>\n<li>由自由软件基金会赞助</li>\n<li>简体中文字幕制作者：阮一峰</li>\n<li>本片讲述了软件专利案件以及软件专利对软件开发者和整体经济的伤害</li>\n<li>本片的官方网站：<span class=\"exturl\" data-url=\"aHR0cDovL3BhdGVudGFic3VyZGl0eS5jb20=\">http://patentabsurdity.com</span></li>\n<li>本片以及本片中文字幕的使用遵循以下协议：<span class=\"exturl\" data-url=\"aHR0cDovL2NyZWF0aXZlY29tbW9ucw==\">http://creativecommons</span>.</li>\n</ul>\n",
+            "tags": [
+                "开源",
+                "纪录片",
+                "自由"
+            ]
+        }
+    ]
+}

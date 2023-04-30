@@ -1,392 +1,175 @@
+
+
+
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
-<meta name="theme-color" content="#222">
-<meta name="generator" content="Hexo 5.0.2">
+<meta name="theme-color" content="#FFF">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="icon" type="image/ico" sizes="32x32" href="/images/favicon.ico">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta http-equiv="Cache-Control" content="no-siteapp">
 
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/lu_avatar_01_120px.png">
-  <link rel="mask-icon" href="/images/lu_avatar_01_240px.png" color="#222">
+<link rel="alternate" type="application/rss+xml" title="成为自由人" href="https://luhuadong.com/rss.xml" />
+<link rel="alternate" type="application/atom+xml" title="成为自由人" href="https://luhuadong.com/atom.xml" />
+<link rel="alternate" type="application/json" title="成为自由人" href="https://luhuadong.com/feed.json" />
 
-<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Mulish:300,300italic,400,400italic,700,700italic%7CFredericka%20the%20Great:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20JP:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20SC:300,300italic,400,400italic,700,700italic%7CInconsolata:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
 
+<link rel="stylesheet" href="/css/app.css?v=0.2.5">
 
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3396347538857110" crossorigin="anonymous"></script>
-
-<script class="hexo-configurations">
-    var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
-  </script>
-<meta name="description" content="全年梳理  * 上半年，结束了在绿色城乡公益机构的兼职工作，对社区垃圾分类有了深入认识  * 三月份，参加了广州社科院的城市废弃物管理研讨会  * 四月份，完成了英语流利说的课程，并成功返学费  * 四月份，在深圳参加了嵌入式软件可靠性设计与测试技术高级研修班  * 五六月份，在广州工会修了 Flash 动画设计基础、数码摄影两门课  * 五月份，参加了嵌入式系统联谊会  * 五月份，参加了零废弃">
-<meta property="og:type" content="article">
-<meta property="og:title" content="我的2018——上懂机器学习，下懂微信建群">
-<meta property="og:url" content="https://luhuadong.com/journal/2018-year-end-summary.html">
-<meta property="og:site_name" content="成为自由人">
-<meta property="og:description" content="全年梳理  * 上半年，结束了在绿色城乡公益机构的兼职工作，对社区垃圾分类有了深入认识  * 三月份，参加了广州社科院的城市废弃物管理研讨会  * 四月份，完成了英语流利说的课程，并成功返学费  * 四月份，在深圳参加了嵌入式软件可靠性设计与测试技术高级研修班  * 五六月份，在广州工会修了 Flash 动画设计基础、数码摄影两门课  * 五月份，参加了嵌入式系统联谊会  * 五月份，参加了零废弃">
-<meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://img-blog.csdnimg.cn/2019010123173555.jpg">
-<meta property="og:image" content="https://img-blog.csdnimg.cn/20190101231757108.jpg">
-<meta property="og:image" content="https://img-blog.csdnimg.cn/20190101231820337.jpg">
-<meta property="og:image" content="https://img-blog.csdnimg.cn/20190101231831776.jpg">
-<meta property="og:image" content="https://img-blog.csdnimg.cn/20190101231845855.jpg">
-<meta property="og:image" content="https://img-blog.csdnimg.cn/20190101231856219.jpg">
-<meta property="og:image" content="https://img-blog.csdnimg.cn/20190101231907800.jpg">
-<meta property="og:image" content="https://img-blog.csdnimg.cn/2019010123192436.jpg">
-<meta property="og:image" content="https://img-blog.csdnimg.cn/20190101231937276.jpg">
-<meta property="og:image" content="https://img-blog.csdnimg.cn/20190101231948445.jpg">
-<meta property="og:image" content="https://img-blog.csdnimg.cn/20190101232002268.jpg">
-<meta property="og:image" content="https://img-blog.csdnimg.cn/20190101232013284.jpg">
-<meta property="article:published_time" content="2019-01-01T15:22:11.000Z">
-<meta property="article:modified_time" content="2023-03-24T17:27:54.605Z">
-<meta property="article:author" content="Rudy Lo">
-<meta property="article:tag" content="工作">
-<meta property="article:tag" content="总结">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://img-blog.csdnimg.cn/2019010123173555.jpg">
+  
+  <meta name="keywords" content="工作,总结" />
 
 
 <link rel="canonical" href="https://luhuadong.com/journal/2018-year-end-summary.html">
 
 
-<script class="page-configurations">
-  // https://hexo.io/docs/variables.html
-  CONFIG.page = {
-    sidebar: "",
-    isHome : false,
-    isPost : true,
-    lang   : 'zh-CN'
-  };
-</script>
-<title>我的2018——上懂机器学习，下懂微信建群 | 成为自由人</title>
+
+  <title>
+我的2018——上懂机器学习，下懂微信建群 - 不定时日记 |
+Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</title>
+<meta name="generator" content="Hexo 5.4.2"></head>
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div id="loading">
+    <div class="cat">
+      <div class="body"></div>
+      <div class="head">
+        <div class="face"></div>
+      </div>
+      <div class="foot">
+        <div class="tummy-end"></div>
+        <div class="bottom"></div>
+        <div class="legs left"></div>
+        <div class="legs right"></div>
+      </div>
+      <div class="paw">
+        <div class="hands left"></div>
+        <div class="hands right"></div>
+      </div>
+    </div>
+  </div>
+  <div id="container">
+    <header id="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="inner">
+        <div id="brand">
+          <div class="pjax">
+          
+  <h1 itemprop="name headline">我的2018——上懂机器学习，下懂微信建群
+  </h1>
   
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
-    <script>
-      if (CONFIG.hostname === location.hostname) {
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-190737867-1');
-      }
-    </script>
-
-  <script>
-    var _hmt = _hmt || [];
-    (function() {
-      var hm = document.createElement("script");
-      hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58";
-      var s = document.getElementsByTagName("script")[0];
-      s.parentNode.insertBefore(hm, s);
-    })();
-  </script>
-
-
-
-  <noscript>
-  <style>
-  body { margin-top: 2rem; }
-
-  .use-motion .menu-item,
-  .use-motion .sidebar,
-  .use-motion .post-block,
-  .use-motion .pagination,
-  .use-motion .comments,
-  .use-motion .post-header,
-  .use-motion .post-body,
-  .use-motion .collection-header {
-    visibility: visible;
-  }
-
-  .use-motion .header,
-  .use-motion .site-brand-container .toggle,
-  .use-motion .footer { opacity: initial; }
-
-  .use-motion .site-title,
-  .use-motion .site-subtitle,
-  .use-motion .custom-logo-image {
-    opacity: initial;
-    top: initial;
-  }
-
-  .use-motion .logo-line {
-    transform: scaleX(1);
-  }
-
-  .search-pop-overlay, .sidebar-nav { display: none; }
-  .sidebar-panel { display: block; }
-  </style>
-</noscript>
-
-</head>
-
-<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
-  <div class="headband"></div>
-
-  <!-- 加入APlayer音乐播放器 -->
-  <link rel="stylesheet" href="/dist/APlayer.min.css">
-  <div id="aplayer"></div>
-  <script type="text/javascript" src="/dist/APlayer.min.js"></script>
-  <script type="text/javascript" src="/dist/music.js"></script>
-
-  <main class="main">
-    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header-inner"><div class="site-brand-container">
-  <div class="site-nav-toggle">
-    <div class="toggle" aria-label="切换导航栏" role="button">
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-    </div>
-  </div>
-
-  <div class="site-meta">
-
-    <a href="/" class="brand" rel="start">
-      <i class="logo-line"></i>
-      <h1 class="site-title">成为自由人</h1>
-      <i class="logo-line"></i>
-    </a>
-      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
-      <img class="custom-logo-image" src="/images/banner_1.gif" alt="成为自由人">
-  </div>
-
-  <div class="site-nav-right">
-    <div class="toggle popup-trigger">
-        <i class="fa fa-search fa-fw fa-lg"></i>
-    </div>
-  </div>
+<div class="meta">
+  <span class="item" title="创建时间：2019-01-01 23:22:11">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <span class="text">发表于</span>
+    <time itemprop="dateCreated datePublished" datetime="2019-01-01T23:22:11+08:00">2019-01-01</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span class="text">本文字数</span>
+    <span>3.5k</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span class="text">阅读时长</span>
+    <span>3 分钟</span>
+  </span>
 </div>
 
 
-
-<nav class="site-nav">
-  <ul class="main-menu menu">
-        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
-        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
-        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
-        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
-        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
-        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
-        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
-        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
-      <li class="menu-item menu-item-search">
-        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
-        </a>
+          </div>
+        </div>
+        <nav id="nav">
+  <div class="inner">
+    <div class="toggle">
+      <div class="lines" aria-label="切换导航栏">
+        <span class="line"></span>
+        <span class="line"></span>
+        <span class="line"></span>
+      </div>
+    </div>
+    <ul class="menu">
+      <li class="item title"><a href="/" rel="start">Freedom Blog</a></li>
+    </ul>
+    <ul class="right">
+      <li class="item theme">
+        <i class="ic i-sun"></i>
       </li>
-  </ul>
+      <li class="item search">
+        <i class="ic i-search"></i>
+      </li>
+    </ul>
+  </div>
 </nav>
 
-
-
-  <div class="search-pop-overlay">
-    <div class="popup search-popup"><div class="search-header">
-  <span class="search-icon">
-    <i class="fa fa-search"></i>
-  </span>
-  <div class="search-input-container">
-    <input autocomplete="off" autocapitalize="off" maxlength="80"
-           placeholder="搜索..." spellcheck="false"
-           type="search" class="search-input">
-  </div>
-  <span class="popup-btn-close" role="button">
-    <i class="fa fa-times-circle"></i>
-  </span>
-</div>
-<div class="search-result-container no-result">
-  <div class="search-result-icon">
-    <i class="fa fa-spinner fa-pulse fa-5x"></i>
-  </div>
-</div>
-
-    </div>
-  </div>
-
-</div>
-        
-  
-  <div class="toggle sidebar-toggle" role="button">
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-  </div>
-
-  <aside class="sidebar">
-
-    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
-      <ul class="sidebar-nav">
-        <li class="sidebar-nav-toc">
-          文章目录
-        </li>
-        <li class="sidebar-nav-overview">
-          站点概览
-        </li>
-      </ul>
-
-      <div class="sidebar-panel-container">
-        <!--noindex-->
-        <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%85%A8%E5%B9%B4%E6%A2%B3%E7%90%86"><span class="nav-number">1.</span> <span class="nav-text">全年梳理</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%81%9A%E5%A5%BD%E6%9C%AC%E8%81%8C%E5%B7%A5%E4%BD%9C"><span class="nav-number">2.</span> <span class="nav-text">做好本职工作</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%9B%BD%E4%BA%A7%E5%8C%96%E8%BF%9B%E7%A8%8B"><span class="nav-number">2.1.</span> <span class="nav-text">国产化进程</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BB%8E%E4%BA%A7%E5%93%81%E5%88%B0%E5%B7%A5%E5%85%B7"><span class="nav-number">2.2.</span> <span class="nav-text">从产品到工具</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BB%8E%E7%A0%94%E5%8F%91%E5%88%B0%E7%AE%A1%E7%90%86"><span class="nav-number">2.3.</span> <span class="nav-text">从研发到管理</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BB%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%88%B0-Web"><span class="nav-number">2.4.</span> <span class="nav-text">从嵌入式到 Web</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%BC%80%E9%98%94%E6%80%9D%E7%BB%B4%E5%92%8C%E8%A7%81%E8%AF%86"><span class="nav-number">3.</span> <span class="nav-text">开阔思维和见识</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E9%9B%B6%E5%BA%9F%E5%BC%83%E4%B9%8B%E8%B7%AF"><span class="nav-number">3.1.</span> <span class="nav-text">零废弃之路</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%89%BE%E5%88%B0%E5%96%9C%E6%AC%A2%E7%9A%84%E5%9C%88%E5%AD%90"><span class="nav-number">3.2.</span> <span class="nav-text">找到喜欢的圈子</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%B8%80%E4%BA%9B%E6%84%9F%E6%82%9F"><span class="nav-number">4.</span> <span class="nav-text">一些感悟</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%9C%89%E6%97%B6%E5%80%99%E8%87%AA%E7%A7%81%E4%B8%80%E7%82%B9%E6%98%AF%E5%A5%BD%E4%BA%8B"><span class="nav-number">4.1.</span> <span class="nav-text">有时候自私一点是好事</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BA%92%E8%81%94%E7%BD%91%E6%97%B6%E4%BB%A3%EF%BC%8C%E8%A6%81%E8%B0%A6%E8%99%9A%EF%BC%8C%E8%A6%81%E5%96%84%E8%89%AF"><span class="nav-number">4.2.</span> <span class="nav-text">互联网时代，要谦虚，要善良</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%BF%9B%E6%AD%A5%E4%B8%8E%E4%B8%8D%E8%B6%B3"><span class="nav-number">5.</span> <span class="nav-text">进步与不足</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%BF%9B%E6%AD%A5%E7%9A%84%E5%9C%B0%E6%96%B9"><span class="nav-number">5.1.</span> <span class="nav-text">进步的地方</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%8D%E8%B6%B3%E4%B9%8B%E5%A4%84"><span class="nav-number">5.2.</span> <span class="nav-text">不足之处</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%96%B0%E5%B9%B4%E5%B1%95%E6%9C%9B"><span class="nav-number">6.</span> <span class="nav-text">新年展望</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%B4%B4%E4%B8%80%E4%BA%9B%E5%9B%BE"><span class="nav-number">7.</span> <span class="nav-text">贴一些图</span></a></li></ol></div>
-        </div>
-        <!--/noindex-->
-
-        <div class="site-overview-wrap sidebar-panel">
-          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
-      src="/images/lu_avatar_04.jpeg">
-  <p class="site-author-name" itemprop="name">Rudy Lo</p>
-  <div class="site-description" itemprop="description">阿基米东的网络日志</div>
-</div>
-<div class="site-state-wrap site-overview-item animated">
-  <nav class="site-state">
-      <div class="site-state-item site-state-posts">
-          <a href="/archives/">
-        
-          <span class="site-state-item-count">295</span>
-          <span class="site-state-item-name">日志</span>
-        </a>
       </div>
-      <div class="site-state-item site-state-categories">
-            <a href="/categories/">
-          
-        <span class="site-state-item-count">35</span>
-        <span class="site-state-item-name">分类</span></a>
+      <div id="imgs" class="pjax">
+        <ul>
+          <li class="item" data-background-image="http://static.luhuadong.com/QingMing2023.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/ProcidaItaly.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/YuanyangChina.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/AgueroSpain.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/JTNPMilkyWay.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/CrestedButteEclispe.jpg"></li>
+        </ul>
       </div>
-      <div class="site-state-item site-state-tags">
-            <a href="/tags/">
-          
-        <span class="site-state-item-count">80</span>
-        <span class="site-state-item-name">标签</span></a>
-      </div>
-  </nav>
-</div>
-  <div class="links-of-author site-overview-item animated">
-      <span class="links-of-author-item">
-        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://gitee.com/luhuadong" title="Gitee → https:&#x2F;&#x2F;gitee.com&#x2F;luhuadong" rel="noopener" target="_blank">Gitee</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.douban.com/group/730047/" title="豆瓣 → https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;" rel="noopener" target="_blank">豆瓣</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://zerotogether.net/" title="零废弃部落 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零废弃部落</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
-      </span>
-  </div>
-  <div class="cc-license site-overview-item animated" itemprop="license">
-    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
-  </div>
-
-
-
-        </div>
-      </div>
-    </div>
-  </aside>
-  <div class="sidebar-dimmer"></div>
-
-
     </header>
-
+    <div id="waves">
+      <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+        <defs>
+          <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+        </defs>
+        <g class="parallax">
+          <use xlink:href="#gentle-wave" x="48" y="0" />
+          <use xlink:href="#gentle-wave" x="48" y="3" />
+          <use xlink:href="#gentle-wave" x="48" y="5" />
+          <use xlink:href="#gentle-wave" x="48" y="7" />
+        </g>
+      </svg>
+    </div>
+    <main>
+      <div class="inner">
+        <div id="main" class="pjax">
+          
+  <div class="article wrap">
     
-  <div class="back-to-top" role="button">
-    <i class="fa fa-arrow-up"></i>
-    <span>0%</span>
-  </div>
-
-<noscript>
-  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
-</noscript>
-
-
-    <div class="main-inner post posts-expand">
-
-
-  
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/journal/2018-year-end-summary.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
-          我的2018——上懂机器学习，下懂微信建群
-        </h1>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2019-01-01 23:22:11" itemprop="dateCreated datePublished" datetime="2019-01-01T23:22:11+08:00">2019-01-01</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%8D%E5%AE%9A%E6%97%B6%E6%97%A5%E8%AE%B0/" itemprop="url" rel="index"><span itemprop="name">不定时日记</span></a>
-        </span>
-    </span>
-
-  
+<div class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+<i class="ic i-home"></i>
+<span><a href="/">首页</a></span><i class="ic i-angle-right"></i>
+<span  class="current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/categories/journal/" itemprop="item" rel="index" title="分类于 不定时日记"><span itemprop="name">不定时日记</span></a>
+<meta itemprop="position" content="1" /></span>
 </div>
 
-        </div>
-      </header>
+    <article itemscope itemtype="http://schema.org/Article" class="post block" lang="zh-CN">
+  <link itemprop="mainEntityOfPage" href="https://luhuadong.com/journal/2018-year-end-summary.html">
 
+  <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <meta itemprop="image" content="/images/lu_20221221.jpg">
+    <meta itemprop="name" content="Rudy Lo">
+    <meta itemprop="description" content="生活的理想，就是为了理想的生活, 阿基米东的网络日志">
+  </span>
+
+  <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+    <meta itemprop="name" content="成为自由人">
+  </span>
+
+  <div class="body md" itemprop="articleBody">
     
-    
-    
-    <div class="post-body" itemprop="articleBody">
-        <h2 id="全年梳理"><a href="#全年梳理" class="headerlink" title="全年梳理"></a>全年梳理</h2><ul>
+
+    <h2 id="全年梳理"><a class="markdownIt-Anchor" href="#全年梳理">#</a> 全年梳理</h2>
+<ul>
 <li>上半年，结束了在绿色城乡公益机构的兼职工作，对社区垃圾分类有了深入认识</li>
 <li>三月份，参加了广州社科院的城市废弃物管理研讨会</li>
 <li>四月份，完成了英语流利说的课程，并成功返学费</li>
@@ -412,37 +195,51 @@
 <li>十二月份，参加 GDG 广州站活动，保持好奇心，让自己永远处于学习状态</li>
 </ul>
 <hr>
-<h2 id="做好本职工作"><a href="#做好本职工作" class="headerlink" title="做好本职工作"></a>做好本职工作</h2><p>作为一名普通的技术人员，没有家庭资源的支持，没有强大的人脉关系，技术就是我们在这个社会上最好的立足点。这是我今年深切体会到的，我们要尽快完成原始资本的积累，必须要沉下心好好钻研一门技术，并以此为基础去扩展。正是因为掌握一门技术是有门槛的，所以才给了我们机会，只要我们不怕苦不怕累，在每个时代都可以找到突破的机会。</p>
-<p>本来6月份已经提交辞职申请的，然后经过领导的游说和金钱的诱惑，我屈服了（答应了2018年不走）。这也是我愿意继续在这里谈这份工作的原因。</p>
-<h3 id="国产化进程"><a href="#国产化进程" class="headerlink" title="国产化进程"></a>国产化进程</h3><p>纵观全年，集团在智能装备的研发上中规中矩，最大的变化就是受中美贸易战的影响，产品设计的芯片、系统和软件组件都在逐步寻找国产/自主研发的替代方案。形势是好的，但其实也很被动，尤其是像我们这样只做系统集成和业务开发的企业。一方面的国产优秀的芯片和解决方案不多，并且价格昂贵；另一方面是大家对技术不够包容，不够开放。</p>
-<p>做了一些这些方案，给我最大的感受是，大家都想在产业链中分一块蛋糕，却很少人想怎么把产品做好，怎么提升服务质量，怎么优化研发流程。很明显的一点就是开发者社区不够开放、缺乏活力，甚至是以“保密”为由，连社区都省了。由此导致采用“国产方案”的产品研发效率低，落地不顺畅。</p>
-<p>从我参与的研发项目来看，我觉得解决这个问题的根本在于 —— 我们没有正视自己，不敢承认自己的失败和不足，没有长远的规划，在现有人力物力基础上，如何逐步替代，持续研发，形成良性循环。这里的关键词是“持续”。</p>
-<h3 id="从产品到工具"><a href="#从产品到工具" class="headerlink" title="从产品到工具"></a>从产品到工具</h3><p>再来谈谈今年的一个变化，就是我在公司的角色慢慢从产品的研发转向了工具的研发。这个变化其实是我主动转变的，因为我发现在目前企业的框架中，产品研发的创新能力不足，相反的，却缺乏很多工具。比如我做了一个测试工具帮助测试人员摆脱繁琐枯燥的工作流程，做了一个监控平台用于监测网络内多台 Linux 系统的状态，并提供在线测试和软件升级等功能。</p>
+<h2 id="做好本职工作"><a class="markdownIt-Anchor" href="#做好本职工作">#</a> 做好本职工作</h2>
+<p>作为一名普通的技术人员，没有家庭资源的支持，没有强大的人脉关系，技术就是我们在这个社会上最好的立足点。这是我今年深切体会到的，我们要尽快完成原始资本的积累，必须要沉下心好好钻研一门技术，并以此为基础去扩展。正是因为掌握一门技术是有门槛的，所以才给了我们机会，只要我们不怕苦不怕累，在每个时代都可以找到突破的机会。</p>
+<p>本来 6 月份已经提交辞职申请的，然后经过领导的游说和金钱的诱惑，我屈服了（答应了 2018 年不走）。这也是我愿意继续在这里谈这份工作的原因。</p>
+<h3 id="国产化进程"><a class="markdownIt-Anchor" href="#国产化进程">#</a> 国产化进程</h3>
+<p>纵观全年，集团在智能装备的研发上中规中矩，最大的变化就是受中美贸易战的影响，产品设计的芯片、系统和软件组件都在逐步寻找国产 / 自主研发的替代方案。形势是好的，但其实也很被动，尤其是像我们这样只做系统集成和业务开发的企业。一方面的国产优秀的芯片和解决方案不多，并且价格昂贵；另一方面是大家对技术不够包容，不够开放。</p>
+<p>做了一些这些方案，给我最大的感受是，大家都想在产业链中分一块蛋糕，却很少人想怎么把产品做好，怎么提升服务质量，怎么优化研发流程。很明显的一点就是开发者社区不够开放、缺乏活力，甚至是以 “保密” 为由，连社区都省了。由此导致采用 “国产方案” 的产品研发效率低，落地不顺畅。</p>
+<p>从我参与的研发项目来看，我觉得解决这个问题的根本在于 —— 我们没有正视自己，不敢承认自己的失败和不足，没有长远的规划，在现有人力物力基础上，如何逐步替代，持续研发，形成良性循环。这里的关键词是 “持续”。</p>
+<h3 id="从产品到工具"><a class="markdownIt-Anchor" href="#从产品到工具">#</a> 从产品到工具</h3>
+<p>再来谈谈今年的一个变化，就是我在公司的角色慢慢从产品的研发转向了工具的研发。这个变化其实是我主动转变的，因为我发现在目前企业的框架中，产品研发的创新能力不足，相反的，却缺乏很多工具。比如我做了一个测试工具帮助测试人员摆脱繁琐枯燥的工作流程，做了一个监控平台用于监测网络内多台 Linux 系统的状态，并提供在线测试和软件升级等功能。</p>
 <p>对于程序员来说，设计产品和设计工具其实差别不大，最不一样的地方可能就是产品是对外的，工具是对内的。对国企来说，大概就是从面向客户编程转变为面向领导编程吧。不过因为我们之前并不注重工具的研发，所以领导对我的管理相对轻松一点。</p>
-<h3 id="从研发到管理"><a href="#从研发到管理" class="headerlink" title="从研发到管理"></a>从研发到管理</h3><p>在扁平化管理的企业里，其实短时间内走向管理层还是挺难的，尤其是一个萝卜一个坑的国企。但是我有幸接触到一些管理方面的工作，原因是因为我们的项目经理太懒了（思考方面，行动上还是很积极的）。这让我意识到成本控制、流程管理、研发管理、版本管理对于一个 IT 项目的重要性。但其实这还不够，要想项目做得又快又好，团队建设十分关键！如何让项目组成员都对项目有清晰的认识，如何让项目组成员发挥自己的长处，如何让项目组成员团结一致…… 这些都是对项目经理的考验。毫不夸张地说，这在某种程度上决定了项目的生死。</p>
-<h3 id="从嵌入式到-Web"><a href="#从嵌入式到-Web" class="headerlink" title="从嵌入式到 Web"></a>从嵌入式到 Web</h3><p>今年其实也有参与几个基于 STM32 和 NXP 芯片的嵌入式产品项目，但其实大多数时候都是炒冷饭。对我来说，今年更值得兴奋的事情是把 Web 技术运用起来了，结合 Linux 运维、云计算方面的知识，形成了一个整体。这让我更加完整地看到了产品的方方面面，看到了技术内外的更多事情，同时也为职业生涯带来更多可能性。</p>
+<h3 id="从研发到管理"><a class="markdownIt-Anchor" href="#从研发到管理">#</a> 从研发到管理</h3>
+<p>在扁平化管理的企业里，其实短时间内走向管理层还是挺难的，尤其是一个萝卜一个坑的国企。但是我有幸接触到一些管理方面的工作，原因是因为我们的项目经理太懒了（思考方面，行动上还是很积极的）。这让我意识到成本控制、流程管理、研发管理、版本管理对于一个 IT 项目的重要性。但其实这还不够，要想项目做得又快又好，团队建设十分关键！如何让项目组成员都对项目有清晰的认识，如何让项目组成员发挥自己的长处，如何让项目组成员团结一致… 这些都是对项目经理的考验。毫不夸张地说，这在某种程度上决定了项目的生死。</p>
+<h3 id="从嵌入式到-web"><a class="markdownIt-Anchor" href="#从嵌入式到-web">#</a> 从嵌入式到 Web</h3>
+<p>今年其实也有参与几个基于 STM32 和 NXP 芯片的嵌入式产品项目，但其实大多数时候都是炒冷饭。对我来说，今年更值得兴奋的事情是把 Web 技术运用起来了，结合 Linux 运维、云计算方面的知识，形成了一个整体。这让我更加完整地看到了产品的方方面面，看到了技术内外的更多事情，同时也为职业生涯带来更多可能性。</p>
 <hr>
-<h2 id="开阔思维和见识"><a href="#开阔思维和见识" class="headerlink" title="开阔思维和见识"></a>开阔思维和见识</h2><h3 id="零废弃之路"><a href="#零废弃之路" class="headerlink" title="零废弃之路"></a>零废弃之路</h3><p>从去年10月份接触国内一些环保公益NGO开始，做了好多场活动的志愿者，慢慢发现自己原来对一些社会问题的想法是很局限、很片面的，也慢慢看到了很多社会问题的过去、现在和未来。</p>
+<h2 id="开阔思维和见识"><a class="markdownIt-Anchor" href="#开阔思维和见识">#</a> 开阔思维和见识</h2>
+<h3 id="零废弃之路"><a class="markdownIt-Anchor" href="#零废弃之路">#</a> 零废弃之路</h3>
+<p>从去年 10 月份接触国内一些环保公益 NGO 开始，做了好多场活动的志愿者，慢慢发现自己原来对一些社会问题的想法是很局限、很片面的，也慢慢看到了很多社会问题的过去、现在和未来。</p>
 <p>在实践的过程中，遇到了很多有相似经历或想法的人，这让我大多数时候不再觉得自己太特立独行。</p>
 <p>零废弃其实并不是要求我们对自己多么苛刻，不能产生垃圾。更多的情况下，她是在给我们愿景和行动指南，让我们看到这个世界的另一种可能。这个想法很奇特，但仔细想想，你会发现其实跟自由软件的思想是一致的。计算机领域的前辈们经过三十年的努力，让我们看到了自由、开源和社会化编程的可能，感受到了她所带来的好处，集市和教堂并非两个对立面。同样，零废弃运动也一样，虽然很漫长，但经过我们坚持不懈的努力，一定会有越来越多的人感受到她的美好，并为之行动。</p>
-<h3 id="找到喜欢的圈子"><a href="#找到喜欢的圈子" class="headerlink" title="找到喜欢的圈子"></a>找到喜欢的圈子</h3><p>过去一年，除了混迹于电子圈和程序员圈，也在学术圈、环保圈、公益圈和慈善圈混个脸熟。大多数时候，程序员的工作都很紧凑、很单调，时间长了会让人忘记生活的本质，忘记我们到底在奋斗些啥。在学术圈，看到教授和企业家在不断推进产学研模式；在环保圈，看到全国各地的企业、NGO 和个人在身体力行；在公益圈，看到基金会和社会团体的进步和成长，尤其是壹基金和万科公益基金会对垃圾分类项目的支持；在慈善圈，看到真的有很多人付出无所求，就好像写开源软件一样傻，但其实很快乐很有意义。这一切一切，都让我感受到了我的渺小，也感受到了微小的力量也能改变世界！</p>
+<h3 id="找到喜欢的圈子"><a class="markdownIt-Anchor" href="#找到喜欢的圈子">#</a> 找到喜欢的圈子</h3>
+<p>过去一年，除了混迹于电子圈和程序员圈，也在学术圈、环保圈、公益圈和慈善圈混个脸熟。大多数时候，程序员的工作都很紧凑、很单调，时间长了会让人忘记生活的本质，忘记我们到底在奋斗些啥。在学术圈，看到教授和企业家在不断推进产学研模式；在环保圈，看到全国各地的企业、NGO 和个人在身体力行；在公益圈，看到基金会和社会团体的进步和成长，尤其是壹基金和万科公益基金会对垃圾分类项目的支持；在慈善圈，看到真的有很多人付出无所求，就好像写开源软件一样傻，但其实很快乐很有意义。这一切一切，都让我感受到了我的渺小，也感受到了微小的力量也能改变世界！</p>
 <p>当然，电子圈和程序员圈依然有很多有趣的事情，有时候在群里吐槽，有时候在群里讨论。真的很感谢 Linuxer、RTT、单片机与嵌入式系统社区，可以相互学习、相互促进。</p>
 <p>反正，谢谢你们，有你们真好！</p>
 <hr>
-<h2 id="一些感悟"><a href="#一些感悟" class="headerlink" title="一些感悟"></a>一些感悟</h2><h3 id="有时候自私一点是好事"><a href="#有时候自私一点是好事" class="headerlink" title="有时候自私一点是好事"></a>有时候自私一点是好事</h3><p>同事问：我是怎么同时做那么多事情还能升级加薪的？</p>
+<h2 id="一些感悟"><a class="markdownIt-Anchor" href="#一些感悟">#</a> 一些感悟</h2>
+<h3 id="有时候自私一点是好事"><a class="markdownIt-Anchor" href="#有时候自私一点是好事">#</a> 有时候自私一点是好事</h3>
+<p>同事问：我是怎么同时做那么多事情还能升级加薪的？</p>
 <p>其实我并没有同时做几件事情，我依然是单线程地工作着。宏观看起来是并行的，其实微观看还是串行的，这其中的关键就是时间管理。简单来说，可以总结为：放弃不重要不紧急的事，提前准备重要但不紧急的事。当然啦，说起来简单做起来很难，有时候我也做不好，但还好我的朋友圈正能量太足了，所以思想上总会受到鞭策。另外一点就是要找到自己的定位，专注一点，比如虽然有不同的圈子，但其实很多时候我扮演的角色还是程序员或者技术顾问。还有就是不要做老好人，不要太过于乐于助人，有时候自私一点是好事！</p>
 <p>一个人无论是卓越还是平凡，健康愉快地生活，比什么都重要。对自己适当自私一点，多关爱身边的人。</p>
-<h3 id="互联网时代，要谦虚，要善良"><a href="#互联网时代，要谦虚，要善良" class="headerlink" title="互联网时代，要谦虚，要善良"></a>互联网时代，要谦虚，要善良</h3><p>过去一年，从互联网上接收的信息太多了，以至于信息过载，有时候会把自己弄得很累。所以前两个月我删除了大概十个微信群，以至于不让自己的微信每天都是上万条未读消息。如果遇到好的文章，就尽快读完，并且多读几遍，以便下次遇到同类型的文章可以快速阅读或者直接忽略，从而节省时间。</p>
+<h3 id="互联网时代要谦虚要善良"><a class="markdownIt-Anchor" href="#互联网时代要谦虚要善良">#</a> 互联网时代，要谦虚，要善良</h3>
+<p>过去一年，从互联网上接收的信息太多了，以至于信息过载，有时候会把自己弄得很累。所以前两个月我删除了大概十个微信群，以至于不让自己的微信每天都是上万条未读消息。如果遇到好的文章，就尽快读完，并且多读几遍，以便下次遇到同类型的文章可以快速阅读或者直接忽略，从而节省时间。</p>
 <p>在互联网时代，一方面我们要多接触、多学习各方面的东西；另一方面我们要学会思考，取其精华去其糟粕。对自己不熟悉的东西，不要急于下结论，不要动不动就论战。时刻记住要做个谦虚、善良的网民。</p>
 <hr>
-<h2 id="进步与不足"><a href="#进步与不足" class="headerlink" title="进步与不足"></a>进步与不足</h2><h3 id="进步的地方"><a href="#进步的地方" class="headerlink" title="进步的地方"></a>进步的地方</h3><ol>
+<h2 id="进步与不足"><a class="markdownIt-Anchor" href="#进步与不足">#</a> 进步与不足</h2>
+<h3 id="进步的地方"><a class="markdownIt-Anchor" href="#进步的地方">#</a> 进步的地方</h3>
+<ol>
 <li>达成既定的理财小目标；</li>
 <li>人情世故、人际关系处理得比较好，没有了前几年的不适应感；</li>
 <li>学习了 Web 前后端开发，从技术角度和应用角度，都提高了对互联网的认识；</li>
 <li>学习了数据分析和机器学习，意识到了数学的价值，重新学习统计学和线性代数；</li>
 <li>跳出了程序员圈子，认识了学术界的大牛，认识了潜水员，认识了环保慈善公益界的很多热爱生活的小伙伴。</li>
 </ol>
-<h3 id="不足之处"><a href="#不足之处" class="headerlink" title="不足之处"></a>不足之处</h3><ol>
+<h3 id="不足之处"><a class="markdownIt-Anchor" href="#不足之处">#</a> 不足之处</h3>
+<ol>
 <li>不够自律</li>
 <li>不够高效</li>
 <li>还不够钱买个小公寓</li>
@@ -451,206 +248,312 @@
 <li>表达能力、演讲能力有待提高</li>
 </ol>
 <hr>
-<h2 id="新年展望"><a href="#新年展望" class="headerlink" title="新年展望"></a>新年展望</h2><p>希望2019年，能顺利写完我的书，然后在新的团队里找到合适的定位，拥有一份自己喜欢并且对社会有益的事业，并为之贡献自己的青春和力量！</p>
+<h2 id="新年展望"><a class="markdownIt-Anchor" href="#新年展望">#</a> 新年展望</h2>
+<p>希望 2019 年，能顺利写完我的书，然后在新的团队里找到合适的定位，拥有一份自己喜欢并且对社会有益的事业，并为之贡献自己的青春和力量！</p>
 <hr>
-<h2 id="贴一些图"><a href="#贴一些图" class="headerlink" title="贴一些图"></a>贴一些图</h2><p><img src="https://img-blog.csdnimg.cn/2019010123173555.jpg" alt="在这里插入图片描述"></p>
-<p><img src="https://img-blog.csdnimg.cn/20190101231757108.jpg" alt="在这里插入图片描述"></p>
-<p><img src="https://img-blog.csdnimg.cn/20190101231820337.jpg" alt="在这里插入图片描述"></p>
-<p><img src="https://img-blog.csdnimg.cn/20190101231831776.jpg" alt="在这里插入图片描述"></p>
-<p><img src="https://img-blog.csdnimg.cn/20190101231845855.jpg" alt="在这里插入图片描述"></p>
-<p><img src="https://img-blog.csdnimg.cn/20190101231856219.jpg" alt="在这里插入图片描述"></p>
-<p><img src="https://img-blog.csdnimg.cn/20190101231907800.jpg" alt="在这里插入图片描述"></p>
-<p><img src="https://img-blog.csdnimg.cn/2019010123192436.jpg" alt="在这里插入图片描述"></p>
-<p><img src="https://img-blog.csdnimg.cn/20190101231937276.jpg" alt="在这里插入图片描述"></p>
-<p><img src="https://img-blog.csdnimg.cn/20190101231948445.jpg" alt="在这里插入图片描述"></p>
-<p><img src="https://img-blog.csdnimg.cn/20190101232002268.jpg" alt="在这里插入图片描述"></p>
-<p><img src="https://img-blog.csdnimg.cn/20190101232013284.jpg" alt="在这里插入图片描述"></p>
+<h2 id="贴一些图"><a class="markdownIt-Anchor" href="#贴一些图">#</a> 贴一些图</h2>
+<p><img data-src="https://img-blog.csdnimg.cn/2019010123173555.jpg" alt="在这里插入图片描述"></p>
+<p><img data-src="https://img-blog.csdnimg.cn/20190101231757108.jpg" alt="在这里插入图片描述"></p>
+<p><img data-src="https://img-blog.csdnimg.cn/20190101231820337.jpg" alt="在这里插入图片描述"></p>
+<p><img data-src="https://img-blog.csdnimg.cn/20190101231831776.jpg" alt="在这里插入图片描述"></p>
+<p><img data-src="https://img-blog.csdnimg.cn/20190101231845855.jpg" alt="在这里插入图片描述"></p>
+<p><img data-src="https://img-blog.csdnimg.cn/20190101231856219.jpg" alt="在这里插入图片描述"></p>
+<p><img data-src="https://img-blog.csdnimg.cn/20190101231907800.jpg" alt="在这里插入图片描述"></p>
+<p><img data-src="https://img-blog.csdnimg.cn/2019010123192436.jpg" alt="在这里插入图片描述"></p>
+<p><img data-src="https://img-blog.csdnimg.cn/20190101231937276.jpg" alt="在这里插入图片描述"></p>
+<p><img data-src="https://img-blog.csdnimg.cn/20190101231948445.jpg" alt="在这里插入图片描述"></p>
+<p><img data-src="https://img-blog.csdnimg.cn/20190101232002268.jpg" alt="在这里插入图片描述"></p>
+<p><img data-src="https://img-blog.csdnimg.cn/20190101232013284.jpg" alt="在这里插入图片描述"></p>
 
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-          <div class="reward-container">
-  <div>您的鼓励是我最大的动力！</div>
-  <button onclick="document.querySelector('.post-reward').classList.toggle('active');">
-    赞赏
-  </button>
-  <div class="post-reward">
-      <div>
-        <img src="/images/wechatpay.jpeg" alt="Rudy Lo 微信">
-        <span>微信</span>
+      <div class="tags">
+          <a href="/tags/%E5%B7%A5%E4%BD%9C/" rel="tag"><i class="ic i-tag"></i> 工作</a>
+          <a href="/tags/%E6%80%BB%E7%BB%93/" rel="tag"><i class="ic i-tag"></i> 总结</a>
       </div>
-      <div>
-        <img src="/images/alipay.jpeg" alt="Rudy Lo 支付宝">
-        <span>支付宝</span>
-      </div>
+  </div>
 
+   <footer>
+
+    <div class="meta">
+  <span class="item">
+    <span class="icon">
+      <i class="ic i-calendar-check"></i>
+    </span>
+    <span class="text">更新于</span>
+    <time title="修改时间：2023-04-30 16:10:37" itemprop="dateModified" datetime="2023-04-30T16:10:37+08:00">2023-04-30</time>
+  </span>
+  <span id="journal/2018-year-end-summary.html" class="item leancloud_visitors" data-flag-title="我的2018——上懂机器学习，下懂微信建群" title="阅读次数">
+      <span class="icon">
+        <i class="ic i-eye"></i>
+      </span>
+      <span class="text">阅读次数</span>
+      <span class="leancloud-visitors-count"></span>
+      <span class="text">次</span>
+  </span>
+</div>
+
+      
+<div class="reward">
+  <button><i class="ic i-heartbeat"></i> 赞赏</button>
+  <p>请我喝[茶]~(￣▽￣)~*</p>
+  <div id="qr">
+      
+      <div>
+        <img data-src="/images/wechatpay-small.jpeg" alt="Rudy Lo 微信支付">
+        <p>微信支付</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/alipay-small.jpeg" alt="Rudy Lo 支付宝">
+        <p>支付宝</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/avatar.png" alt="Rudy Lo 贝宝">
+        <p>贝宝</p>
+      </div>
   </div>
 </div>
 
-          
+      
 
-<div class="post-copyright">
+<div id="copyright">
 <ul>
-  <li class="post-copyright-author">
-      <strong>本文作者： </strong>Rudy Lo
+  <li class="author">
+    <strong>本文作者： </strong>Rudy Lo <i class="ic i-at"><em>@</em></i>成为自由人
   </li>
-  <li class="post-copyright-link">
-      <strong>本文链接：</strong>
-      <a href="https://luhuadong.com/journal/2018-year-end-summary.html" title="我的2018——上懂机器学习，下懂微信建群">https://luhuadong.com/journal/2018-year-end-summary.html</a>
+  <li class="link">
+    <strong>本文链接：</strong>
+    <a href="https://luhuadong.com/journal/2018-year-end-summary.html" title="我的2018——上懂机器学习，下懂微信建群">https://luhuadong.com/journal/2018-year-end-summary.html</a>
   </li>
-  <li class="post-copyright-license">
-    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  <li class="license">
+    <strong>版权声明： </strong>本站所有文章除特别声明外，均采用 <span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzQuMC9kZWVkLnpo"><i class="ic i-creative-commons"><em>(CC)</em></i>BY-NC-SA</span> 许可协议。转载请注明出处！
   </li>
 </ul>
 </div>
 
-          <div class="post-tags">
-              <a href="/tags/%E5%B7%A5%E4%BD%9C/" rel="tag"># 工作</a>
-              <a href="/tags/%E6%80%BB%E7%BB%93/" rel="tag"># 总结</a>
-          </div>
-
-        
-
-          <div class="post-nav">
-            <div class="post-nav-item">
-                <a href="/reading/the-autobiography-of-benjamin-franklin.html" rel="prev" title="《富兰克林自传》13准则">
-                  <i class="fa fa-chevron-left"></i> 《富兰克林自传》13准则
-                </a>
-            </div>
-            <div class="post-nav-item">
-                <a href="/career/dont-kill-self-career.html" rel="next" title="大龄码农是如何把自己逼死的">
-                  大龄码农是如何把自己逼死的 <i class="fa fa-chevron-right"></i>
-                </a>
-            </div>
-          </div>
-    </footer>
-  </article>
-</div>
-
-
-
-
-
-
-    
-  
-  <div class="comments">
-    <script src="https://giscus.app/client.js"
-        data-repo="luhuadong/blog" 
-        data-repo-id="MDEwOlJlcG9zaXRvcnkzNDEzOTU5NzQ=" 
-        data-category="General"
-        data-category-id="DIC_kwDOFFlKBs4CSTqq"
-        data-mapping="pathname" 
-        data-reactions-enabled="1" 
-        data-emit-metadata="1" 
-        data-theme="light"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        data-input-position="bottom"
-        data-loading="lazy"
-        async>
-    </script>
-  </div>
-  
-  
-
-<script>
-  window.addEventListener('tabs:register', () => {
-    let { activeClass } = CONFIG.comments;
-    if (CONFIG.comments.storage) {
-      activeClass = localStorage.getItem('comments_active') || activeClass;
-    }
-    if (activeClass) {
-      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
-      if (activeTab) {
-        activeTab.click();
-      }
-    }
-  });
-  if (CONFIG.comments.storage) {
-    window.addEventListener('tabs:click', event => {
-      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
-      const commentClass = event.target.classList[1];
-      localStorage.setItem('comments_active', commentClass);
-    });
-  }
-</script>
-</div>
-  </main>
-
-  <footer class="footer">
-    <div class="footer-inner">
-
-
-<div class="copyright">
-  &copy; 
-  <span itemprop="copyrightYear">2023</span>
-  <span class="with-love">
-    <i class="fa fa-heart"></i>
-  </span>
-  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
-</div>
-  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
-  </div>
-
-    </div>
   </footer>
 
-  
-  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+</article>
 
-  
-<script src="/js/local-search.js"></script>
-
-
-
-
-
-
+  </div>
   
 
+<div class="post-nav">
+    <div class="item left">
+      
+
+  <a href="/reading/the-autobiography-of-benjamin-franklin.html" itemprop="url" rel="prev" data-background-image="http:&#x2F;&#x2F;static.luhuadong.com&#x2F;AgueroSpain.jpg" title="《富兰克林自传》13准则">
+  <span class="type">上一篇</span>
+  <span class="category"><i class="ic i-flag"></i> 一起读书呀</span>
+  <h3>《富兰克林自传》13准则</h3>
+  </a>
+
+    </div>
+    <div class="item right">
+      
+
+  <a href="/career/dont-kill-self-career.html" itemprop="url" rel="next" data-background-image="http:&#x2F;&#x2F;static.luhuadong.com&#x2F;QingMing2023.jpg" title="大龄码农是如何把自己逼死的">
+  <span class="type">下一篇</span>
+  <span class="category"><i class="ic i-flag"></i> 了不起的打工人</span>
+  <h3>大龄码农是如何把自己逼死的</h3>
+  </a>
+
+    </div>
+</div>
+
+  
+  <div class="wrap" id="comments"></div>
 
 
+        </div>
+        <div id="sidebar">
+          
 
-  <script>
-  if (typeof MathJax === 'undefined') {
-    window.MathJax = {
-      tex: {
-        inlineMath: {'[+]': [['$', '$']]},
-        tags: 'none'
+<div class="inner">
+
+  <div class="panels">
+    <div class="inner">
+      <div class="contents panel pjax" data-title="文章目录">
+          <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%85%A8%E5%B9%B4%E6%A2%B3%E7%90%86"><span class="toc-number">1.</span> <span class="toc-text"> 全年梳理</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%81%9A%E5%A5%BD%E6%9C%AC%E8%81%8C%E5%B7%A5%E4%BD%9C"><span class="toc-number">2.</span> <span class="toc-text"> 做好本职工作</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%9B%BD%E4%BA%A7%E5%8C%96%E8%BF%9B%E7%A8%8B"><span class="toc-number">2.1.</span> <span class="toc-text"> 国产化进程</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%BB%8E%E4%BA%A7%E5%93%81%E5%88%B0%E5%B7%A5%E5%85%B7"><span class="toc-number">2.2.</span> <span class="toc-text"> 从产品到工具</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%BB%8E%E7%A0%94%E5%8F%91%E5%88%B0%E7%AE%A1%E7%90%86"><span class="toc-number">2.3.</span> <span class="toc-text"> 从研发到管理</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%BB%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%88%B0-web"><span class="toc-number">2.4.</span> <span class="toc-text"> 从嵌入式到 Web</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%BC%80%E9%98%94%E6%80%9D%E7%BB%B4%E5%92%8C%E8%A7%81%E8%AF%86"><span class="toc-number">3.</span> <span class="toc-text"> 开阔思维和见识</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E9%9B%B6%E5%BA%9F%E5%BC%83%E4%B9%8B%E8%B7%AF"><span class="toc-number">3.1.</span> <span class="toc-text"> 零废弃之路</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%89%BE%E5%88%B0%E5%96%9C%E6%AC%A2%E7%9A%84%E5%9C%88%E5%AD%90"><span class="toc-number">3.2.</span> <span class="toc-text"> 找到喜欢的圈子</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%B8%80%E4%BA%9B%E6%84%9F%E6%82%9F"><span class="toc-number">4.</span> <span class="toc-text"> 一些感悟</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%9C%89%E6%97%B6%E5%80%99%E8%87%AA%E7%A7%81%E4%B8%80%E7%82%B9%E6%98%AF%E5%A5%BD%E4%BA%8B"><span class="toc-number">4.1.</span> <span class="toc-text"> 有时候自私一点是好事</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%BA%92%E8%81%94%E7%BD%91%E6%97%B6%E4%BB%A3%E8%A6%81%E8%B0%A6%E8%99%9A%E8%A6%81%E5%96%84%E8%89%AF"><span class="toc-number">4.2.</span> <span class="toc-text"> 互联网时代，要谦虚，要善良</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E8%BF%9B%E6%AD%A5%E4%B8%8E%E4%B8%8D%E8%B6%B3"><span class="toc-number">5.</span> <span class="toc-text"> 进步与不足</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E8%BF%9B%E6%AD%A5%E7%9A%84%E5%9C%B0%E6%96%B9"><span class="toc-number">5.1.</span> <span class="toc-text"> 进步的地方</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%B8%8D%E8%B6%B3%E4%B9%8B%E5%A4%84"><span class="toc-number">5.2.</span> <span class="toc-text"> 不足之处</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%96%B0%E5%B9%B4%E5%B1%95%E6%9C%9B"><span class="toc-number">6.</span> <span class="toc-text"> 新年展望</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E8%B4%B4%E4%B8%80%E4%BA%9B%E5%9B%BE"><span class="toc-number">7.</span> <span class="toc-text"> 贴一些图</span></a></li></ol>
+      </div>
+      <div class="related panel pjax" data-title="系列文章">
+        <ul>
+          <li><a href="/journal/this-blog.html" rel="bookmark" title="这个部落格">这个部落格</a></li><li><a href="/journal/2016-year-end-summary.html" rel="bookmark" title="我的2016——我和嵌入式的那些事">我的2016——我和嵌入式的那些事</a></li><li><a href="/journal/how-do-i-become-a-programmer.html" rel="bookmark" title="从高考到程序员——我一直在寻找答案">从高考到程序员——我一直在寻找答案</a></li><li><a href="/journal/2017-tzuchi-qingyuan.html" rel="bookmark" title="2017清远冬令发放环保心得分享">2017清远冬令发放环保心得分享</a></li><li><a href="/journal/2017-year-end-summary.html" rel="bookmark" title="我的2017——作为一名程序员，我重新思考了我生活的目标">我的2017——作为一名程序员，我重新思考了我生活的目标</a></li><li class="active"><a href="/journal/2018-year-end-summary.html" rel="bookmark" title="我的2018——上懂机器学习，下懂微信建群">我的2018——上懂机器学习，下懂微信建群</a></li><li><a href="/journal/donate-hair-to-charity.html" rel="bookmark" title="留了三年长发，只为了让生命更美丽">留了三年长发，只为了让生命更美丽</a></li><li><a href="/journal/2019-year-end-summary.html" rel="bookmark" title="我的2019——努力成为我认为我可以成为的人">我的2019——努力成为我认为我可以成为的人</a></li><li><a href="/journal/%E8%BF%9C%E7%A6%BB%E9%82%A3%E4%BA%9B%E6%B6%88%E8%80%97%E4%BD%A0%E7%9A%84%E4%BA%BA%E5%92%8C%E4%BA%8B.html" rel="bookmark" title="远离那些消耗你的人和事">远离那些消耗你的人和事</a></li><li><a href="/journal/%E7%A7%AF%E7%B4%AF%E5%AE%9A%E5%BE%8B.html" rel="bookmark" title="积累定律：努力让自己值钱">积累定律：努力让自己值钱</a></li><li><a href="/journal/%E4%BB%BB%E4%BD%95%E4%B8%80%E6%9D%A1%E8%B7%AF%E9%83%BD%E6%98%AF%E4%BD%A0%E7%9A%84%E9%80%89%E6%8B%A9.html" rel="bookmark" title="如果你不知道去哪里，任何一条路都是你的选择">如果你不知道去哪里，任何一条路都是你的选择</a></li><li><a href="/journal/%E5%AD%A6%E4%BC%9A%E4%BB%8E%E5%88%AB%E4%BA%BA%E7%9A%84%E5%A4%B1%E8%B4%A5%E4%B8%AD%E5%90%B8%E5%8F%96%E6%95%99%E8%AE%AD.html" rel="bookmark" title="学会从别人的失败中吸取教训">学会从别人的失败中吸取教训</a></li><li><a href="/journal/two-decision-method-wcca-and-wadm.html" rel="bookmark" title="分享两个决策方法WCCA和WADM">分享两个决策方法WCCA和WADM</a></li><li><a href="/journal/%E4%BB%8E%E6%8B%BCT%E5%AD%97%E4%B8%AD%E9%87%8D%E6%96%B0%E7%90%86%E8%A7%A3%E5%9B%A2%E9%98%9F%E5%90%88%E4%BD%9C.html" rel="bookmark" title="从拼T字中重新理解团队合作">从拼T字中重新理解团队合作</a></li><li><a href="/journal/2020-rtt-community-contribution-award.html" rel="bookmark" title="我与 RT-Thread 社区一起成长的故事">我与 RT-Thread 社区一起成长的故事</a></li><li><a href="/journal/2020-year-end-summary.html" rel="bookmark" title="我的2020——一颗红心，两手准备">我的2020——一颗红心，两手准备</a></li><li><a href="/journal/opensource-guide.html" rel="bookmark" title="《开源指北》之我和开源的故事">《开源指北》之我和开源的故事</a></li><li><a href="/journal/how-are-you-today.html" rel="bookmark" title="「每日一问」你今天过得怎么样？">「每日一问」你今天过得怎么样？</a></li><li><a href="/journal/ugly-apple.html" rel="bookmark" title="丑苹果">丑苹果</a></li><li><a href="/journal/to-myself-in-five-years-written-on-the-29-birthday.html" rel="bookmark" title="给五年后的自己（写在29岁生日）">给五年后的自己（写在29岁生日）</a></li><li><a href="/journal/happiness-in-ordinary-life.html" rel="bookmark" title="平淡生活里的琐碎幸福">平淡生活里的琐碎幸福</a></li><li><a href="/journal/2021-resignation-summary-and-plan.html" rel="bookmark" title="2021离职总结与计划">2021离职总结与计划</a></li><li><a href="/journal/keeping-cats.html" rel="bookmark" title="养猫经历">养猫经历</a></li><li><a href="/journal/diary-20210925.html" rel="bookmark" title="一个平淡无奇的周末">一个平淡无奇的周末</a></li><li><a href="/journal/living-in-the-moment.html" rel="bookmark" title="一番番春秋冬夏，一场场酸甜苦辣">一番番春秋冬夏，一场场酸甜苦辣</a></li><li><a href="/journal/decorate-my-small-house.html" rel="bookmark" title="装了个修，居然还治好了选择困难症！">装了个修，居然还治好了选择困难症！</a></li><li><a href="/journal/diary-20211028.html" rel="bookmark" title="【总结】但行好事，莫问前程">【总结】但行好事，莫问前程</a></li><li><a href="/journal/dont-waste-your-full-potential.html" rel="bookmark" title="如果这十年，你没有浪费">如果这十年，你没有浪费</a></li><li><a href="/journal/2021-year-end-summary.html" rel="bookmark" title="我的2021——为自己的选择放手一搏">我的2021——为自己的选择放手一搏</a></li><li><a href="/journal/30-year-old-summary.html" rel="bookmark" title="一觉醒来，喜提我的30岁">一觉醒来，喜提我的30岁</a></li><li><a href="/journal/jiangmengnan.html" rel="bookmark" title="江梦南：世界以痛吻我，我却报之以歌">江梦南：世界以痛吻我，我却报之以歌</a></li><li><a href="/journal/20220608.html" rel="bookmark" title="我有点喜欢现在的工作了">我有点喜欢现在的工作了</a></li><li><a href="/journal/become-a-feminist.html" rel="bookmark" title="成为一名女权主义者">成为一名女权主义者</a></li><li><a href="/journal/20220611.html" rel="bookmark" title="唐山烧烤店打人事件太让人气愤了！">唐山烧烤店打人事件太让人气愤了！</a></li><li><a href="/journal/20220612.html" rel="bookmark" title="开始我的环保博主生涯">开始我的环保博主生涯</a></li><li><a href="/journal/20220702.html" rel="bookmark" title="我好像升职了，又好像没有">我好像升职了，又好像没有</a></li><li><a href="/journal/to-be-a-sailor-of-the-world.html" rel="bookmark" title="做一个世界的水手，奔赴所有的码头">做一个世界的水手，奔赴所有的码头</a></li><li><a href="/journal/20220712.html" rel="bookmark" title="成为 LVGL 贡献者了">成为 LVGL 贡献者了</a></li><li><a href="/journal/14-days-to-get-up-early.html" rel="bookmark" title="14天早起打卡！">14天早起打卡！</a></li><li><a href="/journal/BYD-Dolphin.html" rel="bookmark" title="比亚迪·海豚，我的移动城堡">比亚迪·海豚，我的移动城堡</a></li><li><a href="/journal/i-got-covid-19.html" rel="bookmark" title="放开疫情管控之后，我就阳了">放开疫情管控之后，我就阳了</a></li><li><a href="/journal/2022-year-end-summary.html" rel="bookmark" title="我的2022——三十不惑">我的2022——三十不惑</a></li><li><a href="/journal/20230201.html" rel="bookmark" title="打工的目的只有一个">打工的目的只有一个</a></li><li><a href="/journal/life-meaning.html" rel="bookmark" title="当我不再寻找人生的意义，生活才刚刚开始">当我不再寻找人生的意义，生活才刚刚开始</a></li>
+        </ul>
+      </div>
+      <div class="overview panel" data-title="站点概览">
+        <div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <img class="image" itemprop="image" alt="Rudy Lo"
+      data-src="/images/lu_20221221.jpg">
+  <p class="name" itemprop="name">Rudy Lo</p>
+  <div class="description" itemprop="description">阿基米东的网络日志</div>
+</div>
+
+<nav class="state">
+    <div class="item posts">
+      <a href="/archives/">
+        <span class="count">295</span>
+        <span class="name">文章</span>
+      </a>
+    </div>
+    <div class="item categories">
+      <a href="/categories/">
+        <span class="count">35</span>
+        <span class="name">分类</span>
+      </a>
+    </div>
+    <div class="item tags">
+      <a href="/tags/">
+        <span class="count">80</span>
+        <span class="name">标签</span>
+      </a>
+    </div>
+</nav>
+
+<div class="social">
+      <span class="exturl item github" data-url="aHR0cHM6Ly9naXRodWIuY29tL2x1aHVhZG9uZw==" title="https:&#x2F;&#x2F;github.com&#x2F;luhuadong"><i class="ic i-github"></i></span>
+      <span class="exturl item csdn" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x1X2VtYmVkZGVk" title="https:&#x2F;&#x2F;blog.csdn.net&#x2F;lu_embedded"><i class="ic i-address-card"></i></span>
+      <span class="exturl item zhihu" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9hcm1zdHJvbmcyMDE0" title="https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014"><i class="ic i-zhihu"></i></span>
+      <span class="exturl item douban" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC83MzAwNDcv" title="https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;"><i class="ic i-douban"></i></span>
+      <span class="exturl item weibo" data-url="aHR0cHM6Ly93ZWliby5jb20vdS8yMDAwMzkxOTUx" title="https:&#x2F;&#x2F;weibo.com&#x2F;u&#x2F;2000391951"><i class="ic i-weibo"></i></span>
+      <span class="exturl item email" data-url="bWFpbHRvOmx1aHVhZG9uZ0AxNjMuY29t" title="mailto:luhuadong@163.com"><i class="ic i-envelope"></i></span>
+</div>
+
+<ul class="menu">
+  
+    
+  <li class="item">
+    <a href="/" rel="section"><i class="ic i-home"></i>首页</a>
+  </li>
+
+    
+  <li class="item">
+    <a href="/about/" rel="section"><i class="ic i-user"></i>关于</a>
+  </li>
+
+        
+  <li class="item dropdown">
+      <a href="javascript:void(0);"><i class="ic i-feather"></i>文章</a>
+    <ul class="submenu">
+
+        
+  <li class="item">
+    <a href="/archives/" rel="section"><i class="ic i-list-alt"></i>归档</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/categories/" rel="section"><i class="ic i-th"></i>分类</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/tags/" rel="section"><i class="ic i-tags"></i>标签</a>
+  </li>
+
+  </ul>
+
+</ul>
+
+      </div>
+    </div>
+  </div>
+
+  <ul id="quick">
+    <li class="prev pjax">
+        <a href="/reading/the-autobiography-of-benjamin-franklin.html" rel="prev" title="上一篇"><i class="ic i-chevron-left"></i></a>
+    </li>
+    <li class="up"><i class="ic i-arrow-up"></i></li>
+    <li class="down"><i class="ic i-arrow-down"></i></li>
+    <li class="next pjax">
+        <a href="/career/dont-kill-self-career.html" rel="next" title="下一篇"><i class="ic i-chevron-right"></i></a>
+    </li>
+    <li class="percent"></li>
+  </ul>
+</div>
+
+
+        </div>
+        <div class="dimmer"></div>
+      </div>
+    </main>
+    <footer id="footer">
+      <div class="inner">
+        <div class="widgets">
+          
+
+        </div>
+        <div class="status">
+  <div class="copyright">
+    
+    &copy; 2014 – 
+    <span itemprop="copyrightYear">2023</span>
+    <span class="with-love">
+      <i class="ic i-sakura rotate"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">Rudy Lo @ Freedom Blog</span>
+  </div>
+  <div class="count">
+    <span class="post-meta-item-icon">
+      <i class="ic i-chart-area"></i>
+    </span>
+    <span title="站点总字数">591k 字</span>
+
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="ic i-coffee"></i>
+    </span>
+    <span title="站点阅读时长">8:57</span>
+  </div>
+  <div class="powered-by">
+    基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
+  </div>
+</div>
+
+      </div>
+    </footer>
+  </div>
+<script data-config type="text/javascript">
+  var LOCAL = {
+    path: 'journal/2018-year-end-summary.html',
+    favicon: {
+      show: "（●´3｀●）やれやれだぜ",
+      hide: "(´Д｀)大変だ！"
+    },
+    search : {
+      placeholder: "文章搜索",
+      empty: "关于 「 ${query} 」，什么也没搜到",
+      stats: "${time} ms 内找到 ${hits} 条结果"
+    },
+    valine: true,fancybox: true,
+    copyright: '复制成功，转载请遵守 <i class="ic i-creative-commons"></i>BY-NC-SA 协议。',
+    ignores : [
+      function(uri) {
+        return uri.includes('#');
       },
-      options: {
-        renderActions: {
-          insertedScript: [200, () => {
-            document.querySelectorAll('mjx-container').forEach(node => {
-              const target = node.parentNode;
-              if (target.nodeName.toLowerCase() === 'li') {
-                target.parentNode.classList.add('has-jax');
-              }
-            });
-          }, '', false]
-        }
+      function(uri) {
+        return new RegExp(LOCAL.path+"$").test(uri);
       }
-    };
-    const script = document.createElement('script');
-    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
-    script.defer = true;
-    document.head.appendChild(script);
-  } else {
-    MathJax.startup.document.state(0);
-    MathJax.typesetClear();
-    MathJax.texReset();
-    MathJax.typeset();
-  }
+    ]
+  };
 </script>
 
+<script src="https://cdn.polyfill.io/v2/polyfill.js"></script>
+
+<script src="//cdn.jsdelivr.net/combine/npm/pace-js@1.0.2/pace.min.js,npm/pjax@0.2.8/pjax.min.js,npm/whatwg-fetch@3.4.0/dist/fetch.umd.min.js,npm/animejs@3.2.0/lib/anime.min.js,npm/algoliasearch@4/dist/algoliasearch-lite.umd.js,npm/instantsearch.js@4/dist/instantsearch.production.min.js,npm/lozad@1/dist/lozad.min.js,npm/quicklink@2/dist/quicklink.umd.js"></script>
+
+<script src="/js/app.js?v=0.2.5"></script>
+
+
+  <script data-pjax>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
 
 
 </body>

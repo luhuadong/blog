@@ -1,80 +1,522 @@
+
+
+
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
-<meta name="theme-color" content="#222">
-<meta name="generator" content="Hexo 5.0.2">
+<meta name="theme-color" content="#FFF">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="icon" type="image/ico" sizes="32x32" href="/images/favicon.ico">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta http-equiv="Cache-Control" content="no-siteapp">
 
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/lu_avatar_01_120px.png">
-  <link rel="mask-icon" href="/images/lu_avatar_01_240px.png" color="#222">
+<link rel="alternate" type="application/rss+xml" title="成为自由人" href="https://luhuadong.com/rss.xml" />
+<link rel="alternate" type="application/atom+xml" title="成为自由人" href="https://luhuadong.com/atom.xml" />
+<link rel="alternate" type="application/json" title="成为自由人" href="https://luhuadong.com/feed.json" />
 
-<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Mulish:300,300italic,400,400italic,700,700italic%7CFredericka%20the%20Great:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20JP:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20SC:300,300italic,400,400italic,700,700italic%7CInconsolata:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
 
+<link rel="stylesheet" href="/css/app.css?v=0.2.5">
 
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3396347538857110" crossorigin="anonymous"></script>
-
-<script class="hexo-configurations">
-    var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
-  </script>
-<meta name="description" content="【教孩子学 Python 编程】系列 Day6：编写九九乘法程序">
-<meta property="og:type" content="article">
-<meta property="og:title" content="【教孩子学编程】第6天 电脑也会九九乘法口诀">
-<meta property="og:url" content="https://luhuadong.com/coding/PyTK-2019-Day06.html">
-<meta property="og:site_name" content="成为自由人">
-<meta property="og:description" content="【教孩子学 Python 编程】系列 Day6：编写九九乘法程序">
-<meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://luhuadong.com/images/coding/%E6%A0%A1%E5%9B%AD%E8%AF%BE%E5%A0%82.jpg">
-<meta property="og:image" content="https://luhuadong.com/images/coding/print%E5%8D%A0%E4%BD%8D%E7%AC%A6%E6%93%8D%E4%BD%9C.png">
-<meta property="og:image" content="https://luhuadong.com/images/coding/%E5%B0%8F%E5%8F%AF%E7%88%B1%E4%B8%80%E8%B5%B7%E8%B7%B3%E8%88%9E.gif">
-<meta property="og:image" content="https://luhuadong.com/images/coding/%E5%BE%AA%E7%8E%AF.gif">
-<meta property="og:image" content="https://luhuadong.com/images/coding/%E4%B9%9D%E4%B9%9D%E4%B9%98%E6%B3%95%E8%A1%A81.jpeg">
-<meta property="og:image" content="https://luhuadong.com/images/coding/%E5%B0%B1%E6%98%AF%E8%BF%99%E4%B9%88%E4%BB%BB%E6%80%A7.gif">
-<meta property="og:image" content="https://luhuadong.com/images/coding/%E8%BE%93%E5%87%BA%E4%B9%9D%E4%B9%9D%E4%B9%98%E6%B3%95%E8%A1%A8.png">
-<meta property="og:image" content="https://luhuadong.com/images/coding/%E4%B9%9D%E4%B9%9D%E4%B9%98%E6%B3%95%E8%A1%A82.jpeg">
-<meta property="article:published_time" content="2019-02-08T02:53:27.000Z">
-<meta property="article:modified_time" content="2023-03-24T17:27:54.597Z">
-<meta property="article:author" content="Rudy Lo">
-<meta property="article:tag" content="Python">
-<meta property="article:tag" content="教孩子学编程">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://luhuadong.com/images/coding/%E6%A0%A1%E5%9B%AD%E8%AF%BE%E5%A0%82.jpg">
+  
+  <meta name="keywords" content="Python,教孩子学编程" />
 
 
 <link rel="canonical" href="https://luhuadong.com/coding/PyTK-2019-Day06.html">
 
 
-<script class="page-configurations">
-  // https://hexo.io/docs/variables.html
-  CONFIG.page = {
-    sidebar: "",
-    isHome : false,
-    isPost : true,
-    lang   : 'zh-CN'
+
+  <title>
+【教孩子学编程】第6天 电脑也会九九乘法口诀 - 一起学编程 |
+Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</title>
+<meta name="generator" content="Hexo 5.4.2"></head>
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div id="loading">
+    <div class="cat">
+      <div class="body"></div>
+      <div class="head">
+        <div class="face"></div>
+      </div>
+      <div class="foot">
+        <div class="tummy-end"></div>
+        <div class="bottom"></div>
+        <div class="legs left"></div>
+        <div class="legs right"></div>
+      </div>
+      <div class="paw">
+        <div class="hands left"></div>
+        <div class="hands right"></div>
+      </div>
+    </div>
+  </div>
+  <div id="container">
+    <header id="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="inner">
+        <div id="brand">
+          <div class="pjax">
+          
+  <h1 itemprop="name headline">【教孩子学编程】第6天 电脑也会九九乘法口诀
+  </h1>
+  
+<div class="meta">
+  <span class="item" title="创建时间：2019-02-08 10:53:27">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <span class="text">发表于</span>
+    <time itemprop="dateCreated datePublished" datetime="2019-02-08T10:53:27+08:00">2019-02-08</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span class="text">本文字数</span>
+    <span>3.7k</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span class="text">阅读时长</span>
+    <span>3 分钟</span>
+  </span>
+</div>
+
+
+          </div>
+        </div>
+        <nav id="nav">
+  <div class="inner">
+    <div class="toggle">
+      <div class="lines" aria-label="切换导航栏">
+        <span class="line"></span>
+        <span class="line"></span>
+        <span class="line"></span>
+      </div>
+    </div>
+    <ul class="menu">
+      <li class="item title"><a href="/" rel="start">Freedom Blog</a></li>
+    </ul>
+    <ul class="right">
+      <li class="item theme">
+        <i class="ic i-sun"></i>
+      </li>
+      <li class="item search">
+        <i class="ic i-search"></i>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+      </div>
+      <div id="imgs" class="pjax">
+        <ul>
+          <li class="item" data-background-image="http://static.luhuadong.com/WhitehorseAurora.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/CrestedButteEclispe.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/JTNPMilkyWay.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/QingMing2023.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/PicoVolcano.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/YuanyangChina.jpg"></li>
+        </ul>
+      </div>
+    </header>
+    <div id="waves">
+      <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+        <defs>
+          <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+        </defs>
+        <g class="parallax">
+          <use xlink:href="#gentle-wave" x="48" y="0" />
+          <use xlink:href="#gentle-wave" x="48" y="3" />
+          <use xlink:href="#gentle-wave" x="48" y="5" />
+          <use xlink:href="#gentle-wave" x="48" y="7" />
+        </g>
+      </svg>
+    </div>
+    <main>
+      <div class="inner">
+        <div id="main" class="pjax">
+          
+  <div class="article wrap">
+    
+<div class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+<i class="ic i-home"></i>
+<span><a href="/">首页</a></span><i class="ic i-angle-right"></i>
+<span  class="current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/categories/coding/" itemprop="item" rel="index" title="分类于 一起学编程"><span itemprop="name">一起学编程</span></a>
+<meta itemprop="position" content="1" /></span>
+</div>
+
+    <article itemscope itemtype="http://schema.org/Article" class="post block" lang="zh-CN">
+  <link itemprop="mainEntityOfPage" href="https://luhuadong.com/coding/PyTK-2019-Day06.html">
+
+  <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <meta itemprop="image" content="/images/lu_20221221.jpg">
+    <meta itemprop="name" content="Rudy Lo">
+    <meta itemprop="description" content="生活的理想，就是为了理想的生活, 阿基米东的网络日志">
+  </span>
+
+  <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+    <meta itemprop="name" content="成为自由人">
+  </span>
+
+  <div class="body md" itemprop="articleBody">
+    
+
+    <p><img data-src="/images/coding/%E6%A0%A1%E5%9B%AD%E8%AF%BE%E5%A0%82.jpg" alt=""></p>
+<p>上一节课我们写了第一个 Python 程序，并使用了输入和输出函数 —— input 和 print。今天我们将进一步学习输出函数 print 的用法，还会学习程序的控制流程，并在此基础上让电脑为我们打印出《九九乘法表》。</p>
+<h2 id="print-输出格式"><a class="markdownIt-Anchor" href="#print-输出格式">#</a> print 输出格式</h2>
+<p>print 默认输出是换行的，如果不想换行，需要加上 end 参数来指定结束符，就像这样：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello World&quot;</span>, end=<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
+<p>前面我们通过这种方式打印一句话和你的名字：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&quot;</span>, name)</span><br></pre></td></tr></table></figure>
+<p>今天我们会学习一种新的表达方式，我们暂时称呼它为 “字符串格式化输出”，上面这行代码就可以改写为：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&#123;&#125;&quot;</span>.<span class="built_in">format</span>(name))</span><br></pre></td></tr></table></figure>
+<p>字符串  <code>&quot;很高兴认识你，&#123;&#125;&quot;</code>  中的花括号是占位符，意思是等一下这里要打印其他内容，先占个位。至于填充什么内容，就由字符串后的  <code>.format()</code>  中的内容决定。</p>
+<p>如果还想让它喊你的名字三遍，就可以预留三个坑，然后在  <code>format</code>  中填充。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&#123;&#125;, &#123;&#125;, &#123;&#125;&quot;</span>.<span class="built_in">format</span>(name, name, name))</span><br></pre></td></tr></table></figure>
+<p>我们可以给占位符编个号，表示这个坑使用  <code>format</code>  函数中的第几个参数。下面代码的执行效果与上面是一样的。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&#123;0&#125;, &#123;1&#125;, &#123;2&#125;&quot;</span>.<span class="built_in">format</span>(name, name, name))</span><br></pre></td></tr></table></figure>
+<p>也许你已经想到了， <code>name</code>  变量其实不需要写三遍，这样就行了！</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&#123;0&#125;, &#123;0&#125;, &#123;0&#125;&quot;</span>.<span class="built_in">format</span>(name))</span><br></pre></td></tr></table></figure>
+<p>除此之外，我们还可以为不同的坑指定不同的效果，比如左对齐、右对齐、居中。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&#123;0:&lt;8&#125;, &#123;0:^8&#125;, &#123;0:&gt;8&#125;&quot;</span>.<span class="built_in">format</span>(name))</span><br></pre></td></tr></table></figure>
+<p>执行效果如下：</p>
+<p><img data-src="/images/coding/print%E5%8D%A0%E4%BD%8D%E7%AC%A6%E6%93%8D%E4%BD%9C.png" alt=""></p>
+<p>占位符的序号和其需要的效果操作之间用冒号  <code>:</code>  隔开。 <code>&lt;</code>  表示左对齐（默认）， <code>&gt;</code>  表示右对齐， <code>^</code>  表示中间对齐。后面的数字 8 表示这里占了八个字符长度，你也可以改成你需要的长度。</p>
+<p>关于 print 的格式化输出，我们先了解到这里就可以了！</p>
+<p><img data-src="/images/coding/%E5%B0%8F%E5%8F%AF%E7%88%B1%E4%B8%80%E8%B5%B7%E8%B7%B3%E8%88%9E.gif" alt=""></p>
+<h2 id="循环语句"><a class="markdownIt-Anchor" href="#循环语句">#</a> 循环语句</h2>
+<p>前面的代码都是顺序执行的，也就是执行完第一行，再执行第二行，直到最后一行结束。在程序中，我们还经常使用循环来让代码重复执行，先把下面的代码执行一遍看看。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> x <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">10</span>):</span><br><span class="line">    <span class="built_in">print</span>(x)</span><br></pre></td></tr></table></figure>
+<p>没错，你会看到屏幕上打印出 0~9，一共十行数字。</p>
+<p>函数  <code>range(10)</code>  帮我们创建了 0~9 这十个数字，我们通过  <code>for ... in ...</code>  语句将这十个数字依次取出来，放在变量 x 中，然后再使用  <code>print</code>  函数把它们打印出来。</p>
+<p>需要注意的是，第二行代码有一些空白位置，这是因为按了 Tab 键。在你输入代码的时候，你使用的编辑器可能也已经帮你添加上了。这个空白叫做<strong>代码缩进</strong>，表示代码之间的从属关系，在这里就表示  <code>print(x)</code>  这行代码是在 for 循环中被执行的。</p>
+<p>range 函数默认从 0 开始，如果想从 1 开始，则可以使用两个参数，分别表示开始和结束。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> x <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">1</span>, <span class="number">10</span>):</span><br><span class="line">    <span class="built_in">print</span>(x)</span><br></pre></td></tr></table></figure>
+<p>循环是可以嵌套的，也就是说，一层循环中可以包括另一层循环，下一层循环中由可以包含下一层循环，但建议不要嵌套太多层，不然会晕的。。。</p>
+<p><img data-src="/images/coding/%E5%BE%AA%E7%8E%AF.gif" alt=""></p>
+<p>下面的代码中有两层循环，第一层循环 5 次，第二层循环 10 次。第 3 行的 print 语句属于第二层循环，第 4 行的 print 则属于第一层，可以看到代码缩进其实是在表达这种层次关系。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> x <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">5</span>):</span><br><span class="line">    <span class="keyword">for</span> y <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">10</span>):</span><br><span class="line">        <span class="built_in">print</span>(<span class="string">&quot;*&quot;</span>, end=<span class="string">&quot; &quot;</span>)</span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
+<p>执行代码，看看是不是打印出了 5 行 10 列的小星星。</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">* * * * * * * * * * </span><br><span class="line">* * * * * * * * * * </span><br><span class="line">* * * * * * * * * * </span><br><span class="line">* * * * * * * * * * </span><br><span class="line">* * * * * * * * * * </span><br></pre></td></tr></table></figure>
+<p>除了 for in 循环语句，在 Python 中我们还可以使用 while 循环语句。同样是打印 0~9 十个数字，使用 while 循环可以这样来写：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">x = <span class="number">0</span></span><br><span class="line"><span class="keyword">while</span> x&lt;<span class="number">10</span>:</span><br><span class="line">    <span class="built_in">print</span>(x)</span><br><span class="line">    x = x + <span class="number">1</span></span><br></pre></td></tr></table></figure>
+<p>这里我们借助了 x 变量来记录当前的数字，紧跟 while 后面的是判断条件，比如这里的  <code>x&lt;10</code>  表示当 x 小于 10 的时候，执行循环中的代码。换句话说，就是当 x 大于等于 10，就跳出 while 循环，此时程序就结束了。</p>
+<p>同样，while 循环也可以嵌套，for in 循环和 while 循环之间也可以相互嵌套。</p>
+<h2 id="九九乘法表"><a class="markdownIt-Anchor" href="#九九乘法表">#</a> 九九乘法表</h2>
+<p><img data-src="/images/coding/%E4%B9%9D%E4%B9%9D%E4%B9%98%E6%B3%95%E8%A1%A81.jpeg" alt=""></p>
+<p>学习完前面的内容，我们已经完全有能力使用 Python 来打印一张<strong>九九乘法表</strong>啦！紧不紧张，兴不兴奋？</p>
+<p>你先想十分钟，想不出来再看看我下面给的代码。</p>
+<p><img data-src="/images/coding/%E5%B0%B1%E6%98%AF%E8%BF%99%E4%B9%88%E4%BB%BB%E6%80%A7.gif" alt=""></p>
+<p>这里使用 for in 循环来实现，打开编辑器输入如下代码，并保存为 <span class="exturl" data-url="aHR0cDovLzk5VGFibGUucHk=">99Table.py</span> 文件。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">1</span>, <span class="number">10</span>):</span><br><span class="line">    <span class="keyword">for</span> j <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">1</span>, i+<span class="number">1</span>):</span><br><span class="line">        <span class="built_in">print</span>(<span class="string">&quot;&#123;&#125;*&#123;&#125;=&#123;:&lt;3&#125;&quot;</span>.<span class="built_in">format</span>(j,i,i*j), end=<span class="string">&quot; &quot;</span>)</span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
+<p>在终端执行  <code>python3 99Table.py </code> ，看看小九九有没有打印出来。</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">1*1=1   </span><br><span class="line">1*2=2   2*2=4   </span><br><span class="line">1*3=3   2*3=6   3*3=9   </span><br><span class="line">1*4=4   2*4=8   3*4=12  4*4=16  </span><br><span class="line">1*5=5   2*5=10  3*5=15  4*5=20  5*5=25  </span><br><span class="line">1*6=6   2*6=12  3*6=18  4*6=24  5*6=30  6*6=36  </span><br><span class="line">1*7=7   2*7=14  3*7=21  4*7=28  5*7=35  6*7=42  7*7=49  </span><br><span class="line">1*8=8   2*8=16  3*8=24  4*8=32  5*8=40  6*8=48  7*8=56  8*8=64  </span><br><span class="line">1*9=9   2*9=18  3*9=27  4*9=36  5*9=45  6*9=54  7*9=63  8*9=72  9*9=81</span><br></pre></td></tr></table></figure>
+<p><img data-src="/images/coding/%E8%BE%93%E5%87%BA%E4%B9%9D%E4%B9%9D%E4%B9%98%E6%B3%95%E8%A1%A8.png" alt=""></p>
+<h2 id="代码说明"><a class="markdownIt-Anchor" href="#代码说明">#</a> 代码说明</h2>
+<ul>
+<li><strong>代码缩进</strong>是指一行代码开始前的空白区域，表达程序的格式框架，一个程序中可能会存在单行缩进或多行缩进。缩进是程序语法的一部分，需要严格明确；缩进表明了代码间的层次关系，缩进不正确会导致程序运行错误；通常使用 1 个 Tab 来缩进。</li>
+<li>九九乘法表可以看做一个九行九列的表格，因此使用两层循环可以很方便地实现。第一行代码表示变量 <code>i</code>  的值从 1 到 9 循环执行。</li>
+<li>因为九九乘法表的形状是三角形，也就是说内容是逐行增加的，所以第二行的循环范围从 1 开始，到 i+1 结束，随着第一层循环中 i 的变化，第二层循环中的长度也会发生变化。</li>
+<li>Python 中可以直接做数值运算，所以第三行代码使用  <code>i*j</code>  来得出乘法表中的各项结果，需要注意的是可能是输出的格式。</li>
+<li>第四行代码属于第一层循环，它的作用是每打印完一行就换一个新行。</li>
+</ul>
+<h2 id="作业"><a class="markdownIt-Anchor" href="#作业">#</a> 作业</h2>
+<p>（1）自己动手练习一遍，看看能否输出九九乘法表。</p>
+<p>（2）调整九九乘法表的显示，让它看起来像这样：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">1*9=9   2*9=18  3*9=27  4*9=36  5*9=45  6*9=54  7*9=63  8*9=72  9*9=81  </span><br><span class="line">1*8=8   2*8=16  3*8=24  4*8=32  5*8=40  6*8=48  7*8=56  8*8=64  </span><br><span class="line">1*7=7   2*7=14  3*7=21  4*7=28  5*7=35  6*7=42  7*7=49  </span><br><span class="line">1*6=6   2*6=12  3*6=18  4*6=24  5*6=30  6*6=36  </span><br><span class="line">1*5=5   2*5=10  3*5=15  4*5=20  5*5=25  </span><br><span class="line">1*4=4   2*4=8   3*4=12  4*4=16  </span><br><span class="line">1*3=3   2*3=6   3*3=9   </span><br><span class="line">1*2=2   2*2=4   </span><br><span class="line">1*1=1   </span><br></pre></td></tr></table></figure>
+<p>（3）尝试使用 while 循环语句来输出九九乘法表。</p>
+<p><img data-src="/images/coding/%E4%B9%9D%E4%B9%9D%E4%B9%98%E6%B3%95%E8%A1%A82.jpeg" alt=""></p>
+<p>while 版本</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">i=<span class="number">1</span></span><br><span class="line"><span class="keyword">while</span> i&lt;<span class="number">10</span>:</span><br><span class="line">    j=<span class="number">1</span></span><br><span class="line">    <span class="keyword">while</span> j&lt;i+<span class="number">1</span>:</span><br><span class="line">        <span class="built_in">print</span>(<span class="string">&quot;&#123;&#125;*&#123;&#125;=&#123;:&lt;3&#125;&quot;</span>.<span class="built_in">format</span>(j,i,i*j), end=<span class="string">&quot; &quot;</span>)</span><br><span class="line">        j=j+<span class="number">1</span></span><br><span class="line">    i=i+<span class="number">1</span></span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
+
+      <div class="tags">
+          <a href="/tags/Python/" rel="tag"><i class="ic i-tag"></i> Python</a>
+          <a href="/tags/%E6%95%99%E5%AD%A9%E5%AD%90%E5%AD%A6%E7%BC%96%E7%A8%8B/" rel="tag"><i class="ic i-tag"></i> 教孩子学编程</a>
+      </div>
+  </div>
+
+   <footer>
+
+    <div class="meta">
+  <span class="item">
+    <span class="icon">
+      <i class="ic i-calendar-check"></i>
+    </span>
+    <span class="text">更新于</span>
+    <time title="修改时间：2023-04-30 16:10:37" itemprop="dateModified" datetime="2023-04-30T16:10:37+08:00">2023-04-30</time>
+  </span>
+  <span id="coding/PyTK-2019-Day06.html" class="item leancloud_visitors" data-flag-title="【教孩子学编程】第6天 电脑也会九九乘法口诀" title="阅读次数">
+      <span class="icon">
+        <i class="ic i-eye"></i>
+      </span>
+      <span class="text">阅读次数</span>
+      <span class="leancloud-visitors-count"></span>
+      <span class="text">次</span>
+  </span>
+</div>
+
+      
+<div class="reward">
+  <button><i class="ic i-heartbeat"></i> 赞赏</button>
+  <p>请我喝[茶]~(￣▽￣)~*</p>
+  <div id="qr">
+      
+      <div>
+        <img data-src="/images/wechatpay-small.jpeg" alt="Rudy Lo 微信支付">
+        <p>微信支付</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/alipay-small.jpeg" alt="Rudy Lo 支付宝">
+        <p>支付宝</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/avatar.png" alt="Rudy Lo 贝宝">
+        <p>贝宝</p>
+      </div>
+  </div>
+</div>
+
+      
+
+<div id="copyright">
+<ul>
+  <li class="author">
+    <strong>本文作者： </strong>Rudy Lo <i class="ic i-at"><em>@</em></i>成为自由人
+  </li>
+  <li class="link">
+    <strong>本文链接：</strong>
+    <a href="https://luhuadong.com/coding/PyTK-2019-Day06.html" title="【教孩子学编程】第6天 电脑也会九九乘法口诀">https://luhuadong.com/coding/PyTK-2019-Day06.html</a>
+  </li>
+  <li class="license">
+    <strong>版权声明： </strong>本站所有文章除特别声明外，均采用 <span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzQuMC9kZWVkLnpo"><i class="ic i-creative-commons"><em>(CC)</em></i>BY-NC-SA</span> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+  </footer>
+
+</article>
+
+  </div>
+  
+
+<div class="post-nav">
+    <div class="item left">
+      
+
+  <a href="/coding/PyTK-2019-Day05.html" itemprop="url" rel="prev" data-background-image="http:&#x2F;&#x2F;static.luhuadong.com&#x2F;OrcaNorway.jpg" title="【教孩子学编程】第5天 你的第一个 Python 程序">
+  <span class="type">上一篇</span>
+  <span class="category"><i class="ic i-flag"></i> 一起学编程</span>
+  <h3>【教孩子学编程】第5天 你的第一个 Python 程序</h3>
+  </a>
+
+    </div>
+    <div class="item right">
+      
+
+  <a href="/coding/PyTK-2019-Day07.html" itemprop="url" rel="next" data-background-image="http:&#x2F;&#x2F;static.luhuadong.com&#x2F;QingMing2023.jpg" title="【教孩子学编程】第7天 和电脑玩猜数字游戏">
+  <span class="type">下一篇</span>
+  <span class="category"><i class="ic i-flag"></i> 一起学编程</span>
+  <h3>【教孩子学编程】第7天 和电脑玩猜数字游戏</h3>
+  </a>
+
+    </div>
+</div>
+
+  
+  <div class="wrap" id="comments"></div>
+
+
+        </div>
+        <div id="sidebar">
+          
+
+<div class="inner">
+
+  <div class="panels">
+    <div class="inner">
+      <div class="contents panel pjax" data-title="文章目录">
+          <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#print-%E8%BE%93%E5%87%BA%E6%A0%BC%E5%BC%8F"><span class="toc-number">1.</span> <span class="toc-text"> print 输出格式</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5"><span class="toc-number">2.</span> <span class="toc-text"> 循环语句</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%B9%9D%E4%B9%9D%E4%B9%98%E6%B3%95%E8%A1%A8"><span class="toc-number">3.</span> <span class="toc-text"> 九九乘法表</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%BB%A3%E7%A0%81%E8%AF%B4%E6%98%8E"><span class="toc-number">4.</span> <span class="toc-text"> 代码说明</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%BD%9C%E4%B8%9A"><span class="toc-number">5.</span> <span class="toc-text"> 作业</span></a></li></ol>
+      </div>
+      <div class="related panel pjax" data-title="系列文章">
+        <ul>
+          <li><a href="/coding/PyTK-2019-Day01.html" rel="bookmark" title="【教孩子学编程】第1天 和电脑做朋友">【教孩子学编程】第1天 和电脑做朋友</a></li><li><a href="/coding/PyTK-2019-Day02.html" rel="bookmark" title="【教孩子学编程】第2天 不同性格的电脑">【教孩子学编程】第2天 不同性格的电脑</a></li><li><a href="/coding/PyTK-2019-Day03.html" rel="bookmark" title="【教孩子学编程】第3天 打倒拦路虎，学会键盘打字">【教孩子学编程】第3天 打倒拦路虎，学会键盘打字</a></li><li><a href="/coding/PyTK-2019-Day04.html" rel="bookmark" title="【教孩子学编程】第4天 咿呀学语，Python常用英文单词">【教孩子学编程】第4天 咿呀学语，Python常用英文单词</a></li><li><a href="/coding/PyTK-2019-Day05.html" rel="bookmark" title="【教孩子学编程】第5天 你的第一个 Python 程序">【教孩子学编程】第5天 你的第一个 Python 程序</a></li><li class="active"><a href="/coding/PyTK-2019-Day06.html" rel="bookmark" title="【教孩子学编程】第6天 电脑也会九九乘法口诀">【教孩子学编程】第6天 电脑也会九九乘法口诀</a></li><li><a href="/coding/PyTK-2019-Day07.html" rel="bookmark" title="【教孩子学编程】第7天 和电脑玩猜数字游戏">【教孩子学编程】第7天 和电脑玩猜数字游戏</a></li><li><a href="/coding/PyTK-2019-Day08.html" rel="bookmark" title="【教孩子学编程】第8天 还记得大明湖畔的变量和函数吗">【教孩子学编程】第8天 还记得大明湖畔的变量和函数吗</a></li><li><a href="/coding/PyTK-2019-Day09.html" rel="bookmark" title="【教孩子学编程】第9天 老师的点名神器">【教孩子学编程】第9天 老师的点名神器</a></li><li><a href="/coding/PyTK-2019-Day10.html" rel="bookmark" title="【教孩子学编程】第10天 世界那么大，我想去看看">【教孩子学编程】第10天 世界那么大，我想去看看</a></li><li><a href="/coding/python-run-simple-http-server.html" rel="bookmark" title="Python 临时启动简单的 HTTP 服务器">Python 临时启动简单的 HTTP 服务器</a></li>
+        </ul>
+      </div>
+      <div class="overview panel" data-title="站点概览">
+        <div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <img class="image" itemprop="image" alt="Rudy Lo"
+      data-src="/images/lu_20221221.jpg">
+  <p class="name" itemprop="name">Rudy Lo</p>
+  <div class="description" itemprop="description">阿基米东的网络日志</div>
+</div>
+
+<nav class="state">
+    <div class="item posts">
+      <a href="/archives/">
+        <span class="count">295</span>
+        <span class="name">文章</span>
+      </a>
+    </div>
+    <div class="item categories">
+      <a href="/categories/">
+        <span class="count">35</span>
+        <span class="name">分类</span>
+      </a>
+    </div>
+    <div class="item tags">
+      <a href="/tags/">
+        <span class="count">80</span>
+        <span class="name">标签</span>
+      </a>
+    </div>
+</nav>
+
+<div class="social">
+      <span class="exturl item github" data-url="aHR0cHM6Ly9naXRodWIuY29tL2x1aHVhZG9uZw==" title="https:&#x2F;&#x2F;github.com&#x2F;luhuadong"><i class="ic i-github"></i></span>
+      <span class="exturl item csdn" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x1X2VtYmVkZGVk" title="https:&#x2F;&#x2F;blog.csdn.net&#x2F;lu_embedded"><i class="ic i-address-card"></i></span>
+      <span class="exturl item zhihu" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9hcm1zdHJvbmcyMDE0" title="https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014"><i class="ic i-zhihu"></i></span>
+      <span class="exturl item douban" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC83MzAwNDcv" title="https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;"><i class="ic i-douban"></i></span>
+      <span class="exturl item weibo" data-url="aHR0cHM6Ly93ZWliby5jb20vdS8yMDAwMzkxOTUx" title="https:&#x2F;&#x2F;weibo.com&#x2F;u&#x2F;2000391951"><i class="ic i-weibo"></i></span>
+      <span class="exturl item email" data-url="bWFpbHRvOmx1aHVhZG9uZ0AxNjMuY29t" title="mailto:luhuadong@163.com"><i class="ic i-envelope"></i></span>
+</div>
+
+<ul class="menu">
+  
+    
+  <li class="item">
+    <a href="/" rel="section"><i class="ic i-home"></i>首页</a>
+  </li>
+
+    
+  <li class="item">
+    <a href="/about/" rel="section"><i class="ic i-user"></i>关于</a>
+  </li>
+
+        
+  <li class="item dropdown">
+      <a href="javascript:void(0);"><i class="ic i-feather"></i>文章</a>
+    <ul class="submenu">
+
+        
+  <li class="item">
+    <a href="/archives/" rel="section"><i class="ic i-list-alt"></i>归档</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/categories/" rel="section"><i class="ic i-th"></i>分类</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/tags/" rel="section"><i class="ic i-tags"></i>标签</a>
+  </li>
+
+  </ul>
+
+</ul>
+
+      </div>
+    </div>
+  </div>
+
+  <ul id="quick">
+    <li class="prev pjax">
+        <a href="/coding/PyTK-2019-Day05.html" rel="prev" title="上一篇"><i class="ic i-chevron-left"></i></a>
+    </li>
+    <li class="up"><i class="ic i-arrow-up"></i></li>
+    <li class="down"><i class="ic i-arrow-down"></i></li>
+    <li class="next pjax">
+        <a href="/coding/PyTK-2019-Day07.html" rel="next" title="下一篇"><i class="ic i-chevron-right"></i></a>
+    </li>
+    <li class="percent"></li>
+  </ul>
+</div>
+
+
+        </div>
+        <div class="dimmer"></div>
+      </div>
+    </main>
+    <footer id="footer">
+      <div class="inner">
+        <div class="widgets">
+          
+
+        </div>
+        <div class="status">
+  <div class="copyright">
+    
+    &copy; 2014 – 
+    <span itemprop="copyrightYear">2023</span>
+    <span class="with-love">
+      <i class="ic i-sakura rotate"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">Rudy Lo @ Freedom Blog</span>
+  </div>
+  <div class="count">
+    <span class="post-meta-item-icon">
+      <i class="ic i-chart-area"></i>
+    </span>
+    <span title="站点总字数">591k 字</span>
+
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="ic i-coffee"></i>
+    </span>
+    <span title="站点阅读时长">8:57</span>
+  </div>
+  <div class="powered-by">
+    基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
+  </div>
+</div>
+
+      </div>
+    </footer>
+  </div>
+<script data-config type="text/javascript">
+  var LOCAL = {
+    path: 'coding/PyTK-2019-Day06.html',
+    favicon: {
+      show: "（●´3｀●）やれやれだぜ",
+      hide: "(´Д｀)大変だ！"
+    },
+    search : {
+      placeholder: "文章搜索",
+      empty: "关于 「 ${query} 」，什么也没搜到",
+      stats: "${time} ms 内找到 ${hits} 条结果"
+    },
+    valine: true,fancybox: true,
+    copyright: '复制成功，转载请遵守 <i class="ic i-creative-commons"></i>BY-NC-SA 协议。',
+    ignores : [
+      function(uri) {
+        return uri.includes('#');
+      },
+      function(uri) {
+        return new RegExp(LOCAL.path+"$").test(uri);
+      }
+    ]
   };
 </script>
-<title>【教孩子学编程】第6天 电脑也会九九乘法口诀 | 成为自由人</title>
-  
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
-    <script>
-      if (CONFIG.hostname === location.hostname) {
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-190737867-1');
-      }
-    </script>
 
-  <script>
+<script src="https://cdn.polyfill.io/v2/polyfill.js"></script>
+
+<script src="//cdn.jsdelivr.net/combine/npm/pace-js@1.0.2/pace.min.js,npm/pjax@0.2.8/pjax.min.js,npm/whatwg-fetch@3.4.0/dist/fetch.umd.min.js,npm/animejs@3.2.0/lib/anime.min.js,npm/algoliasearch@4/dist/algoliasearch-lite.umd.js,npm/instantsearch.js@4/dist/instantsearch.production.min.js,npm/lozad@1/dist/lozad.min.js,npm/quicklink@2/dist/quicklink.umd.js"></script>
+
+<script src="/js/app.js?v=0.2.5"></script>
+
+
+  <script data-pjax>
     var _hmt = _hmt || [];
     (function() {
       var hm = document.createElement("script");
@@ -83,575 +525,6 @@
       s.parentNode.insertBefore(hm, s);
     })();
   </script>
-
-
-
-  <noscript>
-  <style>
-  body { margin-top: 2rem; }
-
-  .use-motion .menu-item,
-  .use-motion .sidebar,
-  .use-motion .post-block,
-  .use-motion .pagination,
-  .use-motion .comments,
-  .use-motion .post-header,
-  .use-motion .post-body,
-  .use-motion .collection-header {
-    visibility: visible;
-  }
-
-  .use-motion .header,
-  .use-motion .site-brand-container .toggle,
-  .use-motion .footer { opacity: initial; }
-
-  .use-motion .site-title,
-  .use-motion .site-subtitle,
-  .use-motion .custom-logo-image {
-    opacity: initial;
-    top: initial;
-  }
-
-  .use-motion .logo-line {
-    transform: scaleX(1);
-  }
-
-  .search-pop-overlay, .sidebar-nav { display: none; }
-  .sidebar-panel { display: block; }
-  </style>
-</noscript>
-
-</head>
-
-<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
-  <div class="headband"></div>
-
-  <!-- 加入APlayer音乐播放器 -->
-  <link rel="stylesheet" href="/dist/APlayer.min.css">
-  <div id="aplayer"></div>
-  <script type="text/javascript" src="/dist/APlayer.min.js"></script>
-  <script type="text/javascript" src="/dist/music.js"></script>
-
-  <main class="main">
-    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header-inner"><div class="site-brand-container">
-  <div class="site-nav-toggle">
-    <div class="toggle" aria-label="切换导航栏" role="button">
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-    </div>
-  </div>
-
-  <div class="site-meta">
-
-    <a href="/" class="brand" rel="start">
-      <i class="logo-line"></i>
-      <h1 class="site-title">成为自由人</h1>
-      <i class="logo-line"></i>
-    </a>
-      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
-      <img class="custom-logo-image" src="/images/banner_1.gif" alt="成为自由人">
-  </div>
-
-  <div class="site-nav-right">
-    <div class="toggle popup-trigger">
-        <i class="fa fa-search fa-fw fa-lg"></i>
-    </div>
-  </div>
-</div>
-
-
-
-<nav class="site-nav">
-  <ul class="main-menu menu">
-        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
-        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
-        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
-        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
-        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
-        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
-        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
-        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
-      <li class="menu-item menu-item-search">
-        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
-        </a>
-      </li>
-  </ul>
-</nav>
-
-
-
-  <div class="search-pop-overlay">
-    <div class="popup search-popup"><div class="search-header">
-  <span class="search-icon">
-    <i class="fa fa-search"></i>
-  </span>
-  <div class="search-input-container">
-    <input autocomplete="off" autocapitalize="off" maxlength="80"
-           placeholder="搜索..." spellcheck="false"
-           type="search" class="search-input">
-  </div>
-  <span class="popup-btn-close" role="button">
-    <i class="fa fa-times-circle"></i>
-  </span>
-</div>
-<div class="search-result-container no-result">
-  <div class="search-result-icon">
-    <i class="fa fa-spinner fa-pulse fa-5x"></i>
-  </div>
-</div>
-
-    </div>
-  </div>
-
-</div>
-        
-  
-  <div class="toggle sidebar-toggle" role="button">
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-  </div>
-
-  <aside class="sidebar">
-
-    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
-      <ul class="sidebar-nav">
-        <li class="sidebar-nav-toc">
-          文章目录
-        </li>
-        <li class="sidebar-nav-overview">
-          站点概览
-        </li>
-      </ul>
-
-      <div class="sidebar-panel-container">
-        <!--noindex-->
-        <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#print-%E8%BE%93%E5%87%BA%E6%A0%BC%E5%BC%8F"><span class="nav-number">1.</span> <span class="nav-text">print 输出格式</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5"><span class="nav-number">2.</span> <span class="nav-text">循环语句</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%B9%9D%E4%B9%9D%E4%B9%98%E6%B3%95%E8%A1%A8"><span class="nav-number">3.</span> <span class="nav-text">九九乘法表</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BB%A3%E7%A0%81%E8%AF%B4%E6%98%8E"><span class="nav-number">4.</span> <span class="nav-text">代码说明</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BD%9C%E4%B8%9A"><span class="nav-number">5.</span> <span class="nav-text">作业</span></a></li></ol></div>
-        </div>
-        <!--/noindex-->
-
-        <div class="site-overview-wrap sidebar-panel">
-          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
-      src="/images/lu_avatar_04.jpeg">
-  <p class="site-author-name" itemprop="name">Rudy Lo</p>
-  <div class="site-description" itemprop="description">阿基米东的网络日志</div>
-</div>
-<div class="site-state-wrap site-overview-item animated">
-  <nav class="site-state">
-      <div class="site-state-item site-state-posts">
-          <a href="/archives/">
-        
-          <span class="site-state-item-count">295</span>
-          <span class="site-state-item-name">日志</span>
-        </a>
-      </div>
-      <div class="site-state-item site-state-categories">
-            <a href="/categories/">
-          
-        <span class="site-state-item-count">35</span>
-        <span class="site-state-item-name">分类</span></a>
-      </div>
-      <div class="site-state-item site-state-tags">
-            <a href="/tags/">
-          
-        <span class="site-state-item-count">80</span>
-        <span class="site-state-item-name">标签</span></a>
-      </div>
-  </nav>
-</div>
-  <div class="links-of-author site-overview-item animated">
-      <span class="links-of-author-item">
-        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://gitee.com/luhuadong" title="Gitee → https:&#x2F;&#x2F;gitee.com&#x2F;luhuadong" rel="noopener" target="_blank">Gitee</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.douban.com/group/730047/" title="豆瓣 → https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;" rel="noopener" target="_blank">豆瓣</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://zerotogether.net/" title="零废弃部落 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零废弃部落</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
-      </span>
-  </div>
-  <div class="cc-license site-overview-item animated" itemprop="license">
-    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
-  </div>
-
-
-
-        </div>
-      </div>
-    </div>
-  </aside>
-  <div class="sidebar-dimmer"></div>
-
-
-    </header>
-
-    
-  <div class="back-to-top" role="button">
-    <i class="fa fa-arrow-up"></i>
-    <span>0%</span>
-  </div>
-
-<noscript>
-  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
-</noscript>
-
-
-    <div class="main-inner post posts-expand">
-
-
-  
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/coding/PyTK-2019-Day06.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
-          【教孩子学编程】第6天 电脑也会九九乘法口诀
-        </h1>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2019-02-08 10:53:27" itemprop="dateCreated datePublished" datetime="2019-02-08T10:53:27+08:00">2019-02-08</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%80%E8%B5%B7%E5%AD%A6%E7%BC%96%E7%A8%8B/" itemprop="url" rel="index"><span itemprop="name">一起学编程</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-            <div class="post-description">【教孩子学 Python 编程】系列 Day6：编写九九乘法程序</div>
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-        <p><img src="/images/coding/%E6%A0%A1%E5%9B%AD%E8%AF%BE%E5%A0%82.jpg"></p>
-<p>上一节课我们写了第一个 Python 程序，并使用了输入和输出函数 —— input 和 print。今天我们将进一步学习输出函数 print 的用法，还会学习程序的控制流程，并在此基础上让电脑为我们打印出《九九乘法表》。</p>
-<h2 id="print-输出格式"><a href="#print-输出格式" class="headerlink" title="print 输出格式"></a>print 输出格式</h2><p>print 默认输出是换行的，如果不想换行，需要加上 end 参数来指定结束符，就像这样：</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello World&quot;</span>, end=<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
-
-<p>前面我们通过这种方式打印一句话和你的名字：</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&quot;</span>, name)</span><br></pre></td></tr></table></figure>
-
-<p>今天我们会学习一种新的表达方式，我们暂时称呼它为 “字符串格式化输出”，上面这行代码就可以改写为：</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&#123;&#125;&quot;</span>.<span class="built_in">format</span>(name))</span><br></pre></td></tr></table></figure>
-
-<p>字符串 <code>&quot;很高兴认识你，&#123;&#125;&quot;</code> 中的花括号是占位符，意思是等一下这里要打印其他内容，先占个位。至于填充什么内容，就由字符串后的 <code>.format()</code> 中的内容决定。</p>
-<p>如果还想让它喊你的名字三遍，就可以预留三个坑，然后在 <code>format</code> 中填充。</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&#123;&#125;, &#123;&#125;, &#123;&#125;&quot;</span>.<span class="built_in">format</span>(name, name, name))</span><br></pre></td></tr></table></figure>
-
-<p>我们可以给占位符编个号，表示这个坑使用 <code>format</code> 函数中的第几个参数。下面代码的执行效果与上面是一样的。</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&#123;0&#125;, &#123;1&#125;, &#123;2&#125;&quot;</span>.<span class="built_in">format</span>(name, name, name))</span><br></pre></td></tr></table></figure>
-
-<p>也许你已经想到了，<code>name</code> 变量其实不需要写三遍，这样就行了！</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&#123;0&#125;, &#123;0&#125;, &#123;0&#125;&quot;</span>.<span class="built_in">format</span>(name))</span><br></pre></td></tr></table></figure>
-
-<p>除此之外，我们还可以为不同的坑指定不同的效果，比如左对齐、右对齐、居中。</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&#123;0:&lt;8&#125;, &#123;0:^8&#125;, &#123;0:&gt;8&#125;&quot;</span>.<span class="built_in">format</span>(name))</span><br></pre></td></tr></table></figure>
-
-<p>执行效果如下：</p>
-<p><img src="/images/coding/print%E5%8D%A0%E4%BD%8D%E7%AC%A6%E6%93%8D%E4%BD%9C.png"></p>
-<p>占位符的序号和其需要的效果操作之间用冒号 <code>:</code> 隔开。<code>&lt;</code> 表示左对齐（默认），<code>&gt;</code> 表示右对齐，<code>^</code> 表示中间对齐。后面的数字8表示这里占了八个字符长度，你也可以改成你需要的长度。</p>
-<p>关于 print 的格式化输出，我们先了解到这里就可以了！</p>
-<p><img src="/images/coding/%E5%B0%8F%E5%8F%AF%E7%88%B1%E4%B8%80%E8%B5%B7%E8%B7%B3%E8%88%9E.gif"></p>
-<h2 id="循环语句"><a href="#循环语句" class="headerlink" title="循环语句"></a>循环语句</h2><p>前面的代码都是顺序执行的，也就是执行完第一行，再执行第二行，直到最后一行结束。在程序中，我们还经常使用循环来让代码重复执行，先把下面的代码执行一遍看看。</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> x <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">10</span>):</span><br><span class="line">    <span class="built_in">print</span>(x)</span><br></pre></td></tr></table></figure>
-
-<p>没错，你会看到屏幕上打印出0~9，一共十行数字。</p>
-<p>函数 <code>range(10)</code> 帮我们创建了0~9这十个数字，我们通过 <code>for ... in ...</code> 语句将这十个数字依次取出来，放在变量 x 中，然后再使用 <code>print</code> 函数把它们打印出来。</p>
-<p>需要注意的是，第二行代码有一些空白位置，这是因为按了 Tab 键。在你输入代码的时候，你使用的编辑器可能也已经帮你添加上了。这个空白叫做<strong>代码缩进</strong>，表示代码之间的从属关系，在这里就表示 <code>print(x)</code> 这行代码是在 for 循环中被执行的。</p>
-<p>range 函数默认从0开始，如果想从1开始，则可以使用两个参数，分别表示开始和结束。</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> x <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">1</span>, <span class="number">10</span>):</span><br><span class="line">    <span class="built_in">print</span>(x)</span><br></pre></td></tr></table></figure>
-
-
-
-<p>循环是可以嵌套的，也就是说，一层循环中可以包括另一层循环，下一层循环中由可以包含下一层循环，但建议不要嵌套太多层，不然会晕的。。。</p>
-<p><img src="/images/coding/%E5%BE%AA%E7%8E%AF.gif"></p>
-<p>下面的代码中有两层循环，第一层循环5次，第二层循环10次。第3行的 print 语句属于第二层循环，第4行的 print 则属于第一层，可以看到代码缩进其实是在表达这种层次关系。</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> x <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">5</span>):</span><br><span class="line">    <span class="keyword">for</span> y <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">10</span>):</span><br><span class="line">        <span class="built_in">print</span>(<span class="string">&quot;*&quot;</span>, end=<span class="string">&quot; &quot;</span>)</span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
-
-<p>执行代码，看看是不是打印出了5行10列的小星星。</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">* * * * * * * * * * </span><br><span class="line">* * * * * * * * * * </span><br><span class="line">* * * * * * * * * * </span><br><span class="line">* * * * * * * * * * </span><br><span class="line">* * * * * * * * * * </span><br></pre></td></tr></table></figure>
-
-
-
-<p>除了 for in 循环语句，在 Python 中我们还可以使用 while 循环语句。同样是打印0~9十个数字，使用 while 循环可以这样来写：</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">x = <span class="number">0</span></span><br><span class="line"><span class="keyword">while</span> x&lt;<span class="number">10</span>:</span><br><span class="line">    <span class="built_in">print</span>(x)</span><br><span class="line">    x = x + <span class="number">1</span></span><br></pre></td></tr></table></figure>
-
-<p>这里我们借助了 x 变量来记录当前的数字，紧跟 while 后面的是判断条件，比如这里的 <code>x&lt;10</code> 表示当 x 小于 10 的时候，执行循环中的代码。换句话说，就是当 x 大于等于 10，就跳出 while 循环，此时程序就结束了。</p>
-<p>同样，while 循环也可以嵌套，for in 循环和 while 循环之间也可以相互嵌套。</p>
-<h2 id="九九乘法表"><a href="#九九乘法表" class="headerlink" title="九九乘法表"></a>九九乘法表</h2><p><img src="/images/coding/%E4%B9%9D%E4%B9%9D%E4%B9%98%E6%B3%95%E8%A1%A81.jpeg"></p>
-<p>学习完前面的内容，我们已经完全有能力使用 Python 来打印一张<strong>九九乘法表</strong>啦！紧不紧张，兴不兴奋？</p>
-<p>你先想十分钟，想不出来再看看我下面给的代码。</p>
-<p><img src="/images/coding/%E5%B0%B1%E6%98%AF%E8%BF%99%E4%B9%88%E4%BB%BB%E6%80%A7.gif"></p>
-<p>这里使用 for in 循环来实现，打开编辑器输入如下代码，并保存为 99Table.py 文件。</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">1</span>, <span class="number">10</span>):</span><br><span class="line">    <span class="keyword">for</span> j <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">1</span>, i+<span class="number">1</span>):</span><br><span class="line">        <span class="built_in">print</span>(<span class="string">&quot;&#123;&#125;*&#123;&#125;=&#123;:&lt;3&#125;&quot;</span>.<span class="built_in">format</span>(j,i,i*j), end=<span class="string">&quot; &quot;</span>)</span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
-
-<p>在终端执行 <code>python3 99Table.py </code>，看看小九九有没有打印出来。</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">1*1=1   </span><br><span class="line">1*2=2   2*2=4   </span><br><span class="line">1*3=3   2*3=6   3*3=9   </span><br><span class="line">1*4=4   2*4=8   3*4=12  4*4=16  </span><br><span class="line">1*5=5   2*5=10  3*5=15  4*5=20  5*5=25  </span><br><span class="line">1*6=6   2*6=12  3*6=18  4*6=24  5*6=30  6*6=36  </span><br><span class="line">1*7=7   2*7=14  3*7=21  4*7=28  5*7=35  6*7=42  7*7=49  </span><br><span class="line">1*8=8   2*8=16  3*8=24  4*8=32  5*8=40  6*8=48  7*8=56  8*8=64  </span><br><span class="line">1*9=9   2*9=18  3*9=27  4*9=36  5*9=45  6*9=54  7*9=63  8*9=72  9*9=81</span><br></pre></td></tr></table></figure>
-
-
-
-<p><img src="/images/coding/%E8%BE%93%E5%87%BA%E4%B9%9D%E4%B9%9D%E4%B9%98%E6%B3%95%E8%A1%A8.png"></p>
-<h2 id="代码说明"><a href="#代码说明" class="headerlink" title="代码说明"></a>代码说明</h2><ul>
-<li><strong>代码缩进</strong>是指一行代码开始前的空白区域，表达程序的格式框架，一个程序中可能会存在单行缩进或多行缩进。缩进是程序语法的一部分，需要严格明确；缩进表明了代码间的层次关系，缩进不正确会导致程序运行错误；通常使用1个Tab来缩进。</li>
-<li>九九乘法表可以看做一个九行九列的表格，因此使用两层循环可以很方便地实现。第一行代码表示变量<code>i</code>的值从1到9循环执行。</li>
-<li>因为九九乘法表的形状是三角形，也就是说内容是逐行增加的，所以第二行的循环范围从1开始，到 i+1 结束，随着第一层循环中 i 的变化，第二层循环中的长度也会发生变化。</li>
-<li>Python 中可以直接做数值运算，所以第三行代码使用 <code>i*j</code> 来得出乘法表中的各项结果，需要注意的是可能是输出的格式。</li>
-<li>第四行代码属于第一层循环，它的作用是每打印完一行就换一个新行。</li>
-</ul>
-<h2 id="作业"><a href="#作业" class="headerlink" title="作业"></a>作业</h2><p>（1）自己动手练习一遍，看看能否输出九九乘法表。</p>
-<p>（2）调整九九乘法表的显示，让它看起来像这样：</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">1*9=9   2*9=18  3*9=27  4*9=36  5*9=45  6*9=54  7*9=63  8*9=72  9*9=81  </span><br><span class="line">1*8=8   2*8=16  3*8=24  4*8=32  5*8=40  6*8=48  7*8=56  8*8=64  </span><br><span class="line">1*7=7   2*7=14  3*7=21  4*7=28  5*7=35  6*7=42  7*7=49  </span><br><span class="line">1*6=6   2*6=12  3*6=18  4*6=24  5*6=30  6*6=36  </span><br><span class="line">1*5=5   2*5=10  3*5=15  4*5=20  5*5=25  </span><br><span class="line">1*4=4   2*4=8   3*4=12  4*4=16  </span><br><span class="line">1*3=3   2*3=6   3*3=9   </span><br><span class="line">1*2=2   2*2=4   </span><br><span class="line">1*1=1   </span><br></pre></td></tr></table></figure>
-
-<p>（3）尝试使用 while 循环语句来输出九九乘法表。</p>
-<p><img src="/images/coding/%E4%B9%9D%E4%B9%9D%E4%B9%98%E6%B3%95%E8%A1%A82.jpeg"></p>
-<p>while 版本</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">i=<span class="number">1</span></span><br><span class="line"><span class="keyword">while</span> i&lt;<span class="number">10</span>:</span><br><span class="line">    j=<span class="number">1</span></span><br><span class="line">    <span class="keyword">while</span> j&lt;i+<span class="number">1</span>:</span><br><span class="line">        <span class="built_in">print</span>(<span class="string">&quot;&#123;&#125;*&#123;&#125;=&#123;:&lt;3&#125;&quot;</span>.<span class="built_in">format</span>(j,i,i*j), end=<span class="string">&quot; &quot;</span>)</span><br><span class="line">        j=j+<span class="number">1</span></span><br><span class="line">    i=i+<span class="number">1</span></span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
-
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-          <div class="reward-container">
-  <div>您的鼓励是我最大的动力！</div>
-  <button onclick="document.querySelector('.post-reward').classList.toggle('active');">
-    赞赏
-  </button>
-  <div class="post-reward">
-      <div>
-        <img src="/images/wechatpay.jpeg" alt="Rudy Lo 微信">
-        <span>微信</span>
-      </div>
-      <div>
-        <img src="/images/alipay.jpeg" alt="Rudy Lo 支付宝">
-        <span>支付宝</span>
-      </div>
-
-  </div>
-</div>
-
-          
-
-<div class="post-copyright">
-<ul>
-  <li class="post-copyright-author">
-      <strong>本文作者： </strong>Rudy Lo
-  </li>
-  <li class="post-copyright-link">
-      <strong>本文链接：</strong>
-      <a href="https://luhuadong.com/coding/PyTK-2019-Day06.html" title="【教孩子学编程】第6天 电脑也会九九乘法口诀">https://luhuadong.com/coding/PyTK-2019-Day06.html</a>
-  </li>
-  <li class="post-copyright-license">
-    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
-  </li>
-</ul>
-</div>
-
-          <div class="post-tags">
-              <a href="/tags/Python/" rel="tag"># Python</a>
-              <a href="/tags/%E6%95%99%E5%AD%A9%E5%AD%90%E5%AD%A6%E7%BC%96%E7%A8%8B/" rel="tag"># 教孩子学编程</a>
-          </div>
-
-        
-
-          <div class="post-nav">
-            <div class="post-nav-item">
-                <a href="/coding/PyTK-2019-Day05.html" rel="prev" title="【教孩子学编程】第5天 你的第一个 Python 程序">
-                  <i class="fa fa-chevron-left"></i> 【教孩子学编程】第5天 你的第一个 Python 程序
-                </a>
-            </div>
-            <div class="post-nav-item">
-                <a href="/coding/PyTK-2019-Day07.html" rel="next" title="【教孩子学编程】第7天 和电脑玩猜数字游戏">
-                  【教孩子学编程】第7天 和电脑玩猜数字游戏 <i class="fa fa-chevron-right"></i>
-                </a>
-            </div>
-          </div>
-    </footer>
-  </article>
-</div>
-
-
-
-
-
-
-    
-  
-  <div class="comments">
-    <script src="https://giscus.app/client.js"
-        data-repo="luhuadong/blog" 
-        data-repo-id="MDEwOlJlcG9zaXRvcnkzNDEzOTU5NzQ=" 
-        data-category="General"
-        data-category-id="DIC_kwDOFFlKBs4CSTqq"
-        data-mapping="pathname" 
-        data-reactions-enabled="1" 
-        data-emit-metadata="1" 
-        data-theme="light"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        data-input-position="bottom"
-        data-loading="lazy"
-        async>
-    </script>
-  </div>
-  
-  
-
-<script>
-  window.addEventListener('tabs:register', () => {
-    let { activeClass } = CONFIG.comments;
-    if (CONFIG.comments.storage) {
-      activeClass = localStorage.getItem('comments_active') || activeClass;
-    }
-    if (activeClass) {
-      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
-      if (activeTab) {
-        activeTab.click();
-      }
-    }
-  });
-  if (CONFIG.comments.storage) {
-    window.addEventListener('tabs:click', event => {
-      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
-      const commentClass = event.target.classList[1];
-      localStorage.setItem('comments_active', commentClass);
-    });
-  }
-</script>
-</div>
-  </main>
-
-  <footer class="footer">
-    <div class="footer-inner">
-
-
-<div class="copyright">
-  &copy; 
-  <span itemprop="copyrightYear">2023</span>
-  <span class="with-love">
-    <i class="fa fa-heart"></i>
-  </span>
-  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
-</div>
-  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
-  </div>
-
-    </div>
-  </footer>
-
-  
-  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
-
-  
-<script src="/js/local-search.js"></script>
-
-
-
-
-
-
-  
-
-
-
-
-  <script>
-  if (typeof MathJax === 'undefined') {
-    window.MathJax = {
-      tex: {
-        inlineMath: {'[+]': [['$', '$']]},
-        tags: 'none'
-      },
-      options: {
-        renderActions: {
-          insertedScript: [200, () => {
-            document.querySelectorAll('mjx-container').forEach(node => {
-              const target = node.parentNode;
-              if (target.nodeName.toLowerCase() === 'li') {
-                target.parentNode.classList.add('has-jax');
-              }
-            });
-          }, '', false]
-        }
-      }
-    };
-    const script = document.createElement('script');
-    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
-    script.defer = true;
-    document.head.appendChild(script);
-  } else {
-    MathJax.startup.document.state(0);
-    MathJax.typesetClear();
-    MathJax.texReset();
-    MathJax.typeset();
-  }
-</script>
-
 
 
 </body>

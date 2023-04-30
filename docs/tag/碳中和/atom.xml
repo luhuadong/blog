@@ -1,0 +1,957 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://luhuadong.com</id>
+    <title>成为自由人 • Posts by &#34;碳中和&#34; tag</title>
+    <link href="https://luhuadong.com" />
+    <updated>2022-08-22T01:51:03.000Z</updated>
+    <category term="商业" />
+    <category term="成长" />
+    <category term="日记" />
+    <category term="创业" />
+    <category term="家居" />
+    <category term="互联网" />
+    <category term="读书笔记" />
+    <category term="工程师" />
+    <category term="爱" />
+    <category term="名言" />
+    <category term="奋斗" />
+    <category term="信息世界" />
+    <category term="管理" />
+    <category term="程序员" />
+    <category term="职场" />
+    <category term="人生" />
+    <category term="物联网" />
+    <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
+    <category term="创客" />
+    <category term="比赛" />
+    <category term="科技向善" />
+    <category term="英语" />
+    <category term="学习" />
+    <category term="环保" />
+    <category term="碳中和" />
+    <category term="种植" />
+    <category term="健身" />
+    <category term="地理" />
+    <category term="城市" />
+    <category term="气象爱好者" />
+    <category term="指南" />
+    <category term="自律" />
+    <category term="思维" />
+    <category term="健康" />
+    <category term="Hexo" />
+    <category term="科普" />
+    <category term="可持续" />
+    <category term="能源" />
+    <category term="职业" />
+    <category term="时间管理" />
+    <category term="工作" />
+    <category term="总结" />
+    <category term="慈济" />
+    <category term="RT-Thread" />
+    <category term="开源" />
+    <category term="思考" />
+    <category term="生活" />
+    <category term="猫" />
+    <category term="幸福" />
+    <category term="修身" />
+    <category term="写书" />
+    <category term="milestone" />
+    <category term="地铁" />
+    <category term="Markdown" />
+    <category term="计划" />
+    <category term="股票" />
+    <category term="理财" />
+    <category term="投资" />
+    <category term="财富" />
+    <category term="保险" />
+    <category term="纪录片" />
+    <category term="自由" />
+    <category term="电影" />
+    <category term="TED演讲" />
+    <category term="时间" />
+    <category term="心理学" />
+    <category term="无线电爱好者" />
+    <category term="亲密关系" />
+    <category term="农业" />
+    <category term="游泳" />
+    <category term="励志" />
+    <category term="演讲" />
+    <category term="蔬食" />
+    <category term="电台主播" />
+    <category term="WordPress" />
+    <category term="垃圾分类" />
+    <category term="零废弃" />
+    <category term="低碳" />
+    <entry>
+        <id>https://luhuadong.com/zerowaste/cloud-computing-and-carbon-neutrality.html</id>
+        <title>云计算与碳中和</title>
+        <link rel="alternate" href="https://luhuadong.com/zerowaste/cloud-computing-and-carbon-neutrality.html"/>
+        <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90YWxrLmFsaXl1bi5jb20vL2NvbXB1dGluZy9DYXJib24x&#34;&gt;“碳中和” 时代下：计算的机会在哪里？&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="碳中和" />
+        <updated>2022-08-22T01:51:03.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/reading/carbon-neutrality-2021.html</id>
+        <title>《碳中和时代——未来40年财富大转移》读书笔记</title>
+        <link rel="alternate" href="https://luhuadong.com/reading/carbon-neutrality-2021.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/reading/carbon-neutrality-2021.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;目录&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#目录&#34;&gt;#&lt;/a&gt; 目录&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;第 1 章 碳中和的时代已经到来&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;1.1 温室气体 —— 工业文明的副产品&lt;/li&gt;
+&lt;li&gt;1.2 公地悲剧，应对气候变化的国际博弈&lt;/li&gt;
+&lt;li&gt;1.3 碳中和 —— 气候危机下的人类选择&lt;/li&gt;
+&lt;li&gt;1.4 碳中和的世界是什么样的？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;第 2 章 中国的碳中和雄心&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;2.1 中国应对气候变化的战略&lt;/li&gt;
+&lt;li&gt;2.2 碳中和与大国崛起&lt;/li&gt;
+&lt;li&gt;2.3 碳达峰和碳中和的关系&lt;/li&gt;
+&lt;li&gt;2.4 碳中和与社会经济发展的关系&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;第 3 章 中国的碳中和路径&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;3.1 中国的碳中和总体框架&lt;/li&gt;
+&lt;li&gt;3.2 能源领域碳中和路径&lt;/li&gt;
+&lt;li&gt;3.3 其他领域碳中和路径&lt;/li&gt;
+&lt;li&gt;3.4《巴黎协定》第六条与中国的全球布局&lt;/li&gt;
+&lt;li&gt;3.5 实现碳中和后的碳排放构成&lt;/li&gt;
+&lt;li&gt;3.6 实现碳中和的一些关键技术&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;第 4 章 企业的碳中和之路&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;4.1 从社会责任到 ESG，碳中和的企业诉求&lt;/li&gt;
+&lt;li&gt;4.2 如何界定企业碳中和&lt;/li&gt;
+&lt;li&gt;4.3 他山之石，先进企业的碳中和战略解读&lt;/li&gt;
+&lt;li&gt;4.4 企业如何制定一个好的碳中和规划&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;第 5 章 碳市场 —— 碳中和的资本助力&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;5.1 为什么需要碳市场&lt;/li&gt;
+&lt;li&gt;5.2 碳交易市场的五大要素&lt;/li&gt;
+&lt;li&gt;5.3 如何设计并运营一个碳交易市场&lt;/li&gt;
+&lt;li&gt;5.4 资本在碳市场中的作用&lt;/li&gt;
+&lt;li&gt;5.5 如何投资碳交易市场&lt;/li&gt;
+&lt;li&gt;5.6 其他碳减排交易市场&lt;/li&gt;
+&lt;li&gt;5.7 全球典型碳市场解读&lt;/li&gt;
+&lt;li&gt;5.8 其他环境权益交易市场&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;第 6 章 碳中和时代的碳管理行业&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;6.1 中国碳圈兴衰史&lt;/li&gt;
+&lt;li&gt;6.2 碳管理行业六大业务板块&lt;/li&gt;
+&lt;li&gt;6.3 碳排放核算&lt;/li&gt;
+&lt;li&gt;6.4 碳管理咨询&lt;/li&gt;
+&lt;li&gt;6.5 环境权益开发&lt;/li&gt;
+&lt;li&gt;6.6 碳金融&lt;/li&gt;
+&lt;li&gt;6.7 碳中和 +&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;第 7 章 碳中和背景下的个人选择&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;7.1 个人对于碳中和的贡献&lt;/li&gt;
+&lt;li&gt;7.2 碳中和趋势下的个人定位&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;变革&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#变革&#34;&gt;#&lt;/a&gt; 变革&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;碳达峰、碳中和是一场广泛而深刻的经济社会系统性变革！&lt;/strong&gt;&lt;/p&gt;
+</content>
+        <category term="读书笔记" />
+        <category term="碳中和" />
+        <updated>2021-11-27T11:06:45.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/zerowaste/carbon-neutral-thinking.html</id>
+        <title>关于“碳中和”的一些思考</title>
+        <link rel="alternate" href="https://luhuadong.com/zerowaste/carbon-neutral-thinking.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/towards-zero-carbon.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;怎么理解碳中和&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#怎么理解碳中和&#34;&gt;#&lt;/a&gt; 怎么理解 “碳中和”？&lt;/h2&gt;
+&lt;p&gt;我们可以把 30・60 目标（2030 年实现碳达峰，2060 年实现碳中和）看做一场社会运动，当然不单只是中国，全世界都在为碳中和的目标努力。只是由于发展阶段不同，各个国家所制定的计划不一样而已。&lt;/p&gt;
+&lt;p&gt;而这场社会运动牵涉地球上的所有生物，因此我们必须有 “人类命运共同体” 的意识，尽快从以化石燃料能源时代全面迈入绿色能源时代。你可以把它理解为要&lt;strong&gt;将整个人类社会的底座替换掉&lt;/strong&gt;，时间紧任务重，各行各业都会受到影响。&lt;/p&gt;
+&lt;p&gt;因此，“碳中和” 也是一条创业的绝佳赛道，一方面国家和企业都需要创新的技术和方式，以低成本平稳实现 “零碳”；另一方面也会相继出现政策调控、资金流动，以及许多行业标准的重新制定，充满了机遇与挑战。&lt;/p&gt;
+&lt;h2 id=&#34;以后家家户户都会有碳排放表吗&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#以后家家户户都会有碳排放表吗&#34;&gt;#&lt;/a&gt; 以后家家户户都会有 “碳排放表” 吗？&lt;/h2&gt;
+&lt;p&gt;我并不认为未来每个家庭都需要 “碳排放表” 这样的监测设备。&lt;/p&gt;
+&lt;p&gt;一来难以实时监测所有的碳排放量。目前需要监测碳排放量的主要是高耗能企业，例如电力、煤炭、钢铁、水泥等行业。这种监测相对容易，同时也是 CCUS 的主要应用场合。对于家庭、个人的碳排放监测，因为体量太小、监测面太分散，所以很难采集到准确数据。并且，采集数据是需要仪器的，传感器、设备的生产制造也会造成碳排放和额外的成本。&lt;/p&gt;
+&lt;p&gt;二来没有太大意义。由于个人或家庭的碳排放数据难以准确采集，所以就失去了安装 “碳排放表” 的意义。&lt;/p&gt;
+&lt;p&gt;那是不是就不能衡量一个家庭或个人的碳排放了？&lt;/p&gt;
+&lt;p&gt;我觉得不。首先，每个家庭的电表其实就可以作为 “碳排放表”。通过采集每天消耗多少度电，电力的来源是化石燃料还是清洁能源，占比是多少等因素，可以大致衡量其碳排放量，这一部分由电力部门来统计即可。另外，对于其他日常消费行为，例如今天在交通上消耗了多少能源，购买了多少食物，它们的碳足迹怎么样？则可以单独拎出来计算。所以，实际上它应该是一个统计问题，而不是安装一个 “碳排放表” 就能采集出来的。&lt;/p&gt;
+&lt;h2 id=&#34;可以把碳中和当作互联网吗&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#可以把碳中和当作互联网吗&#34;&gt;#&lt;/a&gt; 可以把碳中和当作互联网吗？&lt;/h2&gt;
+&lt;p&gt;我的答案是 “可以”，也 “不可以”。&lt;/p&gt;
+&lt;p&gt;知乎上有一个问题「&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuemhpaHUuY29tL3F1ZXN0aW9uLzQ4MDY2NDI3OQ==&#34;&gt;碳中和 作为年轻人如何切入这个行业的工作呢？&lt;/span&gt;」，回答里面就有人说 “把碳中和当作互联网就好了…”。&lt;/p&gt;
+&lt;p&gt;我在一定层度上认同，就像我前面说的，碳中和就是要把驱动人类社会发展的底座给替换掉，这可是一件大事。所以可以像互联网的发展一样，和各行各业重新整合，将其融入到生活的每个角落的，从而实现 “零碳城市”。&lt;/p&gt;
+&lt;p&gt;但又不能完全把它当作互联网。因为碳中和只是一个目标，不是一种方法。而实现碳中和这个目标，就要许多创新的方法，互联网本身就是一种帮助实现碳中和的方式。比如远程办公可以减少交通碳排放、物联网和人工智能可以提高资源利用效率等等。&lt;/p&gt;
+&lt;p&gt;所以我觉得，从思维上是可以把碳中和当作互联网，去思考各个行业的未来。但从实际行动上来看，互联网只是一种帮助实现碳中和的手段，两者是有本质区别的。&lt;/p&gt;
+</content>
+        <category term="创业" />
+        <category term="碳中和" />
+        <updated>2021-11-02T08:33:37.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/entrepreneurship/green-business-ideas.html</id>
+        <title>碳中和创业 | 23种绿色环保商业理念</title>
+        <link rel="alternate" href="https://luhuadong.com/entrepreneurship/green-business-ideas.html"/>
+        <content type="html">&lt;p&gt;您想在创业的同时保护环境吗？ 本文介绍的这些绿色商业理念可以帮助您做到这一点。&lt;/p&gt;
+&lt;p&gt;如今，消费者对&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYnVzaW5lc3NuZXdzZGFpbHkuY29tLzQ2NzktY29ycG9yYXRlLXNvY2lhbC1yZXNwb25zaWJpbGl0eS5odG1s&#34;&gt;企业社会责任&lt;/span&gt; （CSR）的兴趣与他们对公司的产品和服务一样感兴趣。这对有环保意识的企业家来说尤其是个好消息。&lt;/p&gt;
+&lt;p&gt;因此，我们概述了 23 种环保、绿色产业的商业理念，既可以赚钱同时又可以拯救地球。&lt;/p&gt;
+&lt;h2 id=&#34;什么是绿色产业业务&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#什么是绿色产业业务&#34;&gt;#&lt;/a&gt; 什么是绿色产业业务？&lt;/h2&gt;
+&lt;p&gt;绿色工业企业是使用&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cud3JpLm9yZy9ibG9nLzIwMTEvMDgvZW5jb3VhZ2luZy1ncmVlbi1pbmR1c3RyeS1pbm5vdmF0aW9u&#34;&gt;可持续材料&lt;/span&gt; 制造其产品的企业。绿色工业企业的目标是在减少碳排放的同时尽可能少地使用水、能源和原材料，或者寻找以可再生和生态友好的方式利用这些材料的方法。这种商业方法最大限度地减少了公司对自然资源的压力和对气候变化的贡献。在某些情况下，如果产生废物，则将其作为能源或原材料进行再利用。&lt;/p&gt;
+&lt;h2 id=&#34;什么是绿色商业模式&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#什么是绿色商业模式&#34;&gt;#&lt;/a&gt; 什么是绿色商业模式？&lt;/h2&gt;
+&lt;p&gt;在&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oYnIub3JnLzIwMTUvMDEvd2hhdC1pcy1hLWJ1c2luZXNzLW1vZGVs&#34;&gt;传统商业模式&lt;/span&gt;下，公司会列出原材料预算、设计流程、服务交付或产品分销方法。而绿色商业模式则在确保充足收入的同时，优先考虑将公司对环境的影响降至最低，而不是将利润最大化。它可能涉及限制使用化石燃料，同时强调由太阳能电池板提供的电力和其他大幅降低能源消耗的方法。&lt;/p&gt;
+&lt;h2 id=&#34;如何开展绿色业务&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#如何开展绿色业务&#34;&gt;#&lt;/a&gt; 如何开展绿色业务？&lt;/h2&gt;
+&lt;p&gt;随着消费者开始关注企业社会责任（CSR），更多的绿色企业应运而生，但气候变化带来的问题需要许多解决方案。因此，要开展绿色业务，首先要看看您所在市场中目前有哪些还没有人提供的环保服务。然后想想你认识的同样具有环保意识的人，你可以邀请他们加入你的团队。&lt;/p&gt;
+&lt;p&gt;当您开展绿色业务时，请改变您的生活方式以反映您的业务价值和服务。&lt;/p&gt;
+&lt;h2 id=&#34;哪些公司是环保的&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#哪些公司是环保的&#34;&gt;#&lt;/a&gt; 哪些公司是环保的？&lt;/h2&gt;
+&lt;p&gt;环保（eco-friendly）公司可能包括户外服装品牌、制造可重复使用塑料瓶的企业、环保清洁公司、安装太阳能电池板的企业、当地回收企业以及许多其他潜在企业。如果您想开始自己的环保、绿色产业业务，请考虑以下 23 个想法中的任何一个。&lt;/p&gt;
+&lt;h2 id=&#34;1-墨水补充业务&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-墨水补充业务&#34;&gt;#&lt;/a&gt; 1、墨水补充业务&lt;/h2&gt;
+&lt;p&gt;开始墨水笔芯和墨水补充（ink-refill）业务不仅是一个高利润的决定，它也可以是一个具有环保意识的决定。考虑到每年浪费的纸张数量，您可能会质疑重新填充墨盒是否真的有助于保护环境。但是，通过重复使用旧墨盒，垃圾填埋场中积累的不可生物降解的废物会减少。在商业世界中，纸张仍然是必需的，但空墨盒不是。&lt;/p&gt;
+&lt;img data-src=&#34;/images/startup/ink-refill-station.jpg&#34; width=&#34;600&#34;&gt;
+&lt;h2 id=&#34;2-环保刊物&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2-环保刊物&#34;&gt;#&lt;/a&gt; 2、环保刊物&lt;/h2&gt;
+&lt;p&gt;如果您喜欢写作，请开始自己的环保出版物。您的行为可以对世界产生重大影响。通过揭穿流行的神话并分享我们生活的世界的真相，您可以帮助消费者重新思考他们的行为如何影响地球。&lt;/p&gt;
+&lt;img data-src=&#34;/images/startup/ec_covers.jpg&#34; width=&#34;600&#34;&gt;
+&lt;h2 id=&#34;3-绿色金融&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#3-绿色金融&#34;&gt;#&lt;/a&gt; 3、绿色金融&lt;/h2&gt;
+&lt;p&gt;绿色金融侧重于支持地方、社区层面的项目，重点是可持续、生态友好的农业。绿色金融通常还涉及提供教育机会、为艺术创作和支持当地生态的项目提供资金。&lt;/p&gt;
+&lt;p&gt;绿色金融专注于社会盈利能力。虽然货币利润仍然很重要，但绿色金融的目标是支持为当地社区和生态提供价值的有益项目。&lt;/p&gt;
+&lt;h2 id=&#34;4-环保零售&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#4-环保零售&#34;&gt;#&lt;/a&gt; 4、环保零售&lt;/h2&gt;
+&lt;p&gt;消费者奖励计划深受零售商欢迎，电子商务网站 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9wLmVjb3BsdW0uY29tLw==&#34;&gt;EcoPlum&lt;/span&gt; 也不例外。每次购买，客户都会获得 EcoChipz，可兑换奖励或捐赠给各种环境事业。售出的每件产品还带有第三方绿色认证或等效的生态标签。&lt;/p&gt;
+&lt;p&gt;除了销售可持续采购的产品外，EcoPlum 还制作教育内容，包括行业专家的每月专栏、当地绿色企业列表、回收信息、生态提示以及书籍和视频推荐。如果您正在考虑开设一家零售店，请考虑与一家与您和您的客户有着相似动机和价值观的公司合作。&lt;/p&gt;
+&lt;img data-src=&#34;/images/startup/ecoplum.png&#34; width=&#34;600&#34;&gt;
+&lt;h2 id=&#34;5-可持续建筑材料&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#5-可持续建筑材料&#34;&gt;#&lt;/a&gt; 5、可持续建筑材料&lt;/h2&gt;
+&lt;p&gt;您可能不认为建筑是可持续的，但一些公司现在提供可回收材料用于基础设施维修等项目。&lt;/p&gt;
+&lt;p&gt;例如，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5heGloLmNvbS8=&#34;&gt;Axion&lt;/span&gt; 凭借其环保产品，希望改变公司对重建美国基础设施的思考方式。该公司的铁路枕木和桩由消费和工业用途的再生塑料制成，而不是钢铁和混凝土等不可持续的材料。Axion 目前正与长岛铁路等主要合作伙伴合作，以安全、可持续地改善美国的基础设施。&lt;/p&gt;
+&lt;h2 id=&#34;6-有机餐饮&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#6-有机餐饮&#34;&gt;#&lt;/a&gt; 6、有机餐饮&lt;/h2&gt;
+&lt;p&gt;让环保美食家分享他们对食物和环境的热情的一个好方法是创办一家有机餐饮公司。通过为当地活动和商务午餐提供包含有机和当地种植食材的食物、自由放养的肉类以及纯素、无麸质和古餐选择，您将吸引大自然爱好者和健康爱好者。&lt;/p&gt;
+&lt;p&gt;但是，请务必通过尽可能避免使用塑料和纸制品以及将厨余垃圾堆肥来尽量减少对环境的影响。&lt;/p&gt;
+&lt;img data-src=&#34;/images/startup/OrganicCateringServicesFT.jpg&#34; width=&#34;600&#34;&gt;
+&lt;h2 id=&#34;7-环保美容院&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#7-环保美容院&#34;&gt;#&lt;/a&gt; 7、环保美容院&lt;/h2&gt;
+&lt;p&gt;如果美容是您的激情所在，那就开始一项获得大自然认可的美容业务。有机和纯素护发和美容产品随处可见。使这种趋势为您服务的一种方法是开设一家环保美容院。您可以开设一家使用全天然洗发水和护发素的美发沙龙，或者开设一家使用环保和纯素抛光剂和水疗护理的美甲沙龙。&lt;/p&gt;
+&lt;img data-src=&#34;/images/startup/vegan-cruelty-free-beauty-john-masters-organics.png&#34; width=&#34;600&#34;&gt;
+&lt;h2 id=&#34;8-生态环境美化&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#8-生态环境美化&#34;&gt;#&lt;/a&gt; 8、生态环境美化&lt;/h2&gt;
+&lt;p&gt;专业的景观美化可能会使您的草坪和花园看起来不错，但所有这些维护工作并不一定对环境有益。通过一些环保建议和专业知识，您可以帮助房主从字面上和比喻上使他们的院子更环保。&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5zaGVrbm93cy5jb20vaG9tZS1hbmQtZ2FyZGVuaW5nL2FydGljbGVzLzgzMDkwNy82LWVjby1mcmllbmRseS1sYW5kc2NhcGluZy10aXBz&#34;&gt;SheKnows&lt;/span&gt; 推荐人造草皮、抗旱植物和战略性放置的树木作为草坪 节省水、能源和金钱。&lt;/p&gt;
+&lt;h2 id=&#34;9-可持续的活动策划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#9-可持续的活动策划&#34;&gt;#&lt;/a&gt; 9、可持续的活动策划&lt;/h2&gt;
+&lt;p&gt;无论大小，会议和活动都会产生大量废物并消耗宝贵的资源。Green &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYnVzaW5lc3NuZXdzZGFpbHkuY29tLzQxNTktYnVzaW5lc3MtaWRlYS1ldmVudC1wbGFubmVyLmh0bWw=&#34;&gt;活动策划者&lt;/span&gt;利用他们的专业知识和活动策划技巧来寻找环保的场地、材料和住宿。&lt;/p&gt;
+&lt;p&gt;可持续的事件管理不仅对地球有益。根据 [可持续活动指南](&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZ3JlZW5pbmd0aGVibHVlLm9yZy9zaXRlcy9kZWZhdWx0L2ZpbGVzL1N1c3RhaW5hYmxl&#34;&gt;https://www.greeningtheblue.org/sites/default/files/Sustainable&lt;/span&gt; Events Guide May 30 2012 FINAL.pdf)，还有成本优势，而且它为活动组织者创造了积极的形象、供应商和利益相关者，同时提高意识并激发社区的变革。&lt;/p&gt;
+&lt;img data-src=&#34;/images/startup/zerowaste-event-guide-book.png&#34; width=&#34;600&#34;&gt;
+&lt;h2 id=&#34;10-自行车修理和翻新&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#10-自行车修理和翻新&#34;&gt;#&lt;/a&gt; 10、自行车修理和翻新&lt;/h2&gt;
+&lt;p&gt;短距离骑自行车而不是开车更有利于环境和健康。像大多数交通方式一样，自行车偶尔需要调整。&lt;/p&gt;
+&lt;p&gt;当他们的自行车需要维修或保养时，您可以成为专业的自行车手。如果您有一些额外的空间，您可以购买便宜的旧自行车，修理它们并出售以获取利润。&lt;/p&gt;
+&lt;h2 id=&#34;11-手工制作的全天然有机产品&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#11-手工制作的全天然有机产品&#34;&gt;#&lt;/a&gt; 11、手工制作的全天然 / 有机产品&lt;/h2&gt;
+&lt;p&gt;肥皂、化妆品和清洁产品只是一些可以使用普通有机材料制成的家用产品。&lt;/p&gt;
+&lt;p&gt;当然，任何人都可以找到糖磨砂膏（sugar scrub）或醋基（vinegar-based）清洁剂的配方并自己动手，但如果您成套包装和销售它们，您的客户就可以方便地获得这些全天然产品。当地市场和活动是销售的好地方，或者您可以开设 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYnVzaW5lc3NuZXdzZGFpbHkuY29tLzQ3MDctZWNvbW1lcmNlLXdlYnNpdGUtZ3VpZGUuaHRtbA==&#34;&gt;在线商店&lt;/span&gt;。&lt;/p&gt;
+&lt;img data-src=&#34;/images/startup/handmade-soap-delivery.jpg&#34; width=&#34;600&#34;&gt;
+&lt;h2 id=&#34;12-生态咨询&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#12-生态咨询&#34;&gt;#&lt;/a&gt; 12、生态咨询&lt;/h2&gt;
+&lt;p&gt;您是绿色生活专家吗？开始生态咨询服务。顾问评估家庭和办公室，并提供解决方案，使它们更环保。&lt;/p&gt;
+&lt;p&gt;您可以建议客户将家用电器改用更节能的机器或实施回收计划。为了进一步提高您的可信度，请成为认证的 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jc2UtbmV0Lm9yZy9hZmZpbGlhdGUtY29uc3VsdGFudC8=&#34;&gt;eco-consultant&lt;/span&gt;。&lt;/p&gt;
+&lt;img data-src=&#34;/images/startup/what-is-eco-consulting1.jpg&#34; width=&#34;600&#34;&gt;
+&lt;h2 id=&#34;13-农贸市场小贩&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#13-农贸市场小贩&#34;&gt;#&lt;/a&gt; 13、农贸市场小贩&lt;/h2&gt;
+&lt;p&gt;由于有机运动（the organic movement），那些拥有绿色拇指的人有一个通过在当地农贸市场销售非转基因、无农药产品来赚钱的黄金机会。&lt;/p&gt;
+&lt;p&gt;与使用传统耕作方法（包括杀虫剂）的竞争种植者相比，销售天然种植的水果和蔬菜为您提供了明显的优势。在开始销售之前，您可能必须先获得当地卫生委员会的批准和 / 或认证。&lt;/p&gt;
+&lt;img data-src=&#34;/images/startup/farmers-market-vendor.jpg&#34; width=&#34;600&#34;&gt;
+&lt;h2 id=&#34;14-绿色家政服务&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#14-绿色家政服务&#34;&gt;#&lt;/a&gt; 14、绿色家政服务&lt;/h2&gt;
+&lt;p&gt;对于在职父母来说，打扫房子可能是待办事项清单的底部。通过提供从轻度除尘到繁重杂务（例如清洁厨房和浴室）的服务，仅使用经过批准的全天然和环保清洁产品，将自己推销为解决家政问题的绿色解决方案。&lt;/p&gt;
+&lt;p&gt;按小时收费或以固定费用创建您自己的服务包。请记住，您的客户让您可以进入他们的家。在向陌生人做广告之前，先与您认识的人建立可信赖的声誉。&lt;/p&gt;
+&lt;img data-src=&#34;/images/startup/Green-housekeeping-services.jpg&#34; width=&#34;600&#34;&gt;
+&lt;h2 id=&#34;15-升级家具&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#15-升级家具&#34;&gt;#&lt;/a&gt; 15、“升级” 家具&lt;/h2&gt;
+&lt;p&gt;不要扔掉旧的、破损的家具。借助基本模板和电动工具，您可以将椅子、桌子和梳妆台分解并重新组装成可以绘画和出售的新作品。搁架和存储单元很容易用木屑制成，根据物品的不同，您甚至可以完全修复一件独特而有价值的家具。&lt;/p&gt;
+&lt;p&gt;或者，您可以重新装饰旧椅子和沙发，赋予它们新的生命。购买二手不仅可以省钱，还有助于保护环境。&lt;/p&gt;
+&lt;img data-src=&#34;/images/startup/upcycle-furniture.jpg&#34; width=&#34;600&#34;&gt;
+&lt;h2 id=&#34;16-绿色特许经营权&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#16-绿色特许经营权&#34;&gt;#&lt;/a&gt; 16、绿色特许经营权&lt;/h2&gt;
+&lt;p&gt;想要经营一家拥有稳固品牌和客户群的企业吗？投资 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYnVzaW5lc3NuZXdzZGFpbHkuY29tLzQ2MjgtZnJhbmNoaXNpbmcuaHRtbA==&#34;&gt;特许经营&lt;/span&gt; 可能是答案。虽然特许经营可能会让人想起快餐店和连锁酒店，但有许多环保的特许经营企业。访问此 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudGhlZnJhbmNoaXNla2luZy5jb20vZ3JlZW4tZnJhbmNoaXNpbmctaW5mb2dyYXBoaWM=&#34;&gt;绿色特许经营目录&lt;/span&gt; 以获取机会列表。&lt;/p&gt;
+&lt;h2 id=&#34;17-二手店&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#17-二手店&#34;&gt;#&lt;/a&gt; 17、二手店&lt;/h2&gt;
+&lt;p&gt;新事物通常很昂贵，而且很快，这些成本就会加起来。例如，一本新书可能要花费 15 到 30 美元，而一本旧书通常只需几美元。&lt;/p&gt;
+&lt;p&gt;开一家二手店不仅可以为您的客户省钱，而且对环境也有好处。与其将完美的物品扔进垃圾桶，不如鼓励消费者将他们用过的物品捐赠给您，这样其他人就可以从该物品中获得价值。您可以出售旧衣服、外套、书籍、厨房用具和家具。&lt;/p&gt;
+&lt;img data-src=&#34;/images/startup/goodwill.jpeg&#34; width=&#34;600&#34;&gt;
+&lt;h2 id=&#34;18-绿色咨询&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#18-绿色咨询&#34;&gt;#&lt;/a&gt; 18、绿色咨询&lt;/h2&gt;
+&lt;p&gt;无论是削减能源成本还是减少碳足迹，企业采用绿色实践的压力很大，而且只会增长。&lt;/p&gt;
+&lt;p&gt;企业可持续发展顾问 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2JhcmJhcmEtZW5nbGVoYXJ0LTU4YjE2OTE5&#34;&gt;Barbara Englehart&lt;/span&gt; 表示，绿色公司有很多好处，包括降低成本、风险和负债，以及提高员工保留率和 生产率。&lt;/p&gt;
+&lt;p&gt;“这在商业世界中都是全新的，公司需要帮助，”Englehart 告诉《商业新闻日报》。“五年或十年前，他们并没有在商学院教授可持续性。”&lt;/p&gt;
+&lt;h2 id=&#34;19-太阳能电池板安装&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#19-太阳能电池板安装&#34;&gt;#&lt;/a&gt; 19、太阳能电池板安装&lt;/h2&gt;
+&lt;p&gt;许多有环保意识的房主已经在他们的家中安装了太阳能电池板，还有更多人愿意。如果您知道如何执行此操作，请在您所在的地区提供此服务。&lt;/p&gt;
+&lt;img data-src=&#34;/images/startup/solar-panel-installation.jpeg&#34; width=&#34;600&#34;&gt;
+&lt;h2 id=&#34;20-环保清洁&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20-环保清洁&#34;&gt;#&lt;/a&gt; 20、环保清洁&lt;/h2&gt;
+&lt;p&gt;常见的清洁产品含有 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudG9kYXkuY29tL3Nob3AvYmVzdC1lY28tZnJpZW5kbHktY2xlYW5pbmctcHJvZHVjdHMtZ3JlZW4tY2xlYW5pbmctcHJvZHVjdHMtdDExNDk0Mg==&#34;&gt;导致污染&lt;/span&gt; 的化学物质，并伤害来访的人和宠物 与他们接触。开展环保清洁业务可以解决这个问题。您的环保清洁企业可以只使用无毒产品或使用尽量减少使用一次性塑料的品牌。您可以通过尽可能重复使用中水来进一步降低公司对环境的影响。&lt;/p&gt;
+&lt;h2 id=&#34;21-可重复使用的塑料瓶&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#21-可重复使用的塑料瓶&#34;&gt;#&lt;/a&gt; 21、可重复使用的塑料瓶&lt;/h2&gt;
+&lt;p&gt;一次性塑料无疑是引起环保人士关注的主要原因。通过推出设计、生产和销售可重复使用的塑料瓶的绿色工业企业，为人们提供一种随时随地喝水的方式，而不会造成塑料污染。探索使用替代材料，如金属或玻璃、由回收塑料制成的瓶子或由玉米淀粉或锯末等材料制成的可再生塑料。&lt;/p&gt;
+&lt;h2 id=&#34;22-环境影响和碳排放课程&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#22-环境影响和碳排放课程&#34;&gt;#&lt;/a&gt; 22、环境影响和碳排放课程&lt;/h2&gt;
+&lt;p&gt;许多人不知道他们的日常活动产生了多少碳排放以及这些活动对环境的影响。开设课程，教育公众驾驶、夏季使用空调、不必要地开灯、飞行和其他活动如何导致碳排放。您还可以教人们如何减少这些活动对环境的影响。&lt;/p&gt;
+&lt;h2 id=&#34;23-当地环保回收事业&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#23-当地环保回收事业&#34;&gt;#&lt;/a&gt; 23、当地环保回收事业&lt;/h2&gt;
+&lt;p&gt;很有可能您所在城镇的公共工程部门负责监督公共回收计划，但许多专家表示，您放入回收箱的物品并不总是能被回收。一些市政当局不接受所有类型的可回收容器，而另一些市政当局可能不会对收集的回收物进行彻底分类。开设环保的本地回收业务，以保证您的社区回收他们的商品。&lt;/p&gt;
+&lt;h2 id=&#34;更多经营理念&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#更多经营理念&#34;&gt;#&lt;/a&gt; 更多经营理念&lt;/h2&gt;
+&lt;p&gt;想寻找更多商业创意？ 查看我们的合作伙伴在 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudXNjaGFtYmVyLmNvbS9jby9zdGFydC9zdHJhdGVneS9zZWNyZXRzLWZyb20tc3VjY2Vzc2Z1bC1zdGFydHVwcz91dG1fc291cmNlPUJEQyZhbXA7dXRtX21lZGl1bT1hcnRpY2xlJmFtcDt1dG1fY2FtcGFpZ249QkRDX3NoYXJl&#34;&gt; CO— by the US Chamber of Commerce&lt;/span&gt; 提供的这些提示，或深入研究这些其他 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYnVzaW5lc3NuZXdzZGFpbHkuY29tLzI3NDctZ3JlYXQtYnVzaW5lc3MtaWRlYXMuaHRtbA==&#34;&gt;伟大的商业创意&lt;/span&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYnVzaW5lc3NuZXdzZGFpbHkuY29tLzUxMDItZ3JlZW4tYnVzaW5lc3MtaWRlYXMuaHRtbA==&#34;&gt;23 Green Business Ideas for Eco-Minded Entrepreneurs&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zbWlyc2RlYWxlci53b3JkcHJlc3MuY29tLzIwMTQvMDkvMzAvb3Blbi1hbi1pbmstcmVmaWxsLWFuZC1jaXNzLWJ1c2luZXNzLw==&#34;&gt;Open an Ink Refill and CISS Business&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmZlZWRzcG90LmNvbS9lbnZpcm9ubWVudGFsX21hZ2F6aW5lcy8=&#34;&gt;Top 15 Environmental Magazines, Publications &amp;amp; Journals&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZ3JlZW5tYXR0ZXJzLmNvbS9wL3doYXQtaXMtZWNvLWNvbnN1bHRpbmc=&#34;&gt;How Eco Consulting Can Help Businesses Be More Sustainable&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudGhldXBjeWNsZWNvbXBhbnkuY28udWsvc2hvcC91cGN5Y2xlZC1mdXJuaXR1cmUtZm9yLXNhbGUv&#34;&gt;Upcycled Furniture For Sale&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="创业" />
+        <category term="环保" />
+        <category term="碳中和" />
+        <updated>2021-10-26T08:55:50.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/reading/drawdown.html</id>
+        <title>《DRAWDOWN》反转地球暖化100招</title>
+        <link rel="alternate" href="https://luhuadong.com/reading/drawdown.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/reading/drawdown_poster_full01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;《DRAWDOWN》是我非常喜欢的一本书，由全球众多科学家和政策制定者精心研究，根据联合国最新气候调查报告，提出了反转地球暖化的 100 个实质性解决方案。&lt;/p&gt;
+&lt;p&gt;在这 100 个方法中，有些方法我们早已有所耳闻，有些则闻所未闻。当然，这是正常的，因为每个人的生长环境、教育程度和工作经验都不同，对这个世界的理解自然会不一样。不过，这 100 个方法所涵盖的范围非常广泛，从清洁能源到饮食习惯，从都市规划到土地利用方式，从运输的选择到材料的运用。我相信每个人都能从中找到自己感兴趣的方法，并作为切入点参与到逆转全球变暖的行动中。&lt;/p&gt;
+&lt;p&gt;这些方法被证实不仅对减少碳排放有帮助，并在经济上完全可行，并非纸上谈兵。只要愿意从生活中开始实践，你我都能成为改变全球气候危机的助力。良好的环境可以让人类更健康，也能使社会更安稳，并能促进经济发展，只要我们一同为扭转地球危机贡献心力，必定能共同创造一个更适合人类居住的美好世界。地球未来的希望，掌握在你我手中。&lt;/p&gt;
+&lt;h2 id=&#34;什么是-drawdown&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#什么是-drawdown&#34;&gt;#&lt;/a&gt; 什么是 Drawdown&lt;/h2&gt;
+&lt;p&gt;「drawdown」一词常用于描述减少军备、提领现金，或者水位降低。在书中则用来指减少大气中的碳量。另外使用 drawdown 一词也意在提醒大家，单纯减缓碳排放是不够的，唯一有意义的是翻转全球变暖，也就是减少大气中的碳量。所以我们可以将 drawdown 的点和 “碳中和” 的目标对应起来，实际上就是要尽快实现净零排放，然后才是漫长的碳减过程。&lt;/p&gt;
+&lt;img data-src=&#34;/images/reading/Drawdown-figure-atmospheric-GHG-contentration-1.jpg&#34; width=&#34;480&#34;&gt;
+&lt;p&gt;而 “碳达峰” 则是曲线图中斜率最大的时刻。&lt;/p&gt;
+&lt;h2 id=&#34;减碳成效排名表&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#减碳成效排名表&#34;&gt;#&lt;/a&gt; 减碳成效排名表&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;排名&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;解决方案&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;类型&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;CO2e 减排量（亿吨）&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;冷媒控管&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;材料&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;897.4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;陆上风力发电&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;能源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;846.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;减少食物浪费&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;食物&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;705.3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;多蔬果饮食&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;食物&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;661.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;热带森林&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;土地利用&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;612.3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;女性教育&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;女性&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;596.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;家庭计划&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;女性&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;596.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;8&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;太阳能农场&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;能源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;369.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;9&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;混牧林业&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;食物&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;311.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;屋顶太阳能&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;能源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;246.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;11&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;再生农法&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;食物&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;231.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;12&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;温带森林&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;土地利用&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;226.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;13&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;泥炭地&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;土地利用&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;215.7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;14&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;热带主食林木&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;食物&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;201.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;15&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;植树造林&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;土地利用&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;180.6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;保育式农法&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;食物&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;173.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;17&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;树木间作&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;食物&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;172.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;18&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;地热&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;能源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;166.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;19&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;管理型放牧&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;食物&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;163.4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;20&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;核能&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;能源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;160.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;21&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;干净炉灶&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;食物&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;158.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;22&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;离岸风力发电&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;能源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;151.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;23&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;修复农田&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;食物&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;140.8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;24&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;改良式稻米耕种&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;食物&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;113.4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;25&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;聚光太阳能热发电&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;能源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;109.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;26&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;电动汽车&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;交通&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;108.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;27&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;区域供热&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;建筑与城市&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;93.8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;28&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;多层混农林业&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;食物&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;92.8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;29&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;波浪与潮汐&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;能源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;92.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;大型甲烷消化槽&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;能源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;84.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;31&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;隔热&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;建筑与城市&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;82.7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;32&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;航运&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;交通&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;78.7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;33&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;家用 LED 照明&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;建筑与城市&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;78.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;34&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;生物质能&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;能源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;75.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;35&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;竹子&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;土地利用&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;72.2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;36&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;替代性水泥&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;材料&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;66.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;37&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;大众运输（公共交通）&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;交通&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;65.7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;38&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;保护森林&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;土地利用&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;62.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;39&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;原住民土地管理&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;土地利用&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;61.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;卡车&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;交通&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;61.8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;41&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;太阳能热水器&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;能源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;60.8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;42&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;热泵&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;建筑与城市&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;52.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;43&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;飞机&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;交通&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;50.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;44&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;商业用 LED 照明&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;建筑与城市&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;50.4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;45&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;建筑物自动化（楼宇智能化）&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;建筑与城市&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;46.2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;46&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;家庭节水&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;材料&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;46.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;47&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;生物塑料&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;材料&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;43.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;48&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;流内水力发电&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;能源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;40.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;49&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;汽车&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;交通&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;40.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;50&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;汽电共生&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;能源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;39.7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;51&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;多年生质能源作物&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;土地利用&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;33.3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;52&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;海岸湿地&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;土地利用&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;31.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;53&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;水稻强化栽培系统&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;食物&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;31.3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;54&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;宜于步行的城市&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;建筑与城市&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;29.2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;55&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;家庭废弃物回收&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;材料&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;27.7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;56&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;工业回收&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;材料&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;27.7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;57&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;智慧温控器&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;建筑与城市&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;26.2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;58&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;垃圾掩埋场甲烷&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;建筑与城市&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;25.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;59&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;自行车基础设施&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;建筑与城市&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;23.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;60&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;堆肥&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;食物&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;22.8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;61&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;智慧型玻璃&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;建筑与城市&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;21.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;62&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;女性小农&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;女性&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;20.6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;63&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;遥现技术（AR/VR）&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;交通&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;19.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;64&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;小型甲烷消化槽&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;能源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;19.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;65&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;养分管理&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;食物&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;18.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;66&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;高速铁路&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;交通&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;14.2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;67&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;农田灌溉&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;食物&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;13.3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;68&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;废弃物转制能源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;能源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;11.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;69&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;电动脚踏车&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;交通&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;9.6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;70&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;再生纸&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;材料&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;9.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;71&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;供水&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;建筑与城市&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;8.7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;72&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;生物碳&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;食物&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;8.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;73&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;绿屋顶&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;建筑与城市&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7.7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;74&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;火车&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;交通&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5.2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;75&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;共乘&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;交通&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3.2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;76&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;小型风力发电&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;能源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;77&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;储能（发电厂等级、分散式发电）及电网弹性&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;能源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;N/A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;78&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;微电网&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;能源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;N/A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;79&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;净零耗能建筑&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;建筑与城市&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;N/A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;80&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;整修&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;建筑与城市&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;N/A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZHJhd2Rvd24ub3Jn&#34;&gt;Project Drawdown&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jb25uZWN0LnBhY2hhbWFtYS5vcmcvZ3JvdXAvMjMyL2V2ZW50L3JldmVyc2luZy1nbG9iYWwtd2FybWluZy1pbnRyb2R1Y3Rpb24tZHJhd2Rvd24tMA==&#34;&gt;Reversing Global Warming: Introduction to Drawdown&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="读书笔记" />
+        <category term="环保" />
+        <category term="碳中和" />
+        <updated>2021-10-06T08:04:54.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/reading/how-to-avoid-a-climate-disaster.html</id>
+        <title>《气候经济与人类未来》</title>
+        <link rel="alternate" href="https://luhuadong.com/reading/how-to-avoid-a-climate-disaster.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/book/how-to-avoid-a-climate-disaster.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在本书中，比尔・盖茨从电力、制造业、农业、交通等碳排放主要领域分析了零排放面临的挑战、可使用的技术工具以及我们需要的技术突破，并提供了一套涵盖广泛但每一步都切实可行的行动计划。&lt;/p&gt;
+&lt;h2 id=&#34;为什么要阅读这本书&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#为什么要阅读这本书&#34;&gt;#&lt;/a&gt; 为什么要阅读这本书&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;关于人类未来&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;要想阻止全球变暖，要想避免气候变化的最坏影响，人类需要停止向大气中排放温室气体。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;关于技术创新&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;无论是过去还是现在，零排放都具备坚实的逻辑基础，但实现零排放的目标要基于创新驱动。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;关于投资机会&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“零碳” 产业是一个巨大的经济机遇，那些能在这一领域有所突破的国家将是未来几十年引领全球经济的国家。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;诚如比尔・盖茨在书中一再强调的，实现零排放并非易事，但如果我们遵循他给出的计划，这个目标定会实现。无论你是政策决策者、企业家，还是忙于生计的普通民众，你都可以贡献力量，一起帮助这个世界避免气候灾难。&lt;/p&gt;
+&lt;h2 id=&#34;目录&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#目录&#34;&gt;#&lt;/a&gt; 目录&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;前言 从 510 亿吨到零排放&lt;/li&gt;
+&lt;li&gt;第一章 为什么是 “0”？&lt;/li&gt;
+&lt;li&gt;第二章 艰难之路&lt;/li&gt;
+&lt;li&gt;第三章 气候对话中的五个关键问题&lt;/li&gt;
+&lt;li&gt;第四章 电力生产与存储（总排放量 27%）&lt;/li&gt;
+&lt;li&gt;第五章 生产和制造（总排放量 31%）&lt;/li&gt;
+&lt;li&gt;第六章 种植和养殖（总排放量 19%）&lt;/li&gt;
+&lt;li&gt;第七章 交通运输（总排放量 16%）&lt;/li&gt;
+&lt;li&gt;第八章 制冷和取暖（总排放量 7%）)&lt;/li&gt;
+&lt;li&gt;第九章 适应暖化的世界&lt;/li&gt;
+&lt;li&gt;第十章 政府要扮演的角色&lt;/li&gt;
+&lt;li&gt;第十一章 零排放计划&lt;/li&gt;
+&lt;li&gt;第十二章 我们每个人的责任&lt;/li&gt;
+&lt;li&gt;后记 气候变化和新型冠状病毒肺炎&lt;/li&gt;
+&lt;li&gt;致谢&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#概述&#34;&gt;#&lt;/a&gt; 概述&lt;/h2&gt;
+&lt;p&gt;本书的重点放在如何实现零排放上，把这个世界的热情及它的科学智商，部署到现有的清洁能源解决方案上，并投资新的解决方案，进而阻止温室气体排放。&lt;/p&gt;
+&lt;p&gt;本书给出了一条前行的道路，以及一系列我们可以采取的措施，便于人类最大限度地避开气候灾难。具体来说，分为五个部分：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;为什么是 0？（第一章）&lt;/li&gt;
+&lt;li&gt;坏消息：实现零排放是一项异常艰巨的任务。（第二章）&lt;/li&gt;
+&lt;li&gt;在气候变化的问题上，如何开展有见地的对话？（第三章）&lt;/li&gt;
+&lt;li&gt;好消息：我们可以实现零排放的目标。（第四章到第九章）&lt;/li&gt;
+&lt;li&gt;我们现在可以采取的措施。（第十章到第十二章）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;实现 “0” 的目标并不是真正意义上的零排放，而是净零排放，这是一个巨大的经济机遇。&lt;/p&gt;
+&lt;p&gt;确认的三件事情：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;要避免气候灾难，我们必须实现零排放的目标。&lt;/li&gt;
+&lt;li&gt;我们需要以更便捷、更聪明的方式部署已有的工具，比如太阳能和风能发电设备。&lt;/li&gt;
+&lt;li&gt;我们需要开发和推广突破性技术，并借此走完剩余的路。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;第一部分&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一部分&#34;&gt;#&lt;/a&gt; 第一部分&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;实现 “0” 的目标并不是真正意义上的零排放，而是净零排放，这是一个巨大的经济机遇。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;唯一的解决方案就是开发廉价的清洁能源，廉价到让每一个国家都优先选择清洁能源而不是化石燃料。&lt;/li&gt;
+&lt;li&gt;因为经济活动大幅放缓，2020 年的温室气体排放量将少于 2019 年，降幅可能在 5% 左右。值得注意的并不是此次降幅有多大，而是它有多小。温室气体排放量的小幅降低表明，只靠少坐飞机和少开车，无法实现零排放的目标，甚至都无法实现大规模减排。&lt;/li&gt;
+&lt;li&gt;在同气候变化做斗争的过程中，我们也需要新的工具：在全球范围内，以 “零碳” 的方式发电、制造产品、种植粮食，以 “零碳” 的方式为建筑物保温降热，以及以 “零碳” 的方式转移人员、运送物品，等等。&lt;/li&gt;
+&lt;li&gt;令人遗憾的是，二氧化碳当量不是一个完美的度量标准：从根本上来讲，真正重要的并不是温室气体的排放量，而是升高的温度及其对人类的影响。&lt;/li&gt;
+&lt;li&gt;气候变化对极端贫困人口的影响最大，而且极端贫困人口中的大多数是农民。&lt;/li&gt;
+&lt;li&gt;这是一个巨大的经济机遇，那些建立起伟大的 “零碳” 企业和伟大的 “零碳” 产业的国家，无疑将在未来几十年里引领全球经济。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第二部分&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第二部分&#34;&gt;#&lt;/a&gt; 第二部分&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果没有创新驱动，人类无法实现零排放的目标。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;1840-1990 年，煤在世界能源供应中的占比从 5% 上升到近 50%；1930-1990 年，天然气在世界能源供应中的占比才达到 20%。简而言之，能源转型是一个漫长的过程。&lt;/li&gt;
+&lt;li&gt;天然气和煤孰优孰劣，取决于二氧化碳当量的计算方式。部分科学家认为，天然气对气候变化造成的影响实际上大于煤，这与天然气在加工过程中的泄漏程度有关。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第三部分&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第三部分&#34;&gt;#&lt;/a&gt; 第三部分&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们需要新的技术、新的公司和新的产品来降低绿色溢价。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;气候对话中的五个关键问题：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;我们谈论的吨数在 510 亿吨中占多大比例？&lt;/li&gt;
+&lt;li&gt;你在水泥方面有什么计划？&lt;/li&gt;
+&lt;li&gt;我们谈论的电能有多大？&lt;/li&gt;
+&lt;li&gt;你需要多大的空间？&lt;/li&gt;
+&lt;li&gt;这需要投入多大的成本？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Global power capacity by source in the Stated Policies Scenario（既定政策情景中按来源划分的全球电力容量）&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/book/iea_weo2019_capacitytrajectory.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;以海运方式运送的货物占全球贸易总量的 90%，在碳排放方面则占全球总排放量的近 3%。&lt;/li&gt;
+&lt;li&gt;就避免碳排放而言，只有当我们使用来自 “零碳” 能源的电力时，开电动车才有意义。&lt;/li&gt;
+&lt;li&gt;由玉米制造的乙醇并不是 “零碳” 的，而依照制造工艺的不同，它甚至都不是低碳的。农作物的种植需要化肥，把植物转变成燃料的炼制过程也会产生温室气体排放。燃料类作物的种植可能会抢占原本用来种植粮食的土地，甚至可能迫使农民砍伐森林，垦荒种粮。&lt;/li&gt;
+&lt;li&gt;对于大型货车、船舶和飞机，最好的办法是用电燃料和先进生物燃料替代航空燃油，但这涉及极高的绿色溢价。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="读书笔记" />
+        <category term="环保" />
+        <category term="碳中和" />
+        <updated>2021-10-04T22:04:54.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/industry/carbon-neutral-glossary.html</id>
+        <title>“碳中和”名词解释</title>
+        <link rel="alternate" href="https://luhuadong.com/industry/carbon-neutral-glossary.html"/>
+        <content type="html">&lt;p&gt;最近 “碳中和” 太火了，很多资本都盯着 “碳中和” 领域，所以这里收集一些与碳中和相关的名词解释。（持续更新…）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;碳源&lt;/strong&gt;：产生二氧化碳、甲烷等含碳温室气体的来源。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;碳汇&lt;/strong&gt;：温室气体汇聚、存留之处，称为碳汇。例如，海洋是世界上最大的碳汇，森林是陆地上最大的碳汇。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;非二&lt;/strong&gt;：除二氧化碳以外的其他温室气体。包括甲烷、氧化亚氮、氢氟碳化合物、全氟碳化合物、六氟化硫等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;碳达峰&lt;/strong&gt;：年度二氧化碳排放量达到历史最高值，达峰之后进入逐步下降阶段。（中国将力争 2030 年前实现碳达峰）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;碳中和&lt;/strong&gt;：是指温室气体的净零排放，也就是温室气体的排放量与去除量相互抵消。（中国努力争取 2060 年前实现碳中和）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;减缓&lt;/strong&gt;：为减少温室气体净排放而采取的行动，可以是减少排放源或增加碳汇。（节能减排、低碳出行、清洁能源转型等，属于气候变化减缓措施）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;适应&lt;/strong&gt;：为应对气候变化的现实及潜在影响而采取的调整和改变。（海绵城市、调整农业种植品种适应变化属于常见的适应措施）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1.5℃ 和 2℃&lt;/strong&gt;：《巴黎协定》中的气候目标 —— 把全球平均气温升幅控制在工业化前水平以上低于 2℃ 之内并努力控制在 1.5℃ 之内。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;COP&lt;/strong&gt;：《联合国气候变化框架公约》缔约方大会（Conference of the Parties），也是人们常说的 “联合国气候变化大会”。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NBS&lt;/strong&gt;：基于自然的解决方案（Nature based Solutions）—— 保护和修复生态系统，并对其进行可持续管理，从而使其造福人类的行动。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NDCs&lt;/strong&gt;：国家自主贡献（Nationally determined contributions）—— 是各国自主做出的国家气候行动计划，包括温室气体减排目标、政府旨在实施的气候政策和措施等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CCS&lt;/strong&gt;：二氧化碳捕获与封存（Carbon Dioxide Capture and Storage）—— 可以将二氧化碳流体从工业中分离（捕获）、控制、压缩并运至某个封存地点，使之与大气长期隔离。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BECCS&lt;/strong&gt;：生物能源与二氧化碳捕获与封存相结合（Bioenergy with carbon dioxide capture and storage）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DACCS&lt;/strong&gt;：直接空气二氧化碳捕获和封存（Direct air carbon dioxide capture and storage）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;巴黎协定&lt;/strong&gt;：《巴黎协定》是由联合国 195 个成员国于 2015 年联合国气候峰会中通过的气候协议，取代京都协定书，期望能共同遏阻全球暖化趋势。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ETS&lt;/strong&gt;：碳排放权交易系统。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IPCC&lt;/strong&gt;：政府间气候变化专门委员会（Intergovernmental Panel on Climate Change），是牵头评估气候变化的国际组织。它是由联合国环境规划署 (UNEP) 和世界气象组织 (WMO) 于 1988 年建立的， 旨在向世界提供一个清晰的有关对当前气候变化及其潜在环境和社会经济影响认知状况的科学观点。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;碳泄漏&lt;/strong&gt;（carbon leakage）：指国家采用较严格的气候政策而减少排放量，导致另一个国家的温室气体排放量增加的情况。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;碳边境调节机制&lt;/strong&gt;（Carbon Border Adjustment Mechanism，简称 CBAM）：指一地区针对未执行同等强度的减排措施的进口产品制定的单边气候政策，通常指征收碳关税或出售排放许可证。发达国家一直将此机制视为防止碳泄露和营造气候变化领域里 “公平竞争” 环境的重要举措，而发展中国家往往认为此项政策将导致变向的贸易保护。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="环保" />
+        <category term="碳中和" />
+        <updated>2021-09-24T02:57:54.000Z</updated>
+    </entry>
+</feed>

@@ -1,0 +1,296 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>成为自由人 • Posts by &#34;如何搭建wordpress网站&#34; category</title>
+        <link>https://luhuadong.com</link>
+        <description>阿基米东的网络日志</description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 25 Jan 2022 14:20:32 +0800</pubDate>
+        <lastBuildDate>Tue, 25 Jan 2022 14:20:32 +0800</lastBuildDate>
+        <category>商业</category>
+        <category>成长</category>
+        <category>日记</category>
+        <category>创业</category>
+        <category>家居</category>
+        <category>互联网</category>
+        <category>读书笔记</category>
+        <category>工程师</category>
+        <category>爱</category>
+        <category>名言</category>
+        <category>奋斗</category>
+        <category>信息世界</category>
+        <category>管理</category>
+        <category>程序员</category>
+        <category>职场</category>
+        <category>人生</category>
+        <category>物联网</category>
+        <category>城市规划</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
+        <category>创客</category>
+        <category>比赛</category>
+        <category>科技向善</category>
+        <category>英语</category>
+        <category>学习</category>
+        <category>环保</category>
+        <category>碳中和</category>
+        <category>种植</category>
+        <category>健身</category>
+        <category>地理</category>
+        <category>城市</category>
+        <category>气象爱好者</category>
+        <category>指南</category>
+        <category>自律</category>
+        <category>思维</category>
+        <category>健康</category>
+        <category>Hexo</category>
+        <category>科普</category>
+        <category>可持续</category>
+        <category>能源</category>
+        <category>职业</category>
+        <category>时间管理</category>
+        <category>工作</category>
+        <category>总结</category>
+        <category>慈济</category>
+        <category>RT-Thread</category>
+        <category>开源</category>
+        <category>思考</category>
+        <category>生活</category>
+        <category>猫</category>
+        <category>幸福</category>
+        <category>修身</category>
+        <category>写书</category>
+        <category>milestone</category>
+        <category>地铁</category>
+        <category>Markdown</category>
+        <category>计划</category>
+        <category>股票</category>
+        <category>理财</category>
+        <category>投资</category>
+        <category>财富</category>
+        <category>保险</category>
+        <category>纪录片</category>
+        <category>自由</category>
+        <category>电影</category>
+        <category>TED演讲</category>
+        <category>时间</category>
+        <category>心理学</category>
+        <category>无线电爱好者</category>
+        <category>亲密关系</category>
+        <category>农业</category>
+        <category>游泳</category>
+        <category>励志</category>
+        <category>演讲</category>
+        <category>蔬食</category>
+        <category>电台主播</category>
+        <category>WordPress</category>
+        <category>垃圾分类</category>
+        <category>零废弃</category>
+        <category>低碳</category>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/wordpress/best-wordpress-wiki-themes.html</guid>
+            <title>WordPress 的 WiKi 知识库主题</title>
+            <link>https://luhuadong.com/wordpress/best-wordpress-wiki-themes.html</link>
+            <category>WordPress</category>
+            <pubDate>Tue, 25 Jan 2022 14:20:32 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;WordPress 适合做内容管理网站，为了做出像 Wikipedia 那样的风格来展示网页内容，就需要主题的配合。本文列举一些也许适合你的 WordPress Wiki 类型主题，帮助你搭建自己的知识库！&lt;/p&gt;
+&lt;h2 id=&#34;knowall&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#knowall&#34;&gt;#&lt;/a&gt; KnowAll&lt;/h2&gt;
+&lt;p&gt;KnowAll 是一个灵活的 WordPress 知识库和 wiki 主题，具有内置功能，可帮助访问者找到他们正在寻找的确切信息。你可以使用它来创建一个完整的知识库。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/wordpress/wp-theme-KnowAll.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;KnowAll 是一个高端主题。它在单个网站上的使用价格为 149 美元，并提供一年的支持和更新，但如果你想访问搜索分析和文章反馈功能，你就需要购买 199 美元的版本。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXJvdGhlbWVzLmNvbS90aGVtZXMva25vd2FsbC13b3JkcHJlc3Mta25vd2xlZGdlLWJhc2Uv&#34;&gt;项目主页&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kZW1vLmhlcm90aGVtZXMuY29tL2tub3dhbGwv&#34;&gt;示例 Demo&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;wikipress&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#wikipress&#34;&gt;#&lt;/a&gt; WikiPress&lt;/h2&gt;
+&lt;p&gt;WikiPress 是一个专用的 WordPress wiki 主题，具有干净、响应式的布局。该主题的左侧有一个侧边栏，它会自动在按类别组织的折叠手风琴部分中显示你的所有内容。另外，顶部还有一个实时搜索框。&lt;/p&gt;
+&lt;p&gt;这个主题最有趣的地方在于，以真正的 wiki 方式，它允许人们使用常规的 WordPress 编辑器从前端添加、编辑和管理内容。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/wordpress/wp-theme-wikipress.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;WikiPress 是一个优质的 WordPress 主题。一年的支持和更新费用为 99 美元。第一年后，你可以以每年 49.50 美元的折扣价续订以继续获得支持和更新。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;项目主页&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;示例 Demo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;knowhow&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#knowhow&#34;&gt;#&lt;/a&gt; KnowHow&lt;/h2&gt;
+&lt;p&gt;KnowHow 是另一个灵活的 WordPress 知识库和 wiki 主题。它可以帮助你添加不同主题的文章并将它们组织成易于搜索的类别。访问者还可以利用即时搜索建议更快地找到内容。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/wordpress/wp-theme-knowhow.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;KnowHow 是一个高级主题，售价 59 美元。它是通过 ThemeForest 出售的，这意味着你的购买可以让你访问单个站点的终身更新和六个月的支持。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90aGVtZWZvcmVzdC5uZXQvaXRlbS9rbm93aG93LWEta25vd2xlZGdlLWJhc2Utd29yZHByZXNzLXRoZW1lLzI4MTMxMTE=&#34;&gt;项目主页&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kZW1vLmhlcm90aGVtZXMuY29tLyNrbm93aG93&#34;&gt;示例 Demo&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;docly&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#docly&#34;&gt;#&lt;/a&gt; Docly&lt;/h2&gt;
+&lt;p&gt;顾名思义，Docly 是一个致力于帮助您创建文档和 wiki 网站的主题。你可以将它用于任何类型的文档、wiki、知识库等。&lt;/p&gt;
+&lt;p&gt;一个独特的功能是它带有一个集成的支持论坛。因此，如果你想创建一个 wiki 并允许公开讨论，那么这个可能是一个不错的选择。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/wordpress/wp-theme-Docly.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Docly 是一个高级主题。ThemeForest 售价 59 美元，可让你访问单个站点的终身更新和六个月的支持。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90aGVtZWZvcmVzdC5uZXQvaXRlbS9kb2NseS1kb2N1bWVudGF0aW9uLWFuZC1rbm93bGVkZ2UtYmFzZS13b3JkcHJlc3MtdGhlbWUvMjY4ODUyODA=&#34;&gt;项目主页&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93b3JkcHJlc3MtdGhlbWUuc3BpZGVyLXRoZW1lcy5uZXQvZG9jbHkv&#34;&gt;示例 Demo&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;manual&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#manual&#34;&gt;#&lt;/a&gt; Manual&lt;/h2&gt;
+&lt;p&gt;与其他 wiki 主题一样，Manual 是另一种通用选项，可用于 wiki 站点、知识库，并且通常只显示任何类型的文档。&lt;/p&gt;
+&lt;p&gt;与 Docly 一样，如果你想将讨论论坛添加到你的 wiki，它还与流行的 bbPress 插件集成。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/wordpress/wp-theme-manual.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Manual 是 ThemeForest 提供的高级主题。与其他 ThemeForest 主题一样，它的价格为 59 美元，并为您提供单个站点的终身更新和六个月的支持。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90aGVtZWZvcmVzdC5uZXQvaXRlbS9tYW51YWwtbXVsdGlwdXJwb3NlLW9ubGluZS1kb2N1bWVudGF0aW9uLWNyZWF0aXZlLXdvcmRwcmVzcy10aGVtZS8xMjk5NzA0NA==&#34;&gt;项目主页&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2RlbW8ud3BzbWFydGFwcHMuY29tL3RoZW1lcy9tYW51YWwvZG9jdW1lbnRhdGlvbnMv&#34;&gt;示例 Demo&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;heroic-knowledge-base&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#heroic-knowledge-base&#34;&gt;#&lt;/a&gt; Heroic Knowledge Base&lt;/h2&gt;
+&lt;p&gt;Heroic Knowledge Base 为你的站点添加了创建功能齐全的知识库所需的所有功能。通过选择此插件，你可以使用任何你喜欢的 WordPress 主题来构建你的在线支持资源。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/wordpress/wp-theme-heroickb.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXJvdGhlbWVzLmNvbS9wbHVnaW5zL2hlcm9pYy13b3JkcHJlc3Mta25vd2xlZGdlLWJhc2Uv&#34;&gt;项目主页&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXJvaWNrYi5oZXJvdGhlbWVzLmNvbS8=&#34;&gt;示例 Demo&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;docy&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#docy&#34;&gt;#&lt;/a&gt; Docy&lt;/h2&gt;
+&lt;p&gt;Docy 是一个功能强大、响应迅速且高性能的在线文档 WordPress 主题，可以帮助你快速开发下一个产品的文档。你可以有效地创建文档以记录 API、框架、插件、软件、模板、任何类型的产品。它包含许多元素，使你的文档具有交互性和效率。这个主题是完全响应和移动友好的。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/wordpress/wp-theme-docy.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90aGVtZWZvcmVzdC5uZXQvaXRlbS9kb2N5LWRvY3VtZW50YXRpb24tYW5kLWZvcnVtLXdvcmRwcmVzcy10aGVtZS8zMTM3MDgzOA==&#34;&gt;项目主页&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93b3JkcHJlc3MtdGhlbWUuc3BpZGVyLXRoZW1lcy5uZXQvZG9jeS8=&#34;&gt;示例 Demo&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lore&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#lore&#34;&gt;#&lt;/a&gt; Lore&lt;/h2&gt;
+&lt;p&gt;Lore 是一个轻量级主题，旨在帮助你使用 WordPress 启动一个快速加载的知识库网站。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/wordpress/wp-theme-lore.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90aGVtZWZvcmVzdC5uZXQvaXRlbS9sb3JlLWVsZWdhbnQta25vd2xlZGdlLWJhc2Utd29yZHByZXNzLXRoZW1lLzE2OTY1MDI0&#34;&gt;项目主页&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wcmV2aWV3LnRoZW1lZm9yZXN0Lm5ldC9pdGVtL2xvcmUtZWxlZ2FudC1rbm93bGVkZ2UtYmFzZS13b3JkcHJlc3MtdGhlbWUvZnVsbF9zY3JlZW5fcHJldmlldy8xNjk2NTAyNA==&#34;&gt;示例 Demo&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tikidocs&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#tikidocs&#34;&gt;#&lt;/a&gt; Tikidocs&lt;/h2&gt;
+&lt;p&gt;Tikidocs 是另一个时尚的知识库和支持论坛 WordPress 主题，具有一些强大的功能。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/wordpress/wp-theme-Tikidocs.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90aGVtZWZvcmVzdC5uZXQvaXRlbS90aWtpZG9jcy1rbm93bGVkZ2ViYXNlLXN1cHBvcnQtZm9ydW0td29yZHByZXNzLXRoZW1lLzIyNDk3NTU5&#34;&gt;项目主页&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wcmV2aWV3LnRoZW1lZm9yZXN0Lm5ldC9pdGVtL3Rpa2lkb2NzLWtub3dsZWRnZWJhc2Utc3VwcG9ydC1mb3J1bS13b3JkcHJlc3MtdGhlbWUvZnVsbF9zY3JlZW5fcHJldmlldy8yMjQ5NzU1OQ==&#34;&gt;示例 Demo&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;infocenter&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#infocenter&#34;&gt;#&lt;/a&gt; InfoCenter&lt;/h2&gt;
+&lt;p&gt;InfoCenter 非常适合使用 WordPress 创建知识库和问答网站。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/wordpress/wp-theme-infocenter.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90aGVtZWZvcmVzdC5uZXQvaXRlbS9pbmZvY2VudGVyLWtub3dsZWRnZS1iYXNlLWFuZC1xYS13b3JkcHJlc3MtdGhlbWUvMTk0ODgwNzE=&#34;&gt;项目主页&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9mbHVlbnR0aGVtZXMuY29tL3dwL2tub3dsZWRnZS8=&#34;&gt;示例 Demo&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;wikb&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#wikb&#34;&gt;#&lt;/a&gt; Wikb&lt;/h2&gt;
+&lt;p&gt;Wikb 旨在帮助你使用 WordPress 启动知识库和帮助台网站。&lt;/p&gt;
+&lt;p&gt;如果你的客户或用户在使用你的产品或服务时需要支持，那么 Wikb 主题就是为你而构建的。Wikb 主题也适用于设置在线空间，你可以在其中发布内容以帮助你的员工、社区或任何其他人群。&lt;/p&gt;
+&lt;p&gt;Wikb 模板的设计非常适合此类产品。整体风格严肃而热情，让你的访问者清楚地知道他们可以信任你发布的信息，同时仍然对你的网站感到宾至如归。由于所有模板都具有非常现代的设计，因此你使用 Wikb 创建的任何网站都应该对你的品牌产生积极影响。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/wordpress/wp-theme-wikb.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90aGVtZWZvcmVzdC5uZXQvaXRlbS93aWtiLWtub3dsZWRnZWJhc2UtaGVscC1kZXNrLXdwLXRoZW1lLzI0MDk1MTIy&#34;&gt;项目主页&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wcmV2aWV3LnRoZW1lZm9yZXN0Lm5ldC9pdGVtL3dpa2Ita25vd2xlZGdlYmFzZS1oZWxwLWRlc2std3AtdGhlbWUvZnVsbF9zY3JlZW5fcHJldmlldy8yNDA5NTEyMg==&#34;&gt;示例 Demo&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;betterdocs&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#betterdocs&#34;&gt;#&lt;/a&gt; BetterDocs&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9iZXR0ZXJkb2NzLmNvL3poLw==&#34;&gt;https://betterdocs.co/zh/&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;mywiki&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#mywiki&#34;&gt;#&lt;/a&gt; MyWiki&lt;/h2&gt;
+&lt;h2 id=&#34;wedocs&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#wedocs&#34;&gt;#&lt;/a&gt; weDocs&lt;/h2&gt;
+&lt;p&gt;这个免费的 WordPress wiki 插件提供了一个简单的解决方案来创建和管理知识库文章和文档页面。与此列表中的其他 WordPress 插件类似，用户可以使用拖放功能对文章进行分类和重新排列。&lt;/p&gt;
+&lt;p&gt;此外，它还具有用于文档搜索和目录的专用小部件。&lt;/p&gt;
+&lt;p&gt;weDocs 的界面让用户可以在一个屏幕上管理所有的 wiki 文档。这个免费插件不提供模板，而是与最流行的 WordPress 主题无缝集成。&lt;/p&gt;
+&lt;p&gt;此外，它从外部站点导入文档，以便用户可以利用现有文档创建知识库。&lt;/p&gt;
+&lt;p&gt;此外，weDocs 还为知识库提供了内置的电子邮件回复系统。它允许网站访问者提供有关内容的反馈，让支持团队和其他管理员深入了解如何改进他们的 WordPress 网站。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93ZWRvY3MuY28vZG9jcy93ZWRvY3MvZ2V0dGluZy1zdGFydGVkLz91dG1fc291cmNlPXdwb3JnJmFtcDt1dG1fbWVkaXVtPXJlYWRtZSZhbXA7dXRtX2NhbXBhaWduPWRvY3M=&#34;&gt;Documentation&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3RhcmVxMTk4OC93ZWRvY3MtcGx1Z2luLw==&#34;&gt;Github&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;echo-knowledge-base&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#echo-knowledge-base&#34;&gt;#&lt;/a&gt; Echo Knowledge Base&lt;/h2&gt;
+&lt;p&gt;该插件提供 26 种预制和响应式设计，适用于任何 WordPress 主题。它具有粘性目录，这意味着它会在读者滚动时保留在文章的一侧。&lt;/p&gt;
+&lt;p&gt;如果您想在不浏览不同设置的情况下使用此 WordPress 插件，设置向导将帮助您立即创建知识库。&lt;/p&gt;
+&lt;p&gt;创建一些文章和类别后，您可以按字母顺序或时间顺序对它们进行排序，添加标签、面包屑、后退按钮和评论。此外，Echo 包括一个自动生成的目录。&lt;/p&gt;
+&lt;p&gt;此外，该插件针对最佳 SEO 结果进行了编码，这对于所有专注于通过其知识库内容提高在线知名度的网站所有者非常有帮助。&lt;/p&gt;
+&lt;p&gt;这个 WordPress wiki 插件带有三个布局选项 —— 基本、选项卡和以类别为中心。它还有一个可视化布局编辑器，允许用户修改颜色、标签、字体和样式，并预览所有更改。&lt;/p&gt;
+&lt;p&gt;Echo 知识库的 Pro 版高级功能包括一个访问管理器，用于控制哪些用户可以创建或阅读文章、文章评级和站点访问者的反馈等。计划起价为 46 美元 / 年。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWNob2tub3dsZWRnZWJhc2UuY29tL2RlbW8tMS1rbm93bGVkZ2UtYmFzZS1iYXNpYy1sYXlvdXQv&#34;&gt;Demo&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;参考&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#参考&#34;&gt;#&lt;/a&gt; 参考&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXJvdGhlbWVzLmNvbS9ibG9nL2Jlc3Qtd29yZHByZXNzLXdpa2ktdGhlbWVzLw==&#34;&gt;5 Best WordPress Wiki Themes in 2021&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hdGhlbWVzLmNvbS9jb2xsZWN0aW9ucy9iZXN0LWtub3dsZWRnZS1iYXNlLXdpa2ktd29yZHByZXNzLXRoZW1lcy8=&#34;&gt;10 Best Knowledge Base &amp;amp; Wiki WordPress Themes 2022&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/wordpress/wordpress-showcase.html</guid>
+            <title>WordPress 优秀网站案例</title>
+            <link>https://luhuadong.com/wordpress/wordpress-showcase.html</link>
+            <category>WordPress</category>
+            <pubDate>Fri, 12 Mar 2021 00:28:18 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;cms-内容网站&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#cms-内容网站&#34;&gt;#&lt;/a&gt; CMS 内容网站&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucnVub29iLmNvbQ==&#34;&gt;菜鸟教程&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9uZXdzLm1pY3Jvc29mdC5jb20=&#34;&gt;微软新闻中心&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc3Rvbnlicm9vay5lZHU=&#34;&gt;Stony Brook University&lt;/span&gt; 一个大学网站&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;企业官网&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#企业官网&#34;&gt;#&lt;/a&gt; 企业官网&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucXVlY3RlbC5jb20=&#34;&gt;移远 Quectel&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudG95b3RhLmNvbS5icg==&#34;&gt;加拿大丰田汽车公司&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubWVyZWRpdGguY29t&#34;&gt;时代公司&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmF0YS5jb20=&#34;&gt;BATA 极软&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;网络商店&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#网络商店&#34;&gt;#&lt;/a&gt; 网络商店&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmVzdGJ1eS5jb20=&#34;&gt;Best Buy&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5lY29raXR0eS5jby51ay8=&#34;&gt;EcoKitty&lt;/span&gt;&lt;br&gt;
+ 这家网上商店销售与猫相关的商品。该网店使用了 iThemes 的 Builder theme (WordPress 网店主题 + WooCommerce 插件)。&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2Fwb2dlZWNlLmNvbS8=&#34;&gt;Apogee CE&lt;/span&gt;&lt;br&gt;
+ 提供了网上课程与在线服务。该网店使用了 Sensei Theme (WordPress 主题 + WooCommerce 插件)。&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3BvcnRlcmFuZHlvcmsuY29tLw==&#34;&gt;Porter &amp;amp; York&lt;/span&gt;&lt;br&gt;
+ 提供网上购买，48 小时内送货上门的服务。该网店也是用 WordPress 主题和 WooCommerce 电子商务系统插件。&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2J1ZGRoaWJhYnkuY2Ev&#34;&gt;Buddhi Baby&lt;/span&gt;&lt;br&gt;
+ 是一家儿童商品网店。它采用了 Pexeto 的 Minteral Theme (网店主题) 和 WooCommerce 插件。&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9vdmVyY2xvdGhpbmcuY29tLw==&#34;&gt;Over Clothing&lt;/span&gt;&lt;br&gt;
+ 是一家在网上销售衣服的网店。它用了 Twitter’s Bootstrap framework (主题) 和 WooCommerce 插件。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;个人网站&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#个人网站&#34;&gt;#&lt;/a&gt; 个人网站&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cua2F0eXBlcnJ5LmNvbQ==&#34;&gt;Katy Perry&lt;/span&gt; 美国流行女歌手、演员兼词曲创作者。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudGhlbWVwYXJrLmNvbS5jbi95d29yZHByZXNzZGpkeXhxcXptd3phbC5odG1s&#34;&gt;用 WordPress 搭建的一些全球知名网站案例&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaml1c3RvcmUuY29tL3dvb2NvbW1lcmNlLWV4YW1wbGVzLw==&#34;&gt;用 WordPress 建立网店的成功例子 (WooCommerce 购物商城系统)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaml1c3RvcmUuY29tL3dvcmRwcmVzcy1leGFtcGxlcy8=&#34;&gt;用 WordPress 搭建的知名网站例子&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/wordpress/wordpress-intro.html</guid>
+            <title>WordPress 简介</title>
+            <link>https://luhuadong.com/wordpress/wordpress-intro.html</link>
+            <category>WordPress</category>
+            <pubDate>Thu, 11 Mar 2021 20:28:18 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;wordpress-发展历史&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#wordpress-发展历史&#34;&gt;#&lt;/a&gt; WordPress 发展历史&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2003 年出生&lt;/li&gt;
+&lt;li&gt;2008 年被国外友人广泛传播并使用&lt;/li&gt;
+&lt;li&gt;2010 年被国内开发者引入&lt;/li&gt;
+&lt;li&gt;2014 年开始正式进入大众视野&lt;/li&gt;
+&lt;li&gt;至今，生态环境逐渐成熟&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;创始故事&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#创始故事&#34;&gt;#&lt;/a&gt; 创始故事&lt;/h2&gt;
+&lt;p&gt;WordPress 始于 2003 年，当时 Mike Little 和 Matt Mullenweg 创建了 b2/cafelog 的分支。即使在那时，对优雅、架构良好的个人发布系统的需求也是显而易见的。今天，WordPress 是建立在 PHP 和 MySQL 之上，并使用 GPLv2 许可。它也是网络上所有网站超过 39% 的首选平台。&lt;/p&gt;
+&lt;p&gt;WordPress 开源项目随着时间的推移以不断进步的方式发展，得到了热情的开发人员、设计师、科学家、博客作者等的支持。WordPress 为任何人提供了创建和共享的机会，从手工制作的个人轶事到改变世界的运动。技术经验有限的人可以 “开箱即用” 使用它，而更多的精通技术的人可以以非凡的方式自定义它。&lt;/p&gt;
+&lt;h2 id=&#34;wordpress-25-brecker&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#wordpress-25-brecker&#34;&gt;#&lt;/a&gt; WordPress 2.5 - Brecker&lt;/h2&gt;
+&lt;p&gt;2008 年 3 月，对于 WordPress 2.5，WordPress 团队与领先的网页设计咨询公司 Happy Cog 合作，对 WordPress 用户界面进行了改造，这个重新设计的 WordPress 今天仍然在使用。&lt;/p&gt;
+&lt;h2 id=&#34;wordpress-基金会&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#wordpress-基金会&#34;&gt;#&lt;/a&gt; WordPress 基金会&lt;/h2&gt;
+&lt;p&gt;2010 年 6 月，由 WordPress 联合创始人 Matt Mullenweg 创立的 Automattic 公司将 WordPress 商标和徽标的所有权转让给了 WordPress 基金会。这是 WordPress 历史上的重要时刻，因为它确保 WordPress 将继续增长，并且不依赖于公司或一组开发人员来继续该项目。&lt;/p&gt;
+&lt;h2 id=&#34;wordpress-30&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#wordpress-30&#34;&gt;#&lt;/a&gt; WordPress 3.0&lt;/h2&gt;
+&lt;p&gt;2010 年 6 月 17 日，WordPress 3.0 发布，这是 WordPress 迈出的重要一步。此版本引入了一些功能，如自定义帖子类型，更好的自定义分类，自定义背景、标题、菜单，管理屏幕上的上下文帮助等。WordPress MU 项目合并到 WordPress 核心以创建多站点网络。它还附带 Twenty Ten，开创了每年新默认主题的传统。&lt;/p&gt;
+&lt;h2 id=&#34;2014年&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2014年&#34;&gt;#&lt;/a&gt; 2014 年&lt;/h2&gt;
+&lt;p&gt;2014 年 4 月 16 日，WordPress 3.9 发布。它专注于改进 WordPress 可视化帖子编辑器。可以将图像直接拖放到帖子编辑器中，用户可以在编辑器内编辑图像，并在编辑器中查看他们的图库预览。WordPress 3.9 还引入了实时窗口小部件预览，音频播放列表和其他一些增强功能。&lt;/p&gt;
+&lt;p&gt;随后 WordPress 4.0 和 WordPress 4.1 版本全年对 WordPress 核心进行了更多改进。&lt;/p&gt;
+&lt;p&gt;这一年，也是 WordPress 非英语下载量超过英语下载量的第一年。&lt;/p&gt;
+&lt;h2 id=&#34;wordpress-的优点&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#wordpress-的优点&#34;&gt;#&lt;/a&gt; WordPress 的优点&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;扩展性强 —— 拥有众多插件&lt;/li&gt;
+&lt;li&gt;适合 DIY 网页&lt;/li&gt;
+&lt;li&gt;主题可选性&lt;/li&gt;
+&lt;li&gt;社区非常活跃 —— 成千上万的开发人员，内容创建者和网站所有者聚集在全球 817 个城市的每月聚会中&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

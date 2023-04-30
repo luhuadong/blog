@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>成为自由人 • Posts by &#34;股票&#34; tag</title>
+        <link>https://luhuadong.com</link>
+        <description>阿基米东的网络日志</description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 23 Jan 2023 01:03:18 +0800</pubDate>
+        <lastBuildDate>Mon, 23 Jan 2023 01:03:18 +0800</lastBuildDate>
+        <category>商业</category>
+        <category>成长</category>
+        <category>日记</category>
+        <category>创业</category>
+        <category>家居</category>
+        <category>互联网</category>
+        <category>读书笔记</category>
+        <category>工程师</category>
+        <category>爱</category>
+        <category>名言</category>
+        <category>奋斗</category>
+        <category>信息世界</category>
+        <category>管理</category>
+        <category>程序员</category>
+        <category>职场</category>
+        <category>人生</category>
+        <category>物联网</category>
+        <category>城市规划</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
+        <category>创客</category>
+        <category>比赛</category>
+        <category>科技向善</category>
+        <category>英语</category>
+        <category>学习</category>
+        <category>环保</category>
+        <category>碳中和</category>
+        <category>种植</category>
+        <category>健身</category>
+        <category>地理</category>
+        <category>城市</category>
+        <category>气象爱好者</category>
+        <category>指南</category>
+        <category>自律</category>
+        <category>思维</category>
+        <category>健康</category>
+        <category>Hexo</category>
+        <category>科普</category>
+        <category>可持续</category>
+        <category>能源</category>
+        <category>职业</category>
+        <category>时间管理</category>
+        <category>工作</category>
+        <category>总结</category>
+        <category>慈济</category>
+        <category>RT-Thread</category>
+        <category>开源</category>
+        <category>思考</category>
+        <category>生活</category>
+        <category>猫</category>
+        <category>幸福</category>
+        <category>修身</category>
+        <category>写书</category>
+        <category>milestone</category>
+        <category>地铁</category>
+        <category>Markdown</category>
+        <category>计划</category>
+        <category>股票</category>
+        <category>理财</category>
+        <category>投资</category>
+        <category>财富</category>
+        <category>保险</category>
+        <category>纪录片</category>
+        <category>自由</category>
+        <category>电影</category>
+        <category>TED演讲</category>
+        <category>时间</category>
+        <category>心理学</category>
+        <category>无线电爱好者</category>
+        <category>亲密关系</category>
+        <category>农业</category>
+        <category>游泳</category>
+        <category>励志</category>
+        <category>演讲</category>
+        <category>蔬食</category>
+        <category>电台主播</category>
+        <category>WordPress</category>
+        <category>垃圾分类</category>
+        <category>零废弃</category>
+        <category>低碳</category>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/money/price-earning-ratio.html</guid>
+            <title>【股票】市盈率估值法</title>
+            <link>https://luhuadong.com/money/price-earning-ratio.html</link>
+            <category>股票</category>
+            <category>理财</category>
+            <pubDate>Mon, 23 Jan 2023 01:03:18 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;怎么看股价便宜还是贵&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#怎么看股价便宜还是贵&#34;&gt;#&lt;/a&gt; 怎么看股价便宜还是贵？&lt;/h2&gt;
+&lt;p&gt;怎么看股价是便宜还是贵？答案是 —— &lt;strong&gt;估值&lt;/strong&gt;。估值是指对企业或股权内在价值的评估。&lt;/p&gt;
+&lt;p&gt;很多新手刚开始学买股票的时候，看到不同价格的股票，往往会犯一个共同的错误：以为 2、3 元的低价股，比几百块的高价股便宜。例如工商银行一股股价是 5 元多，买 100 股才 500 多块，而茅台一股股价是 1000 多元，买 100 股要 10 万多，是不是工商银行的股票比茅台要便宜呢？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其实一支股票是不是便宜，看的不是每一股的股票价格，而是要从公司整体估值角度看，到底值不值这个价格。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;两个主流又很实用的估值指标是&lt;strong&gt;市盈率&lt;/strong&gt;和&lt;strong&gt;市净率&lt;/strong&gt;，通过分析这两个指标，可以比较方便地判断出股票是不是真的便宜。&lt;/p&gt;
+&lt;h2 id=&#34;什么是市盈率&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#什么是市盈率&#34;&gt;#&lt;/a&gt; 什么是市盈率&lt;/h2&gt;
+&lt;p&gt;市盈率（Price Earning，简写 PE）代表一笔投资的「回本期限」&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;市盈率 = 每股股价 ÷ 每股净利润&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;其中，净利润 = 收入 - 成本 - 所得税，即公司净赚的钱。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;例如，一只股票价格 10 元，每股净利润是 1 元，那么市盈率就是 10 倍。&lt;/p&gt;
+&lt;p&gt;简单理解就是，从利润角度看，按照现在这个利润水平，你花 10 元买这支股票，需要 10 年才能收回成本。&lt;/p&gt;
+&lt;p&gt;假如同样的利润水平下，股价涨到 100 元，那么需要 100 年才能回本，相对风险就很高了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;所以你可以把市盈率理解为「回本期限」，假设一家企业的盈利水平不变，一笔投资需要多少年能收回成本。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;由于市盈率计算起来特别方便，理解起来也不难，所以成为大家快速评估公司价值的流行方法。&lt;/p&gt;
+&lt;p&gt;一些行情软件和财经网站都会提供市盈率的信息，我们可以很方便地查到。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/money/%E5%B8%82%E7%9B%88%E7%8E%87%E7%A4%BA%E4%BE%8B.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;（数据来源：雪球，统计时间：2020-03-16）&lt;/p&gt;
+&lt;h2 id=&#34;三种市盈率&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#三种市盈率&#34;&gt;#&lt;/a&gt; 三种市盈率&lt;/h2&gt;
+&lt;p&gt;在具体查找的时候，我们通常会看到 3 种不同的市盈率：&lt;strong&gt;静态市盈率&lt;/strong&gt;、&lt;strong&gt;滚动市盈率&lt;/strong&gt;（TTM）和&lt;strong&gt;动态市盈率&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;它们的具体计算公式如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;静态市盈率 = 当前股价 ÷ 最近 1 年每股净利润&lt;/li&gt;
+&lt;li&gt;滚动市盈率 = 当前股价 ÷ 最近 4 个季度每股净利润之和&lt;/li&gt;
+&lt;li&gt;动态市盈率 = 当前股价 ÷ 预测每股净利润&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这 3 种市盈率的区别是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;第 1 种静态市盈率，它的分母用的是上一年年报的数据；&lt;/li&gt;
+&lt;li&gt;第 2 种滚动市盈率，考虑每股净利润时，用的是最新 4 个季度的已有数据；&lt;/li&gt;
+&lt;li&gt;第 3 种动态市盈率，则是用分析师预测的每股净利润数据。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;标有 TTM 的是第 2 种「滚动市盈率」，相比其他 2 种市盈率，滚动市盈率一方面用了最新季报的数据，时效性比较好；同时又避免了人为预测造成的误差，建议参考该指标。&lt;/p&gt;
+&lt;h2 id=&#34;市盈率的两种用法&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#市盈率的两种用法&#34;&gt;#&lt;/a&gt; 市盈率的两种用法&lt;/h2&gt;
+&lt;p&gt;我们已经知道，市盈率对应的是投资回本时间的长短。具体来说：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;回本时间越短，市盈率越低；&lt;/li&gt;
+&lt;li&gt;回本时间越长，市盈率越高。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;那么，一只股票市盈率的高低，可以反映它估值的高低。&lt;/p&gt;
+&lt;p&gt;具体怎么来判断市盈率是高是低呢？主要有 2 种方法：（1）纵向比较；（2）横向比较&lt;/p&gt;
+&lt;h3 id=&#34;纵向比较&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#纵向比较&#34;&gt;#&lt;/a&gt; 纵向比较&lt;/h3&gt;
+&lt;p&gt;纵向比较，就是用一家公司当前的市盈率和历史平均市盈率作比较。&lt;/p&gt;
+&lt;p&gt;假如一家公司当前市盈率低于平均水平，股价相对低估；市盈率高于平均水平，则说明股价高估。&lt;/p&gt;
+&lt;p&gt;【实际案例】&lt;/p&gt;
+&lt;p&gt;还是以贵州茅台为例，它当前的市盈率是 32 倍左右，而它最近 5 年的平均市盈率是 27 倍左右，当前市盈率，略高于平均水平，股价略微高估。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/money/%E5%B8%82%E7%9B%88%E7%8E%87%E7%A4%BA%E4%BE%8B2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;（数据来源：亿牛网，统计时间：2015-2020 年）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2）横向比较&lt;/strong&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/money/advice-for-upcoming-stock-trading.html</guid>
+            <title>送给即将入市股民的忠告</title>
+            <link>https://luhuadong.com/money/advice-for-upcoming-stock-trading.html</link>
+            <category>股票</category>
+            <category>理财</category>
+            <pubDate>Mon, 23 Jan 2023 00:07:22 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;投资的本质是你对这个世界的认知变现，而阅读就是帮助我们提升认知的捷径。希望大家能够通过持续学习和阅读，实现更自由的人生！&lt;/p&gt;
+&lt;p&gt;一个合格股民的必备条件包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;多看股神的书籍；&lt;/li&gt;
+&lt;li&gt;学习 K 线技术；&lt;/li&gt;
+&lt;li&gt;通晓各种技术指标；&lt;/li&gt;
+&lt;li&gt;敏锐的洞察力；&lt;/li&gt;
+&lt;li&gt;丰富的知识面；&lt;/li&gt;
+&lt;li&gt;上知天文下知地理；&lt;/li&gt;
+&lt;li&gt;国内外大事第一时间知晓；&lt;/li&gt;
+&lt;li&gt;…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;当你掌握投资股票的基本知识和分析股票的能力以后，更重要的是保持良好的投资&lt;strong&gt;心态&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;心法永远要摆在第一位，因为心法对付的是比市场的涨跌更可怕的东西 —— &lt;strong&gt;人性的弱点：痴嗔贪疑慢&lt;/strong&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;痴&lt;/strong&gt;：愚痴。是否有过对一只股票恋恋不舍，绞尽脑汁也要想出一个理由安慰自己拿住套牢的它？&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;嗔&lt;/strong&gt;：冲动、嫉妒。是否有过手中的股票一买入就跌、一卖出就涨，是否又暗骂它亲戚了？&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;贪&lt;/strong&gt;：贪婪、恐惧。是否明明顶部出现了，却幻想着再涨一点结果丰硕的收入慢慢变成了套牢？整天幻想着抄底的也并入此类。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;疑&lt;/strong&gt;：多疑、恐惧。是否有过明明买（卖）点就在眼前，却还疑神疑鬼底（顶）部还没有到？&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;慢&lt;/strong&gt;：傲慢。是否曾经抓到一两个涨停板或者做顺了几个单子就傲慢？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;淡定地看待涨跌，涨就等卖点，跌就等买点。心态和节奏不对的时候，请停止操作，休息一阵子，不操作就不会损失。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/money/stock-trading-mentality.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/money/stock-market-basic-knowledge.html</guid>
+            <title>股票入门基础知识</title>
+            <link>https://luhuadong.com/money/stock-market-basic-knowledge.html</link>
+            <category>股票</category>
+            <category>理财</category>
+            <pubDate>Sun, 22 Jan 2023 22:49:59 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/money/stock.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;股票是什么&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#股票是什么&#34;&gt;#&lt;/a&gt; 股票是什么&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;股票&lt;/strong&gt;（stock）又称为 &lt;strong&gt;资本存货&lt;/strong&gt;（capital stock），是股份有限公司在筹集资本时向出资人发行的股份凭证。&lt;/p&gt;
+&lt;p&gt;发行股票的原因是该股份公司需要筹集长期资金，以进行研发、生产、市场推广或扩大经营等生产活动。因此将股票发给投资者作为公司资本的部分&lt;strong&gt;所有权凭证&lt;/strong&gt;，拥有股票的人即为&lt;strong&gt;股东&lt;/strong&gt;，可以此获得&lt;strong&gt;股利&lt;/strong&gt;（股票股利）或 / 且&lt;strong&gt;股息&lt;/strong&gt;（现金股利），并分享公司成长或交易市场波动带来的利润；但也要共同承担公司运作错误所带来的风险。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;简单来说，你买的每一股股票，都代表着你对该企业的一个基本单位的所有权。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;股票具有以下特点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;** 不可偿还性。** 投资者认购股票后，就不能退给公司，只能在市场上卖给其他投资者。&lt;/li&gt;
+&lt;li&gt;** 收益性。** 股东凭借持有的股票，有权从公司获得股息或红利，具体取决于公司盈利水平和分红政策。&lt;/li&gt;
+&lt;li&gt;** 流通性。** 上市公司的股票，可以通过证券交易所自由买卖和流通。常见的证券交易所包括境内的深圳证券交易所、上海证券交易所，境外的港交所、纽交所、纳斯达克交易所等。&lt;/li&gt;
+&lt;li&gt;** 价格波动性。** 股票的价格会上下波动，带来不确定性和风险，买入股票后，既可能获利，也可能遭受损失。&lt;/li&gt;
+&lt;li&gt;** 参与性。** 股东有权出席股东大会，按持股比例行使表决权，参与公司重大决策。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;股票交易所&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#股票交易所&#34;&gt;#&lt;/a&gt; 股票交易所&lt;/h2&gt;
+&lt;p&gt;目前，中国大陆有三个证券交易所，分布在上海、深圳、北京，也就是我们常听到的上交所、深交所、北交所。&lt;/p&gt;
+&lt;p&gt;另外，港澳台地区还有香港交易所、澳门金融资产交易所、台湾证券交易所。&lt;/p&gt;
+&lt;p&gt;P.S. 美国有三个证券交易所，分别是纽约证券交易所、纳斯达克交易所和美国证券交易所。&lt;/p&gt;
+&lt;h2 id=&#34;股票交易时间&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#股票交易时间&#34;&gt;#&lt;/a&gt; 股票交易时间&lt;/h2&gt;
+&lt;p&gt;目前我国交易所买卖交易时间是非节假日的周一到周五（早上 09:30 - 11:30，下午 13:00 - 15:00），也就是说在这个时间段里面你才能买卖股票，超过时间段就买卖不了，如果是节假日时间，看证券所通知时间。&lt;/p&gt;
+&lt;p&gt;买卖股票最低是交易 1 手，也就是 100 股的意思，假如有一个股票价格是 3 块钱，那么你最低买卖是 100 股，那就需要 300 块钱，加上印花税，也就是交易的手续费，就可能需要 305 块钱你就可以买这个股票了。&lt;/p&gt;
+&lt;h2 id=&#34;股票类型&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#股票类型&#34;&gt;#&lt;/a&gt; 股票类型&lt;/h2&gt;
+&lt;h3 id=&#34;a-股&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#a-股&#34;&gt;#&lt;/a&gt; A 股&lt;/h3&gt;
+&lt;p&gt;A 股就是指我们自己国内的公司发行的，然后国内组织或个人（港澳台同胞除外）可以用人民币交易买卖的普通股票。我们平常说的上证 A 股、深圳 A 股就是这个类型的股票。&lt;/p&gt;
+&lt;p&gt;A 股的涨跌限制是正负 10%。比如今天一个股票开盘价格是 10 块钱，那么它今天一天最多涨到 11 块钱，就不会涨了，这个就叫&lt;strong&gt;涨停&lt;/strong&gt;；如果要跌的话，最多就是跌到 9 块钱，这个叫&lt;strong&gt;跌停&lt;/strong&gt;。如果我们要买卖 A 股的话，就需要到证券所开一个股票 A 股账户。&lt;/p&gt;
+&lt;h3 id=&#34;b-股&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#b-股&#34;&gt;#&lt;/a&gt; B 股&lt;/h3&gt;
+&lt;p&gt;B 股是指其他国家的公司在我们国家上市发行的，以人民币标明面值，然后用外币交易买卖，供国内外投资者买卖的股票，它的涨跌限制也是跟 A 股一样的正负 10% 。&lt;/p&gt;
+&lt;p&gt;如果我们要买卖 B 股的话，需要到证券所开通一个股票 B 股账户。&lt;/p&gt;
+&lt;h3 id=&#34;st-股&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#st-股&#34;&gt;#&lt;/a&gt; ST 股&lt;/h3&gt;
+&lt;p&gt;ST 股分两类，一类是一个上市公司经营连续亏损，这是利空，我们要特别谨慎对待；还有一类是一个上市公司重组，这一般是利好。&lt;/p&gt;
+&lt;p&gt;像 ST 股的话，涨跌限制是每天正负 5%，也就是说一天最多涨 5%，跌也是 5%。假如今天一个股票开票价是 10 块钱，那么它今天最多涨到 10.5 块就不能继续涨了，跌也是一样，最多跌到 9.5 块钱就跌停。一般新手不建议操作此类股票，因为风险比较大，要买卖的话需要开户时像开户券商提出要求才会帮你开通。&lt;/p&gt;
+&lt;h3 id=&#34;st-股-2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#st-股-2&#34;&gt;#&lt;/a&gt; *ST 股&lt;/h3&gt;
+&lt;p&gt;像此类前头带  &lt;code&gt;*&lt;/code&gt;  的 ST 股票，是表示这个股票因为连续经营亏损存在退市的可能，风险就非常非常高了，其涨跌限制跟 ST 股一样是正负 5%，需要买卖此类股票开户的时候也需要跟开户券商提出要求才能买卖此类股票。&lt;/p&gt;
+&lt;h2 id=&#34;指数&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#指数&#34;&gt;#&lt;/a&gt; 指数&lt;/h2&gt;
+&lt;p&gt;上证指数（俗称大盘）、深证指数（大盘）、创业板（大盘）&lt;/p&gt;
+&lt;h3 id=&#34;上证指数&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#上证指数&#34;&gt;#&lt;/a&gt; 上证指数&lt;/h3&gt;
+&lt;p&gt;上证指数也就是俗称的沪市，它是由上海交易所上市的所有股票通过一定的计算方法得出来的反应股票整体情况的一个指数。很多时候大盘指数不好，就会拖累个股，所以很多时候我们先看大盘就是这个原因。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;上海交易所的股票代码都是 6 开头的&lt;/strong&gt;，比如  &lt;code&gt;600***&lt;/code&gt;  就是上海交易所上市的股票。比如现在需要买一个 6 开头的上海交易所上市的股票，那么我们就首先可以看一下最近上证指数走势好不好，如果不好的话，那么，我们就要考虑这个股票会不会受大盘影响，走势也会不好。&lt;/p&gt;
+&lt;h3 id=&#34;深证指数&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#深证指数&#34;&gt;#&lt;/a&gt; 深证指数&lt;/h3&gt;
+&lt;p&gt;就是有深圳交易所上市的所有股票通过一定计算方法得出来的反应股票整体情况的一个指数。其意义跟上证指数一样，就不多作指导。&lt;/p&gt;
+&lt;h3 id=&#34;创业板&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#创业板&#34;&gt;#&lt;/a&gt; 创业板&lt;/h3&gt;
+&lt;p&gt;创业板也是深交所上市的股票，这类股票代表的公司是一些创业型的公司，具有成立时间短，潜力大的特点，是以  &lt;code&gt;300&lt;/code&gt;  代码开头的。需要买卖创业板的话，也需要开户时跟开户券商要求才能买卖此类股票，一般此类股票风险性比 A 股风险大。&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

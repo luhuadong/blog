@@ -1,71 +1,486 @@
+
+
+
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
-<meta name="theme-color" content="#222">
-<meta name="generator" content="Hexo 5.0.2">
+<meta name="theme-color" content="#FFF">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="icon" type="image/ico" sizes="32x32" href="/images/favicon.ico">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta http-equiv="Cache-Control" content="no-siteapp">
 
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/lu_avatar_01_120px.png">
-  <link rel="mask-icon" href="/images/lu_avatar_01_240px.png" color="#222">
+<link rel="alternate" type="application/rss+xml" title="成为自由人" href="https://luhuadong.com/rss.xml" />
+<link rel="alternate" type="application/atom+xml" title="成为自由人" href="https://luhuadong.com/atom.xml" />
+<link rel="alternate" type="application/json" title="成为自由人" href="https://luhuadong.com/feed.json" />
 
-<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Mulish:300,300italic,400,400italic,700,700italic%7CFredericka%20the%20Great:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20JP:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20SC:300,300italic,400,400italic,700,700italic%7CInconsolata:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
 
+<link rel="stylesheet" href="/css/app.css?v=0.2.5">
 
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3396347538857110" crossorigin="anonymous"></script>
-
-<script class="hexo-configurations">
-    var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
-  </script>
-<meta name="description" content="引子 小C由于学习成绩不好，高中毕业没有考上大学，找了一份业务员的工作匆匆开始了职业生涯。混了两年，业绩一直上不去，在家人的建议下，去了一家高职学习物流管理。两年后，小C顺利毕业，在当地一家物流公司当叉车司机。几个月后，小C觉得这份工作太苦太累、收入低，平时喜欢玩网游的他听说做游戏很赚钱，所以暗下决心要转行。很快，小C辞职了，并说服家人让他到一家培训机构学习游戏开发。本来计划的学习时间是一年，但小">
-<meta property="og:type" content="article">
-<meta property="og:title" content="大龄码农是如何把自己逼死的">
-<meta property="og:url" content="https://luhuadong.com/career/dont-kill-self-career.html">
-<meta property="og:site_name" content="成为自由人">
-<meta property="og:description" content="引子 小C由于学习成绩不好，高中毕业没有考上大学，找了一份业务员的工作匆匆开始了职业生涯。混了两年，业绩一直上不去，在家人的建议下，去了一家高职学习物流管理。两年后，小C顺利毕业，在当地一家物流公司当叉车司机。几个月后，小C觉得这份工作太苦太累、收入低，平时喜欢玩网游的他听说做游戏很赚钱，所以暗下决心要转行。很快，小C辞职了，并说服家人让他到一家培训机构学习游戏开发。本来计划的学习时间是一年，但小">
-<meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2019-01-10T10:11:46.000Z">
-<meta property="article:modified_time" content="2023-03-24T17:27:54.593Z">
-<meta property="article:author" content="Rudy Lo">
-<meta property="article:tag" content="程序员">
-<meta property="article:tag" content="职场">
-<meta name="twitter:card" content="summary">
+  
+  <meta name="keywords" content="程序员,职场" />
 
 
 <link rel="canonical" href="https://luhuadong.com/career/dont-kill-self-career.html">
 
 
-<script class="page-configurations">
-  // https://hexo.io/docs/variables.html
-  CONFIG.page = {
-    sidebar: "",
-    isHome : false,
-    isPost : true,
-    lang   : 'zh-CN'
+
+  <title>
+大龄码农是如何把自己逼死的 - 了不起的打工人 |
+Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</title>
+<meta name="generator" content="Hexo 5.4.2"></head>
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div id="loading">
+    <div class="cat">
+      <div class="body"></div>
+      <div class="head">
+        <div class="face"></div>
+      </div>
+      <div class="foot">
+        <div class="tummy-end"></div>
+        <div class="bottom"></div>
+        <div class="legs left"></div>
+        <div class="legs right"></div>
+      </div>
+      <div class="paw">
+        <div class="hands left"></div>
+        <div class="hands right"></div>
+      </div>
+    </div>
+  </div>
+  <div id="container">
+    <header id="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="inner">
+        <div id="brand">
+          <div class="pjax">
+          
+  <h1 itemprop="name headline">大龄码农是如何把自己逼死的
+  </h1>
+  
+<div class="meta">
+  <span class="item" title="创建时间：2019-01-10 18:11:46">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <span class="text">发表于</span>
+    <time itemprop="dateCreated datePublished" datetime="2019-01-10T18:11:46+08:00">2019-01-10</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span class="text">本文字数</span>
+    <span>2.5k</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span class="text">阅读时长</span>
+    <span>2 分钟</span>
+  </span>
+</div>
+
+
+          </div>
+        </div>
+        <nav id="nav">
+  <div class="inner">
+    <div class="toggle">
+      <div class="lines" aria-label="切换导航栏">
+        <span class="line"></span>
+        <span class="line"></span>
+        <span class="line"></span>
+      </div>
+    </div>
+    <ul class="menu">
+      <li class="item title"><a href="/" rel="start">Freedom Blog</a></li>
+    </ul>
+    <ul class="right">
+      <li class="item theme">
+        <i class="ic i-sun"></i>
+      </li>
+      <li class="item search">
+        <i class="ic i-search"></i>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+      </div>
+      <div id="imgs" class="pjax">
+        <ul>
+          <li class="item" data-background-image="http://static.luhuadong.com/JTNPMilkyWay.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/MPPUnesco.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/WhitehorseAurora.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/MinouLighthouse.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/JavaBromo.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/QingMing2023.jpg"></li>
+        </ul>
+      </div>
+    </header>
+    <div id="waves">
+      <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+        <defs>
+          <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+        </defs>
+        <g class="parallax">
+          <use xlink:href="#gentle-wave" x="48" y="0" />
+          <use xlink:href="#gentle-wave" x="48" y="3" />
+          <use xlink:href="#gentle-wave" x="48" y="5" />
+          <use xlink:href="#gentle-wave" x="48" y="7" />
+        </g>
+      </svg>
+    </div>
+    <main>
+      <div class="inner">
+        <div id="main" class="pjax">
+          
+  <div class="article wrap">
+    
+<div class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+<i class="ic i-home"></i>
+<span><a href="/">首页</a></span><i class="ic i-angle-right"></i>
+<span  class="current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/categories/career/" itemprop="item" rel="index" title="分类于 了不起的打工人"><span itemprop="name">了不起的打工人</span></a>
+<meta itemprop="position" content="1" /></span>
+</div>
+
+    <article itemscope itemtype="http://schema.org/Article" class="post block" lang="zh-CN">
+  <link itemprop="mainEntityOfPage" href="https://luhuadong.com/career/dont-kill-self-career.html">
+
+  <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <meta itemprop="image" content="/images/lu_20221221.jpg">
+    <meta itemprop="name" content="Rudy Lo">
+    <meta itemprop="description" content="生活的理想，就是为了理想的生活, 阿基米东的网络日志">
+  </span>
+
+  <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+    <meta itemprop="name" content="成为自由人">
+  </span>
+
+  <div class="body md" itemprop="articleBody">
+    
+
+    <h2 id="引子"><a class="markdownIt-Anchor" href="#引子">#</a> 引子</h2>
+<p>小 C 由于学习成绩不好，高中毕业没有考上大学，找了一份业务员的工作匆匆开始了职业生涯。混了两年，业绩一直上不去，在家人的建议下，去了一家高职学习物流管理。两年后，小 C 顺利毕业，在当地一家物流公司当叉车司机。几个月后，小 C 觉得这份工作太苦太累、收入低，平时喜欢玩网游的他听说做游戏很赚钱，所以暗下决心要转行。很快，小 C 辞职了，并说服家人让他到一家培训机构学习游戏开发。本来计划的学习时间是一年，但小 C 的基础不扎实，没能通过考核，经过沟通，培训机构同意让小 C 免费再学一年。很快一年又过去了，由于小 C 缺少练习和思考，虽然勉强通过考核，但仍然找不到他想象中的游戏开发工作。几个月后，在培训老师的推荐下，去了一家小公司做 APP 开发。由于是小公司，而且大多是外包业务，工作节奏快，小 C 屡次不能按时完成任务，并且在一次会议上和上司吵架了。于是，小 C 被解雇了，得重新找工作，但过了半年还是屡屡碰壁。后来迫不得已，在家人的推荐下，去了一家餐厅上班。现在已经在那里工作两年了，做过服务员，也做过帮厨。最近开了分店，老板决定让他当个轮岗店长，所以小 C 特意请我吃饭庆祝一下。我问小 C：“现在还想做游戏开发吗”？小 C 笑了一下说：“早就不想了，不过游戏还得玩”！</p>
+<p>小 C 是我的小学同学，小时候他比我聪明多了，兵乓球也打得好，但是他已经好久没有打过乒乓球了。小 C 说做餐饮要起早摸黑、忙里忙外的，每天下班就已经很累了，再玩两局游戏就差不多要睡觉了，没时间做别的事情了，当然也没有对象啦。唉，这种状态也不知道什么时候才到头？</p>
+<p>写到这里，小 C 离高中毕业已经八年时间了，但断断续续的状态，以及行业的转换，使得他所积累的工作经验大打折扣。</p>
+<p>说这个故事的目的是为了引出核心观点：<strong>工作经历 ≠ 工作经验</strong>。“经历” 需要经过总结、归纳和升华，才能有效转化为 “经验”。</p>
+<hr>
+<p>结合工作中的一些见闻，我整理了下面几点，看看大龄码农是如何一步步把自己逼死的。</p>
+<h2 id="空窗期变成空白期"><a class="markdownIt-Anchor" href="#空窗期变成空白期">#</a> 空窗期变成空白期</h2>
+<p>由于各种原因，很多程序员难免会频繁跳槽。比如由于加班太多想放空自己，于是辞职去旅游个大半年。又比如公司效益不好，被解雇了。不管是什么原因，你不应该让空窗期变成空白期！</p>
+<p>你可以出去旅游，长长见识，收获一堆风土人情；你可以出去创业，辛勤付出，收获拼搏奋斗的失败经验；你可以返校读书，回炉再造，培养另一种能力；你也可以躲起来，磨刀霍霍，为下一份工作做准备。</p>
+<p>但是如果处于空窗期的你无所事事，没有计划，没有安排，每天玩游戏，玩到累了就睡觉。你很难期望天上会掉一个比之前更好的馅饼下来。也许很多事情无能为力，但是做总比不做好。</p>
+<h2 id="控制不了自己的情绪"><a class="markdownIt-Anchor" href="#控制不了自己的情绪">#</a> 控制不了自己的情绪</h2>
+<p>很多程序员是闷骚、大男人主义的直男，大大咧咧、不修边幅，不仅不注重外在，也不注重内在修养。作为一名程序员，保持情绪稳定很重要，你要学会与同事、上司、产品经理、项目经理、甲方、乙方沟通。如果你还想在这家公司待着，千万不要和你的同事、上司吵架，因为你们需要长期合作，你们见面的时间比家人还多。</p>
+<p>有些程序员不注重表达，常常祸从口出，不和谐的关系往往会导致项目失败，导致不能升职加薪，甚至被辞退。所以要做情绪的主人，从根本上解决问题。</p>
+<h2 id="遇到问题到处喊救命"><a class="markdownIt-Anchor" href="#遇到问题到处喊救命">#</a> 遇到问题到处喊救命</h2>
+<p>有些程序员，一旦出现问题，比如程序编译不通过、运行时出错了、挂了。第一反应就是找人帮忙，甚至很多时候他们连打印信息和日志都没仔细看过，有良心一点的程序员可能会调试一下再寻求帮助。他们也许会直接把问题发在内部系统或者交给测试部门，也许会拷贝一大串代码和信息发到各个技术交流群，期望高手给他指点一条明路，帮他解决这个问题。</p>
+<p>长期以来，懒惰和依赖一定会使自己的技术水平提升很慢，甚至倒退。所以要感恩每一次遇到的 Bug，学会独立思考，培养独立分析问题、解决问题的能力。在你把问题的来龙去脉整理清楚的过程中，自然就会获得经验。而不是一而再再而三地问别人。</p>
+<p>当然，解决问题的办法有很多种，寻求高手指点有时候确实能快速解决问题。但遇到没见过的问题，你应该尽可能自己摸索一遍，即便高手已经帮你解决掉了，否则很快你就会发现你已经沦落为一个执行者，而不是创造者了。</p>
+<p>所以遇到问题就要绞尽脑汁地思考、充分利用搜索引擎、查阅资料、尝试调试，如果问题依然没有解决，应该整理好思路和调试流程，再简明扼要、恰到好处地向高手提问，向技术交流群提问。</p>
+<h2 id="拒绝与工作无关的知识"><a class="markdownIt-Anchor" href="#拒绝与工作无关的知识">#</a> 拒绝与工作无关的知识</h2>
+<p>很多程序员，与他目前工作没有关系的知识毫不关心，说好听点是 “专注”，说不好听是 “固执”。比如让他搞个 Android App，他很快给你写完了业务逻辑代码，但是界面丑得不堪入目，他说他是程序员只负责写代码，界面美不美观跟他没关系。比如有个搞单片机开发的程序员，你给他讲 Linux，他就会找各种理由避而远之，说 “我的工作不涉及这个，为什么要学？</p>
+<p>如果你是生活在上世纪的程序员，这种作风可能还行得通，但是在 21 世纪就不行了。你如果还是 “事不关己高高挂起”，就难以在扩宽知识的广度，每天盯着自己的几行代码，慢慢地变成井底之蛙。</p>
+<p>所以我提倡大家做个斜杠青年，做个专注的 T 型人才。有特定领域的深度，也有方方面面的广度。你的工作可能只要求你写 Linux 的 Qt 应用，但如果你弄清 Linux 系统层面的知识，拥有 Web 前后端的知识，你一定会开发出更酷的软件。</p>
+<p>同时，不要忘了要学会感受生命的美好，热爱生活。培养一两个爱好，并坚持下去，扩宽交际圈子，不要老和程序员抬杠。如果不这样的话，等你明白过来你一定会很痛苦。</p>
+<h2 id="日复一日地重复工作"><a class="markdownIt-Anchor" href="#日复一日地重复工作">#</a> 日复一日地重复工作</h2>
+<p>一个工程师，第一天上班的任务就是做开关检测，接触了各种各样的开关，一弄就好几年，成为了公司里唯一的 “开关专家”。这个过程中，他会写一些简单的单片机程序测试，但一直没有在系统层面深入研究。于是，成功地做了一颗兢兢业业的螺丝钉，而且只钉一种木头。</p>
+<p>你不是 20 年工作经验，而是 1 年工作经验反复用了 20 年。</p>
+<p>这样的话，大龄码农不具备足够的竞争力，很可能就会被一个 2 年工作经验的年轻人替代掉了。</p>
+<h2 id="总结"><a class="markdownIt-Anchor" href="#总结">#</a> 总结</h2>
+<p><strong>编程能力很重要，但更重要的是持续学习能力和职场软实力！</strong></p>
+<p>看不懂这些，大龄码农只能怀才不遇，抱怨领导、抱怨社会，最终伤害的是自己和家人。</p>
+
+      <div class="tags">
+          <a href="/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/" rel="tag"><i class="ic i-tag"></i> 程序员</a>
+          <a href="/tags/%E8%81%8C%E5%9C%BA/" rel="tag"><i class="ic i-tag"></i> 职场</a>
+      </div>
+  </div>
+
+   <footer>
+
+    <div class="meta">
+  <span class="item">
+    <span class="icon">
+      <i class="ic i-calendar-check"></i>
+    </span>
+    <span class="text">更新于</span>
+    <time title="修改时间：2023-04-30 16:10:37" itemprop="dateModified" datetime="2023-04-30T16:10:37+08:00">2023-04-30</time>
+  </span>
+  <span id="career/dont-kill-self-career.html" class="item leancloud_visitors" data-flag-title="大龄码农是如何把自己逼死的" title="阅读次数">
+      <span class="icon">
+        <i class="ic i-eye"></i>
+      </span>
+      <span class="text">阅读次数</span>
+      <span class="leancloud-visitors-count"></span>
+      <span class="text">次</span>
+  </span>
+</div>
+
+      
+<div class="reward">
+  <button><i class="ic i-heartbeat"></i> 赞赏</button>
+  <p>请我喝[茶]~(￣▽￣)~*</p>
+  <div id="qr">
+      
+      <div>
+        <img data-src="/images/wechatpay-small.jpeg" alt="Rudy Lo 微信支付">
+        <p>微信支付</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/alipay-small.jpeg" alt="Rudy Lo 支付宝">
+        <p>支付宝</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/avatar.png" alt="Rudy Lo 贝宝">
+        <p>贝宝</p>
+      </div>
+  </div>
+</div>
+
+      
+
+<div id="copyright">
+<ul>
+  <li class="author">
+    <strong>本文作者： </strong>Rudy Lo <i class="ic i-at"><em>@</em></i>成为自由人
+  </li>
+  <li class="link">
+    <strong>本文链接：</strong>
+    <a href="https://luhuadong.com/career/dont-kill-self-career.html" title="大龄码农是如何把自己逼死的">https://luhuadong.com/career/dont-kill-self-career.html</a>
+  </li>
+  <li class="license">
+    <strong>版权声明： </strong>本站所有文章除特别声明外，均采用 <span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzQuMC9kZWVkLnpo"><i class="ic i-creative-commons"><em>(CC)</em></i>BY-NC-SA</span> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+  </footer>
+
+</article>
+
+  </div>
+  
+
+<div class="post-nav">
+    <div class="item left">
+      
+
+  <a href="/journal/2018-year-end-summary.html" itemprop="url" rel="prev" data-background-image="http:&#x2F;&#x2F;static.luhuadong.com&#x2F;QingMing2023.jpg" title="我的2018——上懂机器学习，下懂微信建群">
+  <span class="type">上一篇</span>
+  <span class="category"><i class="ic i-flag"></i> 不定时日记</span>
+  <h3>我的2018——上懂机器学习，下懂微信建群</h3>
+  </a>
+
+    </div>
+    <div class="item right">
+      
+
+  <a href="/coding/PyTK-2019-Day01.html" itemprop="url" rel="next" data-background-image="http:&#x2F;&#x2F;static.luhuadong.com&#x2F;MinouLighthouse.jpg" title="【教孩子学编程】第1天 和电脑做朋友">
+  <span class="type">下一篇</span>
+  <span class="category"><i class="ic i-flag"></i> 一起学编程</span>
+  <h3>【教孩子学编程】第1天 和电脑做朋友</h3>
+  </a>
+
+    </div>
+</div>
+
+  
+  <div class="wrap" id="comments"></div>
+
+
+        </div>
+        <div id="sidebar">
+          
+
+<div class="inner">
+
+  <div class="panels">
+    <div class="inner">
+      <div class="contents panel pjax" data-title="文章目录">
+          <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%BC%95%E5%AD%90"><span class="toc-number">1.</span> <span class="toc-text"> 引子</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%A9%BA%E7%AA%97%E6%9C%9F%E5%8F%98%E6%88%90%E7%A9%BA%E7%99%BD%E6%9C%9F"><span class="toc-number">2.</span> <span class="toc-text"> 空窗期变成空白期</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%8E%A7%E5%88%B6%E4%B8%8D%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E6%83%85%E7%BB%AA"><span class="toc-number">3.</span> <span class="toc-text"> 控制不了自己的情绪</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E9%81%87%E5%88%B0%E9%97%AE%E9%A2%98%E5%88%B0%E5%A4%84%E5%96%8A%E6%95%91%E5%91%BD"><span class="toc-number">4.</span> <span class="toc-text"> 遇到问题到处喊救命</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%8B%92%E7%BB%9D%E4%B8%8E%E5%B7%A5%E4%BD%9C%E6%97%A0%E5%85%B3%E7%9A%84%E7%9F%A5%E8%AF%86"><span class="toc-number">5.</span> <span class="toc-text"> 拒绝与工作无关的知识</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%97%A5%E5%A4%8D%E4%B8%80%E6%97%A5%E5%9C%B0%E9%87%8D%E5%A4%8D%E5%B7%A5%E4%BD%9C"><span class="toc-number">6.</span> <span class="toc-text"> 日复一日地重复工作</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%80%BB%E7%BB%93"><span class="toc-number">7.</span> <span class="toc-text"> 总结</span></a></li></ol>
+      </div>
+      <div class="related panel pjax" data-title="系列文章">
+        <ul>
+          <li><a href="/career/6s-management.html" rel="bookmark" title="6S 管理（物资管理方法）">6S 管理（物资管理方法）</a></li><li><a href="/career/the-importance-of-knowledge-management.html" rel="bookmark" title="知识管理的重要性">知识管理的重要性</a></li><li><a href="/career/the-transformation-of-embedded-engineers-under-iot.html" rel="bookmark" title="论物联网浪潮下嵌入式工程师的转型">论物联网浪潮下嵌入式工程师的转型</a></li><li><a href="/career/my-open-source-journey.html" rel="bookmark" title="我的开源之旅">我的开源之旅</a></li><li><a href="/career/be-a-successful-embedded-system-engineer.html" rel="bookmark" title="做个成功的嵌入式系统工程师">做个成功的嵌入式系统工程师</a></li><li><a href="/career/the-right-way-to-take-it-training.html" rel="bookmark" title="参加IT培训的正确心态">参加IT培训的正确心态</a></li><li><a href="/career/workplace-notes-for-programmers.html" rel="bookmark" title="程序员职场须知">程序员职场须知</a></li><li><a href="/career/how-to-prevent-programmers-from-getting-bored-with-work.html" rel="bookmark" title="如何让你的程序员不要厌倦工作">如何让你的程序员不要厌倦工作</a></li><li class="active"><a href="/career/dont-kill-self-career.html" rel="bookmark" title="大龄码农是如何把自己逼死的">大龄码农是如何把自己逼死的</a></li><li><a href="/career/programmers-law-of-survival.html" rel="bookmark" title="程序员生存定律">程序员生存定律</a></li><li><a href="/career/the-three-most-dangerous-concepts-of-career.html" rel="bookmark" title="最危害程序员职业生涯的三大观念">最危害程序员职业生涯的三大观念</a></li><li><a href="/career/mbti.html" rel="bookmark" title="做了两次 MBTI 性格测试">做了两次 MBTI 性格测试</a></li><li><a href="/career/win-in-stability-for-ordinary-people.html" rel="bookmark" title="普通人如何稳中求胜？">普通人如何稳中求胜？</a></li><li><a href="/career/career-and-life-admonish.html" rel="bookmark" title="职场与人生告诫">职场与人生告诫</a></li><li><a href="/career/rework-companies.html" rel="bookmark" title="支持远程办公的公司">支持远程办公的公司</a></li><li><a href="/career/how-to-be-a-good-mentor.html" rel="bookmark" title="如何做好职场导师，帮助新人成长">如何做好职场导师，帮助新人成长</a></li><li><a href="/career/interviewer-s-trouble.html" rel="bookmark" title="面试官的烦恼：可持续的优秀团队">面试官的烦恼：可持续的优秀团队</a></li>
+        </ul>
+      </div>
+      <div class="overview panel" data-title="站点概览">
+        <div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <img class="image" itemprop="image" alt="Rudy Lo"
+      data-src="/images/lu_20221221.jpg">
+  <p class="name" itemprop="name">Rudy Lo</p>
+  <div class="description" itemprop="description">阿基米东的网络日志</div>
+</div>
+
+<nav class="state">
+    <div class="item posts">
+      <a href="/archives/">
+        <span class="count">295</span>
+        <span class="name">文章</span>
+      </a>
+    </div>
+    <div class="item categories">
+      <a href="/categories/">
+        <span class="count">35</span>
+        <span class="name">分类</span>
+      </a>
+    </div>
+    <div class="item tags">
+      <a href="/tags/">
+        <span class="count">80</span>
+        <span class="name">标签</span>
+      </a>
+    </div>
+</nav>
+
+<div class="social">
+      <span class="exturl item github" data-url="aHR0cHM6Ly9naXRodWIuY29tL2x1aHVhZG9uZw==" title="https:&#x2F;&#x2F;github.com&#x2F;luhuadong"><i class="ic i-github"></i></span>
+      <span class="exturl item csdn" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x1X2VtYmVkZGVk" title="https:&#x2F;&#x2F;blog.csdn.net&#x2F;lu_embedded"><i class="ic i-address-card"></i></span>
+      <span class="exturl item zhihu" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9hcm1zdHJvbmcyMDE0" title="https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014"><i class="ic i-zhihu"></i></span>
+      <span class="exturl item douban" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC83MzAwNDcv" title="https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;"><i class="ic i-douban"></i></span>
+      <span class="exturl item weibo" data-url="aHR0cHM6Ly93ZWliby5jb20vdS8yMDAwMzkxOTUx" title="https:&#x2F;&#x2F;weibo.com&#x2F;u&#x2F;2000391951"><i class="ic i-weibo"></i></span>
+      <span class="exturl item email" data-url="bWFpbHRvOmx1aHVhZG9uZ0AxNjMuY29t" title="mailto:luhuadong@163.com"><i class="ic i-envelope"></i></span>
+</div>
+
+<ul class="menu">
+  
+    
+  <li class="item">
+    <a href="/" rel="section"><i class="ic i-home"></i>首页</a>
+  </li>
+
+    
+  <li class="item">
+    <a href="/about/" rel="section"><i class="ic i-user"></i>关于</a>
+  </li>
+
+        
+  <li class="item dropdown">
+      <a href="javascript:void(0);"><i class="ic i-feather"></i>文章</a>
+    <ul class="submenu">
+
+        
+  <li class="item">
+    <a href="/archives/" rel="section"><i class="ic i-list-alt"></i>归档</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/categories/" rel="section"><i class="ic i-th"></i>分类</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/tags/" rel="section"><i class="ic i-tags"></i>标签</a>
+  </li>
+
+  </ul>
+
+</ul>
+
+      </div>
+    </div>
+  </div>
+
+  <ul id="quick">
+    <li class="prev pjax">
+        <a href="/journal/2018-year-end-summary.html" rel="prev" title="上一篇"><i class="ic i-chevron-left"></i></a>
+    </li>
+    <li class="up"><i class="ic i-arrow-up"></i></li>
+    <li class="down"><i class="ic i-arrow-down"></i></li>
+    <li class="next pjax">
+        <a href="/coding/PyTK-2019-Day01.html" rel="next" title="下一篇"><i class="ic i-chevron-right"></i></a>
+    </li>
+    <li class="percent"></li>
+  </ul>
+</div>
+
+
+        </div>
+        <div class="dimmer"></div>
+      </div>
+    </main>
+    <footer id="footer">
+      <div class="inner">
+        <div class="widgets">
+          
+
+        </div>
+        <div class="status">
+  <div class="copyright">
+    
+    &copy; 2014 – 
+    <span itemprop="copyrightYear">2023</span>
+    <span class="with-love">
+      <i class="ic i-sakura rotate"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">Rudy Lo @ Freedom Blog</span>
+  </div>
+  <div class="count">
+    <span class="post-meta-item-icon">
+      <i class="ic i-chart-area"></i>
+    </span>
+    <span title="站点总字数">591k 字</span>
+
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="ic i-coffee"></i>
+    </span>
+    <span title="站点阅读时长">8:57</span>
+  </div>
+  <div class="powered-by">
+    基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
+  </div>
+</div>
+
+      </div>
+    </footer>
+  </div>
+<script data-config type="text/javascript">
+  var LOCAL = {
+    path: 'career/dont-kill-self-career.html',
+    favicon: {
+      show: "（●´3｀●）やれやれだぜ",
+      hide: "(´Д｀)大変だ！"
+    },
+    search : {
+      placeholder: "文章搜索",
+      empty: "关于 「 ${query} 」，什么也没搜到",
+      stats: "${time} ms 内找到 ${hits} 条结果"
+    },
+    valine: true,fancybox: true,
+    copyright: '复制成功，转载请遵守 <i class="ic i-creative-commons"></i>BY-NC-SA 协议。',
+    ignores : [
+      function(uri) {
+        return uri.includes('#');
+      },
+      function(uri) {
+        return new RegExp(LOCAL.path+"$").test(uri);
+      }
+    ]
   };
 </script>
-<title>大龄码农是如何把自己逼死的 | 成为自由人</title>
-  
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
-    <script>
-      if (CONFIG.hostname === location.hostname) {
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-190737867-1');
-      }
-    </script>
 
-  <script>
+<script src="https://cdn.polyfill.io/v2/polyfill.js"></script>
+
+<script src="//cdn.jsdelivr.net/combine/npm/pace-js@1.0.2/pace.min.js,npm/pjax@0.2.8/pjax.min.js,npm/whatwg-fetch@3.4.0/dist/fetch.umd.min.js,npm/animejs@3.2.0/lib/anime.min.js,npm/algoliasearch@4/dist/algoliasearch-lite.umd.js,npm/instantsearch.js@4/dist/instantsearch.production.min.js,npm/lozad@1/dist/lozad.min.js,npm/quicklink@2/dist/quicklink.umd.js"></script>
+
+<script src="/js/app.js?v=0.2.5"></script>
+
+
+  <script data-pjax>
     var _hmt = _hmt || [];
     (function() {
       var hm = document.createElement("script");
@@ -74,515 +489,6 @@
       s.parentNode.insertBefore(hm, s);
     })();
   </script>
-
-
-
-  <noscript>
-  <style>
-  body { margin-top: 2rem; }
-
-  .use-motion .menu-item,
-  .use-motion .sidebar,
-  .use-motion .post-block,
-  .use-motion .pagination,
-  .use-motion .comments,
-  .use-motion .post-header,
-  .use-motion .post-body,
-  .use-motion .collection-header {
-    visibility: visible;
-  }
-
-  .use-motion .header,
-  .use-motion .site-brand-container .toggle,
-  .use-motion .footer { opacity: initial; }
-
-  .use-motion .site-title,
-  .use-motion .site-subtitle,
-  .use-motion .custom-logo-image {
-    opacity: initial;
-    top: initial;
-  }
-
-  .use-motion .logo-line {
-    transform: scaleX(1);
-  }
-
-  .search-pop-overlay, .sidebar-nav { display: none; }
-  .sidebar-panel { display: block; }
-  </style>
-</noscript>
-
-</head>
-
-<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
-  <div class="headband"></div>
-
-  <!-- 加入APlayer音乐播放器 -->
-  <link rel="stylesheet" href="/dist/APlayer.min.css">
-  <div id="aplayer"></div>
-  <script type="text/javascript" src="/dist/APlayer.min.js"></script>
-  <script type="text/javascript" src="/dist/music.js"></script>
-
-  <main class="main">
-    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header-inner"><div class="site-brand-container">
-  <div class="site-nav-toggle">
-    <div class="toggle" aria-label="切换导航栏" role="button">
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-    </div>
-  </div>
-
-  <div class="site-meta">
-
-    <a href="/" class="brand" rel="start">
-      <i class="logo-line"></i>
-      <h1 class="site-title">成为自由人</h1>
-      <i class="logo-line"></i>
-    </a>
-      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
-      <img class="custom-logo-image" src="/images/banner_1.gif" alt="成为自由人">
-  </div>
-
-  <div class="site-nav-right">
-    <div class="toggle popup-trigger">
-        <i class="fa fa-search fa-fw fa-lg"></i>
-    </div>
-  </div>
-</div>
-
-
-
-<nav class="site-nav">
-  <ul class="main-menu menu">
-        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
-        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
-        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
-        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
-        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
-        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
-        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
-        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
-      <li class="menu-item menu-item-search">
-        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
-        </a>
-      </li>
-  </ul>
-</nav>
-
-
-
-  <div class="search-pop-overlay">
-    <div class="popup search-popup"><div class="search-header">
-  <span class="search-icon">
-    <i class="fa fa-search"></i>
-  </span>
-  <div class="search-input-container">
-    <input autocomplete="off" autocapitalize="off" maxlength="80"
-           placeholder="搜索..." spellcheck="false"
-           type="search" class="search-input">
-  </div>
-  <span class="popup-btn-close" role="button">
-    <i class="fa fa-times-circle"></i>
-  </span>
-</div>
-<div class="search-result-container no-result">
-  <div class="search-result-icon">
-    <i class="fa fa-spinner fa-pulse fa-5x"></i>
-  </div>
-</div>
-
-    </div>
-  </div>
-
-</div>
-        
-  
-  <div class="toggle sidebar-toggle" role="button">
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-  </div>
-
-  <aside class="sidebar">
-
-    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
-      <ul class="sidebar-nav">
-        <li class="sidebar-nav-toc">
-          文章目录
-        </li>
-        <li class="sidebar-nav-overview">
-          站点概览
-        </li>
-      </ul>
-
-      <div class="sidebar-panel-container">
-        <!--noindex-->
-        <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%BC%95%E5%AD%90"><span class="nav-number">1.</span> <span class="nav-text">引子</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%A9%BA%E7%AA%97%E6%9C%9F%E5%8F%98%E6%88%90%E7%A9%BA%E7%99%BD%E6%9C%9F"><span class="nav-number">2.</span> <span class="nav-text">空窗期变成空白期</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%8E%A7%E5%88%B6%E4%B8%8D%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E6%83%85%E7%BB%AA"><span class="nav-number">3.</span> <span class="nav-text">控制不了自己的情绪</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%81%87%E5%88%B0%E9%97%AE%E9%A2%98%E5%88%B0%E5%A4%84%E5%96%8A%E6%95%91%E5%91%BD"><span class="nav-number">4.</span> <span class="nav-text">遇到问题到处喊救命</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%8B%92%E7%BB%9D%E4%B8%8E%E5%B7%A5%E4%BD%9C%E6%97%A0%E5%85%B3%E7%9A%84%E7%9F%A5%E8%AF%86"><span class="nav-number">5.</span> <span class="nav-text">拒绝与工作无关的知识</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%97%A5%E5%A4%8D%E4%B8%80%E6%97%A5%E5%9C%B0%E9%87%8D%E5%A4%8D%E5%B7%A5%E4%BD%9C"><span class="nav-number">6.</span> <span class="nav-text">日复一日地重复工作</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%80%BB%E7%BB%93"><span class="nav-number">7.</span> <span class="nav-text">总结</span></a></li></ol></div>
-        </div>
-        <!--/noindex-->
-
-        <div class="site-overview-wrap sidebar-panel">
-          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
-      src="/images/lu_avatar_04.jpeg">
-  <p class="site-author-name" itemprop="name">Rudy Lo</p>
-  <div class="site-description" itemprop="description">阿基米东的网络日志</div>
-</div>
-<div class="site-state-wrap site-overview-item animated">
-  <nav class="site-state">
-      <div class="site-state-item site-state-posts">
-          <a href="/archives/">
-        
-          <span class="site-state-item-count">295</span>
-          <span class="site-state-item-name">日志</span>
-        </a>
-      </div>
-      <div class="site-state-item site-state-categories">
-            <a href="/categories/">
-          
-        <span class="site-state-item-count">35</span>
-        <span class="site-state-item-name">分类</span></a>
-      </div>
-      <div class="site-state-item site-state-tags">
-            <a href="/tags/">
-          
-        <span class="site-state-item-count">80</span>
-        <span class="site-state-item-name">标签</span></a>
-      </div>
-  </nav>
-</div>
-  <div class="links-of-author site-overview-item animated">
-      <span class="links-of-author-item">
-        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://gitee.com/luhuadong" title="Gitee → https:&#x2F;&#x2F;gitee.com&#x2F;luhuadong" rel="noopener" target="_blank">Gitee</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.douban.com/group/730047/" title="豆瓣 → https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;" rel="noopener" target="_blank">豆瓣</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://zerotogether.net/" title="零废弃部落 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零废弃部落</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
-      </span>
-  </div>
-  <div class="cc-license site-overview-item animated" itemprop="license">
-    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
-  </div>
-
-
-
-        </div>
-      </div>
-    </div>
-  </aside>
-  <div class="sidebar-dimmer"></div>
-
-
-    </header>
-
-    
-  <div class="back-to-top" role="button">
-    <i class="fa fa-arrow-up"></i>
-    <span>0%</span>
-  </div>
-
-<noscript>
-  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
-</noscript>
-
-
-    <div class="main-inner post posts-expand">
-
-
-  
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/career/dont-kill-self-career.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
-          大龄码农是如何把自己逼死的
-        </h1>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2019-01-10 18:11:46" itemprop="dateCreated datePublished" datetime="2019-01-10T18:11:46+08:00">2019-01-10</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E6%89%93%E5%B7%A5%E4%BA%BA/" itemprop="url" rel="index"><span itemprop="name">了不起的打工人</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-        <h2 id="引子"><a href="#引子" class="headerlink" title="引子"></a>引子</h2><p>小C由于学习成绩不好，高中毕业没有考上大学，找了一份业务员的工作匆匆开始了职业生涯。混了两年，业绩一直上不去，在家人的建议下，去了一家高职学习物流管理。两年后，小C顺利毕业，在当地一家物流公司当叉车司机。几个月后，小C觉得这份工作太苦太累、收入低，平时喜欢玩网游的他听说做游戏很赚钱，所以暗下决心要转行。很快，小C辞职了，并说服家人让他到一家培训机构学习游戏开发。本来计划的学习时间是一年，但小C的基础不扎实，没能通过考核，经过沟通，培训机构同意让小C免费再学一年。很快一年又过去了，由于小C缺少练习和思考，虽然勉强通过考核，但仍然找不到他想象中的游戏开发工作。几个月后，在培训老师的推荐下，去了一家小公司做 APP 开发。由于是小公司，而且大多是外包业务，工作节奏快，小C屡次不能按时完成任务，并且在一次会议上和上司吵架了。于是，小C被解雇了，得重新找工作，但过了半年还是屡屡碰壁。后来迫不得已，在家人的推荐下，去了一家餐厅上班。现在已经在那里工作两年了，做过服务员，也做过帮厨。最近开了分店，老板决定让他当个轮岗店长，所以小C特意请我吃饭庆祝一下。我问小C：“现在还想做游戏开发吗”？小C笑了一下说：“早就不想了，不过游戏还得玩”！</p>
-<p>小C是我的小学同学，小时候他比我聪明多了，兵乓球也打得好，但是他已经好久没有打过乒乓球了。小C说做餐饮要起早摸黑、忙里忙外的，每天下班就已经很累了，再玩两局游戏就差不多要睡觉了，没时间做别的事情了，当然也没有对象啦。唉，这种状态也不知道什么时候才到头？</p>
-<p>写到这里，小C离高中毕业已经八年时间了，但断断续续的状态，以及行业的转换，使得他所积累的工作经验大打折扣。</p>
-<p>说这个故事的目的是为了引出核心观点：<strong>工作经历 ≠ 工作经验</strong>。“经历” 需要经过总结、归纳和升华，才能有效转化为 “经验”。</p>
-<hr>
-<p>结合工作中的一些见闻，我整理了下面几点，看看大龄码农是如何一步步把自己逼死的。</p>
-<h2 id="空窗期变成空白期"><a href="#空窗期变成空白期" class="headerlink" title="空窗期变成空白期"></a>空窗期变成空白期</h2><p>由于各种原因，很多程序员难免会频繁跳槽。比如由于加班太多想放空自己，于是辞职去旅游个大半年。又比如公司效益不好，被解雇了。不管是什么原因，你不应该让空窗期变成空白期！</p>
-<p>你可以出去旅游，长长见识，收获一堆风土人情；你可以出去创业，辛勤付出，收获拼搏奋斗的失败经验；你可以返校读书，回炉再造，培养另一种能力；你也可以躲起来，磨刀霍霍，为下一份工作做准备。</p>
-<p>但是如果处于空窗期的你无所事事，没有计划，没有安排，每天玩游戏，玩到累了就睡觉。你很难期望天上会掉一个比之前更好的馅饼下来。也许很多事情无能为力，但是做总比不做好。</p>
-<h2 id="控制不了自己的情绪"><a href="#控制不了自己的情绪" class="headerlink" title="控制不了自己的情绪"></a>控制不了自己的情绪</h2><p>很多程序员是闷骚、大男人主义的直男，大大咧咧、不修边幅，不仅不注重外在，也不注重内在修养。作为一名程序员，保持情绪稳定很重要，你要学会与同事、上司、产品经理、项目经理、甲方、乙方沟通。如果你还想在这家公司待着，千万不要和你的同事、上司吵架，因为你们需要长期合作，你们见面的时间比家人还多。</p>
-<p>有些程序员不注重表达，常常祸从口出，不和谐的关系往往会导致项目失败，导致不能升职加薪，甚至被辞退。所以要做情绪的主人，从根本上解决问题。</p>
-<h2 id="遇到问题到处喊救命"><a href="#遇到问题到处喊救命" class="headerlink" title="遇到问题到处喊救命"></a>遇到问题到处喊救命</h2><p>有些程序员，一旦出现问题，比如程序编译不通过、运行时出错了、挂了。第一反应就是找人帮忙，甚至很多时候他们连打印信息和日志都没仔细看过，有良心一点的程序员可能会调试一下再寻求帮助。他们也许会直接把问题发在内部系统或者交给测试部门，也许会拷贝一大串代码和信息发到各个技术交流群，期望高手给他指点一条明路，帮他解决这个问题。</p>
-<p>长期以来，懒惰和依赖一定会使自己的技术水平提升很慢，甚至倒退。所以要感恩每一次遇到的 Bug，学会独立思考，培养独立分析问题、解决问题的能力。在你把问题的来龙去脉整理清楚的过程中，自然就会获得经验。而不是一而再再而三地问别人。</p>
-<p>当然，解决问题的办法有很多种，寻求高手指点有时候确实能快速解决问题。但遇到没见过的问题，你应该尽可能自己摸索一遍，即便高手已经帮你解决掉了，否则很快你就会发现你已经沦落为一个执行者，而不是创造者了。</p>
-<p>所以遇到问题就要绞尽脑汁地思考、充分利用搜索引擎、查阅资料、尝试调试，如果问题依然没有解决，应该整理好思路和调试流程，再简明扼要、恰到好处地向高手提问，向技术交流群提问。</p>
-<h2 id="拒绝与工作无关的知识"><a href="#拒绝与工作无关的知识" class="headerlink" title="拒绝与工作无关的知识"></a>拒绝与工作无关的知识</h2><p>很多程序员，与他目前工作没有关系的知识毫不关心，说好听点是 “专注”，说不好听是 “固执”。比如让他搞个 Android App，他很快给你写完了业务逻辑代码，但是界面丑得不堪入目，他说他是程序员只负责写代码，界面美不美观跟他没关系。比如有个搞单片机开发的程序员，你给他讲 Linux，他就会找各种理由避而远之，说 “我的工作不涉及这个，为什么要学？</p>
-<p>如果你是生活在上世纪的程序员，这种作风可能还行得通，但是在21世纪就不行了。你如果还是 “事不关己高高挂起”，就难以在扩宽知识的广度，每天盯着自己的几行代码，慢慢地变成井底之蛙。</p>
-<p>所以我提倡大家做个斜杠青年，做个专注的 T 型人才。有特定领域的深度，也有方方面面的广度。你的工作可能只要求你写 Linux 的 Qt 应用，但如果你弄清 Linux 系统层面的知识，拥有 Web 前后端的知识，你一定会开发出更酷的软件。</p>
-<p>同时，不要忘了要学会感受生命的美好，热爱生活。培养一两个爱好，并坚持下去，扩宽交际圈子，不要老和程序员抬杠。如果不这样的话，等你明白过来你一定会很痛苦。</p>
-<h2 id="日复一日地重复工作"><a href="#日复一日地重复工作" class="headerlink" title="日复一日地重复工作"></a>日复一日地重复工作</h2><p>一个工程师，第一天上班的任务就是做开关检测，接触了各种各样的开关，一弄就好几年，成为了公司里唯一的 “开关专家”。这个过程中，他会写一些简单的单片机程序测试，但一直没有在系统层面深入研究。于是，成功地做了一颗兢兢业业的螺丝钉，而且只钉一种木头。</p>
-<p>你不是20年工作经验，而是1年工作经验反复用了20年。</p>
-<p>这样的话，大龄码农不具备足够的竞争力，很可能就会被一个2年工作经验的年轻人替代掉了。</p>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p><strong>编程能力很重要，但更重要的是持续学习能力和职场软实力！</strong></p>
-<p>看不懂这些，大龄码农只能怀才不遇，抱怨领导、抱怨社会，最终伤害的是自己和家人。</p>
-
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-          <div class="reward-container">
-  <div>您的鼓励是我最大的动力！</div>
-  <button onclick="document.querySelector('.post-reward').classList.toggle('active');">
-    赞赏
-  </button>
-  <div class="post-reward">
-      <div>
-        <img src="/images/wechatpay.jpeg" alt="Rudy Lo 微信">
-        <span>微信</span>
-      </div>
-      <div>
-        <img src="/images/alipay.jpeg" alt="Rudy Lo 支付宝">
-        <span>支付宝</span>
-      </div>
-
-  </div>
-</div>
-
-          
-
-<div class="post-copyright">
-<ul>
-  <li class="post-copyright-author">
-      <strong>本文作者： </strong>Rudy Lo
-  </li>
-  <li class="post-copyright-link">
-      <strong>本文链接：</strong>
-      <a href="https://luhuadong.com/career/dont-kill-self-career.html" title="大龄码农是如何把自己逼死的">https://luhuadong.com/career/dont-kill-self-career.html</a>
-  </li>
-  <li class="post-copyright-license">
-    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
-  </li>
-</ul>
-</div>
-
-          <div class="post-tags">
-              <a href="/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/" rel="tag"># 程序员</a>
-              <a href="/tags/%E8%81%8C%E5%9C%BA/" rel="tag"># 职场</a>
-          </div>
-
-        
-
-          <div class="post-nav">
-            <div class="post-nav-item">
-                <a href="/journal/2018-year-end-summary.html" rel="prev" title="我的2018——上懂机器学习，下懂微信建群">
-                  <i class="fa fa-chevron-left"></i> 我的2018——上懂机器学习，下懂微信建群
-                </a>
-            </div>
-            <div class="post-nav-item">
-                <a href="/coding/PyTK-2019-Day01.html" rel="next" title="【教孩子学编程】第1天 和电脑做朋友">
-                  【教孩子学编程】第1天 和电脑做朋友 <i class="fa fa-chevron-right"></i>
-                </a>
-            </div>
-          </div>
-    </footer>
-  </article>
-</div>
-
-
-
-
-
-
-    
-  
-  <div class="comments">
-    <script src="https://giscus.app/client.js"
-        data-repo="luhuadong/blog" 
-        data-repo-id="MDEwOlJlcG9zaXRvcnkzNDEzOTU5NzQ=" 
-        data-category="General"
-        data-category-id="DIC_kwDOFFlKBs4CSTqq"
-        data-mapping="pathname" 
-        data-reactions-enabled="1" 
-        data-emit-metadata="1" 
-        data-theme="light"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        data-input-position="bottom"
-        data-loading="lazy"
-        async>
-    </script>
-  </div>
-  
-  
-
-<script>
-  window.addEventListener('tabs:register', () => {
-    let { activeClass } = CONFIG.comments;
-    if (CONFIG.comments.storage) {
-      activeClass = localStorage.getItem('comments_active') || activeClass;
-    }
-    if (activeClass) {
-      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
-      if (activeTab) {
-        activeTab.click();
-      }
-    }
-  });
-  if (CONFIG.comments.storage) {
-    window.addEventListener('tabs:click', event => {
-      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
-      const commentClass = event.target.classList[1];
-      localStorage.setItem('comments_active', commentClass);
-    });
-  }
-</script>
-</div>
-  </main>
-
-  <footer class="footer">
-    <div class="footer-inner">
-
-
-<div class="copyright">
-  &copy; 
-  <span itemprop="copyrightYear">2023</span>
-  <span class="with-love">
-    <i class="fa fa-heart"></i>
-  </span>
-  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
-</div>
-  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
-  </div>
-
-    </div>
-  </footer>
-
-  
-  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
-
-  
-<script src="/js/local-search.js"></script>
-
-
-
-
-
-
-  
-
-
-
-
-  <script>
-  if (typeof MathJax === 'undefined') {
-    window.MathJax = {
-      tex: {
-        inlineMath: {'[+]': [['$', '$']]},
-        tags: 'none'
-      },
-      options: {
-        renderActions: {
-          insertedScript: [200, () => {
-            document.querySelectorAll('mjx-container').forEach(node => {
-              const target = node.parentNode;
-              if (target.nodeName.toLowerCase() === 'li') {
-                target.parentNode.classList.add('has-jax');
-              }
-            });
-          }, '', false]
-        }
-      }
-    };
-    const script = document.createElement('script');
-    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
-    script.defer = true;
-    document.head.appendChild(script);
-  } else {
-    MathJax.startup.document.state(0);
-    MathJax.typesetClear();
-    MathJax.texReset();
-    MathJax.typeset();
-  }
-</script>
-
 
 
 </body>

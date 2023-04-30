@@ -1,0 +1,75 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "成为自由人 • All posts by \"纪录片\" tag",
+    "description": "阿基米东的网络日志",
+    "home_page_url": "https://luhuadong.com",
+    "items": [
+        {
+            "id": "https://luhuadong.com/movies/who-killed-the-electric-car.html",
+            "url": "https://luhuadong.com/movies/who-killed-the-electric-car.html",
+            "title": "【纪录片】谁消灭了电动汽车（Who Killed the Electric Car?）",
+            "date_published": "2021-11-01T04:52:47.000Z",
+            "content_html": "<iframe src=\"//player.bilibili.com/player.html?aid=289405784&bvid=BV1Wf4y167N8&cid=304238328&page=1&high_quality=1&danmaku=0\" allowfullscreen=\"allowfullscreen\" width=\"100%\" height=\"500\" scrolling=\"no\" frameborder=\"0\" sandbox=\"allow-top-navigation allow-same-origin allow-forms allow-scripts\"></iframe>\n<p>这是一部 2006 年上映的纪录片，该片探讨了电池电动车，特别是通用汽车的 EV1 电动车的产生、有限商业化及随后的消亡。剖析电动汽车在该时代死去的原因，将责任不仅归咎于消费者和汽车生产商，还归咎于布什政府和石油业。</p>\n",
+            "tags": [
+                "纪录片"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/movies/revenge-of-the-electric-car.html",
+            "url": "https://luhuadong.com/movies/revenge-of-the-electric-car.html",
+            "title": "【纪录片】电动汽车的复仇（Revenge of the Electric Car）",
+            "date_published": "2021-11-01T03:41:36.000Z",
+            "content_html": "<iframe src=\"//player.bilibili.com/player.html?aid=414110662&bvid=BV1aV411z7VL&cid=218525092&page=1&high_quality=1&danmaku=0\" allowfullscreen=\"allowfullscreen\" width=\"100%\" height=\"500\" scrolling=\"no\" frameborder=\"0\" sandbox=\"allow-top-navigation allow-same-origin allow-forms allow-scripts\"></iframe>\n<p>这部 2011 年拍摄的纪录片讲述了特斯拉（Tesla Motors）如何历尽艰辛挺过金融危机，深入探讨全球电动汽车复苏的景象。</p>\n",
+            "tags": [
+                "纪录片"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/movies/The-Story-of-Aaron-Swartz.html",
+            "url": "https://luhuadong.com/movies/The-Story-of-Aaron-Swartz.html",
+            "title": "【纪录片】互联网之子（Aaron Swartz）",
+            "date_published": "2021-03-05T17:43:41.000Z",
+            "content_html": "<iframe src=\"//player.bilibili.com/player.html?aid=16549975&bvid=BV1rx411V75r&cid=26994578&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>\n",
+            "tags": [
+                "互联网",
+                "纪录片",
+                "自由"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/movies/revolution-os.html",
+            "url": "https://luhuadong.com/movies/revolution-os.html",
+            "title": "【纪录片】操作系统革命（Revolution OS）",
+            "date_published": "2020-06-17T06:43:59.000Z",
+            "content_html": "<iframe src=\"//player.bilibili.com/player.html?aid=796140504&bvid=BV1iC4y187nT&cid=235560964&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>\n<p>非常经典的有关自由软件运动的纪录片</p>\n<p><span class=\"exturl\" data-url=\"aHR0cDovL3d3dy5yZXZvbHV0aW9uLW9zLmNvbQ==\">http://www.revolution-os.com</span></p>\n",
+            "tags": [
+                "开源",
+                "纪录片",
+                "自由"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/movies/patent-absurdity.html",
+            "url": "https://luhuadong.com/movies/patent-absurdity.html",
+            "title": "【纪录片】软件专利的荒谬性（Patent Absurdity）",
+            "date_published": "2020-04-05T06:36:34.000Z",
+            "content_html": "<iframe src=\"//player.bilibili.com/player.html?aid=15221360&bvid=BV1sx411u7qy&cid=24774214&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>\n<p>官网：<span class=\"exturl\" data-url=\"aHR0cDovL3BhdGVudGFic3VyZGl0eS5jb20vd2F0Y2guaHRtbA==\">http://patentabsurdity.com/watch.html</span></p>\n<ul>\n<li>导演、拍摄、编辑：Luca Lucarini</li>\n<li>制片人：Jamie King</li>\n<li>动画制作：Christopher Allan Webber</li>\n<li>混音：Matt Smith</li>\n<li>由自由软件基金会赞助</li>\n<li>简体中文字幕制作者：阮一峰</li>\n<li>本片讲述了软件专利案件以及软件专利对软件开发者和整体经济的伤害</li>\n<li>本片的官方网站：<span class=\"exturl\" data-url=\"aHR0cDovL3BhdGVudGFic3VyZGl0eS5jb20=\">http://patentabsurdity.com</span></li>\n<li>本片以及本片中文字幕的使用遵循以下协议：<span class=\"exturl\" data-url=\"aHR0cDovL2NyZWF0aXZlY29tbW9ucw==\">http://creativecommons</span>.</li>\n</ul>\n",
+            "tags": [
+                "开源",
+                "纪录片",
+                "自由"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/movies/code-rush.html",
+            "url": "https://luhuadong.com/movies/code-rush.html",
+            "title": "【纪录片】代码奔腾（Code Rush）",
+            "date_published": "2020-02-03T06:45:49.000Z",
+            "content_html": "<p>《Code Rush》是 David Winton 导演于 1998 年至 2000 年间拍摄的纪录片，记录了硅谷的 Netscape 工程师们将浏览器源代码开源，成立 Mozilla 项目的经历；同时 Netscape 也正经历被 AOL 并购的过程。本片描绘了 Netscape 的工程师们，牺牲日常生活与家庭，努力防止他们的公司倒闭的经历。</p>\n<iframe src=\"//player.bilibili.com/player.html?aid=15989846&bvid=BV1rx411E7oW&cid=26090372&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>\n<blockquote>\n<p>从 1998 年 3 月到 1999 年 4 月，一个独立纪录片摄制组跟随着网景公司的一个软件工程师团队，记录了他们公司和互联网历史上的分水岭。</p>\n</blockquote>\n<p>这部纪录片详实地记录了软件工程师的生活、对写代码的热情与执着、硅谷的淘金梦、投资银行家的贪婪，以及 2000 年当时尚未破灭的互联网泡沫。虽然我们没有经历那个年代，哪怕只是过去了 20 多年，对我们来说却十分陌生。强烈推荐大家观看该影片，也许能激起你对科技行业的热情，成为这个时代的爆肝工程师。</p>\n",
+            "tags": [
+                "互联网",
+                "纪录片"
+            ]
+        }
+    ]
+}

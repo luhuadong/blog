@@ -1,75 +1,507 @@
+
+
+
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
-<meta name="theme-color" content="#222">
-<meta name="generator" content="Hexo 5.0.2">
+<meta name="theme-color" content="#FFF">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="icon" type="image/ico" sizes="32x32" href="/images/favicon.ico">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta http-equiv="Cache-Control" content="no-siteapp">
 
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/lu_avatar_01_240px.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/lu_avatar_01_120px.png">
-  <link rel="mask-icon" href="/images/lu_avatar_01_240px.png" color="#222">
+<link rel="alternate" type="application/rss+xml" title="成为自由人" href="https://luhuadong.com/rss.xml" />
+<link rel="alternate" type="application/atom+xml" title="成为自由人" href="https://luhuadong.com/atom.xml" />
+<link rel="alternate" type="application/json" title="成为自由人" href="https://luhuadong.com/feed.json" />
 
-<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Mulish:300,300italic,400,400italic,700,700italic%7CFredericka%20the%20Great:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20JP:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20SC:300,300italic,400,400italic,700,700italic%7CInconsolata:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
 
+<link rel="stylesheet" href="/css/app.css?v=0.2.5">
 
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/css/all.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3396347538857110" crossorigin="anonymous"></script>
-
-<script class="hexo-configurations">
-    var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"luhuadong.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.1","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
-  </script>
-<meta name="description" content="随着年龄的增长，感觉越来越多事情让人分心，学习效率也大不如前。在技术更新迭代如此迅速的今天，拥有快速学习能力，将大大提升竞争力，完成别人完成不了的任务，成为“十倍”程序员。  下面对《软技能——代码之外的生存指南》一书总结的“十步学习法” —— 学习-实践-掌握-教授（Learning, Doing, Learning and Teaching, LDLT）进行摘抄，希望自己能时常翻阅，加深理解，">
-<meta property="og:type" content="article">
-<meta property="og:title" content="十步学习法（学习-实践-掌握-教授）">
-<meta property="og:url" content="https://luhuadong.com/reading/LDLT.html">
-<meta property="og:site_name" content="成为自由人">
-<meta property="og:description" content="随着年龄的增长，感觉越来越多事情让人分心，学习效率也大不如前。在技术更新迭代如此迅速的今天，拥有快速学习能力，将大大提升竞争力，完成别人完成不了的任务，成为“十倍”程序员。  下面对《软技能——代码之外的生存指南》一书总结的“十步学习法” —— 学习-实践-掌握-教授（Learning, Doing, Learning and Teaching, LDLT）进行摘抄，希望自己能时常翻阅，加深理解，">
-<meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://luhuadong.com/images/reading/%E5%8D%81%E6%AD%A5%E5%AD%A6%E4%B9%A0%E6%B3%95.png">
-<meta property="og:image" content="https://luhuadong.com/images/reading/xiao-lan-jia-you.jpg">
-<meta property="og:image" content="https://luhuadong.com/images/reading/xiao-lan-yeah.png">
-<meta property="article:published_time" content="2022-05-16T16:05:35.000Z">
-<meta property="article:modified_time" content="2023-03-24T17:27:54.609Z">
-<meta property="article:author" content="Rudy Lo">
-<meta property="article:tag" content="读书笔记">
-<meta property="article:tag" content="学习">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://luhuadong.com/images/reading/%E5%8D%81%E6%AD%A5%E5%AD%A6%E4%B9%A0%E6%B3%95.png">
+  
+  <meta name="keywords" content="读书笔记,学习" />
 
 
 <link rel="canonical" href="https://luhuadong.com/reading/LDLT.html">
 
 
-<script class="page-configurations">
-  // https://hexo.io/docs/variables.html
-  CONFIG.page = {
-    sidebar: "",
-    isHome : false,
-    isPost : true,
-    lang   : 'zh-CN'
+
+  <title>
+十步学习法（学习-实践-掌握-教授） - 一起读书呀 |
+Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</title>
+<meta name="generator" content="Hexo 5.4.2"></head>
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div id="loading">
+    <div class="cat">
+      <div class="body"></div>
+      <div class="head">
+        <div class="face"></div>
+      </div>
+      <div class="foot">
+        <div class="tummy-end"></div>
+        <div class="bottom"></div>
+        <div class="legs left"></div>
+        <div class="legs right"></div>
+      </div>
+      <div class="paw">
+        <div class="hands left"></div>
+        <div class="hands right"></div>
+      </div>
+    </div>
+  </div>
+  <div id="container">
+    <header id="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="inner">
+        <div id="brand">
+          <div class="pjax">
+          
+  <h1 itemprop="name headline">十步学习法（学习-实践-掌握-教授）
+  </h1>
+  
+<div class="meta">
+  <span class="item" title="创建时间：2022-05-17 00:05:35">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <span class="text">发表于</span>
+    <time itemprop="dateCreated datePublished" datetime="2022-05-17T00:05:35+08:00">2022-05-17</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span class="text">本文字数</span>
+    <span>2k</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span class="text">阅读时长</span>
+    <span>2 分钟</span>
+  </span>
+</div>
+
+
+          </div>
+        </div>
+        <nav id="nav">
+  <div class="inner">
+    <div class="toggle">
+      <div class="lines" aria-label="切换导航栏">
+        <span class="line"></span>
+        <span class="line"></span>
+        <span class="line"></span>
+      </div>
+    </div>
+    <ul class="menu">
+      <li class="item title"><a href="/" rel="start">Freedom Blog</a></li>
+    </ul>
+    <ul class="right">
+      <li class="item theme">
+        <i class="ic i-sun"></i>
+      </li>
+      <li class="item search">
+        <i class="ic i-search"></i>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+      </div>
+      <div id="imgs" class="pjax">
+        <ul>
+          <li class="item" data-background-image="http://static.luhuadong.com/EuropeFromISS.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/EdaleValley.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/MPPUnesco.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/QingMing2023.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/OrcaNorway.jpg"></li>
+          <li class="item" data-background-image="http://static.luhuadong.com/CrestedButteEclispe.jpg"></li>
+        </ul>
+      </div>
+    </header>
+    <div id="waves">
+      <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+        <defs>
+          <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+        </defs>
+        <g class="parallax">
+          <use xlink:href="#gentle-wave" x="48" y="0" />
+          <use xlink:href="#gentle-wave" x="48" y="3" />
+          <use xlink:href="#gentle-wave" x="48" y="5" />
+          <use xlink:href="#gentle-wave" x="48" y="7" />
+        </g>
+      </svg>
+    </div>
+    <main>
+      <div class="inner">
+        <div id="main" class="pjax">
+          
+  <div class="article wrap">
+    
+<div class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+<i class="ic i-home"></i>
+<span><a href="/">首页</a></span><i class="ic i-angle-right"></i>
+<span  class="current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/categories/reading/" itemprop="item" rel="index" title="分类于 一起读书呀"><span itemprop="name">一起读书呀</span></a>
+<meta itemprop="position" content="1" /></span>
+</div>
+
+    <article itemscope itemtype="http://schema.org/Article" class="post block" lang="zh-CN">
+  <link itemprop="mainEntityOfPage" href="https://luhuadong.com/reading/LDLT.html">
+
+  <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <meta itemprop="image" content="/images/lu_20221221.jpg">
+    <meta itemprop="name" content="Rudy Lo">
+    <meta itemprop="description" content="生活的理想，就是为了理想的生活, 阿基米东的网络日志">
+  </span>
+
+  <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+    <meta itemprop="name" content="成为自由人">
+  </span>
+
+  <div class="body md" itemprop="articleBody">
+    
+
+    <p>随着年龄的增长，感觉越来越多事情让人分心，学习效率也大不如前。在技术更新迭代如此迅速的今天，拥有快速学习能力，将大大提升竞争力，完成别人完成不了的任务，成为 “十倍” 程序员。</p>
+<p>下面对《<a href="https://luhuadong.com/reading/soft-skills.html">软技能 —— 代码之外的生存指南</a>》一书总结的 “十步学习法” —— 学习 - 实践 - 掌握 - 教授（Learning, Doing, Learning and Teaching, LDLT）进行摘抄，希望自己能时常翻阅，加深理解，并坚持实践！</p>
+<p><img data-src="/images/reading/%E5%8D%81%E6%AD%A5%E5%AD%A6%E4%B9%A0%E6%B3%95.png" alt=""></p>
+<h2 id="第一步到第六步概览全局设定目标搜寻资源创建计划"><a class="markdownIt-Anchor" href="#第一步到第六步概览全局设定目标搜寻资源创建计划">#</a> 第一步到第六步：概览全局，设定目标，搜寻资源，创建计划</h2>
+<blockquote>
+<p>集中精力完成足够的前期调研，确保自己明确知道学习的内容，以及如何确定自己达成目标，挑选最好的资源来帮助自己实现目标，制定学习计划。</p>
+</blockquote>
+<h3 id="第一步了解全局"><a class="markdownIt-Anchor" href="#第一步了解全局">#</a> 第一步：了解全局</h3>
+<p>首先对需要学习的课题进行一些基础性研究，对该主题有一个全局性的了解。</p>
+<p>你可以先在网上搜索与该课题相关的内容，或找一本相关的书籍，粗略浏览以下内容。注意，这一步的目的不是要掌握该主题，所以不要在这一步上花费太多时间。</p>
+<h3 id="第二步确定范围"><a class="markdownIt-Anchor" href="#第二步确定范围">#</a> 第二步：确定范围</h3>
+<p>根据自身的需求，决定学习的重点和学习的范围，在此阶段容易犯的一个错误就是：试图解决太大的问题而让自己陷入困境中。</p>
+<p>结合从第一步中获得的信息，明确自己的学习范围，尽可能地保持专注；同时也需要阐述自己的学习理由来帮助自己界定学习的范围。学习的范围务必大小适当，既能符合学习理由，又能符合自己的时间限制。</p>
+<h3 id="第三步定义目标"><a class="markdownIt-Anchor" href="#第三步定义目标">#</a> 第三步：定义目标</h3>
+<p>确定自己的学习目标，明确学习完成后应该达成的效果，根据简明清晰的目标，勾勒出勤奋学习后成功的图景。成功的标准应该是具体的，无二义性的。例如，了解某个设备的所有功能、构建出一个小应用程序、制作出一个网页。</p>
+<h3 id="第四步寻找资源"><a class="markdownIt-Anchor" href="#第四步寻找资源">#</a> 第四步：寻找资源</h3>
+<p>尽可能的尝试多种渠道和方式获取尽可能多的和主题相关资源，该阶段无需考虑这些资源的质量（类似于头脑风暴）。</p>
+<p>信息来源可以是图书、博客文章、在线视频、专家、播客、源代码、示例项目、在线文档…</p>
+<h3 id="第五步创建学习计划"><a class="markdownIt-Anchor" href="#第五步创建学习计划">#</a> 第五步：创建学习计划</h3>
+<p>需要在最短的时间内找到正确的学习路径，并找到和到达路径中重要的地标。打造自己的学习计划，一个好的方法是观察别人是如何教授你感兴趣的主题的（例如书籍目录、培训大纲）。当然，更重要的是你要根据自己的目标和时间进行计划，而不是照搬别人的计划。</p>
+<p>通览收集到的全部资源，就可以对自己需要的那些内容以及如何组织这些内容有更清晰的认识。</p>
+<h3 id="第六步筛选资源"><a class="markdownIt-Anchor" href="#第六步筛选资源">#</a> 第六步：筛选资源</h3>
+<p>对找到的资源进行筛选，挑选出最有价值的几项来帮助你实现自己的目标。你不用研究所有资料，因为很多数据或内容都是冗余的，只需要选出其中比较优质的部分资源进行学习即可。例如挑选书籍，你可以着重看看其他读者对它的评论，从中选择最好的一两本书。</p>
+<p>现在，你已经完成了第一阶段的所有工作，准备进入第二阶段开始学习吧！</p>
+<p><img data-src="/images/reading/xiao-lan-jia-you.jpg" alt=""></p>
+<h2 id="第七步到第十步循环往复"><a class="markdownIt-Anchor" href="#第七步到第十步循环往复">#</a> 第七步到第十步：循环往复</h2>
+<blockquote>
+<p>通过 “学习 — 实践 — 掌握 — 教授”（LDLT）的方式来真正领悟知识。通过掌握恰到好处的基础知识开始，通过动手实践来学习，同时通过自我探索收集问题。之后，掌握了足够多的有用知识。最后，将自己所学教给他人，以此来弥补自己在学习过程中的不足，同时通过深入思考巩固知识。</p>
+</blockquote>
+<h3 id="第七步开始学习浅尝辄止"><a class="markdownIt-Anchor" href="#第七步开始学习浅尝辄止">#</a> 第七步：开始学习，浅尝辄止</h3>
+<p>专注于掌握自己所需，能在下一步动手操作的最小量的知识。</p>
+<p>我们很容易犯的两类错误：第一类是在知之不多的情况下就盲目开始（即行动太快）；第二类是在行动之前准备过多（即行动太慢）。因此需要找到一个平衡点，使得学习效果达到最佳。</p>
+<h3 id="第八步动手操作边玩边学"><a class="markdownIt-Anchor" href="#第八步动手操作边玩边学">#</a> 第八步：动手操作，边玩边学</h3>
+<p>在掌握操作动手最小量的知识的情况下亲自操作和亲身体验。通过在探索和实践过程中，会产生的各种问题。这些问题会引导着你走向真正重要的方向。当回头寻找问题的答案时，不只是这些问题迎刃而解，而且你记得的东西比你学习的东西要多得多，因为你所学到的都是对你很重要的东西。</p>
+<blockquote>
+<p>把那些暂时还没有答案的问题记录下来，在下一步中就会有机会找出这些问题的答案。</p>
+</blockquote>
+<h3 id="第九步全面掌握学以致用"><a class="markdownIt-Anchor" href="#第九步全面掌握学以致用">#</a> 第九步：全面掌握，学以致用</h3>
+<p>好奇心是学习特别是自学的重要组成部分。为了有效利用自己选择的资料，为了上一步生产的问题寻求答案（带着问题学习）。不用担心回头再去操作，付出更多，因为这不仅能够让你找到问题的答案，也能让你学习新东西。给自己足够多的时间去深入理解自己的主题，你可以阅读，可以实验，可以观察，也可以操作。试着把自己正在学习的内容与最终目标关联起来。</p>
+<h3 id="第十步乐为人师融会贯通"><a class="markdownIt-Anchor" href="#第十步乐为人师融会贯通">#</a> 第十步：乐为人师，融会贯通</h3>
+<p>要想深入掌握一门学问，并且融会贯通，那么必须要做到能够教授给别人！在这一过程中，你要切实刨析并理解自己所学的知识，将其内化到自己的思想；同时，也要用能够让他人理解的方式精心组织这些信息。</p>
+<p>在这个过程中，你会发现很多自以为明白的知识点，其实并没有你想象的那么透彻。这一过程会将那些以前自己没太明白的东西联系起来，并简化到自己的大脑中已有的信息，将它们浓缩并经常复习。</p>
+<p>几种常见的教授知识的途径：</p>
+<ul>
+<li>撰写博客文章（CSDN、GitChat、掘金）</li>
+<li>录制视频教程（上传 YouTube、B 站）</li>
+<li>发表演讲（读书会、公司培训、研讨会）</li>
+<li>举办技术沙龙（线下授课）</li>
+<li>与朋友或爱人进行对话探讨</li>
+<li>在社区论坛上回答问题</li>
+</ul>
+<p><img data-src="/images/reading/xiao-lan-yeah.png" alt=""></p>
+
+      <div class="tags">
+          <a href="/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/" rel="tag"><i class="ic i-tag"></i> 读书笔记</a>
+          <a href="/tags/%E5%AD%A6%E4%B9%A0/" rel="tag"><i class="ic i-tag"></i> 学习</a>
+      </div>
+  </div>
+
+   <footer>
+
+    <div class="meta">
+  <span class="item">
+    <span class="icon">
+      <i class="ic i-calendar-check"></i>
+    </span>
+    <span class="text">更新于</span>
+    <time title="修改时间：2023-04-30 16:10:37" itemprop="dateModified" datetime="2023-04-30T16:10:37+08:00">2023-04-30</time>
+  </span>
+  <span id="reading/LDLT.html" class="item leancloud_visitors" data-flag-title="十步学习法（学习-实践-掌握-教授）" title="阅读次数">
+      <span class="icon">
+        <i class="ic i-eye"></i>
+      </span>
+      <span class="text">阅读次数</span>
+      <span class="leancloud-visitors-count"></span>
+      <span class="text">次</span>
+  </span>
+</div>
+
+      
+<div class="reward">
+  <button><i class="ic i-heartbeat"></i> 赞赏</button>
+  <p>请我喝[茶]~(￣▽￣)~*</p>
+  <div id="qr">
+      
+      <div>
+        <img data-src="/images/wechatpay-small.jpeg" alt="Rudy Lo 微信支付">
+        <p>微信支付</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/alipay-small.jpeg" alt="Rudy Lo 支付宝">
+        <p>支付宝</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/avatar.png" alt="Rudy Lo 贝宝">
+        <p>贝宝</p>
+      </div>
+  </div>
+</div>
+
+      
+
+<div id="copyright">
+<ul>
+  <li class="author">
+    <strong>本文作者： </strong>Rudy Lo <i class="ic i-at"><em>@</em></i>成为自由人
+  </li>
+  <li class="link">
+    <strong>本文链接：</strong>
+    <a href="https://luhuadong.com/reading/LDLT.html" title="十步学习法（学习-实践-掌握-教授）">https://luhuadong.com/reading/LDLT.html</a>
+  </li>
+  <li class="license">
+    <strong>版权声明： </strong>本站所有文章除特别声明外，均采用 <span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzQuMC9kZWVkLnpo"><i class="ic i-creative-commons"><em>(CC)</em></i>BY-NC-SA</span> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+  </footer>
+
+</article>
+
+  </div>
+  
+
+<div class="post-nav">
+    <div class="item left">
+      
+
+  <a href="/management/pomodoro-technique.html" itemprop="url" rel="prev" data-background-image="http:&#x2F;&#x2F;static.luhuadong.com&#x2F;JavaBromo.jpg" title="番茄工作法，成就你的高效人生">
+  <span class="type">上一篇</span>
+  <span class="category"><i class="ic i-flag"></i> 人生管理术</span>
+  <h3>番茄工作法，成就你的高效人生</h3>
+  </a>
+
+    </div>
+    <div class="item right">
+      
+
+  <a href="/journal/jiangmengnan.html" itemprop="url" rel="next" data-background-image="http:&#x2F;&#x2F;static.luhuadong.com&#x2F;CrestedButteEclispe.jpg" title="江梦南：世界以痛吻我，我却报之以歌">
+  <span class="type">下一篇</span>
+  <span class="category"><i class="ic i-flag"></i> 不定时日记</span>
+  <h3>江梦南：世界以痛吻我，我却报之以歌</h3>
+  </a>
+
+    </div>
+</div>
+
+  
+  <div class="wrap" id="comments"></div>
+
+
+        </div>
+        <div id="sidebar">
+          
+
+<div class="inner">
+
+  <div class="panels">
+    <div class="inner">
+      <div class="contents panel pjax" data-title="文章目录">
+          <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E4%B8%80%E6%AD%A5%E5%88%B0%E7%AC%AC%E5%85%AD%E6%AD%A5%E6%A6%82%E8%A7%88%E5%85%A8%E5%B1%80%E8%AE%BE%E5%AE%9A%E7%9B%AE%E6%A0%87%E6%90%9C%E5%AF%BB%E8%B5%84%E6%BA%90%E5%88%9B%E5%BB%BA%E8%AE%A1%E5%88%92"><span class="toc-number">1.</span> <span class="toc-text"> 第一步到第六步：概览全局，设定目标，搜寻资源，创建计划</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%AC%AC%E4%B8%80%E6%AD%A5%E4%BA%86%E8%A7%A3%E5%85%A8%E5%B1%80"><span class="toc-number">1.1.</span> <span class="toc-text"> 第一步：了解全局</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%AC%AC%E4%BA%8C%E6%AD%A5%E7%A1%AE%E5%AE%9A%E8%8C%83%E5%9B%B4"><span class="toc-number">1.2.</span> <span class="toc-text"> 第二步：确定范围</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%AC%AC%E4%B8%89%E6%AD%A5%E5%AE%9A%E4%B9%89%E7%9B%AE%E6%A0%87"><span class="toc-number">1.3.</span> <span class="toc-text"> 第三步：定义目标</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%AC%AC%E5%9B%9B%E6%AD%A5%E5%AF%BB%E6%89%BE%E8%B5%84%E6%BA%90"><span class="toc-number">1.4.</span> <span class="toc-text"> 第四步：寻找资源</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%AC%AC%E4%BA%94%E6%AD%A5%E5%88%9B%E5%BB%BA%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92"><span class="toc-number">1.5.</span> <span class="toc-text"> 第五步：创建学习计划</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%AC%AC%E5%85%AD%E6%AD%A5%E7%AD%9B%E9%80%89%E8%B5%84%E6%BA%90"><span class="toc-number">1.6.</span> <span class="toc-text"> 第六步：筛选资源</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E4%B8%83%E6%AD%A5%E5%88%B0%E7%AC%AC%E5%8D%81%E6%AD%A5%E5%BE%AA%E7%8E%AF%E5%BE%80%E5%A4%8D"><span class="toc-number">2.</span> <span class="toc-text"> 第七步到第十步：循环往复</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%AC%AC%E4%B8%83%E6%AD%A5%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0%E6%B5%85%E5%B0%9D%E8%BE%84%E6%AD%A2"><span class="toc-number">2.1.</span> <span class="toc-text"> 第七步：开始学习，浅尝辄止</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%AC%AC%E5%85%AB%E6%AD%A5%E5%8A%A8%E6%89%8B%E6%93%8D%E4%BD%9C%E8%BE%B9%E7%8E%A9%E8%BE%B9%E5%AD%A6"><span class="toc-number">2.2.</span> <span class="toc-text"> 第八步：动手操作，边玩边学</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%AC%AC%E4%B9%9D%E6%AD%A5%E5%85%A8%E9%9D%A2%E6%8E%8C%E6%8F%A1%E5%AD%A6%E4%BB%A5%E8%87%B4%E7%94%A8"><span class="toc-number">2.3.</span> <span class="toc-text"> 第九步：全面掌握，学以致用</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%AC%AC%E5%8D%81%E6%AD%A5%E4%B9%90%E4%B8%BA%E4%BA%BA%E5%B8%88%E8%9E%8D%E4%BC%9A%E8%B4%AF%E9%80%9A"><span class="toc-number">2.4.</span> <span class="toc-text"> 第十步：乐为人师，融会贯通</span></a></li></ol></li></ol>
+      </div>
+      <div class="related panel pjax" data-title="系列文章">
+        <ul>
+          <li><a href="/reading/nikola-tesla-the-patron-saint-of-geeks.html" rel="bookmark" title="《唯有时间能证明伟大：极客之王特斯拉传》读后感">《唯有时间能证明伟大：极客之王特斯拉传》读后感</a></li><li><a href="/reading/the-autobiography-of-benjamin-franklin.html" rel="bookmark" title="《富兰克林自传》13准则">《富兰克林自传》13准则</a></li><li><a href="/reading/where-does-the-money-come-from.html" rel="bookmark" title="钱从哪里来 —— 中国家庭的财富方案">钱从哪里来 —— 中国家庭的财富方案</a></li><li><a href="/reading/%E4%BB%8E%E5%9C%9F%E5%9C%B0%E5%88%B0%E9%A4%90%E6%A1%8C%E7%9A%84%E5%8F%98%E9%9D%A9.html" rel="bookmark" title="从土地到餐桌的变革——“新农人”变形记">从土地到餐桌的变革——“新农人”变形记</a></li><li><a href="/reading/the-secret.html" rel="bookmark" title="秘密 —— 宇宙吸引力法则">秘密 —— 宇宙吸引力法则</a></li><li><a href="/reading/%E8%A7%81%E8%AF%86.html" rel="bookmark" title="《见识》读书笔记">《见识》读书笔记</a></li><li><a href="/powerful-words.html" rel="bookmark" title="The Powerful Words | 激励自己的话">The Powerful Words | 激励自己的话</a></li><li><a href="/reading/%E6%96%B0%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%8D%81%E5%A4%A7%E6%A0%87%E5%87%86.html" rel="bookmark" title="新幸福的十大标准">新幸福的十大标准</a></li><li><a href="/reading/how-to-avoid-a-climate-disaster.html" rel="bookmark" title="《气候经济与人类未来》">《气候经济与人类未来》</a></li><li><a href="/reading/drawdown.html" rel="bookmark" title="《DRAWDOWN》反转地球暖化100招">《DRAWDOWN》反转地球暖化100招</a></li><li><a href="/reading/ten-words-from-peking-university.html" rel="bookmark" title="北大校长给学生的十句话">北大校长给学生的十句话</a></li><li><a href="/reading/the-habits-of-hightly-effective-people.html" rel="bookmark" title="《高效能人士的七个习惯》">《高效能人士的七个习惯》</a></li><li><a href="/reading/%E6%88%91%E7%9A%84%E6%83%85%E7%BB%AA%E4%B8%BA%E4%BD%95%E6%80%BB%E8%A2%AB%E4%BB%96%E4%BA%BA%E5%B7%A6%E5%8F%B3.html" rel="bookmark" title="《我的情绪为何总被他人左右》">《我的情绪为何总被他人左右》</a></li><li><a href="/reading/nonviolent-communication.html" rel="bookmark" title="《非暴力沟通》">《非暴力沟通》</a></li><li><a href="/reading/carbon-neutrality-2021.html" rel="bookmark" title="《碳中和时代——未来40年财富大转移》读书笔记">《碳中和时代——未来40年财富大转移》读书笔记</a></li><li><a href="/reading/better-life.html" rel="bookmark" title="《奇特的一生》柳比歇夫的时间管理方法">《奇特的一生》柳比歇夫的时间管理方法</a></li><li><a href="/reading/soft-skills.html" rel="bookmark" title="《软技能——代码之外的生存指南》读书笔记">《软技能——代码之外的生存指南》读书笔记</a></li><li class="active"><a href="/reading/LDLT.html" rel="bookmark" title="十步学习法（学习-实践-掌握-教授）">十步学习法（学习-实践-掌握-教授）</a></li><li><a href="/reading/the-miracle-morning.html" rel="bookmark" title="《早起的奇迹》—— 人生拯救计划">《早起的奇迹》—— 人生拯救计划</a></li><li><a href="/reading/the-almanack-of-naval-ravikant.html" rel="bookmark" title="《纳瓦尔宝典》—— 财富与幸福指南">《纳瓦尔宝典》—— 财富与幸福指南</a></li><li><a href="/reading/reading-list.html" rel="bookmark" title="我的阅读清单">我的阅读清单</a></li><li><a href="/reading/the-nature-of-business-and-the-internet.html" rel="bookmark" title="商业的本质和互联网">商业的本质和互联网</a></li><li><a href="/reading/the-middle-passage.html" rel="bookmark" title="《中年之路：人格的第二次成型》">《中年之路：人格的第二次成型》</a></li>
+        </ul>
+      </div>
+      <div class="overview panel" data-title="站点概览">
+        <div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <img class="image" itemprop="image" alt="Rudy Lo"
+      data-src="/images/lu_20221221.jpg">
+  <p class="name" itemprop="name">Rudy Lo</p>
+  <div class="description" itemprop="description">阿基米东的网络日志</div>
+</div>
+
+<nav class="state">
+    <div class="item posts">
+      <a href="/archives/">
+        <span class="count">295</span>
+        <span class="name">文章</span>
+      </a>
+    </div>
+    <div class="item categories">
+      <a href="/categories/">
+        <span class="count">35</span>
+        <span class="name">分类</span>
+      </a>
+    </div>
+    <div class="item tags">
+      <a href="/tags/">
+        <span class="count">80</span>
+        <span class="name">标签</span>
+      </a>
+    </div>
+</nav>
+
+<div class="social">
+      <span class="exturl item github" data-url="aHR0cHM6Ly9naXRodWIuY29tL2x1aHVhZG9uZw==" title="https:&#x2F;&#x2F;github.com&#x2F;luhuadong"><i class="ic i-github"></i></span>
+      <span class="exturl item csdn" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x1X2VtYmVkZGVk" title="https:&#x2F;&#x2F;blog.csdn.net&#x2F;lu_embedded"><i class="ic i-address-card"></i></span>
+      <span class="exturl item zhihu" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9hcm1zdHJvbmcyMDE0" title="https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014"><i class="ic i-zhihu"></i></span>
+      <span class="exturl item douban" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC83MzAwNDcv" title="https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;"><i class="ic i-douban"></i></span>
+      <span class="exturl item weibo" data-url="aHR0cHM6Ly93ZWliby5jb20vdS8yMDAwMzkxOTUx" title="https:&#x2F;&#x2F;weibo.com&#x2F;u&#x2F;2000391951"><i class="ic i-weibo"></i></span>
+      <span class="exturl item email" data-url="bWFpbHRvOmx1aHVhZG9uZ0AxNjMuY29t" title="mailto:luhuadong@163.com"><i class="ic i-envelope"></i></span>
+</div>
+
+<ul class="menu">
+  
+    
+  <li class="item">
+    <a href="/" rel="section"><i class="ic i-home"></i>首页</a>
+  </li>
+
+    
+  <li class="item">
+    <a href="/about/" rel="section"><i class="ic i-user"></i>关于</a>
+  </li>
+
+        
+  <li class="item dropdown">
+      <a href="javascript:void(0);"><i class="ic i-feather"></i>文章</a>
+    <ul class="submenu">
+
+        
+  <li class="item">
+    <a href="/archives/" rel="section"><i class="ic i-list-alt"></i>归档</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/categories/" rel="section"><i class="ic i-th"></i>分类</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/tags/" rel="section"><i class="ic i-tags"></i>标签</a>
+  </li>
+
+  </ul>
+
+</ul>
+
+      </div>
+    </div>
+  </div>
+
+  <ul id="quick">
+    <li class="prev pjax">
+        <a href="/management/pomodoro-technique.html" rel="prev" title="上一篇"><i class="ic i-chevron-left"></i></a>
+    </li>
+    <li class="up"><i class="ic i-arrow-up"></i></li>
+    <li class="down"><i class="ic i-arrow-down"></i></li>
+    <li class="next pjax">
+        <a href="/journal/jiangmengnan.html" rel="next" title="下一篇"><i class="ic i-chevron-right"></i></a>
+    </li>
+    <li class="percent"></li>
+  </ul>
+</div>
+
+
+        </div>
+        <div class="dimmer"></div>
+      </div>
+    </main>
+    <footer id="footer">
+      <div class="inner">
+        <div class="widgets">
+          
+
+        </div>
+        <div class="status">
+  <div class="copyright">
+    
+    &copy; 2014 – 
+    <span itemprop="copyrightYear">2023</span>
+    <span class="with-love">
+      <i class="ic i-sakura rotate"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">Rudy Lo @ Freedom Blog</span>
+  </div>
+  <div class="count">
+    <span class="post-meta-item-icon">
+      <i class="ic i-chart-area"></i>
+    </span>
+    <span title="站点总字数">591k 字</span>
+
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="ic i-coffee"></i>
+    </span>
+    <span title="站点阅读时长">8:57</span>
+  </div>
+  <div class="powered-by">
+    基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
+  </div>
+</div>
+
+      </div>
+    </footer>
+  </div>
+<script data-config type="text/javascript">
+  var LOCAL = {
+    path: 'reading/LDLT.html',
+    favicon: {
+      show: "（●´3｀●）やれやれだぜ",
+      hide: "(´Д｀)大変だ！"
+    },
+    search : {
+      placeholder: "文章搜索",
+      empty: "关于 「 ${query} 」，什么也没搜到",
+      stats: "${time} ms 内找到 ${hits} 条结果"
+    },
+    valine: true,fancybox: true,
+    copyright: '复制成功，转载请遵守 <i class="ic i-creative-commons"></i>BY-NC-SA 协议。',
+    ignores : [
+      function(uri) {
+        return uri.includes('#');
+      },
+      function(uri) {
+        return new RegExp(LOCAL.path+"$").test(uri);
+      }
+    ]
   };
 </script>
-<title>十步学习法（学习-实践-掌握-教授） | 成为自由人</title>
-  
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script>
-    <script>
-      if (CONFIG.hostname === location.hostname) {
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-190737867-1');
-      }
-    </script>
 
-  <script>
+<script src="https://cdn.polyfill.io/v2/polyfill.js"></script>
+
+<script src="//cdn.jsdelivr.net/combine/npm/pace-js@1.0.2/pace.min.js,npm/pjax@0.2.8/pjax.min.js,npm/whatwg-fetch@3.4.0/dist/fetch.umd.min.js,npm/animejs@3.2.0/lib/anime.min.js,npm/algoliasearch@4/dist/algoliasearch-lite.umd.js,npm/instantsearch.js@4/dist/instantsearch.production.min.js,npm/lozad@1/dist/lozad.min.js,npm/quicklink@2/dist/quicklink.umd.js"></script>
+
+<script src="/js/app.js?v=0.2.5"></script>
+
+
+  <script data-pjax>
     var _hmt = _hmt || [];
     (function() {
       var hm = document.createElement("script");
@@ -78,531 +510,6 @@
       s.parentNode.insertBefore(hm, s);
     })();
   </script>
-
-
-
-  <noscript>
-  <style>
-  body { margin-top: 2rem; }
-
-  .use-motion .menu-item,
-  .use-motion .sidebar,
-  .use-motion .post-block,
-  .use-motion .pagination,
-  .use-motion .comments,
-  .use-motion .post-header,
-  .use-motion .post-body,
-  .use-motion .collection-header {
-    visibility: visible;
-  }
-
-  .use-motion .header,
-  .use-motion .site-brand-container .toggle,
-  .use-motion .footer { opacity: initial; }
-
-  .use-motion .site-title,
-  .use-motion .site-subtitle,
-  .use-motion .custom-logo-image {
-    opacity: initial;
-    top: initial;
-  }
-
-  .use-motion .logo-line {
-    transform: scaleX(1);
-  }
-
-  .search-pop-overlay, .sidebar-nav { display: none; }
-  .sidebar-panel { display: block; }
-  </style>
-</noscript>
-
-</head>
-
-<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
-  <div class="headband"></div>
-
-  <!-- 加入APlayer音乐播放器 -->
-  <link rel="stylesheet" href="/dist/APlayer.min.css">
-  <div id="aplayer"></div>
-  <script type="text/javascript" src="/dist/APlayer.min.js"></script>
-  <script type="text/javascript" src="/dist/music.js"></script>
-
-  <main class="main">
-    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header-inner"><div class="site-brand-container">
-  <div class="site-nav-toggle">
-    <div class="toggle" aria-label="切换导航栏" role="button">
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-    </div>
-  </div>
-
-  <div class="site-meta">
-
-    <a href="/" class="brand" rel="start">
-      <i class="logo-line"></i>
-      <h1 class="site-title">成为自由人</h1>
-      <i class="logo-line"></i>
-    </a>
-      <p class="site-subtitle" itemprop="description">生活的理想，就是为了理想的生活</p>
-      <img class="custom-logo-image" src="/images/banner_1.gif" alt="成为自由人">
-  </div>
-
-  <div class="site-nav-right">
-    <div class="toggle popup-trigger">
-        <i class="fa fa-search fa-fw fa-lg"></i>
-    </div>
-  </div>
-</div>
-
-
-
-<nav class="site-nav">
-  <ul class="main-menu menu">
-        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
-        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
-        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li>
-        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li>
-        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
-        <li class="menu-item menu-item-schedule"><a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a></li>
-        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li>
-        <li class="menu-item menu-item-commonweal"><a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
-      <li class="menu-item menu-item-search">
-        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
-        </a>
-      </li>
-  </ul>
-</nav>
-
-
-
-  <div class="search-pop-overlay">
-    <div class="popup search-popup"><div class="search-header">
-  <span class="search-icon">
-    <i class="fa fa-search"></i>
-  </span>
-  <div class="search-input-container">
-    <input autocomplete="off" autocapitalize="off" maxlength="80"
-           placeholder="搜索..." spellcheck="false"
-           type="search" class="search-input">
-  </div>
-  <span class="popup-btn-close" role="button">
-    <i class="fa fa-times-circle"></i>
-  </span>
-</div>
-<div class="search-result-container no-result">
-  <div class="search-result-icon">
-    <i class="fa fa-spinner fa-pulse fa-5x"></i>
-  </div>
-</div>
-
-    </div>
-  </div>
-
-</div>
-        
-  
-  <div class="toggle sidebar-toggle" role="button">
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-  </div>
-
-  <aside class="sidebar">
-
-    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
-      <ul class="sidebar-nav">
-        <li class="sidebar-nav-toc">
-          文章目录
-        </li>
-        <li class="sidebar-nav-overview">
-          站点概览
-        </li>
-      </ul>
-
-      <div class="sidebar-panel-container">
-        <!--noindex-->
-        <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E4%B8%80%E6%AD%A5%E5%88%B0%E7%AC%AC%E5%85%AD%E6%AD%A5%EF%BC%9A%E6%A6%82%E8%A7%88%E5%85%A8%E5%B1%80%EF%BC%8C%E8%AE%BE%E5%AE%9A%E7%9B%AE%E6%A0%87%EF%BC%8C%E6%90%9C%E5%AF%BB%E8%B5%84%E6%BA%90%EF%BC%8C%E5%88%9B%E5%BB%BA%E8%AE%A1%E5%88%92"><span class="nav-number">1.</span> <span class="nav-text">第一步到第六步：概览全局，设定目标，搜寻资源，创建计划</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%AC%AC%E4%B8%80%E6%AD%A5%EF%BC%9A%E4%BA%86%E8%A7%A3%E5%85%A8%E5%B1%80"><span class="nav-number">1.1.</span> <span class="nav-text">第一步：了解全局</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%AC%AC%E4%BA%8C%E6%AD%A5%EF%BC%9A%E7%A1%AE%E5%AE%9A%E8%8C%83%E5%9B%B4"><span class="nav-number">1.2.</span> <span class="nav-text">第二步：确定范围</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%AC%AC%E4%B8%89%E6%AD%A5%EF%BC%9A%E5%AE%9A%E4%B9%89%E7%9B%AE%E6%A0%87"><span class="nav-number">1.3.</span> <span class="nav-text">第三步：定义目标</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%AC%AC%E5%9B%9B%E6%AD%A5%EF%BC%9A%E5%AF%BB%E6%89%BE%E8%B5%84%E6%BA%90"><span class="nav-number">1.4.</span> <span class="nav-text">第四步：寻找资源</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%AC%AC%E4%BA%94%E6%AD%A5%EF%BC%9A%E5%88%9B%E5%BB%BA%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92"><span class="nav-number">1.5.</span> <span class="nav-text">第五步：创建学习计划</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%AC%AC%E5%85%AD%E6%AD%A5%EF%BC%9A%E7%AD%9B%E9%80%89%E8%B5%84%E6%BA%90"><span class="nav-number">1.6.</span> <span class="nav-text">第六步：筛选资源</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E4%B8%83%E6%AD%A5%E5%88%B0%E7%AC%AC%E5%8D%81%E6%AD%A5%EF%BC%9A%E5%BE%AA%E7%8E%AF%E5%BE%80%E5%A4%8D"><span class="nav-number">2.</span> <span class="nav-text">第七步到第十步：循环往复</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%AC%AC%E4%B8%83%E6%AD%A5%EF%BC%9A%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0%EF%BC%8C%E6%B5%85%E5%B0%9D%E8%BE%84%E6%AD%A2"><span class="nav-number">2.1.</span> <span class="nav-text">第七步：开始学习，浅尝辄止</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%AC%AC%E5%85%AB%E6%AD%A5%EF%BC%9A%E5%8A%A8%E6%89%8B%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%BE%B9%E7%8E%A9%E8%BE%B9%E5%AD%A6"><span class="nav-number">2.2.</span> <span class="nav-text">第八步：动手操作，边玩边学</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%AC%AC%E4%B9%9D%E6%AD%A5%EF%BC%9A%E5%85%A8%E9%9D%A2%E6%8E%8C%E6%8F%A1%EF%BC%8C%E5%AD%A6%E4%BB%A5%E8%87%B4%E7%94%A8"><span class="nav-number">2.3.</span> <span class="nav-text">第九步：全面掌握，学以致用</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%AC%AC%E5%8D%81%E6%AD%A5%EF%BC%9A%E4%B9%90%E4%B8%BA%E4%BA%BA%E5%B8%88%EF%BC%8C%E8%9E%8D%E4%BC%9A%E8%B4%AF%E9%80%9A"><span class="nav-number">2.4.</span> <span class="nav-text">第十步：乐为人师，融会贯通</span></a></li></ol></li></ol></div>
-        </div>
-        <!--/noindex-->
-
-        <div class="site-overview-wrap sidebar-panel">
-          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <img class="site-author-image" itemprop="image" alt="Rudy Lo"
-      src="/images/lu_avatar_04.jpeg">
-  <p class="site-author-name" itemprop="name">Rudy Lo</p>
-  <div class="site-description" itemprop="description">阿基米东的网络日志</div>
-</div>
-<div class="site-state-wrap site-overview-item animated">
-  <nav class="site-state">
-      <div class="site-state-item site-state-posts">
-          <a href="/archives/">
-        
-          <span class="site-state-item-count">295</span>
-          <span class="site-state-item-name">日志</span>
-        </a>
-      </div>
-      <div class="site-state-item site-state-categories">
-            <a href="/categories/">
-          
-        <span class="site-state-item-count">35</span>
-        <span class="site-state-item-name">分类</span></a>
-      </div>
-      <div class="site-state-item site-state-tags">
-            <a href="/tags/">
-          
-        <span class="site-state-item-count">80</span>
-        <span class="site-state-item-name">标签</span></a>
-      </div>
-  </nav>
-</div>
-  <div class="links-of-author site-overview-item animated">
-      <span class="links-of-author-item">
-        <a href="https://github.com/luhuadong" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;luhuadong" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://gitee.com/luhuadong" title="Gitee → https:&#x2F;&#x2F;gitee.com&#x2F;luhuadong" rel="noopener" target="_blank">Gitee</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://luhuadong.blog.csdn.net/" title="CSDN → https:&#x2F;&#x2F;luhuadong.blog.csdn.net" rel="noopener" target="_blank">CSDN</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://space.bilibili.com/410684166" title="哔哩哔哩 → https:&#x2F;&#x2F;space.bilibili.com&#x2F;410684166" rel="noopener" target="_blank">哔哩哔哩</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.douban.com/group/730047/" title="豆瓣 → https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;" rel="noopener" target="_blank">豆瓣</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://www.zhihu.com/people/armstrong2014" title="知乎 → https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014" rel="noopener" target="_blank">知乎</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://getiot.tech/" title="人人都懂物联网 → https:&#x2F;&#x2F;getiot.tech" rel="noopener" target="_blank">人人都懂物联网</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="https://zerotogether.net/" title="零废弃部落 → https:&#x2F;&#x2F;zerotogether.net" rel="noopener" target="_blank">零废弃部落</a>
-      </span>
-      <span class="links-of-author-item">
-        <a href="mailto:luhuadong@163.com" title="E-Mail → mailto:luhuadong@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
-      </span>
-  </div>
-  <div class="cc-license site-overview-item animated" itemprop="license">
-    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
-  </div>
-
-
-
-        </div>
-      </div>
-    </div>
-  </aside>
-  <div class="sidebar-dimmer"></div>
-
-
-    </header>
-
-    
-  <div class="back-to-top" role="button">
-    <i class="fa fa-arrow-up"></i>
-    <span>0%</span>
-  </div>
-
-<noscript>
-  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
-</noscript>
-
-
-    <div class="main-inner post posts-expand">
-
-
-  
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://luhuadong.com/reading/LDLT.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/lu_avatar_04.jpeg">
-      <meta itemprop="name" content="Rudy Lo">
-      <meta itemprop="description" content="阿基米东的网络日志">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="成为自由人">
-    </span>
-      <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
-          十步学习法（学习-实践-掌握-教授）
-        </h1>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2022-05-17 00:05:35" itemprop="dateCreated datePublished" datetime="2022-05-17T00:05:35+08:00">2022-05-17</time>
-    </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2023-03-25 01:27:54" itemprop="dateModified" datetime="2023-03-25T01:27:54+08:00">2023-03-25</time>
-      </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E4%B8%80%E8%B5%B7%E8%AF%BB%E4%B9%A6%E5%91%80/" itemprop="url" rel="index"><span itemprop="name">一起读书呀</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-        <p>随着年龄的增长，感觉越来越多事情让人分心，学习效率也大不如前。在技术更新迭代如此迅速的今天，拥有快速学习能力，将大大提升竞争力，完成别人完成不了的任务，成为“十倍”程序员。</p>
-<p>下面对《<a href="https://luhuadong.com/reading/soft-skills.html">软技能——代码之外的生存指南</a>》一书总结的“十步学习法” —— 学习-实践-掌握-教授（Learning, Doing, Learning and Teaching, LDLT）进行摘抄，希望自己能时常翻阅，加深理解，并坚持实践！</p>
-<p><img src="/images/reading/%E5%8D%81%E6%AD%A5%E5%AD%A6%E4%B9%A0%E6%B3%95.png"></p>
-<h2 id="第一步到第六步：概览全局，设定目标，搜寻资源，创建计划"><a href="#第一步到第六步：概览全局，设定目标，搜寻资源，创建计划" class="headerlink" title="第一步到第六步：概览全局，设定目标，搜寻资源，创建计划"></a>第一步到第六步：概览全局，设定目标，搜寻资源，创建计划</h2><blockquote>
-<p>集中精力完成足够的前期调研，确保自己明确知道学习的内容，以及如何确定自己达成目标，挑选最好的资源来帮助自己实现目标，制定学习计划。</p>
-</blockquote>
-<h3 id="第一步：了解全局"><a href="#第一步：了解全局" class="headerlink" title="第一步：了解全局"></a>第一步：了解全局</h3><p>首先对需要学习的课题进行一些基础性研究，对该主题有一个全局性的了解。</p>
-<p>你可以先在网上搜索与该课题相关的内容，或找一本相关的书籍，粗略浏览以下内容。注意，这一步的目的不是要掌握该主题，所以不要在这一步上花费太多时间。</p>
-<h3 id="第二步：确定范围"><a href="#第二步：确定范围" class="headerlink" title="第二步：确定范围"></a>第二步：确定范围</h3><p>根据自身的需求，决定学习的重点和学习的范围，在此阶段容易犯的一个错误就是：试图解决太大的问题而让自己陷入困境中。</p>
-<p>结合从第一步中获得的信息，明确自己的学习范围，尽可能地保持专注；同时也需要阐述自己的学习理由来帮助自己界定学习的范围。学习的范围务必大小适当，既能符合学习理由，又能符合自己的时间限制。</p>
-<h3 id="第三步：定义目标"><a href="#第三步：定义目标" class="headerlink" title="第三步：定义目标"></a>第三步：定义目标</h3><p>确定自己的学习目标，明确学习完成后应该达成的效果，根据简明清晰的目标，勾勒出勤奋学习后成功的图景。成功的标准应该是具体的，无二义性的。例如，了解某个设备的所有功能、构建出一个小应用程序、制作出一个网页。</p>
-<h3 id="第四步：寻找资源"><a href="#第四步：寻找资源" class="headerlink" title="第四步：寻找资源"></a>第四步：寻找资源</h3><p>尽可能的尝试多种渠道和方式获取尽可能多的和主题相关资源，该阶段无需考虑这些资源的质量（类似于头脑风暴）。</p>
-<p>信息来源可以是图书、博客文章、在线视频、专家、播客、源代码、示例项目、在线文档……</p>
-<h3 id="第五步：创建学习计划"><a href="#第五步：创建学习计划" class="headerlink" title="第五步：创建学习计划"></a>第五步：创建学习计划</h3><p>需要在最短的时间内找到正确的学习路径，并找到和到达路径中重要的地标。打造自己的学习计划，一个好的方法是观察别人是如何教授你感兴趣的主题的（例如书籍目录、培训大纲）。当然，更重要的是你要根据自己的目标和时间进行计划，而不是照搬别人的计划。</p>
-<p>通览收集到的全部资源，就可以对自己需要的那些内容以及如何组织这些内容有更清晰的认识。</p>
-<h3 id="第六步：筛选资源"><a href="#第六步：筛选资源" class="headerlink" title="第六步：筛选资源"></a>第六步：筛选资源</h3><p>对找到的资源进行筛选，挑选出最有价值的几项来帮助你实现自己的目标。你不用研究所有资料，因为很多数据或内容都是冗余的，只需要选出其中比较优质的部分资源进行学习即可。例如挑选书籍，你可以着重看看其他读者对它的评论，从中选择最好的一两本书。</p>
-<p>现在，你已经完成了第一阶段的所有工作，准备进入第二阶段开始学习吧！</p>
-<p><img src="/images/reading/xiao-lan-jia-you.jpg"></p>
-<h2 id="第七步到第十步：循环往复"><a href="#第七步到第十步：循环往复" class="headerlink" title="第七步到第十步：循环往复"></a>第七步到第十步：循环往复</h2><blockquote>
-<p>通过 “学习—实践—掌握—教授”（LDLT）的方式来真正领悟知识。通过掌握恰到好处的基础知识开始，通过动手实践来学习，同时通过自我探索收集问题。之后，掌握了足够多的有用知识。最后，将自己所学教给他人，以此来弥补自己在学习过程中的不足，同时通过深入思考巩固知识。</p>
-</blockquote>
-<h3 id="第七步：开始学习，浅尝辄止"><a href="#第七步：开始学习，浅尝辄止" class="headerlink" title="第七步：开始学习，浅尝辄止"></a>第七步：开始学习，浅尝辄止</h3><p>专注于掌握自己所需，能在下一步动手操作的最小量的知识。</p>
-<p>我们很容易犯的两类错误：第一类是在知之不多的情况下就盲目开始（即行动太快）；第二类是在行动之前准备过多（即行动太慢）。因此需要找到一个平衡点，使得学习效果达到最佳。</p>
-<h3 id="第八步：动手操作，边玩边学"><a href="#第八步：动手操作，边玩边学" class="headerlink" title="第八步：动手操作，边玩边学"></a>第八步：动手操作，边玩边学</h3><p>在掌握操作动手最小量的知识的情况下亲自操作和亲身体验。通过在探索和实践过程中，会产生的各种问题。这些问题会引导着你走向真正重要的方向。当回头寻找问题的答案时，不只是这些问题迎刃而解，而且你记得的东西比你学习的东西要多得多，因为你所学到的都是对你很重要的东西。</p>
-<blockquote>
-<p>把那些暂时还没有答案的问题记录下来，在下一步中就会有机会找出这些问题的答案。</p>
-</blockquote>
-<h3 id="第九步：全面掌握，学以致用"><a href="#第九步：全面掌握，学以致用" class="headerlink" title="第九步：全面掌握，学以致用"></a>第九步：全面掌握，学以致用</h3><p>好奇心是学习特别是自学的重要组成部分。为了有效利用自己选择的资料，为了上一步生产的问题寻求答案（带着问题学习）。不用担心回头再去操作，付出更多，因为这不仅能够让你找到问题的答案，也能让你学习新东西。给自己足够多的时间去深入理解自己的主题，你可以阅读，可以实验，可以观察，也可以操作。试着把自己正在学习的内容与最终目标关联起来。</p>
-<h3 id="第十步：乐为人师，融会贯通"><a href="#第十步：乐为人师，融会贯通" class="headerlink" title="第十步：乐为人师，融会贯通"></a>第十步：乐为人师，融会贯通</h3><p>要想深入掌握一门学问，并且融会贯通，那么必须要做到能够教授给别人！在这一过程中，你要切实刨析并理解自己所学的知识，将其内化到自己的思想；同时，也要用能够让他人理解的方式精心组织这些信息。</p>
-<p>在这个过程中，你会发现很多自以为明白的知识点，其实并没有你想象的那么透彻。这一过程会将那些以前自己没太明白的东西联系起来，并简化到自己的大脑中已有的信息，将它们浓缩并经常复习。</p>
-<p>几种常见的教授知识的途径：</p>
-<ul>
-<li>撰写博客文章（CSDN、GitChat、掘金）</li>
-<li>录制视频教程（上传 YouTube、B站）</li>
-<li>发表演讲（读书会、公司培训、研讨会）</li>
-<li>举办技术沙龙（线下授课）</li>
-<li>与朋友或爱人进行对话探讨</li>
-<li>在社区论坛上回答问题</li>
-</ul>
-<p><img src="/images/reading/xiao-lan-yeah.png"></p>
-
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-          <div class="reward-container">
-  <div>您的鼓励是我最大的动力！</div>
-  <button onclick="document.querySelector('.post-reward').classList.toggle('active');">
-    赞赏
-  </button>
-  <div class="post-reward">
-      <div>
-        <img src="/images/wechatpay.jpeg" alt="Rudy Lo 微信">
-        <span>微信</span>
-      </div>
-      <div>
-        <img src="/images/alipay.jpeg" alt="Rudy Lo 支付宝">
-        <span>支付宝</span>
-      </div>
-
-  </div>
-</div>
-
-          
-
-<div class="post-copyright">
-<ul>
-  <li class="post-copyright-author">
-      <strong>本文作者： </strong>Rudy Lo
-  </li>
-  <li class="post-copyright-link">
-      <strong>本文链接：</strong>
-      <a href="https://luhuadong.com/reading/LDLT.html" title="十步学习法（学习-实践-掌握-教授）">https://luhuadong.com/reading/LDLT.html</a>
-  </li>
-  <li class="post-copyright-license">
-    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
-  </li>
-</ul>
-</div>
-
-          <div class="post-tags">
-              <a href="/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/" rel="tag"># 读书笔记</a>
-              <a href="/tags/%E5%AD%A6%E4%B9%A0/" rel="tag"># 学习</a>
-          </div>
-
-        
-
-          <div class="post-nav">
-            <div class="post-nav-item">
-                <a href="/management/pomodoro-technique.html" rel="prev" title="番茄工作法，成就你的高效人生">
-                  <i class="fa fa-chevron-left"></i> 番茄工作法，成就你的高效人生
-                </a>
-            </div>
-            <div class="post-nav-item">
-                <a href="/journal/jiangmengnan.html" rel="next" title="江梦南：世界以痛吻我，我却报之以歌">
-                  江梦南：世界以痛吻我，我却报之以歌 <i class="fa fa-chevron-right"></i>
-                </a>
-            </div>
-          </div>
-    </footer>
-  </article>
-</div>
-
-
-
-
-
-
-    
-  
-  <div class="comments">
-    <script src="https://giscus.app/client.js"
-        data-repo="luhuadong/blog" 
-        data-repo-id="MDEwOlJlcG9zaXRvcnkzNDEzOTU5NzQ=" 
-        data-category="General"
-        data-category-id="DIC_kwDOFFlKBs4CSTqq"
-        data-mapping="pathname" 
-        data-reactions-enabled="1" 
-        data-emit-metadata="1" 
-        data-theme="light"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        data-input-position="bottom"
-        data-loading="lazy"
-        async>
-    </script>
-  </div>
-  
-  
-
-<script>
-  window.addEventListener('tabs:register', () => {
-    let { activeClass } = CONFIG.comments;
-    if (CONFIG.comments.storage) {
-      activeClass = localStorage.getItem('comments_active') || activeClass;
-    }
-    if (activeClass) {
-      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
-      if (activeTab) {
-        activeTab.click();
-      }
-    }
-  });
-  if (CONFIG.comments.storage) {
-    window.addEventListener('tabs:click', event => {
-      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
-      const commentClass = event.target.classList[1];
-      localStorage.setItem('comments_active', commentClass);
-    });
-  }
-</script>
-</div>
-  </main>
-
-  <footer class="footer">
-    <div class="footer-inner">
-
-
-<div class="copyright">
-  &copy; 
-  <span itemprop="copyrightYear">2023</span>
-  <span class="with-love">
-    <i class="fa fa-heart"></i>
-  </span>
-  <span class="author" itemprop="copyrightHolder">Rudy Lo</span>
-</div>
-  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
-  </div>
-
-    </div>
-  </footer>
-
-  
-  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
-
-  
-<script src="/js/local-search.js"></script>
-
-
-
-
-
-
-  
-
-
-
-
-  <script>
-  if (typeof MathJax === 'undefined') {
-    window.MathJax = {
-      tex: {
-        inlineMath: {'[+]': [['$', '$']]},
-        tags: 'none'
-      },
-      options: {
-        renderActions: {
-          insertedScript: [200, () => {
-            document.querySelectorAll('mjx-container').forEach(node => {
-              const target = node.parentNode;
-              if (target.nodeName.toLowerCase() === 'li') {
-                target.parentNode.classList.add('has-jax');
-              }
-            });
-          }, '', false]
-        }
-      }
-    };
-    const script = document.createElement('script');
-    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
-    script.defer = true;
-    document.head.appendChild(script);
-  } else {
-    MathJax.startup.document.state(0);
-    MathJax.typesetClear();
-    MathJax.texReset();
-    MathJax.typeset();
-  }
-</script>
-
 
 
 </body>

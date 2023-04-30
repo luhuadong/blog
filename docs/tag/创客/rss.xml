@@ -1,0 +1,845 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>成为自由人 • Posts by &#34;创客&#34; tag</title>
+        <link>https://luhuadong.com</link>
+        <description>阿基米东的网络日志</description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 18 Jul 2022 15:04:11 +0800</pubDate>
+        <lastBuildDate>Mon, 18 Jul 2022 15:04:11 +0800</lastBuildDate>
+        <category>商业</category>
+        <category>成长</category>
+        <category>日记</category>
+        <category>创业</category>
+        <category>家居</category>
+        <category>互联网</category>
+        <category>读书笔记</category>
+        <category>工程师</category>
+        <category>爱</category>
+        <category>名言</category>
+        <category>奋斗</category>
+        <category>信息世界</category>
+        <category>管理</category>
+        <category>程序员</category>
+        <category>职场</category>
+        <category>人生</category>
+        <category>物联网</category>
+        <category>城市规划</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
+        <category>创客</category>
+        <category>比赛</category>
+        <category>科技向善</category>
+        <category>英语</category>
+        <category>学习</category>
+        <category>环保</category>
+        <category>碳中和</category>
+        <category>种植</category>
+        <category>健身</category>
+        <category>地理</category>
+        <category>城市</category>
+        <category>气象爱好者</category>
+        <category>指南</category>
+        <category>自律</category>
+        <category>思维</category>
+        <category>健康</category>
+        <category>Hexo</category>
+        <category>科普</category>
+        <category>可持续</category>
+        <category>能源</category>
+        <category>职业</category>
+        <category>时间管理</category>
+        <category>工作</category>
+        <category>总结</category>
+        <category>慈济</category>
+        <category>RT-Thread</category>
+        <category>开源</category>
+        <category>思考</category>
+        <category>生活</category>
+        <category>猫</category>
+        <category>幸福</category>
+        <category>修身</category>
+        <category>写书</category>
+        <category>milestone</category>
+        <category>地铁</category>
+        <category>Markdown</category>
+        <category>计划</category>
+        <category>股票</category>
+        <category>理财</category>
+        <category>投资</category>
+        <category>财富</category>
+        <category>保险</category>
+        <category>纪录片</category>
+        <category>自由</category>
+        <category>电影</category>
+        <category>TED演讲</category>
+        <category>时间</category>
+        <category>心理学</category>
+        <category>无线电爱好者</category>
+        <category>亲密关系</category>
+        <category>农业</category>
+        <category>游泳</category>
+        <category>励志</category>
+        <category>演讲</category>
+        <category>蔬食</category>
+        <category>电台主播</category>
+        <category>WordPress</category>
+        <category>垃圾分类</category>
+        <category>零废弃</category>
+        <category>低碳</category>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/contest/aws-serverless-for-good-2022.html</guid>
+            <title>亚马逊 Serverless For Good - 2022 编程挑战赛</title>
+            <link>https://luhuadong.com/contest/aws-serverless-for-good-2022.html</link>
+            <category>创客</category>
+            <category>比赛</category>
+            <category>科技向善</category>
+            <pubDate>Mon, 18 Jul 2022 15:04:11 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/contest/aws-serverless-for-good-2022.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;大赛简介&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#大赛简介&#34;&gt;#&lt;/a&gt; 大赛简介&lt;/h2&gt;
+&lt;p&gt;能源与气候危机愈演愈烈之下，可持续发展成为全球共识。互联网自然不能置身事外。技术人，如何用手中的一行行代码，守护 “绿色” 星球，让人类社会更加美好。充分利用 Serverless（无服务器）是减少能源消耗、践行低碳绝佳的方式之一。&lt;/p&gt;
+&lt;p&gt;Serverless 是一种云原生开发模型，能够让应用在远程托管的执行环境中按需运行，无需维护操作系统，从而提高资源利用率、降低成本、加速创新。&lt;/p&gt;
+&lt;p&gt;2022 年 3 月，Gartner 发布报告指出，到 2026 年，超过 50% 的全球企业将部署无服务器功能。不难看出，Serverless 的出现带来了一种全新的、颠覆式的云开发架构模式。为了践行 “技术向善” 的理念，帮助更多的开发者了解、熟悉无服务器技术，推动无服务器架构的创新，亚马逊云科技主办本次 Serverless for Good-2022 编程挑战赛。&lt;/p&gt;
+&lt;h2 id=&#34;赛程安排&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#赛程安排&#34;&gt;#&lt;/a&gt; 赛程安排&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2022/7/6-2022/8/19：报名 &amp;amp; 初赛阶段&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;提交内容：作品代码、技术文档&lt;/li&gt;
+&lt;li&gt;评分指标：作品完成度 50%、技术架构 20%、使用体验 20%、创意度 10%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2022/8/20-2022/9/18：决赛 &amp;amp; 答辩准备阶段&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;提交内容：测试版作品（DEMO）、作品代码、技术文档、作品演示 PPT&lt;/li&gt;
+&lt;li&gt;评分指标：作品完成度 30%、商业价值 30%、创意度 20%、使用体验 10%、技术难度 10%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2022/9/23：决赛路演&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;作品演示 PPT 最终版&lt;/li&gt;
+&lt;li&gt;评分指标：作品完成度 30%、商业价值 30%、创意度 20%、使用体验 10%、技术难度 10%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;初赛赛题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#初赛赛题&#34;&gt;#&lt;/a&gt; 初赛赛题&lt;/h2&gt;
+&lt;p&gt;参赛选手从给定的两个场景中任选其一，基于 Amazon Serverless 架构实现。每个场景都给出了推荐架构，供参赛者参考，组委会在初赛前将安排一次统一的在线培训。开发者团队可采用推荐架构，也可自由进行架构设计。评委根据作品完成度、技术架构、创意度等评分标准进行评分，前 5-8 名团队进入决赛。&lt;/p&gt;
+&lt;h2 id=&#34;决赛赛题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#决赛赛题&#34;&gt;#&lt;/a&gt; 决赛赛题&lt;/h2&gt;
+&lt;p&gt;参赛者基于 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hd3MuYW1hem9uLmNvbS9jbi9zZXJ2ZXJsZXNzLw==&#34;&gt;Amazon Serverless 架构&lt;/span&gt;，利用 Amazon Serverless 服务，实现社交泛娱乐、互动游戏、电商平台、IoT 等现代化应用场景的搭建，并实现交互。&lt;/p&gt;
+&lt;p&gt;你可以将 Serverless 架构用于物联网场景消除现实与数字世界之间的鸿沟，你可以考虑用 Serverless 解决社交场景下图像、视频处理等诸多问题，亦或是考虑开发一个电商网站，优化剁手党的购物体验… 更多场景等待着你去解锁！尽情发动你的想象力与创造力吧～&lt;/p&gt;
+&lt;p&gt;决赛阶段参赛团队必须完成能够试用的 Demo，可为 Web 网站、APP、小程序等，形式不限，使用的开发语言不限。本阶段将以 “线下编程 + 线上提交 + 现场答辩” 的方式进行。&lt;/p&gt;
+&lt;h2 id=&#34;作品提交&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#作品提交&#34;&gt;#&lt;/a&gt; 作品提交&lt;/h2&gt;
+&lt;p&gt;亚马逊云科技 Serverless 大赛采用线上提交作品的方式，提交方式请查看石墨文档《&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaGltby5pbS9kb2NzL3pka3lCQmFhYm1VUHdkQTYv&#34;&gt;Serverless for Good-2022 选手作品提交方式&lt;/span&gt;》。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hd3MuYW1hem9uLmNvbS9jbi9hYm91dC1hd3MvZXZlbnRzL3NlcnZlcmxlc3MtZm9yLWdvb2QtMjAyMi8=&#34;&gt;https://aws.amazon.com/cn/about-aws/events/serverless-for-good-2022/&lt;/span&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/me/a-maker.html</guid>
+            <title>柴火创客·自我介绍</title>
+            <link>https://luhuadong.com/me/a-maker.html</link>
+            <category>创客</category>
+            <pubDate>Thu, 30 Jun 2022 01:09:11 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;会员编号：CHSZ2022061387&lt;/p&gt;
+&lt;p&gt;自我介绍：2014 年毕业于广东工业大学电气工程及其自动化专业，在校期间曾任广工猎鹰橄榄球队队长。毕业后先后参与过工业机器人、通信终端、物联网等相关产品的研发工作，目前在广州从事汽车智能驾驶方面的研究。热爱开源文化，曾参与编写《&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9vc2NoaW5hLmdpdGVlLmlvL29wZW5zb3VyY2UtZ3VpZGUv&#34;&gt;开源指北&lt;/span&gt;》电子书，熟悉 Arduino、树莓派等各类开源硬件，曾为 Linux、RT-Thread、LVGL 等多个开源软件项目贡献代码，并荣获 2020 年度 RT-Thread 开源社区杰出贡献奖。CSDN 博主「&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x1X2VtYmVkZGVk&#34;&gt;阿基米东&lt;/span&gt;」，总阅读量超过 300 万，同时也是「&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nZXRpb3QudGVjaC8=&#34;&gt;人人都懂物联网&lt;/span&gt;」网站站长，旨在促进公平教育和终身学习。生活中是一名环保主义者，也是零废弃联盟等多家 NGO 机构的核心志愿者，致力于推动 SDGs 可持续发展目标的实现。&lt;/p&gt;
+&lt;img data-src=&#34;/images/lu_202205.jpeg&#34; width=&#34;200&#34; /&gt; ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/contest/seeed-iot-in-the-wild-2022.html</guid>
+            <title>矽递科技 IoT Into the Wild 大赛 2022</title>
+            <link>https://luhuadong.com/contest/seeed-iot-in-the-wild-2022.html</link>
+            <category>创客</category>
+            <category>比赛</category>
+            <category>科技向善</category>
+            <pubDate>Wed, 08 Jun 2022 15:31:03 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/contest/iot-in-the-wild-2022-01.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;大赛介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#大赛介绍&#34;&gt;#&lt;/a&gt; 大赛介绍&lt;/h2&gt;
+&lt;p&gt;由 Seeed 联合社区伙伴在 Hakster 上发起的：IoT Into the Wild 大赛今天正式上线！欢迎参与！&lt;/p&gt;
+&lt;p&gt;赛程安排：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2022 年 6 月 8 日，正式发布&lt;/li&gt;
+&lt;li&gt;2022 年 7 月 22 日，硬件申请结束&lt;/li&gt;
+&lt;li&gt;2022 年 7 月 27 日，邮递硬件&lt;/li&gt;
+&lt;li&gt;2022 年 9 月 27 日，提交项目&lt;/li&gt;
+&lt;li&gt;2022 年 10 月 10 日，公布获奖名单&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;五大挑战&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#五大挑战&#34;&gt;#&lt;/a&gt; 五大挑战&lt;/h2&gt;
+&lt;p&gt;In this Contest, you can focus on making easy-to-deploy AIoT solutions that can contribute to tackling any of the following Challenges or challenge topics. There are 5 Challenges in total, among which you can freely choose to concentrate on topics of one Challenge or combine several Challenges that are specified in this Contest. &lt;strong&gt;Make sure to mention the specific Challenge and challenge topics in your project submission.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/contest/iot-in-the-wild-2022-03.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Challenge 1: Climate Crisis Prevention/Mitigation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Global warming&lt;/li&gt;
+&lt;li&gt;Carbon neutrality&lt;/li&gt;
+&lt;li&gt;Natural disaster prevention/mitigation&lt;/li&gt;
+&lt;li&gt;Sand depletion crisis&lt;/li&gt;
+&lt;li&gt;Environmentally-unsustainable tourism mitigation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Challenge 2: Wildlife/Biodiversity Conservation (U&lt;/strong&gt;nlimited to various types of flora and fauna)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Non-intrusive monitoring of endangered wildlife/biodiversity species from various threats&lt;/li&gt;
+&lt;li&gt;Animal movement, behavior and emotion detection&lt;/li&gt;
+&lt;li&gt;Environmental habitat monitoring&lt;/li&gt;
+&lt;li&gt;Human-wildlife conflict prevention/mitigation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Challenge 3: Marine Conser&lt;/strong&gt;v&lt;strong&gt;ation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sea level rise&lt;/li&gt;
+&lt;li&gt;Ice and snow melt&lt;/li&gt;
+&lt;li&gt;Marine pollution&lt;/li&gt;
+&lt;li&gt;Harmful algal bloom&lt;/li&gt;
+&lt;li&gt;Plastic pollution&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Challenge 4: Open Science&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Low-cost, open science hardware solutions as scientific research tools designed for outdoor scenarios in the wild (ex. microscopes, science equipment designs, sensors for environmental monitoring, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Challenge 5: Sustainable Agriculture&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Climate-smart commodities&lt;/li&gt;
+&lt;li&gt;Precision farming&lt;/li&gt;
+&lt;li&gt;Smart husbandry&lt;/li&gt;
+&lt;li&gt;Autonomous greenhouse&lt;/li&gt;
+&lt;li&gt;Local food production&lt;/li&gt;
+&lt;li&gt;Sustainable food supply chain management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;赛事合作方&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#赛事合作方&#34;&gt;#&lt;/a&gt; 赛事合作方&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/contest/iot-in-the-wild-2022-04.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;相关链接&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#相关链接&#34;&gt;#&lt;/a&gt; 相关链接&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaGFja3N0ZXIuaW8vY29udGVzdHMvaW90aW50aGV3aWxk&#34;&gt;https://www.hackster.io/contests/iotinthewild&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/contest/rt-thread-lvgl-gui-2022.html</guid>
+            <title>RT-Thread + LVGL 嵌入式 GUI 挑战赛 2022</title>
+            <link>https://luhuadong.com/contest/rt-thread-lvgl-gui-2022.html</link>
+            <category>创客</category>
+            <category>比赛</category>
+            <pubDate>Wed, 04 May 2022 07:32:31 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/contest/rt-thread-lvgl-gui-2022.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;大赛介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#大赛介绍&#34;&gt;#&lt;/a&gt; 大赛介绍&lt;/h2&gt;
+&lt;p&gt;RT-Thread 社区联合 LVGL 社区及合作伙伴新唐科技、意法半导体、NXP 半导体正式开启嵌入式 GUI 挑战赛。&lt;/p&gt;
+&lt;p&gt;赛程安排：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;报名截至时间：5 月 1 日&lt;/li&gt;
+&lt;li&gt;完成任务时间：5 月 12 日 - 7 月 12 日&lt;/li&gt;
+&lt;li&gt;评奖时间：7 月 13-7 月 20 日&lt;/li&gt;
+&lt;li&gt;官宣获奖名单：7 月 21 日&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;现金奖励：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一等奖 1 名 6000 元 + 获奖证书&lt;/li&gt;
+&lt;li&gt;二等奖 2 名 3000 元 + 获奖证书&lt;/li&gt;
+&lt;li&gt;三等奖 5 名 500 元 + 获奖证书&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;作品介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#作品介绍&#34;&gt;#&lt;/a&gt; 作品介绍&lt;/h2&gt;
+&lt;p&gt;基于新唐 NuMaker-HMI-N9H30 的网络收音机&lt;/p&gt;
+&lt;h2 id=&#34;相关链接&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#相关链接&#34;&gt;#&lt;/a&gt; 相关链接&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jbHViLnJ0LXRocmVhZC5vcmcvYXNrL2FydGljbGUvZmRmNWFkNTkwOWVlZjZiYS5odG1s&#34;&gt;嵌入式 GUI 挑战赛报名开启！&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/industry/how-to-learn-electrical-engineering.html</guid>
+            <title>电子电气工程师（EE）学习路线</title>
+            <link>https://luhuadong.com/industry/how-to-learn-electrical-engineering.html</link>
+            <category>工程师</category>
+            <category>创客</category>
+            <category>学习</category>
+            <pubDate>Sat, 09 Oct 2021 15:57:09 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;说明&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#说明&#34;&gt;#&lt;/a&gt; 说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;EE&lt;/strong&gt;：&lt;br&gt;
+通常指电气工程（Electrical Engineering）或电子工程（Electronic Engineering），又或者电子电气工程（Electrical and Electronics Engineering，EEE）。简单来说，是一门以电磁学为基础，研究利用电与磁现象传输、转化能量的工程学科，其研究内容涵盖了产生电能（发电）、传输电能（输配电）、转化电能、储存电能、使用电能（用电器）等环节。而电子工程则是电气工程的一个分支，涉及电磁频谱的使用以及集成电路和晶体管等电子设备的应用。也就是说，电气工程偏向强电（能源），电子工程偏向弱电（计算机硬件）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CS&lt;/strong&gt;：&lt;br&gt;
+通常指计算机科学（Computer Science），是一门包括各种各样与计算机信息处理相关的系统学科，从抽象的操作系统、数据结构、算法分析等，到更具体的如编程语言、程序设计、网络安全、数据分析、人工智能等。最常见的工作就是潜伏在各大 IT 公司的各类程序员们。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;STEM&lt;/strong&gt;：&lt;br&gt;
+STEM 是科学（Science）、技术（Technology）、工程（Engineering）和数学（Mathematics）四个单词的缩写，意味着它融合了这四门学科的知识与技能。能够同时掌握这几门学科的人都是很厉害的，而且他们可能在艺术和人文方面也颇有见解。这类人有时也被称为创客（Maker）或极客（Geek），拥有自驱力极强的学习与创造能力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;代表人物：尼古拉・特斯拉、稚晖君&lt;/p&gt;
+&lt;h2 id=&#34;学习路线&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#学习路线&#34;&gt;#&lt;/a&gt; 学习路线&lt;/h2&gt;
+&lt;p&gt;基础课程学习类：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;电路 —— 推荐课程：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueHVldGFuZ3guY29tL2NvdXJzZS9USFUwODA2MTAwMDI5NC83NzU0MzAw&#34;&gt;电路原理 - 清华大学&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;机器人设计&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#机器人设计&#34;&gt;#&lt;/a&gt; 机器人设计&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;机械设计&lt;/li&gt;
+&lt;li&gt;硬件设计&lt;/li&gt;
+&lt;li&gt;嵌入式系统&lt;/li&gt;
+&lt;li&gt;算法&lt;/li&gt;
+&lt;li&gt;机器学习&lt;/li&gt;
+&lt;li&gt;艺术&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuemhpaHUuY29tL3F1ZXN0aW9uLzIxNDE1MTA5&#34;&gt;我想成为电气工程师，学习电气有哪些可以利用的好的网络资源？&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/contest/stm32-maker-faire-2020.html</guid>
+            <title>2020 STM32 创客秀大赛</title>
+            <link>https://luhuadong.com/contest/stm32-maker-faire-2020.html</link>
+            <category>创客</category>
+            <category>比赛</category>
+            <pubDate>Fri, 20 Nov 2020 23:42:19 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/contest/stm32-maker-faire-2020.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;第一次参加 STM32 创客秀，选了自由组，最终闯入了决赛，去了一趟上海，拿了个二等奖。也认识了很多创客伙伴，见了一些认识好久的网友，还是挺奇妙的！&lt;/p&gt;
+&lt;h2 id=&#34;作品介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#作品介绍&#34;&gt;#&lt;/a&gt; 作品介绍&lt;/h2&gt;
+&lt;p&gt;基于 STM32 和 RT-Thread 实现的空气质量监测设备，搭配 Web 服务端和微信小程序，可实现数据存储、分析，实时查看。&lt;/p&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=371380688&amp;bvid=BV1rZ4y1u7p6&amp;cid=217010228&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+&lt;p&gt;该项目具有如下特性：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;支持众多 MCU，包括 STM32 Nucleo 系列所有板卡；&lt;/li&gt;
+&lt;li&gt;支持多种网络接入方式，包括以太网、WiFi、4G、NB-IoT 等；&lt;/li&gt;
+&lt;li&gt;支持多种不同厂家不同型号的传感器。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;相关链接&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#相关链接&#34;&gt;#&lt;/a&gt; 相关链接&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMXJaNHkxdTdwNg==&#34;&gt;STM32 创客秀 - 分布式空气质量监测系统&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0LWNoaW5hLmNvbS9tcC9hMzI3NjkuaHRtbA==&#34;&gt;2020 创客大赛奖项揭晓，奇思妙想，尽在其中&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3MvdmlkZW8vQlYxTUs0eTFqN1dh&#34;&gt;蝶粉巅峰对决！2020 STM32 创客秀大赛总决赛 vlog&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/contest/eetree-funpack.html</guid>
+            <title>Funpack 一起免费玩转开发板</title>
+            <link>https://luhuadong.com/contest/eetree-funpack.html</link>
+            <category>创客</category>
+            <pubDate>Thu, 01 Oct 2020 23:31:49 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/contest/funpack-banner-2-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Funpack 是 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jbGFzcy5lZXRyZWUuY24v&#34;&gt;硬禾学堂&lt;/span&gt; 和 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nZXRpb3QudGVjaC9kaWN0aW9uYXJ5L2RpZ2lrZXkuaHRtbA==&#34;&gt;得捷电子&lt;/span&gt; 联合推出的开发板评测活动，通过在指定时间内完成任务，一起玩转开发板，并获得与板卡等额的现金奖励。&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMQ==&#34;&gt;Funpack 第一期&lt;/span&gt; 在 2020 年 9 月 1 日发布，板卡是一款基于 STM32MP1 系列通用处理器的单板计算机 —— 来自 Seeed 科技的 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93aWtpLnNlZWVkc3R1ZGlvLmNvbS9PRFlTU0VZLVNUTTMyTVAxNTdDLw==&#34;&gt;ODYSSEY – STM32MP157C&lt;/span&gt; 开发板。为期一个月，鼓励参与者将项目开源、编写教程，以及拍摄演示视频。获得参与者的一致好评，我已经参加&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDEwNjg0MTY2L2NoYW5uZWwvc2VyaWVzZGV0YWlsP3NpZD00NTQwMDk=&#34;&gt;好多期&lt;/span&gt;了！&lt;/p&gt;
+&lt;p&gt;链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNr&#34;&gt;https://www.eetree.cn/page/digikey-funpack&lt;/span&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/contest/rt-thread-application-innovation-2020.html</guid>
+            <title>RT-Thread 应用创新设计大赛 2020</title>
+            <link>https://luhuadong.com/contest/rt-thread-application-innovation-2020.html</link>
+            <category>创客</category>
+            <category>比赛</category>
+            <pubDate>Wed, 01 Apr 2020 23:55:48 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/contest/rt-thread-2020-banner.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;大赛要求&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#大赛要求&#34;&gt;#&lt;/a&gt; 大赛要求&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;开发者基于 RT-Thread 开发物联网创新型应用或者终端产品。&lt;/li&gt;
+&lt;li&gt;基于主办方提供的硬件或者自备硬件均可，RT-Thread 支持主流芯片架构如 ARM Cortex-M、MIPS、X86、C-Sky、RISC-V，几乎所有开发者手头开发板（如 STM32、LPC 系列、&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2kubXg=&#34;&gt;i.mx&lt;/span&gt; rt 系列、其他国产 32 位 MCU）均可运行 RT-Thread。&lt;/li&gt;
+&lt;li&gt;如需使用到云服务，推荐使用 UCloud 云资源，可为参赛者提供有效期半年的 800 元 UCloud 云资源使用金用于参赛作品的云服务；也可自由选择其他云服务非强制要求。&lt;/li&gt;
+&lt;li&gt;代码和文档开源。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;作品展示&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#作品展示&#34;&gt;#&lt;/a&gt; 作品展示&lt;/h2&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=498551331&amp;bvid=BV1mK411p7jj&amp;cid=201704902&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+&lt;h2 id=&#34;相关链接&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#相关链接&#34;&gt;#&lt;/a&gt; 相关链接&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9odW9kb25nLjIxaWMuY29tL3J0LXRocmVhZA==&#34;&gt;RT-Thread 应用创新设计大赛 2020 获奖名单&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMW1LNDExcDdqag==&#34;&gt;【视频】RT-Thread 应用创新设计大赛作品展示 —— 空气质量监测系统&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9iYnMuMjFpYy5jb20vaWN2aWV3LTI5NzEwNTItMS0xLmh0bWw=&#34;&gt;【帖子】RT-Thread 作品秀：空气质量监测系统&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x1X2VtYmVkZGVkL2FydGljbGUvZGV0YWlscy8xMDY3Mzk5Mzk=&#34;&gt;【博客】RT-Thread 作品秀：空气质量监测系统&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/zerowaste/precious-plastic-manual-zh.html</guid>
+            <title>Precious Plastic 中文手册 V1.0</title>
+            <link>https://luhuadong.com/zerowaste/precious-plastic-manual-zh.html</link>
+            <category>创客</category>
+            <category>环保</category>
+            <pubDate>Thu, 28 Nov 2019 17:25:21 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/Precious-Plastic.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;翻译：Rudy Lo，luhuadong@163.com&lt;/p&gt;
+&lt;h2 id=&#34;10-介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#10-介绍&#34;&gt;#&lt;/a&gt; 1.0 介绍&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Nice to meet you !&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/01_Introduction.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;11-precious-plastic&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#11-precious-plastic&#34;&gt;#&lt;/a&gt; 1.1 Precious Plastic&lt;/h3&gt;
+&lt;p&gt;大家好，我叫 Precious Plastic（珍贵的塑料），一个很棒的项目。&lt;/p&gt;
+&lt;p&gt;我们的项目主要是一群男人（有时候也有几个女孩）一起工作，以寻找处理塑料废物的方法。因为塑料制品的广泛使用和随意丢弃，塑料已对生态系统和社会造成威胁，它正一步步地使我们的星球和人们的生活变得糟糕。 问题的根源在于，塑料的原材料石油需要很长时间才能形成，而很多塑料制品被人类使用的时间可能只有短短几分钟，是其生命周期中极小的一部分，并最终将其丢弃。&lt;/p&gt;
+&lt;p&gt;您周围所有的塑料都是资源，而不应是垃圾。这些塑料是一种拥有巨大潜力的材料，而且大部分都是完整的、质量很好的塑料，所以在这堆资源中有大量机会等待着我们发现。如果处理得当，这些资源将成为新物品的原材料。不管对您，还是社会，乃至整个地球，这种资源遍布各地，因此它可以成为您社区的收入来源或教育工具。&lt;/p&gt;
+&lt;p&gt;我们的 Precious Plastic 项目，就是希望向世界展示废弃塑料的无限商机，以消除塑料污染，减少对石油的需求，并关闭其材料循环，同时为世界各地的人们创造更好的生机。 最重要的是，Precious Plastic 是一种文化工具，它可以改变社会对塑料的看法。&lt;/p&gt;
+&lt;p&gt;我们制造了机器，也创建了一系列的文档、视频教程、活动，以及平台，以激励全球各地的人们能够开始在当地处理废弃塑料，同时为了更好地与当地的塑料回收技术结合，我们将项目的所有基础设施和知识，包括机器、模具等设计图纸都以开源的方式进行发布。&lt;/p&gt;
+&lt;p&gt;我们共享所有关于 Precious Plastic 的资源，任何人都可以从中受益。这意味着所有知识、专有技术、流程、方法论和工具都可以随时在线免费获得。这种开源理念是项目的核心，我们团队中的大多数决策都遵守这个理念。我们认为，合作比竞争更重要，而且塑料问题只能由大家一起解决。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/01_Introduction_2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Precious Plastic 机器旨在使任何人都可以处理废弃塑料，并且设计得尽可能通用和易于使用。因此机器各部件都由基本材料制成，非常实惠且易于在全球范围内制造。简单的设计使得机器更加容易维护和维修，同时由于采用模块化设计，因此机器可以适应不同的使用环境和需求。&lt;/p&gt;
+&lt;p&gt;Precious Plastic 是在一个强大的国际社区基础上建立起来，人们共同努力寻找解决塑料污染的方法。该社区在 Dave Hakkens（我们的创始人）论坛上在线开会，以讨论、启发和帮助大家找到许多未解决的问题的答案。讨论范围包括建议和构想、机器的开发、有关塑料的创作和研究等等。所以如果在本手册中无法找到您要找的问题的答案，可以前往论坛进行讨论。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/01_Introduction_3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;12-手册说明&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#12-手册说明&#34;&gt;#&lt;/a&gt; 1.2 手册说明&lt;/h3&gt;
+&lt;p&gt;您手里拿着的这本小册子可用作 Precious Plastic 工作区的操作指南，这将是一个小型的塑料回收工厂，以有意义的方式处理废弃塑料。 手册会帮助您入门，在您遇到问题或不知道怎么办时可作为参考。 您将找到有关 Precious Plastic 工艺和机器的信息，包括专业技术、最佳实践、链接、故障排除和培训材料，以及关于塑料世界的内容和见解。&lt;/p&gt;
+&lt;p&gt;该手册应作为获取有关塑料、Precious Plastic 机器制造与使用方法的工具。不应将其作为指导您寻找有关塑料的答案的唯一场所，而应将其用作在网络世界和现实世界中进一步进行个人研究的起点。&lt;/p&gt;
+&lt;p&gt;祝您好运 ！&lt;/p&gt;
+&lt;h3 id=&#34;13-免责声明&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#13-免责声明&#34;&gt;#&lt;/a&gt; 1.3 免责声明&lt;/h3&gt;
+&lt;p&gt;塑料回收是一个复杂的领域，并且封闭在公司利益和知识产权的大墙后面。这使得外行人或普通民众都难以对废弃塑料进行回收利用。我们竭尽所能提供最完整和令人满意的解决方案来应对塑料污染，但我们也意识到我们还没有找到所有关于塑料问题的答案。但我们会一步步前进，面对每一个新的挑战，并有信心解决废弃塑料的问题。&lt;/p&gt;
+&lt;p&gt;希望您也能加入我们，并提供一些答案。&lt;/p&gt;
+&lt;h2 id=&#34;20-塑料世界&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20-塑料世界&#34;&gt;#&lt;/a&gt; 2.0 塑料世界&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Learn the ins &amp;amp; outs of plastic&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/02_Plastic-world.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;21-什么是塑料&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#21-什么是塑料&#34;&gt;#&lt;/a&gt; 2.1 什么是塑料&lt;/h3&gt;
+&lt;p&gt;“塑料” 这个词日复一日地出现在我们的生活中，但这实际上是什么意思？这个词本身源自希腊语（plastikos），意思是 “能够成型或模制的”，是指它们在制造过程中的可延展性，可以将塑料浇铸、压制或挤压成各种形状，例如薄膜、纤维、盘子、管子、瓶子等等。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/02_Plastic-world_plastic.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;塑料是从石油中提取的合成化学品，主要由烃（氢和碳原子的链）组成。 大多数塑料是聚合物，是由许多重复的称为单体的基本分子组成的长分子。 这种结构使塑料具有很好的耐用性和持久性。&lt;/p&gt;
+&lt;p&gt;由于其相对较低的成本、易于制造和多功能性，塑料被用于从洗发剂（微珠）到太空火箭的众多产品中。塑料无处不在！无处不在的塑料已经造成了严重的环境问题，由于其强大的键合分子而导致其缓慢的分解速度（最近的研究表明为 500 年）。试想一下，您的父母和祖父母曾经使用过的所有塑料至今依然存在，并且还将持续污染地球数百年。&lt;/p&gt;
+&lt;p&gt;为了提高性能或降低生产成本，大部分塑料都会加入一些有机或无机化合物，也就是通常说的添加剂。根据不同的应用和塑料类型，添加剂的用量范围也有所不同。&lt;/p&gt;
+&lt;h3 id=&#34;22-塑料简史&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#22-塑料简史&#34;&gt;#&lt;/a&gt; 2.2 塑料简史&lt;/h3&gt;
+&lt;p&gt;塑料的发展，已从天然树脂材料发展到完全人工合成的分子（例如，环氧树脂，PVC）。 Parkesine（硝酸纤维素）被认为是第一种人造塑料（1856 年）。第一次世界大战后，化学技术的进步导致了新塑料的爆炸式增长，并于 1940 年代和 1950 年代开始大规模生产。第二次世界大战导致人们对塑料进行了更多的研究和开发，并发现了许多具有不同特性和应用的新型塑料。随着战争的结束，这些新型塑料随着各种各样的消费品进入了社会。&lt;/p&gt;
+&lt;h3 id=&#34;23-热固性和热塑性塑料&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#23-热固性和热塑性塑料&#34;&gt;#&lt;/a&gt; 2.3 热固性和热塑性塑料&lt;/h3&gt;
+&lt;p&gt;塑料领域有两个主要类别：热塑性塑料和热固性塑料。热塑性塑料是可以回收的塑料。热塑性塑料可以融化回液体并多次成型。可以将其想象为黄油，它可以融化和冷却许多次，并具有各种形状。幸运的是，热塑性塑料占全球产量的 90％。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/02_Plastic-world_Thermo-plastic-set.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;热固性塑料只能熔化一次并成型。 固化后，它们将永远保持坚固。 在热固性过程中，发生不可逆的化学反应。 热固性类似于面包，一旦达到最终状态，不管如何加热都不会熔化，只会导致其燃烧。因此热固性塑料无法回收。桑心！&lt;/p&gt;
+&lt;p&gt;您可能已经猜到了，我们将专注于热塑性塑料。从现在开始，当我们写 “塑料” 时，指的都是热塑性塑料。&lt;/p&gt;
+&lt;h3 id=&#34;24-塑料类型&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#24-塑料类型&#34;&gt;#&lt;/a&gt; 2.4 塑料类型&lt;/h3&gt;
+&lt;p&gt;塑料（热塑性）进一步分为七个不同的子类别，通常称为塑料类型。每种塑料类型都有其特定的化学组成、特性和应用，并用一个特定的编号（称为 SPI 代码）来区分它们。如今，大多数制造商都遵循这种编码系统，并将 SPI 代码放置在产品底部。&lt;/p&gt;
+&lt;p&gt;事先了解您所使用的塑料类型，对使用 Precious Plastic 机器至关重要。因为您需要知道其熔化温度，然后在 Precious Plastics 机器上设置合适的温度，这样才能更平稳地进行塑料回收过程。&lt;/p&gt;
+&lt;p&gt;这七种塑料类型分别是：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/02_Plastic-world_Plastic-type.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;PET（Polyethylene terephthalate，聚对苯二甲酸乙二醇酯，聚酯）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这是一种非常强大的塑料，其透明外观很容易识别。很多饮料瓶，包括您最喜欢的苏打水的饮料瓶都是 PET。这种塑料还用于许多其他产品，例如广口瓶、梳子、袋子、手提袋、地毯和绳索。用这种塑料制成的物品通常是可以回收利用的。近年来，PET 通常被回收纺成纱线用于制作衣服。这种塑料使用起来有点复杂，我们建议从其他塑料开始。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;HDPE（High-density polyethylene，高密度聚乙烯）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这种塑料通常用于食品或饮料容器。用这种塑料制成的物品包括用于盛放牛奶、机油、洗发水、肥皂瓶、洗涤剂和漂白剂的容器。许多玩具也是用这种塑料制成的。这种塑料与 Precious Plastic 配合得很好。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;PVC（Polyvinyl chloride，聚氯乙烯）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这是有毒的，我们不配合使用。PVC 最常见于管道中，加热时会释放氯。请勿与 Precious Plastic 一起使用。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;LDPE（Low-density polyethylene，低密度聚乙烯）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;保鲜膜、三明治袋、可挤压瓶和塑料食品袋均由 LDPE 制成。在废品回收行业中，通常很少回收 LDPE，但它与 Precious Plastic 一起使用时效果很好。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;PP（Polypropylene，聚丙烯）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这是市场上最常用的塑料之一。这种塑料强度高，通常也可以耐高温。在许多应用场合中，它始终用于与食品和饮料接触的产品（比如特百惠、酸奶盒、糖浆瓶等）。PP 与 Precious Plastic 配合很好。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;PS（Polystyrene，聚苯乙烯）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;PS 最常被称为聚苯乙烯泡沫塑料。PS 可以回收，但回收效率不高，因为回收时需要大量能源，这意味着很少有地方接受它。一次性咖啡杯、塑料食品盒、塑料餐具和包装泡沫均由 PS 制成。与 Precious Plastic 一起使用非常好。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Other（混合）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;该代码用于识别其他六个代码未定义的其他类型的塑料。ABS、丙烯酸或聚碳酸酯（PC）等都包含在此类别中，这也增加了回收难度。这个类别中的一些塑料可以与 Precious Plastic 配合使用。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;25-混合塑料&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#25-混合塑料&#34;&gt;#&lt;/a&gt; 2.5 混合塑料&lt;/h3&gt;
+&lt;p&gt;使用 Precious Plastics 时，切勿将不同类型的塑料混合在一起，因为这将导致无法再次回收它们。混合塑料的行为将终止其循环。此外，当将不同类型的塑料熔融在一起时，它们会像油和水一样发生相分离，并凝结成层，从而导致结构缺陷，并影响产品质量。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/02_Plastic-world_Mixing.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;30-准备工作&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#30-准备工作&#34;&gt;#&lt;/a&gt; 3.0 准备工作&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Learn how to make your plastic ready for melting&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/03_Plastic-prep.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;31-收集&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#31-收集&#34;&gt;#&lt;/a&gt; 3.1 收集&lt;/h3&gt;
+&lt;p&gt;Precious Plastic 回收工作区需要做的第一件事是回收塑料。很简单吧？没有塑料，后续所有流程都无法进行。为了有效地运行下去，必须始终有足够的塑料等待分类、切碎和加工。在此阶段，塑料仍然是混合且脏的。&lt;/p&gt;
+&lt;p&gt;Precious Plastic 工作区在空间外部有一个收集袋（带有适当的标牌），人们可以用来放下塑料，而在内部则可以按不同的类型进行分类，此循环可实现连续作业。当外面的收集袋装满时，团队应将其放入工作区内，并用另一个空的收集袋替换。一旦放入袋中，必须将其从塑料中清空，并尽快分类。当外面的袋子再次装满时，重复该过程。此循环应始终运行，以确保工作区的平稳运行。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/03_Plastic-prep_Collecting.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;收集塑料的方式是多种多样的，具体取决于您所在国家 / 地区的经济和文化背景，以及与您合作的伙伴。下面是一些例子：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Precious Plastic 工作空间的团队成员每天或每周从周围的环境、家人、朋友那里收集塑料。这可能非常耗费时间，但是从社区角度来看，会有很大的影响力，并且这种方式获得的塑料是免费的。&lt;/li&gt;
+&lt;li&gt;联系当地的商店或制造商，他们可能会产生一些不达标的产品或边角料，并且需要处理这些塑料废料。这意味着您可能会一次得到很多塑料废料，但可能需要支付少量的费用。&lt;/li&gt;
+&lt;li&gt;与当地的拾荒者合作，因为他们已经在你所在的城镇收集塑料了。您需要为拾荒者支付一些费用，但这可以为您节省很多时间，并且可以帮助他们获得更好的生活。&lt;/li&gt;
+&lt;li&gt;寻找可以为您提供稳定塑料供应的本地废物链（例如，工业、农业、渔业等）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/03_Plastic-prep_Collecting2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;收集到的塑料可以用来换钱，奖励或回馈。您可以根据您的商业计划、当地环境以及合伙伙伴等因素，作出最佳选择。&lt;/p&gt;
+&lt;h3 id=&#34;32-分类&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#32-分类&#34;&gt;#&lt;/a&gt; 3.2 分类&lt;/h3&gt;
+&lt;p&gt;分类系统是所有回收流程中的关键步骤。精确、彻底的分拣工作可确保过程更顺畅、产品更好、设备维护更容易。高效的分拣系统能够帮助团队准确地知道所使用的塑料类型，这对于确定其熔化温度，并正确设置 Precious Plastics 机器使其有效运行至关重要。&lt;/p&gt;
+&lt;p&gt;通过检查 SPI 代码（请参阅 2.4 塑料类型）来进行人工排序（真的吗？是的，即使是大型分拣中心也仍然采用人工分拣）。未分类的塑料一旦被送进工作区，您应尽快将其放在对应的分类袋中（标有适当的 SPI 代码）。检查每个产品的小代码（在三角形的回收标志中的数字或字母），该代码通常很小，很难找到。通常，它会在塑料制品的底部 / 侧面，采用压花或直接印在标签上的方式。确认其塑料类型后，就可以将其放入对应 SPI 代码的分类袋中了。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/03_Plastic-prep_Sorting.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;有时产品没有 SPI 代码，可能是随着时间的流逝而被磨损、侵蚀掉了，或者从一开始就没有印制。在这种情况下，应将产品放入混合袋（7 号）中。如果你有许多相同的、没有 SPI 代码的塑料制品，你可以尝试一些变通的方法来确定它们是哪种塑料。以下技术还没有经过 Precious Plastic 团队的全面测试，也许不太准确，但能够作为您自行研究的一个起点。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;** 漂浮测试。** 这项技术利用了不同类型的塑料有不同密度的特性。每种塑料都有自己的特定密度，这会使它在液体中的漂浮方式有所不同。用于测试的液体可以是盐水、酒精、植物油或甘油。该技术被业界广泛使用，但有可能非常棘手，特别是添加剂与塑料混合会改变其密度，从而使测量结果不准确。&lt;/li&gt;
+&lt;li&gt;** 燃烧测试。** 这是一种更为极端的技术，可以在某些情况下使用。利用不同塑料在燃烧时具有不同的特性。应用这种技术时，您可以切割一小块未知的塑料，然后并根据火焰的颜色、气味和其他特性进行判断。&lt;/li&gt;
+&lt;li&gt;** 破碎测试。** 当用锤子猛烈击打时，塑料会以不同的方式破碎。有些会碎成碎片，而有些可能完全不会破裂。同样，这不是完美的技术，但在某些情况下可以提供帮助。&lt;/li&gt;
+&lt;li&gt;** 声音测试。** 如果落在铺好的地板上，不同的塑料会发出不同的声音。例如，PP 和 PE 的声音低沉，而 PS 具有很高的音调和独特的声音。&lt;/li&gt;
+&lt;li&gt;** 划痕测试。** 热塑性和热固性可以很容易地用这种技术来识别。当用直立刀切割时，热塑性塑料会留下干净的切口，而热固性塑料在切口周围会留下碎末。&lt;/li&gt;
+&lt;li&gt;** 对象类型。** 产品通常是由特定类型的塑料制成。比如，水瓶 PET、CD 盒 PS、塑料桶 HDPE 等。这也是区分塑料类型的一种方法。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;33-破碎&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#33-破碎&#34;&gt;#&lt;/a&gt; 3.3 破碎&lt;/h3&gt;
+&lt;p&gt;将塑料按不同类型分类后，就可以将其切碎了。在此需要将较大的塑料物体切成小颗粒，以减小其尺寸，方便后续清洗、存储以及配合其他机器使用。在此阶段，最好同时按颜色把塑料区分开来。（有关破碎机及其工作方式的更多信息，请参阅 4.2 破碎机）&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/03_Plastic-prep_Shredding.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;34-清洗&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#34-清洗&#34;&gt;#&lt;/a&gt; 3.4 清洗&lt;/h3&gt;
+&lt;p&gt;在进行回收操作之前，塑料必须保持清洁。我们总是建议人们把塑料清洗干净。因为灰尘、污垢和杂质会对 Precious Plastic 机器和工艺造成不良影响。肮脏的塑料会增加机器故障，带来额外的维护成本，同时降低产品质量。&lt;/p&gt;
+&lt;p&gt;如果收集到不干净的塑料容器，则可以在装满水的桶中洗涤。但我们通常采用一种更有效的方法，就是将塑料切碎后再使用一个 “基础过滤系统” 进行洗涤。将塑料碎片放在网格上，浸入水中，然后将其彻底搅拌 5-10 次后取出。接着，您应该将这些塑料碎片放在干燥板上数小时，等待水蒸发。这一步非常重要，因为塑料在熔化之前必须保证干燥。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/03_Plastic-prep_Washing.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;35-储存&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#35-储存&#34;&gt;#&lt;/a&gt; 3.5 储存&lt;/h3&gt;
+&lt;p&gt;一旦塑料碎片完全干燥，就可以将其存储在提前准备好的容器中。在条件允许情况下，存储容器最好是坚固、透明、可堆叠的，以便您可以看到塑料的颜色和特征。工具包中提供了遵循 SPI 编码的 Precious Plastic 贴纸，您可以将这些标签对应地贴在存储容器上。例如，如果您对 PS 进行了分类，切碎并最终进行了清洗，则必须在容器中贴上 PS 代码标签，以免与其他塑料混在一起。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/03_Plastic-prep_Storing.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;40-创作&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#40-创作&#34;&gt;#&lt;/a&gt; 4.0 创作&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Learn about the machines and how to make beautiful products&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/04_Create.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;41-总览&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#41-总览&#34;&gt;#&lt;/a&gt; 4.1 总览&lt;/h3&gt;
+&lt;p&gt;Precious Plastic 制造了 4 台机器来回收塑料。这些机器是根据传统工业概念设计的，但规模较小，因此可以将成本和知识的入门水平降至最低。这种包容性的设计增加了在全世界范围内的操作性和可行性。这些机器是使用基本技术和材料开发的，因此来自世界各地的具有基本的机械、电气技能的人们都可以轻松地理解、复制和修理这些机器。机器还以模块化方式构建，这意味着每个零件都是独立的，可以单独更换、改进、升级、维修和维护，而不会影响整个机器。我们很高兴看到人们动手搭建 Precious Plastic 机器，并期待着您能够使它变得更好！&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/04_Create_Introduction.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在本章中，我们将向您解释每台机器的工作方式，如何制作精美的产品，以及面对常见的问题如何进行故障排除和修复。&lt;/p&gt;
+&lt;h4 id=&#34;机器是如何工作的&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#机器是如何工作的&#34;&gt;#&lt;/a&gt; 机器是如何工作的&lt;/h4&gt;
+&lt;p&gt;除了破碎机，其他三台机器的基本原理均相同。机器将热量施加到塑料上，使塑料熔化，接着被压进模具或变成其他形状，最后冷却使其恢复固态。这就是塑料回收背后的魔力。很简单，对吧？&lt;/p&gt;
+&lt;p&gt;每台机器都有自己独特的工作流程、输出结果、注意事项、行为和问题，但基本概念是相同的。你与它们配合工作的次数越多，就会对越了解它们，并且可以更好地开展塑料回收工作。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/04_Create_Work.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;应该如何开始&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#应该如何开始&#34;&gt;#&lt;/a&gt; 应该如何开始&lt;/h4&gt;
+&lt;p&gt;要想很好地进行塑料加工并不容易，需要花一些时间和精力去学习，就像学习其他工艺一样。首先要学习塑料相关知识，了解它在不同条件下的特性和操作方式。在这项工作开始的前几天，您应该了解塑料如何熔化、如何冷却、什么情况下会燃烧、如何进行抛光，以及如何制造出优质的产品。&lt;/p&gt;
+&lt;p&gt;除了获得塑料方面的经验外，在不同材料以及它们如何与塑料一起使用方面，发展一定程度的专业知识也很重要。当您尝试自己制作新模具时，这一点尤其重要。了解哪种材料最有效地导热、哪种材料容易与塑料分离，以及对其他一些重要材料了解，将帮助您顺利地完成这项工作。&lt;/p&gt;
+&lt;p&gt;在开始之前，让我们先来考虑一些适用于所有机器的常规事项：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;阅读指导手册&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果您不熟悉 Precious Plastic，那么请务必仔细阅读本手册。它包含有关塑料和机器的关键信息。这将节省您的时间，帮助您制造最好的产品，而不损坏机器，并确保自身安全和健康。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;安全性&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;许多国际研究论文都对使用塑料的安全性进行了研究和描述。关于加热塑料是否危险，人们常常形成反差。许多研究表明，将塑料的温度保持在熔融区内（不燃烧）是无害的。当然，这也很大程度上取决于您所使用的塑料类型（这就是为什么分类如此重要的原因）。在进行研究时，我们注意到，从事塑料行业的大多数人也都是遵循此规则进行操作的。但是，由于不完全信任塑料行业，我们希望尽量保证安全 —— 始终尝试避免吸入任何塑料烟雾，在机器上作业时佩戴防毒面具并确保始终保持良好的通风。&lt;/p&gt;
+&lt;p&gt;另外，由于这些机器可以在几百度的高温下工作，所以要求操作人员始终要集中注意力和专心，以免燃烧或着火。当使用破碎机时，由于切碎的刀片锋利并容易抓住物体。因此要特别注意，在操作破碎机时，切勿穿着长袖或带松散的手套。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;选择容易上手的塑料&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;有很多塑料类型可供选择。 每种都有自己的属性和行为（柔韧性，硬性，液体性等）。其中一些更易于使用，尤其是因为它们具有较宽的熔化区。我们建议从 PP，HDPE，PS 开始，因为它们更容易使用，使得工作进展得更加轻松。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;控制温度&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于每个回收过程，第一步都是弄清楚熔化塑料所需的温度。在大多数情况下，这取决于您使用的塑料类型以及作业场所的室温（例如，如果刮风，热量散发的速度会更快）。不幸的是，塑料中通常混合了添加剂、颜料和填料，这些添加剂、颜料和填料会改变塑料的物理成分和化学特性，从而影响最终的熔化温度。因此，如果您发现达到建议的熔融温度时塑料并未变成熔融状态，请不要感到惊讶，请尝试逐渐调高或降低温度直至达到所需的熔融状态。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;不要燃烧塑料&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;很多人都已经知道这个注意事项了，但依然值得被重复提及。在家里或使用 Precision Plastic 时，切勿燃烧塑料。燃烧塑料所产生的烟雾具有剧毒，并可能对人体造成严重的健康问题。对于整个回收处理过程中，燃烧塑料也是极劣的做法，因为这样会损坏产品或降低质量。所有塑料都有一个熔化区，在熔化区之间是一个温度窗口（例如 130 至 171°C），超过熔化温度塑料将开始燃烧。应尽可能地避免这种情况发生。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;模具&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;模具是 Precision Plastic 生态系统不可或缺的一部分，这部分几乎是另一个领域了。模具使熔融的塑料成形并形成最终产品。设计师和工程师团队正全力以赴开发模具，以制造我们周围大部分的东西。在 Precious Plastic 项目，我们暂时还没有专门从事模具开发和开源设计文稿。您的团队可以自行研发新模具，制造新产品并将塑料回收利用推向极致。我们也在网站上共享了一些技术视频，来向您展示开展这部分工作的不同方法。&lt;/p&gt;
+&lt;p&gt;模具可以使用不同的材料制成，但是我们通常建议使用金属材料，以提高其耐用性和导热能力（提高能源效率）。金属可以通过多种方式成型，使用哪种方式取决于要制造的模具类型以及您可以使用的技术。例如，您可以使用手工的方法，借助焊接机（稍微粗糙一些），铣床或车床制造新模具。也可以创建设计文件并使用更先进（且更昂贵）的技术进行加工，例如 CNC（非常精确）。&lt;/p&gt;
+&lt;p&gt;我们建议您花一些时间思考、设计和制作精度更高的模具，以便您可以创造出更好的产品。从长远来看，这有利于获得更大的回报。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;让塑料变得有价值&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我们认为塑料不应被视为便宜的、一次性的。我们努力使塑料变得有价值，创造出可以长期保存并让人珍惜的物品。不要忽视这一点，要热爱自己创造的东西，开始以全新的方式看待塑料，并激发世界各地的人们。创造美丽的、更昂贵和更有价值的物品，这将避免您与低廉的油价竞争 —— 人们购买产品的原因是他们想要的，而不是因为价格便宜。从长远来看，这样做会更好，因此您可以付出更多的努力来获得更大的利润，最重要的是，生态环境中不会再出现随意丢弃的塑料。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;分享您的创作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我们的社区是该项目的主要载体。访问我们的网站或论坛（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kYXZlaGFra2Vucy5ubC9jb21tdW5pdHkvZm9ydW1zLw==&#34;&gt;https://davehakkens.nl/community/forums/&lt;/span&gt;），您可以看到其他人所做的事情，同时您也可以分享您所做的事情，帮助推动项目前进！我们在一起可以找到更有效的、更有趣的，并可以改善每个人生活中面临的塑料问题的解决方案。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;将其提升到一个新的层次&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#将其提升到一个新的层次&#34;&gt;#&lt;/a&gt; 将其提升到一个新的层次&lt;/h4&gt;
+&lt;p&gt;Precision Plastic 为您和您的团队提供了一个可有效运行的回收工作区的基本框架。接下来，将由您和您的团队将其提升到一个新的层次。创建新产品、新模具、制造机器，也许会更进一步制造出新的机器、发明，与其他工匠合作、进行实验、分享知识、教导其他人，发明新的奖励系统来收集塑料，或将新朋友带到您的工作空间。保持开放与合作，因为您不知道成功的解决方案来自哪里。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/04_Create_New-level.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;42-破碎机&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#42-破碎机&#34;&gt;#&lt;/a&gt; 4.2 破碎机&lt;/h3&gt;
+&lt;h4 id=&#34;介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#介绍&#34;&gt;#&lt;/a&gt; 介绍&lt;/h4&gt;
+&lt;p&gt;破碎机是功能完备的 Precious Plastic 工作区必不可少的机器。破碎机可以帮助您将较大的塑料物体切成较小的薄片，以便于后续的清洗、存储，以及作为其他机器的原料。破碎机能够帮助您提高工作效率和速度。切碎的塑料更易于使用，融化也更容易。塑料行业回收塑料碎片的价格是未粉碎塑料的 8 至 10 倍，因此在将塑料重新销售回该行业时，破碎机就显得尤为重要。所以，在任何塑料回收工作场所中，您都会看到破碎机。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/04_Create_Shredder.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;处理过程&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#处理过程&#34;&gt;#&lt;/a&gt; 处理过程&lt;/h4&gt;
+&lt;p&gt;当您准备切碎一些塑料时，首先要做的是确定塑料类型，选择哪种塑料取决于分类袋中收集的塑料量。您需要确保有足够的塑料（相同类型），因为如果您中途想更换塑料类型的话，还需要做一些工作（清理）。选择好塑料类型后，可以先将较大的塑料物体拆解成较小的块，以便于可以放入料斗。根据塑料物体的实际情况，可以使用锤子、剪刀等工具。在这个环节，您还应该简单地清理一下塑料上的大块污垢，但注意不要花太多时间（因为在后面还会有更细致的清洗环节）。&lt;/p&gt;
+&lt;p&gt;现在，您可以将较小的塑料块倒入料斗中，然后等待刀片将其切碎，直到小到足以穿过网孔为止（网孔确定了输出塑料的尺寸）。在此阶段，您应定期检查刀片，并使用提供的工具将塑料向下推向刀片，以确保刀片抓住塑料。使用破碎机时，请务必格外小心。当您使用完破碎机后，请将切碎的塑料存放起来，否则下一个使用破碎机的人可能会混淆不同类型的塑料。&lt;/p&gt;
+&lt;h4 id=&#34;破碎机的操作方法&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#破碎机的操作方法&#34;&gt;#&lt;/a&gt; 破碎机的操作方法&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;收集你想要切碎的同类型塑料。&lt;/li&gt;
+&lt;li&gt;按颜色分开。&lt;/li&gt;
+&lt;li&gt;检查是否安装了孔径大小合适的筛网。&lt;/li&gt;
+&lt;li&gt;启动机器。&lt;/li&gt;
+&lt;li&gt;往料斗中放入塑料并等待切碎。&lt;/li&gt;
+&lt;li&gt;将切碎后的塑料储存起来。&lt;/li&gt;
+&lt;li&gt;清理机器。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;更换塑料类型&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#更换塑料类型&#34;&gt;#&lt;/a&gt; 更换塑料类型&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;关闭机器，并拔下电插头。&lt;/li&gt;
+&lt;li&gt;取下筛网（需要卸下 4 颗螺丝）。&lt;/li&gt;
+&lt;li&gt;用刷子或高压气枪清除机器上残留的塑料碎片。&lt;/li&gt;
+&lt;li&gt;将筛网安装回去即可。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;故障排除&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#故障排除&#34;&gt;#&lt;/a&gt; 故障排除&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;破碎机的刀片有时候会抓不住塑料，可以使用专门提供的工具将塑料推向刀片，但切勿尝试用手进行操作。&lt;/li&gt;
+&lt;li&gt;如果塑料阻力超过电动机的最大扭矩，那么机器会停止运转。也就是说，放入太多待破碎的塑料时，可能造成电动机无法工作。这时候，您需要关闭机器，并清除一些堵塞的塑料。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;技巧与贴士&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#技巧与贴士&#34;&gt;#&lt;/a&gt; 技巧与贴士&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;我们习惯将同类塑料按颜色分开破碎，这样就可以充分利用塑料本身的颜色，起到油漆的效果。首先选择塑料类型，然后选择一种颜色的塑料并切碎它们。请勿为了匹配颜色而混合使用不同类型的塑料。&lt;/li&gt;
+&lt;li&gt;每次更换塑料时都要清洁机器，包括刀片和筛网，以免污染不同类型的塑料。&lt;/li&gt;
+&lt;li&gt;戴上护目镜，因为一些塑料碎片可能会从漏斗中弹出。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;43-挤出机&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#43-挤出机&#34;&gt;#&lt;/a&gt; 4.3 挤出机&lt;/h3&gt;
+&lt;h4 id=&#34;介绍-2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#介绍-2&#34;&gt;#&lt;/a&gt; 介绍&lt;/h4&gt;
+&lt;p&gt;挤出机是 Precious Plastic 军械库中非常强大的机器，因为它可以创造出独特的产品并且可以连续运行。如果您有足够的塑料和流畅的操作流程，从技术上来讲，是可以实现 24/7 全天候回收的。使用挤出机，您可以制作长丝、造粒或创造性地使用模具。这台机器也非常适合教育用途，因为该过程非常简单易懂。这项技术很好地将不同颜色的塑料混合在一起，并输出均匀且平滑的颜色，例如，如果将黑白塑料混合在一起，则将获得效果不错的平滑灰色输出。您可以在设计中充分利用此功能。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/04_Create_Extrusion.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;处理过程-2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#处理过程-2&#34;&gt;#&lt;/a&gt; 处理过程&lt;/h4&gt;
+&lt;p&gt;从料斗中倒入塑料，并通过大螺钉将物料沿着枪管往放置电热圈的一端运输。电热圈的热量和对枪管内部施加的压力使塑料进入熔融状态（液体）。一旦充分熔化，塑料最终会以连续螺纹的形式通过喷嘴流出。之后可以根据不同需求对这些塑料线材进行不同的处理。&lt;/p&gt;
+&lt;h4 id=&#34;创作&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#创作&#34;&gt;#&lt;/a&gt; 创作&lt;/h4&gt;
+&lt;p&gt;挤出的线材离开喷嘴后，可以采用很多方法对其进行加工处理，以获得所需的结果。考虑本文档的篇幅，我们将仅描述如何通过提供的模具进行处理的过程，包括 3D 打印或造粒等其他方法可以在线获取。当塑料从喷嘴中出来时，它仍然是半液态的（非常热！），这使我们有几秒钟的时间将其围绕模具成型。将从喷嘴出来的新鲜滚烫的线材一遍又一遍地放在模具周围，直到产生新的物体。新的热塑料和上一层的线将融化在一起，形成新的固体材料。在模具周围重复此过程多次，您将获得一个新产品。虽然听起来非常简单，但是这个过程需要一些经验和良好的动手能力，不过不用担心，只要经过几次尝试任何人都能够制造出一些很棒的物品。&lt;/p&gt;
+&lt;h4 id=&#34;模具&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#模具&#34;&gt;#&lt;/a&gt; 模具&lt;/h4&gt;
+&lt;p&gt;借助我们的技术视频中的灯模，您可以制作一个灯，任何人都可以简单、直接地了解其功能。它由钢制成，世界各地的工匠都可以复制。要记住的一个重要方面是设计具有凸壁（并非完全笔直）的模具，这有助于取出最终成型的产品。该模具的技术图纸可在线获得。&lt;/p&gt;
+&lt;h4 id=&#34;温度&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#温度&#34;&gt;#&lt;/a&gt; 温度&lt;/h4&gt;
+&lt;p&gt;您可以通过电气盒上的控制器设置温度。加热元件分为两组（在控制器顶部标有 “喷嘴” 和 “枪管”），前三个元件（“枪管”）的温度应略低于位于喷嘴附近的最后一个。这是为了确保塑料在挤出前得到最后的热量。下表是我们经过实验得到的最佳温度设置表，您可以根据这张表来设置（提示：您也可以自己制作一张，看看哪种温度最适合您的机器）。图表中的最佳温度是在电动机以 70rmp 的转速旋转工作得出的。如果您的电动机转动得更快，您将需要更高的温度，因为塑料流过机筒的速度更快，吸收热量的时间更少，反之，如果电动机速度较慢，则吸收热量的时间更长。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;种类&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;枪管温度&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;喷嘴温度&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;时间&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;PP&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;190℃&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;210℃&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;PE&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;190℃&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;210℃&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;PS&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;210℃&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;230℃&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;挤出机的操作方法&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#挤出机的操作方法&#34;&gt;#&lt;/a&gt; 挤出机的操作方法&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;启动&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;将机器设置到所需的温度。&lt;/li&gt;
+&lt;li&gt;等待 20 分钟。&lt;/li&gt;
+&lt;li&gt;往料斗中添加所需的塑料。&lt;/li&gt;
+&lt;li&gt;打开电动机。&lt;/li&gt;
+&lt;li&gt;前两分钟是在清洁机器，因为此时从机器中挤出的是上一次作业中残留的材料。&lt;/li&gt;
+&lt;li&gt;接着就可以准备创作产品了。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;生产&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;当有一根塑料线材从挤出机中流出后，这个过程就很难停下来了，所以在开始挤出之前就要知道您想做的是什么。&lt;/li&gt;
+&lt;li&gt;可以通过旋转喷嘴处的螺杆来调整挤出的流量和压力（流量越大等于压力越小）。&lt;/li&gt;
+&lt;li&gt;请记住，塑料大约需要 2 分钟才能从料斗到达喷嘴。&lt;/li&gt;
+&lt;li&gt;挤出时保证料斗中有足够的塑料颗粒，这样可以减少挤出塑料中的气泡。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;冷却&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;冷却机器时，让机器保持转动，直到没有更多的材料从喷嘴出来。&lt;/li&gt;
+&lt;li&gt;先关闭电动机，再停止加热。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;故障排除-2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#故障排除-2&#34;&gt;#&lt;/a&gt; 故障排除&lt;/h4&gt;
+&lt;p&gt;挤出机最常见的问题是输出不均匀，发生这种情况有几个原因：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;塑料可能很脏，堵塞了喷嘴，使塑料很难脱出。&lt;/li&gt;
+&lt;li&gt;两种不同类型的塑料混合在一起，造成这种情况的常见原因可能是分拣阶段混淆了，或是先前作业在枪管中留下了不同类型的塑料。在这种情况下，一种塑料类型会熔化，而另一种不会，没有熔化的塑料就会阻塞喷嘴。&lt;/li&gt;
+&lt;li&gt;温度不够高，枪管中的塑料没有完全熔化。&lt;/li&gt;
+&lt;li&gt;您可以通过检查原料的完整性和纯度，或者提高温度来解决上述问题。调整过后，请确保先清空整个枪管，然后再尝试制造新产品。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;技巧与贴士-2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#技巧与贴士-2&#34;&gt;#&lt;/a&gt; 技巧与贴士&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;您可以更改喷嘴的大小来输出不同的线材大小，然后选择适合您的大小。我们使用较大和较小的线材，都有很好的示例。&lt;/li&gt;
+&lt;li&gt;如果可以的话，请两个人一起操作机器，一个人很难同时完成挤出和上料的工作。&lt;/li&gt;
+&lt;li&gt;如果您要更换塑料，请让机器运转几分钟，以确保先前残留在枪管中的塑料被清理干净，否则会遇到问题。&lt;/li&gt;
+&lt;li&gt;确保料斗中始终有足够的塑料。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;44-注塑机&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#44-注塑机&#34;&gt;#&lt;/a&gt; 4.4 注塑机&lt;/h3&gt;
+&lt;h4 id=&#34;介绍-3&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#介绍-3&#34;&gt;#&lt;/a&gt; 介绍&lt;/h4&gt;
+&lt;p&gt;注塑机是一种效率很高的机器，它可以非常精确地生产出很小的物体。模具的制造可能会稍微困难一些，但是一旦您拥有了一个好的模具，您就会对可以用它制造的产品感到惊讶。通过调整枪管的体积，注塑机可以制造更小的物体，但操作速度更快，精度也更高。当在桶中混合颜色时，输出颜色通常是无法预测的，这会产生令人惊讶的图案，从而增加产品的美感。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/04_Create_Injection.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;处理过程-3&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#处理过程-3&#34;&gt;#&lt;/a&gt; 处理过程&lt;/h4&gt;
+&lt;p&gt;根据您要制造的物体的大小，往料斗装满所需塑料的量。加热元件（电热圈）会使枪管升高并熔化里面的塑料。15 到 20 分钟后（具体时间与您所使用的塑料类型和体积有关），塑料将熔化，这时可以手动操作金属手柄将其注入模具中。注入后，模具可以立即冷却，可以用空气或冷水（速度更快，但会引起生锈）进行冷却。等到金属变冷，您就可以打开模具并查看结果了。&lt;/p&gt;
+&lt;h4 id=&#34;创作-2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#创作-2&#34;&gt;#&lt;/a&gt; 创作&lt;/h4&gt;
+&lt;p&gt;使用注塑机生产产品可能会有些困难，因为这需要预先做好模具。不同类型的塑料所需的压力有所不同，如果需要更多的压力来注入塑料，则可以一个或两个人一起按下杠杆手柄。&lt;/p&gt;
+&lt;p&gt;该过程本身与模具和模具制造紧密相关。如果您有精密的模具，则可以在短短几分钟内生产出精美的产品并开始少量本地生产。在将塑料注入模具之前，您必须确保枪管中的塑料已经完全融化，以保证能填充满模具的所有区域。为达到这个目的，机器温度要比平时高出几度以确保塑料是完全液态的。&lt;/p&gt;
+&lt;h4 id=&#34;模具-2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#模具-2&#34;&gt;#&lt;/a&gt; 模具&lt;/h4&gt;
+&lt;p&gt;借助我们的技术视频中的瓷砖模具，您可以制作八角形瓷砖，任何人都可以通过它简单而直接地了解这个功能，并且可以完美地连续作业。您可以制作外墙、人行道或桌子，我们迫不及待想看看您可以使用它们做什么！该模具是通过将不同的钢部件焊接在一起制成的，可以被世界各地的任何金属工人轻松地复制。我们强烈鼓励您和团队研究制造新模具，以生产适合您的市场的产品。适合初学者的模具的技术图纸可在线获得。&lt;/p&gt;
+&lt;h4 id=&#34;温度-2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#温度-2&#34;&gt;#&lt;/a&gt; 温度&lt;/h4&gt;
+&lt;p&gt;下表是我们经过实验得到一张注塑机最佳工作温度设置图表（提示：您可以自己制作一张，看看哪个温度最适合您的机器）。您可以通过电气盒上的控制器设置温度。加热元件被分成两组（温度在控制器顶部标有 “喷嘴” 和 “枪管”），它们的温度不同，前三个元件（“枪管”）的温度应略低于喷嘴处的最后一个（喷嘴）的温度。这是为了确保塑料在注入模具之前获得更多的热量来保持熔融状态。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;材料&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;枪管温度&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;喷嘴温度&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;时间&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;PP&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;190℃&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;210℃&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;15 min&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;HDPE&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;190℃&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;210℃&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;15 min&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;PS&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;210℃&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;230℃&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;15 min&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;注塑机的操作方法&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#注塑机的操作方法&#34;&gt;#&lt;/a&gt; 注塑机的操作方法&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;启动&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;打开机器并将温度设置为比所需温度高 20°，并确保控制杆完全处于最低位置。&lt;/li&gt;
+&lt;li&gt;等待至少 20 分钟。&lt;/li&gt;
+&lt;li&gt;调低温度，并向枪管中注入所需的塑料。&lt;/li&gt;
+&lt;li&gt;等待 15 分钟使塑料熔化，并用第一批熔化的塑料冲洗机器枪管内之前残留的塑料。&lt;/li&gt;
+&lt;li&gt;将第一批塑料从机器中推出。&lt;/li&gt;
+&lt;li&gt;机器现在可以准备生产了。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;生产&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;机器现在已准备就绪，可以开始生产了。&lt;/li&gt;
+&lt;li&gt;向枪管中注入所需的塑料。&lt;/li&gt;
+&lt;li&gt;按下枪管上的杠杆。&lt;/li&gt;
+&lt;li&gt;每隔 5 至 10 分钟向上拉起杠杆，并添加足够的塑料。&lt;/li&gt;
+&lt;li&gt;等待 10 分钟或更长时间。&lt;/li&gt;
+&lt;li&gt;松开底部的黄铜螺丝。&lt;/li&gt;
+&lt;li&gt;拧入模具（动作要快点，否则塑料会流出来！）。&lt;/li&gt;
+&lt;li&gt;将模具固定到机器上后，将杠杆尽可能地向下拉，不要害怕给它施加很大的压力，它可以轻松承受 100kg 的力。&lt;/li&gt;
+&lt;li&gt;从机器上拧下模具。&lt;/li&gt;
+&lt;li&gt;向上拉起杠杆。&lt;/li&gt;
+&lt;li&gt;将黄铜螺丝拧回去。&lt;/li&gt;
+&lt;li&gt;往机器中填充塑料，准备生产新产品。&lt;/li&gt;
+&lt;li&gt;等待拧下来的模具冷却。&lt;/li&gt;
+&lt;li&gt;模具冷却后再打开。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;冷却&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;当您关闭机器时，请完全清空枪管，这对于您之后使用它的人来说比较方便。&lt;/li&gt;
+&lt;li&gt;将机器的杠杆完全放下。&lt;/li&gt;
+&lt;li&gt;关闭机器。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;故障排除-3&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#故障排除-3&#34;&gt;#&lt;/a&gt; 故障排除&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;如果塑料堵塞在枪管的末端，即使施加较高的压力也没有脱落，则应升高喷嘴加热器的温度，以使塑料完全熔化，消除堵塞。&lt;/li&gt;
+&lt;li&gt;最终产品可能会粘在模具上，导致难以脱模，如果发生这种情况，请轻轻地重新加热模具以软化塑料并帮助脱模。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;技巧与贴士-3&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#技巧与贴士-3&#34;&gt;#&lt;/a&gt; 技巧与贴士&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;塑料越热，最终产品上的凹陷（sink marks）就越大。&lt;/li&gt;
+&lt;li&gt;当仍然温暖时可以清理掉模具上的塑料，否则以后会更难清理。&lt;/li&gt;
+&lt;li&gt;在模具上使用脱模剂，有助于脱模。&lt;/li&gt;
+&lt;li&gt;我们希望始终保持枪管充满塑料，每次注射时都要添加一些塑料。&lt;/li&gt;
+&lt;li&gt;当完成注塑机的工作后，请确保将枪管中的塑料清空。&lt;/li&gt;
+&lt;li&gt;为了提高工作效率，建议启动机器后将其运行几个小时。不要太频繁地启动和停止机器，因为该过程效率很低。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;45-压缩机&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#45-压缩机&#34;&gt;#&lt;/a&gt; 4.5 压缩机&lt;/h3&gt;
+&lt;h4 id=&#34;介绍-4&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#介绍-4&#34;&gt;#&lt;/a&gt; 介绍&lt;/h4&gt;
+&lt;p&gt;压缩机包括一个用于加热塑料的电烤箱和一个用于向模具施加压力的千斤顶。该过程通常较慢，但可以制作更大的物品。该机器还可用于制造新的原材料，例如大片塑料，可以使用其他技术进一步加工以制造新产品。当混合不同颜色的塑料时，压缩机会给塑料带来特定的片状外观，因此您可以发挥您的优势进行设计。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/04_Create_Compression.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;处理过程-4&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#处理过程-4&#34;&gt;#&lt;/a&gt; 处理过程&lt;/h4&gt;
+&lt;p&gt;装有塑料的模具放置在烤箱托盘的中间。设置正确的温度，并根据塑料类型等待一段时间（30-40 分钟），然后开始转动千斤顶。旋转将托盘推向烤箱顶部，从而在模具中产生压力，并使塑料均匀分布在所有区域。等待一两分钟，然后卸下千斤顶将其释放。从烤箱中取出模具，然后在水或空气中冷却。模具冷却后即可打开并检查新产品。&lt;/p&gt;
+&lt;h4 id=&#34;创作-3&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#创作-3&#34;&gt;#&lt;/a&gt; 创作&lt;/h4&gt;
+&lt;p&gt;压缩的过程简单易懂，如果掌握得当，压缩功能会非常强大。通常情况下，一个人也能完成操作。同样，制造产品的过程与模具和模具制造息息相关。如果您有精确的模具，则可以创造出精美的产品。我们提供的模具非常基础，因此每个人都可以理解该过程，但是我们强烈鼓励您和团队研究制作对您所在地区有用的新模具。&lt;/p&gt;
+&lt;h4 id=&#34;模具-3&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#模具-3&#34;&gt;#&lt;/a&gt; 模具&lt;/h4&gt;
+&lt;p&gt;使用我们技术视频中的碗模，您可以制作一个八角形碗，这种美观且具备功能性的产品可用于存储、运输和展示食物或物体。这是一个基本且简单易懂的模具，任何人都可以理解它的功能，它是用钢制成的，可以被世界各地的任何金属工人复制。它的凸面性质是使产品轻松脱模的关键。该模具的技术图纸可在线获得。一旦您掌握了这种模具，为什么不尝试制作一个新模具来创造新产品呢？&lt;/p&gt;
+&lt;h4 id=&#34;温度-3&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#温度-3&#34;&gt;#&lt;/a&gt; 温度&lt;/h4&gt;
+&lt;p&gt;下表是我们经过实验得到一张压缩机最佳工作温度设置图表。压缩机的工作过程不受室温影响，您可以通过电气盒上的控制器设置温度。对于这台机器，您只需要设置一个温度。需要注意的是，烤箱顶部和底部之间的温度可能略有不同。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;材料&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;温度&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;时间&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;重量&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;PP&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;200℃&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;40 min&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;425 g&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;HDPE&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;200℃&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;40 min&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;425 g&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;PS&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;220℃&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;40 min&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;425 g&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;压缩机的操作方法&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#压缩机的操作方法&#34;&gt;#&lt;/a&gt; 压缩机的操作方法&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;启动&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;打开烤箱并设置所需的温度。&lt;/li&gt;
+&lt;li&gt;等待 20 分钟以达到所需的温度。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;处理过程&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;称量您所需的材料量 + 20％。&lt;/li&gt;
+&lt;li&gt;将塑料材料填充进模具。&lt;/li&gt;
+&lt;li&gt;将模具的上盖置于塑料材料上。&lt;/li&gt;
+&lt;li&gt;将模具放入烤箱。&lt;/li&gt;
+&lt;li&gt;静置 15 分钟。&lt;/li&gt;
+&lt;li&gt;调节烤箱温度至 180°。&lt;/li&gt;
+&lt;li&gt;再放置 15 分钟。&lt;/li&gt;
+&lt;li&gt;压缩模具。&lt;/li&gt;
+&lt;li&gt;从烤箱中取出模具。&lt;/li&gt;
+&lt;li&gt;将夹具放在模具上以保持压力。&lt;/li&gt;
+&lt;li&gt;将另一个模具放入烤箱。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;冷却&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;清理烤箱内部熔融的塑料。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;故障排除-4&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#故障排除-4&#34;&gt;#&lt;/a&gt; 故障排除&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;塑料从模具的一侧溢出。 这通常是模具、压板或烤箱本身之间未对准导致的。需确保一切都尽可能与地面平行。&lt;/li&gt;
+&lt;li&gt;产品粘在模具上。尝试轻轻加热模具以帮助脱模，或生产前在模具上涂一层脱模剂。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;技巧与贴士-4&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#技巧与贴士-4&#34;&gt;#&lt;/a&gt; 技巧与贴士&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;建议先加热塑料直至熔化，然后再施加压力。&lt;/li&gt;
+&lt;li&gt;不要草率，请确保塑料在模具中完全融化。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;46-后续想法&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#46-后续想法&#34;&gt;#&lt;/a&gt; 4.6 后续想法&lt;/h3&gt;
+&lt;p&gt;以上过程是起点，而不是终点，希望它能激励您并引您入门。花一些时间来掌握它们，您就会了解这套机器是如何工作的，以及它们是如何与塑料一起使用的。一旦有了信心，为什么不尝试脱离原有思维并测试新的想法、模具、工艺和技术呢？&lt;/p&gt;
+&lt;p&gt;我们期待看到您和您的团队可以在当地进行此项目，从而打破城市塑料回收的限制。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/04_Create_Final.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;50-更多&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#50-更多&#34;&gt;#&lt;/a&gt; 5.0 更多&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Help, share, forum &amp;amp; more&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/05_Extra.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;51-需要帮助&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#51-需要帮助&#34;&gt;#&lt;/a&gt; 5.1 需要帮助？&lt;/h3&gt;
+&lt;p&gt;您在使用机器或制造产品时遇到麻烦吗？您是否陷入困境或需要帮助？下面介绍几种有用的方法或地方，让您可以从 Precious Plastic 团队或社区中得到帮助。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;网站&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我们的网站是一个不错的起点。在那里，您可以找到许多有关如何运行 Precious Plastic 工作区的信息、视频教程、文档和贴士。转到 &amp;lt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5wcmVjaW91c3BsYXN0aWMuY29t&#34;&gt;www.preciousplastic.com&lt;/span&gt;&amp;gt; 并开始浏览以收集有关该主题的更多知识。深入研究网站内容和视频教程，将为您提供基础知识，有助于您寻求帮助、或在论坛上与世界各地的人们谈论塑料。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;论坛&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;论坛是寻找更复杂问题的答案的地方。论坛是我们的社区和回收商们聚会的地方，并试图找到他们问题的答案。多年来，该场所已发展成为对从事 Precious Plastic 工作的人非常有用的资源（并且广泛！），其中包含许多有用的知识以及关于我们的机器制造和使用方法的数百个主题。您的大多数问题（尤其是在开始时）可能已经在论坛上得到解决，所以如果您需要找到问题的答案，请先在论坛中进行了深入研究。如果仍然找不到要查找的内容，则可以发布新主题并等待回复。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;地图&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;该地图可以成为灵感的重要来源。在那里，您可以找到世界各地很多从事 Precious Plastic 的人员（也许在您附近！）。该地图展示了建造机器、开设商店、出售和修理机器以及制造产品的人。如果您有疑问或想联系，可以直接与他人联系。&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL21hcC5wcmVjaW91c3BsYXN0aWMuY29t&#34;&gt;http://map.preciousplastic.com&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;YouTube&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;是的，您没听错。Youtube 是一个很棒的学习平台，许多知识渊博的人在其中详细解释内容。在 Precious Plastic，我们经常利用 Youtube 进行故障排除并找到解决塑料问题的方法。试试看，这很有趣！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;当地人&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;通常，您需要积累一些有关模具和金属加工方面的专业技术知识和实践经验。寻找当地的金属工人（钳工、车工、焊工等）帮忙是个比较好的切入点。他们通常在这方面经验丰富且知识渊博，可以提供比其他任何数字资料更有用的解释。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;更新&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Precious Plastic 产品不断发展，我们不断改进我们的机器和技术以应对塑料污染。Precious Plastic 的版本在不断变化，这意味着我们每年或每两年发布一次针对机器、产品、教程、网站、协作工具和论坛的具有新功能的新版本，以使 Precious Plastic 更有效、更具针对性并增加我们的影响力。如果您定期访问 &amp;lt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5wcmVjaW91c3BsYXN0aWMuY29t&#34;&gt;www.preciousplastic.com&lt;/span&gt;&amp;gt;，则可以确保您能及时了解该项目的最新进展。&lt;/p&gt;
+&lt;h3 id=&#34;52-激活你的社区&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#52-激活你的社区&#34;&gt;#&lt;/a&gt; 5.2 激活你的社区&lt;/h3&gt;
+&lt;p&gt;参与该项目的人越多，得到回收利用的塑料就越多，从而有助于解决地球上与塑料污染相关的环境和健康问题。Precious Plastic 致力于包容性协作，它建立在朋友、家人、邻居、城市、国家和国家之间共享知识和工具的基础之上。不要闭门造车，多在回收者聚集的国际社区上分享您所学到的关于塑料的知识和技术，以便我们共同解决这个大问题。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/05_Extra_Community.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在 Precious Plastic 工作区周围创建研讨会、开放日、参观、培训、上学日和活动，以使您周围的社区有越来越多的人参与进来，通过宣传教育进一步了解塑料，学习如何使用塑料，以及如何从废弃塑料中创造出惊人的新产品 。您还可以在社区上分享您的学习、实验或失败的测试，以便更多的人可以向您学习或帮助您改善和克服困难。&lt;/p&gt;
+&lt;p&gt;您现在是 Precious Plastic 全球大家庭的一员了！&lt;/p&gt;
+&lt;h3 id=&#34;53-反馈&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#53-反馈&#34;&gt;#&lt;/a&gt; 5.3 反馈&lt;/h3&gt;
+&lt;p&gt;我们知道这部分比较枯燥。但是，这也是该项目最重要的部分之一。如果我们从您的意见、经验和问题中吸取教训，我们可以帮助您和其他从事此工作的人改进 Precious Plastic。您遇到的问题、不理解的地方、不一致的情况、描述不明确的内容，或者是感觉可以改进的东西，都是帮助我们解决问题并不断成长的极有价值的反馈材料。在炎热的晴天或在等公共汽车的时候，如果您能花时间给我们写一封电子邮件或在论坛上发布有关该项目的反馈，我们将不胜感激。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/05_Extra_Have-Fun.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

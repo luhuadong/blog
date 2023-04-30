@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://luhuadong.com</id>
+    <title>成为自由人 • Posts by &#34;milestone&#34; tag</title>
+    <link href="https://luhuadong.com" />
+    <updated>2014-06-25T17:30:52.000Z</updated>
+    <category term="商业" />
+    <category term="成长" />
+    <category term="日记" />
+    <category term="创业" />
+    <category term="家居" />
+    <category term="互联网" />
+    <category term="读书笔记" />
+    <category term="工程师" />
+    <category term="爱" />
+    <category term="名言" />
+    <category term="奋斗" />
+    <category term="信息世界" />
+    <category term="管理" />
+    <category term="程序员" />
+    <category term="职场" />
+    <category term="人生" />
+    <category term="物联网" />
+    <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
+    <category term="创客" />
+    <category term="比赛" />
+    <category term="科技向善" />
+    <category term="英语" />
+    <category term="学习" />
+    <category term="环保" />
+    <category term="碳中和" />
+    <category term="种植" />
+    <category term="健身" />
+    <category term="地理" />
+    <category term="城市" />
+    <category term="气象爱好者" />
+    <category term="指南" />
+    <category term="自律" />
+    <category term="思维" />
+    <category term="健康" />
+    <category term="Hexo" />
+    <category term="科普" />
+    <category term="可持续" />
+    <category term="能源" />
+    <category term="职业" />
+    <category term="时间管理" />
+    <category term="工作" />
+    <category term="总结" />
+    <category term="慈济" />
+    <category term="RT-Thread" />
+    <category term="开源" />
+    <category term="思考" />
+    <category term="生活" />
+    <category term="猫" />
+    <category term="幸福" />
+    <category term="修身" />
+    <category term="写书" />
+    <category term="milestone" />
+    <category term="地铁" />
+    <category term="Markdown" />
+    <category term="计划" />
+    <category term="股票" />
+    <category term="理财" />
+    <category term="投资" />
+    <category term="财富" />
+    <category term="保险" />
+    <category term="纪录片" />
+    <category term="自由" />
+    <category term="电影" />
+    <category term="TED演讲" />
+    <category term="时间" />
+    <category term="心理学" />
+    <category term="无线电爱好者" />
+    <category term="亲密关系" />
+    <category term="农业" />
+    <category term="游泳" />
+    <category term="励志" />
+    <category term="演讲" />
+    <category term="蔬食" />
+    <category term="电台主播" />
+    <category term="WordPress" />
+    <category term="垃圾分类" />
+    <category term="零废弃" />
+    <category term="低碳" />
+    <entry>
+        <id>https://luhuadong.com/journal/this-blog.html</id>
+        <title>这个部落格</title>
+        <link rel="alternate" href="https://luhuadong.com/journal/this-blog.html"/>
+        <content type="html">&lt;p&gt;终于还是开通了这个部落格（Blog），而这，就是第一篇文章。我将会在这里记录、发布我的所思所想，内容范围不固定，更新频度也不固定，但是我会尽量保证所分享的内容都是有趣、实用的。&lt;/p&gt;
+&lt;p&gt;如果你想了解我，可以在导航栏点击 “关于”，找到关于我的一些信息以及我的联系方式。&lt;/p&gt;
+&lt;h2 id=&#34;快速开始&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#快速开始&#34;&gt;#&lt;/a&gt; 快速开始&lt;/h2&gt;
+&lt;h3 id=&#34;背景&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#背景&#34;&gt;#&lt;/a&gt; 背景&lt;/h3&gt;
+&lt;p&gt;早在 2013 年，我就开始在 CSDN 上面写博客，只不过内容偏向于软件技术。在漫长的学习、工作和生活当中，其实有许许多多的事情值得我们去记录。有时候，我们需要停下来，等一下我们的灵魂，充实一下我们的精神世界。&lt;/p&gt;
+&lt;p&gt;人生有无限可能，所以我想重新开辟一个空间，展示 A 面、B 面、C 面…&lt;/p&gt;
+&lt;p&gt;我也不知道哪个才是 “真正的自我”，也许就是这一个个 “可能的自我”，组合起来，才是那个真实的我，管他呢！&lt;/p&gt;
+&lt;h3 id=&#34;内容&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#内容&#34;&gt;#&lt;/a&gt; 内容&lt;/h3&gt;
+&lt;p&gt;这里可能会分享：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;软件技术&lt;/li&gt;
+&lt;li&gt;行业分析&lt;/li&gt;
+&lt;li&gt;环境保护&lt;/li&gt;
+&lt;li&gt;读书笔记&lt;/li&gt;
+&lt;li&gt;生活感悟&lt;/li&gt;
+&lt;li&gt;运动保健&lt;/li&gt;
+&lt;li&gt;投资理财&lt;/li&gt;
+&lt;li&gt;…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;显然，在有限的生命的，我所触及的事物是有限的，且必然带有主观色彩。所以你们要带着辩证思维去阅读。&lt;/p&gt;
+&lt;h3 id=&#34;愿景&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#愿景&#34;&gt;#&lt;/a&gt; 愿景&lt;/h3&gt;
+&lt;p&gt;正如这个网站的 Title 那样，我的目标是 —— &lt;strong&gt;成为自由人&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;人生中有许多值得我们去追求的东西，比如，考一个好大学、找一份好工作、买车、买房、结婚、生子…&lt;/p&gt;
+&lt;p&gt;然而，对于我来说，我更希望能尽早成为一个自由人。&lt;/p&gt;
+&lt;p&gt;当我不再需要为钱而工作，不再被各种精神枷锁抑制，我知道，我一定会迸发出强大的创造力，一定会创造更大的价值！&lt;/p&gt;
+&lt;p&gt;我想，你们也一样。&lt;/p&gt;
+&lt;h3 id=&#34;联系&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#联系&#34;&gt;#&lt;/a&gt; 联系&lt;/h3&gt;
+&lt;p&gt;邮箱：luhuadong@163.com&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;2014 年夏天&lt;/p&gt;
+</content>
+        <category term="milestone" />
+        <updated>2014-06-25T17:30:52.000Z</updated>
+    </entry>
+</feed>

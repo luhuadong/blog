@@ -1,0 +1,613 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://luhuadong.com</id>
+    <title>成为自由人 • Posts by &#34;学习&#34; tag</title>
+    <link href="https://luhuadong.com" />
+    <updated>2022-06-09T06:10:49.000Z</updated>
+    <category term="商业" />
+    <category term="成长" />
+    <category term="日记" />
+    <category term="创业" />
+    <category term="家居" />
+    <category term="互联网" />
+    <category term="读书笔记" />
+    <category term="工程师" />
+    <category term="爱" />
+    <category term="名言" />
+    <category term="奋斗" />
+    <category term="信息世界" />
+    <category term="管理" />
+    <category term="程序员" />
+    <category term="职场" />
+    <category term="人生" />
+    <category term="物联网" />
+    <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
+    <category term="创客" />
+    <category term="比赛" />
+    <category term="科技向善" />
+    <category term="英语" />
+    <category term="学习" />
+    <category term="环保" />
+    <category term="碳中和" />
+    <category term="种植" />
+    <category term="健身" />
+    <category term="地理" />
+    <category term="城市" />
+    <category term="气象爱好者" />
+    <category term="指南" />
+    <category term="自律" />
+    <category term="思维" />
+    <category term="健康" />
+    <category term="Hexo" />
+    <category term="科普" />
+    <category term="可持续" />
+    <category term="能源" />
+    <category term="职业" />
+    <category term="时间管理" />
+    <category term="工作" />
+    <category term="总结" />
+    <category term="慈济" />
+    <category term="RT-Thread" />
+    <category term="开源" />
+    <category term="思考" />
+    <category term="生活" />
+    <category term="猫" />
+    <category term="幸福" />
+    <category term="修身" />
+    <category term="写书" />
+    <category term="milestone" />
+    <category term="地铁" />
+    <category term="Markdown" />
+    <category term="计划" />
+    <category term="股票" />
+    <category term="理财" />
+    <category term="投资" />
+    <category term="财富" />
+    <category term="保险" />
+    <category term="纪录片" />
+    <category term="自由" />
+    <category term="电影" />
+    <category term="TED演讲" />
+    <category term="时间" />
+    <category term="心理学" />
+    <category term="无线电爱好者" />
+    <category term="亲密关系" />
+    <category term="农业" />
+    <category term="游泳" />
+    <category term="励志" />
+    <category term="演讲" />
+    <category term="蔬食" />
+    <category term="电台主播" />
+    <category term="WordPress" />
+    <category term="垃圾分类" />
+    <category term="零废弃" />
+    <category term="低碳" />
+    <entry>
+        <id>https://luhuadong.com/english/en-competition-vs-contest.html</id>
+        <title>英语单词辨析：Competition vs. Contest</title>
+        <link rel="alternate" href="https://luhuadong.com/english/en-competition-vs-contest.html"/>
+        <content type="html">&lt;p&gt;Competition 多指个人或小组之间有直接交锋，直接彼此对抗的比赛。常用于体育类的各种比赛或是知识竞赛等，比赛结果谁输谁赢比较明显，更强调参赛者之间谁比谁更加厉害。&lt;/p&gt;
+&lt;p&gt;Contest 多指一群参赛者 “各自” 带作品参赛或进行表演，由一组裁判判定获胜者。通常参赛者之间没有直接的交锋，例如&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nZXRpb3QudGVjaC9jb250ZXN0&#34;&gt;创客作品比赛&lt;/span&gt;。&lt;/p&gt;
+&lt;p&gt;两者之间没有很明显的界限，经常可以互换使用。相对来说，Competition 更强调彼此竞争对抗性，Contest 则不太强调对抗性。&lt;/p&gt;
+</content>
+        <category term="英语" />
+        <category term="学习" />
+        <updated>2022-06-09T06:10:49.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/reading/LDLT.html</id>
+        <title>十步学习法（学习-实践-掌握-教授）</title>
+        <link rel="alternate" href="https://luhuadong.com/reading/LDLT.html"/>
+        <content type="html">&lt;p&gt;随着年龄的增长，感觉越来越多事情让人分心，学习效率也大不如前。在技术更新迭代如此迅速的今天，拥有快速学习能力，将大大提升竞争力，完成别人完成不了的任务，成为 “十倍” 程序员。&lt;/p&gt;
+&lt;p&gt;下面对《&lt;a href=&#34;https://luhuadong.com/reading/soft-skills.html&#34;&gt;软技能 —— 代码之外的生存指南&lt;/a&gt;》一书总结的 “十步学习法” —— 学习 - 实践 - 掌握 - 教授（Learning, Doing, Learning and Teaching, LDLT）进行摘抄，希望自己能时常翻阅，加深理解，并坚持实践！&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/reading/%E5%8D%81%E6%AD%A5%E5%AD%A6%E4%B9%A0%E6%B3%95.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;第一步到第六步概览全局设定目标搜寻资源创建计划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一步到第六步概览全局设定目标搜寻资源创建计划&#34;&gt;#&lt;/a&gt; 第一步到第六步：概览全局，设定目标，搜寻资源，创建计划&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;集中精力完成足够的前期调研，确保自己明确知道学习的内容，以及如何确定自己达成目标，挑选最好的资源来帮助自己实现目标，制定学习计划。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;第一步了解全局&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一步了解全局&#34;&gt;#&lt;/a&gt; 第一步：了解全局&lt;/h3&gt;
+&lt;p&gt;首先对需要学习的课题进行一些基础性研究，对该主题有一个全局性的了解。&lt;/p&gt;
+&lt;p&gt;你可以先在网上搜索与该课题相关的内容，或找一本相关的书籍，粗略浏览以下内容。注意，这一步的目的不是要掌握该主题，所以不要在这一步上花费太多时间。&lt;/p&gt;
+&lt;h3 id=&#34;第二步确定范围&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第二步确定范围&#34;&gt;#&lt;/a&gt; 第二步：确定范围&lt;/h3&gt;
+&lt;p&gt;根据自身的需求，决定学习的重点和学习的范围，在此阶段容易犯的一个错误就是：试图解决太大的问题而让自己陷入困境中。&lt;/p&gt;
+&lt;p&gt;结合从第一步中获得的信息，明确自己的学习范围，尽可能地保持专注；同时也需要阐述自己的学习理由来帮助自己界定学习的范围。学习的范围务必大小适当，既能符合学习理由，又能符合自己的时间限制。&lt;/p&gt;
+&lt;h3 id=&#34;第三步定义目标&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第三步定义目标&#34;&gt;#&lt;/a&gt; 第三步：定义目标&lt;/h3&gt;
+&lt;p&gt;确定自己的学习目标，明确学习完成后应该达成的效果，根据简明清晰的目标，勾勒出勤奋学习后成功的图景。成功的标准应该是具体的，无二义性的。例如，了解某个设备的所有功能、构建出一个小应用程序、制作出一个网页。&lt;/p&gt;
+&lt;h3 id=&#34;第四步寻找资源&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第四步寻找资源&#34;&gt;#&lt;/a&gt; 第四步：寻找资源&lt;/h3&gt;
+&lt;p&gt;尽可能的尝试多种渠道和方式获取尽可能多的和主题相关资源，该阶段无需考虑这些资源的质量（类似于头脑风暴）。&lt;/p&gt;
+&lt;p&gt;信息来源可以是图书、博客文章、在线视频、专家、播客、源代码、示例项目、在线文档…&lt;/p&gt;
+&lt;h3 id=&#34;第五步创建学习计划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第五步创建学习计划&#34;&gt;#&lt;/a&gt; 第五步：创建学习计划&lt;/h3&gt;
+&lt;p&gt;需要在最短的时间内找到正确的学习路径，并找到和到达路径中重要的地标。打造自己的学习计划，一个好的方法是观察别人是如何教授你感兴趣的主题的（例如书籍目录、培训大纲）。当然，更重要的是你要根据自己的目标和时间进行计划，而不是照搬别人的计划。&lt;/p&gt;
+&lt;p&gt;通览收集到的全部资源，就可以对自己需要的那些内容以及如何组织这些内容有更清晰的认识。&lt;/p&gt;
+&lt;h3 id=&#34;第六步筛选资源&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第六步筛选资源&#34;&gt;#&lt;/a&gt; 第六步：筛选资源&lt;/h3&gt;
+&lt;p&gt;对找到的资源进行筛选，挑选出最有价值的几项来帮助你实现自己的目标。你不用研究所有资料，因为很多数据或内容都是冗余的，只需要选出其中比较优质的部分资源进行学习即可。例如挑选书籍，你可以着重看看其他读者对它的评论，从中选择最好的一两本书。&lt;/p&gt;
+&lt;p&gt;现在，你已经完成了第一阶段的所有工作，准备进入第二阶段开始学习吧！&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/reading/xiao-lan-jia-you.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;第七步到第十步循环往复&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第七步到第十步循环往复&#34;&gt;#&lt;/a&gt; 第七步到第十步：循环往复&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;通过 “学习 — 实践 — 掌握 — 教授”（LDLT）的方式来真正领悟知识。通过掌握恰到好处的基础知识开始，通过动手实践来学习，同时通过自我探索收集问题。之后，掌握了足够多的有用知识。最后，将自己所学教给他人，以此来弥补自己在学习过程中的不足，同时通过深入思考巩固知识。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;第七步开始学习浅尝辄止&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第七步开始学习浅尝辄止&#34;&gt;#&lt;/a&gt; 第七步：开始学习，浅尝辄止&lt;/h3&gt;
+&lt;p&gt;专注于掌握自己所需，能在下一步动手操作的最小量的知识。&lt;/p&gt;
+&lt;p&gt;我们很容易犯的两类错误：第一类是在知之不多的情况下就盲目开始（即行动太快）；第二类是在行动之前准备过多（即行动太慢）。因此需要找到一个平衡点，使得学习效果达到最佳。&lt;/p&gt;
+&lt;h3 id=&#34;第八步动手操作边玩边学&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第八步动手操作边玩边学&#34;&gt;#&lt;/a&gt; 第八步：动手操作，边玩边学&lt;/h3&gt;
+&lt;p&gt;在掌握操作动手最小量的知识的情况下亲自操作和亲身体验。通过在探索和实践过程中，会产生的各种问题。这些问题会引导着你走向真正重要的方向。当回头寻找问题的答案时，不只是这些问题迎刃而解，而且你记得的东西比你学习的东西要多得多，因为你所学到的都是对你很重要的东西。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;把那些暂时还没有答案的问题记录下来，在下一步中就会有机会找出这些问题的答案。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;第九步全面掌握学以致用&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第九步全面掌握学以致用&#34;&gt;#&lt;/a&gt; 第九步：全面掌握，学以致用&lt;/h3&gt;
+&lt;p&gt;好奇心是学习特别是自学的重要组成部分。为了有效利用自己选择的资料，为了上一步生产的问题寻求答案（带着问题学习）。不用担心回头再去操作，付出更多，因为这不仅能够让你找到问题的答案，也能让你学习新东西。给自己足够多的时间去深入理解自己的主题，你可以阅读，可以实验，可以观察，也可以操作。试着把自己正在学习的内容与最终目标关联起来。&lt;/p&gt;
+&lt;h3 id=&#34;第十步乐为人师融会贯通&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第十步乐为人师融会贯通&#34;&gt;#&lt;/a&gt; 第十步：乐为人师，融会贯通&lt;/h3&gt;
+&lt;p&gt;要想深入掌握一门学问，并且融会贯通，那么必须要做到能够教授给别人！在这一过程中，你要切实刨析并理解自己所学的知识，将其内化到自己的思想；同时，也要用能够让他人理解的方式精心组织这些信息。&lt;/p&gt;
+&lt;p&gt;在这个过程中，你会发现很多自以为明白的知识点，其实并没有你想象的那么透彻。这一过程会将那些以前自己没太明白的东西联系起来，并简化到自己的大脑中已有的信息，将它们浓缩并经常复习。&lt;/p&gt;
+&lt;p&gt;几种常见的教授知识的途径：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;撰写博客文章（CSDN、GitChat、掘金）&lt;/li&gt;
+&lt;li&gt;录制视频教程（上传 YouTube、B 站）&lt;/li&gt;
+&lt;li&gt;发表演讲（读书会、公司培训、研讨会）&lt;/li&gt;
+&lt;li&gt;举办技术沙龙（线下授课）&lt;/li&gt;
+&lt;li&gt;与朋友或爱人进行对话探讨&lt;/li&gt;
+&lt;li&gt;在社区论坛上回答问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/reading/xiao-lan-yeah.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="读书笔记" />
+        <category term="学习" />
+        <updated>2022-05-16T16:05:35.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/english/michael-levitt-chemistry.html</id>
+        <title>【英语演说】迈克尔·莱维特：我为“化学”正名</title>
+        <link rel="alternate" href="https://luhuadong.com/english/michael-levitt-chemistry.html"/>
+        <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=210791238&amp;bvid=BV1ka41127xo&amp;cid=488524939&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;true&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
+</content>
+        <category term="英语" />
+        <category term="学习" />
+        <updated>2022-01-25T06:10:14.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/industry/how-to-learn-electrical-engineering.html</id>
+        <title>电子电气工程师（EE）学习路线</title>
+        <link rel="alternate" href="https://luhuadong.com/industry/how-to-learn-electrical-engineering.html"/>
+        <content type="html">&lt;h2 id=&#34;说明&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#说明&#34;&gt;#&lt;/a&gt; 说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;EE&lt;/strong&gt;：&lt;br&gt;
+通常指电气工程（Electrical Engineering）或电子工程（Electronic Engineering），又或者电子电气工程（Electrical and Electronics Engineering，EEE）。简单来说，是一门以电磁学为基础，研究利用电与磁现象传输、转化能量的工程学科，其研究内容涵盖了产生电能（发电）、传输电能（输配电）、转化电能、储存电能、使用电能（用电器）等环节。而电子工程则是电气工程的一个分支，涉及电磁频谱的使用以及集成电路和晶体管等电子设备的应用。也就是说，电气工程偏向强电（能源），电子工程偏向弱电（计算机硬件）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CS&lt;/strong&gt;：&lt;br&gt;
+通常指计算机科学（Computer Science），是一门包括各种各样与计算机信息处理相关的系统学科，从抽象的操作系统、数据结构、算法分析等，到更具体的如编程语言、程序设计、网络安全、数据分析、人工智能等。最常见的工作就是潜伏在各大 IT 公司的各类程序员们。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;STEM&lt;/strong&gt;：&lt;br&gt;
+STEM 是科学（Science）、技术（Technology）、工程（Engineering）和数学（Mathematics）四个单词的缩写，意味着它融合了这四门学科的知识与技能。能够同时掌握这几门学科的人都是很厉害的，而且他们可能在艺术和人文方面也颇有见解。这类人有时也被称为创客（Maker）或极客（Geek），拥有自驱力极强的学习与创造能力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;代表人物：尼古拉・特斯拉、稚晖君&lt;/p&gt;
+&lt;h2 id=&#34;学习路线&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#学习路线&#34;&gt;#&lt;/a&gt; 学习路线&lt;/h2&gt;
+&lt;p&gt;基础课程学习类：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;电路 —— 推荐课程：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueHVldGFuZ3guY29tL2NvdXJzZS9USFUwODA2MTAwMDI5NC83NzU0MzAw&#34;&gt;电路原理 - 清华大学&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;机器人设计&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#机器人设计&#34;&gt;#&lt;/a&gt; 机器人设计&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;机械设计&lt;/li&gt;
+&lt;li&gt;硬件设计&lt;/li&gt;
+&lt;li&gt;嵌入式系统&lt;/li&gt;
+&lt;li&gt;算法&lt;/li&gt;
+&lt;li&gt;机器学习&lt;/li&gt;
+&lt;li&gt;艺术&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuemhpaHUuY29tL3F1ZXN0aW9uLzIxNDE1MTA5&#34;&gt;我想成为电气工程师，学习电气有哪些可以利用的好的网络资源？&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="工程师" />
+        <category term="创客" />
+        <category term="学习" />
+        <updated>2021-10-09T07:57:09.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/english/en-start-vs-begin.html</id>
+        <title>英语单词辨析：Start vs. Begin</title>
+        <link rel="alternate" href="https://luhuadong.com/english/en-start-vs-begin.html"/>
+        <content type="html">&lt;p&gt;单词 start 和 begin 都是使用频率很高的基础词汇。它们都有 “开始” 的意思，而且在英语中常被当成近义词甚至是同义词使用。&lt;/p&gt;
+&lt;p&gt;下面是 start 和 begin 不同形态的表示：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;一般现在时&lt;/th&gt;
+&lt;th&gt;一般过去时&lt;/th&gt;
+&lt;th&gt;过去完成时&lt;/th&gt;
+&lt;th&gt;现在进行时&lt;/th&gt;
+&lt;th&gt;第三人称&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;start&lt;/td&gt;
+&lt;td&gt;started&lt;/td&gt;
+&lt;td&gt;started&lt;/td&gt;
+&lt;td&gt;starting&lt;/td&gt;
+&lt;td&gt;starts&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;begin&lt;/td&gt;
+&lt;td&gt;began&lt;/td&gt;
+&lt;td&gt;begun&lt;/td&gt;
+&lt;td&gt;beginning&lt;/td&gt;
+&lt;td&gt;begins&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;start 在许多场合可与 begin 通用，但 start 侧重动作的起点。begin 属于最常用词，含义广泛，其反义词是 end，多用于行动、工作等的开始。&lt;/p&gt;
+&lt;h2 id=&#34;共同点&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#共同点&#34;&gt;#&lt;/a&gt; 共同点&lt;/h2&gt;
+&lt;p&gt;Start 和 begin 的后面都可以接不定式 “to do” 或动名词 “doing”，意思是 “开始、着手做某事”。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;He started to talk.&lt;/p&gt;
+&lt;p&gt;He started talking.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在上面例句中，“started” 都可以用 “began” 来替换，而且句子本身的含义不变。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I began to wonder if she had really loved me.&lt;/p&gt;
+&lt;p&gt;Vicky began her career as a receptionist.&lt;/p&gt;
+&lt;p&gt;Our graduation ceremony began with a speech by the headteacher.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在上面例句中，start 和 begin 都可以互换。&lt;/p&gt;
+&lt;p&gt;另外，start 和 begin 后面都可以接介词 “with”。比如，“to start with” 和 “to begin with” 的意思都是 “首先、最初、一开始”，可用在句首或句中。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;To start with, you never listen to people’s opinions.&lt;/p&gt;
+&lt;p&gt;I only had five pounds in my pocket to begin with, but later on things got much better.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;不同点&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#不同点&#34;&gt;#&lt;/a&gt; 不同点&lt;/h2&gt;
+&lt;p&gt;虽然 start 和 begin 在很多情况下含义相似，但在日常生活中，start 的使用频率更高，更随意，也较为口语化。另外，start 有一些 begin 不具备的用法。例如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;start 可以表达 “创立公司、企业、机构等” 的意思，但 begin 不行；&lt;/li&gt;
+&lt;li&gt;“start a family”（组建家庭）通常 “生第一个孩子”，是个固定搭配；&lt;/li&gt;
+&lt;li&gt;start 还经常用来指机器、设备的启动，例如 start the machine；&lt;/li&gt;
+&lt;li&gt;quick start 经常用来表示一个项目或设备的《快速入门手册》；&lt;/li&gt;
+&lt;li&gt;start 在口语交流中可以用来表示厌烦和不满；&lt;/li&gt;
+&lt;li&gt;start 后面还可以接不同的介词，比如 “start over 重做、重新开始” 等等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;另外，start 的名词形式也是 start，而 begin 的名词形式是 beginning。名词 “beginner” 指 “初学者、新手”。&lt;/p&gt;
+</content>
+        <category term="英语" />
+        <category term="学习" />
+        <updated>2019-11-14T06:11:30.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/english/en-home-vs-house.html</id>
+        <title>英语单词辨析：Home vs. House</title>
+        <link rel="alternate" href="https://luhuadong.com/english/en-home-vs-house.html"/>
+        <content type="html">&lt;p&gt;House 的中文意思更接近「房子」，而 Home 的中文意思更接近「家」。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;House 是一栋建筑物，这栋建筑物是给人住的，而即便里面没有住人，只是个空屋，你也可以说它是 house。&lt;/li&gt;
+&lt;li&gt;Home 则是家，意味着有人住。当你说某个地方是你的 home 时，通常代表你对那个地方感到舒适和安全。另外，Home 有时候还可以用来形容城市、小镇，甚至是国家。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;例句：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;What is home to you?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;china is my home.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I have a house in China.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;How much does a house cost in China?&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="英语" />
+        <category term="学习" />
+        <updated>2019-09-20T12:15:13.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/english/en-image-vs-figure-vs-picture.html</id>
+        <title>英语单词辨析：Image, Figure, Picture, Photo 和 Diagram</title>
+        <link rel="alternate" href="https://luhuadong.com/english/en-image-vs-figure-vs-picture.html"/>
+        <content type="html">&lt;ul&gt;
+&lt;li&gt;Image：图像，画像，（人或物等）自然界的有形实体在人脑中留下的画面。&lt;/li&gt;
+&lt;li&gt;Figure：图解，图表（例如用于对比的饼图、条形图、曲线图等各种 chart），常见于论文和专业手册中。&lt;/li&gt;
+&lt;li&gt;Picture：图片，图画，通常指一幅图画。&lt;/li&gt;
+&lt;li&gt;Photo：照片、相片，通常指相机拍摄的照片。&lt;/li&gt;
+&lt;li&gt;Diagram：图表，示意图（例如块状图、流程图、时序图等）。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="英语" />
+        <category term="学习" />
+        <updated>2019-09-16T02:16:45.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/english/en-state-vs-status.html</id>
+        <title>英语单词辨析：State vs. Status</title>
+        <link rel="alternate" href="https://luhuadong.com/english/en-state-vs-status.html"/>
+        <content type="html">&lt;ul&gt;
+&lt;li&gt;State：比较常用，各种状态都可以用它，但是它更着重于一种心理状态或者物理状态。例如表示水的三种状态：Three states of water —— solid, liquid and gas.&lt;/li&gt;
+&lt;li&gt;Status：用在人的身上一般是其身份和地位，作 “状态，情形” 讲时，多指政治和商业。例如询问购买商品的状态：What’s the status of my purchase?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在编程语言中，state 通常用于有限的、可列举的状态；而 status 则用于不可确定的状态。例如：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;名称&lt;/th&gt;
+&lt;th&gt;含义&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;readyState&lt;/td&gt;
+&lt;td&gt;就那么几种值&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;statusText&lt;/td&gt;
+&lt;td&gt;描述性的文字，可以任意&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;onReadyStateChange&lt;/td&gt;
+&lt;td&gt;在几种确定的值之间发生变化&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;window.status&lt;/td&gt;
+&lt;td&gt;描述性的文字，可以任意&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+        <category term="英语" />
+        <category term="学习" />
+        <updated>2019-09-13T10:02:40.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/english/en-words-about-time.html</id>
+        <title>与时间相关的英语词汇</title>
+        <link rel="alternate" href="https://luhuadong.com/english/en-words-about-time.html"/>
+        <content type="html">&lt;h2 id=&#34;星期days-of-the-week&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#星期days-of-the-week&#34;&gt;#&lt;/a&gt; 星期（Days of the Week）&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;单词&lt;/th&gt;
+&lt;th&gt;缩写&lt;/th&gt;
+&lt;th&gt;中文&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Monday&lt;/td&gt;
+&lt;td&gt;Mon.&lt;/td&gt;
+&lt;td&gt;星期一&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Tuesday&lt;/td&gt;
+&lt;td&gt;Tue.&lt;/td&gt;
+&lt;td&gt;星期二&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;Wed.&lt;/td&gt;
+&lt;td&gt;星期三&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Thursday&lt;/td&gt;
+&lt;td&gt;Thu.&lt;/td&gt;
+&lt;td&gt;星期四&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Friday&lt;/td&gt;
+&lt;td&gt;Fri.&lt;/td&gt;
+&lt;td&gt;星期五&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Saturday&lt;/td&gt;
+&lt;td&gt;Sat.&lt;/td&gt;
+&lt;td&gt;星期六&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sunday&lt;/td&gt;
+&lt;td&gt;Sun.&lt;/td&gt;
+&lt;td&gt;星期日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;月份months&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#月份months&#34;&gt;#&lt;/a&gt; 月份（Months）&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;月份&lt;/th&gt;
+&lt;th&gt;缩写&lt;/th&gt;
+&lt;th&gt;中文&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;January&lt;/td&gt;
+&lt;td&gt;Jan.&lt;/td&gt;
+&lt;td&gt;一月&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;February&lt;/td&gt;
+&lt;td&gt;Feb.&lt;/td&gt;
+&lt;td&gt;二月&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;March&lt;/td&gt;
+&lt;td&gt;Mar.&lt;/td&gt;
+&lt;td&gt;三月&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;April&lt;/td&gt;
+&lt;td&gt;Apr.&lt;/td&gt;
+&lt;td&gt;四月&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;May&lt;/td&gt;
+&lt;td&gt;May.&lt;/td&gt;
+&lt;td&gt;五月&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;June&lt;/td&gt;
+&lt;td&gt;Jun.&lt;/td&gt;
+&lt;td&gt;六月&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;July&lt;/td&gt;
+&lt;td&gt;Jul.&lt;/td&gt;
+&lt;td&gt;七月&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;August&lt;/td&gt;
+&lt;td&gt;Aug.&lt;/td&gt;
+&lt;td&gt;八月&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;September&lt;/td&gt;
+&lt;td&gt;Sep. / Sept.&lt;/td&gt;
+&lt;td&gt;九月&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;October&lt;/td&gt;
+&lt;td&gt;Oct.&lt;/td&gt;
+&lt;td&gt;十月&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;November&lt;/td&gt;
+&lt;td&gt;Nov.&lt;/td&gt;
+&lt;td&gt;十一月&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;December&lt;/td&gt;
+&lt;td&gt;Dec.&lt;/td&gt;
+&lt;td&gt;十二月&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;季节seasons&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#季节seasons&#34;&gt;#&lt;/a&gt; 季节（Seasons）&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;季节&lt;/th&gt;
+&lt;th&gt;缩写&lt;/th&gt;
+&lt;th&gt;中文&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Spring&lt;/td&gt;
+&lt;td&gt;SS（春夏）&lt;/td&gt;
+&lt;td&gt;春季&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Summer&lt;/td&gt;
+&lt;td&gt;SS（春夏）&lt;/td&gt;
+&lt;td&gt;夏季&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Winter&lt;/td&gt;
+&lt;td&gt;FW（秋冬）&lt;/td&gt;
+&lt;td&gt;秋季&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Fall / Autumn&lt;/td&gt;
+&lt;td&gt;FW（秋冬）&lt;/td&gt;
+&lt;td&gt;冬季&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;时间表达expressions-of-time&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#时间表达expressions-of-time&#34;&gt;#&lt;/a&gt; 时间表达（Expressions of Time）&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;英文&lt;/th&gt;
+&lt;th&gt;中文&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;in the morning&lt;/td&gt;
+&lt;td&gt;在早上&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;last night&lt;/td&gt;
+&lt;td&gt;昨晚&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;next year&lt;/td&gt;
+&lt;td&gt;明年&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;today&lt;/td&gt;
+&lt;td&gt;今日&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;at night&lt;/td&gt;
+&lt;td&gt;晚上&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYWRlcmFsaW5ndWEuY29tL3poL2xlYXJuLWVuZ2xpc2gvY291cnNlLzIvbGVzc29uLzM1&#34;&gt;https://www.aderalingua.com/zh/learn-english/course/2/lesson/35&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="英语" />
+        <category term="学习" />
+        <updated>2019-09-09T02:44:44.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/english/en-setting-vs-configuration.html</id>
+        <title>英语单词辨析：Setting vs. Configuration</title>
+        <link rel="alternate" href="https://luhuadong.com/english/en-setting-vs-configuration.html"/>
+        <content type="html">&lt;p&gt;Setting 一般指设置，Configuration 一般指配置。两者的意思很接近，Setting 更偏向于给用户或运维人员使用的设定，而 Configuration 更偏向于给开发人员使用的设定，例如软件开发中用来避免一些 Hard Code 的可参数化的设定。&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93aWtpZGlmZi5jb20vY29uZmlndXJhdGlvbi9zZXR0aW5n&#34;&gt;https://wikidiff.com/configuration/setting&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="英语" />
+        <category term="学习" />
+        <updated>2019-09-09T02:40:36.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/english/en-diary-vs-journal.html</id>
+        <title>英语单词辨析：Diary vs. Journal</title>
+        <link rel="alternate" href="https://luhuadong.com/english/en-diary-vs-journal.html"/>
+        <content type="html">&lt;blockquote&gt;
+&lt;p&gt;I was supposed to keep a journal all summer. It s due today.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这里的 keep a journal 是 “记日记” 的意思，journal 所表示的日记和 diary 稍有不同。Journal 可以记录事情、感受，是可以给别人看的那种，而 Diary 更偏重于记录个人的事情、感受，一般只有自己看，别人不给看的。&lt;/p&gt;
+&lt;p&gt;比如，某天参观了某地的博物馆，很有感触，于是写了一篇游记跟大家分享，就叫 journal。而在日记本上记录自己的小心思，比如喜欢谁谁谁的那种，就叫 diary。&lt;/p&gt;
+&lt;p&gt;简单来说，可以给别人看的叫 journal，不能给别人看的叫 diary；偶尔记录的叫 journal，经常记录的叫 diary。&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5pZnV1bi5jb20vYTIwMTc3MTkzOTg5NTc1Lw==&#34;&gt;http://www.ifuun.com/a20177193989575/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudHJhY2tpbmdoYXBwaW5lc3MuY29tL2RpYXJ5LXZzLWpvdXJuYWwtd2hhdHMtdGhlLWRpZmZlcmVuY2Uv&#34;&gt;https://www.trackinghappiness.com/diary-vs-journal-whats-the-difference/&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="英语" />
+        <category term="学习" />
+        <updated>2019-09-09T02:13:31.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/english/en-update-vs-upgrade.html</id>
+        <title>英语单词辨析：Update vs. Upgrade</title>
+        <link rel="alternate" href="https://luhuadong.com/english/en-update-vs-upgrade.html"/>
+        <content type="html">&lt;p&gt;“update” 表示 “更新电子设备的系统、软件”，指 “通过添加新的信息使… 变得更现代化，更适合当下”。&lt;/p&gt;
+&lt;p&gt;例句：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;To continue using the software, you have to update it to the latest version.&lt;br&gt;
+ 为了能继续使用这个软件，你需要把它升级到最新的版本。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;而 upgrade 则表示 “给电子设备升级、更新换代”，不仅仅是简单的软件更新，而是强调 “改善、提升产品的性能，使其更加高效”，尤指 “给硬件升级”。&lt;/p&gt;
+&lt;p&gt;例句：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I really need to upgrade my laptop. I bought it over five years ago and most of the current applications aren’t compatible with its system.&lt;br&gt;
+ 我真的得给电脑升级换代了。这是我五年前买的，现在大多数的应用程序都没法和这台电脑兼容了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2xlYXJuaW5nZW5nbGlzaC9jaGluZXNlL2ZlYXR1cmVzL3EtYW5kLWEvZXAtMTgwMjA3&#34;&gt;https://www.bbc.co.uk/learningenglish/chinese/features/q-and-a/ep-180207&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="英语" />
+        <category term="学习" />
+        <updated>2019-09-09T02:13:08.000Z</updated>
+    </entry>
+</feed>

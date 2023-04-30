@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://luhuadong.com</id>
+    <title>成为自由人 • Posts by &#34;互联网研究协会&#34; category</title>
+    <link href="https://luhuadong.com" />
+    <updated>2021-11-26T02:09:40.000Z</updated>
+    <category term="商业" />
+    <category term="成长" />
+    <category term="日记" />
+    <category term="创业" />
+    <category term="家居" />
+    <category term="互联网" />
+    <category term="读书笔记" />
+    <category term="工程师" />
+    <category term="爱" />
+    <category term="名言" />
+    <category term="奋斗" />
+    <category term="信息世界" />
+    <category term="管理" />
+    <category term="程序员" />
+    <category term="职场" />
+    <category term="人生" />
+    <category term="物联网" />
+    <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
+    <category term="创客" />
+    <category term="比赛" />
+    <category term="科技向善" />
+    <category term="英语" />
+    <category term="学习" />
+    <category term="环保" />
+    <category term="碳中和" />
+    <category term="种植" />
+    <category term="健身" />
+    <category term="地理" />
+    <category term="城市" />
+    <category term="气象爱好者" />
+    <category term="指南" />
+    <category term="自律" />
+    <category term="思维" />
+    <category term="健康" />
+    <category term="Hexo" />
+    <category term="科普" />
+    <category term="可持续" />
+    <category term="能源" />
+    <category term="职业" />
+    <category term="时间管理" />
+    <category term="工作" />
+    <category term="总结" />
+    <category term="慈济" />
+    <category term="RT-Thread" />
+    <category term="开源" />
+    <category term="思考" />
+    <category term="生活" />
+    <category term="猫" />
+    <category term="幸福" />
+    <category term="修身" />
+    <category term="写书" />
+    <category term="milestone" />
+    <category term="地铁" />
+    <category term="Markdown" />
+    <category term="计划" />
+    <category term="股票" />
+    <category term="理财" />
+    <category term="投资" />
+    <category term="财富" />
+    <category term="保险" />
+    <category term="纪录片" />
+    <category term="自由" />
+    <category term="电影" />
+    <category term="TED演讲" />
+    <category term="时间" />
+    <category term="心理学" />
+    <category term="无线电爱好者" />
+    <category term="亲密关系" />
+    <category term="农业" />
+    <category term="游泳" />
+    <category term="励志" />
+    <category term="演讲" />
+    <category term="蔬食" />
+    <category term="电台主播" />
+    <category term="WordPress" />
+    <category term="垃圾分类" />
+    <category term="零废弃" />
+    <category term="低碳" />
+    <entry>
+        <id>https://luhuadong.com/it/static-web-hosting-service.html</id>
+        <title>静态网页托管服务</title>
+        <link rel="alternate" href="https://luhuadong.com/it/static-web-hosting-service.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/it/static-web-hosting.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;github-pages&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#github-pages&#34;&gt;#&lt;/a&gt; GitHub Pages&lt;/h2&gt;
+&lt;p&gt;GitHub Pages 是 GitHub 公司提供的免费的静态网站托管服务，用起来方便而且功能强大，不仅没有空间限制，还可以绑定自己的域名。很多非常著名的公司和项目也都用这种方式来搭建网站，如微软和 twitter 的网站，还有谷歌的 Material Design 图标网站。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYWdlcy5naXRodWIuY29t&#34;&gt;https://pages.github.com&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;cloudflare-pages&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#cloudflare-pages&#34;&gt;#&lt;/a&gt; Cloudflare Pages&lt;/h2&gt;
+&lt;p&gt;Cloudflare Pages 是一个静态网站托管服务，功能和 Github Pages 差不多，可以存放静态网页，还可以直接部署前端项目。如果你的网站只是静态博客或帮助文档的话，可以完全不需要购买服务器。Cloudflare 是全球最大的几个 CDN 服务商之一，速度应该会比 Github Pages 好一些，而且 Cloudflare Pages 一个账户可以创建多个网站。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYWdlcy5jbG91ZGZsYXJlLmNvbQ==&#34;&gt;https://pages.cloudflare.com&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;dropbox&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#dropbox&#34;&gt;#&lt;/a&gt; Dropbox&lt;/h2&gt;
+&lt;p&gt;Dropbox 云存储是国外著名的网盘服务商，成立于 2007 年，为用户免费提供 2G 初始容量的网络云存储空间。类似于微软的 OneDrive。用户可以在网页客户端上传文件或使用共享链接与好友分享自己的文件，也可以通过 PC 客户端同步本地文件到 Dropbox 云端服务器中保存。&lt;/p&gt;
+&lt;p&gt;Droppages 是一款通过 Dropbox API 开发的免费第三方应用，可以在 Dropbox 中搭建静态博客。博客的免费域名、主题模板、文件编辑等功能由 DropPages 提供，而网站文件则存入在 Dropbox 中。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcm9wcGFnZXMuY29t&#34;&gt;https://droppages.com&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;netlify&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#netlify&#34;&gt;#&lt;/a&gt; Netlify&lt;/h2&gt;
+&lt;p&gt;Netlify 是一个提供静态网站托管的服务，提供 CI 服务，能够托管 GitHub、GitLab 等网站上的 Jekyll、Hexo、Hugo 等静态网站。&lt;/p&gt;
+&lt;p&gt;Netlify 有如下的功能：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;能够托管服务，免费 CDN&lt;/li&gt;
+&lt;li&gt;能够绑定自定义域名，支持 SSL 证书&lt;/li&gt;
+&lt;li&gt;支持自动构建&lt;/li&gt;
+&lt;li&gt;提供 Webhooks 和 API&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;除此之外，Netlify CMS 还为这些静态网站提供管理内容的能力，可以让用户在线编辑源文件。&lt;/p&gt;
+&lt;p&gt;简单来说，Netlify CMS 给静态网站增加了一个控制台界面。如果在本站的网站后面加上  &lt;code&gt;/Admin/&lt;/code&gt; ，可以看到一个登录界面。这个登陆界面来自于 Netlify CMS 的登录管理系统，也就是 Netlify CMS Identity。进入控制台之后，可以看到一个类似文件管理器的界面，可以编辑 Markdown 源文件。&lt;/p&gt;
+&lt;p&gt;Netlify CMS 支持 Git 工作流。也就是说网站的源文件是存储在一个 Git 仓库。 在 Netlify CMS 的 Admin 界面添加了文件之后，会被自动提交到 Git 仓库，然后触发 CI（自动集成）流程，Netlify 会自动帮你部署更新后的版本。&lt;/p&gt;
+&lt;p&gt;网址：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Netlify：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubmV0bGlmeS5jb20=&#34;&gt;https://www.netlify.com&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Netlify CMS：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubmV0bGlmeWNtcy5vcmc=&#34;&gt;https://www.netlifycms.org&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;gitbook&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#gitbook&#34;&gt;#&lt;/a&gt; GitBook&lt;/h2&gt;
+&lt;p&gt;GitBook 是一个使用 Git 和 Markdown 来构建书籍的工具，它基于 Node.js 技术，可以将电子书输出为格式 PDF，ePub，mobi 或者静态网页等格式。&lt;/p&gt;
+&lt;p&gt;对于静态网页，可以将其托管在 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL0dpdEJvb2suY29t&#34;&gt;GitBook.com&lt;/span&gt; 在线平台。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZ2l0Ym9vay5jb20=&#34;&gt;https://www.gitbook.com&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;read-the-docs&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#read-the-docs&#34;&gt;#&lt;/a&gt; Read the Docs&lt;/h2&gt;
+&lt;p&gt;Read the Docs 是一个在线文档托管服务，你可以从各种版本控制系统（例如 Github）中导入文档，每次提交代码后可以自动构建并上传至 readthedocs 网站，非常方便。&lt;/p&gt;
+&lt;p&gt;Read the Docs 是一个基于 Sphinx 的免费文档托管项目，目前已经托管了超过 9 万份文档。Sphinx 是一个基于 Python 的文档生成项目，最早只是用来生成 Python 官方文档，随着工具的完善， 越来越多的知名的项目也用他来生成文档。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9yZWFkdGhlZG9jcy5vcmc=&#34;&gt;https://readthedocs.org&lt;/span&gt;&lt;/p&gt;
+</content>
+        <category term="互联网" />
+        <updated>2021-11-26T02:09:40.000Z</updated>
+    </entry>
+</feed>
