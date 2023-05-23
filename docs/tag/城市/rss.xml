@@ -19,12 +19,12 @@
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
+        <category>城市规划</category>
         <category>管理</category>
         <category>程序员</category>
         <category>职场</category>
         <category>人生</category>
         <category>物联网</category>
-        <category>城市规划</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
@@ -34,8 +34,8 @@
         <category>学习</category>
         <category>环保</category>
         <category>碳中和</category>
-        <category>种植</category>
         <category>健身</category>
+        <category>种植</category>
         <category>地理</category>
         <category>城市</category>
         <category>气象爱好者</category>
@@ -57,8 +57,8 @@
         <category>思考</category>
         <category>生活</category>
         <category>猫</category>
-        <category>幸福</category>
         <category>修身</category>
+        <category>幸福</category>
         <category>写书</category>
         <category>milestone</category>
         <category>地铁</category>
@@ -78,9 +78,10 @@
         <category>无线电爱好者</category>
         <category>亲密关系</category>
         <category>农业</category>
-        <category>游泳</category>
+        <category>报告</category>
         <category>励志</category>
         <category>演讲</category>
+        <category>游泳</category>
         <category>蔬食</category>
         <category>电台主播</category>
         <category>WordPress</category>
@@ -189,7 +190,7 @@
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/reading/where-does-the-money-come-from.html</guid>
-            <title>钱从哪里来 —— 中国家庭的财富方案</title>
+            <title>《钱从哪里来——中国家庭的财富方案》</title>
             <link>https://luhuadong.com/reading/where-does-the-money-come-from.html</link>
             <category>读书笔记</category>
             <category>城市</category>

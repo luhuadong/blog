@@ -5,8 +5,8 @@
         <link>https://luhuadong.com</link>
         <description>阿基米东的网络日志</description>
         <language>zh-CN</language>
-        <pubDate>Fri, 24 Feb 2023 21:40:04 +0800</pubDate>
-        <lastBuildDate>Fri, 24 Feb 2023 21:40:04 +0800</lastBuildDate>
+        <pubDate>Mon, 15 May 2023 08:44:01 +0800</pubDate>
+        <lastBuildDate>Mon, 15 May 2023 08:44:01 +0800</lastBuildDate>
         <category>商业</category>
         <category>成长</category>
         <category>日记</category>
@@ -19,12 +19,12 @@
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
+        <category>城市规划</category>
         <category>管理</category>
         <category>程序员</category>
         <category>职场</category>
         <category>人生</category>
         <category>物联网</category>
-        <category>城市规划</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
@@ -34,8 +34,8 @@
         <category>学习</category>
         <category>环保</category>
         <category>碳中和</category>
-        <category>种植</category>
         <category>健身</category>
+        <category>种植</category>
         <category>地理</category>
         <category>城市</category>
         <category>气象爱好者</category>
@@ -57,8 +57,8 @@
         <category>思考</category>
         <category>生活</category>
         <category>猫</category>
-        <category>幸福</category>
         <category>修身</category>
+        <category>幸福</category>
         <category>写书</category>
         <category>milestone</category>
         <category>地铁</category>
@@ -78,15 +78,35 @@
         <category>无线电爱好者</category>
         <category>亲密关系</category>
         <category>农业</category>
-        <category>游泳</category>
+        <category>报告</category>
         <category>励志</category>
         <category>演讲</category>
+        <category>游泳</category>
         <category>蔬食</category>
         <category>电台主播</category>
         <category>WordPress</category>
         <category>垃圾分类</category>
         <category>零废弃</category>
         <category>低碳</category>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/reading/the-five-love-languages.html</guid>
+            <title>《五种爱的语言》</title>
+            <link>https://luhuadong.com/reading/the-five-love-languages.html</link>
+            <category>读书笔记</category>
+            <category>爱</category>
+            <pubDate>Mon, 15 May 2023 08:44:01 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;我深信爱情只有五种基本的爱的语言，这就是我们和伴侣沟通的方式，它们是：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;肯定的言辞 —— 发掘并在言辞中肯定对方所做的事情。&lt;/li&gt;
+&lt;li&gt;好品质的时间 —— 付出你个人的时间，像一起出去吃馆子，一起去散个步，两个人一起去度个长周末。&lt;/li&gt;
+&lt;li&gt;接受礼物 —— 能够表达出 “他 (她) 正在想我” 的礼物。&lt;/li&gt;
+&lt;li&gt;服务的行动 —— 为你的配偶做一点事，任何一件你觉得对他 (她) 而言意义重大的事。&lt;/li&gt;
+&lt;li&gt;身体的接触 —— 亲吻、拥抱、拍背、握手、同房等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;➡️ &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2NjbHcubmV0L2NvYWNoL3JoeWRoeXpkd2ovaHRtLzA3Lmh0bWw=&#34;&gt;在线阅读&lt;/span&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/reading/the-middle-passage.html</guid>
             <title>《中年之路：人格的第二次成型》</title>
@@ -110,7 +130,7 @@
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/reading/the-nature-of-business-and-the-internet.html</guid>
-            <title>商业的本质和互联网</title>
+            <title>《商业的本质和互联网》</title>
             <link>https://luhuadong.com/reading/the-nature-of-business-and-the-internet.html</link>
             <category>商业</category>
             <category>读书笔记</category>
@@ -1757,7 +1777,7 @@
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/reading/the-secret.html</guid>
-            <title>秘密 —— 宇宙吸引力法则</title>
+            <title>《秘密》—— 宇宙吸引力法则</title>
             <link>https://luhuadong.com/reading/the-secret.html</link>
             <category>读书笔记</category>
             <category>心理学</category>
@@ -1956,7 +1976,7 @@
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/reading/where-does-the-money-come-from.html</guid>
-            <title>钱从哪里来 —— 中国家庭的财富方案</title>
+            <title>《钱从哪里来——中国家庭的财富方案》</title>
             <link>https://luhuadong.com/reading/where-does-the-money-come-from.html</link>
             <category>读书笔记</category>
             <category>城市</category>

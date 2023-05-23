@@ -16,12 +16,12 @@
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
+    <category term="城市规划" />
     <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
     <category term="人生" />
     <category term="物联网" />
-    <category term="城市规划" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
@@ -31,8 +31,8 @@
     <category term="学习" />
     <category term="环保" />
     <category term="碳中和" />
-    <category term="种植" />
     <category term="健身" />
+    <category term="种植" />
     <category term="地理" />
     <category term="城市" />
     <category term="气象爱好者" />
@@ -54,8 +54,8 @@
     <category term="思考" />
     <category term="生活" />
     <category term="猫" />
-    <category term="幸福" />
     <category term="修身" />
+    <category term="幸福" />
     <category term="写书" />
     <category term="milestone" />
     <category term="地铁" />
@@ -75,9 +75,10 @@
     <category term="无线电爱好者" />
     <category term="亲密关系" />
     <category term="农业" />
-    <category term="游泳" />
+    <category term="报告" />
     <category term="励志" />
     <category term="演讲" />
+    <category term="游泳" />
     <category term="蔬食" />
     <category term="电台主播" />
     <category term="WordPress" />
@@ -309,7 +310,7 @@
     </entry>
     <entry>
         <id>https://luhuadong.com/reading/the-secret.html</id>
-        <title>秘密 —— 宇宙吸引力法则</title>
+        <title>《秘密》—— 宇宙吸引力法则</title>
         <link rel="alternate" href="https://luhuadong.com/reading/the-secret.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/static/The_Secret_1.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;第一次知道《秘密》这本书，是 Mr.Yang 推荐的，他分享了他是如何从沮丧、迷茫的状态中获得能量，找到自己的人生方向，并逐步把它实现的。&lt;/p&gt;
