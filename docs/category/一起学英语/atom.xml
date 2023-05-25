@@ -16,12 +16,12 @@
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
+    <category term="城市规划" />
     <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
     <category term="人生" />
     <category term="物联网" />
-    <category term="城市规划" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
@@ -80,7 +80,7 @@
     <category term="演讲" />
     <category term="游泳" />
     <category term="蔬食" />
-    <category term="电台主播" />
+    <category term="声音训练" />
     <category term="WordPress" />
     <category term="垃圾分类" />
     <category term="零废弃" />
@@ -375,11 +375,16 @@
         <id>https://luhuadong.com/english/english-proverbs.html</id>
         <title>常用英语谚语、英语短句</title>
         <link rel="alternate" href="https://luhuadong.com/english/english-proverbs.html"/>
-        <content type="html">&lt;p&gt;&lt;strong&gt;1、说到做到&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Don’t just talk the talk, you have to walk the walk.&lt;br&gt;
- 不要光说，还要行动。&lt;/p&gt;
+        <content type="html">&lt;p&gt;Don’t just talk the talk, you have to walk the walk.&lt;br&gt;
+ 不要光说，还要行动（说到做到）。&lt;/p&gt;
 &lt;p&gt;Walk the talk.&lt;br&gt;
  言行一致。&lt;/p&gt;
+&lt;p&gt;So let’s get the ball rolling.&lt;/p&gt;
+&lt;p&gt;让我们开始吧。&lt;/p&gt;
+&lt;p&gt;An apple a day keeps the doctor away.&lt;/p&gt;
+&lt;p&gt;一天一苹果，医生远离我。&lt;/p&gt;
+&lt;p&gt;She is rich but not happy.&lt;/p&gt;
+&lt;p&gt;她有钱但是并不快乐。&lt;/p&gt;
 </content>
         <category term="英语" />
         <updated>2022-12-27T13:08:44.000Z</updated>
@@ -405,6 +410,52 @@
         <category term="英语" />
         <category term="学习" />
         <updated>2022-01-25T06:10:14.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/english/dialog-eat-breakfast.html</id>
+        <title>【英语对话】Eat Breakfast 吃早餐</title>
+        <link rel="alternate" href="https://luhuadong.com/english/dialog-eat-breakfast.html"/>
+        <content type="html">&lt;p&gt;&lt;strong&gt;Situation&lt;/strong&gt;：Mary talks to her husband, John, over breakfast.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;John: Good morning, dear.&lt;/li&gt;
+&lt;li&gt;Mary: Good morning, darling. Did you sleep well?&lt;/li&gt;
+&lt;li&gt;John: Yes, thanks. I slept like a log.&lt;/li&gt;
+&lt;li&gt;Mary: You’re just &lt;strong&gt;in time&lt;/strong&gt; for breakfast.&lt;/li&gt;
+&lt;li&gt;John: Good. What are we having?&lt;/li&gt;
+&lt;li&gt;Mary: The usual. I hope you have a good &lt;strong&gt;appetite&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;John: I always have an appetite like a bear in the morning.&lt;/li&gt;
+&lt;li&gt;Mary: Great. Here’s your coffee. Be careful! It’s piping hot.&lt;/li&gt;
+&lt;li&gt;John: Thanks. May I have some sugar?&lt;/li&gt;
+&lt;li&gt;Mary: It’s right in front of you, dear.&lt;/li&gt;
+&lt;li&gt;John: Oh, of course. How &lt;strong&gt;silly&lt;/strong&gt; of me!&lt;/li&gt;
+&lt;li&gt;Mary: Have some toast. The milk is in the &lt;strong&gt;refrigerator&lt;/strong&gt;. Help yourself.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="英语" />
+        <updated>2020-03-30T14:29:32.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/english/dialog-making-breakfast.html</id>
+        <title>【英语对话】Making Breakfast 做早餐</title>
+        <link rel="alternate" href="https://luhuadong.com/english/dialog-making-breakfast.html"/>
+        <content type="html">&lt;p&gt;&lt;strong&gt;Situation&lt;/strong&gt;：Mary’s friend Rose dropped by early in the morning and joins Mary for breakfast.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mary: What kind of &lt;strong&gt;cereal&lt;/strong&gt; would you like, Rose?&lt;/li&gt;
+&lt;li&gt;Rose: What do you have?&lt;/li&gt;
+&lt;li&gt;Mary: We have Cheerios and &lt;strong&gt;cornflakes&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Rose: I’ll have cornflakes.&lt;/li&gt;
+&lt;li&gt;Mary: How would you like your eggs? Scrambled, &lt;strong&gt;as usual&lt;/strong&gt;?&lt;/li&gt;
+&lt;li&gt;Rose: No, I think I’ll have a soft-boiled one &lt;strong&gt;for a change&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Mary: Good choice. I just made one. Here you are. I hope it’s not too hard.&lt;/li&gt;
+&lt;li&gt;Rose: I’m sure it’s just right. Could you pass me the &lt;strong&gt;salt shaker&lt;/strong&gt;?&lt;/li&gt;
+&lt;li&gt;Mary: Here you are. Would you like some toast?&lt;/li&gt;
+&lt;li&gt;Rose: Sure. I’ll have two &lt;strong&gt;slices&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Mary: Would you like a cup of coffee?&lt;/li&gt;
+&lt;li&gt;Rose: Of course! Breakfast isn’t breakfast without coffee!&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="英语" />
+        <updated>2020-03-30T14:03:31.000Z</updated>
     </entry>
     <entry>
         <id>https://luhuadong.com/english/en-start-vs-begin.html</id>
@@ -810,6 +861,166 @@
         <category term="英语" />
         <category term="学习" />
         <updated>2019-09-09T02:13:08.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/english/Do-You-Know-My-Work.html</id>
+        <title>【英语短文】Do You Know My Work?</title>
+        <link rel="alternate" href="https://luhuadong.com/english/Do-You-Know-My-Work.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/english/5330466-ca67995160e3bade.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;原文&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#原文&#34;&gt;#&lt;/a&gt; 原文&lt;/h2&gt;
+&lt;p&gt;One night a hotel caught fire, and the people who were staying in it ran out in their night clothes.&lt;/p&gt;
+&lt;p&gt;Two men stood outside and looked at the fire.&lt;/p&gt;
+&lt;p&gt;“Before I came out,” said one, “I ran into some of the rooms and found a lot of money. People don’t think of money when they’re afraid. When anyone leaves paper money in a fire, the fire burns it. So I took all the bills that I could find. No one will be poorer because I took them.”&lt;/p&gt;
+&lt;p&gt;“You don’t know my work.” said the other.&lt;/p&gt;
+&lt;p&gt;“What is your work?”&lt;/p&gt;
+&lt;p&gt;“I’m a policeman.”&lt;/p&gt;
+&lt;p&gt;“Oh!” cried the first man. He thought quickly and said, “And do you know my work?” “No.” said the policeman.&lt;/p&gt;
+&lt;p&gt;“I’m a writer. I’m always telling stories about things that never happened.”&lt;/p&gt;
+&lt;h2 id=&#34;翻译&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#翻译&#34;&gt;#&lt;/a&gt; 翻译&lt;/h2&gt;
+&lt;p&gt;一天晚上，一家旅馆失火，住在这家旅馆里的人们穿着睡衣就跑了出来。&lt;/p&gt;
+&lt;p&gt;两个人站在外面，看着大火。&lt;/p&gt;
+&lt;p&gt;“在我出来之前，” 其中一个说，“我跑进一些房间，找到了一大笔钱。人在恐惧中是不会想到钱的。如果有人把纸币留在火里，火就会把它烧成灰烬。所以我把我所能找到的钞票都拿走了。没有人会因为我拿走它们而变得更穷。”&lt;/p&gt;
+&lt;p&gt;“你不知道我是干什么的。” 另一个人说。&lt;/p&gt;
+&lt;p&gt;“你是干什么的？”&lt;/p&gt;
+&lt;p&gt;“我是警察。”&lt;/p&gt;
+&lt;p&gt;“噢！” 第一个人喊了一声。他灵机一动，说：“那你知道我是干什么的？” “不知道。” 警察说。&lt;/p&gt;
+&lt;p&gt;“我是个作家。我总是爱编一些从未发生过的故事。”&lt;/p&gt;
+</content>
+        <category term="英语" />
+        <updated>2017-04-23T08:07:09.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/english/Good-News-and-Bad-News.html</id>
+        <title>【英语短文】Good News and Bad News</title>
+        <link rel="alternate" href="https://luhuadong.com/english/Good-News-and-Bad-News.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/english/5330466-3124174d11fb3404.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;原文&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#原文&#34;&gt;#&lt;/a&gt; 原文&lt;/h2&gt;
+&lt;p&gt;An artist asked the gallery owner if there had been any interest in his paintings currently on display.&lt;/p&gt;
+&lt;p&gt;“I’ve got good news and bad news.” the owner replied.&lt;/p&gt;
+&lt;p&gt;“The good nows is that a gentleman inquired about your work and wondered if it would appreciate in value after your death. When I told him it would, he bought all fifteen of your paintings.”&lt;/p&gt;
+&lt;p&gt;“That’s wonderful !” the artist exclaimed, “What’s the bad nows ?” With concern, the gallery owner replied, “The guy was your doctor.”&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;gallery  n. 画廊&lt;/li&gt;
+&lt;li&gt;appreciate in value  升值&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;翻译&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#翻译&#34;&gt;#&lt;/a&gt; 翻译&lt;/h2&gt;
+&lt;p&gt;一个画家问画廊的主人有没有人对他正在展览的画作感兴趣。&lt;/p&gt;
+&lt;p&gt;“我有一个好消息，又有一个坏消息要告诉你。” 主人说。&lt;/p&gt;
+&lt;p&gt;“好消息就是一位绅士向你的画作询价并想知道你死后那些画会不会升值。当我告诉他会以后，他便买下了你全部的 15 幅作品。”&lt;/p&gt;
+&lt;p&gt;“那太好了！” 画家惊叹道，“那坏消息呢？” 主人面露关切之色，回答道：“那个人是你的医生。”&lt;/p&gt;
+</content>
+        <category term="英语" />
+        <updated>2017-04-23T07:45:30.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/english/Why-is-He-Howling.html</id>
+        <title>【英语短文】Why is He Howling</title>
+        <link rel="alternate" href="https://luhuadong.com/english/Why-is-He-Howling.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/english/5330466-fce3ca819a884a67.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;原文&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#原文&#34;&gt;#&lt;/a&gt; 原文&lt;/h2&gt;
+&lt;p&gt;Dentist: Please stop howling. I haven’t even touched your tooth yet.&lt;/p&gt;
+&lt;p&gt;Patient: I know, but you are standing on my foot !&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;howl  v. 嚎叫；嚎哭&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;stop doing sth.  停下正在做的某事&lt;/p&gt;
+&lt;p&gt;stop to do sth.  停下（正在做的事）去做某事&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;翻译&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#翻译&#34;&gt;#&lt;/a&gt; 翻译&lt;/h2&gt;
+&lt;p&gt;牙医：请你不要再喊了！我还没碰你的牙呢。&lt;/p&gt;
+&lt;p&gt;病人：我知道，可是你正踩着我的脚呀！&lt;/p&gt;
+</content>
+        <category term="英语" />
+        <updated>2017-04-23T07:28:13.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/english/Roses-for-My-Wife.html</id>
+        <title>【英语短文】Roses for My Wife</title>
+        <link rel="alternate" href="https://luhuadong.com/english/Roses-for-My-Wife.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/english/5330466-f627560b9003bad7.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;原文&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#原文&#34;&gt;#&lt;/a&gt; 原文&lt;/h2&gt;
+&lt;p&gt;On the way home one night, I spotted some fresh-cut roses outside a florist’s shop. After selecting a dozen and entering the shop, I was greeted by a young saleswoman.&lt;/p&gt;
+&lt;p&gt;“Are these for your wife, sir?” she asked.&lt;/p&gt;
+&lt;p&gt;“Yes.” I said.&lt;/p&gt;
+&lt;p&gt;“For her birthday?” she asked.&lt;/p&gt;
+&lt;p&gt;“No.” I replied.&lt;/p&gt;
+&lt;p&gt;“For your anniversary?”&lt;/p&gt;
+&lt;p&gt;“No.” I said again.&lt;/p&gt;
+&lt;p&gt;As I pocketed my change and headed toward the door, the young woman called out, “I hope she forgives you.”&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;spot  v. 认出；发现&lt;/li&gt;
+&lt;li&gt;florist  n. 种花人&lt;/li&gt;
+&lt;li&gt;saleswoman  n. 女售货员&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;翻译&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#翻译&#34;&gt;#&lt;/a&gt; 翻译&lt;/h2&gt;
+&lt;p&gt;一天晚上回家的路上，我看到一家花店外面有一些刚剪下来的玫瑰。我挑了一打，走进店里，一个年轻的女售货员招待了我。&lt;/p&gt;
+&lt;p&gt;“先生，这些是送给你妻子的吗？” 她问道。&lt;/p&gt;
+&lt;p&gt;“是的。” 我说。&lt;/p&gt;
+&lt;p&gt;“她的生日？” 她问。&lt;/p&gt;
+&lt;p&gt;“不是。” 我回答。&lt;/p&gt;
+&lt;p&gt;“你们的结婚纪念日？”&lt;/p&gt;
+&lt;p&gt;“不是。” 我又答道。&lt;/p&gt;
+&lt;p&gt;当我将找回的钱装进口袋，朝门口走去时，那年轻的女人冲我喊道：“希望她能原谅你。”&lt;/p&gt;
+</content>
+        <category term="英语" />
+        <updated>2017-04-23T07:15:12.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/english/The-First-Day-as-a-Taxi-Driver.html</id>
+        <title>【英语短文】The First Day as a Taxi Driver</title>
+        <link rel="alternate" href="https://luhuadong.com/english/The-First-Day-as-a-Taxi-Driver.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/english/5330466-97bba3c9b3c751c7.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;原文&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#原文&#34;&gt;#&lt;/a&gt; 原文&lt;/h2&gt;
+&lt;p&gt;A taxi passenger tapped the driver on the  shoulder to ask him a question. The driver screamed, lost control of the car, nearly hit a bus, went up on the footpath, and stopped centimertres from a shop window.&lt;/p&gt;
+&lt;p&gt;The driver said, “Look, mate, don’t ever do that again. You scared the daylights out of me!” The passenger apologized and said, “I didn’t realize that a little tap would scare you so much.” The driver replied, “Sorry, it’s not really your fault. Today is my first day as a cab driver. I’ve been driving a funeral van for the last 25 years.”&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;scare/frighten the daylights out of sb.  把某人吓一大跳&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;翻译&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#翻译&#34;&gt;#&lt;/a&gt; 翻译&lt;/h2&gt;
+&lt;p&gt;乘客轻拍了一下出租车司机的肩膀，想问个问题。司机大叫起来，车也失去了控制，几乎撞上一辆公车，还上了便道，在还差几厘米就撞上商店橱窗时终于停了下来。&lt;/p&gt;
+&lt;p&gt;司机说：“伙计，别再这么干了。你把我吓破胆了！” 乘客抱歉地说：“我没想到拍你一下就把你吓成这样。” 司机说：“对不起，也不全是你的错。今天是我第一天开出租车，以前 25 年里我一直开殡葬车。”&lt;/p&gt;
+</content>
+        <category term="英语" />
+        <updated>2017-04-04T03:08:40.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/english/Which-Woman.html</id>
+        <title>【英语短文】Which Woman</title>
+        <link rel="alternate" href="https://luhuadong.com/english/Which-Woman.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/english/5330466-0c5da467b03ee2e7.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;原文&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#原文&#34;&gt;#&lt;/a&gt; 原文&lt;/h2&gt;
+&lt;p&gt;One evening I drove my husband’s car to the shopping mall.&lt;/p&gt;
+&lt;p&gt;On my return, I noticed that how dusty the outside of his car was and cleaned it up a bit. when I finally entered the house, I called out, “The woman who loves you the most in the world just cleaned your headlights and windshield.”&lt;/p&gt;
+&lt;p&gt;My husband looked up and said, “Mom’s here ?”&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;shopping mall  大型购物中心&lt;/li&gt;
+&lt;li&gt;headlight  n. 前灯&lt;/li&gt;
+&lt;li&gt;windshield  n. 挡风玻璃&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;翻译&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#翻译&#34;&gt;#&lt;/a&gt; 翻译&lt;/h2&gt;
+&lt;p&gt;一天晚上我开着丈夫的车去购物，回来后发现车身沾满灰尘，于是擦洗了一阵。当我终于走进屋里时大声喊：“世界上最爱你的女人刚擦洗了你的车灯和挡风玻璃。”&lt;/p&gt;
+&lt;p&gt;我丈夫抬头看了看，说：“妈妈来了？”&lt;/p&gt;
+</content>
+        <category term="英语" />
+        <updated>2017-04-04T02:53:00.000Z</updated>
     </entry>
     <entry>
         <id>https://luhuadong.com/english/quick-spoken-english-travel-hospital.html</id>
