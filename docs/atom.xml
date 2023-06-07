@@ -87,7 +87,7 @@
     <category term="低碳" />
     <entry>
         <id>https://luhuadong.com/journal/20230604.html</id>
-        <title>裁员浪潮下，我重新思考了人生方向</title>
+        <title>裁员浪潮下，我重新思考了职业发展方向</title>
         <link rel="alternate" href="https://luhuadong.com/journal/20230604.html"/>
         <content type="html">&lt;p&gt;2022 年初，我在 Gap 了半年之后决定重新进入职场，最后选择了汽车行业，更具体一点，是自动驾驶行业。一来是想深入了解处于风口浪尖的自动驾驶技术，二来是因为薪资相对其他行业高出不少。&lt;/p&gt;
 &lt;p&gt;在经过一年多的沉浸式开发之后，我从汽车小白进化成了懂一点点汽车的小白，也发布了一些关于智能汽车、激光雷达的专栏文章，从嵌入式软件研发转变成了多传感器融合软件研发，从底层程序员转变成了中低层程序员 + 项目经理 + 导师。公司也待我不薄，一年涨了两次薪水，从年薪 40 万涨到接近 60 万，领导说整个产品线只有我一个人有这种待遇，虽然我觉得他在骗我，但我还是很感谢他。当然啦，他们也说了，“能者多劳，劳者多得”，于是我逐渐走出舒适圈，干的活越来越杂、越来越多，下班的时间越来越晚，睡觉的时间越来越少，头发也掉得越来越多… 我知道，这种状态不健康，也不可持续。&lt;/p&gt;
@@ -8294,7 +8294,7 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
 &lt;p&gt;之后开始出现各种不同形式的符号，比如  &lt;code&gt;:-o&lt;/code&gt;  表示惊讶， &lt;code&gt;ORZ&lt;/code&gt;  表示低头下跪等等。虽然符号表情需要把头逆时针转 90 度才能看懂，但在 BP 机时代给人们带来了许多快乐，现在仍然有许多人在使用（包括我）。&lt;/p&gt;
 &lt;h3 id=&#34;span-classgithub-emoji-aliastwo-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode0032-20e3pngv82️⃣span-emoji绘文字&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#span-classgithub-emoji-aliastwo-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode0032-20e3pngv82️⃣span-emoji绘文字&#34;&gt;#&lt;/a&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;two&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0032-20e3.png?v8&#34;&gt;2️⃣&lt;/span&gt; &lt;strong&gt;Emoji（绘文字）&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;基于 ASCII 的符号表情所能表达的内容有限，并且输入符号的体验并不是很好。日本移动通讯运营商 NTT DOCOMO 的工程师栗田穣崇在 1999 年设计了一套 12x12 像素的图形化表情。虽然今天我们所用的 emoji 与最初的相比已有了翻天覆地的变化，但都离不开栗田穣崇为 emoji 创造的原始基因。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20210307230335427.jpg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/md/20210307230335427.jpg&#34; alt=&#34;最早的 emoji 表情&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Emoji 一词并不是栗田穣崇创造出来的，而是日语中早就存在的。大概是江户年代起就有将类似 emoji 的图形符号当做文字来用的历史了。e 是日文汉字「絵」（图画的意思），moji 是「文字」，所以 emoji，也称作绘文字。而 kao 是「颜」（脸的意思），所以 kaomoji 就是颜文字。&lt;/p&gt;
 &lt;p&gt;全世界第一个 Emoji 表情 &lt;span class=&#34;github-emoji&#34; alias=&#34;heart&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8&#34;&gt;❤&lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&#34;span-classgithub-emoji-aliasthree-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode0033-20e3pngv83️⃣span-emoji-统一码&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#span-classgithub-emoji-aliasthree-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode0033-20e3pngv83️⃣span-emoji-统一码&#34;&gt;#&lt;/a&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;three&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0033-20e3.png?v8&#34;&gt;3️⃣&lt;/span&gt; &lt;strong&gt;Emoji 统一码&lt;/strong&gt;&lt;/h3&gt;
@@ -8302,7 +8302,7 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
 &lt;p&gt;此前 emoji 仅在日本流行，直到 2011 年，苹果在 iPhone 系统中加入一套 Apple Color Emoji 后，emoji 才真正开始火爆，涌入全球用户的屏幕中，成为当今数字通讯中的一种新形式，逐渐成为一门世界通用语言。&lt;/p&gt;
 &lt;p&gt;Emoji 仍在不断发展，Unicode 8.0 就加入了 5 个修饰符，用来调节人形表情的肤色。&lt;/p&gt;
 &lt;p&gt;Unicode 10.0 版本的部分 emoji 编码如下：&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20210307230405868.png&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/md/20210307230405868.png&#34; alt=&#34;Unicode 10.0 版本的部分 emoji 编码&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;在-markdown-中使用-emoji&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#在-markdown-中使用-emoji&#34;&gt;#&lt;/a&gt; 在 Markdown 中使用 Emoji&lt;/h2&gt;
 &lt;p&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; 重点：有两种方法可以将 emoji 表情符号添加到 Markdown 文档&lt;/p&gt;
 &lt;ol&gt;
@@ -8726,7 +8726,7 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
 &lt;li&gt;Markdown 不是什么？&lt;/li&gt;
 &lt;li&gt;为什么使用 Markdown？&lt;/li&gt;
 &lt;/ol&gt;
-&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20210304185234809.png&#34; width=200 /&gt;
+&lt;img data-src=&#34;/images/md/20210304185234809.png&#34; width=200 /&gt;
 &lt;h2 id=&#34;markdown-是什么&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#markdown-是什么&#34;&gt;#&lt;/a&gt; Markdown 是什么&lt;/h2&gt;
 &lt;p&gt;Markdown 是一种轻量级标记语言。别被「标记语言」这个词吓到，其实就是用一些足够简单的符号作为标记来对文本内容进行修饰。比如像下面这张图，左边就是用 Markdown 进行标记的文本，右边是经过渲染后呈现给用户的效果。&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/md/markdown_show.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -22495,25 +22495,26 @@ n\in\mathbb N&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;
     </entry>
     <entry>
         <id>https://luhuadong.com/journal/this-blog.html</id>
-        <title>这个部落格</title>
+        <title>开篇：这个部落格</title>
         <link rel="alternate" href="https://luhuadong.com/journal/this-blog.html"/>
         <content type="html">&lt;p&gt;终于还是开通了这个部落格（Blog），而这，就是第一篇文章。我将会在这里记录、发布我的所思所想，内容范围不固定，更新频度也不固定，但是我会尽量保证所分享的内容都是有趣、实用的。&lt;/p&gt;
 &lt;p&gt;如果你想了解我，可以在导航栏点击 “关于”，找到关于我的一些信息以及我的联系方式。&lt;/p&gt;
 &lt;h2 id=&#34;快速开始&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#快速开始&#34;&gt;#&lt;/a&gt; 快速开始&lt;/h2&gt;
 &lt;h3 id=&#34;背景&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#背景&#34;&gt;#&lt;/a&gt; 背景&lt;/h3&gt;
-&lt;p&gt;早在 2013 年，我就开始在 CSDN 上面写博客，只不过内容偏向于软件技术。在漫长的学习、工作和生活当中，其实有许许多多的事情值得我们去记录。有时候，我们需要停下来，等一下我们的灵魂，充实一下我们的精神世界。&lt;/p&gt;
+&lt;p&gt;早在 2013 年，我就开始在 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x1X2VtYmVkZGVk&#34;&gt;CSDN&lt;/span&gt; 上面写博客，只不过内容偏向于软件技术。在漫长的学习、工作和生活当中，其实有许许多多的事情值得我们去记录。有时候，我们需要停下来，等一下我们的灵魂，充实一下我们的精神世界。&lt;/p&gt;
 &lt;p&gt;人生有无限可能，所以我想重新开辟一个空间，展示 A 面、B 面、C 面…&lt;/p&gt;
-&lt;p&gt;我也不知道哪个才是 “真正的自我”，也许就是这一个个 “可能的自我”，组合起来，才是那个真实的我，管他呢！&lt;/p&gt;
+&lt;p&gt;我也不知道哪个才是 “真正的自我”，也许就是这一个个 “可能的自我”，组合起来，才是那个真实的我，管它呢！&lt;/p&gt;
 &lt;h3 id=&#34;内容&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#内容&#34;&gt;#&lt;/a&gt; 内容&lt;/h3&gt;
 &lt;p&gt;这里可能会分享：&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;个人成长&lt;/li&gt;
+&lt;li&gt;读书笔记&lt;/li&gt;
+&lt;li&gt;生活感悟&lt;/li&gt;
+&lt;li&gt;运动健康&lt;/li&gt;
+&lt;li&gt;财富管理&lt;/li&gt;
 &lt;li&gt;软件技术&lt;/li&gt;
 &lt;li&gt;行业分析&lt;/li&gt;
 &lt;li&gt;环境保护&lt;/li&gt;
-&lt;li&gt;读书笔记&lt;/li&gt;
-&lt;li&gt;生活感悟&lt;/li&gt;
-&lt;li&gt;运动保健&lt;/li&gt;
-&lt;li&gt;投资理财&lt;/li&gt;
 &lt;li&gt;…&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;显然，在有限的生命的，我所触及的事物是有限的，且必然带有主观色彩。所以你们要带着辩证思维去阅读。&lt;/p&gt;

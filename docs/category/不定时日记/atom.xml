@@ -87,7 +87,7 @@
     <category term="低碳" />
     <entry>
         <id>https://luhuadong.com/journal/20230604.html</id>
-        <title>裁员浪潮下，我重新思考了人生方向</title>
+        <title>裁员浪潮下，我重新思考了职业发展方向</title>
         <link rel="alternate" href="https://luhuadong.com/journal/20230604.html"/>
         <content type="html">&lt;p&gt;2022 年初，我在 Gap 了半年之后决定重新进入职场，最后选择了汽车行业，更具体一点，是自动驾驶行业。一来是想深入了解处于风口浪尖的自动驾驶技术，二来是因为薪资相对其他行业高出不少。&lt;/p&gt;
 &lt;p&gt;在经过一年多的沉浸式开发之后，我从汽车小白进化成了懂一点点汽车的小白，也发布了一些关于智能汽车、激光雷达的专栏文章，从嵌入式软件研发转变成了多传感器融合软件研发，从底层程序员转变成了中低层程序员 + 项目经理 + 导师。公司也待我不薄，一年涨了两次薪水，从年薪 40 万涨到接近 60 万，领导说整个产品线只有我一个人有这种待遇，虽然我觉得他在骗我，但我还是很感谢他。当然啦，他们也说了，“能者多劳，劳者多得”，于是我逐渐走出舒适圈，干的活越来越杂、越来越多，下班的时间越来越晚，睡觉的时间越来越少，头发也掉得越来越多… 我知道，这种状态不健康，也不可持续。&lt;/p&gt;
@@ -1797,25 +1797,26 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
     </entry>
     <entry>
         <id>https://luhuadong.com/journal/this-blog.html</id>
-        <title>这个部落格</title>
+        <title>开篇：这个部落格</title>
         <link rel="alternate" href="https://luhuadong.com/journal/this-blog.html"/>
         <content type="html">&lt;p&gt;终于还是开通了这个部落格（Blog），而这，就是第一篇文章。我将会在这里记录、发布我的所思所想，内容范围不固定，更新频度也不固定，但是我会尽量保证所分享的内容都是有趣、实用的。&lt;/p&gt;
 &lt;p&gt;如果你想了解我，可以在导航栏点击 “关于”，找到关于我的一些信息以及我的联系方式。&lt;/p&gt;
 &lt;h2 id=&#34;快速开始&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#快速开始&#34;&gt;#&lt;/a&gt; 快速开始&lt;/h2&gt;
 &lt;h3 id=&#34;背景&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#背景&#34;&gt;#&lt;/a&gt; 背景&lt;/h3&gt;
-&lt;p&gt;早在 2013 年，我就开始在 CSDN 上面写博客，只不过内容偏向于软件技术。在漫长的学习、工作和生活当中，其实有许许多多的事情值得我们去记录。有时候，我们需要停下来，等一下我们的灵魂，充实一下我们的精神世界。&lt;/p&gt;
+&lt;p&gt;早在 2013 年，我就开始在 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x1X2VtYmVkZGVk&#34;&gt;CSDN&lt;/span&gt; 上面写博客，只不过内容偏向于软件技术。在漫长的学习、工作和生活当中，其实有许许多多的事情值得我们去记录。有时候，我们需要停下来，等一下我们的灵魂，充实一下我们的精神世界。&lt;/p&gt;
 &lt;p&gt;人生有无限可能，所以我想重新开辟一个空间，展示 A 面、B 面、C 面…&lt;/p&gt;
-&lt;p&gt;我也不知道哪个才是 “真正的自我”，也许就是这一个个 “可能的自我”，组合起来，才是那个真实的我，管他呢！&lt;/p&gt;
+&lt;p&gt;我也不知道哪个才是 “真正的自我”，也许就是这一个个 “可能的自我”，组合起来，才是那个真实的我，管它呢！&lt;/p&gt;
 &lt;h3 id=&#34;内容&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#内容&#34;&gt;#&lt;/a&gt; 内容&lt;/h3&gt;
 &lt;p&gt;这里可能会分享：&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;个人成长&lt;/li&gt;
+&lt;li&gt;读书笔记&lt;/li&gt;
+&lt;li&gt;生活感悟&lt;/li&gt;
+&lt;li&gt;运动健康&lt;/li&gt;
+&lt;li&gt;财富管理&lt;/li&gt;
 &lt;li&gt;软件技术&lt;/li&gt;
 &lt;li&gt;行业分析&lt;/li&gt;
 &lt;li&gt;环境保护&lt;/li&gt;
-&lt;li&gt;读书笔记&lt;/li&gt;
-&lt;li&gt;生活感悟&lt;/li&gt;
-&lt;li&gt;运动保健&lt;/li&gt;
-&lt;li&gt;投资理财&lt;/li&gt;
 &lt;li&gt;…&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;显然，在有限的生命的，我所触及的事物是有限的，且必然带有主观色彩。所以你们要带着辩证思维去阅读。&lt;/p&gt;
