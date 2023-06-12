@@ -20,13 +20,13 @@
         <category>奋斗</category>
         <category>信息世界</category>
         <category>城市规划</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
         <category>管理</category>
         <category>程序员</category>
         <category>职场</category>
         <category>人生</category>
         <category>物联网</category>
-        <category>Python</category>
-        <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
@@ -48,19 +48,19 @@
         <category>可持续</category>
         <category>能源</category>
         <category>职业</category>
-        <category>时间管理</category>
+        <category>milestone</category>
         <category>工作</category>
         <category>总结</category>
         <category>慈济</category>
-        <category>RT-Thread</category>
-        <category>开源</category>
-        <category>思考</category>
         <category>生活</category>
-        <category>猫</category>
-        <category>幸福</category>
+        <category>RT-Thread</category>
         <category>修身</category>
+        <category>开源</category>
         <category>写书</category>
-        <category>milestone</category>
+        <category>思考</category>
+        <category>幸福</category>
+        <category>猫</category>
+        <category>时间管理</category>
         <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
@@ -125,12 +125,12 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/to-myself-in-five-years-written-on-the-29-birthday.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/journal/20210405.html</guid>
             <title>给五年后的自己（写在29岁生日）</title>
-            <link>https://luhuadong.com/journal/to-myself-in-five-years-written-on-the-29-birthday.html</link>
+            <link>https://luhuadong.com/journal/20210405.html</link>
             <category>总结</category>
-            <category>思考</category>
             <category>修身</category>
+            <category>思考</category>
             <pubDate>Mon, 05 Apr 2021 14:24:28 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;亲爱的，祝贺你来到了 34 岁这个黄金时期。20-30 岁这个阶段真的很重要，也很难，就我个人而言，简直是一路披荆斩棘，一步一个坑。&lt;/p&gt;
 &lt;p&gt;我也在想，为什么好像做什么都是从 hard 模式开始？比如生不逢时，没有享受过家庭的好时光；比如作为家里第一位大学生，无人指导只能自己摸索；比如在家里难以获得理解，浪费太多时间在沟通上了；再比如职业规划不清晰、遭遇职业发展瓶颈，缺乏正确的金钱观和理财意识、多次投资失败；还有，第一次去欧洲旅行就遇上行李延误…&lt;/p&gt;
@@ -255,9 +255,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/how-are-you-today.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/journal/20210314.html</guid>
             <title>「每日一问」你今天过得怎么样？</title>
-            <link>https://luhuadong.com/journal/how-are-you-today.html</link>
+            <link>https://luhuadong.com/journal/20210314.html</link>
             <category>成长</category>
             <category>奋斗</category>
             <category>修身</category>

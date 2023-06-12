@@ -17,13 +17,13 @@
     <category term="奋斗" />
     <category term="信息世界" />
     <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
     <category term="人生" />
     <category term="物联网" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -45,19 +45,19 @@
     <category term="可持续" />
     <category term="能源" />
     <category term="职业" />
-    <category term="时间管理" />
+    <category term="milestone" />
     <category term="工作" />
     <category term="总结" />
     <category term="慈济" />
-    <category term="RT-Thread" />
-    <category term="开源" />
-    <category term="思考" />
     <category term="生活" />
-    <category term="猫" />
-    <category term="幸福" />
+    <category term="RT-Thread" />
     <category term="修身" />
+    <category term="开源" />
     <category term="写书" />
-    <category term="milestone" />
+    <category term="思考" />
+    <category term="幸福" />
+    <category term="猫" />
+    <category term="时间管理" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -86,9 +86,9 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/journal/2020-rtt-community-contribution-award.html</id>
+        <id>https://luhuadong.com/journal/20201222.html</id>
         <title>我与 RT-Thread 社区一起成长的故事</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/2020-rtt-community-contribution-award.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20201222.html"/>
         <content type="html">&lt;h2 id=&#34;成长故事&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#成长故事&#34;&gt;#&lt;/a&gt; 成长故事&lt;/h2&gt;
 &lt;p&gt;Hello，大家好，我是 Rudy（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2x1aHVhZG9uZw==&#34;&gt;卢华东&lt;/span&gt;）。我刚拿了 2020 年 RT-Thread 社区杰出贡献奖，现在还沉浸在喜悦之中。&lt;/p&gt;
 &lt;img data-src=&#34;https://img-blog.csdnimg.cn/20201222222649519.jpeg&#34; width=&#34;400&#34; /&gt;

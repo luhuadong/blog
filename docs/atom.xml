@@ -3,7 +3,7 @@
     <id>https://luhuadong.com</id>
     <title>成为自由人</title>
     <link href="https://luhuadong.com" />
-    <updated>2023-06-04T04:09:29.000Z</updated>
+    <updated>2023-06-09T15:22:58.000Z</updated>
     <category term="商业" />
     <category term="成长" />
     <category term="日记" />
@@ -17,13 +17,13 @@
     <category term="奋斗" />
     <category term="信息世界" />
     <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
     <category term="人生" />
     <category term="物联网" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -45,19 +45,19 @@
     <category term="可持续" />
     <category term="能源" />
     <category term="职业" />
-    <category term="时间管理" />
+    <category term="milestone" />
     <category term="工作" />
     <category term="总结" />
     <category term="慈济" />
-    <category term="RT-Thread" />
-    <category term="开源" />
-    <category term="思考" />
     <category term="生活" />
-    <category term="猫" />
-    <category term="幸福" />
+    <category term="RT-Thread" />
     <category term="修身" />
+    <category term="开源" />
     <category term="写书" />
-    <category term="milestone" />
+    <category term="思考" />
+    <category term="幸福" />
+    <category term="猫" />
+    <category term="时间管理" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -85,6 +85,52 @@
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
+    <entry>
+        <id>https://luhuadong.com/journal/20230609.html</id>
+        <title>五月碎碎念：高温、裁员、职业倦怠、运动的快乐</title>
+        <link rel="alternate" href="https://luhuadong.com/journal/20230609.html"/>
+        <content type="html">&lt;p&gt;天天上班，天天加班，感觉好久没有记录生活了，决定以后每个月都要写一篇碎碎念，分享一下近期的生活和感悟吧。这是第一期，所以可能会包含不止五月份发生的事情哦～&lt;/p&gt;
+&lt;h2 id=&#34;高温天气&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#高温天气&#34;&gt;#&lt;/a&gt; 高温天气&lt;/h2&gt;
+&lt;p&gt;想不到五月份的广州就已经这么热，反正我现在是离不开空调了！想起以前抠门夏天也不舍得开空调的我，真的应了那句话 —— 由俭入奢易，由奢入俭难。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/journal/20230611-000001.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;你知道吗？今年 5 月 18 日是广州首个高温日，而往年平均首个高温日出现在 6 月 17 日，也就是说，今年的高温天气早来了一个月！不只是广州，全国多个城市也在五月纷纷打破了原先的高温纪录，真是太疯狂了！&lt;/p&gt;
+&lt;p&gt;当然，让我焦虑的不只是空调电费，还有全球气候变暖和生物多样性减少。根据《地球物理研究通讯》的研究显示，目前地球上的夏季的平均时间增加，而春季、冬季与秋季的平均时间均有减少，按此趋势，未来夏季将有可能长达半年。&lt;/p&gt;
+&lt;img data-src=&#34;/images/journal/seasonal-rhythm-have-changed.jpg&#34; width=&#34;480&#34; /&gt;
+&lt;p&gt;这份研究收集北半球 1952 年至 2011 年的温度数据，计算春、夏、秋、冬四季的平均时间，发现夏季平均时间，在 59 年内从原本的 78 天增加为 95 天，另外三个季节则分别减少 9 天。我在想，以后生活在广东的小朋友，会不会感觉不到冬天的存在？&lt;/p&gt;
+&lt;p&gt;然而，危机可不仅如此。由于夏天的延长，人类的健康也会受到负面的影响，其中包括病毒的存活时间增长、蚊子的数量也会增加、花期延长从而使人类长时间暴露在大量的花粉等过敏原中，等等。&lt;/p&gt;
+&lt;p&gt;说到生物多样性，众所周知，5 月 22 日是国际生物多样性日嘛。我去特意去参观了一个「番茄宇宙拯救计划」展览，这是一个由 SeeD 策划的生物多样性的展览，它以番茄为出发点，通过品种历史区、种子实验区、艺术品区和共创交互活动的四大版块呈现，引发大家对食物多样性的思考。同时也呼吁大家关注自然，关心食物，选择对环境更为友好的生活方式。活动从 5 月 22 日一直持续到 7 月 20 日，地点位于广州市越秀区华侨新村爱国路 11 号（广州 SeeD 空间），感兴趣的朋友可以去看看哈！&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/journal/20230528-225550.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;裁员风波&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#裁员风波&#34;&gt;#&lt;/a&gt; 裁员风波&lt;/h2&gt;
+&lt;p&gt;虽然网络上各大公司裁员的风声已经吹好久了，但是当我们公司也宣布裁员消息的时候，对我内心的冲击还是非常的大。一个原因是我们公司表面看一切良好，就算是内部员工也很难察觉到异常。另一个原因则是在短短一周内，身边就有十多位同事领了 N+2 大礼包离开了，其中包括我带了快一年的应届生。&lt;/p&gt;
+&lt;p&gt;由于裁员的决定太突然了，那几天私底下和很多同事交流过，大致梳理了大致的来龙去脉。并且在未与我沟通的情况下把我手下的人裁了，让我有点生气，然后我就在知乎发了一个动态吐槽这件事。本以为应该没人看吧，毕竟不是什么大公司，我的粉丝也不多，没想到还是有 2023 届的应届生私信我了解情况，后来公司的 HR 还找到我，说我写得不够 “客观”，让我修改修改，于是我索性就把它删了。&lt;/p&gt;
+&lt;p&gt;事情大概是这样的：我们公司是自动驾驶传感器供应商嘛，前几年发展非常迅速，在惯导技术方面取得领先地位，为了争强企业竞争力，两年前开始筹备二次创业（我正是在此背景下加入的）。可是好景不长，2022 年底自动驾驶行业迎来了倒闭潮，曾经辉煌的自动驾驶公司、激光雷达公司宣布破产，亦或市值暴跌。相比海外自动驾驶行业的一片哀嚎，国内企业仍然坚挺（看起来），直到我们公司也开始撑不住了… 撑不住的具体原因据说是部分投资人停止了投资，而企业本身的现金流不足以支撑一家千人级别的企业，迫不得已决定裁员，以应对动荡的市场。至于投资人为什么跳票，可以说和大环境息息相关，这里就不展开说了。&lt;/p&gt;
+&lt;p&gt;在裁员通知发出后的两三天里，我找领导、领导的领导沟通，询问裁员的事情。我问领导：有没有可能把裁员的名额给我，把 XX 留下？领导说，每个部门都有裁员指标，不得不裁员，让我安心工作，别想那么多。反正最后沟通无果，我还跟领导们吐露了很多心声，包括内部研发、管理的问题。至于后面怎么样，下个月再分享吧。&lt;/p&gt;
+&lt;p&gt;这段时间几乎每天都在散伙饭，酒入愁肠，化作一句：江湖再见！&lt;/p&gt;
+&lt;img data-src=&#34;/images/journal/20230611-231045.webp&#34; width=&#34;600&#34; /&gt;
+&lt;p&gt;有些同事的感情真的挺深的，比如包工最后一天上班，说我还没结婚，特意给我发了两个红包；璐姐趁六一儿童节特意买了一个小挂饰送我，这样我的书包就不会显得太单调。而我也给他们准备了一些小礼物，给年长的同事送我们家乡特产「英红九号」茶叶，给年轻的同事送了一本《原则》。很多同事也是在离开之前纷纷互加微信，好像只有离职了，同事才能升级为真正的朋友。&lt;/p&gt;
+&lt;img data-src=&#34;/images/journal/20230603-015244.jpeg&#34; width=&#34;600&#34; /&gt;
+&lt;h2 id=&#34;职业倦怠&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#职业倦怠&#34;&gt;#&lt;/a&gt; 职业倦怠&lt;/h2&gt;
+&lt;p&gt;裁员风波暂告一段落，内心也逐渐恢复平静，看着那干净整洁的办公桌，仿佛他们从来都没有来过一样。没有被裁的人，可能比被裁的人更加焦虑。干活的人少了，我的工作量多了，更加没办法平衡工作和生活，这也是我想离开的直接原因。他们说，这叫 “能者多劳”，但我并不十分认同。&lt;/p&gt;
+&lt;p&gt;其实，就算没有这次裁员风波，我也计划今年下半年离开。因为我又进入了职业倦怠期，已经很长时间没有感受到编程的快乐了，也不喜欢开会。有时候我真的想不明白，为什么公司的制度总是无法释放每个人的创造力呢？为什么需要那么多管理岗来管理干活的员工呢？为什么有些员工明明不适合某个岗位却一直不做改变呢？为什么已经变成中华田园敏捷开发却依然坚守呢？为什么有的员工不称职却没有被发现，或者发现了也没被裁呢？&lt;/p&gt;
+&lt;p&gt;真的很讨厌，很讨厌低效、无意义的工作，很讨厌无休止的会议，很讨厌临时增加的各种需求，很讨厌和利己主义的人共事，很讨厌总是要求快速交付让人疲于奔命，很讨厌僵硬的制度和拙劣的管理水平…&lt;/p&gt;
+&lt;p&gt;虽然如此，但还是很感激这段经历，有很多值得感恩的人和事。感恩遇到欣赏我的领导，感恩公司给我优渥的待遇，感恩能有一个施展才华的平台，感恩能够从零开始参与一个跨多学科的项目，感恩能够积累到许多技术、管理以及品牌建设经验，感恩能够经历一段风风火火的创业历程。我甚至已经构思如何将这段经历写成一本书，总结和分享项目管理和创业经验，受《凤凰项目》（The Phoenix Project）启发，我将其命名为《海王星计划》（The Neptune Project）。&lt;/p&gt;
+&lt;p&gt;接下来的路该怎么走，我在《&lt;a href=&#34;20230604&#34;&gt;裁员浪潮下，我重新思考了职业发展方向&lt;/a&gt;》中有大致提到过，可能下个月会做出决定。那，到时候再分享吧。&lt;/p&gt;
+&lt;h2 id=&#34;运动的快乐&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#运动的快乐&#34;&gt;#&lt;/a&gt; 运动的快乐&lt;/h2&gt;
+&lt;p&gt;好像从高三开始就会焦虑了，总是要和别人竞争对比，其实是一件很折磨人的事情。以前担任体育委员，我一直这样告诉自己和身边的朋友：“不要给自己太大压力呀，每天都要运动一下，只要保持健康的身体，慢慢努力就会变好的！”&lt;/p&gt;
+&lt;p&gt;我的车里总是放着篮球和羽毛球，可以提醒我要多点运动。所以现在每次给我的车充电的时候，我也会在旁边练习篮球，会有一种很踏实、很快乐的感觉。&lt;/p&gt;
+&lt;video width=&#34;600&#34; controls&gt;
+  &lt;source type=&#34;video/mp4&#34; src=&#34;/images/journal/20230528-230033.mp4&#34;&gt;
+  您的浏览器不支持 video 标签。
+&lt;/video&gt;
+&lt;br/&gt;
+&lt;p&gt;过去一年，逐渐变得焦虑，睡眠质量也差了好多。每次看到有人因为工作而猝死，就会想：我们上辈子到底造了什么孽？这辈子要天天拼命上班，拼命加班！Fuck，老子不干了！&lt;/p&gt;
+&lt;p&gt;一辈子很短，要多运动、多休息，专注地去做你觉得有趣的事情，一定会是一个丰富而生动的人生！&lt;/p&gt;
+&lt;p&gt;（2023.06.09 晚）&lt;/p&gt;
+</content>
+        <category term="日记" />
+        <category term="思考" />
+        <updated>2023-06-09T15:22:58.000Z</updated>
+    </entry>
     <entry>
         <id>https://luhuadong.com/journal/20230604.html</id>
         <title>裁员浪潮下，我重新思考了职业发展方向</title>
@@ -478,9 +524,9 @@
         <updated>2023-05-15T00:44:01.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/life-meaning.html</id>
+        <id>https://luhuadong.com/journal/20230430.html</id>
         <title>当我不再寻找人生的意义，生活才刚刚开始</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/life-meaning.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20230430.html"/>
         <content type="html">&lt;p&gt;这几年活得很痛苦，其实也不是这几年啦，是这三十年好像都活得很痛苦，一直在寻找人生的意义。逃离原生家庭、追寻情感寄托、忙碌到让人麻木的工作、内心对名利的欲望… 以及那好像永远都达不到的理想生活。&lt;/p&gt;
 &lt;p&gt;别人总觉得我很好，就连我妈也是这么认为的，似乎他们无法理解我的痛苦，而我又只能不断地压抑自己，把痛苦和伤疤掩埋起来，对大家笑一个 ･◡･&lt;/p&gt;
 &lt;p&gt;从大三开始，抑郁就伴随着我，我曾以为我好了，可这几年持续性的心情低落，越来越频繁了。我好像失去了勇气，失去了自信，却依然要在大家面前展示最好的一面。累，真的累了。我想要的 “内外一致” 的状态，找不到了。&lt;/p&gt;
@@ -1522,9 +1568,9 @@
         <updated>2022-12-27T13:08:44.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/i-got-covid-19.html</id>
+        <id>https://luhuadong.com/journal/20221219.html</id>
         <title>放开疫情管控之后，我就阳了</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/i-got-covid-19.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20221219.html"/>
         <content type="html">&lt;p&gt;2022 年 11 月 30 日 15 时 30 分，广州 9 个区同时发布通告 “解除临时管控措施，恢复个人防护、避免聚集的防控措施”。&lt;/p&gt;
 &lt;p&gt;2022 年 12 月 13 日 0 点，“通信行程卡” 正式下线。&lt;/p&gt;
 &lt;p&gt;13 日是星期二早上九点，在办公室坐我旁边的同事突然说今天要请假，因为感到有点不舒服，正在排队做核酸，估计阳了。&lt;/p&gt;
@@ -1953,9 +1999,9 @@
         <updated>2022-10-01T08:50:39.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/BYD-Dolphin.html</id>
+        <id>https://luhuadong.com/journal/20220828.html</id>
         <title>比亚迪·海豚，我的移动城堡</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/BYD-Dolphin.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20220828.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/journal/Car-BYD-Dolphin.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;终于买了一台车&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#终于买了一台车&#34;&gt;#&lt;/a&gt; 终于买了一台车&lt;/h2&gt;
 &lt;p&gt;还记得刚参加工作那会，有一次和同事聊天，我们讨论到：如果攒到第一笔巨款，你会选择买房还是买车？&lt;/p&gt;
@@ -1982,9 +2028,9 @@
         <updated>2022-08-22T01:51:03.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/14-days-to-get-up-early.html</id>
-        <title>14天早起打卡！</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/14-days-to-get-up-early.html"/>
+        <id>https://luhuadong.com/journal/20220731.html</id>
+        <title>人生体验：14天早起打卡！</title>
+        <link rel="alternate" href="https://luhuadong.com/journal/20220731.html"/>
         <content type="html">&lt;p&gt;打卡时间：早 4 点 - 7 点&lt;/p&gt;
 &lt;p&gt;适合人群：&lt;/p&gt;
 &lt;ul&gt;
@@ -2311,9 +2357,9 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
         <updated>2022-07-09T00:18:25.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/to-be-a-sailor-of-the-world.html</id>
+        <id>https://luhuadong.com/journal/20220703.html</id>
         <title>做一个世界的水手，奔赴所有的码头</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/to-be-a-sailor-of-the-world.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20220703.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/20220702-vloveit-03.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;周六，我参加了&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy52bG92ZWl0Lm5ldA==&#34;&gt;微辣青年&lt;/span&gt;（vloveit）举办的 2022 可持续生活创变营，一共有 7 个项目，具体可以关注微辣青年公众号进行了解。&lt;span class=&#34;github-emoji&#34; alias=&#34;point_right&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f449.png?v8&#34;&gt;👉&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/20220702-vloveit-04.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -2403,13 +2449,6 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
         <updated>2022-06-29T17:09:11.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/WeOpen-Star-2022.html</id>
-        <title>开源摘星计划（2022）</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/WeOpen-Star-2022.html"/>
-        <content type="html"></content>
-        <updated>2022-06-16T15:27:12.000Z</updated>
-    </entry>
-    <entry>
         <id>https://luhuadong.com/journal/20220612.html</id>
         <title>开始我的环保博主生涯</title>
         <link rel="alternate" href="https://luhuadong.com/journal/20220612.html"/>
@@ -2463,10 +2502,10 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
         <updated>2022-06-11T10:46:35.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/become-a-feminist.html</id>
+        <id>https://luhuadong.com/journal/20220610.html</id>
         <title>成为一名女权主义者</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/become-a-feminist.html"/>
-        <content type="html">&lt;p&gt;继成为开源主义者、环保主义者之后，今天又立志成为一名女权主义者 &lt;span class=&#34;github-emoji&#34; alias=&#34;muscle&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png?v8&#34;&gt;💪&lt;/span&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://luhuadong.com/journal/20220610.html"/>
+        <content type="html">&lt;p&gt;继成为开源主义者、环保主义者之后，今天又立志成为一名女权主义者（Feminist） &lt;span class=&#34;github-emoji&#34; alias=&#34;muscle&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png?v8&#34;&gt;💪&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;XX 主义听起来有点严肃，但其实就真的是很严肃的问题！&lt;/p&gt;
 &lt;p&gt;我也很好奇为什么那么多人对恶意软件熟视无睹？为什么那么多人对每天产生的大量垃圾熟视无睹？为什么那么多人对弱势群体遭受的不公熟视无睹？&lt;/p&gt;
 &lt;p&gt;开源、环保、女权这三者看起来完全不搭边，但其实它们的核心诉求都是一致的 —— 自由、平等、正义。从广义上来说，它们都是可持续生活的一部分。&lt;/p&gt;
@@ -2611,9 +2650,9 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
         <updated>2022-06-08T07:31:03.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/jiangmengnan.html</id>
+        <id>https://luhuadong.com/journal/20220525.html</id>
         <title>江梦南：世界以痛吻我，我却报之以歌</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/jiangmengnan.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20220525.html"/>
         <content type="html">&lt;p&gt;家里没有电视机，我也好久没上微博、知乎了，今天晚上打开了知乎查点资料，刚好看到关于江梦南的推送，好奇地看完了… 全程都在惊叹 —— 不容易呀！然后又很开心 —— 以后会越来越好的！&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/journal/jmn-01.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;江梦南，1992 年出生在湖南省郴州市宜章县的一个瑶族家庭。父母为她取名的寓意是梦里江南，岁月静好。在半岁时，由于耳毒性药物导致极重度神经性耳聋，平静美好的生活被打破了。当时江梦南左耳损失大于 105 分贝，右耳听力完全丧失。失去了听力，不仅听不到外界的声音，也会听不到自己的发音，就会失去说话的能力。&lt;/p&gt;
@@ -3047,9 +3086,9 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
         <updated>2022-04-20T14:16:32.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/30-year-old-summary.html</id>
+        <id>https://luhuadong.com/journal/20220406.html</id>
         <title>一觉醒来，喜提我的30岁</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/30-year-old-summary.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20220406.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/journal/your-30s-are-just-like-20s.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;最近比较忙，其实也不是很忙，主要是过去很长一段时间，情绪低迷，进入了一种间歇性自律、持续性懒惰的状态，导致工作效率有点低。时常感到焦虑和孤独，唯一让我感到内心平静，居然是在图书馆学习的时候。生活总是平平淡淡，工作总是忙忙碌碌，还没来得及感叹，一不小心，就已经达成了 30 岁的里程碑。&lt;/p&gt;
 &lt;p&gt;30 岁真是一个可怕的数字，它总在提醒你 “该成家啦，该立业啦”。而我，似乎两头都不着调。没有甜甜的爱情，没有支持我的家庭，没有一份属于自己的事业。好像做什么都觉得差点意思，买房子、买车子也没感到多开心，找到一份还不错的工作也没感到多开心。哎，我的快乐阈值可真高。可能是因为我是个有野心的人吧，也许只有当我拥有一份事业，拥有自由的生活，拥有心心相印的爱人，才会感到快乐吧。&lt;/p&gt;
@@ -3069,7 +3108,7 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
 &lt;p&gt;这大概就是现在的我吧。&lt;/p&gt;
 &lt;p&gt;工作方面，去年离职后有一段时间没上班，探索（躺平）了一段时间。期间有接触一些公司和团队，也想着要不要转行不做程序员了，找一份可以远程办公的工作，比如技术编辑。这样就可以脱离地理位置的限制，一边旅游一边工作。不过，考虑政治动荡、经济低迷、疫情肆虐等因素，最终还是选择了比较赚钱的程序员工作，到智能电动汽车领域再疯狂内卷一波。&lt;/p&gt;
 &lt;p&gt;为什么选择汽车行业？一方面是本人过往在嵌入式软件方面的工作经验比较匹配；另一方面是近年来汽车行业发展迅猛，包括电动化、智能化、网联化、共享化，造就了大量的投融资和工作需求。汽车工业的变革，是中国碳中和之路的一个重要开端。你想想，汽车作为一种快速折旧的昂贵资产，生命周期的绝大部分时间居然无所事事地停在车库，城市地区还必须拿出大量土地当作停车场，才能放置所有的闲置车辆。我们越早实现无人驾驶和大规模的按需运输，就能越早摆脱这种巨大的浪费。虽然我只是行业中的一个小兵，但这确实是吸引我进来的一点。&lt;/p&gt;
-&lt;p&gt;具体来说，我现在从事的是激光雷达（LiDAR）的 SDK 研发。2022 年被称为激光雷达量产元年，预计全球乘用车市场激光雷达需求量将由 2022 年的 22 万颗快速提升至 2025 年的 2134 万颗。显然，这个增长速度足以用疯狂来形容。我吧，其实也没那么大的野心，如果公司发展得好，我也工作得比较开心，那么应该会在这里度过未来的 3&lt;sub&gt;5&lt;/sub&gt;7 年，希望在个人财富方面能有不错的提升吧，毕竟自由的基础还是财务自由。&lt;/p&gt;
+&lt;p&gt;具体来说，我现在从事的是激光雷达（LiDAR）的 SDK 研发。2022 年被称为激光雷达量产元年，预计全球乘用车市场激光雷达需求量将由 2022 年的 22 万颗快速提升至 2025 年的 2134 万颗。显然，这个增长速度足以用疯狂来形容。我吧，其实也没那么大的野心，如果公司发展得好，我也工作得比较开心，那么应该会在这里度过未来的 3/5/7 年，希望在个人财富方面能有不错的提升吧，毕竟自由的基础还是财务自由。&lt;/p&gt;
 &lt;p&gt;业余时间应该还是会折腾点项目和比赛，为未来做准备。长远来看，我的目标其实是创立一家小而美的公司，用技术赋能环保和可持续发展，提供一些相关的产品和服务。我希望公司的总部位于一个小城市（比如我的家乡），同时支持远程办公，是一家灵活、快乐、高效、具有竞争力的小公司。当然，为了达成这个目标，我还需要做很多准备，我现在正处于这个积累的阶段。30 岁这一年，必须是突破的一年！当然，也不是说非得创业，如果能找到一种舒适的合作方式，实现个人价值和社会价值，那也是可以的。比如说做一个快乐的自由职业者、科技作家、独立创客…&lt;/p&gt;
 &lt;p&gt;感情方面，处于想结婚又不想谈恋爱的状态。可是，不谈恋爱怎么结婚？Single 的原因，是因为我感觉自己还处于 “半杯水” 的状态。可能很难给予对方足够的支撑，我希望自己能成长到更加充盈的状态，不需要用力倾斜也能予以对方足够的支持。&lt;/p&gt;
 &lt;p&gt;我在想，会不会未来某一天突然想结婚，然后给一位认识很久的朋友打电话 —— “要不我们结婚吧”，然后她说 “好呀”，就这么神奇地步入了婚姻。也不是非得结婚，毕竟我们都快被逼成完人了，很多事情都能一个人完成，自然对伴侣少了很多期待，对婚姻少了很多向往。当然，如果我有选择权，肯定是希望对方能匹配上「Maker」和「环保」两个标签（至少一个吧）。这样，别人看来是缺点的地方，就会变成优点，也能避免很多争吵和磨合。如果她还懂点心理学，能接受我留长头发、抠门、禅修等奇奇怪怪的行为，还能陪我一起读读书、做做运动，那简直就是完美伴侣！赶紧来捞我一下吧～&lt;/p&gt;
@@ -3477,9 +3516,9 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
         <updated>2021-11-26T02:09:40.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/dont-waste-your-full-potential.html</id>
+        <id>https://luhuadong.com/journal/20211125.html</id>
         <title>如果这十年，你没有浪费</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/dont-waste-your-full-potential.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20211125.html"/>
         <content type="html">&lt;p&gt;如果这十年，你没有浪费，现在的你会成为什么样子？&lt;/p&gt;
 &lt;p&gt;这是加拿大多伦多大学心理学教师乔丹・彼得森（Jordan Peterson）提出的问题，这个问题不好回答，因为需要直面人生。尤其是对于没有充分发挥天赋的人来说，把不成功的理由归咎到自己身上，是一件很难的事情。&lt;/p&gt;
 &lt;p&gt;上大学已经是十年前的事情了，所以这个问题我也很尴尬。曾经的天马行空，曾经的初生牛犊不怕虎，在这十年间一点点消磨，庆幸的是还好没有殆尽。我依然有很多想法，我依然热爱学习，依然热爱生活，但显然我的执行力出现了问题。究其原因，这十年间，我还是浪费了太多时间，没有足够努力，没有把握机会。&lt;/p&gt;
@@ -4043,9 +4082,9 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
         <updated>2021-10-29T09:48:17.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/diary-20211028.html</id>
+        <id>https://luhuadong.com/journal/20211028.html</id>
         <title>【总结】但行好事，莫问前程</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/diary-20211028.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20211028.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/journal/%E4%BE%A7%E8%80%B3%E5%80%BE%E5%90%AC02.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;我也没想到，分手的事对我影响这么大。虽然是我提出的分手，也过去半年有余，但情绪还是会自己跑出来，难以控制。会生气，会悲伤，会难受。&lt;/p&gt;
 &lt;p&gt;有人说这是因为，&lt;strong&gt;越是真心待过的人，越是难以放下。&lt;/strong&gt;&lt;/p&gt;
@@ -4175,9 +4214,9 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
         <updated>2021-10-26T08:55:50.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/decorate-my-small-house.html</id>
+        <id>https://luhuadong.com/journal/20211023.html</id>
         <title>装了个修，居然还治好了选择困难症！</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/decorate-my-small-house.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20211023.html"/>
         <content type="html">&lt;p&gt;最近在装修房子，积累了一些装修经验，虽然整个过程遇到了很多意外，也有一些不太满意的地方。不过，看着房子一点一点变成自己想要的样子，还是蛮有成就感的。&lt;/p&gt;
 &lt;p&gt;因为是精装房，出厂自带的配置在用料方面自然不会太优秀。不过为了环保（省钱），硬装方面是尽量不动的，而且小户型似乎也没太多改动的空间。所以剩下的装修也就是门窗、家具、家电方面的设计与选购问题。&lt;/p&gt;
 &lt;p&gt;其中，家具的设计与摆设是最为棘手的部分，考虑到空间利用率和灵活性，我将其分为两部分 —— 动态和静态的。动态部分采用宜家的单体家具，既简洁又环保。主要用在客厅和餐厅的设计上，一来可以满足现在的需求（在家可以肆无忌惮地看书），二来没有固定的家具，以后有了家庭成员、有了新的需求之后就可以很灵活地重新布置。&lt;/p&gt;
@@ -4807,9 +4846,9 @@ STEM 是科学（Science）、技术（Technology）、工程（Engineering）�
         <updated>2021-10-07T02:59:19.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/living-in-the-moment.html</id>
+        <id>https://luhuadong.com/journal/20211006.html</id>
         <title>一番番春秋冬夏，一场场酸甜苦辣</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/living-in-the-moment.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20211006.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/journal/20211006-with-cat.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </content>
         <category term="生活" />
@@ -6073,9 +6112,9 @@ STEM 是科学（Science）、技术（Technology）、工程（Engineering）�
         <updated>2021-09-26T18:16:10.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/diary-20210925.html</id>
+        <id>https://luhuadong.com/journal/20210925.html</id>
         <title>一个平淡无奇的周末</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/diary-20210925.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20210925.html"/>
         <content type="html">&lt;img data-src=&#34;/images/journal/20210926-02.jpeg&#34; width=600 /&gt;
 &lt;p&gt;为了体验不同的生活，周五晚上参加了一场万晓利的 LiveHouse 演出。事实上，在报名之前，我甚至都不知道万晓利是谁。好像我那低调的生活里，从来没有出现过民谣音乐一样。而我对音乐的理解也只有好听和不好听的区别，正如我对生活的理解一样肤浅。&lt;/p&gt;
 &lt;p&gt;虽然我不太懂音乐，不过还是可以看懂歌词，带着一股浓郁的孤独气息。现场的男男女女虽然在跟着音乐的律动而摆动，但大部分也都是孤独的。对于内心富足的人而言，孤独其实没有什么不好的，只是有时候需要一个像 LiveHouse 的场景，让向内和向外的心得以融合。&lt;/p&gt;
@@ -6157,9 +6196,9 @@ STEM 是科学（Science）、技术（Technology）、工程（Engineering）�
         <updated>2021-09-24T02:57:54.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/keeping-cats.html</id>
+        <id>https://luhuadong.com/journal/20210923.html</id>
         <title>养猫经历</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/keeping-cats.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20210923.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/journal/20191207-cats.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;我曾经有过两次救助小猫的经历，加上帮小苏养了一周「多多」，让我从一个怕猫的人，转变成了一个爱猫的人。&lt;/p&gt;
 &lt;p&gt;但是，每次想起那两次救助小猫的经历，心里总是有一道坎过不去，因为救助的过程充满了无奈，结局也不完美。也正是因为这两段经历，让我了解到动物救助、动物保护、动物福利的现状，深切体会到其中的艰辛。也因为我最后没来得及帮小猫找到合适的主人，没有保护好小猫而深深自责。&lt;/p&gt;
@@ -6179,9 +6218,9 @@ STEM 是科学（Science）、技术（Technology）、工程（Engineering）�
         <updated>2021-09-23T10:57:30.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/2021-resignation-summary-and-plan.html</id>
+        <id>https://luhuadong.com/journal/20210920.html</id>
         <title>2021离职总结与计划</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/2021-resignation-summary-and-plan.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20210920.html"/>
         <content type="html">&lt;p&gt;从 2021 年 1 月 18 日入职，到 9 月 17 日离职，刚好 8 个月时间。&lt;/p&gt;
 &lt;p&gt;这是一家环保物联网公司，公司不大，但已深耕环保监测领域十多年，值得来学习一番。&lt;/p&gt;
 &lt;img data-src=&#34;/images/journal/20210917_bocon.jpeg&#34; width=600 /&gt;
@@ -6621,9 +6660,9 @@ STEM 是科学（Science）、技术（Technology）、工程（Engineering）�
         <updated>2021-09-04T03:48:17.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/happiness-in-ordinary-life.html</id>
+        <id>https://luhuadong.com/journal/20210830.html</id>
         <title>平淡生活里的琐碎幸福</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/happiness-in-ordinary-life.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20210830.html"/>
         <content type="html">&lt;p&gt;最近在尝试双城生活，因为听说北欧民众幸福感强的一个原因是他们普遍拥有双城生活，工作时在较为方便的繁华都市，休闲时则远离城市喧嚣。在两种截然不同的环境中切换，能够让自己的世界变得开阔，要是总在一个地方待着，生活难免会变得枯燥。&lt;/p&gt;
 &lt;img data-src=&#34;/images/diary/2021-08-30_road.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
 &lt;p&gt;周一，虽然前一晚又晚睡了，但早上还是早早醒来，简单地吃了个早饭，然后准备前往高铁站。高铁站离我住的地方很近，十分钟车程就到了。嘻嘻～没有迟到，这是一次优雅的乘车体验。明媚的阳光透过玻璃洒满了整个车厢，让人变得温暖起来，让我不禁想说一句：“早上好”！&lt;/p&gt;
@@ -6870,9 +6909,9 @@ STEM 是科学（Science）、技术（Technology）、工程（Engineering）�
         <updated>2021-04-18T04:27:44.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/to-myself-in-five-years-written-on-the-29-birthday.html</id>
+        <id>https://luhuadong.com/journal/20210405.html</id>
         <title>给五年后的自己（写在29岁生日）</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/to-myself-in-five-years-written-on-the-29-birthday.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20210405.html"/>
         <content type="html">&lt;p&gt;亲爱的，祝贺你来到了 34 岁这个黄金时期。20-30 岁这个阶段真的很重要，也很难，就我个人而言，简直是一路披荆斩棘，一步一个坑。&lt;/p&gt;
 &lt;p&gt;我也在想，为什么好像做什么都是从 hard 模式开始？比如生不逢时，没有享受过家庭的好时光；比如作为家里第一位大学生，无人指导只能自己摸索；比如在家里难以获得理解，浪费太多时间在沟通上了；再比如职业规划不清晰、遭遇职业发展瓶颈，缺乏正确的金钱观和理财意识、多次投资失败；还有，第一次去欧洲旅行就遇上行李延误…&lt;/p&gt;
 &lt;p&gt;可是，仔细想想，又好像有迹可循，抛不开原生家庭、个人能力圈和性格这几方面。好消息是，这些都可以通过改变自己来得到改善，从而对未来产生积极的影响，包括家庭、事业、社交等方面。&lt;/p&gt;
@@ -6995,8 +7034,8 @@ STEM 是科学（Science）、技术（Technology）、工程（Engineering）�
 &lt;/ul&gt;
 </content>
         <category term="总结" />
-        <category term="思考" />
         <category term="修身" />
+        <category term="思考" />
         <updated>2021-04-05T06:24:28.000Z</updated>
     </entry>
     <entry>
@@ -7182,9 +7221,9 @@ STEM 是科学（Science）、技术（Technology）、工程（Engineering）�
         <updated>2021-03-27T05:54:58.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/ugly-apple.html</id>
+        <id>https://luhuadong.com/journal/20210315.html</id>
         <title>丑苹果</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/ugly-apple.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20210315.html"/>
         <content type="html">&lt;img data-src=&#34;/images/diary/ugly-apple-01.jpeg&#34; width=600 /&gt;
 &lt;p&gt;35 块买了一箱丑苹果，为了放苹果，收拾了一下，终于腾出了小餐桌。苹果虽然丑了点，却包裹着一颗超甜的冰糖心，突然有点心疼丑果。好像人类社会也一样，不仅要有实力，还要懂得自我营销才行。&lt;/p&gt;
 &lt;p&gt;以前租房子只会整理两次，第一次是搬进去那天，第二次是搬走那天，现在才发现原来整理东西真的会解压，整理物品的同时也在整理人生。周末删了几十个群、几千张照片和躺在硬盘里的那堆过期代码… 那些曾经以为是资产的东西，原来是负债。嗯，还是简单一点好。&lt;/p&gt;
@@ -7194,9 +7233,9 @@ STEM 是科学（Science）、技术（Technology）、工程（Engineering）�
         <updated>2021-03-14T16:47:09.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/how-are-you-today.html</id>
+        <id>https://luhuadong.com/journal/20210314.html</id>
         <title>「每日一问」你今天过得怎么样？</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/how-are-you-today.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20210314.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/rethink.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;center&gt;你今天过得怎么样？&lt;/center&gt;
 &lt;center&gt;你最近过得怎么样？&lt;/center&gt;
@@ -9212,9 +9251,9 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
         <updated>2021-02-06T12:43:26.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/opensource-guide.html</id>
+        <id>https://luhuadong.com/journal/20210129.html</id>
         <title>《开源指北》之我和开源的故事</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/opensource-guide.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20210129.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20210129192536884.png&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;【开源指北 1.0 发布】和你做过最酷的事，就是一起「写书」&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;去年参加的《&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRlZS5jb20vb3BlbnNvdXJjZS1ndWlkZQ==&#34;&gt;开源指北&lt;/span&gt;》编写计划最近正式发布啦！&lt;/p&gt;
@@ -9382,9 +9421,9 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
         <updated>2020-12-24T10:27:24.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/2020-rtt-community-contribution-award.html</id>
+        <id>https://luhuadong.com/journal/20201222.html</id>
         <title>我与 RT-Thread 社区一起成长的故事</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/2020-rtt-community-contribution-award.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20201222.html"/>
         <content type="html">&lt;h2 id=&#34;成长故事&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#成长故事&#34;&gt;#&lt;/a&gt; 成长故事&lt;/h2&gt;
 &lt;p&gt;Hello，大家好，我是 Rudy（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2x1aHVhZG9uZw==&#34;&gt;卢华东&lt;/span&gt;）。我刚拿了 2020 年 RT-Thread 社区杰出贡献奖，现在还沉浸在喜悦之中。&lt;/p&gt;
 &lt;img data-src=&#34;https://img-blog.csdnimg.cn/20201222222649519.jpeg&#34; width=&#34;400&#34; /&gt;
@@ -9578,15 +9617,14 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
         <updated>2020-11-20T15:42:19.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/%E4%BB%8E%E6%8B%BCT%E5%AD%97%E4%B8%AD%E9%87%8D%E6%96%B0%E7%90%86%E8%A7%A3%E5%9B%A2%E9%98%9F%E5%90%88%E4%BD%9C.html</id>
+        <id>https://luhuadong.com/journal/20201115.html</id>
         <title>从拼T字中重新理解团队合作</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/%E4%BB%8E%E6%8B%BCT%E5%AD%97%E4%B8%AD%E9%87%8D%E6%96%B0%E7%90%86%E8%A7%A3%E5%9B%A2%E9%98%9F%E5%90%88%E4%BD%9C.html"/>
-        <content type="html">&lt;h1 id=&#34;从拼t字中重新理解团队合作&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#从拼t字中重新理解团队合作&#34;&gt;#&lt;/a&gt; 从拼 T 字中重新理解团队合作&lt;/h1&gt;
-&lt;p&gt;昨天上午的徒步出发前，教练给我们每支队伍一盒《T 字之谜》拼图，先完成的队伍先出发。要求拼出一个大写字母 T，且四周必须是直角。很不幸，我们成了十支队伍里面，最后拼出 T 字的队伍。&lt;/p&gt;
-&lt;img data-src=&#34;/images/static/GYT-T1.jpg&#34; width=400 /&gt;
+        <link rel="alternate" href="https://luhuadong.com/journal/20201115.html"/>
+        <content type="html">&lt;p&gt;昨天是单位团建第二天，在上午的徒步出发前，教练给我们每支队伍一盒《T 字之谜》拼图，先完成的队伍先出发。要求拼出一个大写字母 T，且四周必须是直角。很不幸，我们成了十支队伍里面，最后拼出 T 字的队伍。&lt;/p&gt;
+&lt;img data-src=&#34;/images/static/GYT-T1.jpg&#34; alt=&#34;T字之谜&#34; width=400 /&gt;
 &lt;p&gt;此后一段时间，我一直在反思，尤其是当听到有人说：“你们小组很多聪明人呀，怎么垫底了呢？”&lt;/p&gt;
 &lt;p&gt;虽然只有区区四块拼图，看似简单，却隐藏着大智慧。我们花了不少时间摆弄来、摆弄去，怎么试都失败了。不是缺一个角，就是多一个边。&lt;/p&gt;
-&lt;img data-src=&#34;/images/static/GYT-T2.jpeg&#34; width=600 /&gt;
+&lt;img data-src=&#34;/images/static/GYT-T2.jpeg&#34; alt=&#34;绞尽脑汁想呀想&#34; width=600 /&gt;
 &lt;p&gt;我们在这里犯了几个错误：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;最长边一定是外沿；&lt;/li&gt;
@@ -9596,7 +9634,7 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
 &lt;p&gt;虽然教练多次提醒需要突破思维，但是思维有那么容易突破吗？经过多年的学习和工作，我们早已建立起了一套思维框架，使得我们总是习惯于用自己的角度和方式去看待这个世界。&lt;/p&gt;
 &lt;p&gt;就这样，我们一遍遍尝试，一遍遍接近，又一遍遍失败。我们很想突破思维，但又无意识地被固化的思维拉回去。比如前面提到的错误，其实它们都是未经验证的假设。因为长边长，所以理所当然地作为外沿；因为边水平，所以理所当然地让它继续保持水平；因为有缺口，所以一定要想方设法把它补齐。我们受这些思维影响，不断越陷越深，毫无进展。&lt;/p&gt;
 &lt;p&gt;最后我们发现，其实长边不一定要做外沿，两条甚至三条短边组合也是可以的；水平线转个角度可以变成斜线，斜线转个角度同样可以变成水平线；缺口也不是非得要填补的，有些缺口只是看起来像缺口而已。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/static/GYT-T3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/static/GYT-T3.jpg&#34; alt=&#34;终于拼好了&#34;&gt;&lt;/p&gt;
 &lt;p&gt;不知道是凑巧还是我想多了，我在反思的过程中突然意识到，字母 T 也许是 Team 的意思，背后的思维也非常值得在团队建设和团队协作中学习。比如说：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;企业里面能力强的团队或个人是否都要做向外的主营业务？虽然说主营业务能带来现金流，应该重兵把守。但从长远来看，建立核心团队专注内部流程的优化、基础软件的开发、先进技术的预研也不容忽视。健康的企业、团队和个人应该是内外兼修的，而不是外强中干。&lt;/li&gt;
@@ -9738,11 +9776,10 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
         <updated>2020-10-09T08:15:04.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/%E5%AD%A6%E4%BC%9A%E4%BB%8E%E5%88%AB%E4%BA%BA%E7%9A%84%E5%A4%B1%E8%B4%A5%E4%B8%AD%E5%90%B8%E5%8F%96%E6%95%99%E8%AE%AD.html</id>
+        <id>https://luhuadong.com/journal/20201007.html</id>
         <title>学会从别人的失败中吸取教训</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/%E5%AD%A6%E4%BC%9A%E4%BB%8E%E5%88%AB%E4%BA%BA%E7%9A%84%E5%A4%B1%E8%B4%A5%E4%B8%AD%E5%90%B8%E5%8F%96%E6%95%99%E8%AE%AD.html"/>
-        <content type="html">&lt;h2 id=&#34;学会从别人的失败中吸取教训&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#学会从别人的失败中吸取教训&#34;&gt;#&lt;/a&gt; 学会从别人的失败中吸取教训&lt;/h2&gt;
-&lt;p&gt;最近看到一句话：&lt;strong&gt;聪明人从自己犯的错误中学习，智慧的人从别人的错误中学习。&lt;/strong&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://luhuadong.com/journal/20201007.html"/>
+        <content type="html">&lt;p&gt;最近看到一句话：&lt;strong&gt;聪明人从自己犯的错误中学习，智慧的人从别人的错误中学习。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;我才恍然大悟，原来我一直都是 “聪明人” 啊！&lt;/p&gt;
 &lt;p&gt;是的，我一直信奉 “纸上得来终觉浅，绝知此事要躬行”、“实践是检验真理的唯一标准”、“失败更容易让人成长”…&lt;/p&gt;
 &lt;p&gt;所以很多东西都习惯自己尝试一遍再说，失败了也不怕。当然，这有好的一面，也有不好的一面。我忽略了信息传递的价值，我忽略了时间的有限性。&lt;/p&gt;
@@ -9776,11 +9813,10 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
         <updated>2020-10-01T15:31:49.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/%E4%BB%BB%E4%BD%95%E4%B8%80%E6%9D%A1%E8%B7%AF%E9%83%BD%E6%98%AF%E4%BD%A0%E7%9A%84%E9%80%89%E6%8B%A9.html</id>
+        <id>https://luhuadong.com/journal/20200929.html</id>
         <title>如果你不知道去哪里，任何一条路都是你的选择</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/%E4%BB%BB%E4%BD%95%E4%B8%80%E6%9D%A1%E8%B7%AF%E9%83%BD%E6%98%AF%E4%BD%A0%E7%9A%84%E9%80%89%E6%8B%A9.html"/>
-        <content type="html">&lt;h2 id=&#34;如果你不知道去哪里任何一条路都是你的选择&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#如果你不知道去哪里任何一条路都是你的选择&#34;&gt;#&lt;/a&gt; 如果你不知道去哪里，任何一条路都是你的选择&lt;/h2&gt;
-&lt;p&gt;我有一个朋友小 A，他早年创过业，开了一家餐厅，但是亏本了。把店铺关了之后，小 A 陷入了低迷。&lt;/p&gt;
+        <link rel="alternate" href="https://luhuadong.com/journal/20200929.html"/>
+        <content type="html">&lt;p&gt;我有一个朋友小 A，他早年创过业，开了一家餐厅，但是亏本了。把店铺关了之后，小 A 陷入了低迷。&lt;/p&gt;
 &lt;p&gt;实在看不下去，我隔三差五地就跟他聊天，我说：“创业本来就是九死一生的事情，而且餐饮行业的竞争十分激烈，好好总结一下，重新上路就行啦！只有失败过，才能体会成功的来之不易，才能抓住伴随而来的财富。至于现在嘛，趁年轻多学点技能，多积累些人脉，多攒点钱，以后的路还很长，机会还很多呢。”&lt;/p&gt;
 &lt;p&gt;小 A 也知道自己开餐厅太鲁莽，没有餐饮行业的经验，只是觉得不想继续打工了，刚好有朋友想开餐厅，一拍即合就辞职、投钱进去了。小 A 说：“你说的道理我都懂，可我就是不知道该怎么做，学什么技能？”&lt;/p&gt;
 &lt;p&gt;我叹了一口气，说：“其实许多人到了三四十岁，还像你这样，不知道要做什么、怎么做，你现在才二十多岁，如果你一直徘徊，一直想找捷径，等你三四十岁的时候，很可能还是这样。与其这样，不如赶紧走出去，选一个有前景的方向，踏踏实实地做，十年之后，你也会是行业精英。正是因为你不知道要去哪里，所以任何一条路都是你的选择。”&lt;/p&gt;
@@ -9791,11 +9827,10 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
         <updated>2020-09-29T07:49:49.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/%E7%A7%AF%E7%B4%AF%E5%AE%9A%E5%BE%8B.html</id>
+        <id>https://luhuadong.com/journal/20200926.html</id>
         <title>积累定律：努力让自己值钱</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/%E7%A7%AF%E7%B4%AF%E5%AE%9A%E5%BE%8B.html"/>
-        <content type="html">&lt;h2 id=&#34;积累定律努力让自己值钱&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#积累定律努力让自己值钱&#34;&gt;#&lt;/a&gt; 积累定律：努力让自己值钱&lt;/h2&gt;
-&lt;p&gt;很多年轻人都曾梦想做一番大事业，其实天下并没有什么大事可做，有的只是小事。一件小事积累起来，便形成了大事。这任何大成就或者大灾难都是积累的结果。这便是积累定律。也就是说，这个世界所谓的大成功，其实都是由小事积累起来的结果。你要取得成就，就必须重视每一件小事，重视每段时光，懂得坚持和坚守。正如马云对所有年轻人的告诫一样。在抱怨自己赚钱少之前，先努力让自己值钱。如果你不相信努力和时光，那么时光会第一个辜负你。如果你总是幻想自己有钱，不懂得脚踏实地，不懂的在积累中提升自己的价值，最终只会在幻想中迷失掉自己。&lt;/p&gt;
+        <link rel="alternate" href="https://luhuadong.com/journal/20200926.html"/>
+        <content type="html">&lt;p&gt;很多年轻人都曾梦想做一番大事业，其实天下并没有什么大事可做，有的只是小事。一件小事积累起来，便形成了大事。这任何大成就或者大灾难都是积累的结果。这便是积累定律。也就是说，这个世界所谓的大成功，其实都是由小事积累起来的结果。你要取得成就，就必须重视每一件小事，重视每段时光，懂得坚持和坚守。正如马云对所有年轻人的告诫一样。在抱怨自己赚钱少之前，先努力让自己值钱。如果你不相信努力和时光，那么时光会第一个辜负你。如果你总是幻想自己有钱，不懂得脚踏实地，不懂的在积累中提升自己的价值，最终只会在幻想中迷失掉自己。&lt;/p&gt;
 &lt;p&gt;大多数年轻人不太懂得积累，不停的换工作，直接原因就在于嫌原来的老板工资给的太少。同时，他们逢人抱怨老板是如何的抠门，可从不去反思自己为何如此廉价。与其喋喋不休的抱怨工资低赚的少，不如埋头努力，先让自己值钱。要值钱，就要懂得在积累中提升自己的价值，就是说，你可以先把能赚多少工资的事放在一边，想想如何才能得到一个能够让我做我不断增值的机会。&lt;/p&gt;
 &lt;p&gt;其实刚刚步入社会的前十年，大家的工资是没有多大差距的。最重要的是，你要在这个第一个十年里，要扎扎实实地投资自己。当你人生奋斗了第一个十年走完了，如果你扎扎实实地把自己的基本功做好了。到第二个十年，你才有可能有机会成为一个部门主管，那时候你的身价已经很高，你所掌握的资源，学到的各种技能，已经成为别人永远也盗不走的财富。那个时候，你可以拿着简历趾高气扬的跳槽，也可以理直气壮的要求现在老板给你加工资。&lt;/p&gt;
 &lt;p&gt;前面两个十年如果走的扎实，那么你才有可能走入人生奋斗的第三个十年。如果说前面的十年是自我身价的提升阶段，那么，人生的第三个十年则是你财富积累的开始。那个时候，你可能会有一家自己的公司，你的收入会远大于你的生活所需，人生的财富也会在此期间爆涨。&lt;/p&gt;
@@ -9817,11 +9852,10 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
         <updated>2020-09-16T01:54:24.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/%E8%BF%9C%E7%A6%BB%E9%82%A3%E4%BA%9B%E6%B6%88%E8%80%97%E4%BD%A0%E7%9A%84%E4%BA%BA%E5%92%8C%E4%BA%8B.html</id>
+        <id>https://luhuadong.com/journal/20200905.html</id>
         <title>远离那些消耗你的人和事</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/%E8%BF%9C%E7%A6%BB%E9%82%A3%E4%BA%9B%E6%B6%88%E8%80%97%E4%BD%A0%E7%9A%84%E4%BA%BA%E5%92%8C%E4%BA%8B.html"/>
-        <content type="html">&lt;h2 id=&#34;远离那些消耗你的人和事&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#远离那些消耗你的人和事&#34;&gt;#&lt;/a&gt; 远离那些消耗你的人和事&lt;/h2&gt;
-&lt;p&gt;大学入学那天，我带来十四箱行李和一辆自行车，箱子里有暑假期间提前买的书，有未来四年要用的被子、衣服等生活用品，有高中时候入手的一些电子工具和轮滑鞋，甚至还有螺丝刀、订书机、草稿本…&lt;/p&gt;
+        <link rel="alternate" href="https://luhuadong.com/journal/20200905.html"/>
+        <content type="html">&lt;p&gt;大学入学那天，我带来十四箱行李和一辆自行车，箱子里有暑假期间提前买的书，有未来四年要用的被子、衣服等生活用品，有高中时候入手的一些电子工具和轮滑鞋，甚至还有螺丝刀、订书机、草稿本…&lt;/p&gt;
 &lt;p&gt;我是一个不喜欢麻烦别人的人，大多数时候都是别人来麻烦我，而我尽量不去麻烦别人。&lt;/p&gt;
 &lt;p&gt;很久以后，我才发现，这种性格让我陷入了巨大的麻烦。&lt;/p&gt;
 &lt;p&gt;家人觉得我把学习和生活打理得很好而不用为我操心，同学觉得我设备齐全习惯于找我借东西，队友觉得我身体素质很好把我推向前线，朋友觉得我家境富裕喜欢找我借钱，谈的对象也觉得我很优秀值得对她更好。&lt;/p&gt;
@@ -10970,9 +11004,9 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
         <updated>2020-01-25T09:55:53.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/donate-hair-to-charity.html</id>
+        <id>https://luhuadong.com/journal/20200107.html</id>
         <title>留了三年长发，只为了让生命更美丽</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/donate-hair-to-charity.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20200107.html"/>
         <content type="html">&lt;h2 id=&#34;为爱发生&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#为爱发生&#34;&gt;#&lt;/a&gt; 为爱发生&lt;/h2&gt;
 &lt;p&gt;2016 年底，我决定把头发留长。因为看着爱豆林书豪的发型从小清新到非主流，似乎也没有太难接受，并且我实在厌倦了每天抹发泥喷定型的日子。&lt;/p&gt;
 &lt;p&gt;随着时间日复一日地流逝，头发也渐渐变长了。过去觉得不可能的，也渐渐成为了可能。&lt;/p&gt;
@@ -18643,9 +18677,9 @@ n\in\mathbb N&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;
         <updated>2018-01-17T07:46:22.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/2017-tzuchi-qingyuan.html</id>
+        <id>https://luhuadong.com/journal/20180116.html</id>
         <title>2017清远冬令发放环保心得分享</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/2017-tzuchi-qingyuan.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20180116.html"/>
         <content type="html">&lt;p&gt;2018 年 1 月 14 日，清远龙颈&lt;/p&gt;
 &lt;p&gt;这是我第一次参加慈济的冬令发放活动，从活动的筹备、发放过程、节目安排、素食午餐等细节中都可以感受到慈济人的用心，付出无所求。虽然披星戴月，但累并快乐着，温暖他人的同时也在温暖自己。&lt;/p&gt;
 &lt;p&gt;在下午的爱洒茶会，学习了很多有趣的手语舞蹈，还有学伟师兄很棒的环保演讲，之后我也被师姐邀请上去分享环保心得了，即兴乱说了一通，但是师兄师姐们说我讲得挺好的（感谢大家的鼓励），于是整理成文字，在这里分享一下吧～&lt;/p&gt;
@@ -18914,9 +18948,9 @@ n\in\mathbb N&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;
         <updated>2017-08-27T15:29:10.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/how-do-i-become-a-programmer.html</id>
+        <id>https://luhuadong.com/journal/20170612.html</id>
         <title>从高考到程序员——我一直在寻找答案</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/how-do-i-become-a-programmer.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20170612.html"/>
         <content type="html">&lt;h2 id=&#34;我曾是少年&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#我曾是少年&#34;&gt;#&lt;/a&gt; 我曾是少年&lt;/h2&gt;
 &lt;p&gt;我从小生活在小乡镇上，除了课本，一台电视机和外公出船带回来的二手书就是我了解世界的所有途径。外婆年轻的时候在合作社当过会计，所以小学四年级以前的数学都是她给我辅导的，每天晚上她还会给我削好第二天要用的铅笔。长大一点之后我可以独自出门了，我的世界也开始变大了。镇上没有图书馆，只有寥寥可数的几家店有书卖，大多数也是辅导类书籍，我和一个朋友就经常到那几家店看书，因为只看不买，被赶走也是经常发生的事情。但有一家店从来不赶我们走，店主阿姨允许我们看书，就这样我在她那里看了很多课外书，比如：十万个为什么、上下五千年、孙子兵法等等，还有一些关于国家地理、恐龙、太空、动漫等等的书籍。多年以后回想起来，这些经历确实对我的世界观、人生观、价值观造成了影响。&lt;/p&gt;
 &lt;p&gt;如果说小学、初中的我是老师心目中标准的好学生，高中的我就是一个另类的学生。我觉得我是喜欢学习知识这个过程，而不是为了追求成绩或奖励（那时候也确实没有人会给我奖励），所以一直以来没有太看重考试成绩。因为镇上没有高中，直到初中三年级我才知道原来要准备考高中，于是不小心考上了我们市里最好的高中。高中的一切对于我来说实在太新奇了，那里有标准的 400 米跑道、有图书馆、有学生社团… 简直就是 “刘姥姥进大观园”。总的来说，高中生活还是挺美好。但是我不习惯晚自习，因为教室的灯光会影响我的视力，简直是如坐针毡的感觉。那时候真的很佩服一些同学能坚持一整晚的自习，接着周末还要参加补习班。&lt;/p&gt;
@@ -22494,9 +22528,9 @@ n\in\mathbb N&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;
         <updated>2015-05-26T05:04:36.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/this-blog.html</id>
+        <id>https://luhuadong.com/journal/20140626.html</id>
         <title>开篇：这个部落格</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/this-blog.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20140626.html"/>
         <content type="html">&lt;p&gt;终于还是开通了这个部落格（Blog），而这，就是第一篇文章。我将会在这里记录、发布我的所思所想，内容范围不固定，更新频度也不固定，但是我会尽量保证所分享的内容都是有趣、实用的。&lt;/p&gt;
 &lt;p&gt;如果你想了解我，可以在导航栏点击 “关于”，找到关于我的一些信息以及我的联系方式。&lt;/p&gt;
 &lt;h2 id=&#34;快速开始&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#快速开始&#34;&gt;#&lt;/a&gt; 快速开始&lt;/h2&gt;

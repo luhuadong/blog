@@ -20,13 +20,13 @@
         <category>奋斗</category>
         <category>信息世界</category>
         <category>城市规划</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
         <category>管理</category>
         <category>程序员</category>
         <category>职场</category>
         <category>人生</category>
         <category>物联网</category>
-        <category>Python</category>
-        <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
@@ -48,19 +48,19 @@
         <category>可持续</category>
         <category>能源</category>
         <category>职业</category>
-        <category>时间管理</category>
+        <category>milestone</category>
         <category>工作</category>
         <category>总结</category>
         <category>慈济</category>
-        <category>RT-Thread</category>
-        <category>开源</category>
-        <category>思考</category>
         <category>生活</category>
-        <category>猫</category>
-        <category>幸福</category>
+        <category>RT-Thread</category>
         <category>修身</category>
+        <category>开源</category>
         <category>写书</category>
-        <category>milestone</category>
+        <category>思考</category>
+        <category>幸福</category>
+        <category>猫</category>
+        <category>时间管理</category>
         <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
@@ -173,9 +173,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/30-year-old-summary.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/journal/20220406.html</guid>
             <title>一觉醒来，喜提我的30岁</title>
-            <link>https://luhuadong.com/journal/30-year-old-summary.html</link>
+            <link>https://luhuadong.com/journal/20220406.html</link>
             <category>人生</category>
             <category>总结</category>
             <pubDate>Wed, 06 Apr 2022 00:47:47 +0800</pubDate>
@@ -198,7 +198,7 @@
 &lt;p&gt;这大概就是现在的我吧。&lt;/p&gt;
 &lt;p&gt;工作方面，去年离职后有一段时间没上班，探索（躺平）了一段时间。期间有接触一些公司和团队，也想着要不要转行不做程序员了，找一份可以远程办公的工作，比如技术编辑。这样就可以脱离地理位置的限制，一边旅游一边工作。不过，考虑政治动荡、经济低迷、疫情肆虐等因素，最终还是选择了比较赚钱的程序员工作，到智能电动汽车领域再疯狂内卷一波。&lt;/p&gt;
 &lt;p&gt;为什么选择汽车行业？一方面是本人过往在嵌入式软件方面的工作经验比较匹配；另一方面是近年来汽车行业发展迅猛，包括电动化、智能化、网联化、共享化，造就了大量的投融资和工作需求。汽车工业的变革，是中国碳中和之路的一个重要开端。你想想，汽车作为一种快速折旧的昂贵资产，生命周期的绝大部分时间居然无所事事地停在车库，城市地区还必须拿出大量土地当作停车场，才能放置所有的闲置车辆。我们越早实现无人驾驶和大规模的按需运输，就能越早摆脱这种巨大的浪费。虽然我只是行业中的一个小兵，但这确实是吸引我进来的一点。&lt;/p&gt;
-&lt;p&gt;具体来说，我现在从事的是激光雷达（LiDAR）的 SDK 研发。2022 年被称为激光雷达量产元年，预计全球乘用车市场激光雷达需求量将由 2022 年的 22 万颗快速提升至 2025 年的 2134 万颗。显然，这个增长速度足以用疯狂来形容。我吧，其实也没那么大的野心，如果公司发展得好，我也工作得比较开心，那么应该会在这里度过未来的 3&lt;sub&gt;5&lt;/sub&gt;7 年，希望在个人财富方面能有不错的提升吧，毕竟自由的基础还是财务自由。&lt;/p&gt;
+&lt;p&gt;具体来说，我现在从事的是激光雷达（LiDAR）的 SDK 研发。2022 年被称为激光雷达量产元年，预计全球乘用车市场激光雷达需求量将由 2022 年的 22 万颗快速提升至 2025 年的 2134 万颗。显然，这个增长速度足以用疯狂来形容。我吧，其实也没那么大的野心，如果公司发展得好，我也工作得比较开心，那么应该会在这里度过未来的 3/5/7 年，希望在个人财富方面能有不错的提升吧，毕竟自由的基础还是财务自由。&lt;/p&gt;
 &lt;p&gt;业余时间应该还是会折腾点项目和比赛，为未来做准备。长远来看，我的目标其实是创立一家小而美的公司，用技术赋能环保和可持续发展，提供一些相关的产品和服务。我希望公司的总部位于一个小城市（比如我的家乡），同时支持远程办公，是一家灵活、快乐、高效、具有竞争力的小公司。当然，为了达成这个目标，我还需要做很多准备，我现在正处于这个积累的阶段。30 岁这一年，必须是突破的一年！当然，也不是说非得创业，如果能找到一种舒适的合作方式，实现个人价值和社会价值，那也是可以的。比如说做一个快乐的自由职业者、科技作家、独立创客…&lt;/p&gt;
 &lt;p&gt;感情方面，处于想结婚又不想谈恋爱的状态。可是，不谈恋爱怎么结婚？Single 的原因，是因为我感觉自己还处于 “半杯水” 的状态。可能很难给予对方足够的支撑，我希望自己能成长到更加充盈的状态，不需要用力倾斜也能予以对方足够的支持。&lt;/p&gt;
 &lt;p&gt;我在想，会不会未来某一天突然想结婚，然后给一位认识很久的朋友打电话 —— “要不我们结婚吧”，然后她说 “好呀”，就这么神奇地步入了婚姻。也不是非得结婚，毕竟我们都快被逼成完人了，很多事情都能一个人完成，自然对伴侣少了很多期待，对婚姻少了很多向往。当然，如果我有选择权，肯定是希望对方能匹配上「Maker」和「环保」两个标签（至少一个吧）。这样，别人看来是缺点的地方，就会变成优点，也能避免很多争吵和磨合。如果她还懂点心理学，能接受我留长头发、抠门、禅修等奇奇怪怪的行为，还能陪我一起读读书、做做运动，那简直就是完美伴侣！赶紧来捞我一下吧～&lt;/p&gt;
@@ -265,9 +265,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/2021-resignation-summary-and-plan.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/journal/20210920.html</guid>
             <title>2021离职总结与计划</title>
-            <link>https://luhuadong.com/journal/2021-resignation-summary-and-plan.html</link>
+            <link>https://luhuadong.com/journal/20210920.html</link>
             <category>工作</category>
             <category>总结</category>
             <pubDate>Mon, 20 Sep 2021 21:59:43 +0800</pubDate>
@@ -304,12 +304,12 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/to-myself-in-five-years-written-on-the-29-birthday.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/journal/20210405.html</guid>
             <title>给五年后的自己（写在29岁生日）</title>
-            <link>https://luhuadong.com/journal/to-myself-in-five-years-written-on-the-29-birthday.html</link>
+            <link>https://luhuadong.com/journal/20210405.html</link>
             <category>总结</category>
-            <category>思考</category>
             <category>修身</category>
+            <category>思考</category>
             <pubDate>Mon, 05 Apr 2021 14:24:28 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;亲爱的，祝贺你来到了 34 岁这个黄金时期。20-30 岁这个阶段真的很重要，也很难，就我个人而言，简直是一路披荆斩棘，一步一个坑。&lt;/p&gt;
 &lt;p&gt;我也在想，为什么好像做什么都是从 hard 模式开始？比如生不逢时，没有享受过家庭的好时光；比如作为家里第一位大学生，无人指导只能自己摸索；比如在家里难以获得理解，浪费太多时间在沟通上了；再比如职业规划不清晰、遭遇职业发展瓶颈，缺乏正确的金钱观和理财意识、多次投资失败；还有，第一次去欧洲旅行就遇上行李延误…&lt;/p&gt;
@@ -514,9 +514,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/2020-rtt-community-contribution-award.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/journal/20201222.html</guid>
             <title>我与 RT-Thread 社区一起成长的故事</title>
-            <link>https://luhuadong.com/journal/2020-rtt-community-contribution-award.html</link>
+            <link>https://luhuadong.com/journal/20201222.html</link>
             <category>总结</category>
             <category>RT-Thread</category>
             <pubDate>Tue, 22 Dec 2020 22:34:49 +0800</pubDate>
@@ -803,9 +803,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/how-do-i-become-a-programmer.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/journal/20170612.html</guid>
             <title>从高考到程序员——我一直在寻找答案</title>
-            <link>https://luhuadong.com/journal/how-do-i-become-a-programmer.html</link>
+            <link>https://luhuadong.com/journal/20170612.html</link>
             <category>程序员</category>
             <category>总结</category>
             <pubDate>Mon, 12 Jun 2017 01:18:22 +0800</pubDate>

@@ -17,13 +17,13 @@
     <category term="奋斗" />
     <category term="信息世界" />
     <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
     <category term="人生" />
     <category term="物联网" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -45,19 +45,19 @@
     <category term="可持续" />
     <category term="能源" />
     <category term="职业" />
-    <category term="时间管理" />
+    <category term="milestone" />
     <category term="工作" />
     <category term="总结" />
     <category term="慈济" />
-    <category term="RT-Thread" />
-    <category term="开源" />
-    <category term="思考" />
     <category term="生活" />
-    <category term="猫" />
-    <category term="幸福" />
+    <category term="RT-Thread" />
     <category term="修身" />
+    <category term="开源" />
     <category term="写书" />
-    <category term="milestone" />
+    <category term="思考" />
+    <category term="幸福" />
+    <category term="猫" />
+    <category term="时间管理" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -86,9 +86,9 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/journal/2021-resignation-summary-and-plan.html</id>
+        <id>https://luhuadong.com/journal/20210920.html</id>
         <title>2021离职总结与计划</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/2021-resignation-summary-and-plan.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20210920.html"/>
         <content type="html">&lt;p&gt;从 2021 年 1 月 18 日入职，到 9 月 17 日离职，刚好 8 个月时间。&lt;/p&gt;
 &lt;p&gt;这是一家环保物联网公司，公司不大，但已深耕环保监测领域十多年，值得来学习一番。&lt;/p&gt;
 &lt;img data-src=&#34;/images/journal/20210917_bocon.jpeg&#34; width=600 /&gt;

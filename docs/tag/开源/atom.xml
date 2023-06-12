@@ -17,13 +17,13 @@
     <category term="奋斗" />
     <category term="信息世界" />
     <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
     <category term="人生" />
     <category term="物联网" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -45,19 +45,19 @@
     <category term="可持续" />
     <category term="能源" />
     <category term="职业" />
-    <category term="时间管理" />
+    <category term="milestone" />
     <category term="工作" />
     <category term="总结" />
     <category term="慈济" />
-    <category term="RT-Thread" />
-    <category term="开源" />
-    <category term="思考" />
     <category term="生活" />
-    <category term="猫" />
-    <category term="幸福" />
+    <category term="RT-Thread" />
     <category term="修身" />
+    <category term="开源" />
     <category term="写书" />
-    <category term="milestone" />
+    <category term="思考" />
+    <category term="幸福" />
+    <category term="猫" />
+    <category term="时间管理" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -108,9 +108,9 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
         <updated>2022-07-12T11:33:50.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/opensource-guide.html</id>
+        <id>https://luhuadong.com/journal/20210129.html</id>
         <title>《开源指北》之我和开源的故事</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/opensource-guide.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20210129.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20210129192536884.png&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;【开源指北 1.0 发布】和你做过最酷的事，就是一起「写书」&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;去年参加的《&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRlZS5jb20vb3BlbnNvdXJjZS1ndWlkZQ==&#34;&gt;开源指北&lt;/span&gt;》编写计划最近正式发布啦！&lt;/p&gt;

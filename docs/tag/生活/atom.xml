@@ -17,13 +17,13 @@
     <category term="奋斗" />
     <category term="信息世界" />
     <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
     <category term="人生" />
     <category term="物联网" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -45,19 +45,19 @@
     <category term="可持续" />
     <category term="能源" />
     <category term="职业" />
-    <category term="时间管理" />
+    <category term="milestone" />
     <category term="工作" />
     <category term="总结" />
     <category term="慈济" />
-    <category term="RT-Thread" />
-    <category term="开源" />
-    <category term="思考" />
     <category term="生活" />
-    <category term="猫" />
-    <category term="幸福" />
+    <category term="RT-Thread" />
     <category term="修身" />
+    <category term="开源" />
     <category term="写书" />
-    <category term="milestone" />
+    <category term="思考" />
+    <category term="幸福" />
+    <category term="猫" />
+    <category term="时间管理" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -86,9 +86,9 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/journal/i-got-covid-19.html</id>
+        <id>https://luhuadong.com/journal/20221219.html</id>
         <title>放开疫情管控之后，我就阳了</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/i-got-covid-19.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20221219.html"/>
         <content type="html">&lt;p&gt;2022 年 11 月 30 日 15 时 30 分，广州 9 个区同时发布通告 “解除临时管控措施，恢复个人防护、避免聚集的防控措施”。&lt;/p&gt;
 &lt;p&gt;2022 年 12 月 13 日 0 点，“通信行程卡” 正式下线。&lt;/p&gt;
 &lt;p&gt;13 日是星期二早上九点，在办公室坐我旁边的同事突然说今天要请假，因为感到有点不舒服，正在排队做核酸，估计阳了。&lt;/p&gt;
@@ -100,9 +100,9 @@
         <updated>2022-12-19T10:47:24.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/decorate-my-small-house.html</id>
+        <id>https://luhuadong.com/journal/20211023.html</id>
         <title>装了个修，居然还治好了选择困难症！</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/decorate-my-small-house.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20211023.html"/>
         <content type="html">&lt;p&gt;最近在装修房子，积累了一些装修经验，虽然整个过程遇到了很多意外，也有一些不太满意的地方。不过，看着房子一点一点变成自己想要的样子，还是蛮有成就感的。&lt;/p&gt;
 &lt;p&gt;因为是精装房，出厂自带的配置在用料方面自然不会太优秀。不过为了环保（省钱），硬装方面是尽量不动的，而且小户型似乎也没太多改动的空间。所以剩下的装修也就是门窗、家具、家电方面的设计与选购问题。&lt;/p&gt;
 &lt;p&gt;其中，家具的设计与摆设是最为棘手的部分，考虑到空间利用率和灵活性，我将其分为两部分 —— 动态和静态的。动态部分采用宜家的单体家具，既简洁又环保。主要用在客厅和餐厅的设计上，一来可以满足现在的需求（在家可以肆无忌惮地看书），二来没有固定的家具，以后有了家庭成员、有了新的需求之后就可以很灵活地重新布置。&lt;/p&gt;
@@ -135,18 +135,18 @@
         <updated>2021-10-22T16:41:50.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/living-in-the-moment.html</id>
+        <id>https://luhuadong.com/journal/20211006.html</id>
         <title>一番番春秋冬夏，一场场酸甜苦辣</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/living-in-the-moment.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20211006.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/journal/20211006-with-cat.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </content>
         <category term="生活" />
         <updated>2021-10-06T10:01:01.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/diary-20210925.html</id>
+        <id>https://luhuadong.com/journal/20210925.html</id>
         <title>一个平淡无奇的周末</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/diary-20210925.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20210925.html"/>
         <content type="html">&lt;img data-src=&#34;/images/journal/20210926-02.jpeg&#34; width=600 /&gt;
 &lt;p&gt;为了体验不同的生活，周五晚上参加了一场万晓利的 LiveHouse 演出。事实上，在报名之前，我甚至都不知道万晓利是谁。好像我那低调的生活里，从来没有出现过民谣音乐一样。而我对音乐的理解也只有好听和不好听的区别，正如我对生活的理解一样肤浅。&lt;/p&gt;
 &lt;p&gt;虽然我不太懂音乐，不过还是可以看懂歌词，带着一股浓郁的孤独气息。现场的男男女女虽然在跟着音乐的律动而摆动，但大部分也都是孤独的。对于内心富足的人而言，孤独其实没有什么不好的，只是有时候需要一个像 LiveHouse 的场景，让向内和向外的心得以融合。&lt;/p&gt;
@@ -188,9 +188,9 @@
         <updated>2021-09-25T15:23:50.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/donate-hair-to-charity.html</id>
+        <id>https://luhuadong.com/journal/20200107.html</id>
         <title>留了三年长发，只为了让生命更美丽</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/donate-hair-to-charity.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20200107.html"/>
         <content type="html">&lt;h2 id=&#34;为爱发生&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#为爱发生&#34;&gt;#&lt;/a&gt; 为爱发生&lt;/h2&gt;
 &lt;p&gt;2016 年底，我决定把头发留长。因为看着爱豆林书豪的发型从小清新到非主流，似乎也没有太难接受，并且我实在厌倦了每天抹发泥喷定型的日子。&lt;/p&gt;
 &lt;p&gt;随着时间日复一日地流逝，头发也渐渐变长了。过去觉得不可能的，也渐渐成为了可能。&lt;/p&gt;

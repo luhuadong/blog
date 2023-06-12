@@ -17,13 +17,13 @@
     <category term="奋斗" />
     <category term="信息世界" />
     <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
     <category term="人生" />
     <category term="物联网" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -45,19 +45,19 @@
     <category term="可持续" />
     <category term="能源" />
     <category term="职业" />
-    <category term="时间管理" />
+    <category term="milestone" />
     <category term="工作" />
     <category term="总结" />
     <category term="慈济" />
-    <category term="RT-Thread" />
-    <category term="开源" />
-    <category term="思考" />
     <category term="生活" />
-    <category term="猫" />
-    <category term="幸福" />
+    <category term="RT-Thread" />
     <category term="修身" />
+    <category term="开源" />
     <category term="写书" />
-    <category term="milestone" />
+    <category term="思考" />
+    <category term="幸福" />
+    <category term="猫" />
+    <category term="时间管理" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -170,9 +170,9 @@
         <updated>2023-01-21T07:49:17.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/30-year-old-summary.html</id>
+        <id>https://luhuadong.com/journal/20220406.html</id>
         <title>一觉醒来，喜提我的30岁</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/30-year-old-summary.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20220406.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/journal/your-30s-are-just-like-20s.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;最近比较忙，其实也不是很忙，主要是过去很长一段时间，情绪低迷，进入了一种间歇性自律、持续性懒惰的状态，导致工作效率有点低。时常感到焦虑和孤独，唯一让我感到内心平静，居然是在图书馆学习的时候。生活总是平平淡淡，工作总是忙忙碌碌，还没来得及感叹，一不小心，就已经达成了 30 岁的里程碑。&lt;/p&gt;
 &lt;p&gt;30 岁真是一个可怕的数字，它总在提醒你 “该成家啦，该立业啦”。而我，似乎两头都不着调。没有甜甜的爱情，没有支持我的家庭，没有一份属于自己的事业。好像做什么都觉得差点意思，买房子、买车子也没感到多开心，找到一份还不错的工作也没感到多开心。哎，我的快乐阈值可真高。可能是因为我是个有野心的人吧，也许只有当我拥有一份事业，拥有自由的生活，拥有心心相印的爱人，才会感到快乐吧。&lt;/p&gt;
@@ -192,7 +192,7 @@
 &lt;p&gt;这大概就是现在的我吧。&lt;/p&gt;
 &lt;p&gt;工作方面，去年离职后有一段时间没上班，探索（躺平）了一段时间。期间有接触一些公司和团队，也想着要不要转行不做程序员了，找一份可以远程办公的工作，比如技术编辑。这样就可以脱离地理位置的限制，一边旅游一边工作。不过，考虑政治动荡、经济低迷、疫情肆虐等因素，最终还是选择了比较赚钱的程序员工作，到智能电动汽车领域再疯狂内卷一波。&lt;/p&gt;
 &lt;p&gt;为什么选择汽车行业？一方面是本人过往在嵌入式软件方面的工作经验比较匹配；另一方面是近年来汽车行业发展迅猛，包括电动化、智能化、网联化、共享化，造就了大量的投融资和工作需求。汽车工业的变革，是中国碳中和之路的一个重要开端。你想想，汽车作为一种快速折旧的昂贵资产，生命周期的绝大部分时间居然无所事事地停在车库，城市地区还必须拿出大量土地当作停车场，才能放置所有的闲置车辆。我们越早实现无人驾驶和大规模的按需运输，就能越早摆脱这种巨大的浪费。虽然我只是行业中的一个小兵，但这确实是吸引我进来的一点。&lt;/p&gt;
-&lt;p&gt;具体来说，我现在从事的是激光雷达（LiDAR）的 SDK 研发。2022 年被称为激光雷达量产元年，预计全球乘用车市场激光雷达需求量将由 2022 年的 22 万颗快速提升至 2025 年的 2134 万颗。显然，这个增长速度足以用疯狂来形容。我吧，其实也没那么大的野心，如果公司发展得好，我也工作得比较开心，那么应该会在这里度过未来的 3&lt;sub&gt;5&lt;/sub&gt;7 年，希望在个人财富方面能有不错的提升吧，毕竟自由的基础还是财务自由。&lt;/p&gt;
+&lt;p&gt;具体来说，我现在从事的是激光雷达（LiDAR）的 SDK 研发。2022 年被称为激光雷达量产元年，预计全球乘用车市场激光雷达需求量将由 2022 年的 22 万颗快速提升至 2025 年的 2134 万颗。显然，这个增长速度足以用疯狂来形容。我吧，其实也没那么大的野心，如果公司发展得好，我也工作得比较开心，那么应该会在这里度过未来的 3/5/7 年，希望在个人财富方面能有不错的提升吧，毕竟自由的基础还是财务自由。&lt;/p&gt;
 &lt;p&gt;业余时间应该还是会折腾点项目和比赛，为未来做准备。长远来看，我的目标其实是创立一家小而美的公司，用技术赋能环保和可持续发展，提供一些相关的产品和服务。我希望公司的总部位于一个小城市（比如我的家乡），同时支持远程办公，是一家灵活、快乐、高效、具有竞争力的小公司。当然，为了达成这个目标，我还需要做很多准备，我现在正处于这个积累的阶段。30 岁这一年，必须是突破的一年！当然，也不是说非得创业，如果能找到一种舒适的合作方式，实现个人价值和社会价值，那也是可以的。比如说做一个快乐的自由职业者、科技作家、独立创客…&lt;/p&gt;
 &lt;p&gt;感情方面，处于想结婚又不想谈恋爱的状态。可是，不谈恋爱怎么结婚？Single 的原因，是因为我感觉自己还处于 “半杯水” 的状态。可能很难给予对方足够的支撑，我希望自己能成长到更加充盈的状态，不需要用力倾斜也能予以对方足够的支持。&lt;/p&gt;
 &lt;p&gt;我在想，会不会未来某一天突然想结婚，然后给一位认识很久的朋友打电话 —— “要不我们结婚吧”，然后她说 “好呀”，就这么神奇地步入了婚姻。也不是非得结婚，毕竟我们都快被逼成完人了，很多事情都能一个人完成，自然对伴侣少了很多期待，对婚姻少了很多向往。当然，如果我有选择权，肯定是希望对方能匹配上「Maker」和「环保」两个标签（至少一个吧）。这样，别人看来是缺点的地方，就会变成优点，也能避免很多争吵和磨合。如果她还懂点心理学，能接受我留长头发、抠门、禅修等奇奇怪怪的行为，还能陪我一起读读书、做做运动，那简直就是完美伴侣！赶紧来捞我一下吧～&lt;/p&gt;
@@ -262,9 +262,9 @@
         <updated>2021-12-31T00:45:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/2021-resignation-summary-and-plan.html</id>
+        <id>https://luhuadong.com/journal/20210920.html</id>
         <title>2021离职总结与计划</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/2021-resignation-summary-and-plan.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20210920.html"/>
         <content type="html">&lt;p&gt;从 2021 年 1 月 18 日入职，到 9 月 17 日离职，刚好 8 个月时间。&lt;/p&gt;
 &lt;p&gt;这是一家环保物联网公司，公司不大，但已深耕环保监测领域十多年，值得来学习一番。&lt;/p&gt;
 &lt;img data-src=&#34;/images/journal/20210917_bocon.jpeg&#34; width=600 /&gt;
@@ -301,9 +301,9 @@
         <updated>2021-09-20T13:59:43.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/to-myself-in-five-years-written-on-the-29-birthday.html</id>
+        <id>https://luhuadong.com/journal/20210405.html</id>
         <title>给五年后的自己（写在29岁生日）</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/to-myself-in-five-years-written-on-the-29-birthday.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20210405.html"/>
         <content type="html">&lt;p&gt;亲爱的，祝贺你来到了 34 岁这个黄金时期。20-30 岁这个阶段真的很重要，也很难，就我个人而言，简直是一路披荆斩棘，一步一个坑。&lt;/p&gt;
 &lt;p&gt;我也在想，为什么好像做什么都是从 hard 模式开始？比如生不逢时，没有享受过家庭的好时光；比如作为家里第一位大学生，无人指导只能自己摸索；比如在家里难以获得理解，浪费太多时间在沟通上了；再比如职业规划不清晰、遭遇职业发展瓶颈，缺乏正确的金钱观和理财意识、多次投资失败；还有，第一次去欧洲旅行就遇上行李延误…&lt;/p&gt;
 &lt;p&gt;可是，仔细想想，又好像有迹可循，抛不开原生家庭、个人能力圈和性格这几方面。好消息是，这些都可以通过改变自己来得到改善，从而对未来产生积极的影响，包括家庭、事业、社交等方面。&lt;/p&gt;
@@ -426,8 +426,8 @@
 &lt;/ul&gt;
 </content>
         <category term="总结" />
-        <category term="思考" />
         <category term="修身" />
+        <category term="思考" />
         <updated>2021-04-05T06:24:28.000Z</updated>
     </entry>
     <entry>
@@ -511,9 +511,9 @@
         <updated>2020-12-24T10:27:24.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/2020-rtt-community-contribution-award.html</id>
+        <id>https://luhuadong.com/journal/20201222.html</id>
         <title>我与 RT-Thread 社区一起成长的故事</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/2020-rtt-community-contribution-award.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20201222.html"/>
         <content type="html">&lt;h2 id=&#34;成长故事&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#成长故事&#34;&gt;#&lt;/a&gt; 成长故事&lt;/h2&gt;
 &lt;p&gt;Hello，大家好，我是 Rudy（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2x1aHVhZG9uZw==&#34;&gt;卢华东&lt;/span&gt;）。我刚拿了 2020 年 RT-Thread 社区杰出贡献奖，现在还沉浸在喜悦之中。&lt;/p&gt;
 &lt;img data-src=&#34;https://img-blog.csdnimg.cn/20201222222649519.jpeg&#34; width=&#34;400&#34; /&gt;
@@ -800,9 +800,9 @@
         <updated>2018-02-17T14:02:12.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/how-do-i-become-a-programmer.html</id>
+        <id>https://luhuadong.com/journal/20170612.html</id>
         <title>从高考到程序员——我一直在寻找答案</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/how-do-i-become-a-programmer.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20170612.html"/>
         <content type="html">&lt;h2 id=&#34;我曾是少年&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#我曾是少年&#34;&gt;#&lt;/a&gt; 我曾是少年&lt;/h2&gt;
 &lt;p&gt;我从小生活在小乡镇上，除了课本，一台电视机和外公出船带回来的二手书就是我了解世界的所有途径。外婆年轻的时候在合作社当过会计，所以小学四年级以前的数学都是她给我辅导的，每天晚上她还会给我削好第二天要用的铅笔。长大一点之后我可以独自出门了，我的世界也开始变大了。镇上没有图书馆，只有寥寥可数的几家店有书卖，大多数也是辅导类书籍，我和一个朋友就经常到那几家店看书，因为只看不买，被赶走也是经常发生的事情。但有一家店从来不赶我们走，店主阿姨允许我们看书，就这样我在她那里看了很多课外书，比如：十万个为什么、上下五千年、孙子兵法等等，还有一些关于国家地理、恐龙、太空、动漫等等的书籍。多年以后回想起来，这些经历确实对我的世界观、人生观、价值观造成了影响。&lt;/p&gt;
 &lt;p&gt;如果说小学、初中的我是老师心目中标准的好学生，高中的我就是一个另类的学生。我觉得我是喜欢学习知识这个过程，而不是为了追求成绩或奖励（那时候也确实没有人会给我奖励），所以一直以来没有太看重考试成绩。因为镇上没有高中，直到初中三年级我才知道原来要准备考高中，于是不小心考上了我们市里最好的高中。高中的一切对于我来说实在太新奇了，那里有标准的 400 米跑道、有图书馆、有学生社团… 简直就是 “刘姥姥进大观园”。总的来说，高中生活还是挺美好。但是我不习惯晚自习，因为教室的灯光会影响我的视力，简直是如坐针毡的感觉。那时候真的很佩服一些同学能坚持一整晚的自习，接着周末还要参加补习班。&lt;/p&gt;

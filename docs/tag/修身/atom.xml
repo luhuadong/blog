@@ -17,13 +17,13 @@
     <category term="奋斗" />
     <category term="信息世界" />
     <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
     <category term="人生" />
     <category term="物联网" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -45,19 +45,19 @@
     <category term="可持续" />
     <category term="能源" />
     <category term="职业" />
-    <category term="时间管理" />
+    <category term="milestone" />
     <category term="工作" />
     <category term="总结" />
     <category term="慈济" />
-    <category term="RT-Thread" />
-    <category term="开源" />
-    <category term="思考" />
     <category term="生活" />
-    <category term="猫" />
-    <category term="幸福" />
+    <category term="RT-Thread" />
     <category term="修身" />
+    <category term="开源" />
     <category term="写书" />
-    <category term="milestone" />
+    <category term="思考" />
+    <category term="幸福" />
+    <category term="猫" />
+    <category term="时间管理" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -122,9 +122,9 @@
         <updated>2021-11-22T10:32:38.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/to-myself-in-five-years-written-on-the-29-birthday.html</id>
+        <id>https://luhuadong.com/journal/20210405.html</id>
         <title>给五年后的自己（写在29岁生日）</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/to-myself-in-five-years-written-on-the-29-birthday.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20210405.html"/>
         <content type="html">&lt;p&gt;亲爱的，祝贺你来到了 34 岁这个黄金时期。20-30 岁这个阶段真的很重要，也很难，就我个人而言，简直是一路披荆斩棘，一步一个坑。&lt;/p&gt;
 &lt;p&gt;我也在想，为什么好像做什么都是从 hard 模式开始？比如生不逢时，没有享受过家庭的好时光；比如作为家里第一位大学生，无人指导只能自己摸索；比如在家里难以获得理解，浪费太多时间在沟通上了；再比如职业规划不清晰、遭遇职业发展瓶颈，缺乏正确的金钱观和理财意识、多次投资失败；还有，第一次去欧洲旅行就遇上行李延误…&lt;/p&gt;
 &lt;p&gt;可是，仔细想想，又好像有迹可循，抛不开原生家庭、个人能力圈和性格这几方面。好消息是，这些都可以通过改变自己来得到改善，从而对未来产生积极的影响，包括家庭、事业、社交等方面。&lt;/p&gt;
@@ -247,14 +247,14 @@
 &lt;/ul&gt;
 </content>
         <category term="总结" />
-        <category term="思考" />
         <category term="修身" />
+        <category term="思考" />
         <updated>2021-04-05T06:24:28.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/how-are-you-today.html</id>
+        <id>https://luhuadong.com/journal/20210314.html</id>
         <title>「每日一问」你今天过得怎么样？</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/how-are-you-today.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20210314.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/rethink.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;center&gt;你今天过得怎么样？&lt;/center&gt;
 &lt;center&gt;你最近过得怎么样？&lt;/center&gt;

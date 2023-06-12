@@ -17,13 +17,13 @@
     <category term="奋斗" />
     <category term="信息世界" />
     <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
     <category term="人生" />
     <category term="物联网" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -45,19 +45,19 @@
     <category term="可持续" />
     <category term="能源" />
     <category term="职业" />
-    <category term="时间管理" />
+    <category term="milestone" />
     <category term="工作" />
     <category term="总结" />
     <category term="慈济" />
-    <category term="RT-Thread" />
-    <category term="开源" />
-    <category term="思考" />
     <category term="生活" />
-    <category term="猫" />
-    <category term="幸福" />
+    <category term="RT-Thread" />
     <category term="修身" />
+    <category term="开源" />
     <category term="写书" />
-    <category term="milestone" />
+    <category term="思考" />
+    <category term="幸福" />
+    <category term="猫" />
+    <category term="时间管理" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -86,9 +86,9 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/journal/life-meaning.html</id>
+        <id>https://luhuadong.com/journal/20230430.html</id>
         <title>当我不再寻找人生的意义，生活才刚刚开始</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/life-meaning.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20230430.html"/>
         <content type="html">&lt;p&gt;这几年活得很痛苦，其实也不是这几年啦，是这三十年好像都活得很痛苦，一直在寻找人生的意义。逃离原生家庭、追寻情感寄托、忙碌到让人麻木的工作、内心对名利的欲望… 以及那好像永远都达不到的理想生活。&lt;/p&gt;
 &lt;p&gt;别人总觉得我很好，就连我妈也是这么认为的，似乎他们无法理解我的痛苦，而我又只能不断地压抑自己，把痛苦和伤疤掩埋起来，对大家笑一个 ･◡･&lt;/p&gt;
 &lt;p&gt;从大三开始，抑郁就伴随着我，我曾以为我好了，可这几年持续性的心情低落，越来越频繁了。我好像失去了勇气，失去了自信，却依然要在大家面前展示最好的一面。累，真的累了。我想要的 “内外一致” 的状态，找不到了。&lt;/p&gt;
@@ -222,9 +222,9 @@
         <updated>2022-10-03T08:37:17.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/30-year-old-summary.html</id>
+        <id>https://luhuadong.com/journal/20220406.html</id>
         <title>一觉醒来，喜提我的30岁</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/30-year-old-summary.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20220406.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/journal/your-30s-are-just-like-20s.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;最近比较忙，其实也不是很忙，主要是过去很长一段时间，情绪低迷，进入了一种间歇性自律、持续性懒惰的状态，导致工作效率有点低。时常感到焦虑和孤独，唯一让我感到内心平静，居然是在图书馆学习的时候。生活总是平平淡淡，工作总是忙忙碌碌，还没来得及感叹，一不小心，就已经达成了 30 岁的里程碑。&lt;/p&gt;
 &lt;p&gt;30 岁真是一个可怕的数字，它总在提醒你 “该成家啦，该立业啦”。而我，似乎两头都不着调。没有甜甜的爱情，没有支持我的家庭，没有一份属于自己的事业。好像做什么都觉得差点意思，买房子、买车子也没感到多开心，找到一份还不错的工作也没感到多开心。哎，我的快乐阈值可真高。可能是因为我是个有野心的人吧，也许只有当我拥有一份事业，拥有自由的生活，拥有心心相印的爱人，才会感到快乐吧。&lt;/p&gt;
@@ -244,7 +244,7 @@
 &lt;p&gt;这大概就是现在的我吧。&lt;/p&gt;
 &lt;p&gt;工作方面，去年离职后有一段时间没上班，探索（躺平）了一段时间。期间有接触一些公司和团队，也想着要不要转行不做程序员了，找一份可以远程办公的工作，比如技术编辑。这样就可以脱离地理位置的限制，一边旅游一边工作。不过，考虑政治动荡、经济低迷、疫情肆虐等因素，最终还是选择了比较赚钱的程序员工作，到智能电动汽车领域再疯狂内卷一波。&lt;/p&gt;
 &lt;p&gt;为什么选择汽车行业？一方面是本人过往在嵌入式软件方面的工作经验比较匹配；另一方面是近年来汽车行业发展迅猛，包括电动化、智能化、网联化、共享化，造就了大量的投融资和工作需求。汽车工业的变革，是中国碳中和之路的一个重要开端。你想想，汽车作为一种快速折旧的昂贵资产，生命周期的绝大部分时间居然无所事事地停在车库，城市地区还必须拿出大量土地当作停车场，才能放置所有的闲置车辆。我们越早实现无人驾驶和大规模的按需运输，就能越早摆脱这种巨大的浪费。虽然我只是行业中的一个小兵，但这确实是吸引我进来的一点。&lt;/p&gt;
-&lt;p&gt;具体来说，我现在从事的是激光雷达（LiDAR）的 SDK 研发。2022 年被称为激光雷达量产元年，预计全球乘用车市场激光雷达需求量将由 2022 年的 22 万颗快速提升至 2025 年的 2134 万颗。显然，这个增长速度足以用疯狂来形容。我吧，其实也没那么大的野心，如果公司发展得好，我也工作得比较开心，那么应该会在这里度过未来的 3&lt;sub&gt;5&lt;/sub&gt;7 年，希望在个人财富方面能有不错的提升吧，毕竟自由的基础还是财务自由。&lt;/p&gt;
+&lt;p&gt;具体来说，我现在从事的是激光雷达（LiDAR）的 SDK 研发。2022 年被称为激光雷达量产元年，预计全球乘用车市场激光雷达需求量将由 2022 年的 22 万颗快速提升至 2025 年的 2134 万颗。显然，这个增长速度足以用疯狂来形容。我吧，其实也没那么大的野心，如果公司发展得好，我也工作得比较开心，那么应该会在这里度过未来的 3/5/7 年，希望在个人财富方面能有不错的提升吧，毕竟自由的基础还是财务自由。&lt;/p&gt;
 &lt;p&gt;业余时间应该还是会折腾点项目和比赛，为未来做准备。长远来看，我的目标其实是创立一家小而美的公司，用技术赋能环保和可持续发展，提供一些相关的产品和服务。我希望公司的总部位于一个小城市（比如我的家乡），同时支持远程办公，是一家灵活、快乐、高效、具有竞争力的小公司。当然，为了达成这个目标，我还需要做很多准备，我现在正处于这个积累的阶段。30 岁这一年，必须是突破的一年！当然，也不是说非得创业，如果能找到一种舒适的合作方式，实现个人价值和社会价值，那也是可以的。比如说做一个快乐的自由职业者、科技作家、独立创客…&lt;/p&gt;
 &lt;p&gt;感情方面，处于想结婚又不想谈恋爱的状态。可是，不谈恋爱怎么结婚？Single 的原因，是因为我感觉自己还处于 “半杯水” 的状态。可能很难给予对方足够的支撑，我希望自己能成长到更加充盈的状态，不需要用力倾斜也能予以对方足够的支持。&lt;/p&gt;
 &lt;p&gt;我在想，会不会未来某一天突然想结婚，然后给一位认识很久的朋友打电话 —— “要不我们结婚吧”，然后她说 “好呀”，就这么神奇地步入了婚姻。也不是非得结婚，毕竟我们都快被逼成完人了，很多事情都能一个人完成，自然对伴侣少了很多期待，对婚姻少了很多向往。当然，如果我有选择权，肯定是希望对方能匹配上「Maker」和「环保」两个标签（至少一个吧）。这样，别人看来是缺点的地方，就会变成优点，也能避免很多争吵和磨合。如果她还懂点心理学，能接受我留长头发、抠门、禅修等奇奇怪怪的行为，还能陪我一起读读书、做做运动，那简直就是完美伴侣！赶紧来捞我一下吧～&lt;/p&gt;

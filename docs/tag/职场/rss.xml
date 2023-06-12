@@ -20,13 +20,13 @@
         <category>奋斗</category>
         <category>信息世界</category>
         <category>城市规划</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
         <category>管理</category>
         <category>程序员</category>
         <category>职场</category>
         <category>人生</category>
         <category>物联网</category>
-        <category>Python</category>
-        <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
@@ -48,19 +48,19 @@
         <category>可持续</category>
         <category>能源</category>
         <category>职业</category>
-        <category>时间管理</category>
+        <category>milestone</category>
         <category>工作</category>
         <category>总结</category>
         <category>慈济</category>
-        <category>RT-Thread</category>
-        <category>开源</category>
-        <category>思考</category>
         <category>生活</category>
-        <category>猫</category>
-        <category>幸福</category>
+        <category>RT-Thread</category>
         <category>修身</category>
+        <category>开源</category>
         <category>写书</category>
-        <category>milestone</category>
+        <category>思考</category>
+        <category>幸福</category>
+        <category>猫</category>
+        <category>时间管理</category>
         <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
@@ -360,18 +360,17 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/%E4%BB%8E%E6%8B%BCT%E5%AD%97%E4%B8%AD%E9%87%8D%E6%96%B0%E7%90%86%E8%A7%A3%E5%9B%A2%E9%98%9F%E5%90%88%E4%BD%9C.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/journal/20201115.html</guid>
             <title>从拼T字中重新理解团队合作</title>
-            <link>https://luhuadong.com/journal/%E4%BB%8E%E6%8B%BCT%E5%AD%97%E4%B8%AD%E9%87%8D%E6%96%B0%E7%90%86%E8%A7%A3%E5%9B%A2%E9%98%9F%E5%90%88%E4%BD%9C.html</link>
+            <link>https://luhuadong.com/journal/20201115.html</link>
             <category>管理</category>
             <category>职场</category>
             <pubDate>Sun, 15 Nov 2020 01:30:52 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;从拼t字中重新理解团队合作&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#从拼t字中重新理解团队合作&#34;&gt;#&lt;/a&gt; 从拼 T 字中重新理解团队合作&lt;/h1&gt;
-&lt;p&gt;昨天上午的徒步出发前，教练给我们每支队伍一盒《T 字之谜》拼图，先完成的队伍先出发。要求拼出一个大写字母 T，且四周必须是直角。很不幸，我们成了十支队伍里面，最后拼出 T 字的队伍。&lt;/p&gt;
-&lt;img data-src=&#34;/images/static/GYT-T1.jpg&#34; width=400 /&gt;
+            <description><![CDATA[ &lt;p&gt;昨天是单位团建第二天，在上午的徒步出发前，教练给我们每支队伍一盒《T 字之谜》拼图，先完成的队伍先出发。要求拼出一个大写字母 T，且四周必须是直角。很不幸，我们成了十支队伍里面，最后拼出 T 字的队伍。&lt;/p&gt;
+&lt;img data-src=&#34;/images/static/GYT-T1.jpg&#34; alt=&#34;T字之谜&#34; width=400 /&gt;
 &lt;p&gt;此后一段时间，我一直在反思，尤其是当听到有人说：“你们小组很多聪明人呀，怎么垫底了呢？”&lt;/p&gt;
 &lt;p&gt;虽然只有区区四块拼图，看似简单，却隐藏着大智慧。我们花了不少时间摆弄来、摆弄去，怎么试都失败了。不是缺一个角，就是多一个边。&lt;/p&gt;
-&lt;img data-src=&#34;/images/static/GYT-T2.jpeg&#34; width=600 /&gt;
+&lt;img data-src=&#34;/images/static/GYT-T2.jpeg&#34; alt=&#34;绞尽脑汁想呀想&#34; width=600 /&gt;
 &lt;p&gt;我们在这里犯了几个错误：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;最长边一定是外沿；&lt;/li&gt;
@@ -381,7 +380,7 @@
 &lt;p&gt;虽然教练多次提醒需要突破思维，但是思维有那么容易突破吗？经过多年的学习和工作，我们早已建立起了一套思维框架，使得我们总是习惯于用自己的角度和方式去看待这个世界。&lt;/p&gt;
 &lt;p&gt;就这样，我们一遍遍尝试，一遍遍接近，又一遍遍失败。我们很想突破思维，但又无意识地被固化的思维拉回去。比如前面提到的错误，其实它们都是未经验证的假设。因为长边长，所以理所当然地作为外沿；因为边水平，所以理所当然地让它继续保持水平；因为有缺口，所以一定要想方设法把它补齐。我们受这些思维影响，不断越陷越深，毫无进展。&lt;/p&gt;
 &lt;p&gt;最后我们发现，其实长边不一定要做外沿，两条甚至三条短边组合也是可以的；水平线转个角度可以变成斜线，斜线转个角度同样可以变成水平线；缺口也不是非得要填补的，有些缺口只是看起来像缺口而已。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/static/GYT-T3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/static/GYT-T3.jpg&#34; alt=&#34;终于拼好了&#34;&gt;&lt;/p&gt;
 &lt;p&gt;不知道是凑巧还是我想多了，我在反思的过程中突然意识到，字母 T 也许是 Team 的意思，背后的思维也非常值得在团队建设和团队协作中学习。比如说：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;企业里面能力强的团队或个人是否都要做向外的主营业务？虽然说主营业务能带来现金流，应该重兵把守。但从长远来看，建立核心团队专注内部流程的优化、基础软件的开发、先进技术的预研也不容忽视。健康的企业、团队和个人应该是内外兼修的，而不是外强中干。&lt;/li&gt;

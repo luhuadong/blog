@@ -20,13 +20,13 @@
         <category>奋斗</category>
         <category>信息世界</category>
         <category>城市规划</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
         <category>管理</category>
         <category>程序员</category>
         <category>职场</category>
         <category>人生</category>
         <category>物联网</category>
-        <category>Python</category>
-        <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
@@ -48,19 +48,19 @@
         <category>可持续</category>
         <category>能源</category>
         <category>职业</category>
-        <category>时间管理</category>
+        <category>milestone</category>
         <category>工作</category>
         <category>总结</category>
         <category>慈济</category>
-        <category>RT-Thread</category>
-        <category>开源</category>
-        <category>思考</category>
         <category>生活</category>
-        <category>猫</category>
-        <category>幸福</category>
+        <category>RT-Thread</category>
         <category>修身</category>
+        <category>开源</category>
         <category>写书</category>
-        <category>milestone</category>
+        <category>思考</category>
+        <category>幸福</category>
+        <category>猫</category>
+        <category>时间管理</category>
         <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
@@ -111,9 +111,9 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/opensource-guide.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/journal/20210129.html</guid>
             <title>《开源指北》之我和开源的故事</title>
-            <link>https://luhuadong.com/journal/opensource-guide.html</link>
+            <link>https://luhuadong.com/journal/20210129.html</link>
             <category>开源</category>
             <category>写书</category>
             <pubDate>Fri, 29 Jan 2021 19:33:45 +0800</pubDate>

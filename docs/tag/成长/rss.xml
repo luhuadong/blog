@@ -20,13 +20,13 @@
         <category>奋斗</category>
         <category>信息世界</category>
         <category>城市规划</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
         <category>管理</category>
         <category>程序员</category>
         <category>职场</category>
         <category>人生</category>
         <category>物联网</category>
-        <category>Python</category>
-        <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
@@ -48,19 +48,19 @@
         <category>可持续</category>
         <category>能源</category>
         <category>职业</category>
-        <category>时间管理</category>
+        <category>milestone</category>
         <category>工作</category>
         <category>总结</category>
         <category>慈济</category>
-        <category>RT-Thread</category>
-        <category>开源</category>
-        <category>思考</category>
         <category>生活</category>
-        <category>猫</category>
-        <category>幸福</category>
+        <category>RT-Thread</category>
         <category>修身</category>
+        <category>开源</category>
         <category>写书</category>
-        <category>milestone</category>
+        <category>思考</category>
+        <category>幸福</category>
+        <category>猫</category>
+        <category>时间管理</category>
         <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
@@ -89,9 +89,9 @@
         <category>零废弃</category>
         <category>低碳</category>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/life-meaning.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/journal/20230430.html</guid>
             <title>当我不再寻找人生的意义，生活才刚刚开始</title>
-            <link>https://luhuadong.com/journal/life-meaning.html</link>
+            <link>https://luhuadong.com/journal/20230430.html</link>
             <category>成长</category>
             <category>人生</category>
             <pubDate>Sun, 30 Apr 2023 15:41:16 +0800</pubDate>
@@ -104,9 +104,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/to-be-a-sailor-of-the-world.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/journal/20220703.html</guid>
             <title>做一个世界的水手，奔赴所有的码头</title>
-            <link>https://luhuadong.com/journal/to-be-a-sailor-of-the-world.html</link>
+            <link>https://luhuadong.com/journal/20220703.html</link>
             <category>成长</category>
             <pubDate>Sun, 03 Jul 2022 06:11:45 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/20220702-vloveit-03.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -131,13 +131,13 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/become-a-feminist.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/journal/20220610.html</guid>
             <title>成为一名女权主义者</title>
-            <link>https://luhuadong.com/journal/become-a-feminist.html</link>
+            <link>https://luhuadong.com/journal/20220610.html</link>
             <category>成长</category>
             <category>日记</category>
             <pubDate>Fri, 10 Jun 2022 22:22:09 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;继成为开源主义者、环保主义者之后，今天又立志成为一名女权主义者 &lt;span class=&#34;github-emoji&#34; alias=&#34;muscle&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png?v8&#34;&gt;💪&lt;/span&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;继成为开源主义者、环保主义者之后，今天又立志成为一名女权主义者（Feminist） &lt;span class=&#34;github-emoji&#34; alias=&#34;muscle&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png?v8&#34;&gt;💪&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;XX 主义听起来有点严肃，但其实就真的是很严肃的问题！&lt;/p&gt;
 &lt;p&gt;我也很好奇为什么那么多人对恶意软件熟视无睹？为什么那么多人对每天产生的大量垃圾熟视无睹？为什么那么多人对弱势群体遭受的不公熟视无睹？&lt;/p&gt;
 &lt;p&gt;开源、环保、女权这三者看起来完全不搭边，但其实它们的核心诉求都是一致的 —— 自由、平等、正义。从广义上来说，它们都是可持续生活的一部分。&lt;/p&gt;
@@ -149,9 +149,9 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/jiangmengnan.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/journal/20220525.html</guid>
             <title>江梦南：世界以痛吻我，我却报之以歌</title>
-            <link>https://luhuadong.com/journal/jiangmengnan.html</link>
+            <link>https://luhuadong.com/journal/20220525.html</link>
             <category>成长</category>
             <pubDate>Wed, 25 May 2022 21:48:14 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;家里没有电视机，我也好久没上微博、知乎了，今天晚上打开了知乎查点资料，刚好看到关于江梦南的推送，好奇地看完了… 全程都在惊叹 —— 不容易呀！然后又很开心 —— 以后会越来越好的！&lt;/p&gt;
@@ -187,9 +187,9 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/diary-20211028.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/journal/20211028.html</guid>
             <title>【总结】但行好事，莫问前程</title>
-            <link>https://luhuadong.com/journal/diary-20211028.html</link>
+            <link>https://luhuadong.com/journal/20211028.html</link>
             <category>成长</category>
             <pubDate>Thu, 28 Oct 2021 23:03:02 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/journal/%E4%BE%A7%E8%80%B3%E5%80%BE%E5%90%AC02.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -214,9 +214,9 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/decorate-my-small-house.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/journal/20211023.html</guid>
             <title>装了个修，居然还治好了选择困难症！</title>
-            <link>https://luhuadong.com/journal/decorate-my-small-house.html</link>
+            <link>https://luhuadong.com/journal/20211023.html</link>
             <category>成长</category>
             <category>生活</category>
             <pubDate>Sat, 23 Oct 2021 00:41:50 +0800</pubDate>
@@ -249,9 +249,9 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
 &lt;img data-src=&#34;/images/zerowaste/travel-frog-02.webp&#34; width=&#34;600&#34;&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/diary-20210925.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/journal/20210925.html</guid>
             <title>一个平淡无奇的周末</title>
-            <link>https://luhuadong.com/journal/diary-20210925.html</link>
+            <link>https://luhuadong.com/journal/20210925.html</link>
             <category>成长</category>
             <category>生活</category>
             <category>猫</category>
@@ -293,9 +293,9 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/happiness-in-ordinary-life.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/journal/20210830.html</guid>
             <title>平淡生活里的琐碎幸福</title>
-            <link>https://luhuadong.com/journal/happiness-in-ordinary-life.html</link>
+            <link>https://luhuadong.com/journal/20210830.html</link>
             <category>成长</category>
             <category>幸福</category>
             <pubDate>Mon, 30 Aug 2021 21:17:54 +0800</pubDate>
@@ -330,9 +330,9 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/how-are-you-today.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/journal/20210314.html</guid>
             <title>「每日一问」你今天过得怎么样？</title>
-            <link>https://luhuadong.com/journal/how-are-you-today.html</link>
+            <link>https://luhuadong.com/journal/20210314.html</link>
             <category>成长</category>
             <category>奋斗</category>
             <category>修身</category>
@@ -346,13 +346,12 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/%E5%AD%A6%E4%BC%9A%E4%BB%8E%E5%88%AB%E4%BA%BA%E7%9A%84%E5%A4%B1%E8%B4%A5%E4%B8%AD%E5%90%B8%E5%8F%96%E6%95%99%E8%AE%AD.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/journal/20201007.html</guid>
             <title>学会从别人的失败中吸取教训</title>
-            <link>https://luhuadong.com/journal/%E5%AD%A6%E4%BC%9A%E4%BB%8E%E5%88%AB%E4%BA%BA%E7%9A%84%E5%A4%B1%E8%B4%A5%E4%B8%AD%E5%90%B8%E5%8F%96%E6%95%99%E8%AE%AD.html</link>
+            <link>https://luhuadong.com/journal/20201007.html</link>
             <category>成长</category>
             <pubDate>Wed, 07 Oct 2020 15:25:30 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;学会从别人的失败中吸取教训&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#学会从别人的失败中吸取教训&#34;&gt;#&lt;/a&gt; 学会从别人的失败中吸取教训&lt;/h2&gt;
-&lt;p&gt;最近看到一句话：&lt;strong&gt;聪明人从自己犯的错误中学习，智慧的人从别人的错误中学习。&lt;/strong&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;最近看到一句话：&lt;strong&gt;聪明人从自己犯的错误中学习，智慧的人从别人的错误中学习。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;我才恍然大悟，原来我一直都是 “聪明人” 啊！&lt;/p&gt;
 &lt;p&gt;是的，我一直信奉 “纸上得来终觉浅，绝知此事要躬行”、“实践是检验真理的唯一标准”、“失败更容易让人成长”…&lt;/p&gt;
 &lt;p&gt;所以很多东西都习惯自己尝试一遍再说，失败了也不怕。当然，这有好的一面，也有不好的一面。我忽略了信息传递的价值，我忽略了时间的有限性。&lt;/p&gt;
@@ -372,13 +371,12 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/%E4%BB%BB%E4%BD%95%E4%B8%80%E6%9D%A1%E8%B7%AF%E9%83%BD%E6%98%AF%E4%BD%A0%E7%9A%84%E9%80%89%E6%8B%A9.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/journal/20200929.html</guid>
             <title>如果你不知道去哪里，任何一条路都是你的选择</title>
-            <link>https://luhuadong.com/journal/%E4%BB%BB%E4%BD%95%E4%B8%80%E6%9D%A1%E8%B7%AF%E9%83%BD%E6%98%AF%E4%BD%A0%E7%9A%84%E9%80%89%E6%8B%A9.html</link>
+            <link>https://luhuadong.com/journal/20200929.html</link>
             <category>成长</category>
             <pubDate>Tue, 29 Sep 2020 15:49:49 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;如果你不知道去哪里任何一条路都是你的选择&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#如果你不知道去哪里任何一条路都是你的选择&#34;&gt;#&lt;/a&gt; 如果你不知道去哪里，任何一条路都是你的选择&lt;/h2&gt;
-&lt;p&gt;我有一个朋友小 A，他早年创过业，开了一家餐厅，但是亏本了。把店铺关了之后，小 A 陷入了低迷。&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;我有一个朋友小 A，他早年创过业，开了一家餐厅，但是亏本了。把店铺关了之后，小 A 陷入了低迷。&lt;/p&gt;
 &lt;p&gt;实在看不下去，我隔三差五地就跟他聊天，我说：“创业本来就是九死一生的事情，而且餐饮行业的竞争十分激烈，好好总结一下，重新上路就行啦！只有失败过，才能体会成功的来之不易，才能抓住伴随而来的财富。至于现在嘛，趁年轻多学点技能，多积累些人脉，多攒点钱，以后的路还很长，机会还很多呢。”&lt;/p&gt;
 &lt;p&gt;小 A 也知道自己开餐厅太鲁莽，没有餐饮行业的经验，只是觉得不想继续打工了，刚好有朋友想开餐厅，一拍即合就辞职、投钱进去了。小 A 说：“你说的道理我都懂，可我就是不知道该怎么做，学什么技能？”&lt;/p&gt;
 &lt;p&gt;我叹了一口气，说：“其实许多人到了三四十岁，还像你这样，不知道要做什么、怎么做，你现在才二十多岁，如果你一直徘徊，一直想找捷径，等你三四十岁的时候，很可能还是这样。与其这样，不如赶紧走出去，选一个有前景的方向，踏踏实实地做，十年之后，你也会是行业精英。正是因为你不知道要去哪里，所以任何一条路都是你的选择。”&lt;/p&gt;
@@ -387,13 +385,12 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/%E7%A7%AF%E7%B4%AF%E5%AE%9A%E5%BE%8B.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/journal/20200926.html</guid>
             <title>积累定律：努力让自己值钱</title>
-            <link>https://luhuadong.com/journal/%E7%A7%AF%E7%B4%AF%E5%AE%9A%E5%BE%8B.html</link>
+            <link>https://luhuadong.com/journal/20200926.html</link>
             <category>成长</category>
             <pubDate>Sat, 26 Sep 2020 10:42:57 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;积累定律努力让自己值钱&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#积累定律努力让自己值钱&#34;&gt;#&lt;/a&gt; 积累定律：努力让自己值钱&lt;/h2&gt;
-&lt;p&gt;很多年轻人都曾梦想做一番大事业，其实天下并没有什么大事可做，有的只是小事。一件小事积累起来，便形成了大事。这任何大成就或者大灾难都是积累的结果。这便是积累定律。也就是说，这个世界所谓的大成功，其实都是由小事积累起来的结果。你要取得成就，就必须重视每一件小事，重视每段时光，懂得坚持和坚守。正如马云对所有年轻人的告诫一样。在抱怨自己赚钱少之前，先努力让自己值钱。如果你不相信努力和时光，那么时光会第一个辜负你。如果你总是幻想自己有钱，不懂得脚踏实地，不懂的在积累中提升自己的价值，最终只会在幻想中迷失掉自己。&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;很多年轻人都曾梦想做一番大事业，其实天下并没有什么大事可做，有的只是小事。一件小事积累起来，便形成了大事。这任何大成就或者大灾难都是积累的结果。这便是积累定律。也就是说，这个世界所谓的大成功，其实都是由小事积累起来的结果。你要取得成就，就必须重视每一件小事，重视每段时光，懂得坚持和坚守。正如马云对所有年轻人的告诫一样。在抱怨自己赚钱少之前，先努力让自己值钱。如果你不相信努力和时光，那么时光会第一个辜负你。如果你总是幻想自己有钱，不懂得脚踏实地，不懂的在积累中提升自己的价值，最终只会在幻想中迷失掉自己。&lt;/p&gt;
 &lt;p&gt;大多数年轻人不太懂得积累，不停的换工作，直接原因就在于嫌原来的老板工资给的太少。同时，他们逢人抱怨老板是如何的抠门，可从不去反思自己为何如此廉价。与其喋喋不休的抱怨工资低赚的少，不如埋头努力，先让自己值钱。要值钱，就要懂得在积累中提升自己的价值，就是说，你可以先把能赚多少工资的事放在一边，想想如何才能得到一个能够让我做我不断增值的机会。&lt;/p&gt;
 &lt;p&gt;其实刚刚步入社会的前十年，大家的工资是没有多大差距的。最重要的是，你要在这个第一个十年里，要扎扎实实地投资自己。当你人生奋斗了第一个十年走完了，如果你扎扎实实地把自己的基本功做好了。到第二个十年，你才有可能有机会成为一个部门主管，那时候你的身价已经很高，你所掌握的资源，学到的各种技能，已经成为别人永远也盗不走的财富。那个时候，你可以拿着简历趾高气扬的跳槽，也可以理直气壮的要求现在老板给你加工资。&lt;/p&gt;
 &lt;p&gt;前面两个十年如果走的扎实，那么你才有可能走入人生奋斗的第三个十年。如果说前面的十年是自我身价的提升阶段，那么，人生的第三个十年则是你财富积累的开始。那个时候，你可能会有一家自己的公司，你的收入会远大于你的生活所需，人生的财富也会在此期间爆涨。&lt;/p&gt;
@@ -405,13 +402,12 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/%E8%BF%9C%E7%A6%BB%E9%82%A3%E4%BA%9B%E6%B6%88%E8%80%97%E4%BD%A0%E7%9A%84%E4%BA%BA%E5%92%8C%E4%BA%8B.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/journal/20200905.html</guid>
             <title>远离那些消耗你的人和事</title>
-            <link>https://luhuadong.com/journal/%E8%BF%9C%E7%A6%BB%E9%82%A3%E4%BA%9B%E6%B6%88%E8%80%97%E4%BD%A0%E7%9A%84%E4%BA%BA%E5%92%8C%E4%BA%8B.html</link>
+            <link>https://luhuadong.com/journal/20200905.html</link>
             <category>成长</category>
             <pubDate>Sat, 05 Sep 2020 20:25:16 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;远离那些消耗你的人和事&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#远离那些消耗你的人和事&#34;&gt;#&lt;/a&gt; 远离那些消耗你的人和事&lt;/h2&gt;
-&lt;p&gt;大学入学那天，我带来十四箱行李和一辆自行车，箱子里有暑假期间提前买的书，有未来四年要用的被子、衣服等生活用品，有高中时候入手的一些电子工具和轮滑鞋，甚至还有螺丝刀、订书机、草稿本…&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;大学入学那天，我带来十四箱行李和一辆自行车，箱子里有暑假期间提前买的书，有未来四年要用的被子、衣服等生活用品，有高中时候入手的一些电子工具和轮滑鞋，甚至还有螺丝刀、订书机、草稿本…&lt;/p&gt;
 &lt;p&gt;我是一个不喜欢麻烦别人的人，大多数时候都是别人来麻烦我，而我尽量不去麻烦别人。&lt;/p&gt;
 &lt;p&gt;很久以后，我才发现，这种性格让我陷入了巨大的麻烦。&lt;/p&gt;
 &lt;p&gt;家人觉得我把学习和生活打理得很好而不用为我操心，同学觉得我设备齐全习惯于找我借东西，队友觉得我身体素质很好把我推向前线，朋友觉得我家境富裕喜欢找我借钱，谈的对象也觉得我很优秀值得对她更好。&lt;/p&gt;

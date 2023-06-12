@@ -17,13 +17,13 @@
     <category term="奋斗" />
     <category term="信息世界" />
     <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
     <category term="人生" />
     <category term="物联网" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -45,19 +45,19 @@
     <category term="可持续" />
     <category term="能源" />
     <category term="职业" />
-    <category term="时间管理" />
+    <category term="milestone" />
     <category term="工作" />
     <category term="总结" />
     <category term="慈济" />
-    <category term="RT-Thread" />
-    <category term="开源" />
-    <category term="思考" />
     <category term="生活" />
-    <category term="猫" />
-    <category term="幸福" />
+    <category term="RT-Thread" />
     <category term="修身" />
+    <category term="开源" />
     <category term="写书" />
-    <category term="milestone" />
+    <category term="思考" />
+    <category term="幸福" />
+    <category term="猫" />
+    <category term="时间管理" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -135,9 +135,9 @@
         <updated>2021-10-04T06:33:40.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/diary-20210925.html</id>
+        <id>https://luhuadong.com/journal/20210925.html</id>
         <title>一个平淡无奇的周末</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/diary-20210925.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20210925.html"/>
         <content type="html">&lt;img data-src=&#34;/images/journal/20210926-02.jpeg&#34; width=600 /&gt;
 &lt;p&gt;为了体验不同的生活，周五晚上参加了一场万晓利的 LiveHouse 演出。事实上，在报名之前，我甚至都不知道万晓利是谁。好像我那低调的生活里，从来没有出现过民谣音乐一样。而我对音乐的理解也只有好听和不好听的区别，正如我对生活的理解一样肤浅。&lt;/p&gt;
 &lt;p&gt;虽然我不太懂音乐，不过还是可以看懂歌词，带着一股浓郁的孤独气息。现场的男男女女虽然在跟着音乐的律动而摆动，但大部分也都是孤独的。对于内心富足的人而言，孤独其实没有什么不好的，只是有时候需要一个像 LiveHouse 的场景，让向内和向外的心得以融合。&lt;/p&gt;
@@ -179,9 +179,9 @@
         <updated>2021-09-25T15:23:50.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/keeping-cats.html</id>
+        <id>https://luhuadong.com/journal/20210923.html</id>
         <title>养猫经历</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/keeping-cats.html"/>
+        <link rel="alternate" href="https://luhuadong.com/journal/20210923.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/journal/20191207-cats.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;我曾经有过两次救助小猫的经历，加上帮小苏养了一周「多多」，让我从一个怕猫的人，转变成了一个爱猫的人。&lt;/p&gt;
 &lt;p&gt;但是，每次想起那两次救助小猫的经历，心里总是有一道坎过不去，因为救助的过程充满了无奈，结局也不完美。也正是因为这两段经历，让我了解到动物救助、动物保护、动物福利的现状，深切体会到其中的艰辛。也因为我最后没来得及帮小猫找到合适的主人，没有保护好小猫而深深自责。&lt;/p&gt;
