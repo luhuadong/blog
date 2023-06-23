@@ -3,7 +3,7 @@
     <id>https://luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;励志&#34; tag</title>
     <link href="https://luhuadong.com" />
-    <updated>2022-10-07T03:44:57.000Z</updated>
+    <updated>2023-03-02T04:56:58.000Z</updated>
     <category term="商业" />
     <category term="成长" />
     <category term="日记" />
@@ -16,14 +16,14 @@
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
-    <category term="城市规划" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
     <category term="人生" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -45,21 +45,21 @@
     <category term="可持续" />
     <category term="能源" />
     <category term="职业" />
+    <category term="时间管理" />
     <category term="milestone" />
     <category term="工作" />
     <category term="总结" />
     <category term="慈济" />
     <category term="生活" />
     <category term="RT-Thread" />
-    <category term="修身" />
     <category term="开源" />
     <category term="写书" />
+    <category term="修身" />
     <category term="思考" />
     <category term="幸福" />
     <category term="猫" />
-    <category term="时间管理" />
-    <category term="地铁" />
     <category term="Markdown" />
+    <category term="地铁" />
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
@@ -69,15 +69,16 @@
     <category term="纪录片" />
     <category term="自由" />
     <category term="电影" />
-    <category term="TED演讲" />
-    <category term="时间" />
+    <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
     <category term="亲密关系" />
     <category term="农业" />
     <category term="报告" />
-    <category term="励志" />
+    <category term="TED" />
     <category term="演讲" />
+    <category term="励志" />
+    <category term="时间" />
     <category term="游泳" />
     <category term="蔬食" />
     <category term="声音训练" />
@@ -86,11 +87,32 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
+        <id>https://luhuadong.com/speech/grit-the-power-of-passion-and-perseverance.html</id>
+        <title>【TED】坚韧不拔：激情和毅力的力量</title>
+        <link rel="alternate" href="https://luhuadong.com/speech/grit-the-power-of-passion-and-perseverance.html"/>
+        <content type="html">&lt;ul&gt;
+&lt;li&gt;演讲题目：Grit: The power of passion and perseverance&lt;/li&gt;
+&lt;li&gt;演讲者：Angela Lee Duckworth&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;中英双语版本&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#中英双语版本&#34;&gt;#&lt;/a&gt; 中英双语版本&lt;/h2&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=35473820&amp;bvid=BV1Fb411c7J7&amp;cid=62190294&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;无字幕原版&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#无字幕原版&#34;&gt;#&lt;/a&gt; 无字幕原版&lt;/h2&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=35473820&amp;bvid=BV1Fb411c7J7&amp;cid=62190447&amp;page=2&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;同名书籍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#同名书籍&#34;&gt;#&lt;/a&gt; 同名书籍&lt;/h2&gt;
+&lt;p&gt;英文：《&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Hcml0LVBhc3Npb24tUGVyc2V2ZXJhbmNlLUFuZ2VsYS1EdWNrd29ydGgvZHAvMTUwMTExMTEwOA==&#34;&gt;Grit: The Power of Passion and Perseverance&lt;/span&gt;》&lt;/p&gt;
+&lt;p&gt;繁体中文：《&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYm9va3MuY29tLnR3L3Byb2R1Y3RzLzAwMTA4Njc5MzE=&#34;&gt;恆毅力：人生成功的究極能力&lt;/span&gt;》&lt;/p&gt;
+</content>
+        <category term="TED" />
+        <category term="演讲" />
+        <category term="励志" />
+        <updated>2023-03-02T04:56:58.000Z</updated>
+    </entry>
+    <entry>
         <id>https://luhuadong.com/speech/steve-jobs-2005-stanford-commencement-speech.html</id>
         <title>乔布斯：斯坦福大学 2005 毕业演讲</title>
         <link rel="alternate" href="https://luhuadong.com/speech/steve-jobs-2005-stanford-commencement-speech.html"/>
         <content type="html">&lt;h2 id=&#34;演讲视频&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#演讲视频&#34;&gt;#&lt;/a&gt; 演讲视频&lt;/h2&gt;
-&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=17203668&amp;bvid=BV1oW411h7Ea&amp;cid=28116082&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=17203668&amp;bvid=BV1oW411h7Ea&amp;cid=28116082&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;演讲全文&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#演讲全文&#34;&gt;#&lt;/a&gt; 演讲全文&lt;/h2&gt;
 &lt;p&gt;Thank you!&lt;/p&gt;
 &lt;p&gt;感谢大家！&lt;/p&gt;
@@ -163,8 +185,8 @@
 &lt;p&gt;求知若渴，虚心若愚。&lt;/p&gt;
 &lt;p&gt;谢谢大家！&lt;/p&gt;
 </content>
-        <category term="励志" />
         <category term="演讲" />
+        <category term="励志" />
         <updated>2022-10-07T03:44:57.000Z</updated>
     </entry>
 </feed>

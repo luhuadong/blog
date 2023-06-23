@@ -19,14 +19,14 @@
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
-        <category>城市规划</category>
-        <category>Python</category>
-        <category>教孩子学编程</category>
         <category>管理</category>
         <category>程序员</category>
         <category>职场</category>
         <category>人生</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
@@ -48,21 +48,21 @@
         <category>可持续</category>
         <category>能源</category>
         <category>职业</category>
+        <category>时间管理</category>
         <category>milestone</category>
         <category>工作</category>
         <category>总结</category>
         <category>慈济</category>
         <category>生活</category>
         <category>RT-Thread</category>
-        <category>修身</category>
         <category>开源</category>
         <category>写书</category>
+        <category>修身</category>
         <category>思考</category>
         <category>幸福</category>
         <category>猫</category>
-        <category>时间管理</category>
-        <category>地铁</category>
         <category>Markdown</category>
+        <category>地铁</category>
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
@@ -72,15 +72,16 @@
         <category>纪录片</category>
         <category>自由</category>
         <category>电影</category>
-        <category>TED演讲</category>
-        <category>时间</category>
+        <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>
         <category>亲密关系</category>
         <category>农业</category>
         <category>报告</category>
-        <category>励志</category>
+        <category>TED</category>
         <category>演讲</category>
+        <category>励志</category>
+        <category>时间</category>
         <category>游泳</category>
         <category>蔬食</category>
         <category>声音训练</category>
@@ -178,8 +179,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;万晓利「呼吸 2021」LiveHouse 巡演（广州站）30 分钟现场版&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=718434550&amp;bvid=BV1VQ4y1X7Sc&amp;cid=420014246&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
- ]]></description>
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=718434550&amp;bvid=BV1VQ4y1X7Sc&amp;cid=420014246&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt; ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/journal/20210923.html</guid>

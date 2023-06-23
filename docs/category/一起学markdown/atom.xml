@@ -16,14 +16,14 @@
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
-    <category term="城市规划" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
     <category term="人生" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -45,21 +45,21 @@
     <category term="可持续" />
     <category term="能源" />
     <category term="职业" />
+    <category term="时间管理" />
     <category term="milestone" />
     <category term="工作" />
     <category term="总结" />
     <category term="慈济" />
     <category term="生活" />
     <category term="RT-Thread" />
-    <category term="修身" />
     <category term="开源" />
     <category term="写书" />
+    <category term="修身" />
     <category term="思考" />
     <category term="幸福" />
     <category term="猫" />
-    <category term="时间管理" />
-    <category term="地铁" />
     <category term="Markdown" />
+    <category term="地铁" />
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
@@ -69,15 +69,16 @@
     <category term="纪录片" />
     <category term="自由" />
     <category term="电影" />
-    <category term="TED演讲" />
-    <category term="时间" />
+    <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
     <category term="亲密关系" />
     <category term="农业" />
     <category term="报告" />
-    <category term="励志" />
+    <category term="TED" />
     <category term="演讲" />
+    <category term="励志" />
+    <category term="时间" />
     <category term="游泳" />
     <category term="蔬食" />
     <category term="声音训练" />
@@ -714,7 +715,7 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
 &lt;figure class=&#34;highlight markdown&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;code&#34;&gt;`print(&amp;quot;hello, world!&amp;quot;)`&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;h3 id=&#34;代码块&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#代码块&#34;&gt;#&lt;/a&gt; 代码块&lt;/h3&gt;
 &lt;p&gt;代码块使用三个反引号进行包裹，并且可以在第一行反引号后面添加编程语言名称，帮助 Markdown 解释器进行解析。&lt;/p&gt;
-&lt;figure class=&#34;highlight markdown&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;​&lt;span class=&#34;code&#34;&gt;```python&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;code&#34;&gt;print(&amp;quot;hello, world!&amp;quot;)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;code&#34;&gt;return&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;code&#34;&gt;​```&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight markdown&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;code&#34;&gt;```python&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;code&#34;&gt;print(&amp;quot;hello, world!&amp;quot;)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;code&#34;&gt;return&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;code&#34;&gt;```&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;h2 id=&#34;图片&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#图片&#34;&gt;#&lt;/a&gt; 图片&lt;/h2&gt;
 &lt;figure class=&#34;highlight markdown&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;![&lt;span class=&#34;string&#34;&gt;图片替代文字&lt;/span&gt;](&lt;span class=&#34;link&#34;&gt;图片地址&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;语法说明：&lt;/p&gt;
@@ -876,17 +877,17 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
 &lt;p&gt;对于我来说，目前最常用的是 Typora 和 VS Code 这两款免费、跨平台的编辑器，下面简单介绍一下安装过程。&lt;/p&gt;
 &lt;h2 id=&#34;typora&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#typora&#34;&gt;#&lt;/a&gt; Typora&lt;/h2&gt;
 &lt;p&gt;打开 Typora 的官网 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90eXBvcmEuaW8=&#34;&gt;https://typora.io&lt;/span&gt;，点击 Download 标签，对于 Windows 和 macOS 用户，直接下载安装包进行安装即可。对于 Linux 用户稍微复杂一些，比如 Ubuntu 用户可以执行如下命令进行安装或更新。&lt;/p&gt;
-&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;bash&#34;&gt; or run:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;bash&#34;&gt; sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys BA300B7755AFCFAE&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;wget -qO - https://typora.io/linux/public-key.asc | sudo apt-key add -&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;bash&#34;&gt; add Typora&lt;span class=&#34;string&#34;&gt;&amp;#x27;s repository&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;sudo add-apt-repository &amp;#x27;deb https://typora.io/linux ./&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;sudo apt-get update&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;bash&#34;&gt;&lt;span class=&#34;string&#34;&gt; install typora&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;sudo apt-get install typora&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# or run:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys BA300B7755AFCFAE&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;wget -qO - https://typora.io/linux/public-key.asc | sudo apt-key add -&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# add Typora&amp;#x27;s repository&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;sudo add-apt-repository &lt;span class=&#34;string&#34;&gt;&amp;#x27;deb https://typora.io/linux ./&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;sudo apt-get update&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# install typora&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;sudo apt-get install typora&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;Typora 非常简洁，提供流畅的即时预览界面，而不是分栏设计，可以让你在一个屏幕上看到更多内容，甚至忘记自己在写 Markdown。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20210307130330755.png&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/md/20210307130330755.png&#34; alt=&#34;在这里插入图片描述&#34; title=&#34;Typora 编辑器&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;vs-code&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#vs-code&#34;&gt;#&lt;/a&gt; VS Code&lt;/h2&gt;
 &lt;p&gt;打开 VS Code 的官网 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jb2RlLnZpc3VhbHN0dWRpby5jb20=&#34;&gt;https://code.visualstudio.com&lt;/span&gt; 下载对应平台的安装包，进行安装即可。也可以在系统的应用商店找到，直接安装。&lt;/p&gt;
 &lt;p&gt;唯一值得提醒的是，如何安装 Markdown 插件，并且启动预览界面。&lt;/p&gt;
 &lt;p&gt;点击左侧栏的 Extensions 图标，输入 Markdown 进行搜索。由于 VS Code 支持第三方插件，因此你会看到许多不同的 Markdown 插件，我们安装第一个 Markdown All in One 即可，点击 Install 进行安装。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20210307130354210.png&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/md/20210307130354210.png&#34; alt=&#34;在这里插入图片描述&#34; title=&#34;安装 Markdown All in One 插件&#34;&gt;&lt;/p&gt;
 &lt;p&gt;安装完成后打开或新建一个 .md 文档，在编辑区的右上角可以看到几个小按钮，点击中间那个 preview 即可实时预览 Markdown 渲染后的效果。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20210307130407531.png&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20210307130420679.png&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/md/20210307130407531.png&#34; alt=&#34;在这里插入图片描述&#34; title=&#34;点击中间的 preview 按钮&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/md/20210307130420679.png&#34; alt=&#34;在这里插入图片描述&#34; title=&#34;VS Code 渲染 Markdown 效果&#34;&gt;&lt;/p&gt;
 &lt;p&gt;好啦，关于 Markdown 编辑器的选择与安装就先到这里了，下一节我们正式开始学习 Markdown 的语法。&lt;/p&gt;
 </content>
         <category term="Markdown" />
@@ -1018,10 +1019,7 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
 &lt;figure class=&#34;highlight markdown&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;emphasis&#34;&gt;*强调文本*&lt;/span&gt; &lt;span class=&#34;emphasis&#34;&gt;_强调文本_&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;strong&#34;&gt;**加粗文本**&lt;/span&gt; &lt;span class=&#34;strong&#34;&gt;__加粗文本__&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;==标记文本==&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;~~删除文本~~&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt; 引用文本&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;H~2~O is是液体。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2^10^ 运算结果是 1024.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;h2 id=&#34;插入链接与图片&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#插入链接与图片&#34;&gt;#&lt;/a&gt; 插入链接与图片&lt;/h2&gt;
 &lt;p&gt;链接: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcC5jc2RuLm5ldA==&#34;&gt;link&lt;/span&gt;.&lt;/p&gt;
-&lt;p&gt;图片: &lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/13e682841f7171467bfc801dc99269bb.png&#34; alt=&#34;Alt&#34;&gt;&lt;/p&gt;
-&lt;p&gt;带尺寸的图片: ![Alt](&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pbWctYmxvZy5jc2RuaW1nLmNuL2ltZ19jb252ZXJ0LzEzZTY4Mjg0MWY3MTcxNDY3YmZjODAxZGM5OTI2OWJiLnBuZyM=&#34;&gt;https://img-blog.csdnimg.cn/img_convert/13e682841f7171467bfc801dc99269bb.png#&lt;/span&gt; =30x30)&lt;/p&gt;
-&lt;p&gt;居中的图片: &lt;img data-src=&#34;https://img-blog.csdnimg.cn/img_convert/13e682841f7171467bfc801dc99269bb.png#pic_center&#34; alt=&#34;Alt&#34;&gt;&lt;/p&gt;
-&lt;p&gt;居中并且带尺寸的图片: ![Alt](&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pbWctYmxvZy5jc2RuaW1nLmNuL2ltZ19jb252ZXJ0LzEzZTY4Mjg0MWY3MTcxNDY3YmZjODAxZGM5OTI2OWJiLnBuZyNwaWNfY2VudGVy&#34;&gt;https://img-blog.csdnimg.cn/img_convert/13e682841f7171467bfc801dc99269bb.png#pic_center&lt;/span&gt; =30x30)&lt;/p&gt;
+&lt;p&gt;图片: &lt;img data-src=&#34;/images/md/13e682841f7171467bfc801dc99269bb.png&#34; alt=&#34;Alt&#34;&gt;&lt;/p&gt;
 &lt;p&gt;当然，我们为了让用户更加便捷，我们增加了图片拖拽功能。&lt;/p&gt;
 &lt;figure class=&#34;highlight markdown&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;链接: [&lt;span class=&#34;string&#34;&gt;link&lt;/span&gt;](&lt;span class=&#34;link&#34;&gt;https://mp.csdn.net&lt;/span&gt;).&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;图片: ![&lt;span class=&#34;string&#34;&gt;Alt&lt;/span&gt;](&lt;span class=&#34;link&#34;&gt;https://avatar.csdn.net/7/7/B/1_ralf_hx163com.jpg&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;带尺寸的图片: ![&lt;span class=&#34;string&#34;&gt;Alt&lt;/span&gt;](&lt;span class=&#34;link&#34;&gt;https://avatar.csdn.net/7/7/B/1_ralf_hx163com.jpg =30x30&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;居中的图片: ![&lt;span class=&#34;string&#34;&gt;Alt&lt;/span&gt;](&lt;span class=&#34;link&#34;&gt;https://avatar.csdn.net/7/7/B/1_ralf_hx163com.jpg#pic_center&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;居中并且带尺寸的图片: ![&lt;span class=&#34;string&#34;&gt;Alt&lt;/span&gt;](&lt;span class=&#34;link&#34;&gt;https://avatar.csdn.net/7/7/B/1_ralf_hx163com.jpg#pic_center =30x30&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;h2 id=&#34;如何插入一段漂亮的代码片&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#如何插入一段漂亮的代码片&#34;&gt;#&lt;/a&gt; 如何插入一段漂亮的代码片&lt;/h2&gt;

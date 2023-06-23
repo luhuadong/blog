@@ -16,14 +16,14 @@
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
-    <category term="城市规划" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
     <category term="人生" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -45,21 +45,21 @@
     <category term="可持续" />
     <category term="能源" />
     <category term="职业" />
+    <category term="时间管理" />
     <category term="milestone" />
     <category term="工作" />
     <category term="总结" />
     <category term="慈济" />
     <category term="生活" />
     <category term="RT-Thread" />
-    <category term="修身" />
     <category term="开源" />
     <category term="写书" />
+    <category term="修身" />
     <category term="思考" />
     <category term="幸福" />
     <category term="猫" />
-    <category term="时间管理" />
-    <category term="地铁" />
     <category term="Markdown" />
+    <category term="地铁" />
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
@@ -69,15 +69,16 @@
     <category term="纪录片" />
     <category term="自由" />
     <category term="电影" />
-    <category term="TED演讲" />
-    <category term="时间" />
+    <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
     <category term="亲密关系" />
     <category term="农业" />
     <category term="报告" />
-    <category term="励志" />
+    <category term="TED" />
     <category term="演讲" />
+    <category term="励志" />
+    <category term="时间" />
     <category term="游泳" />
     <category term="蔬食" />
     <category term="声音训练" />
@@ -109,7 +110,7 @@
         <id>https://luhuadong.com/movies/The-Story-of-Aaron-Swartz.html</id>
         <title>【纪录片】互联网之子（Aaron Swartz）</title>
         <link rel="alternate" href="https://luhuadong.com/movies/The-Story-of-Aaron-Swartz.html"/>
-        <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=16549975&amp;bvid=BV1rx411V75r&amp;cid=26994578&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+        <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=16549975&amp;bvid=BV1rx411V75r&amp;cid=26994578&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 </content>
         <category term="互联网" />
         <category term="纪录片" />
@@ -120,7 +121,7 @@
         <id>https://luhuadong.com/movies/revolution-os.html</id>
         <title>【纪录片】操作系统革命（Revolution OS）</title>
         <link rel="alternate" href="https://luhuadong.com/movies/revolution-os.html"/>
-        <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=796140504&amp;bvid=BV1iC4y187nT&amp;cid=235560964&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+        <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=796140504&amp;bvid=BV1iC4y187nT&amp;cid=235560964&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;非常经典的有关自由软件运动的纪录片&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5yZXZvbHV0aW9uLW9zLmNvbQ==&#34;&gt;http://www.revolution-os.com&lt;/span&gt;&lt;/p&gt;
 </content>
@@ -133,7 +134,7 @@
         <id>https://luhuadong.com/movies/patent-absurdity.html</id>
         <title>【纪录片】软件专利的荒谬性（Patent Absurdity）</title>
         <link rel="alternate" href="https://luhuadong.com/movies/patent-absurdity.html"/>
-        <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=15221360&amp;bvid=BV1sx411u7qy&amp;cid=24774214&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+        <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=15221360&amp;bvid=BV1sx411u7qy&amp;cid=24774214&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;官网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3BhdGVudGFic3VyZGl0eS5jb20vd2F0Y2guaHRtbA==&#34;&gt;http://patentabsurdity.com/watch.html&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;导演、拍摄、编辑：Luca Lucarini&lt;/li&gt;
@@ -157,7 +158,7 @@
         <title>【纪录片】代码奔腾（Code Rush）</title>
         <link rel="alternate" href="https://luhuadong.com/movies/code-rush.html"/>
         <content type="html">&lt;p&gt;《Code Rush》是 David Winton 导演于 1998 年至 2000 年间拍摄的纪录片，记录了硅谷的 Netscape 工程师们将浏览器源代码开源，成立 Mozilla 项目的经历；同时 Netscape 也正经历被 AOL 并购的过程。本片描绘了 Netscape 的工程师们，牺牲日常生活与家庭，努力防止他们的公司倒闭的经历。&lt;/p&gt;
-&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=15989846&amp;bvid=BV1rx411E7oW&amp;cid=26090372&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=15989846&amp;bvid=BV1rx411E7oW&amp;cid=26090372&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;blockquote&gt;
 &lt;p&gt;从 1998 年 3 月到 1999 年 4 月，一个独立纪录片摄制组跟随着网景公司的一个软件工程师团队，记录了他们公司和互联网历史上的分水岭。&lt;/p&gt;
 &lt;/blockquote&gt;

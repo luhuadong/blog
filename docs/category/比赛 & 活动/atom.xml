@@ -16,14 +16,14 @@
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
-    <category term="城市规划" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
     <category term="人生" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -45,21 +45,21 @@
     <category term="可持续" />
     <category term="能源" />
     <category term="职业" />
+    <category term="时间管理" />
     <category term="milestone" />
     <category term="工作" />
     <category term="总结" />
     <category term="慈济" />
     <category term="生活" />
     <category term="RT-Thread" />
-    <category term="修身" />
     <category term="开源" />
     <category term="写书" />
+    <category term="修身" />
     <category term="思考" />
     <category term="幸福" />
     <category term="猫" />
-    <category term="时间管理" />
-    <category term="地铁" />
     <category term="Markdown" />
+    <category term="地铁" />
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
@@ -69,15 +69,16 @@
     <category term="纪录片" />
     <category term="自由" />
     <category term="电影" />
-    <category term="TED演讲" />
-    <category term="时间" />
+    <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
     <category term="亲密关系" />
     <category term="农业" />
     <category term="报告" />
-    <category term="励志" />
+    <category term="TED" />
     <category term="演讲" />
+    <category term="励志" />
+    <category term="时间" />
     <category term="游泳" />
     <category term="蔬食" />
     <category term="声音训练" />
@@ -236,7 +237,7 @@
 &lt;p&gt;第一次参加 STM32 创客秀，选了自由组，最终闯入了决赛，去了一趟上海，拿了个二等奖。也认识了很多创客伙伴，见了一些认识好久的网友，还是挺奇妙的！&lt;/p&gt;
 &lt;h2 id=&#34;作品介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#作品介绍&#34;&gt;#&lt;/a&gt; 作品介绍&lt;/h2&gt;
 &lt;p&gt;基于 STM32 和 RT-Thread 实现的空气质量监测设备，搭配 Web 服务端和微信小程序，可实现数据存储、分析，实时查看。&lt;/p&gt;
-&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=371380688&amp;bvid=BV1rZ4y1u7p6&amp;cid=217010228&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=371380688&amp;bvid=BV1rZ4y1u7p6&amp;cid=217010228&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;该项目具有如下特性：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;支持众多 MCU，包括 STM32 Nucleo 系列所有板卡；&lt;/li&gt;
@@ -279,7 +280,7 @@
 &lt;li&gt;代码和文档开源。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;作品展示&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#作品展示&#34;&gt;#&lt;/a&gt; 作品展示&lt;/h2&gt;
-&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=498551331&amp;bvid=BV1mK411p7jj&amp;cid=201704902&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=498551331&amp;bvid=BV1mK411p7jj&amp;cid=201704902&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;相关链接&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#相关链接&#34;&gt;#&lt;/a&gt; 相关链接&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9odW9kb25nLjIxaWMuY29tL3J0LXRocmVhZA==&#34;&gt;RT-Thread 应用创新设计大赛 2020 获奖名单&lt;/span&gt;&lt;/li&gt;

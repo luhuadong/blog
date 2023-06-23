@@ -19,14 +19,14 @@
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
-        <category>城市规划</category>
-        <category>Python</category>
-        <category>教孩子学编程</category>
         <category>管理</category>
         <category>程序员</category>
         <category>职场</category>
         <category>人生</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
@@ -48,21 +48,21 @@
         <category>可持续</category>
         <category>能源</category>
         <category>职业</category>
+        <category>时间管理</category>
         <category>milestone</category>
         <category>工作</category>
         <category>总结</category>
         <category>慈济</category>
         <category>生活</category>
         <category>RT-Thread</category>
-        <category>修身</category>
         <category>开源</category>
         <category>写书</category>
+        <category>修身</category>
         <category>思考</category>
         <category>幸福</category>
         <category>猫</category>
-        <category>时间管理</category>
-        <category>地铁</category>
         <category>Markdown</category>
+        <category>地铁</category>
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
@@ -72,15 +72,16 @@
         <category>纪录片</category>
         <category>自由</category>
         <category>电影</category>
-        <category>TED演讲</category>
-        <category>时间</category>
+        <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>
         <category>亲密关系</category>
         <category>农业</category>
         <category>报告</category>
-        <category>励志</category>
+        <category>TED</category>
         <category>演讲</category>
+        <category>励志</category>
+        <category>时间</category>
         <category>游泳</category>
         <category>蔬食</category>
         <category>声音训练</category>
@@ -97,10 +98,10 @@
             <category>幸福</category>
             <pubDate>Sat, 04 Sep 2021 11:48:17 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;记得小学语文课本有一篇文章 ——《幸福是什么》，当时没看懂。直到最近，感觉自己不太幸福，所以重新读了这篇文章。文章其实很短，讲三个牧羊的小孩在树林里清理一口老泉，善举感动了森林里的智慧女神，简单的对话引发了孩子们对幸福的思考。后来三个孩子选择了不同的人生道路，十年后在小井旁相遇了，他们都明白了什么是幸福 —— &lt;strong&gt;幸福要靠劳动，要靠很好地尽自己的义务，做出对人们有益的事情。&lt;/strong&gt;&lt;/p&gt;
-&lt;img data-src=&#34;/images/static/what-happiness-is.jpg&#34; alt=&#34;幸福&#34; width=600 /&gt;
+&lt;img data-src=&#34;/images/static/what-happiness-is.jpg&#34; alt=&#34;幸福&#34; title=&#34;幸福是什么？&#34; width=600 /&gt;
 &lt;p&gt;虽然文章给出了幸福的含义，就是脚踏实地、做个对社会有价值的人。但感觉还是比较空泛，缺少了一些深度和行动指导。毕竟只是一篇小学生课文，目的只是引发大家思考而已。&lt;/p&gt;
 &lt;p&gt;于是，我想起了《&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly91bmlvbi1jbGljay5qZC5jb20vamRjP2U9JmFtcDtwPUpGOEJBTWtKSzFvbFhnSUFVMWRZQ1VzZkExOElHRklSV3dVQ1ZXNFpWeE5KWEY5UlhoNVVIdzBjU2dZWVhCY0lXRG9YU1FWSlF3WUJYVnBiQzBzV0hEWk5Sd1lsQlVGMFBBMEphengxZUNjS1JEeENHVzlSVUFjLVRrY2JNMjQ0RzFvVVh3TUNVRnRmRG5zbkEyZzRUVFVWWEFjRFZWOVZDRW9TTTI0NEcxd1hYQTREVlZaYkRra1dCVjhQRzFJbEFFSlFEaFlJV0FoRlMxODRLMWdsYlRZQ1pGMXRTaVVTQ20xWVQxeEhYUWRWVVF4WUMwZ1RDenNPRWxOQlhGUUFCZ3BaVzBJV0NsOEtHbG9SVkRZ&#34;&gt;少即是多：北欧自由生活意见&lt;/span&gt;》这本书里面提到的 “新幸福的十大标准” 概念。&lt;/p&gt;
-&lt;img data-src=&#34;/images/static/new-happiness-define-01.jpeg&#34; width=600 /&gt;
+&lt;img data-src=&#34;/images/static/new-happiness-define-01.jpeg&#34; title=&#34;新幸福的十大标准&#34; width=480 /&gt;
 &lt;p&gt;管理学大师彼得・德鲁克曾经说过 “It you can’t measure it, you can’t manage it”（你如果无法度量它，就无法管理它）。我在想 —— 我们能否对幸福进行有效管理呢？如果能对幸福进行度量，那是不是就能看到迈向幸福的光明大道？&lt;/p&gt;
 &lt;p&gt;幸福是一种主观感受，确实难以度量，而 “新幸福的十大标准” 可以理解为是一种度量幸福的方法和指标。那我们就来试试，看看能够通过逐步靠近这十个条件来获得幸福。&lt;/p&gt;
 &lt;p&gt;下面将结合书中的解释以及个人理解，详细介绍这十条幸福标准。&lt;/p&gt;

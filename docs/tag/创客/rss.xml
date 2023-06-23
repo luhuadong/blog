@@ -19,14 +19,14 @@
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
-        <category>城市规划</category>
-        <category>Python</category>
-        <category>教孩子学编程</category>
         <category>管理</category>
         <category>程序员</category>
         <category>职场</category>
         <category>人生</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
@@ -48,21 +48,21 @@
         <category>可持续</category>
         <category>能源</category>
         <category>职业</category>
+        <category>时间管理</category>
         <category>milestone</category>
         <category>工作</category>
         <category>总结</category>
         <category>慈济</category>
         <category>生活</category>
         <category>RT-Thread</category>
-        <category>修身</category>
         <category>开源</category>
         <category>写书</category>
+        <category>修身</category>
         <category>思考</category>
         <category>幸福</category>
         <category>猫</category>
-        <category>时间管理</category>
-        <category>地铁</category>
         <category>Markdown</category>
+        <category>地铁</category>
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
@@ -72,15 +72,16 @@
         <category>纪录片</category>
         <category>自由</category>
         <category>电影</category>
-        <category>TED演讲</category>
-        <category>时间</category>
+        <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>
         <category>亲密关系</category>
         <category>农业</category>
         <category>报告</category>
-        <category>励志</category>
+        <category>TED</category>
         <category>演讲</category>
+        <category>励志</category>
+        <category>时间</category>
         <category>游泳</category>
         <category>蔬食</category>
         <category>声音训练</category>
@@ -290,7 +291,7 @@ STEM 是科学（Science）、技术（Technology）、工程（Engineering）�
 &lt;p&gt;第一次参加 STM32 创客秀，选了自由组，最终闯入了决赛，去了一趟上海，拿了个二等奖。也认识了很多创客伙伴，见了一些认识好久的网友，还是挺奇妙的！&lt;/p&gt;
 &lt;h2 id=&#34;作品介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#作品介绍&#34;&gt;#&lt;/a&gt; 作品介绍&lt;/h2&gt;
 &lt;p&gt;基于 STM32 和 RT-Thread 实现的空气质量监测设备，搭配 Web 服务端和微信小程序，可实现数据存储、分析，实时查看。&lt;/p&gt;
-&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=371380688&amp;bvid=BV1rZ4y1u7p6&amp;cid=217010228&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=371380688&amp;bvid=BV1rZ4y1u7p6&amp;cid=217010228&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;该项目具有如下特性：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;支持众多 MCU，包括 STM32 Nucleo 系列所有板卡；&lt;/li&gt;
@@ -333,7 +334,7 @@ STEM 是科学（Science）、技术（Technology）、工程（Engineering）�
 &lt;li&gt;代码和文档开源。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;作品展示&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#作品展示&#34;&gt;#&lt;/a&gt; 作品展示&lt;/h2&gt;
-&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=498551331&amp;bvid=BV1mK411p7jj&amp;cid=201704902&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=498551331&amp;bvid=BV1mK411p7jj&amp;cid=201704902&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;相关链接&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#相关链接&#34;&gt;#&lt;/a&gt; 相关链接&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9odW9kb25nLjIxaWMuY29tL3J0LXRocmVhZA==&#34;&gt;RT-Thread 应用创新设计大赛 2020 获奖名单&lt;/span&gt;&lt;/li&gt;

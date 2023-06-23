@@ -19,14 +19,14 @@
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
-        <category>城市规划</category>
-        <category>Python</category>
-        <category>教孩子学编程</category>
         <category>管理</category>
         <category>程序员</category>
         <category>职场</category>
         <category>人生</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
@@ -48,21 +48,21 @@
         <category>可持续</category>
         <category>能源</category>
         <category>职业</category>
+        <category>时间管理</category>
         <category>milestone</category>
         <category>工作</category>
         <category>总结</category>
         <category>慈济</category>
         <category>生活</category>
         <category>RT-Thread</category>
-        <category>修身</category>
         <category>开源</category>
         <category>写书</category>
+        <category>修身</category>
         <category>思考</category>
         <category>幸福</category>
         <category>猫</category>
-        <category>时间管理</category>
-        <category>地铁</category>
         <category>Markdown</category>
+        <category>地铁</category>
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
@@ -72,15 +72,16 @@
         <category>纪录片</category>
         <category>自由</category>
         <category>电影</category>
-        <category>TED演讲</category>
-        <category>时间</category>
+        <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>
         <category>亲密关系</category>
         <category>农业</category>
         <category>报告</category>
-        <category>励志</category>
+        <category>TED</category>
         <category>演讲</category>
+        <category>励志</category>
+        <category>时间</category>
         <category>游泳</category>
         <category>蔬食</category>
         <category>声音训练</category>
@@ -89,19 +90,18 @@
         <category>零废弃</category>
         <category>低碳</category>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/movies/ted-you-dont-need-more-than-two-years.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/speech/ted-you-dont-need-more-than-two-years.html</guid>
             <title>【TED】改变自己，只需要两年时间</title>
-            <link>https://luhuadong.com/movies/ted-you-dont-need-more-than-two-years.html</link>
-            <category>奋斗</category>
-            <category>TED演讲</category>
+            <link>https://luhuadong.com/speech/ted-you-dont-need-more-than-two-years.html</link>
+            <category>TED</category>
+            <category>演讲</category>
             <category>时间</category>
             <pubDate>Tue, 07 Sep 2021 22:47:18 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;视频&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#视频&#34;&gt;#&lt;/a&gt; 视频&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;You don’t Need More Than Two Years&lt;/strong&gt;&lt;/p&gt;
-&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=883417381&amp;bvid=BV1TK4y1b77M&amp;cid=199198207&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+            <description><![CDATA[ &lt;h2 id=&#34;视频-you-dont-need-more-than-two-years&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#视频-you-dont-need-more-than-two-years&#34;&gt;#&lt;/a&gt; 视频 You don’t Need More Than Two Years&lt;/h2&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=883417381&amp;bvid=BV1TK4y1b77M&amp;cid=199198207&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;中英文对照&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#中英文对照&#34;&gt;#&lt;/a&gt; 中英文对照&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;两年可以做什么&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;两年可以做什么&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#两年可以做什么&#34;&gt;#&lt;/a&gt; 两年可以做什么&lt;/h3&gt;
 &lt;p&gt;Two years is nothing, but at the same time, a lot can be accomplished in two years. You can try a sport you’ve always wanted to start, and become a great at it.&lt;/p&gt;
 &lt;p&gt;两年时间不算什么，但在这段时间里，我们可以做很多事情。你可以尝试练习一项你一直想要开始的运动，然后成为一名高手。&lt;/p&gt;
 &lt;p&gt;You can start a morning routine, and affect your mood and stress at a deep level. You can meditate for a few minutes per day, become more self-aware and change the way you react to problem.&lt;/p&gt;
@@ -115,8 +115,11 @@
 &lt;p&gt;消极度日，两年转眼即逝。每天有目标地前进，两年就意味着更多的时间。这仅仅是看问题的角度不同而已。&lt;/p&gt;
 &lt;p&gt;There is nothing that cannot be accomplished in two years with enough effort.&lt;/p&gt;
 &lt;p&gt;如果足够努力，没有什么事情是两年内不能实现的。&lt;/p&gt;
+&lt;h3 id=&#34;开始做想做的事情&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#开始做想做的事情&#34;&gt;#&lt;/a&gt; 开始做想做的事情&lt;/h3&gt;
+&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Start something you’ve wanted to do.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;开始做你一直想做的事情。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;开始做你一直想做的事情&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;You’re not too old for the things you were dreaming of doing when you were a kid. You can still do extreme sports if you wish to. You can start playing a musical instrument. You can become a photographer. In two years from now, you’ll be great at it if you really want to.&lt;/p&gt;
 &lt;p&gt;对你年少时的梦想来说，你永远不会太老。只要你想，你还是能去做极限运动。你还是能去学习乐器。你还是能成为一名摄影师。从现在起的两年时间，只要你真的想要，你就能变得很厉害。&lt;/p&gt;
 &lt;p&gt;Don’t let your past indicate who you are. You don’t have to be the same person you have always been. Don’t let fear control you. Don’t let the social standards conform you. Age is just a number.&lt;/p&gt;
@@ -127,8 +130,11 @@
 &lt;p&gt;每天去做你喜欢做的事情，哪怕只有几分钟，你也会享受这个过程。&lt;/p&gt;
 &lt;p&gt;The days will become more than just a means to an end. You’ll see yourself evolving.&lt;/p&gt;
 &lt;p&gt;每天会变得更有意义，不会被虚度。你也会看到自己的进步。&lt;/p&gt;
+&lt;h3 id=&#34;保持自律&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#保持自律&#34;&gt;#&lt;/a&gt; 保持自律&lt;/h3&gt;
+&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Be in control&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;保持自律&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;If you have the choice between feeling great, energetic and in a positive mood, versus feeling sleepy and moody, what would you choose? It’s just a choice which combined with small, even tiny actions like reducing meat or alcohol consumption.&lt;/p&gt;
 &lt;p&gt;如果你能选择让自己感觉棒棒的，精力旺盛，乐观向上，亦或是疲惫着，喜怒无常，你会选哪一个？这就是个简单的选择，再加上小小的行动比如少吃肉或少喝酒.&lt;/p&gt;
 &lt;p&gt;or simply drinking more water, walking the stairs or biking to the office, you can do wonders. It’s not about the end goal, it’s about daily actions towards it.&lt;/p&gt;
@@ -139,16 +145,22 @@
 &lt;p&gt;用纪录片和书籍取代电视节目和电影。加强监督自己的日常，控制自己利用时间的方式。夺回你对健康、情绪和时间的掌控权。&lt;/p&gt;
 &lt;p&gt;Practive gratefulness. See the results in two years.&lt;/p&gt;
 &lt;p&gt;学会感激。两年后见分晓。&lt;/p&gt;
+&lt;h3 id=&#34;压制你的自负&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#压制你的自负&#34;&gt;#&lt;/a&gt; 压制你的自负&lt;/h3&gt;
+&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Silence your ego&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;压制你的自负&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Be kind with people. Start with your family, don’t go mad one more time. Stop judging, see the good in them, and remember that you love them more than anything.&lt;/p&gt;
 &lt;p&gt;善待他人，再也不要和家人发火。停止批判，看见他们好的那面，并记得你爱他们超过一切。&lt;/p&gt;
 &lt;p&gt;In your working life, being kind and nice can bring you more respect from people who surround you than being bossy and aggressive. Learn to say ‘No’ often (for the right reasons), people will accept it more and value your ‘Yes’ more, because your times’ value will increase.&lt;/p&gt;
 &lt;p&gt;在职场上，与人为善，相比发号施令和争强好胜，这会让你周围的人更尊重你。学会在正当理由下多说 “不”，这样人们会更容易接受，且更看重你说的 “好”，因为你的时间价值会增加。&lt;/p&gt;
 &lt;p&gt;You don’t need to be scary to be respected. It’s about building trust and healthy long term relationships. Try this and in two years from now your reality will be so different. Silence your ego, love and trust others enough for two years, harvest for ten years or more.&lt;/p&gt;
 &lt;p&gt;你不用通过变得吓人去获得尊重。重点是要建立起相互信任且健康的长期关系。试试看，从现在开始起的两年，你的生活将会变得大不同。用两年时间去压制你的自负，去爱和信任他人，十年甚至更长的时间你都会因此受益。&lt;/p&gt;
+&lt;h3 id=&#34;设定一个长期的目标&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#设定一个长期的目标&#34;&gt;#&lt;/a&gt; 设定一个长期的目标&lt;/h3&gt;
+&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Set long term goals and do small actions everyday towards them.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;设定一个长期的目标，然后坚持每天即便是微小的行动。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;It has a lot to do with setting goals, but goals without actions are just wishes. The easiest way to reach goals is through daily and consistent small (even tiny) actions. It’s all about consistency, commitment, and regularity. Success is not an event, it’s a process and a mindset.&lt;/p&gt;
 &lt;p&gt;这和目标的设定有很大的关系，但光有目标没有行动就只能是美好的愿望而已。最简单达成目标的方法就是，每天都坚持微小的行动。一切都在于要建立一致性、要坚持付出和养成规律。成功不是一个偶然事件，它是个长久的过程和心态。&lt;/p&gt;
 &lt;p&gt;Small actions are putting you in the position of succeeding. Small actions make huge differences.&lt;/p&gt;
@@ -160,15 +172,16 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/movies/ted-why-30-is-not-the-new-20.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/speech/ted-why-30-is-not-the-new-20.html</guid>
             <title>【TED】20岁到30岁，是你最不可挥霍的光阴</title>
-            <link>https://luhuadong.com/movies/ted-why-30-is-not-the-new-20.html</link>
-            <category>TED演讲</category>
+            <link>https://luhuadong.com/speech/ted-why-30-is-not-the-new-20.html</link>
+            <category>TED</category>
+            <category>演讲</category>
             <category>时间</category>
             <pubDate>Mon, 18 May 2020 22:47:18 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;视频&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#视频&#34;&gt;#&lt;/a&gt; 视频&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Why 30 is not the new 20&lt;/strong&gt;&lt;/p&gt;
-&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=54802233&amp;bvid=BV1B4411K7Rb&amp;cid=95852081&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=54802233&amp;bvid=BV1B4411K7Rb&amp;cid=95852081&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;中英文对照&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#中英文对照&#34;&gt;#&lt;/a&gt; 中英文对照&lt;/h2&gt;
 &lt;p&gt;When I was in my 20s, I saw my very first psychotherapy client. I was a Ph.D. student in clinical psychology at Berkeley. She was a 26-year-old woman named Alex.&lt;/p&gt;

@@ -16,14 +16,14 @@
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
-    <category term="城市规划" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
     <category term="人生" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -45,21 +45,21 @@
     <category term="可持续" />
     <category term="能源" />
     <category term="职业" />
+    <category term="时间管理" />
     <category term="milestone" />
     <category term="工作" />
     <category term="总结" />
     <category term="慈济" />
     <category term="生活" />
     <category term="RT-Thread" />
-    <category term="修身" />
     <category term="开源" />
     <category term="写书" />
+    <category term="修身" />
     <category term="思考" />
     <category term="幸福" />
     <category term="猫" />
-    <category term="时间管理" />
-    <category term="地铁" />
     <category term="Markdown" />
+    <category term="地铁" />
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
@@ -69,15 +69,16 @@
     <category term="纪录片" />
     <category term="自由" />
     <category term="电影" />
-    <category term="TED演讲" />
-    <category term="时间" />
+    <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
     <category term="亲密关系" />
     <category term="农业" />
     <category term="报告" />
-    <category term="励志" />
+    <category term="TED" />
     <category term="演讲" />
+    <category term="励志" />
+    <category term="时间" />
     <category term="游泳" />
     <category term="蔬食" />
     <category term="声音训练" />
@@ -111,25 +112,25 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
         <id>https://luhuadong.com/journal/20210129.html</id>
         <title>《开源指北》之我和开源的故事</title>
         <link rel="alternate" href="https://luhuadong.com/journal/20210129.html"/>
-        <content type="html">&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20210129192536884.png&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/journal/20210129192536884.png&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;【开源指北 1.0 发布】和你做过最酷的事，就是一起「写书」&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;去年参加的《&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRlZS5jb20vb3BlbnNvdXJjZS1ndWlkZQ==&#34;&gt;开源指北&lt;/span&gt;》编写计划最近正式发布啦！&lt;/p&gt;
 &lt;p&gt;我大概是最早加入该项目的非官方成员之一，因为我几乎每天都会登陆 Gitee 网站，在去年十月中旬就看到该项目的招募计划，然后就领取了第一章第一节的编写任务 —— &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRlZS5jb20vZ2l0ZWUtY29tbXVuaXR5L29wZW5zb3VyY2UtZ3VpZGUvaXNzdWVzL0kxVFRNQw==&#34;&gt;初识开源： 什么是开源？&lt;/span&gt;，接下来两个月里又陆陆续续补充了其他章节的内容。（文章末尾看到「阿基米东」的就是啦～）&lt;/p&gt;
-&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=671252058&amp;bvid=BV1pU4y147Fu&amp;cid=288508137&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=671252058&amp;bvid=BV1pU4y147Fu&amp;cid=288508137&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;可以说，如果不是因为开源，我是不会选择成为一名程序员的。&lt;/p&gt;
 &lt;p&gt;我接触计算机非常晚，高考之后家里才有了第一台电脑，也是那时候我才开始学习怎么上网、怎么下载、怎么搜索…（所以真的很羡慕现在的小朋友呢）。但也正是因为接触电脑太晚了，所以我没有时间玩游戏，也没有受 Windows 闭源思想和盗版软件的毒害。&lt;/p&gt;
 &lt;p&gt;大二接触 Linux 之后就被开源思想吸引了，开始了解自由软件运动和开源软件的发展史。甚至有一段时间成了 Richard Stallman 的狂热粉丝，捉住机会就给别人讲这段历史和我对自由的理解和追求，以及抛弃所有不自由的软件工具。&lt;/p&gt;
 &lt;p&gt;后来我发现这对我来说是不对的，不是不再认同 Richard Stallman 的理念，而是当下作为一个普通人，更多需要考虑的是如何在理想与现实中找到一个平衡点，让自己尽快成长起来。当你变得更强大了，你才能得到真正的自由，才能帮助别人也走向自由。&lt;/p&gt;
 &lt;p&gt;Richard Stallman 不仅是一名杰出的程序员，还是一名伟大的思想家。从这一角度来说，Richard Stallman 和我另一位偶像 —— Nikola Tesla 还挺像的。我当然也希望自己也能成为这样的人，只不过从实践的角度出发，我可能会更倾向于 Linus Torvalds 和 Thomas Edison 的做法。&lt;/p&gt;
-&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=76947870&amp;bvid=BV1VJ411R7h2&amp;cid=131611138&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=76947870&amp;bvid=BV1VJ411R7h2&amp;cid=131611138&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;说回这个《开源指北》，是一个不错的项目！项目背景是在动荡的国际形势通过开源软件的方式增强中国基础软件的实力，因此在开源中国和开放原子基金会的支持下，以开源的形式编写一份给开源新手的保姆级开源百科，并以在线文档的形式对外开放阅读和持续迭代。&lt;/p&gt;
 &lt;p&gt;虽说我早已是自由和开源软件的忠实拥趸，但真的写书的时候才感到压力，于是我又重新阅读相关书籍和网络资料，希望写出来的东西是正确、严谨，并且有趣的。&lt;/p&gt;
 &lt;p&gt;说实话，教比学更难，也更有趣！我在这个过程中，学到了不少东西，比如加深了对开源软件概念、开源社区治理、组织架构、开源软件商业化的理解，也认识到了一些有趣的贡献者、扩充了知识面。更有趣的是，《开源指北》项目本身就是以这种形式在进行，还在上大学的时候，我就曾无数次想象用开源方式写书这件事情。我觉得教科书是最应该采用开源形式持续维护的，以集体贡献、公开的评审的方式决定教科书的内容，教给孩子们正确的知识、培养孩子们独立思考、合作分享的能力。&lt;/p&gt;
-&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20210129193115151.jpg&#34; width=&#34;600&#34; /&gt;
+&lt;img data-src=&#34;/images/journal/20210129193115151.jpg&#34; width=&#34;600&#34; /&gt;
 &lt;p&gt;前面说了，我接触电脑很晚，学习编程更晚。不过我觉得幸运的是，我接触电脑不久就进入了 Linux 的世界，学习编程不久就学会了 Git 魔法工具。最近 5 年，我已经将 Ubuntu 变成了我的主力系统，将 Git 相关工具变成的我的资料库，加上各种 SaaS 云服务，能帮助我在不断成长的同时保持轻装上阵，而不是处处受限。这也是我常常建议大家，无论是否是开发者，都应该了解开源软件和开源协作方式的原因。&lt;/p&gt;
 &lt;p&gt;世界上有两种知识，一种是你知道的，一种是你知道在哪里能找到的。在现代分工如此精细的社会框架下，许多时候我们都是站在前人的肩膀上前进，这时候你知道在哪里能找到你想要的东西的能力就变得很重要了！而这恰恰是 Linux 哲学和开源协作模式能给我们带来的。懂的人，将会变得越来越厉害。&lt;/p&gt;
 &lt;p&gt;希望这份保姆级的《&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRlZS5jb20vb3BlbnNvdXJjZS1ndWlkZQ==&#34;&gt;开源指北&lt;/span&gt;》能带你进入一个新的世界！释放你的创造力～&lt;/p&gt;
-&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20210129193133537.jpeg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img data-src=&#34;/images/journal/20210129193133537.png&#34; width=&#34;400&#34; /&gt;
 </content>
         <category term="开源" />
         <category term="写书" />
@@ -139,7 +140,7 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
         <id>https://luhuadong.com/movies/revolution-os.html</id>
         <title>【纪录片】操作系统革命（Revolution OS）</title>
         <link rel="alternate" href="https://luhuadong.com/movies/revolution-os.html"/>
-        <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=796140504&amp;bvid=BV1iC4y187nT&amp;cid=235560964&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+        <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=796140504&amp;bvid=BV1iC4y187nT&amp;cid=235560964&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;非常经典的有关自由软件运动的纪录片&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5yZXZvbHV0aW9uLW9zLmNvbQ==&#34;&gt;http://www.revolution-os.com&lt;/span&gt;&lt;/p&gt;
 </content>
@@ -152,7 +153,7 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
         <id>https://luhuadong.com/movies/patent-absurdity.html</id>
         <title>【纪录片】软件专利的荒谬性（Patent Absurdity）</title>
         <link rel="alternate" href="https://luhuadong.com/movies/patent-absurdity.html"/>
-        <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=15221360&amp;bvid=BV1sx411u7qy&amp;cid=24774214&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+        <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=15221360&amp;bvid=BV1sx411u7qy&amp;cid=24774214&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;官网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3BhdGVudGFic3VyZGl0eS5jb20vd2F0Y2guaHRtbA==&#34;&gt;http://patentabsurdity.com/watch.html&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;导演、拍摄、编辑：Luca Lucarini&lt;/li&gt;

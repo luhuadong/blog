@@ -117,12 +117,12 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
       </div>
       <div id="imgs" class="pjax">
         <ul>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/MinouLighthouse.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/JavaBromo.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/JTNPMilkyWay.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/PicoVolcano.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/MPPUnesco.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/AgueroSpain.jpg"></li>
           <li class="item" data-background-image="https://luhuadong.com/images/default/NIrelandGiants.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/YuanyangChina.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/WhitehorseAurora.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/EdaleValley.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/EuropeFromISS.jpg"></li>
         </ul>
       </div>
     </header>
@@ -277,17 +277,17 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <p>对于我来说，目前最常用的是 Typora 和 VS Code 这两款免费、跨平台的编辑器，下面简单介绍一下安装过程。</p>
 <h2 id="typora"><a class="markdownIt-Anchor" href="#typora">#</a> Typora</h2>
 <p>打开 Typora 的官网 <span class="exturl" data-url="aHR0cHM6Ly90eXBvcmEuaW8=">https://typora.io</span>，点击 Download 标签，对于 Windows 和 macOS 用户，直接下载安装包进行安装即可。对于 Linux 用户稍微复杂一些，比如 Ubuntu 用户可以执行如下命令进行安装或更新。</p>
-<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#</span><span class="bash"> or run:</span></span><br><span class="line"><span class="meta">#</span><span class="bash"> sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys BA300B7755AFCFAE</span></span><br><span class="line">wget -qO - https://typora.io/linux/public-key.asc | sudo apt-key add -</span><br><span class="line"><span class="meta"></span></span><br><span class="line"><span class="meta">#</span><span class="bash"> add Typora<span class="string">&#x27;s repository</span></span></span><br><span class="line">sudo add-apt-repository &#x27;deb https://typora.io/linux ./&#x27;</span><br><span class="line">sudo apt-get update</span><br><span class="line"><span class="meta"></span></span><br><span class="line"><span class="meta">#</span><span class="bash"><span class="string"> install typora</span></span></span><br><span class="line">sudo apt-get install typora</span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># or run:</span></span><br><span class="line"><span class="comment"># sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys BA300B7755AFCFAE</span></span><br><span class="line">wget -qO - https://typora.io/linux/public-key.asc | sudo apt-key add -</span><br><span class="line"></span><br><span class="line"><span class="comment"># add Typora&#x27;s repository</span></span><br><span class="line">sudo add-apt-repository <span class="string">&#x27;deb https://typora.io/linux ./&#x27;</span></span><br><span class="line">sudo apt-get update</span><br><span class="line"></span><br><span class="line"><span class="comment"># install typora</span></span><br><span class="line">sudo apt-get install typora</span><br></pre></td></tr></table></figure>
 <p>Typora 非常简洁，提供流畅的即时预览界面，而不是分栏设计，可以让你在一个屏幕上看到更多内容，甚至忘记自己在写 Markdown。</p>
-<p><img data-src="https://img-blog.csdnimg.cn/20210307130330755.png" alt="在这里插入图片描述"></p>
+<p><img data-src="/images/md/20210307130330755.png" alt="在这里插入图片描述" title="Typora 编辑器"></p>
 <h2 id="vs-code"><a class="markdownIt-Anchor" href="#vs-code">#</a> VS Code</h2>
 <p>打开 VS Code 的官网 <span class="exturl" data-url="aHR0cHM6Ly9jb2RlLnZpc3VhbHN0dWRpby5jb20=">https://code.visualstudio.com</span> 下载对应平台的安装包，进行安装即可。也可以在系统的应用商店找到，直接安装。</p>
 <p>唯一值得提醒的是，如何安装 Markdown 插件，并且启动预览界面。</p>
 <p>点击左侧栏的 Extensions 图标，输入 Markdown 进行搜索。由于 VS Code 支持第三方插件，因此你会看到许多不同的 Markdown 插件，我们安装第一个 Markdown All in One 即可，点击 Install 进行安装。</p>
-<p><img data-src="https://img-blog.csdnimg.cn/20210307130354210.png" alt="在这里插入图片描述"></p>
+<p><img data-src="/images/md/20210307130354210.png" alt="在这里插入图片描述" title="安装 Markdown All in One 插件"></p>
 <p>安装完成后打开或新建一个 .md 文档，在编辑区的右上角可以看到几个小按钮，点击中间那个 preview 即可实时预览 Markdown 渲染后的效果。</p>
-<p><img data-src="https://img-blog.csdnimg.cn/20210307130407531.png" alt="在这里插入图片描述"></p>
-<p><img data-src="https://img-blog.csdnimg.cn/20210307130420679.png" alt="在这里插入图片描述"></p>
+<p><img data-src="/images/md/20210307130407531.png" alt="在这里插入图片描述" title="点击中间的 preview 按钮"></p>
+<p><img data-src="/images/md/20210307130420679.png" alt="在这里插入图片描述" title="VS Code 渲染 Markdown 效果"></p>
 <p>好啦，关于 Markdown 编辑器的选择与安装就先到这里了，下一节我们正式开始学习 Markdown 的语法。</p>
 
       <div class="tags">
@@ -303,7 +303,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
       <i class="ic i-calendar-check"></i>
     </span>
     <span class="text">更新于</span>
-    <time title="修改时间：2023-06-07 16:23:32" itemprop="dateModified" datetime="2023-06-07T16:23:32+08:00">2023-06-07</time>
+    <time title="修改时间：2023-06-23 17:41:26" itemprop="dateModified" datetime="2023-06-23T17:41:26+08:00">2023-06-23</time>
   </span>
   <span id="markdown/markdown-editor.html" class="item leancloud_visitors" data-flag-title="盘点好用的 Markdown 编辑器" title="阅读次数">
       <span class="icon">
@@ -366,7 +366,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <div class="item left">
       
 
-  <a href="/markdown/markdown-intro.html" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;NIrelandGiants.jpg" title="三分钟成为 Markdown 专家">
+  <a href="/markdown/markdown-intro.html" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;AgueroSpain.jpg" title="三分钟成为 Markdown 专家">
   <span class="type">上一篇</span>
   <span class="category"><i class="ic i-flag"></i> 一起学Markdown</span>
   <h3>三分钟成为 Markdown 专家</h3>
@@ -376,7 +376,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <div class="item right">
       
 
-  <a href="/markdown/markdown-basic-syntax.html" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;ProcidaItaly.jpg" title="快速了解 Markdown 基础语法">
+  <a href="/markdown/markdown-basic-syntax.html" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;MinouLighthouse.jpg" title="快速了解 Markdown 基础语法">
   <span class="type">下一篇</span>
   <span class="category"><i class="ic i-flag"></i> 一起学Markdown</span>
   <h3>快速了解 Markdown 基础语法</h3>
@@ -416,19 +416,19 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <nav class="state">
     <div class="item posts">
       <a href="/archives/">
-        <span class="count">312</span>
+        <span class="count">321</span>
         <span class="name">文章</span>
       </a>
     </div>
     <div class="item categories">
       <a href="/categories/">
-        <span class="count">36</span>
+        <span class="count">37</span>
         <span class="name">分类</span>
       </a>
     </div>
     <div class="item tags">
       <a href="/tags/">
-        <span class="count">81</span>
+        <span class="count">82</span>
         <span class="name">标签</span>
       </a>
     </div>
@@ -521,13 +521,13 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <span class="post-meta-item-icon">
       <i class="ic i-chart-area"></i>
     </span>
-    <span title="站点总字数">631k 字</span>
+    <span title="站点总字数">637k 字</span>
 
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="ic i-coffee"></i>
     </span>
-    <span title="站点阅读时长">9:34</span>
+    <span title="站点阅读时长">9:39</span>
   </div>
   <div class="powered-by">
     基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>

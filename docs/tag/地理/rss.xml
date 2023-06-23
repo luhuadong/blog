@@ -5,8 +5,8 @@
         <link>https://luhuadong.com</link>
         <description>阿基米东的网络日志</description>
         <language>zh-CN</language>
-        <pubDate>Thu, 16 Sep 2021 10:11:09 +0800</pubDate>
-        <lastBuildDate>Thu, 16 Sep 2021 10:11:09 +0800</lastBuildDate>
+        <pubDate>Thu, 22 Jun 2023 17:28:36 +0800</pubDate>
+        <lastBuildDate>Thu, 22 Jun 2023 17:28:36 +0800</lastBuildDate>
         <category>商业</category>
         <category>成长</category>
         <category>日记</category>
@@ -19,14 +19,14 @@
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
-        <category>城市规划</category>
-        <category>Python</category>
-        <category>教孩子学编程</category>
         <category>管理</category>
         <category>程序员</category>
         <category>职场</category>
         <category>人生</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
@@ -48,21 +48,21 @@
         <category>可持续</category>
         <category>能源</category>
         <category>职业</category>
+        <category>时间管理</category>
         <category>milestone</category>
         <category>工作</category>
         <category>总结</category>
         <category>慈济</category>
         <category>生活</category>
         <category>RT-Thread</category>
-        <category>修身</category>
         <category>开源</category>
         <category>写书</category>
+        <category>修身</category>
         <category>思考</category>
         <category>幸福</category>
         <category>猫</category>
-        <category>时间管理</category>
-        <category>地铁</category>
         <category>Markdown</category>
+        <category>地铁</category>
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
@@ -72,15 +72,16 @@
         <category>纪录片</category>
         <category>自由</category>
         <category>电影</category>
-        <category>TED演讲</category>
-        <category>时间</category>
+        <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>
         <category>亲密关系</category>
         <category>农业</category>
         <category>报告</category>
-        <category>励志</category>
+        <category>TED</category>
         <category>演讲</category>
+        <category>励志</category>
+        <category>时间</category>
         <category>游泳</category>
         <category>蔬食</category>
         <category>声音训练</category>
@@ -88,6 +89,31 @@
         <category>垃圾分类</category>
         <category>零废弃</category>
         <category>低碳</category>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/map/china-railway-highspeed.html</guid>
+            <title>中国高铁线路图（2023年最新）</title>
+            <link>https://luhuadong.com/map/china-railway-highspeed.html</link>
+            <category>地理</category>
+            <category>城市</category>
+            <pubDate>Thu, 22 Jun 2023 17:28:36 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;中国铁路高速列车，简称 “高铁”，英文缩写 CRH，即 China Railway High-speed，是中国铁路总公司高速铁路列车（动车组）的品牌名称。&lt;/p&gt;
+&lt;p&gt;截止 2022 年底，中国高铁运营里程达到 4.2 万公里，稳居世界第一。包括 2010 年开通的全世界最长的武广高铁，2011 年开通的京沪高铁，以及紧随其后开通的沪昆高铁、沪杭高铁、哈大高铁、西成高铁、郑西高铁等线路。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/map/China_Railway_Highspeed_2023_Small.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;中国铁路高速列车主要分为 “高铁” 和 “动车” 两大类。其中，高铁以字母 G 开头，通常是跨省的线路；动车以字母 D 开头，通常是跨市的城际线路。此外，部分地区还有 C 字头列车，它代表运行距离短、以管内列车为主的城际动车组，最高运行速度为 300km/h；以及 S 字头列车，即市域列车，比如上海的金山列车。&lt;/p&gt;
+&lt;p&gt;G 字头列车和 D 字头列车的主要区别包括以下几方面：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;速度不同。G 字头列车速度比 D 字头快，D 字头列车设计时速为 250-350km/h，运行最高时速为 300-350km/h；而 D 字头时速为 160-250km/h，运行最高时速为 200-250km/h。&lt;/li&gt;
+&lt;li&gt;线路不同。G 字头列车一般运行在高铁线路上，而 D 字头列车不仅能在高铁线路上运行，也能在普通铁路上运行。&lt;/li&gt;
+&lt;li&gt;车型不同。G 字头使用车型为 CRH2C、CRH3、CRH380、CR400 系列动车组等；而 D 字头使用车型为 CRH1、CRH2（除 2C）、CRH5 系列动车组等。&lt;/li&gt;
+&lt;li&gt;内部设备和环境不同。通常 G 字头车型内部设备要比 D 字头好一些，更先进，比如 “复兴号” 动车组列车基本上都是 G 字头。D 字头列车一般只有一等座、二等座，而 G 字头绝大部分列车除了设有一等座，还有商务座、特等座，环境更好。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;高铁对中国的意义&lt;/strong&gt;：高铁发展以前，中国很多中小城市因为地域关系导致经济发展的不平衡，高铁的发展让小城市有了更多和世界接轨的发展新机遇，高铁的快速发展影响的不光是生活方式，同时也影响着各个产业的发展。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/images/map/China_Railway_Highspeed_2023.pdf&#34;&gt;【PDF】中国高铁线路图（高清）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/images/map/China_Railway_Highspeed_2023.png&#34;&gt;【PNG】中国高铁线路图（高清）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/geography/time-and-timezone-list.html</guid>
             <title>时间和世界时区</title>

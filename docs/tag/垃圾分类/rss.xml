@@ -19,14 +19,14 @@
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
-        <category>城市规划</category>
-        <category>Python</category>
-        <category>教孩子学编程</category>
         <category>管理</category>
         <category>程序员</category>
         <category>职场</category>
         <category>人生</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
@@ -48,21 +48,21 @@
         <category>可持续</category>
         <category>能源</category>
         <category>职业</category>
+        <category>时间管理</category>
         <category>milestone</category>
         <category>工作</category>
         <category>总结</category>
         <category>慈济</category>
         <category>生活</category>
         <category>RT-Thread</category>
-        <category>修身</category>
         <category>开源</category>
         <category>写书</category>
+        <category>修身</category>
         <category>思考</category>
         <category>幸福</category>
         <category>猫</category>
-        <category>时间管理</category>
-        <category>地铁</category>
         <category>Markdown</category>
+        <category>地铁</category>
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
@@ -72,15 +72,16 @@
         <category>纪录片</category>
         <category>自由</category>
         <category>电影</category>
-        <category>TED演讲</category>
-        <category>时间</category>
+        <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>
         <category>亲密关系</category>
         <category>农业</category>
         <category>报告</category>
-        <category>励志</category>
+        <category>TED</category>
         <category>演讲</category>
+        <category>励志</category>
+        <category>时间</category>
         <category>游泳</category>
         <category>蔬食</category>
         <category>声音训练</category>
@@ -907,7 +908,7 @@
 &lt;p&gt;案例：宜居广州 &amp;amp; 惜福环保 -&amp;gt; 承包广东翁源整个县的垃圾分类工作&lt;/p&gt;
 &lt;p&gt;对垃圾进行焚烧和填埋都是劣等方案，垃圾渗滤液中含有多种有毒有害的无机物和有机物。&lt;/p&gt;
 &lt;h3 id=&#34;影片中途岛上的候鸟&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#影片中途岛上的候鸟&#34;&gt;#&lt;/a&gt; 影片《中途岛上的候鸟》&lt;/h3&gt;
-&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=16475092&amp;bvid=BV1Dx411L75W&amp;cid=26872729&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=16475092&amp;bvid=BV1Dx411L75W&amp;cid=26872729&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;把垃圾扔掉就可以了吗？&lt;/p&gt;
 &lt;p&gt;洋流把太平洋沿岸的垃圾裹挟到中途岛周边。在岛上筑巢的信天翁贴着波浪寻找食物的时候，常常把海面上的塑料垃圾当作鱼虾。这种翅展可达 2 米以上的大鸟，一次觅食要飞行几千公里，往返一次需要数天时间。为了填饱幼鸟，它们不知疲倦地在大海和巢穴之间飞行，却误把垃圾填进幼鸟的嘴和胃里，直到把幼鸟撑死。&lt;/p&gt;
 &lt;p&gt;巴索：“我的心里受不了，所以一定要解决这个问题。”&lt;/p&gt;

@@ -19,14 +19,14 @@
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
-        <category>城市规划</category>
-        <category>Python</category>
-        <category>教孩子学编程</category>
         <category>管理</category>
         <category>程序员</category>
         <category>职场</category>
         <category>人生</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
@@ -48,21 +48,21 @@
         <category>可持续</category>
         <category>能源</category>
         <category>职业</category>
+        <category>时间管理</category>
         <category>milestone</category>
         <category>工作</category>
         <category>总结</category>
         <category>慈济</category>
         <category>生活</category>
         <category>RT-Thread</category>
-        <category>修身</category>
         <category>开源</category>
         <category>写书</category>
+        <category>修身</category>
         <category>思考</category>
         <category>幸福</category>
         <category>猫</category>
-        <category>时间管理</category>
-        <category>地铁</category>
         <category>Markdown</category>
+        <category>地铁</category>
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
@@ -72,15 +72,16 @@
         <category>纪录片</category>
         <category>自由</category>
         <category>电影</category>
-        <category>TED演讲</category>
-        <category>时间</category>
+        <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>
         <category>亲密关系</category>
         <category>农业</category>
         <category>报告</category>
-        <category>励志</category>
+        <category>TED</category>
         <category>演讲</category>
+        <category>励志</category>
+        <category>时间</category>
         <category>游泳</category>
         <category>蔬食</category>
         <category>声音训练</category>
@@ -597,7 +598,7 @@
             <pubDate>Mon, 23 Mar 2020 18:48:08 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;蓦然回首自己做软件开发这个行业已经十年了，这十年中我获得了很多，技术能力、培训、出国、大公司的经历，还有很多很好的朋友。但再仔细一想，这十年中我至少浪费了五年时间，这五年可以足够让自己成长为一个优秀的程序员，可惜我错过了，我用这五年时间和很多程序员一样在困惑和迷茫中找不到出路！&lt;/p&gt;
 &lt;p&gt;路其实一直都在那里，只是我们看不到而已！&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20200323184559651.jpg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/career/20200323184559651.jpg&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;
 &lt;p&gt;以前我一直被公司和技术牵着走，并不是自己在选择技术，而是不自觉地被推到了这个位置上。想想有多少人对于自己将来要从事的职业和技术类型进行过深入思考和比较呢？当我跳出编码后，我开始思考和程序及程序员职业生涯相关的问题，最后发现，影响我们走入今天的困局的竟然是一些我们常常挂在嘴边的话（观念）。今天，就为大家指出这几个重要的可能是你已经习以为常的观念，希望大家深入的思考一下这些观念对你的危害。如果你还年轻，刚从事软件开发这行没多久，也希望指出这些问题能让你跳过一些误区，不要像我一样多浪费五年时间。&lt;/p&gt;
 &lt;h2 id=&#34;观念一-别管我我只想一个人安静地写代码&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#观念一-别管我我只想一个人安静地写代码&#34;&gt;#&lt;/a&gt; 观念一： “别管我，我只想一个人安静地写代码！”&lt;/h2&gt;
 &lt;p&gt;是不是每天想安安静静地写代码时，IM 窗口或者 Email 总会不合时宜地弹出各种提示，一会要开会啦一会要讨论需求了，再一会测试又来和你理论 Bug 了。世界这么喧嚣，还让不让人安静地写代码了？“别管我，我只想一个人安静地写代码”，这句话道出了多少程序员的心声啊，我们都想 “静静”！不过今天我要告诉你，这种想法是多么的错误，并且严重影响了你职来生涯的发展。&lt;/p&gt;

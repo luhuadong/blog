@@ -16,14 +16,14 @@
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
-    <category term="城市规划" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
     <category term="人生" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -45,21 +45,21 @@
     <category term="可持续" />
     <category term="能源" />
     <category term="职业" />
+    <category term="时间管理" />
     <category term="milestone" />
     <category term="工作" />
     <category term="总结" />
     <category term="慈济" />
     <category term="生活" />
     <category term="RT-Thread" />
-    <category term="修身" />
     <category term="开源" />
     <category term="写书" />
+    <category term="修身" />
     <category term="思考" />
     <category term="幸福" />
     <category term="猫" />
-    <category term="时间管理" />
-    <category term="地铁" />
     <category term="Markdown" />
+    <category term="地铁" />
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
@@ -69,15 +69,16 @@
     <category term="纪录片" />
     <category term="自由" />
     <category term="电影" />
-    <category term="TED演讲" />
-    <category term="时间" />
+    <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
     <category term="亲密关系" />
     <category term="农业" />
     <category term="报告" />
-    <category term="励志" />
+    <category term="TED" />
     <category term="演讲" />
+    <category term="励志" />
+    <category term="时间" />
     <category term="游泳" />
     <category term="蔬食" />
     <category term="声音训练" />
@@ -1199,7 +1200,7 @@
     </entry>
     <entry>
         <id>https://luhuadong.com/reading/%E4%BB%8E%E5%9C%9F%E5%9C%B0%E5%88%B0%E9%A4%90%E6%A1%8C%E7%9A%84%E5%8F%98%E9%9D%A9.html</id>
-        <title>从土地到餐桌的变革——“新农人”变形记</title>
+        <title>《从土地到餐桌的变革——“新农人”变形记》</title>
         <link rel="alternate" href="https://luhuadong.com/reading/%E4%BB%8E%E5%9C%9F%E5%9C%B0%E5%88%B0%E9%A4%90%E6%A1%8C%E7%9A%84%E5%8F%98%E9%9D%A9.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/static/%E4%BB%8E%E5%9C%9F%E5%9C%B0%E5%88%B0%E9%A4%90%E6%A1%8C%E7%9A%84%E5%8F%98%E9%9D%A9.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;石嫣这本《从土地到餐桌的变革》详细记录了她在美国地升农场实习的经历和心理变化，让读者有一种身临其境的感觉，读完以后似乎自己也拥有了一段这样奇妙的生命旅程。不禁让我想起《冰与火之歌》里的一句话 “读书人的生命有一千次，不读书的人只有一次生命。”&lt;/p&gt;
@@ -1246,7 +1247,7 @@
 &lt;li&gt;其次，它是本地化的、新鲜的。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;这也正是有机农业所遵循的四个原则：健康、生态、关爱、公平。&lt;/p&gt;
-&lt;p&gt;** 其实 CSA 并没有一个固定的定义，每一个人所实践的 CSA 模式就是在给这个 CSA 的很多可能提供一种可能性。** 而每一个所从事的这个 CSA 模式正是对这个 CSA 的定义。比如依靠无农药无化肥的生产方式，和更直接的市场流通，使农业能够实现真正的可持续发展。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其实 CSA 并没有一个固定的定义，每一个人所实践的 CSA 模式就是在给这个 CSA 的很多可能提供一种可能性。&lt;/strong&gt; 而每一个所从事的这个 CSA 模式正是对这个 CSA 的定义。比如依靠无农药无化肥的生产方式，和更直接的市场流通，使农业能够实现真正的可持续发展。&lt;/p&gt;
 &lt;p&gt;总的来说，CSA 需要实现三个目标：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;城里居民能吃上健康、有机的食物；&lt;/li&gt;
@@ -1270,7 +1271,7 @@
 &lt;h2 id=&#34;真实的成本&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#真实的成本&#34;&gt;#&lt;/a&gt; 真实的成本&lt;/h2&gt;
 &lt;p&gt;由于有机产品的价格比普通产品高出不少，同时市场上还存在一些伪有机产品，这使得选择有机产品的人群仍是少数。如果你问为什么有机产品要卖那么贵？也许你应该问为什么普通产品卖得那么便宜？&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/static/%E7%9F%B3%E5%AB%A3_%E5%8C%97%E4%BA%AC%E6%9C%89%E6%9C%BA%E5%86%9C%E5%A4%AB%E5%B8%82%E9%9B%86.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;** 我们实际上现有购买的食物价格不是它真正的价格，我们要测算它真实的成本然后测算它的规模，它的规模可能不是单体农场的规模，可能是一个组织的规模，有形成组织的规模，也是一直在推导的农民的组织化规模。** 因为我们现在吃到的很多食物，后端还要去治理这些污染，包括种植或者养殖带来的环境问题等等，这部分并非由消费者直接支付，而是通过补贴等手段去治理这些污染。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我们实际上现有购买的食物价格不是它真正的价格，我们要测算它真实的成本然后测算它的规模，它的规模可能不是单体农场的规模，可能是一个组织的规模，有形成组织的规模，也是一直在推导的农民的组织化规模。&lt;/strong&gt; 因为我们现在吃到的很多食物，后端还要去治理这些污染，包括种植或者养殖带来的环境问题等等，这部分并非由消费者直接支付，而是通过补贴等手段去治理这些污染。&lt;/p&gt;
 &lt;p&gt;出乎很多人的意料，水土污染里最大的一个来源其实是农业污染。因农药化肥的大量使用、畜禽养殖业废弃物排放造成的污染，已成为中国面源污染的第一大污染源，远超工业源、生活源污染。&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/static/%E7%9F%B3%E5%AB%A3_%E5%96%B7%E6%B4%92%E9%99%A4%E8%8D%89%E5%89%82.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;美国农业的高度规模化、产业化和机械化，一直被认为是农业现代化的典范，然而在工业化进程中，这种耕作方式带来了巨大的环境污染和食品安全问题。近三十年来，因为追求产量，忽略了对生态环境的影响，中国农业的可持续发展和食品安全，同样面临巨大压力。&lt;/p&gt;
@@ -2593,7 +2594,7 @@
 &lt;p&gt;案例：宜居广州 &amp;amp; 惜福环保 -&amp;gt; 承包广东翁源整个县的垃圾分类工作&lt;/p&gt;
 &lt;p&gt;对垃圾进行焚烧和填埋都是劣等方案，垃圾渗滤液中含有多种有毒有害的无机物和有机物。&lt;/p&gt;
 &lt;h3 id=&#34;影片中途岛上的候鸟&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#影片中途岛上的候鸟&#34;&gt;#&lt;/a&gt; 影片《中途岛上的候鸟》&lt;/h3&gt;
-&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=16475092&amp;bvid=BV1Dx411L75W&amp;cid=26872729&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=16475092&amp;bvid=BV1Dx411L75W&amp;cid=26872729&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;把垃圾扔掉就可以了吗？&lt;/p&gt;
 &lt;p&gt;洋流把太平洋沿岸的垃圾裹挟到中途岛周边。在岛上筑巢的信天翁贴着波浪寻找食物的时候，常常把海面上的塑料垃圾当作鱼虾。这种翅展可达 2 米以上的大鸟，一次觅食要飞行几千公里，往返一次需要数天时间。为了填饱幼鸟，它们不知疲倦地在大海和巢穴之间飞行，却误把垃圾填进幼鸟的嘴和胃里，直到把幼鸟撑死。&lt;/p&gt;
 &lt;p&gt;巴索：“我的心里受不了，所以一定要解决这个问题。”&lt;/p&gt;

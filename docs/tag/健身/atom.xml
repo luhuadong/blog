@@ -16,14 +16,14 @@
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
-    <category term="城市规划" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
     <category term="人生" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -45,21 +45,21 @@
     <category term="可持续" />
     <category term="能源" />
     <category term="职业" />
+    <category term="时间管理" />
     <category term="milestone" />
     <category term="工作" />
     <category term="总结" />
     <category term="慈济" />
     <category term="生活" />
     <category term="RT-Thread" />
-    <category term="修身" />
     <category term="开源" />
     <category term="写书" />
+    <category term="修身" />
     <category term="思考" />
     <category term="幸福" />
     <category term="猫" />
-    <category term="时间管理" />
-    <category term="地铁" />
     <category term="Markdown" />
+    <category term="地铁" />
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
@@ -69,15 +69,16 @@
     <category term="纪录片" />
     <category term="自由" />
     <category term="电影" />
-    <category term="TED演讲" />
-    <category term="时间" />
+    <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
     <category term="亲密关系" />
     <category term="农业" />
     <category term="报告" />
-    <category term="励志" />
+    <category term="TED" />
     <category term="演讲" />
+    <category term="励志" />
+    <category term="时间" />
     <category term="游泳" />
     <category term="蔬食" />
     <category term="声音训练" />
@@ -87,7 +88,7 @@
     <category term="低碳" />
     <entry>
         <id>https://luhuadong.com/fitness/kegel-exercise.html</id>
-        <title>凯格尔运动</title>
+        <title>凯格尔运动，具体训练步骤</title>
         <link rel="alternate" href="https://luhuadong.com/fitness/kegel-exercise.html"/>
         <content type="html">&lt;p&gt;凯格尔运动（Kegel Exercise）是 1948 年美国著名妇产科医生阿诺・凯格尔医生发明的，最初用来帮助产后女性的盆底修复，预防阴道松弛和压力性尿失禁，后来被男科医生发现可以明显提高男性的性功能。&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/fitness/kegel-exercise-001.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -105,7 +106,7 @@
     </entry>
     <entry>
         <id>https://luhuadong.com/fitness/warm-up.html</id>
-        <title>热身运动</title>
+        <title>运动训练前的必备热身运动</title>
         <link rel="alternate" href="https://luhuadong.com/fitness/warm-up.html"/>
         <content type="html">&lt;p&gt;热身运动是任何运动训练的重要组成部分，热身的重要性在于可以避免运动损伤的发生。减少损伤的风险系数。&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/fitness/warm-up.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;

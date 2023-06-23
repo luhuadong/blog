@@ -19,14 +19,14 @@
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
-        <category>城市规划</category>
-        <category>Python</category>
-        <category>教孩子学编程</category>
         <category>管理</category>
         <category>程序员</category>
         <category>职场</category>
         <category>人生</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
@@ -48,21 +48,21 @@
         <category>可持续</category>
         <category>能源</category>
         <category>职业</category>
+        <category>时间管理</category>
         <category>milestone</category>
         <category>工作</category>
         <category>总结</category>
         <category>慈济</category>
         <category>生活</category>
         <category>RT-Thread</category>
-        <category>修身</category>
         <category>开源</category>
         <category>写书</category>
+        <category>修身</category>
         <category>思考</category>
         <category>幸福</category>
         <category>猫</category>
-        <category>时间管理</category>
-        <category>地铁</category>
         <category>Markdown</category>
+        <category>地铁</category>
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
@@ -72,15 +72,16 @@
         <category>纪录片</category>
         <category>自由</category>
         <category>电影</category>
-        <category>TED演讲</category>
-        <category>时间</category>
+        <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>
         <category>亲密关系</category>
         <category>农业</category>
         <category>报告</category>
-        <category>励志</category>
+        <category>TED</category>
         <category>演讲</category>
+        <category>励志</category>
+        <category>时间</category>
         <category>游泳</category>
         <category>蔬食</category>
         <category>声音训练</category>
@@ -97,9 +98,9 @@
             <pubDate>Tue, 22 Dec 2020 22:34:49 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;成长故事&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#成长故事&#34;&gt;#&lt;/a&gt; 成长故事&lt;/h2&gt;
 &lt;p&gt;Hello，大家好，我是 Rudy（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2x1aHVhZG9uZw==&#34;&gt;卢华东&lt;/span&gt;）。我刚拿了 2020 年 RT-Thread 社区杰出贡献奖，现在还沉浸在喜悦之中。&lt;/p&gt;
-&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20201222222649519.jpeg&#34; width=&#34;400&#34; /&gt;
+&lt;img data-src=&#34;/images/journal/20201222222649519.jpeg&#34; width=&#34;400&#34; /&gt;
 &lt;p&gt;我在 CSDN 上的名字是「阿基米东」，因为我希望自己也能像那个举得起地球的巨人 —— 阿基米德一样充满智慧。因为在 CSDN 上的简介写了 “以前运动员，现在程序员”，所以有些小伙伴就问我咋回事？我高中的时候练长跑，拿过一些小奖，后来练过排球和橄榄球，大学在球队待过几年。后来因为伤病、成绩和对未来的规划等原因离开了，大三下学期开始好好学习计算机编程。因为读的是电气工程及其自动化专业，所以还是有点基础，而且信息化技术是长期存在，觉得应该在年轻的时候尽早加入，就这样进入了程序员行列。这几年在工业控制和通信领域摸爬滚打，业余关注物联网相关技术和行业发展。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/2020122222291729.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/journal/2020122222291729.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;2012 年参加大学腰旗橄榄球联赛（体育运动教会了我很多！）&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -108,25 +109,25 @@
 &lt;p&gt;所以参与 RT-Thread 项目，一方面是因为我自己本身也是做嵌入式开发的，比较容易参与学习和贡献，应用到实际产品中；另一方面是想深入了解开源项目的日常运营和维护工作，从不同的视角看看 RT-Thread 这个优秀的开源项目，以及借此机会与更多技术大咖和行业前辈交流。&lt;/p&gt;
 &lt;h2 id=&#34;社区贡献&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#社区贡献&#34;&gt;#&lt;/a&gt; 社区贡献&lt;/h2&gt;
 &lt;p&gt;2018 年美国总统特朗普开启了中美贸易战，我当时在一家军工企业工作，负责嵌入式系统平台的搭建，因此关注国产芯片和操作系统的发展，期望在产品中提高软硬件的国产化率。而 RT-Thread 是中国人自己写的嵌入式实时操作系统，可以说是国产开源 RTOS 的标杆，刚好有朋友给我转发了 RT-Thread 开发者沙龙的活动链接，于是就和 RT-Thread 社区勾搭上了。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20201222223016545.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/journal/20201222223016545.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;2018 年第一次参加 RT-Thread 开发者沙龙&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;我们知道，RT-Thread 是一个优秀的开源项目，它不仅仅以 Apache 2.0 这样宽松的许可协议开放所有源代码，还提供了配套的技术文档、硬件平台和开发工具，同时还有一个可持续发展的开放性社区。对于个人开发者来说，我想这就是最吸引我们的地方。&lt;/p&gt;
 &lt;p&gt;有人可能会问，社区是什么？是指&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jbHViLnJ0LXRocmVhZC5vcmcv&#34;&gt;论坛&lt;/span&gt;吗？其实我理解的 “社区” 就是一个让人与人之间产生连接的地方，可以是网络论坛、邮件列表、GitHub、微信群、QQ 群等等，也可以是一场线下沙龙、比赛、工作坊，或者是一份文档资料、视频教程，以及一个基于 RT-Thread 的项目、软件包、学习小组、兴趣小组等等，都是 RT-Thread 社区的一部分。&lt;/p&gt;
 &lt;p&gt;我们对 RT-Thread 最直接的贡献就是在 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL1JULVRocmVhZC9ydC10aHJlYWQ=&#34;&gt;GitHub&lt;/span&gt; 上面提交代码。比如我在开发个人项目的时候，发现我需要用的一些东西 RT-Thread 还没有或者该模块还可以再完善一下，于是我就自己动手修改并提交给 RT-Thread。像我今年贡献的代码包括 BSP、驱动框架、AT 组件和一些软件包等等，其实就是一个由产品需求驱动再反馈到 RT-Thread 社区的过程。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20201222223109372.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/journal/20201222223109372.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;除了贡献代码，我们分享技术文档、应用笔记，或者在论坛上提问或回答问题都是对社区的贡献。这两年在学习 RT-Thread 的过程中，我遇到问题都会先查阅 RT-Thread 的在线文档和论坛资料，结合代码进行分析调试，如果还没解决就会在论坛或群里请教大家。因为有多种咨询交流渠道，所以通常都能得到较好的回复。比如我之前的项目，在 Flash 文件系统存储和 OTA 升级方面，都得到了社区伙伴的支持，也在这个过程提升了个人技能。&lt;/p&gt;
 &lt;p&gt;当然社区生态的建设还有很长的路要走，目前大部分社区活动都是由 RT-Thread 团队驱动的，未来希望有更多自发的个人或组织来推动，形成更多不同主题的 RT-Thread 本地社区。比如在不同城市形成像蓝牙、LPWAN、机器人、AI 等 RT-Thread 创客社区，帮助开发者们一起交流学习、激发灵感，一起进步成长。&lt;/p&gt;
 &lt;h2 id=&#34;技术展望&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#技术展望&#34;&gt;#&lt;/a&gt; 技术展望&lt;/h2&gt;
 &lt;p&gt;近年来许多物联网产品落地，给了我们很大的想象空间。就我个人而言，RTOS 方面目前更关注虚拟化技术在嵌入式系统中的应用，以及低功耗设计和 AI 算法在端侧的实现。&lt;/p&gt;
 &lt;p&gt;另外，行业方向的话，从智能家居到智慧城市，其实物联网已经在我们周边了。这些物联网的应用为我们提供了更舒适、更方便、更安全的生活品质。但同时我也注意到，在消费需求和智能化不断增加的同时，许多人也越来越忙碌和焦虑了，对环境和资源的消耗也越来越多了。所以有时候我也会想：“我们到底需要什么样的智能设备？我们到底需要什么样的生活？”&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20201222223210910.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/journal/20201222223210910.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;所以作为个人兴趣，我还是挺关注 IoT 技术在环保、能源、农业、海洋等领域的应用。业余时间也会尝试在这些领域做一些有趣的东西，大家有好玩的项目也可以找我一起玩。虽然这些领域的产品比不上智能家居带来的幸福感，但作为工程师，如果能用科技推动社会进步、促进社会公平，我觉得这是一件很酷的事情！这其实也是自由软件所追求的目标之一。&lt;/p&gt;
 &lt;h2 id=&#34;开发者寄语&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#开发者寄语&#34;&gt;#&lt;/a&gt; 开发者寄语&lt;/h2&gt;
 &lt;p&gt;爱因斯坦说过：“兴趣是最好的老师。” 我最开始想研究 RTOS，源于我对嵌入式设备的好奇，我想看看它们是怎么从零开始做出来的。因为每个人的成长经历不一样，关注的东西和研究方向也会不一样，所以大家从自己兴趣出发，结合学校或企业的项目，坚持钻研就行了。另外，多跟业界人士交流（论坛、GitHub 就可以）也有助于个人成长。&lt;/p&gt;
 &lt;p&gt;如果是比较迷茫的初学者，想往嵌入式或物联网方向发展。那么，马上加入 RT-Thread 社区开始学习准没错！RT-Thread 社区十余年的积累，稳定可靠的实时内核、完善的开发工具和软件包生态、众多开发文档和设计案例，以及在工业控制、智能表计、消费电子等领域的丰富应用，一定会给你意想不到的惊喜。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/20201222223243602.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/journal/20201222223243602.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;最后，希望有越来越多伙伴加入 RT-Thread 社区，站在 RT-Thread 开源软件巨人的肩膀上，创造更大的价值，推动社区的发展，成就彼此。中国拥有强大的物联网产业链、市场和制造业群体，我相信 RT-Thread 很快就会成为世界级的 OS！&lt;/p&gt;
  ]]></description>
         </item>

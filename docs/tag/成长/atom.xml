@@ -16,14 +16,14 @@
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
-    <category term="城市规划" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
     <category term="人生" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -45,21 +45,21 @@
     <category term="可持续" />
     <category term="能源" />
     <category term="职业" />
+    <category term="时间管理" />
     <category term="milestone" />
     <category term="工作" />
     <category term="总结" />
     <category term="慈济" />
     <category term="生活" />
     <category term="RT-Thread" />
-    <category term="修身" />
     <category term="开源" />
     <category term="写书" />
+    <category term="修身" />
     <category term="思考" />
     <category term="幸福" />
     <category term="猫" />
-    <category term="时间管理" />
-    <category term="地铁" />
     <category term="Markdown" />
+    <category term="地铁" />
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
@@ -69,15 +69,16 @@
     <category term="纪录片" />
     <category term="自由" />
     <category term="电影" />
-    <category term="TED演讲" />
-    <category term="时间" />
+    <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
     <category term="亲密关系" />
     <category term="农业" />
     <category term="报告" />
-    <category term="励志" />
+    <category term="TED" />
     <category term="演讲" />
+    <category term="励志" />
+    <category term="时间" />
     <category term="游泳" />
     <category term="蔬食" />
     <category term="声音训练" />
@@ -167,7 +168,7 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
 &lt;li&gt;精彩继续…&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;嗯！很强对不对？感动中国年度人物实至名归！下面是央视新闻推出的 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93ZWliby5jb20vMjY1NjI3NDg3NS9McmgzU2M5OEk/cmVmZXJfZmxhZz0xMDAxMDMwMTAzXw==&#34;&gt;#读唇语考清华女孩原型微电影#&lt;/span&gt;《我的赛道》&lt;/p&gt;
-&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=638729719&amp;bvid=BV1oY4y1k7zG&amp;cid=710628187&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=638729719&amp;bvid=BV1oY4y1k7zG&amp;cid=710628187&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;说来也巧，我和江梦南是同年出生的，也是同年读高中，她小时候生活在湖南最南端的郴州市宜章县，我小时候生活在广东最北端的清远市。虽然我不是瑶族，不过清远有两个瑶族自治县，离宜章县很近，我也有一些瑶族的同学。&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/journal/jmn-hometown.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;而且看她的介绍，我们现在应该还是同行 —— 程序员，在三维图像识别方面会有一些交集。于是，我在 GitHub 上盲猜她的 ID，但是没找到。。。不过，微博账号倒是很容易就找到了，内容不多，但正能量满满！果断添加特别关注！&lt;/p&gt;
@@ -197,7 +198,7 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
 &lt;p&gt;但，好像又都是借口。&lt;/p&gt;
 &lt;p&gt;谁的人生都不是一帆风顺的，我只是又陷入了低潮期，低潮了好几年而已。韧性足的人总会触底反弹，迎来一段长足的上升期。&lt;/p&gt;
 &lt;p&gt;打心里说，其实我知道 —— 我的问题所在。那就是遇到了 “思维壁”，而我的内心却没有足够强大到可以突破它。&lt;/p&gt;
-&lt;p&gt;** 内心强大的人都有三个共性，“不和他人作比较”、“不对他人有期待”、“不批判他人”。** 而内心脆弱的人则相反，因为太在意他人，所以容易被他人所影响。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;内心强大的人都有三个共性，“不和他人作比较”、“不对他人有期待”、“不批判他人”&lt;/strong&gt;。而内心脆弱的人则相反，因为太在意他人，所以容易被他人所影响。&lt;/p&gt;
 &lt;p&gt;从小学开始，我就觉得自己是一个内心挺强大的人，父母离异没人管，自己决定自己的一切事务，靠自驱力学习，学习成绩好也不和别人比较，自己学得开心就行，也不期待老师和长辈的夸奖，不八卦别人的过往… 但，进入恋爱状态就是不一样了。从心理学上剖析，也许就是俄底浦斯情结（oedipus complex）作怪，也就是 “恋母情结”。&lt;/p&gt;
 &lt;p&gt;表面上，我独来独往，不依赖父母和兄弟姐妹。但我内心确实有需求，我其实是希望有人能给我依靠的，直白来说就是，我在心理上还没有断奶。而这种压抑许久的心理，在恋爱中就被打开了。证据很明显，我喜欢的女孩子，都是那种给人感觉帅的、酷的、独立的、有能力的女孩（起码在谈恋爱之前是这样的感觉）。然后就会不知不觉得变得依赖她、对她有期待，同时会对有不同看法的事务作出批判，就会容易引发矛盾，尤其是双方沟通机制有问题的情况下。&lt;/p&gt;
 &lt;p&gt;在决定结束上一段长达 6 年的感情时，最后两年我的状态一直很差，我知道她也一样。跟她在一起时，我的情绪就变得难以控制，迫切想要沟通，而一旦问题没有得到解决或缓解，我的心态就变得很脆弱，像豆腐一样，一摇就塌了。结果就是无休止的吵架和冷战。&lt;/p&gt;
@@ -282,8 +283,7 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;万晓利「呼吸 2021」LiveHouse 巡演（广州站）30 分钟现场版&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=718434550&amp;bvid=BV1VQ4y1X7Sc&amp;cid=420014246&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
-</content>
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=718434550&amp;bvid=BV1VQ4y1X7Sc&amp;cid=420014246&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;</content>
         <category term="成长" />
         <category term="生活" />
         <category term="猫" />
