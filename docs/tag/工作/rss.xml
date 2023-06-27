@@ -5,8 +5,8 @@
         <link>https://luhuadong.com</link>
         <description>阿基米东的网络日志</description>
         <language>zh-CN</language>
-        <pubDate>Mon, 20 Sep 2021 21:59:43 +0800</pubDate>
-        <lastBuildDate>Mon, 20 Sep 2021 21:59:43 +0800</lastBuildDate>
+        <pubDate>Sat, 24 Jun 2023 16:37:00 +0800</pubDate>
+        <lastBuildDate>Sat, 24 Jun 2023 16:37:00 +0800</lastBuildDate>
         <category>商业</category>
         <category>成长</category>
         <category>日记</category>
@@ -23,6 +23,7 @@
         <category>程序员</category>
         <category>职场</category>
         <category>人生</category>
+        <category>工作</category>
         <category>物联网</category>
         <category>城市规划</category>
         <category>Python</category>
@@ -50,7 +51,6 @@
         <category>职业</category>
         <category>时间管理</category>
         <category>milestone</category>
-        <category>工作</category>
         <category>总结</category>
         <category>慈济</category>
         <category>生活</category>
@@ -61,8 +61,8 @@
         <category>思考</category>
         <category>幸福</category>
         <category>猫</category>
-        <category>Markdown</category>
         <category>地铁</category>
+        <category>Markdown</category>
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
@@ -72,6 +72,7 @@
         <category>纪录片</category>
         <category>自由</category>
         <category>电影</category>
+        <category>策略</category>
         <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>
@@ -89,6 +90,23 @@
         <category>垃圾分类</category>
         <category>零废弃</category>
         <category>低碳</category>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/career/cn-bay-area-national-technology-innovation-center.html</guid>
+            <title>粤港澳大湾区国家技术创新中心</title>
+            <link>https://luhuadong.com/career/cn-bay-area-national-technology-innovation-center.html</link>
+            <category>工作</category>
+            <pubDate>Sat, 24 Jun 2023 16:37:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;大湾区国创中心&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#大湾区国创中心&#34;&gt;#&lt;/a&gt; 大湾区国创中心&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;粤港澳大湾区国家技术创新中心&lt;/strong&gt;（简称：大湾区国创中心）于 2020 年 12 月获科技部批准成立，是国家重点布局建设的三个综合类国家技术创新中心之一。国家技术创新中心是国家战略科技力量的重要组成部分，是实现从科学到技术的转化，促进重大基础研究成果产业化的重要平台。&lt;/p&gt;
+&lt;p&gt;粤港澳大湾区国家技术创新中心按照 “1+9+N” 的体系建设。其中 1 个 “核心战略总部” 已落户广州市并启动建设，9 个 “王牌军” 为独立运作的分中心，目前确立的包括广州的国家新型显示技术创新中心、深圳清华大学研究院、中科院深圳先进技术研究院，东莞的华中科技大学工业技术研究院，以及香港中心和澳门中心；N 个 “独立团” 为一批高水平科技成果转化载体，将在后续开展遴选工作。&lt;/p&gt;
+&lt;h2 id=&#34;国创工软&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#国创工软&#34;&gt;#&lt;/a&gt; 国创工软&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工业软件产业发展中心&lt;/strong&gt;（简称 “国创工软”）作为粤港澳大湾区国家技术创新中心直属创新平台之一，聚焦工业软件基础创新，构建工业软件全过程创新生态链，坚持政产学研金协同，系统性推动科技成果产业化，致力于攻克工业软件核心关键技术，促进重大基础研究成果产业化，培育和孵化工业软件领域独角兽和瞪羚企业。&lt;/p&gt;
+&lt;h2 id=&#34;相关链接&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#相关链接&#34;&gt;#&lt;/a&gt; 相关链接&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubmN0aWQuY29t&#34;&gt;国家新型显示技术创新中心&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/journal/20210920.html</guid>
             <title>2021离职总结与计划</title>

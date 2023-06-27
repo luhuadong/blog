@@ -23,6 +23,7 @@
         <category>程序员</category>
         <category>职场</category>
         <category>人生</category>
+        <category>工作</category>
         <category>物联网</category>
         <category>城市规划</category>
         <category>Python</category>
@@ -50,7 +51,6 @@
         <category>职业</category>
         <category>时间管理</category>
         <category>milestone</category>
-        <category>工作</category>
         <category>总结</category>
         <category>慈济</category>
         <category>生活</category>
@@ -61,8 +61,8 @@
         <category>思考</category>
         <category>幸福</category>
         <category>猫</category>
-        <category>Markdown</category>
         <category>地铁</category>
+        <category>Markdown</category>
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
@@ -72,6 +72,7 @@
         <category>纪录片</category>
         <category>自由</category>
         <category>电影</category>
+        <category>策略</category>
         <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>
@@ -337,7 +338,7 @@
 &lt;h2 id=&#34;高风险选项&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#高风险选项&#34;&gt;#&lt;/a&gt; 高风险选项&lt;/h2&gt;
 &lt;p&gt;现在你把无风险和低风险选项都解决了，你已经把时间和空间都腾给了高风险（High Stakes）选项。例如 “在哪里买房”、“找哪份工作” 等问题，因为风险高，你必定想做出正确决定。首先&lt;strong&gt;凭直觉选出一个最佳选项&lt;/strong&gt;，然后将其他选项与该最佳选择进行&lt;strong&gt;逐一比较&lt;/strong&gt;，从两个选项中选出一个并淘汰另一个。&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/guide/fobo-high-stakes.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;这里有一个避开 FOBO 的秘诀，** 不要让已被淘汰的选项再次出现！** 如果你不停地 “复活” 淘汰选项，你将陷入纠结之中。重复刚才的步骤直到你得出最终选择，如果你遵循这一流程，你通常能靠自己做出选择，除非你遇到的情况相当罕见。如果是这样的话，你不妨把最终决定权交由一群可靠的、你信任的人，这些人还需要有能力就此话题向你提供指导意见，人数不要超过 5 人，而且最好是奇数，因为一旦出现平票状况，就会有人一锤定音。&lt;/p&gt;
+&lt;p&gt;这里有一个避开 FOBO 的秘诀，&lt;strong&gt;不要让已被淘汰的选项再次出现！&lt;/strong&gt; 如果你不停地 “复活” 淘汰选项，你将陷入纠结之中。重复刚才的步骤直到你得出最终选择，如果你遵循这一流程，你通常能靠自己做出选择，除非你遇到的情况相当罕见。如果是这样的话，你不妨把最终决定权交由一群可靠的、你信任的人，这些人还需要有能力就此话题向你提供指导意见，人数不要超过 5 人，而且最好是奇数，因为一旦出现平票状况，就会有人一锤定音。&lt;/p&gt;
 &lt;h2 id=&#34;最后&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#最后&#34;&gt;#&lt;/a&gt; 最后&lt;/h2&gt;
 &lt;p&gt;现在你已经做出了选择，但还剩下一个挑战，就是执行这一选择，&lt;strong&gt;努力让它成为真正的最佳选择&lt;/strong&gt;。&lt;/p&gt;
  ]]></description>
@@ -373,6 +374,7 @@
 &lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubWF5b2NsaW5pYy5vcmcvZmlyc3QtYWlkL2ZpcnN0LWFpZC1jcHIvYmFzaWNzL2FydC0yMDA1NjYwMA==&#34;&gt;Cardiopulmonary resuscitation (CPR): First aid&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kZXB0cy53YXNoaW5ndG9uLmVkdS9sZWFybmNwci9jaGluZXNlL2luZGV4Lmh0bWw=&#34;&gt;学习 CPR 心肺复苏术 | 华盛顿大学医学院&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>

@@ -23,6 +23,7 @@
         <category>程序员</category>
         <category>职场</category>
         <category>人生</category>
+        <category>工作</category>
         <category>物联网</category>
         <category>城市规划</category>
         <category>Python</category>
@@ -50,7 +51,6 @@
         <category>职业</category>
         <category>时间管理</category>
         <category>milestone</category>
-        <category>工作</category>
         <category>总结</category>
         <category>慈济</category>
         <category>生活</category>
@@ -61,8 +61,8 @@
         <category>思考</category>
         <category>幸福</category>
         <category>猫</category>
-        <category>Markdown</category>
         <category>地铁</category>
+        <category>Markdown</category>
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
@@ -72,6 +72,7 @@
         <category>纪录片</category>
         <category>自由</category>
         <category>电影</category>
+        <category>策略</category>
         <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>

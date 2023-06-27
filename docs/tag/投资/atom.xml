@@ -3,7 +3,7 @@
     <id>https://luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;投资&#34; tag</title>
     <link href="https://luhuadong.com" />
-    <updated>2023-01-23T09:35:28.000Z</updated>
+    <updated>2023-06-24T04:39:29.000Z</updated>
     <category term="商业" />
     <category term="成长" />
     <category term="日记" />
@@ -20,6 +20,7 @@
     <category term="程序员" />
     <category term="职场" />
     <category term="人生" />
+    <category term="工作" />
     <category term="物联网" />
     <category term="城市规划" />
     <category term="Python" />
@@ -47,7 +48,6 @@
     <category term="职业" />
     <category term="时间管理" />
     <category term="milestone" />
-    <category term="工作" />
     <category term="总结" />
     <category term="慈济" />
     <category term="生活" />
@@ -58,8 +58,8 @@
     <category term="思考" />
     <category term="幸福" />
     <category term="猫" />
-    <category term="Markdown" />
     <category term="地铁" />
+    <category term="Markdown" />
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
@@ -69,6 +69,7 @@
     <category term="纪录片" />
     <category term="自由" />
     <category term="电影" />
+    <category term="策略" />
     <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
@@ -86,6 +87,47 @@
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
+    <entry>
+        <id>https://luhuadong.com/principle/barbell-strategy.html</id>
+        <title>杠铃策略</title>
+        <link rel="alternate" href="https://luhuadong.com/principle/barbell-strategy.html"/>
+        <content type="html">&lt;h2 id=&#34;什么是杠铃策略&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#什么是杠铃策略&#34;&gt;#&lt;/a&gt; 什么是杠铃策略&lt;/h2&gt;
+&lt;p&gt;杠铃策略（Barbell Strategy）又名 “杠铃投资组合”，它是一种投资策略，目的是使银行证券投资达到流动性、灵活性和盈利性的高效组合。简单来说，就是投资高风险和无风险资产，忽略中间风险的投资。由于这种证券投资策略在图形上很像杠铃，故名杠铃策略。&lt;/p&gt;
+&lt;p&gt;例如：交易者投资长期债券和短期债券，但不投资中期债券的证券投资策略。购买短期债券的目的是保证债券的流动性，购买长期债券的目的是获得较高收益。中间债券的流动性低于短期债券，收益率低于长期债券，所以被排除在外。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;../../images/principle/barbell-strategy.png&#34; alt=&#34;&#34; title=&#34;杠铃策略·投资组合&#34;&gt;&lt;/p&gt;
+&lt;p&gt;杠铃策略建议将两种截然不同的资产配对。一个篮子中的资产被认为是可用的最安全的资产之一，而另一个篮子中的资产被认为是风险最高的资产之一。&lt;/p&gt;
+&lt;p&gt;杠铃策略，既要有最尖锐的矛， 也要有最坚强的盾，在高成长高估值和高稳定低估值之间寻找风险和收益的平衡。&lt;/p&gt;
+&lt;h2 id=&#34;杠铃策略的优缺点&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#杠铃策略的优缺点&#34;&gt;#&lt;/a&gt; 杠铃策略的优缺点&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;杠铃策略的优点：它可以抵消利率波动对银行证券投资总收益的影响。另外，其短期投资比重比较大，可以更好地满足银行资金流动性需要。&lt;/li&gt;
+&lt;li&gt;杠铃策略的缺点：其交易的成本要高于阶梯期限策略，因为每当短期证券到期或长期证券到达预定期限以内，银行都要进入证券市场变现买卖。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;杠铃策略的启示&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#杠铃策略的启示&#34;&gt;#&lt;/a&gt; 杠铃策略的启示&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;要长期成功，投资多元化是关键。不要只会一样技能，多学几个技能才能平衡风险。&lt;/li&gt;
+&lt;li&gt;在保守投资和高风险高回报投资间保持平衡。精进当前技能，是一种保守投资，跨界学一个新的技能，可能就是高风险高回报。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;投资应是追求损失最小，利益最大，而不是为了达到稳定的平均水平。况且追求稳定的平均回报看上去没有风险，其实潜藏着极大的风险，特别是在快速变化的环境中。正如历史学家尤瓦尔・赫拉利所说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;21 世纪没有稳定这回事。如果你想要稳定的身份、稳定的工作、稳定的价值观，那你就落伍了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;随机性既然无法避免，正确的做法就是拥抱随机性，与之共舞。在大部分投资者都追求稳定的平均收益时，使用杠铃策略，可以在消除亏损的同时，还最大限度获得利润。&lt;/p&gt;
+&lt;center&gt;
+杠铃投资组合 = 极度安全的资产 + 高风险高回报资产
+&lt;/center&gt;
+&lt;br/&gt;
+&lt;p&gt;其中极度安全的资产占总资产比重为 90%，而高风险资产占比 10%。在保证安全的前提下，用很小一部分去搏更大的收益。这个组合损失有限，但收益是敞口的。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;../../images/principle/barbell-approach-01.png&#34; alt=&#34;&#34; title=&#34;极度安全的资产 + 高风险高回报资产&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;杠铃策略的应用&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#杠铃策略的应用&#34;&gt;#&lt;/a&gt; 杠铃策略的应用&lt;/h2&gt;
+&lt;p&gt;在稳定的变化缓慢的环境中，追求平均是一个不错的策略；但在极速变化，黑天鹅频出的环境中，平均策略反而是危险的，而杠铃策略通过平衡两个极端来反脆弱，是一个绝对可靠的策略，让你从混乱中获益。&lt;/p&gt;
+&lt;p&gt;例如，在快速变化的商业环境中，固守一个产品线，几个爆品风险显然很大，但盲目多元化也不可取。杠铃策略就是在做好主业的基础上，安排一些资源去试错，这样才能找到新机会。猎豹的傅盛在创业中几次绝处逢生，跨越「非连续性」鸿沟，就是提前用「侦察兵」去新的产业，新的行业侦查试错，而发现了大趋势和新机会。&lt;/p&gt;
+&lt;p&gt;杠铃策略可以用在很多地方，包括公司发展新业务、个人工作选择、家庭财富管理等。例如，选择一份比较轻松稳定的工作，保证日常生活质量，业余时间进行创作，发展副业，谋求更大的发展机会。这就是一种杠铃策略。&lt;/p&gt;
+&lt;p&gt;但有些领域最好不要用杠铃策略，例如男女感情。感情应该像标枪一样，一直向前，画出一个完美的抛物线。&lt;/p&gt;
+</content>
+        <category term="投资" />
+        <category term="策略" />
+        <updated>2023-06-24T04:39:29.000Z</updated>
+    </entry>
     <entry>
         <id>https://luhuadong.com/money/real-estate-investment-terminology.html</id>
         <title>房地产投资专业术语</title>
