@@ -34,7 +34,11 @@
   <title>
 【教孩子学编程】第6天 电脑也会九九乘法口诀 - 一起学编程 |
 Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</title>
-<meta name="generator" content="Hexo 5.4.2"></head>
+<!-- hexo injector head_end start -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-math@4.0.0/dist/style.css">
+<!-- hexo injector head_end end --><meta name="generator" content="Hexo 5.4.2"></head>
 <body itemscope itemtype="http://schema.org/WebPage">
   <div id="loading">
     <div class="cat">
@@ -117,12 +121,12 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
       </div>
       <div id="imgs" class="pjax">
         <ul>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/MinouLighthouse.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/CrestedButteEclispe.jpg"></li>
           <li class="item" data-background-image="https://luhuadong.com/images/default/JTNPMilkyWay.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/JavaBromo.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/MPPUnesco.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/YuanyangChina.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/EdaleValley.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/NahargarhFort.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/QingMing2023.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/AgueroSpain.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/PicoVolcano.jpg"></li>
         </ul>
       </div>
     </header>
@@ -172,20 +176,20 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <p>上一节课我们写了第一个 Python 程序，并使用了输入和输出函数 —— input 和 print。今天我们将进一步学习输出函数 print 的用法，还会学习程序的控制流程，并在此基础上让电脑为我们打印出《九九乘法表》。</p>
 <h2 id="print-输出格式"><a class="markdownIt-Anchor" href="#print-输出格式">#</a> print 输出格式</h2>
 <p>print 默认输出是换行的，如果不想换行，需要加上 end 参数来指定结束符，就像这样：</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello World&quot;</span>, end=<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello World&quot;</span>, end=<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
 <p>前面我们通过这种方式打印一句话和你的名字：</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&quot;</span>, name)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&quot;</span>, name)</span><br></pre></td></tr></table></figure>
 <p>今天我们会学习一种新的表达方式，我们暂时称呼它为 “字符串格式化输出”，上面这行代码就可以改写为：</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&#123;&#125;&quot;</span>.<span class="built_in">format</span>(name))</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&#123;&#125;&quot;</span>.<span class="built_in">format</span>(name))</span><br></pre></td></tr></table></figure>
 <p>字符串  <code>&quot;很高兴认识你，&#123;&#125;&quot;</code>  中的花括号是占位符，意思是等一下这里要打印其他内容，先占个位。至于填充什么内容，就由字符串后的  <code>.format()</code>  中的内容决定。</p>
 <p>如果还想让它喊你的名字三遍，就可以预留三个坑，然后在  <code>format</code>  中填充。</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&#123;&#125;, &#123;&#125;, &#123;&#125;&quot;</span>.<span class="built_in">format</span>(name, name, name))</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&#123;&#125;, &#123;&#125;, &#123;&#125;&quot;</span>.<span class="built_in">format</span>(name, name, name))</span><br></pre></td></tr></table></figure>
 <p>我们可以给占位符编个号，表示这个坑使用  <code>format</code>  函数中的第几个参数。下面代码的执行效果与上面是一样的。</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&#123;0&#125;, &#123;1&#125;, &#123;2&#125;&quot;</span>.<span class="built_in">format</span>(name, name, name))</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&#123;0&#125;, &#123;1&#125;, &#123;2&#125;&quot;</span>.<span class="built_in">format</span>(name, name, name))</span><br></pre></td></tr></table></figure>
 <p>也许你已经想到了， <code>name</code>  变量其实不需要写三遍，这样就行了！</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&#123;0&#125;, &#123;0&#125;, &#123;0&#125;&quot;</span>.<span class="built_in">format</span>(name))</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&#123;0&#125;, &#123;0&#125;, &#123;0&#125;&quot;</span>.<span class="built_in">format</span>(name))</span><br></pre></td></tr></table></figure>
 <p>除此之外，我们还可以为不同的坑指定不同的效果，比如左对齐、右对齐、居中。</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&#123;0:&lt;8&#125;, &#123;0:^8&#125;, &#123;0:&gt;8&#125;&quot;</span>.<span class="built_in">format</span>(name))</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&#123;0:&lt;8&#125;, &#123;0:^8&#125;, &#123;0:&gt;8&#125;&quot;</span>.<span class="built_in">format</span>(name))</span><br></pre></td></tr></table></figure>
 <p>执行效果如下：</p>
 <p><img data-src="/images/coding/print%E5%8D%A0%E4%BD%8D%E7%AC%A6%E6%93%8D%E4%BD%9C.png" alt=""></p>
 <p>占位符的序号和其需要的效果操作之间用冒号  <code>:</code>  隔开。 <code>&lt;</code>  表示左对齐（默认）， <code>&gt;</code>  表示右对齐， <code>^</code>  表示中间对齐。后面的数字 8 表示这里占了八个字符长度，你也可以改成你需要的长度。</p>
@@ -193,20 +197,20 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <p><img data-src="/images/coding/%E5%B0%8F%E5%8F%AF%E7%88%B1%E4%B8%80%E8%B5%B7%E8%B7%B3%E8%88%9E.gif" alt=""></p>
 <h2 id="循环语句"><a class="markdownIt-Anchor" href="#循环语句">#</a> 循环语句</h2>
 <p>前面的代码都是顺序执行的，也就是执行完第一行，再执行第二行，直到最后一行结束。在程序中，我们还经常使用循环来让代码重复执行，先把下面的代码执行一遍看看。</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> x <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">10</span>):</span><br><span class="line">    <span class="built_in">print</span>(x)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> x <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">10</span>):</span><br><span class="line">    <span class="built_in">print</span>(x)</span><br></pre></td></tr></table></figure>
 <p>没错，你会看到屏幕上打印出 0~9，一共十行数字。</p>
 <p>函数  <code>range(10)</code>  帮我们创建了 0~9 这十个数字，我们通过  <code>for ... in ...</code>  语句将这十个数字依次取出来，放在变量 x 中，然后再使用  <code>print</code>  函数把它们打印出来。</p>
 <p>需要注意的是，第二行代码有一些空白位置，这是因为按了 Tab 键。在你输入代码的时候，你使用的编辑器可能也已经帮你添加上了。这个空白叫做<strong>代码缩进</strong>，表示代码之间的从属关系，在这里就表示  <code>print(x)</code>  这行代码是在 for 循环中被执行的。</p>
 <p>range 函数默认从 0 开始，如果想从 1 开始，则可以使用两个参数，分别表示开始和结束。</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> x <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">1</span>, <span class="number">10</span>):</span><br><span class="line">    <span class="built_in">print</span>(x)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> x <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">1</span>, <span class="number">10</span>):</span><br><span class="line">    <span class="built_in">print</span>(x)</span><br></pre></td></tr></table></figure>
 <p>循环是可以嵌套的，也就是说，一层循环中可以包括另一层循环，下一层循环中由可以包含下一层循环，但建议不要嵌套太多层，不然会晕的。。。</p>
 <p><img data-src="/images/coding/%E5%BE%AA%E7%8E%AF.gif" alt=""></p>
 <p>下面的代码中有两层循环，第一层循环 5 次，第二层循环 10 次。第 3 行的 print 语句属于第二层循环，第 4 行的 print 则属于第一层，可以看到代码缩进其实是在表达这种层次关系。</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> x <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">5</span>):</span><br><span class="line">    <span class="keyword">for</span> y <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">10</span>):</span><br><span class="line">        <span class="built_in">print</span>(<span class="string">&quot;*&quot;</span>, end=<span class="string">&quot; &quot;</span>)</span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> x <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">5</span>):</span><br><span class="line">    <span class="keyword">for</span> y <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">10</span>):</span><br><span class="line">        <span class="built_in">print</span>(<span class="string">&quot;*&quot;</span>, end=<span class="string">&quot; &quot;</span>)</span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
 <p>执行代码，看看是不是打印出了 5 行 10 列的小星星。</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">* * * * * * * * * * </span><br><span class="line">* * * * * * * * * * </span><br><span class="line">* * * * * * * * * * </span><br><span class="line">* * * * * * * * * * </span><br><span class="line">* * * * * * * * * * </span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><figcaption><span>输出结果</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">* * * * * * * * * * </span><br><span class="line">* * * * * * * * * * </span><br><span class="line">* * * * * * * * * * </span><br><span class="line">* * * * * * * * * * </span><br><span class="line">* * * * * * * * * * </span><br></pre></td></tr></table></figure>
 <p>除了 for in 循环语句，在 Python 中我们还可以使用 while 循环语句。同样是打印 0~9 十个数字，使用 while 循环可以这样来写：</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">x = <span class="number">0</span></span><br><span class="line"><span class="keyword">while</span> x&lt;<span class="number">10</span>:</span><br><span class="line">    <span class="built_in">print</span>(x)</span><br><span class="line">    x = x + <span class="number">1</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">x = <span class="number">0</span></span><br><span class="line"><span class="keyword">while</span> x&lt;<span class="number">10</span>:</span><br><span class="line">    <span class="built_in">print</span>(x)</span><br><span class="line">    x = x + <span class="number">1</span></span><br></pre></td></tr></table></figure>
 <p>这里我们借助了 x 变量来记录当前的数字，紧跟 while 后面的是判断条件，比如这里的  <code>x&lt;10</code>  表示当 x 小于 10 的时候，执行循环中的代码。换句话说，就是当 x 大于等于 10，就跳出 while 循环，此时程序就结束了。</p>
 <p>同样，while 循环也可以嵌套，for in 循环和 while 循环之间也可以相互嵌套。</p>
 <h2 id="九九乘法表"><a class="markdownIt-Anchor" href="#九九乘法表">#</a> 九九乘法表</h2>
@@ -215,9 +219,9 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <p>你先想十分钟，想不出来再看看我下面给的代码。</p>
 <p><img data-src="/images/coding/%E5%B0%B1%E6%98%AF%E8%BF%99%E4%B9%88%E4%BB%BB%E6%80%A7.gif" alt=""></p>
 <p>这里使用 for in 循环来实现，打开编辑器输入如下代码，并保存为 <span class="exturl" data-url="aHR0cDovLzk5VGFibGUucHk=">99Table.py</span> 文件。</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">1</span>, <span class="number">10</span>):</span><br><span class="line">    <span class="keyword">for</span> j <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">1</span>, i+<span class="number">1</span>):</span><br><span class="line">        <span class="built_in">print</span>(<span class="string">&quot;&#123;&#125;*&#123;&#125;=&#123;:&lt;3&#125;&quot;</span>.<span class="built_in">format</span>(j,i,i*j), end=<span class="string">&quot; &quot;</span>)</span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">1</span>, <span class="number">10</span>):</span><br><span class="line">    <span class="keyword">for</span> j <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">1</span>, i+<span class="number">1</span>):</span><br><span class="line">        <span class="built_in">print</span>(<span class="string">&quot;&#123;&#125;*&#123;&#125;=&#123;:&lt;3&#125;&quot;</span>.<span class="built_in">format</span>(j,i,i*j), end=<span class="string">&quot; &quot;</span>)</span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
 <p>在终端执行  <code>python3 99Table.py </code> ，看看小九九有没有打印出来。</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">1*1=1   </span><br><span class="line">1*2=2   2*2=4   </span><br><span class="line">1*3=3   2*3=6   3*3=9   </span><br><span class="line">1*4=4   2*4=8   3*4=12  4*4=16  </span><br><span class="line">1*5=5   2*5=10  3*5=15  4*5=20  5*5=25  </span><br><span class="line">1*6=6   2*6=12  3*6=18  4*6=24  5*6=30  6*6=36  </span><br><span class="line">1*7=7   2*7=14  3*7=21  4*7=28  5*7=35  6*7=42  7*7=49  </span><br><span class="line">1*8=8   2*8=16  3*8=24  4*8=32  5*8=40  6*8=48  7*8=56  8*8=64  </span><br><span class="line">1*9=9   2*9=18  3*9=27  4*9=36  5*9=45  6*9=54  7*9=63  8*9=72  9*9=81</span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><figcaption><span>输出结果</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">1*1=1   </span><br><span class="line">1*2=2   2*2=4   </span><br><span class="line">1*3=3   2*3=6   3*3=9   </span><br><span class="line">1*4=4   2*4=8   3*4=12  4*4=16  </span><br><span class="line">1*5=5   2*5=10  3*5=15  4*5=20  5*5=25  </span><br><span class="line">1*6=6   2*6=12  3*6=18  4*6=24  5*6=30  6*6=36  </span><br><span class="line">1*7=7   2*7=14  3*7=21  4*7=28  5*7=35  6*7=42  7*7=49  </span><br><span class="line">1*8=8   2*8=16  3*8=24  4*8=32  5*8=40  6*8=48  7*8=56  8*8=64  </span><br><span class="line">1*9=9   2*9=18  3*9=27  4*9=36  5*9=45  6*9=54  7*9=63  8*9=72  9*9=81</span><br></pre></td></tr></table></figure>
 <p><img data-src="/images/coding/%E8%BE%93%E5%87%BA%E4%B9%9D%E4%B9%9D%E4%B9%98%E6%B3%95%E8%A1%A8.png" alt=""></p>
 <h2 id="代码说明"><a class="markdownIt-Anchor" href="#代码说明">#</a> 代码说明</h2>
 <ul>
@@ -230,11 +234,11 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <h2 id="作业"><a class="markdownIt-Anchor" href="#作业">#</a> 作业</h2>
 <p>（1）自己动手练习一遍，看看能否输出九九乘法表。</p>
 <p>（2）调整九九乘法表的显示，让它看起来像这样：</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">1*9=9   2*9=18  3*9=27  4*9=36  5*9=45  6*9=54  7*9=63  8*9=72  9*9=81  </span><br><span class="line">1*8=8   2*8=16  3*8=24  4*8=32  5*8=40  6*8=48  7*8=56  8*8=64  </span><br><span class="line">1*7=7   2*7=14  3*7=21  4*7=28  5*7=35  6*7=42  7*7=49  </span><br><span class="line">1*6=6   2*6=12  3*6=18  4*6=24  5*6=30  6*6=36  </span><br><span class="line">1*5=5   2*5=10  3*5=15  4*5=20  5*5=25  </span><br><span class="line">1*4=4   2*4=8   3*4=12  4*4=16  </span><br><span class="line">1*3=3   2*3=6   3*3=9   </span><br><span class="line">1*2=2   2*2=4   </span><br><span class="line">1*1=1   </span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><figcaption><span>输出结果</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">1*9=9   2*9=18  3*9=27  4*9=36  5*9=45  6*9=54  7*9=63  8*9=72  9*9=81  </span><br><span class="line">1*8=8   2*8=16  3*8=24  4*8=32  5*8=40  6*8=48  7*8=56  8*8=64  </span><br><span class="line">1*7=7   2*7=14  3*7=21  4*7=28  5*7=35  6*7=42  7*7=49  </span><br><span class="line">1*6=6   2*6=12  3*6=18  4*6=24  5*6=30  6*6=36  </span><br><span class="line">1*5=5   2*5=10  3*5=15  4*5=20  5*5=25  </span><br><span class="line">1*4=4   2*4=8   3*4=12  4*4=16  </span><br><span class="line">1*3=3   2*3=6   3*3=9   </span><br><span class="line">1*2=2   2*2=4   </span><br><span class="line">1*1=1   </span><br></pre></td></tr></table></figure>
 <p>（3）尝试使用 while 循环语句来输出九九乘法表。</p>
 <p><img data-src="/images/coding/%E4%B9%9D%E4%B9%9D%E4%B9%98%E6%B3%95%E8%A1%A82.jpeg" alt=""></p>
 <p>while 版本</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">i=<span class="number">1</span></span><br><span class="line"><span class="keyword">while</span> i&lt;<span class="number">10</span>:</span><br><span class="line">    j=<span class="number">1</span></span><br><span class="line">    <span class="keyword">while</span> j&lt;i+<span class="number">1</span>:</span><br><span class="line">        <span class="built_in">print</span>(<span class="string">&quot;&#123;&#125;*&#123;&#125;=&#123;:&lt;3&#125;&quot;</span>.<span class="built_in">format</span>(j,i,i*j), end=<span class="string">&quot; &quot;</span>)</span><br><span class="line">        j=j+<span class="number">1</span></span><br><span class="line">    i=i+<span class="number">1</span></span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">i=<span class="number">1</span></span><br><span class="line"><span class="keyword">while</span> i&lt;<span class="number">10</span>:</span><br><span class="line">    j=<span class="number">1</span></span><br><span class="line">    <span class="keyword">while</span> j&lt;i+<span class="number">1</span>:</span><br><span class="line">        <span class="built_in">print</span>(<span class="string">&quot;&#123;&#125;*&#123;&#125;=&#123;:&lt;3&#125;&quot;</span>.<span class="built_in">format</span>(j,i,i*j), end=<span class="string">&quot; &quot;</span>)</span><br><span class="line">        j=j+<span class="number">1</span></span><br><span class="line">    i=i+<span class="number">1</span></span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
 
       <div class="tags">
           <a href="/tags/Python/" rel="tag"><i class="ic i-tag"></i> Python</a>
@@ -250,7 +254,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
       <i class="ic i-calendar-check"></i>
     </span>
     <span class="text">更新于</span>
-    <time title="修改时间：2023-06-24 12:04:29" itemprop="dateModified" datetime="2023-06-24T12:04:29+08:00">2023-06-24</time>
+    <time title="修改时间：2023-07-01 22:55:44" itemprop="dateModified" datetime="2023-07-01T22:55:44+08:00">2023-07-01</time>
   </span>
   <span id="coding/PyTK-2019-Day06.html" class="item leancloud_visitors" data-flag-title="【教孩子学编程】第6天 电脑也会九九乘法口诀" title="阅读次数">
       <span class="icon">
@@ -313,7 +317,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <div class="item left">
       
 
-  <a href="/coding/PyTK-2019-Day05.html" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;YuanyangChina.jpg" title="【教孩子学编程】第5天 你的第一个 Python 程序">
+  <a href="/coding/PyTK-2019-Day05.html" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;AgueroSpain.jpg" title="【教孩子学编程】第5天 你的第一个 Python 程序">
   <span class="type">上一篇</span>
   <span class="category"><i class="ic i-flag"></i> 一起学编程</span>
   <h3>【教孩子学编程】第5天 你的第一个 Python 程序</h3>
@@ -323,7 +327,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <div class="item right">
       
 
-  <a href="/coding/PyTK-2019-Day07.html" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;EuropeFromISS.jpg" title="【教孩子学编程】第7天 和电脑玩猜数字游戏">
+  <a href="/coding/PyTK-2019-Day07.html" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;PicoVolcano.jpg" title="【教孩子学编程】第7天 和电脑玩猜数字游戏">
   <span class="type">下一篇</span>
   <span class="category"><i class="ic i-flag"></i> 一起学编程</span>
   <h3>【教孩子学编程】第7天 和电脑玩猜数字游戏</h3>
@@ -363,19 +367,19 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <nav class="state">
     <div class="item posts">
       <a href="/archives/">
-        <span class="count">325</span>
+        <span class="count">334</span>
         <span class="name">文章</span>
       </a>
     </div>
     <div class="item categories">
       <a href="/categories/">
-        <span class="count">37</span>
+        <span class="count">39</span>
         <span class="name">分类</span>
       </a>
     </div>
     <div class="item tags">
       <a href="/tags/">
-        <span class="count">83</span>
+        <span class="count">84</span>
         <span class="name">标签</span>
       </a>
     </div>
@@ -468,13 +472,13 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <span class="post-meta-item-icon">
       <i class="ic i-chart-area"></i>
     </span>
-    <span title="站点总字数">652k 字</span>
+    <span title="站点总字数">671k 字</span>
 
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="ic i-coffee"></i>
     </span>
-    <span title="站点阅读时长">9:53</span>
+    <span title="站点阅读时长">10:10</span>
   </div>
   <div class="powered-by">
     基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>

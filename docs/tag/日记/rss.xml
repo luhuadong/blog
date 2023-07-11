@@ -5,8 +5,8 @@
         <link>https://luhuadong.com</link>
         <description>阿基米东的网络日志</description>
         <language>zh-CN</language>
-        <pubDate>Fri, 09 Jun 2023 23:22:58 +0800</pubDate>
-        <lastBuildDate>Fri, 09 Jun 2023 23:22:58 +0800</lastBuildDate>
+        <pubDate>Sat, 01 Jul 2023 14:33:29 +0800</pubDate>
+        <lastBuildDate>Sat, 01 Jul 2023 14:33:29 +0800</lastBuildDate>
         <category>商业</category>
         <category>成长</category>
         <category>日记</category>
@@ -48,6 +48,7 @@
         <category>科普</category>
         <category>可持续</category>
         <category>能源</category>
+        <category>社会问题</category>
         <category>职业</category>
         <category>时间管理</category>
         <category>milestone</category>
@@ -90,6 +91,18 @@
         <category>垃圾分类</category>
         <category>零废弃</category>
         <category>低碳</category>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/journal/20230701.html</guid>
+            <title>六月碎碎念：如何解脱生活的压力，体现生命的价值</title>
+            <link>https://luhuadong.com/journal/20230701.html</link>
+            <category>日记</category>
+            <category>思考</category>
+            <pubDate>Sat, 01 Jul 2023 14:33:29 +0800</pubDate>
+            <description><![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;我好像不会笑了 😶&lt;/p&gt;
+&lt;/blockquote&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/journal/20230609.html</guid>
             <title>五月碎碎念：高温、裁员、职业倦怠、运动的快乐</title>
@@ -223,7 +236,7 @@
             <category>开源</category>
             <pubDate>Tue, 12 Jul 2022 19:33:50 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;今天在折腾&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnV2b3Rvbi5jb20=&#34;&gt;新唐科技&lt;/span&gt;（nuvoTon）提供的 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nZXRpb3QudGVjaC9udW1ha2VyL251bWFrZXItaG1pLW45aDMwLWludHJvLmh0bWw=&#34;&gt;NuMaker-HMI-N9H30&lt;/span&gt; 开发板时，准备编译 RT-Thread 的 BSP 包，添加了 LVGL 软件包，下载了交叉编译工具链… 一顿操作猛如虎，结果出现了好一些 Bug！比如下面这个：&lt;/p&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;CC packages/LVGL-latest/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.o&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;packages/LVGL-latest/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c:5:10: fatal error: lvgl/lvgl.h: No such file or directory&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt; &lt;span class=&#34;comment&#34;&gt;#include &amp;quot;lvgl/lvgl.h&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          ^~~~~~~~~~~~~&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;compilation terminated.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption&gt;&lt;span&gt;命令行&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;CC packages/LVGL-latest/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.o&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;packages/LVGL-latest/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c:5:10: fatal error: lvgl/lvgl.h: No such file or directory&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt; &lt;span class=&#34;comment&#34;&gt;#include &amp;quot;lvgl/lvgl.h&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          ^~~~~~~~~~~~~&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;compilation terminated.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;跟着查了代码，发现头文件确实没处理好，于是顺手修复了 Bug 并且提交了合并请求（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2x2Z2wvbHZnbC9wdWxsLzM0Nzc=&#34;&gt;PR #3477&lt;/span&gt;）。几个小时后，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2x2Z2wvbHZnbA==&#34;&gt;LVGL&lt;/span&gt; 项目的创始人 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2tpc3ZlZ2Fib3I=&#34;&gt;Gabor Kiss-Vamosi&lt;/span&gt; 合并了我的提交，开心！就这样，我成为了 LVGL 开源项目的第 263 位贡献者。&lt;/p&gt;
 &lt;img data-src=&#34;/images/journal/20220712_lvgl_contributor.png&#34; width=800 /&gt;
 &lt;p&gt;后来，我又发现了 RT-Thread 软件包中的一个 Bug，居然隐藏了 LVGL 的版本选择，导致 NuMaker-HMI-N9H30 没法使用 BSP 包中要求的 v8.2.0 版本。于是，我又顺手修复了 Bug 并且向 RT-Thread 的 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL1JULVRocmVhZC9wYWNrYWdlcw==&#34;&gt;packages&lt;/span&gt; 仓库提交了合并请求（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL1JULVRocmVhZC9wYWNrYWdlcy9wdWxsLzEzMDA=&#34;&gt;PR #1300&lt;/span&gt;）。&lt;/p&gt;

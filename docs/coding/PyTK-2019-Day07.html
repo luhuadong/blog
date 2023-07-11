@@ -34,7 +34,11 @@
   <title>
 【教孩子学编程】第7天 和电脑玩猜数字游戏 - 一起学编程 |
 Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</title>
-<meta name="generator" content="Hexo 5.4.2"></head>
+<!-- hexo injector head_end start -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-math@4.0.0/dist/style.css">
+<!-- hexo injector head_end end --><meta name="generator" content="Hexo 5.4.2"></head>
 <body itemscope itemtype="http://schema.org/WebPage">
   <div id="loading">
     <div class="cat">
@@ -117,12 +121,12 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
       </div>
       <div id="imgs" class="pjax">
         <ul>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/YuanyangChina.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/PicoVolcano.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/EuropeFromISS.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/NahargarhFort.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/JTNPMilkyWay.jpg"></li>
           <li class="item" data-background-image="https://luhuadong.com/images/default/ProcidaItaly.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/OrcaNorway.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/AgueroSpain.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/CrestedButteEclispe.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/NIrelandGiants.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/NahargarhFort.jpg"></li>
         </ul>
       </div>
     </header>
@@ -185,7 +189,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <h2 id="生成随机数"><a class="markdownIt-Anchor" href="#生成随机数">#</a> 生成随机数</h2>
 <p>Python 已经为我们准备好了 random 模块，使用它可以很方便地生成随机数。暂时先不用管模块是什么，我们先把它用起来！</p>
 <p>在 Python 交互式环境中逐行输入以下代码：</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> random</span><br><span class="line">random.randint(<span class="number">1</span>, <span class="number">10</span>)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> random</span><br><span class="line">random.randint(<span class="number">1</span>, <span class="number">10</span>)</span><br></pre></td></tr></table></figure>
 <p>第一行代码使用 import 命令导入 random 模块；第二行代码使用 random 模块中的  <code>randint()</code>  函数（它是 random integer 的缩写，表示随机的整数），生成一个 1~10 之间的随机数。</p>
 <p><img data-src="/images/coding/%E6%91%87%E9%AA%B0%E5%AD%90.gif" alt=""></p>
 <p>重复运行多次  <code>random.randint(1, 10)</code>  看看是否出现不同的随机数。（ <code>import random</code>  在程序中只需要执行一次即可）</p>
@@ -198,15 +202,15 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <p>同样，在程序的世界里，分支结构也无处不在，通过分支的组合，可以编写出很多有趣的程序。通常，分支结构通过条件判断来实现。</p>
 <p>根据判断的情况，又可分为单项分支、双项分支、多项分支。三种结构的伪代码如下：</p>
 <h3 id="单项分支"><a class="markdownIt-Anchor" href="#单项分支">#</a> 单项分支</h3>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> 条件:</span><br><span class="line">    <span class="comment">#执行的内容...</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> 条件:</span><br><span class="line">    <span class="comment">#执行的内容...</span></span><br></pre></td></tr></table></figure>
 <h3 id="双项分支"><a class="markdownIt-Anchor" href="#双项分支">#</a> 双项分支</h3>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> 条件:</span><br><span class="line">    <span class="comment">#执行的内容...</span></span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">    <span class="comment">#执行的内容...</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> 条件:</span><br><span class="line">    <span class="comment">#执行的内容...</span></span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">    <span class="comment">#执行的内容...</span></span><br></pre></td></tr></table></figure>
 <p>单项分支和双项分支就像开关一样，要么开，要么关。只不过单项分支只关心其中一种情况，双项分支两种情况都关心。</p>
-<p><img data-src="/images/coding/%E5%BC%80%E5%85%B32.jpg" alt=""></p>
+<img data-src="../../images/coding/开关2.jpg" width="400" />
 <h3 id="多项分支"><a class="markdownIt-Anchor" href="#多项分支">#</a> 多项分支</h3>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> 条件:</span><br><span class="line">    <span class="comment">#执行的内容...</span></span><br><span class="line"><span class="keyword">elif</span> 条件:</span><br><span class="line">    <span class="comment">#执行的内容...</span></span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">    <span class="comment">#执行的内容...</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> 条件:</span><br><span class="line">    <span class="comment">#执行的内容...</span></span><br><span class="line"><span class="keyword">elif</span> 条件:</span><br><span class="line">    <span class="comment">#执行的内容...</span></span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">    <span class="comment">#执行的内容...</span></span><br></pre></td></tr></table></figure>
 <p>多项分支中可以有很多个  <code>elif</code>  分支。就像风扇开关那样，有不同的档位，每个档位都有不同的处理方式。</p>
-<p><img data-src="/images/coding/%E9%A3%8E%E6%89%87%E5%BC%80%E5%85%B3.jpg" alt=""></p>
+<img data-src="../../images/coding/风扇开关.jpg" width="400" />
 <p>说明：</p>
 <ul>
 <li>分支结构的条件判断顺序是自上而下逐个分支进行判断的；</li>
@@ -217,7 +221,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <p>有了前面的知识背景，我们就可以撸起袖子写代码了。</p>
 <p><img data-src="/images/coding/%E4%BF%9D%E4%BD%91%E4%BB%A3%E7%A0%81%E6%B2%A1%E6%9C%89bug.png" alt=""></p>
 <p>打开编辑器，输入下面代码，并保存为 <span class="exturl" data-url="aHR0cDovL2d1ZXNzLnB5">guess.py</span> 文件。</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> random</span><br><span class="line"></span><br><span class="line">target = random.randint(<span class="number">1</span>, <span class="number">10</span>)</span><br><span class="line">guess = <span class="built_in">int</span>(<span class="built_in">input</span>(<span class="string">&quot;1~10之间猜一个数字：&quot;</span>))</span><br><span class="line"></span><br><span class="line"><span class="keyword">while</span> guess != target:</span><br><span class="line">    <span class="keyword">if</span> guess &gt; target:</span><br><span class="line">        <span class="built_in">print</span>(guess, <span class="string">&quot;太大了&quot;</span>)</span><br><span class="line">    <span class="keyword">elif</span> guess &lt; target:</span><br><span class="line">        <span class="built_in">print</span>(guess, <span class="string">&quot;太小了&quot;</span>)</span><br><span class="line"></span><br><span class="line">    guess = <span class="built_in">int</span>(<span class="built_in">input</span>(<span class="string">&quot;再猜一遍：&quot;</span>))</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;猜对了！&#123;&#125; 是正确的数字&quot;</span>.<span class="built_in">format</span>(guess))</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> random</span><br><span class="line"></span><br><span class="line">target = random.randint(<span class="number">1</span>, <span class="number">10</span>)</span><br><span class="line">guess = <span class="built_in">int</span>(<span class="built_in">input</span>(<span class="string">&quot;1~10之间猜一个数字：&quot;</span>))</span><br><span class="line"></span><br><span class="line"><span class="keyword">while</span> guess != target:</span><br><span class="line">    <span class="keyword">if</span> guess &gt; target:</span><br><span class="line">        <span class="built_in">print</span>(guess, <span class="string">&quot;太大了&quot;</span>)</span><br><span class="line">    <span class="keyword">elif</span> guess &lt; target:</span><br><span class="line">        <span class="built_in">print</span>(guess, <span class="string">&quot;太小了&quot;</span>)</span><br><span class="line"></span><br><span class="line">    guess = <span class="built_in">int</span>(<span class="built_in">input</span>(<span class="string">&quot;再猜一遍：&quot;</span>))</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;猜对了！&#123;&#125; 是正确的数字&quot;</span>.<span class="built_in">format</span>(guess))</span><br></pre></td></tr></table></figure>
 <p>执行  <code>python3 guess.py </code>  看看运行效果吧～</p>
 <p><img data-src="/images/coding/%E7%8C%9C%E6%95%B0%E5%AD%97%E6%B8%B8%E6%88%8F%E7%BB%93%E6%9E%9C.png" alt=""></p>
 <h2 id="代码说明"><a class="markdownIt-Anchor" href="#代码说明">#</a> 代码说明</h2>
@@ -245,7 +249,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
       <i class="ic i-calendar-check"></i>
     </span>
     <span class="text">更新于</span>
-    <time title="修改时间：2023-06-24 12:04:29" itemprop="dateModified" datetime="2023-06-24T12:04:29+08:00">2023-06-24</time>
+    <time title="修改时间：2023-07-01 23:03:51" itemprop="dateModified" datetime="2023-07-01T23:03:51+08:00">2023-07-01</time>
   </span>
   <span id="coding/PyTK-2019-Day07.html" class="item leancloud_visitors" data-flag-title="【教孩子学编程】第7天 和电脑玩猜数字游戏" title="阅读次数">
       <span class="icon">
@@ -308,7 +312,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <div class="item left">
       
 
-  <a href="/coding/PyTK-2019-Day06.html" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;AgueroSpain.jpg" title="【教孩子学编程】第6天 电脑也会九九乘法口诀">
+  <a href="/coding/PyTK-2019-Day06.html" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;JTNPMilkyWay.jpg" title="【教孩子学编程】第6天 电脑也会九九乘法口诀">
   <span class="type">上一篇</span>
   <span class="category"><i class="ic i-flag"></i> 一起学编程</span>
   <h3>【教孩子学编程】第6天 电脑也会九九乘法口诀</h3>
@@ -318,7 +322,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <div class="item right">
       
 
-  <a href="/coding/PyTK-2019-Day08.html" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;CrestedButteEclispe.jpg" title="【教孩子学编程】第8天 还记得大明湖畔的变量和函数吗">
+  <a href="/coding/PyTK-2019-Day08.html" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;NIrelandGiants.jpg" title="【教孩子学编程】第8天 还记得大明湖畔的变量和函数吗">
   <span class="type">下一篇</span>
   <span class="category"><i class="ic i-flag"></i> 一起学编程</span>
   <h3>【教孩子学编程】第8天 还记得大明湖畔的变量和函数吗</h3>
@@ -358,19 +362,19 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <nav class="state">
     <div class="item posts">
       <a href="/archives/">
-        <span class="count">325</span>
+        <span class="count">334</span>
         <span class="name">文章</span>
       </a>
     </div>
     <div class="item categories">
       <a href="/categories/">
-        <span class="count">37</span>
+        <span class="count">39</span>
         <span class="name">分类</span>
       </a>
     </div>
     <div class="item tags">
       <a href="/tags/">
-        <span class="count">83</span>
+        <span class="count">84</span>
         <span class="name">标签</span>
       </a>
     </div>
@@ -463,13 +467,13 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <span class="post-meta-item-icon">
       <i class="ic i-chart-area"></i>
     </span>
-    <span title="站点总字数">652k 字</span>
+    <span title="站点总字数">671k 字</span>
 
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="ic i-coffee"></i>
     </span>
-    <span title="站点阅读时长">9:53</span>
+    <span title="站点阅读时长">10:10</span>
   </div>
   <div class="powered-by">
     基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>

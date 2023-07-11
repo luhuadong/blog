@@ -48,6 +48,7 @@
         <category>科普</category>
         <category>可持续</category>
         <category>能源</category>
+        <category>社会问题</category>
         <category>职业</category>
         <category>时间管理</category>
         <category>milestone</category>
@@ -208,12 +209,12 @@
             <description><![CDATA[ &lt;h2 id=&#34;指标&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#指标&#34;&gt;#&lt;/a&gt; 指标&lt;/h2&gt;
 &lt;h3 id=&#34;房屋租售比&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#房屋租售比&#34;&gt;#&lt;/a&gt; 房屋租售比&lt;/h3&gt;
 &lt;p&gt;房屋租售比是指每平方米使用面积的月租金与每平方米建筑面积房价之间的比值。国际上用来衡量一个区域房产运行状况良好的租售比一般界定为 1:300 至 1:200 之间。中国由于房价的高企，租金还无法追上房价上涨的步伐，2020 年全国 50 个重点城市的平均租售比为 1:611，远低于国际合理租售比区间水平。&lt;/p&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;租售比 = 每平方米的月租金 ÷ 每平方米的房价 = 月租金 ÷ 房价&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption&gt;&lt;span&gt;命令行&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;租售比 = 每平方米的月租金 ÷ 每平方米的房价 = 月租金 ÷ 房价&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;如果租售比过低于如 1:700（举例：按照租售比为每个月的月租与每平方米的房价的比值理解，在 1:700 的情况下，需要 700 个月才能收回购房成本），这意味着房产泡沫已经显现；而如果高于 1:300，表明这一区域房产较为保值。&lt;/p&gt;
 &lt;p&gt;租售比很好的解决了供求关系的干扰，是判断房产未来是否保值的重要指标之一。&lt;/p&gt;
 &lt;h3 id=&#34;房价收入比&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#房价收入比&#34;&gt;#&lt;/a&gt; 房价收入比&lt;/h3&gt;
 &lt;p&gt;房价收入比即 “房价对收入比”（Ratio of house price to income），住房价格与城市居民家庭年收入之比。&lt;/p&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;房价收入比 = 每户住房总价 ÷ 每户家庭年总收入&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption&gt;&lt;span&gt;命令行&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;房价收入比 = 每户住房总价 ÷ 每户家庭年总收入&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;房价收入比是一个比较笼统的指标，只能大致描述一个城市的家庭收入与房价之间的关系。世界银行提出，发达国家正常的房价收入比一般在 1.8-5.5 之间，而发展中国家合理的房价收入比则在 3-6 之间。&lt;/p&gt;
 &lt;h2 id=&#34;房屋&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#房屋&#34;&gt;#&lt;/a&gt; 房屋&lt;/h2&gt;
 &lt;p&gt;一般指上有屋顶，周围有墙，能防风避雨，御寒保温，供人们在其中工作、生活、学习、娱乐和储藏物资，并具有固定基础，层高一般在 2.2 米以上的永久性场所。&lt;/p&gt;

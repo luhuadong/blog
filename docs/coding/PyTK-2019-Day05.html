@@ -34,7 +34,11 @@
   <title>
 【教孩子学编程】第5天 你的第一个 Python 程序 - 一起学编程 |
 Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</title>
-<meta name="generator" content="Hexo 5.4.2"></head>
+<!-- hexo injector head_end start -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-math@4.0.0/dist/style.css">
+<!-- hexo injector head_end end --><meta name="generator" content="Hexo 5.4.2"></head>
 <body itemscope itemtype="http://schema.org/WebPage">
   <div id="loading">
     <div class="cat">
@@ -118,11 +122,11 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
       <div id="imgs" class="pjax">
         <ul>
           <li class="item" data-background-image="https://luhuadong.com/images/default/AgueroSpain.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/NIrelandGiants.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/ProcidaItaly.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/NahargarhFort.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/MPPUnesco.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/WhitehorseAurora.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/EdaleValley.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/MinouLighthouse.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/JavaBromo.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/QingMing2023.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/JTNPMilkyWay.jpg"></li>
         </ul>
       </div>
     </header>
@@ -186,7 +190,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <p><img data-src="/images/coding/%E7%AC%AC%E4%B8%80%E4%B8%AAPython%E7%A8%8B%E5%BA%8F.jpeg" alt=""></p>
 <p>很简单吧，任何有效的数学计算都可以在这里算出来呢！</p>
 <p>除了算数，我们也可以让 Python 在屏幕上打印出指定的文字，尝试输入并执行如下代码，看看会发生什么。</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello World&quot;</span>)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello World&quot;</span>)</span><br></pre></td></tr></table></figure>
 <p>这里的  <code>print</code>  是一个函数，括号中包含希望打印的文字，需要用单引号或者双引号括起来，但不能混用单引号和双引号。</p>
 <p>这种用单引号或者双引号括起来的文本在程序中叫 “字符串”，在后面的学习中，我们还会经常使用到！</p>
 <p><img data-src="/images/coding/%E7%AC%AC%E4%B8%80%E4%B8%AAPython%E7%A8%8B%E5%BA%8F.png" alt=""></p>
@@ -195,11 +199,11 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <p>前面我们在交互式环境中执行了一些 Python 代码，更多的时候，我们会把 Python 代码先写到文件中，然后再执行。</p>
 <p><img data-src="/images/coding/%E9%86%92%E9%86%92-%E6%95%B2%E4%BB%A3%E7%A0%81%E4%BA%86.jpg" alt=""></p>
 <p>打开一个编辑器，输入如下代码，并保存为 <span class="exturl" data-url="aHR0cDovL2dyZWV0LnB5">greet.py</span> 文件。</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&quot;</span>, name)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&quot;</span>, name)</span><br></pre></td></tr></table></figure>
 <p>回到终端，输入  <code>python3 greet.py</code>  ，按回车，即可执行这些 Python 代码。（注意：终端的当前工作目录路径要与文件保存的路径一致）</p>
 <p>这里的  <code>input</code>  是一个函数，程序执行时会先打印提示信息 “你好，请问你叫什么名字？”，并等待你的输入，当你输入名字并按回车后，你的名字会保存在  <code>name</code>  中，然后  <code>print</code>  函数会打印一段字符串和你打招呼。</p>
 <p>如果嫌电脑不够热情，我们可以让他多喊几次你的名字，将程序修改成这样：</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&quot;</span>, name, name, name)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">name = <span class="built_in">input</span>(<span class="string">&quot;你好，请问你叫什么名字？&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;很高兴认识你，&quot;</span>, name, name, name)</span><br></pre></td></tr></table></figure>
 <p>保存文件，回到终端输入  <code>python3 greet.py</code>  按回车执行程序！</p>
 <p><img data-src="/images/coding/Python%E6%89%93%E6%8B%9B%E5%91%BC.png" alt=""></p>
 <p>好啦，不知不觉，你的第一个 Python 程序以及完成啦～</p>
@@ -229,7 +233,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
       <i class="ic i-calendar-check"></i>
     </span>
     <span class="text">更新于</span>
-    <time title="修改时间：2023-06-24 12:04:29" itemprop="dateModified" datetime="2023-06-24T12:04:29+08:00">2023-06-24</time>
+    <time title="修改时间：2023-07-01 22:48:18" itemprop="dateModified" datetime="2023-07-01T22:48:18+08:00">2023-07-01</time>
   </span>
   <span id="coding/PyTK-2019-Day05.html" class="item leancloud_visitors" data-flag-title="【教孩子学编程】第5天 你的第一个 Python 程序" title="阅读次数">
       <span class="icon">
@@ -292,7 +296,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <div class="item left">
       
 
-  <a href="/coding/PyTK-2019-Day04.html" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;ProcidaItaly.jpg" title="【教孩子学编程】第4天 咿呀学语，Python常用英文单词">
+  <a href="/coding/PyTK-2019-Day04.html" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;QingMing2023.jpg" title="【教孩子学编程】第4天 咿呀学语，Python常用英文单词">
   <span class="type">上一篇</span>
   <span class="category"><i class="ic i-flag"></i> 一起学编程</span>
   <h3>【教孩子学编程】第4天 咿呀学语，Python常用英文单词</h3>
@@ -302,7 +306,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <div class="item right">
       
 
-  <a href="/coding/PyTK-2019-Day06.html" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;AgueroSpain.jpg" title="【教孩子学编程】第6天 电脑也会九九乘法口诀">
+  <a href="/coding/PyTK-2019-Day06.html" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;QingMing2023.jpg" title="【教孩子学编程】第6天 电脑也会九九乘法口诀">
   <span class="type">下一篇</span>
   <span class="category"><i class="ic i-flag"></i> 一起学编程</span>
   <h3>【教孩子学编程】第6天 电脑也会九九乘法口诀</h3>
@@ -342,19 +346,19 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <nav class="state">
     <div class="item posts">
       <a href="/archives/">
-        <span class="count">325</span>
+        <span class="count">334</span>
         <span class="name">文章</span>
       </a>
     </div>
     <div class="item categories">
       <a href="/categories/">
-        <span class="count">37</span>
+        <span class="count">39</span>
         <span class="name">分类</span>
       </a>
     </div>
     <div class="item tags">
       <a href="/tags/">
-        <span class="count">83</span>
+        <span class="count">84</span>
         <span class="name">标签</span>
       </a>
     </div>
@@ -447,13 +451,13 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <span class="post-meta-item-icon">
       <i class="ic i-chart-area"></i>
     </span>
-    <span title="站点总字数">652k 字</span>
+    <span title="站点总字数">671k 字</span>
 
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="ic i-coffee"></i>
     </span>
-    <span title="站点阅读时长">9:53</span>
+    <span title="站点阅读时长">10:10</span>
   </div>
   <div class="powered-by">
     基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>

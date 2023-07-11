@@ -34,7 +34,11 @@
   <title>
 Hexo 创建文章 - 如何搭建Hexo博客 |
 Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</title>
-<meta name="generator" content="Hexo 5.4.2"></head>
+<!-- hexo injector head_end start -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-math@4.0.0/dist/style.css">
+<!-- hexo injector head_end end --><meta name="generator" content="Hexo 5.4.2"></head>
 <body itemscope itemtype="http://schema.org/WebPage">
   <div id="loading">
     <div class="cat">
@@ -76,7 +80,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
       <i class="ic i-pen"></i>
     </span>
     <span class="text">本文字数</span>
-    <span>746</span>
+    <span>761</span>
     <span class="text">字</span>
   </span>
   <span class="item" title="阅读时长">
@@ -117,12 +121,12 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
       </div>
       <div id="imgs" class="pjax">
         <ul>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/QingMing2023.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/NIrelandGiants.jpg"></li>
           <li class="item" data-background-image="https://luhuadong.com/images/default/WhitehorseAurora.jpg"></li>
           <li class="item" data-background-image="https://luhuadong.com/images/default/MinouLighthouse.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/NahargarhFort.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/JavaBromo.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/OrcaNorway.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/PicoVolcano.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/AgueroSpain.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/QingMing2023.jpg"></li>
         </ul>
       </div>
     </header>
@@ -170,9 +174,9 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 
     <h2 id="创建文章"><a class="markdownIt-Anchor" href="#创建文章">#</a> 创建文章</h2>
 <p>简单的，我们可以使用下面命令创建文章，其中  <code>title</code>  为文章标题。</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new &lt;title&gt;</span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><figcaption><span>命令行</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new &lt;title&gt;</span><br></pre></td></tr></table></figure>
 <p>这种创建方式会将新文章建立在  <code>source/_posts</code>  目录下，例如创建一篇名为 “new article” 的文章。</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new <span class="string">&quot;new article&quot;</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><figcaption><span>命令行</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new <span class="string">&quot;new article&quot;</span></span><br></pre></td></tr></table></figure>
 <p>可以看到在  <code>source/_posts</code>  目录下多了一个 <span class="exturl" data-url="aHR0cDovL25ldy1hcnRpY2xlLm1k">new-article.md</span> 的文件。打开之后我们会看到如下内容。</p>
 <figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">---</span></span><br><span class="line"><span class="attr">title:</span> <span class="string">new</span> <span class="string">article</span></span><br><span class="line"><span class="attr">date:</span> <span class="number">2021-09-22 14:45:14</span></span><br><span class="line"><span class="attr">tags:</span></span><br><span class="line"><span class="meta">---</span></span><br></pre></td></tr></table></figure>
 <h3 id="文章属性"><a class="markdownIt-Anchor" href="#文章属性">#</a> 文章属性</h3>
@@ -190,14 +194,14 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <p>动态博客中通过发布文章页面设置的各种属性，在 hexo 里要这样设置。</p>
 <h2 id="保存草稿"><a class="markdownIt-Anchor" href="#保存草稿">#</a> 保存草稿</h2>
 <p>如果文章还没写完，或者暂时不想公开，这时候可以将文章保存为草稿。</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new draft <span class="string">&quot;new draft&quot;</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><figcaption><span>命令行</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new draft <span class="string">&quot;new draft&quot;</span></span><br></pre></td></tr></table></figure>
 <p>执行上面命令，会在  <code>source/_drafts</code>  目录下生成一个 <span class="exturl" data-url="aHR0cDovL25ldy1kcmFmdC5tZA==">new-draft.md</span> 文件。但是这个文件不被显示在页面上，链接也访问不到。也就是说如果你想把某一篇文章移除显示，又不舍得删除，可以把它移动到  <code>_drafts</code>  目录之中。</p>
 <p>如果你希望强行预览草稿，更改配置文件：</p>
 <figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">render_drafts:</span> <span class="literal">true</span></span><br></pre></td></tr></table></figure>
 <p>或者，如下方式启动 server：</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo server --drafts</span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><figcaption><span>命令行</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo server --drafts</span><br></pre></td></tr></table></figure>
 <p>下面这条命令可以把草稿变成文章，或者页面：</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo publish [layout]</span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><figcaption><span>命令行</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo publish [layout]</span><br></pre></td></tr></table></figure>
 <h2 id="参考"><a class="markdownIt-Anchor" href="#参考">#</a> 参考</h2>
 <ul>
 <li><span class="exturl" data-url="aHR0cHM6Ly9ub3ZuYW4uZ2l0aHViLmlvL0hleG8vaGV4by1kcmFmdC8=">Hexo 文章保存为草稿</span></li>
@@ -217,7 +221,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
       <i class="ic i-calendar-check"></i>
     </span>
     <span class="text">更新于</span>
-    <time title="修改时间：2023-06-24 12:04:29" itemprop="dateModified" datetime="2023-06-24T12:04:29+08:00">2023-06-24</time>
+    <time title="修改时间：2023-07-02 00:37:47" itemprop="dateModified" datetime="2023-07-02T00:37:47+08:00">2023-07-02</time>
   </span>
   <span id="hexo/hexo-new-article.html" class="item leancloud_visitors" data-flag-title="Hexo 创建文章" title="阅读次数">
       <span class="icon">
@@ -280,7 +284,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <div class="item left">
       
 
-  <a href="/hexo/hexo-configuration.html" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;JavaBromo.jpg" title="Hexo 配置">
+  <a href="/hexo/hexo-configuration.html" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;QingMing2023.jpg" title="Hexo 配置">
   <span class="type">上一篇</span>
   <span class="category"><i class="ic i-flag"></i> 如何搭建Hexo博客</span>
   <h3>Hexo 配置</h3>
@@ -290,7 +294,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <div class="item right">
       
 
-  <a href="/hexo/hexo-generate-deploy.html" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;NahargarhFort.jpg" title="Hexo 编译发布">
+  <a href="/hexo/hexo-generate-deploy.html" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;ProcidaItaly.jpg" title="Hexo 编译发布">
   <span class="type">下一篇</span>
   <span class="category"><i class="ic i-flag"></i> 如何搭建Hexo博客</span>
   <h3>Hexo 编译发布</h3>
@@ -330,19 +334,19 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <nav class="state">
     <div class="item posts">
       <a href="/archives/">
-        <span class="count">325</span>
+        <span class="count">334</span>
         <span class="name">文章</span>
       </a>
     </div>
     <div class="item categories">
       <a href="/categories/">
-        <span class="count">37</span>
+        <span class="count">39</span>
         <span class="name">分类</span>
       </a>
     </div>
     <div class="item tags">
       <a href="/tags/">
-        <span class="count">83</span>
+        <span class="count">84</span>
         <span class="name">标签</span>
       </a>
     </div>
@@ -435,13 +439,13 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <span class="post-meta-item-icon">
       <i class="ic i-chart-area"></i>
     </span>
-    <span title="站点总字数">652k 字</span>
+    <span title="站点总字数">671k 字</span>
 
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="ic i-coffee"></i>
     </span>
-    <span title="站点阅读时长">9:53</span>
+    <span title="站点阅读时长">10:10</span>
   </div>
   <div class="powered-by">
     基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>

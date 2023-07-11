@@ -34,7 +34,11 @@
   <title>
 Hexo 评论系统（Giscus） - 如何搭建Hexo博客 |
 Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</title>
-<meta name="generator" content="Hexo 5.4.2"></head>
+<!-- hexo injector head_end start -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-math@4.0.0/dist/style.css">
+<!-- hexo injector head_end end --><meta name="generator" content="Hexo 5.4.2"></head>
 <body itemscope itemtype="http://schema.org/WebPage">
   <div id="loading">
     <div class="cat">
@@ -117,12 +121,12 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
       </div>
       <div id="imgs" class="pjax">
         <ul>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/PicoVolcano.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/MinouLighthouse.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/EuropeFromISS.jpg"></li>
           <li class="item" data-background-image="https://luhuadong.com/images/default/WhitehorseAurora.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/NahargarhFort.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/AgueroSpain.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/ProcidaItaly.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/OrcaNorway.jpg"></li>
           <li class="item" data-background-image="https://luhuadong.com/images/default/CrestedButteEclispe.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/JavaBromo.jpg"></li>
         </ul>
       </div>
     </header>
@@ -182,15 +186,15 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <p><img data-src="/images/hexo/giscus-install.png" alt=""></p>
 <h2 id="hexo-配置"><a class="markdownIt-Anchor" href="#hexo-配置">#</a> Hexo 配置</h2>
 <p>在你的 Hexo 博客目录中执行以下命令，安装 hexo-next-giscus 插件。</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-next-giscus --save</span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><figcaption><span>命令行</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-next-giscus --save</span><br></pre></td></tr></table></figure>
 <p>然后在 Hexo 或者 theme 的 _config.yml 配置文件添加如下内容：</p>
-<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">giscus:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="comment"># Github repository name</span></span><br><span class="line">  <span class="attr">repo_id:</span> <span class="comment"># Github repository id</span></span><br><span class="line">  <span class="attr">category:</span> <span class="comment"># Github discussion category</span></span><br><span class="line">  <span class="attr">category_id:</span> <span class="comment"># Github discussion category id</span></span><br><span class="line">  <span class="comment"># Available values: pathname | url | title | og:title</span></span><br><span class="line">  <span class="attr">mapping:</span> <span class="string">pathname</span></span><br><span class="line">  <span class="comment"># Available values: 0 | 1 </span></span><br><span class="line">  <span class="attr">reactions_enabled:</span> <span class="number">1</span></span><br><span class="line">   <span class="comment"># Available values: 0 | 1 </span></span><br><span class="line">  <span class="attr">emit_metadata:</span> <span class="number">1</span></span><br><span class="line">  <span class="comment"># Available values: light | dark | dark_high_contrast | transparent_dark | preferred-color-scheme</span></span><br><span class="line">  <span class="attr">theme:</span> <span class="string">light</span></span><br><span class="line">  <span class="comment"># Available values: en | zh-C</span></span><br><span class="line">  <span class="attr">lang:</span> <span class="string">en</span></span><br><span class="line">  <span class="comment"># Available value: anonymous</span></span><br><span class="line">  <span class="attr">crossorigin:</span> <span class="string">anonymous</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight yaml"><figcaption><span>配置</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">giscus:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="comment"># Github repository name</span></span><br><span class="line">  <span class="attr">repo_id:</span> <span class="comment"># Github repository id</span></span><br><span class="line">  <span class="attr">category:</span> <span class="comment"># Github discussion category</span></span><br><span class="line">  <span class="attr">category_id:</span> <span class="comment"># Github discussion category id</span></span><br><span class="line">  <span class="comment"># Available values: pathname | url | title | og:title</span></span><br><span class="line">  <span class="attr">mapping:</span> <span class="string">pathname</span></span><br><span class="line">  <span class="comment"># Available values: 0 | 1 </span></span><br><span class="line">  <span class="attr">reactions_enabled:</span> <span class="number">1</span></span><br><span class="line">   <span class="comment"># Available values: 0 | 1 </span></span><br><span class="line">  <span class="attr">emit_metadata:</span> <span class="number">1</span></span><br><span class="line">  <span class="comment"># Available values: light | dark | dark_high_contrast | transparent_dark | preferred-color-scheme</span></span><br><span class="line">  <span class="attr">theme:</span> <span class="string">light</span></span><br><span class="line">  <span class="comment"># Available values: en | zh-C</span></span><br><span class="line">  <span class="attr">lang:</span> <span class="string">en</span></span><br><span class="line">  <span class="comment"># Available value: anonymous</span></span><br><span class="line">  <span class="attr">crossorigin:</span> <span class="string">anonymous</span></span><br></pre></td></tr></table></figure>
 <h2 id="giscus-配置"><a class="markdownIt-Anchor" href="#giscus-配置">#</a> giscus 配置</h2>
 <p>在 <span class="exturl" data-url="aHR0cHM6Ly9naXNjdXMuYXBwL3poLUNO">https://giscus.app</span> 页面根据你的个人喜好勾选 giscus 配置项，进行配置，会生成一个配置脚本。</p>
 <p><img data-src="/images/hexo/giscus-settings.png" alt=""></p>
 <p>参考该脚本内容修改 _config.yml 文件的 giscus 配置项。</p>
 <h2 id="部署"><a class="markdownIt-Anchor" href="#部署">#</a> 部署</h2>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo generate</span><br><span class="line">hexo server</span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><figcaption><span>命令行</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo generate</span><br><span class="line">hexo server</span><br></pre></td></tr></table></figure>
 <p>浏览器打开 <span class="exturl" data-url="aHR0cDovL2xvY2FsaG9zdDo0MDAw">http://localhost:4000</span>，在文章末尾可以看到 giscus 评论区：</p>
 <p><img data-src="/images/hexo/giscus-ok.png" alt=""></p>
 <p>现在，你可以开始评论啦！<span class="github-emoji" alias="smile" style="" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8">😄</span></p>
@@ -208,7 +212,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
       <i class="ic i-calendar-check"></i>
     </span>
     <span class="text">更新于</span>
-    <time title="修改时间：2023-06-24 12:04:29" itemprop="dateModified" datetime="2023-06-24T12:04:29+08:00">2023-06-24</time>
+    <time title="修改时间：2023-07-02 00:34:36" itemprop="dateModified" datetime="2023-07-02T00:34:36+08:00">2023-07-02</time>
   </span>
   <span id="hexo/hexo-comments-giscus.html" class="item leancloud_visitors" data-flag-title="Hexo 评论系统（Giscus）" title="阅读次数">
       <span class="icon">
@@ -271,7 +275,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <div class="item left">
       
 
-  <a href="/career/interviewer-s-trouble.html" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;NahargarhFort.jpg" title="面试官的烦恼：可持续的优秀团队">
+  <a href="/career/interviewer-s-trouble.html" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;MPPUnesco.jpg" title="面试官的烦恼：可持续的优秀团队">
   <span class="type">上一篇</span>
   <span class="category"><i class="ic i-flag"></i> 了不起的打工人</span>
   <h3>面试官的烦恼：可持续的优秀团队</h3>
@@ -321,19 +325,19 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <nav class="state">
     <div class="item posts">
       <a href="/archives/">
-        <span class="count">325</span>
+        <span class="count">334</span>
         <span class="name">文章</span>
       </a>
     </div>
     <div class="item categories">
       <a href="/categories/">
-        <span class="count">37</span>
+        <span class="count">39</span>
         <span class="name">分类</span>
       </a>
     </div>
     <div class="item tags">
       <a href="/tags/">
-        <span class="count">83</span>
+        <span class="count">84</span>
         <span class="name">标签</span>
       </a>
     </div>
@@ -426,13 +430,13 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <span class="post-meta-item-icon">
       <i class="ic i-chart-area"></i>
     </span>
-    <span title="站点总字数">652k 字</span>
+    <span title="站点总字数">671k 字</span>
 
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="ic i-coffee"></i>
     </span>
-    <span title="站点阅读时长">9:53</span>
+    <span title="站点阅读时长">10:10</span>
   </div>
   <div class="powered-by">
     基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>

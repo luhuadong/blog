@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "成为自由人 • All posts by \"社会问题\" tag",
+    "description": "阿基米东的网络日志",
+    "home_page_url": "https://luhuadong.com",
+    "items": [
+        {
+            "id": "https://luhuadong.com/inchina/du-li-chu-jia-ren.html",
+            "url": "https://luhuadong.com/inchina/du-li-chu-jia-ren.html",
+            "title": "独立出家人",
+            "date_published": "2023-07-11T14:27:29.000Z",
+            "content_html": "<p><img data-src=\"/images/inchina/du-li-chu-jia-ren.png\" alt=\"\"></p>\n<p>我们知道，独立音乐人指没有和任何唱片公司签约的音乐人，自己录歌，自己宣传。独立制片人是指不依赖于专业商业公司或制片厂，拍摄制作相对比较自由的电影制片人。</p>\n<p>“独立出家人” 是指不依赖于任何道观或寺院，不需要成为名义上的和尚、尼姑，以比较自由和灵活的方式隐居、吃斋、修道的人。他们通常选择定期离开亲人、家庭、事业这些世俗世界，关注自我的身心灵成长，提升悟性。</p>\n<p>注：不依赖于任何道观或寺院的原因是条件太高了，按照宗教政策，寺庙和道观分别归佛教协会和道教协会管理，也就是说，在庙里上班的和尚可能是有事业编制的。</p>\n",
+            "tags": [
+                "社会问题"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/inchina/si-bu-qing-nian.html",
+            "url": "https://luhuadong.com/inchina/si-bu-qing-nian.html",
+            "title": "四不青年",
+            "date_published": "2023-07-11T14:27:16.000Z",
+            "content_html": "<p><img data-src=\"/images/inchina/si-bu-qing-nian.png\" alt=\"四不青年\"></p>\n<p>香港《星岛日报》报导，受冠病疫情长达三年影响，中国经济不景气，当地青年失业率超过 20%。从今年三月起，“四不青年” 这个词汇开始在网络流行起来。</p>\n<p>四不指的是：不恋爱、不结婚、不买房和不生子。官方呼吁通过多方力量，把 “四不” 现象转为 “四要” （要谈恋爱、要结婚、要买房、要孩子）。</p>\n<p>众多网友表示，并非自己不想找对象、买房、结婚、生子，而是根本没能力实现这些目标。</p>\n<p>就我本人而言，工作已经超过 996 的状态了，通常晚上 10 点，有时甚至到深夜 11 点或 12 点才下班，周末只想睡觉、啥也不想做、几乎没社交，薪水看起来挺高，但消费也高（个税也高），根本不敢想在工作的大城市买房。而且想到婚姻生活，房贷、车贷、赡养父母、上学难、看病难、停车也难，还有 35 岁就面临失业危机，不恋爱、不结婚、不买房和不生子实属是更好的选择。</p>\n",
+            "tags": [
+                "社会问题"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/inchina/kong-qian-jue-hou.html",
+            "url": "https://luhuadong.com/inchina/kong-qian-jue-hou.html",
+            "title": "空前绝后",
+            "date_published": "2023-07-11T14:27:05.000Z",
+            "content_html": "<p><img data-src=\"/images/inchina/kong-qian-jue-hou.png\" alt=\"\"></p>\n<p>“空前绝后” 是指掏空上一代积蓄，透支未来而来买房，最后还落得不敢结婚、不敢生子的结局。</p>\n<p>只能说，我们这一届没有背景的青年人太难了。</p>\n",
+            "tags": [
+                "社会问题"
+            ]
+        }
+    ]
+}

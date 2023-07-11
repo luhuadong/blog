@@ -34,7 +34,11 @@
   <title>
 【教孩子学编程】第8天 还记得大明湖畔的变量和函数吗 - 一起学编程 |
 Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</title>
-<meta name="generator" content="Hexo 5.4.2"></head>
+<!-- hexo injector head_end start -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-math@4.0.0/dist/style.css">
+<!-- hexo injector head_end end --><meta name="generator" content="Hexo 5.4.2"></head>
 <body itemscope itemtype="http://schema.org/WebPage">
   <div id="loading">
     <div class="cat">
@@ -117,12 +121,12 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
       </div>
       <div id="imgs" class="pjax">
         <ul>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/MinouLighthouse.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/WhitehorseAurora.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/YuanyangChina.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/AgueroSpain.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/NahargarhFort.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/MPPUnesco.jpg"></li>
           <li class="item" data-background-image="https://luhuadong.com/images/default/OrcaNorway.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/EdaleValley.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/MinouLighthouse.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/PicoVolcano.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/QingMing2023.jpg"></li>
         </ul>
       </div>
     </header>
@@ -172,7 +176,8 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <p>不知不觉，我们已经一起写了好几个程序了。在编写程序的时候，很抱歉有些东西我刻意隐瞒了，因此今天我要停下来，给你讲讲当年大明湖畔的夏… 呸，变量和函数！</p>
 <h2 id="二元一次方程"><a class="markdownIt-Anchor" href="#二元一次方程">#</a> 二元一次方程</h2>
 <p>我们知道温度的单位有摄氏度和华氏度，它们之间的关系是：</p>
-<p>F = C × 1.8 + 32</p>
+<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>F</mi><mo>=</mo><mi>C</mi><mo>×</mo><mn>1.8</mn><mo>+</mo><mn>32</mn></mrow><annotation encoding="application/x-tex">F = C × 1.8 + 32
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">F</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.76666em;vertical-align:-0.08333em;"></span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.72777em;vertical-align:-0.08333em;"></span><span class="mord">1</span><span class="mord">.</span><span class="mord">8</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">3</span><span class="mord">2</span></span></span></span></span></p>
 <p>其中，F 表示华氏温度，C 表示摄氏温度。</p>
 <p><img data-src="/images/coding/%E6%91%84%E6%B0%8F-%E5%8D%8E%E6%B0%8F.jpeg" alt=""></p>
 <p>为了看起来舒服点，我们用 x 替换 C，用 y 替换 F。于是得到  <code>y = 1.8x + 32</code>  这样一个二元一次方程。</p>
@@ -186,10 +191,10 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <p>在程序设计中，自变量 x 也被称为 “参数”，因变量 y 则被称为 “返回值”。因此你可能会听到这样的描述：传入了参数 x，调用了函数 f ()，返回了结果 y。</p>
 <h2 id="你的第一个python函数"><a class="markdownIt-Anchor" href="#你的第一个python函数">#</a> 你的第一个 Python 函数</h2>
 <p>我们用之前学的编程知识来实现摄氏温度和华氏温度的转换：</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">x = <span class="built_in">float</span>(<span class="built_in">input</span>(<span class="string">&quot;请输入摄氏温度值：&quot;</span>))</span><br><span class="line">y = <span class="number">1.8</span> * x + <span class="number">32</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;对应的华氏温度值为：&quot;</span>, y)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">x = <span class="built_in">float</span>(<span class="built_in">input</span>(<span class="string">&quot;请输入摄氏温度值：&quot;</span>))</span><br><span class="line">y = <span class="number">1.8</span> * x + <span class="number">32</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;对应的华氏温度值为：&quot;</span>, y)</span><br></pre></td></tr></table></figure>
 <p>第一行中的 float () 函数表示将输入的数值转换为浮点数（也就是小数）。</p>
 <p>接下来，我们用函数来实现：</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">f</span>(<span class="params">Ce</span>):</span></span><br><span class="line">    F = <span class="number">1.8</span> * Ce + <span class="number">32</span></span><br><span class="line">    <span class="keyword">return</span> F</span><br><span class="line"></span><br><span class="line">x = <span class="built_in">float</span>(<span class="built_in">input</span>(<span class="string">&quot;请输入摄氏温度值：&quot;</span>))</span><br><span class="line">y = f(x)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;对应的华氏温度值为：&quot;</span>, y)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">f</span>(<span class="params">Ce</span>):</span></span><br><span class="line">    F = <span class="number">1.8</span> * Ce + <span class="number">32</span></span><br><span class="line">    <span class="keyword">return</span> F</span><br><span class="line"></span><br><span class="line">x = <span class="built_in">float</span>(<span class="built_in">input</span>(<span class="string">&quot;请输入摄氏温度值：&quot;</span>))</span><br><span class="line">y = f(x)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;对应的华氏温度值为：&quot;</span>, y)</span><br></pre></td></tr></table></figure>
 <p>前三行就是函数的实现，Python 中的函数使用 def 来标识（def 是 define 的缩写），这个函数的功能是接收一个参数 Ce，经过转换得到 F，并将 F 返回给使用者。</p>
 <p>在看看倒数第二行，是不是很熟悉？这不就是前面的函数表达式  <code>y = f(x)</code>  吗？在程序中，我们称为函数的调用，函数内部转换后的 F 就会传递给变量 y。</p>
 <p>当然，函数的名字不总是叫 f，我们通常会根据函数的功能取一个恰当的名字。比如这个温度转换函数可以取名为 temp_convert 或者 Ce2F。</p>
@@ -201,17 +206,19 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <li><code>O</code> ：Output 输出，程序的输出。</li>
 </ul>
 <p>IPO 方法讲解的是，在编写程序的时候，我们要关注输入是什么，输出是什么，如何从输入达到输出。</p>
-<p><img data-src="/images/coding/IPO%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B.png" alt=""></p>
-<p>程序的输入：文件输入、网络输入、控制台输入、交互界面输入、内部参数输入等。输入是一个程序的开始</p>
-<p>程序的输出：控制台输出、图形输出、文件输出、网络输出、操作系统内部变量输出等。输出是程序展示运算结果的方式。</p>
-<p>程序处理：程序对输入数据进行计算产生输出结果的过程。处理方法统称为算法，它是程序最重要的部分。<strong>算法是一个程序的灵魂</strong>。</p>
+<p><img data-src="../../images/coding/IPO%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B.png" alt="" title="IPO 编程模型"></p>
+<ul>
+<li><strong>程序的输入</strong>：文件输入、网络输入、控制台输入、交互界面输入、内部参数输入等。输入是一个程序的开始</li>
+<li><strong>程序的输出</strong>：控制台输出、图形输出、文件输出、网络输出、操作系统内部变量输出等。输出是程序展示运算结果的方式。</li>
+<li><strong>程序处理</strong>：程序对输入数据进行计算产生输出结果的过程。处理方法统称为算法，它是程序最重要的部分（算法是一个程序的灵魂）。</li>
+</ul>
 <p>一个程序可以有零个或多个输入，至少一个或多个输出。没有输出的程序是没有意义的。</p>
-<p><img data-src="/images/coding/%E4%BA%BA%E7%94%9FIPO%E6%A8%A1%E5%9E%8B.jpeg" alt=""></p>
+<p><img data-src="../../images/coding/%E4%BA%BA%E7%94%9FIPO%E6%A8%A1%E5%9E%8B.jpeg" alt="" title="人生 IPO 模型"></p>
 <p>进一步抽象，你会发现，这种 IPO 模型同样适用于我们人本身。每个人的人生都是 <strong>获取信息输入 - 大脑处理 - 总结输出</strong> 的一个过程。</p>
 <p>比如当你面对考试时，考试成绩就是你的输出，平时的学习积累就是你的输入。比如对于现在的我来说，写东西就是最终的输出，输入就是我前面的经验<s>和瞎想</s>。</p>
 <p>其实每件事都一样，最终的结果无外乎就是看 “有什么输入” 和 “怎样处理”。</p>
 <p>如果你感觉迷茫，难以输出，也许是因为输入不够。这时候就要多读书多看报，少吃零食多睡觉！</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Quality input ensures quality output</span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><figcaption><span>输出结果</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Quality input ensures quality output</span><br></pre></td></tr></table></figure>
 <p>同时，我们人类的大脑处理方式有无数多种，每个人要理解这个世界，都需要自己找到底层的思维模型。通过建立思维模型，形成自己独特、高效的处理方法。</p>
 <p><img data-src="/images/coding/%E8%AF%BB%E4%B9%A6%E5%A4%AA%E5%B0%91%E6%83%B3%E5%BE%97%E5%A4%AA%E5%A4%9A.gif" alt=""></p>
 <h2 id="编程解决问题的步骤"><a class="markdownIt-Anchor" href="#编程解决问题的步骤">#</a> 编程解决问题的步骤</h2>
@@ -255,11 +262,11 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 </annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.76666em;vertical-align:-0.08333em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.13889em;">F</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord">1</span><span class="mord">.</span><span class="mord">8</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord">3</span><span class="mord">2</span></span></span></span></span></span></p>
 <p>其中，C 表示摄氏温度，F 表示华氏温度。</p>
 <h3 id="判断键盘输入的是否为数字"><a class="markdownIt-Anchor" href="#判断键盘输入的是否为数字">#</a> 判断键盘输入的是否为数字</h3>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">num = <span class="built_in">input</span>(<span class="string">&quot;请输入一个数字：&quot;</span>)</span><br><span class="line"><span class="keyword">if</span> </span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">num = <span class="built_in">input</span>(<span class="string">&quot;请输入一个数字：&quot;</span>)</span><br><span class="line"><span class="keyword">if</span> </span><br></pre></td></tr></table></figure>
 <h3 id="将代码写到文件中"><a class="markdownIt-Anchor" href="#将代码写到文件中">#</a> 将代码写到文件中</h3>
 <p>简单点：输入摄氏温度，输出华氏温度</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="string"> 文件：Ce2F.py</span></span><br><span class="line"><span class="string"> 描述：将摄氏温度转换为华氏温度</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"></span><br><span class="line">C = <span class="built_in">input</span>(<span class="string">&quot;请输入摄氏温度值：&quot;</span>)</span><br><span class="line">F = <span class="number">1.8</span> * <span class="built_in">float</span>(C) + <span class="number">32</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;对应的华氏温度为：&#123;:.2f&#125;&quot;</span>.<span class="built_in">format</span>(F))</span><br></pre></td></tr></table></figure>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="string"> 文件：TempConvert.py</span></span><br><span class="line"><span class="string"> 描述：实现华氏和摄氏温度的转换</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"></span><br><span class="line">TempStr = <span class="built_in">input</span>(<span class="string">&quot;请输入带有符号的温度值：&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> TempStr[-<span class="number">1</span>] <span class="keyword">in</span> [<span class="string">&#x27;F&#x27;</span>, <span class="string">&#x27;f&#x27;</span>]:</span><br><span class="line">    C = (<span class="built_in">eval</span>(TempStr[<span class="number">0</span>:-<span class="number">1</span>]) - <span class="number">32</span>)/<span class="number">1.8</span></span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;转换后的温度是 &#123;:.2f&#125;C&quot;</span>.<span class="built_in">format</span>(C))</span><br><span class="line"><span class="keyword">elif</span> TempStr[-<span class="number">1</span>] <span class="keyword">in</span> [<span class="string">&#x27;C&#x27;</span>, <span class="string">&#x27;c&#x27;</span>]:</span><br><span class="line">    F = <span class="number">1.8</span> * <span class="built_in">eval</span>(TempStr[<span class="number">0</span>:-<span class="number">1</span>]) + <span class="number">32</span></span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;转换后的温度是 &#123;:.2f&#125;F&quot;</span>.<span class="built_in">format</span>(F))</span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;输入格式错误&quot;</span>)</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="string"> 文件：Ce2F.py</span></span><br><span class="line"><span class="string"> 描述：将摄氏温度转换为华氏温度</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"></span><br><span class="line">C = <span class="built_in">input</span>(<span class="string">&quot;请输入摄氏温度值：&quot;</span>)</span><br><span class="line">F = <span class="number">1.8</span> * <span class="built_in">float</span>(C) + <span class="number">32</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;对应的华氏温度为：&#123;:.2f&#125;&quot;</span>.<span class="built_in">format</span>(F))</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><figcaption><span>代码</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="string"> 文件：TempConvert.py</span></span><br><span class="line"><span class="string"> 描述：实现华氏和摄氏温度的转换</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"></span><br><span class="line">TempStr = <span class="built_in">input</span>(<span class="string">&quot;请输入带有符号的温度值：&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> TempStr[-<span class="number">1</span>] <span class="keyword">in</span> [<span class="string">&#x27;F&#x27;</span>, <span class="string">&#x27;f&#x27;</span>]:</span><br><span class="line">    C = (<span class="built_in">eval</span>(TempStr[<span class="number">0</span>:-<span class="number">1</span>]) - <span class="number">32</span>)/<span class="number">1.8</span></span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;转换后的温度是 &#123;:.2f&#125;C&quot;</span>.<span class="built_in">format</span>(C))</span><br><span class="line"><span class="keyword">elif</span> TempStr[-<span class="number">1</span>] <span class="keyword">in</span> [<span class="string">&#x27;C&#x27;</span>, <span class="string">&#x27;c&#x27;</span>]:</span><br><span class="line">    F = <span class="number">1.8</span> * <span class="built_in">eval</span>(TempStr[<span class="number">0</span>:-<span class="number">1</span>]) + <span class="number">32</span></span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;转换后的温度是 &#123;:.2f&#125;F&quot;</span>.<span class="built_in">format</span>(F))</span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;输入格式错误&quot;</span>)</span><br><span class="line"></span><br></pre></td></tr></table></figure>
 <h3 id="运行-python-程序"><a class="markdownIt-Anchor" href="#运行-python-程序">#</a> 运行 Python 程序</h3>
 <h3 id="代码说明"><a class="markdownIt-Anchor" href="#代码说明">#</a> 代码说明</h3>
 <ul>
@@ -293,7 +300,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
       <i class="ic i-calendar-check"></i>
     </span>
     <span class="text">更新于</span>
-    <time title="修改时间：2023-06-24 12:04:29" itemprop="dateModified" datetime="2023-06-24T12:04:29+08:00">2023-06-24</time>
+    <time title="修改时间：2023-07-01 23:10:50" itemprop="dateModified" datetime="2023-07-01T23:10:50+08:00">2023-07-01</time>
   </span>
   <span id="coding/PyTK-2019-Day08.html" class="item leancloud_visitors" data-flag-title="【教孩子学编程】第8天 还记得大明湖畔的变量和函数吗" title="阅读次数">
       <span class="icon">
@@ -356,7 +363,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <div class="item left">
       
 
-  <a href="/coding/PyTK-2019-Day07.html" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;OrcaNorway.jpg" title="【教孩子学编程】第7天 和电脑玩猜数字游戏">
+  <a href="/coding/PyTK-2019-Day07.html" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;ProcidaItaly.jpg" title="【教孩子学编程】第7天 和电脑玩猜数字游戏">
   <span class="type">上一篇</span>
   <span class="category"><i class="ic i-flag"></i> 一起学编程</span>
   <h3>【教孩子学编程】第7天 和电脑玩猜数字游戏</h3>
@@ -366,7 +373,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <div class="item right">
       
 
-  <a href="/coding/PyTK-2019-Day09.html" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;MinouLighthouse.jpg" title="【教孩子学编程】第9天 老师的点名神器">
+  <a href="/coding/PyTK-2019-Day09.html" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;WhitehorseAurora.jpg" title="【教孩子学编程】第9天 老师的点名神器">
   <span class="type">下一篇</span>
   <span class="category"><i class="ic i-flag"></i> 一起学编程</span>
   <h3>【教孩子学编程】第9天 老师的点名神器</h3>
@@ -406,19 +413,19 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <nav class="state">
     <div class="item posts">
       <a href="/archives/">
-        <span class="count">325</span>
+        <span class="count">334</span>
         <span class="name">文章</span>
       </a>
     </div>
     <div class="item categories">
       <a href="/categories/">
-        <span class="count">37</span>
+        <span class="count">39</span>
         <span class="name">分类</span>
       </a>
     </div>
     <div class="item tags">
       <a href="/tags/">
-        <span class="count">83</span>
+        <span class="count">84</span>
         <span class="name">标签</span>
       </a>
     </div>
@@ -511,13 +518,13 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <span class="post-meta-item-icon">
       <i class="ic i-chart-area"></i>
     </span>
-    <span title="站点总字数">652k 字</span>
+    <span title="站点总字数">671k 字</span>
 
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="ic i-coffee"></i>
     </span>
-    <span title="站点阅读时长">9:53</span>
+    <span title="站点阅读时长">10:10</span>
   </div>
   <div class="powered-by">
     基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>

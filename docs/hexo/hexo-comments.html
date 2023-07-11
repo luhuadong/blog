@@ -34,7 +34,11 @@
   <title>
 Hexo 评论系统 - 如何搭建Hexo博客 |
 Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</title>
-<meta name="generator" content="Hexo 5.4.2"></head>
+<!-- hexo injector head_end start -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-math@4.0.0/dist/style.css">
+<!-- hexo injector head_end end --><meta name="generator" content="Hexo 5.4.2"></head>
 <body itemscope itemtype="http://schema.org/WebPage">
   <div id="loading">
     <div class="cat">
@@ -117,12 +121,12 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
       </div>
       <div id="imgs" class="pjax">
         <ul>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/QingMing2023.jpg"></li>
           <li class="item" data-background-image="https://luhuadong.com/images/default/JavaBromo.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/AgueroSpain.jpg"></li>
           <li class="item" data-background-image="https://luhuadong.com/images/default/EdaleValley.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/YuanyangChina.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/NIrelandGiants.jpg"></li>
           <li class="item" data-background-image="https://luhuadong.com/images/default/OrcaNorway.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/MPPUnesco.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/MinouLighthouse.jpg"></li>
         </ul>
       </div>
     </header>
@@ -176,19 +180,20 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <p>注册完成后创建一个应用，比如名字为 blog，然后进入应用，在 <strong>设置 -&gt; 应用凭证</strong> 中找到 APP ID 和 APP Key。</p>
 <h3 id="hexo-配置"><a class="markdownIt-Anchor" href="#hexo-配置">#</a> Hexo 配置</h3>
 <p>在 hexo 工程下执行如下命令安装插件</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install next-theme/hexo-next-valine</span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><figcaption><span>命令行</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install next-theme/hexo-next-valine</span><br></pre></td></tr></table></figure>
 <p>在 _config.yml 文件末尾插入如下内容（可以是 hexo 或 theme 的 _config.yml）</p>
-<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Valine</span></span><br><span class="line"><span class="comment"># For more information: https://valine.js.org, https://github.com/xCss/Valine</span></span><br><span class="line"><span class="attr">valine:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">false</span></span><br><span class="line">  <span class="attr">appId:</span>  <span class="comment"># your leancloud application appid</span></span><br><span class="line">  <span class="attr">appKey:</span>  <span class="comment"># your leancloud application appkey</span></span><br><span class="line">  <span class="attr">serverURLs:</span> <span class="comment"># When the custom domain name is enabled, fill it in here</span></span><br><span class="line">  <span class="attr">placeholder:</span> <span class="string">Just</span> <span class="string">go</span> <span class="string">go</span> <span class="comment"># comment box placeholder</span></span><br><span class="line">  <span class="attr">avatar:</span> <span class="string">mm</span> <span class="comment"># gravatar style</span></span><br><span class="line">  <span class="attr">meta:</span> [<span class="string">nick</span>, <span class="string">mail</span>, <span class="string">link</span>] <span class="comment"># Custom comment header</span></span><br><span class="line">  <span class="attr">pageSize:</span> <span class="number">10</span> <span class="comment"># pagination size</span></span><br><span class="line">  <span class="attr">visitor:</span> <span class="literal">false</span> <span class="comment"># leancloud-counter-security is not supported for now. When visitor is set to be true, appid and appkey are recommended to be the same as leancloud_visitors&#x27; for counter compatibility. Article reading statistic https://valine.js.org/visitor.html</span></span><br><span class="line">  <span class="attr">comment_count:</span> <span class="literal">true</span> <span class="comment"># If false, comment count will only be displayed in post page, not in home page</span></span><br><span class="line">  <span class="attr">recordIP:</span> <span class="literal">false</span> <span class="comment"># Whether to record the commenter IP</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight yaml"><figcaption><span>配置</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Valine</span></span><br><span class="line"><span class="comment"># For more information: https://valine.js.org, https://github.com/xCss/Valine</span></span><br><span class="line"><span class="attr">valine:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">false</span></span><br><span class="line">  <span class="attr">appId:</span>  <span class="comment"># your leancloud application appid</span></span><br><span class="line">  <span class="attr">appKey:</span>  <span class="comment"># your leancloud application appkey</span></span><br><span class="line">  <span class="attr">serverURLs:</span> <span class="comment"># When the custom domain name is enabled, fill it in here</span></span><br><span class="line">  <span class="attr">placeholder:</span> <span class="string">Just</span> <span class="string">go</span> <span class="string">go</span> <span class="comment"># comment box placeholder</span></span><br><span class="line">  <span class="attr">avatar:</span> <span class="string">mm</span> <span class="comment"># gravatar style</span></span><br><span class="line">  <span class="attr">meta:</span> [<span class="string">nick</span>, <span class="string">mail</span>, <span class="string">link</span>] <span class="comment"># Custom comment header</span></span><br><span class="line">  <span class="attr">pageSize:</span> <span class="number">10</span> <span class="comment"># pagination size</span></span><br><span class="line">  <span class="attr">visitor:</span> <span class="literal">false</span> <span class="comment"># leancloud-counter-security is not supported for now. When visitor is set to be true, appid and appkey are recommended to be the same as leancloud_visitors&#x27; for counter compatibility. Article reading statistic https://valine.js.org/visitor.html</span></span><br><span class="line">  <span class="attr">comment_count:</span> <span class="literal">true</span> <span class="comment"># If false, comment count will only be displayed in post page, not in home page</span></span><br><span class="line">  <span class="attr">recordIP:</span> <span class="literal">false</span> <span class="comment"># Whether to record the commenter IP</span></span><br></pre></td></tr></table></figure>
 <p>将  <code>enable</code>  项改为  <code>true</code> ，复制前面生成的 appId 和 appKey。</p>
 <h3 id="配置域名"><a class="markdownIt-Anchor" href="#配置域名">#</a> 配置域名</h3>
 <p>记得在 <strong>设置 -&gt; 安全中心 -&gt; Web 安全域名</strong> 把你的域名加进去。例如：</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://luhuadong.com</span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><figcaption><span>命令行</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://luhuadong.com</span><br></pre></td></tr></table></figure>
 <p>否则网页会出现 “Code 401: 未经授权的操作，请检查你的 AppId 和 AppKey.” 提示。</p>
 <p>注意：如果你使用的是自定义域名，还需要填写 serverURLs 项，该值可在 <strong>设置 -&gt; 应用凭证</strong> 中找到。</p>
 <h3 id="valine-评论区"><a class="markdownIt-Anchor" href="#valine-评论区">#</a> Valine 评论区</h3>
 <p>一切顺利的话，你将会在 Hexo 博客文章末尾看到如下评论区。</p>
 <p><img data-src="/images/hexo/hexo-valine.png" alt=""></p>
 <h2 id="添加-disqus-评论系统"><a class="markdownIt-Anchor" href="#添加-disqus-评论系统">#</a> 添加 Disqus 评论系统</h2>
+<p><a href="hexo-comments-giscus.html">Hexo 评论系统（Giscus）</a></p>
 
       <div class="tags">
           <a href="/tags/Hexo/" rel="tag"><i class="ic i-tag"></i> Hexo</a>
@@ -203,7 +208,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
       <i class="ic i-calendar-check"></i>
     </span>
     <span class="text">更新于</span>
-    <time title="修改时间：2023-06-24 12:04:29" itemprop="dateModified" datetime="2023-06-24T12:04:29+08:00">2023-06-24</time>
+    <time title="修改时间：2023-07-02 00:35:59" itemprop="dateModified" datetime="2023-07-02T00:35:59+08:00">2023-07-02</time>
   </span>
   <span id="hexo/hexo-comments.html" class="item leancloud_visitors" data-flag-title="Hexo 评论系统" title="阅读次数">
       <span class="icon">
@@ -266,7 +271,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <div class="item left">
       
 
-  <a href="/hexo/hexo-permalink.html" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;OrcaNorway.jpg" title="Hexo 固定链接">
+  <a href="/hexo/hexo-permalink.html" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;EdaleValley.jpg" title="Hexo 固定链接">
   <span class="type">上一篇</span>
   <span class="category"><i class="ic i-flag"></i> 如何搭建Hexo博客</span>
   <h3>Hexo 固定链接</h3>
@@ -276,7 +281,7 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <div class="item right">
       
 
-  <a href="/hexo/hexo-search.html" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;ProcidaItaly.jpg" title="Hexo 添加搜索">
+  <a href="/hexo/hexo-search.html" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;NIrelandGiants.jpg" title="Hexo 添加搜索">
   <span class="type">下一篇</span>
   <span class="category"><i class="ic i-flag"></i> 如何搭建Hexo博客</span>
   <h3>Hexo 添加搜索</h3>
@@ -316,19 +321,19 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <nav class="state">
     <div class="item posts">
       <a href="/archives/">
-        <span class="count">325</span>
+        <span class="count">334</span>
         <span class="name">文章</span>
       </a>
     </div>
     <div class="item categories">
       <a href="/categories/">
-        <span class="count">37</span>
+        <span class="count">39</span>
         <span class="name">分类</span>
       </a>
     </div>
     <div class="item tags">
       <a href="/tags/">
-        <span class="count">83</span>
+        <span class="count">84</span>
         <span class="name">标签</span>
       </a>
     </div>
@@ -421,13 +426,13 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
     <span class="post-meta-item-icon">
       <i class="ic i-chart-area"></i>
     </span>
-    <span title="站点总字数">652k 字</span>
+    <span title="站点总字数">671k 字</span>
 
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="ic i-coffee"></i>
     </span>
-    <span title="站点阅读时长">9:53</span>
+    <span title="站点阅读时长">10:10</span>
   </div>
   <div class="powered-by">
     基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
