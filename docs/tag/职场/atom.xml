@@ -22,16 +22,16 @@
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
-    <category term="城市规划" />
     <category term="Python" />
     <category term="教孩子学编程" />
+    <category term="城市规划" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
-    <category term="英语" />
-    <category term="学习" />
     <category term="环保" />
     <category term="碳中和" />
+    <category term="英语" />
+    <category term="学习" />
     <category term="种植" />
     <category term="健身" />
     <category term="地理" />
@@ -45,20 +45,9 @@
     <category term="科普" />
     <category term="可持续" />
     <category term="能源" />
-    <category term="社会问题" />
+    <category term="社会现象" />
     <category term="职业" />
     <category term="时间管理" />
-    <category term="milestone" />
-    <category term="总结" />
-    <category term="慈济" />
-    <category term="生活" />
-    <category term="RT-Thread" />
-    <category term="开源" />
-    <category term="写书" />
-    <category term="修身" />
-    <category term="思考" />
-    <category term="幸福" />
-    <category term="猫" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -70,9 +59,20 @@
     <category term="纪录片" />
     <category term="自由" />
     <category term="电影" />
+    <category term="开源" />
     <category term="策略" />
     <category term="定律" />
     <category term="心理学" />
+    <category term="milestone" />
+    <category term="总结" />
+    <category term="慈济" />
+    <category term="生活" />
+    <category term="RT-Thread" />
+    <category term="写书" />
+    <category term="修身" />
+    <category term="思考" />
+    <category term="幸福" />
+    <category term="猫" />
     <category term="无线电爱好者" />
     <category term="亲密关系" />
     <category term="农业" />
@@ -94,7 +94,7 @@
         <link rel="alternate" href="https://luhuadong.com/career/career-path-dependence.html"/>
         <content type="html">&lt;h2 id=&#34;什么是职业路径依赖&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#什么是职业路径依赖&#34;&gt;#&lt;/a&gt; 什么是职业路径依赖&lt;/h2&gt;
 &lt;p&gt;路径依赖原本是一个自然科学术语，即一旦受某种偶然事件影响，整个系统就会沿着一条固定的路径演化下去。即使有更好的替代方案也不能更改既定的路径，形成一种 “不可逆的自我强化”。&lt;/p&gt;
-&lt;p&gt;在一个人的职业生涯中，也会存在职业适应和自我强化的现象，这种现象就被称为&lt;strong&gt;职业路径依赖&lt;/strong&gt;，当进入一个工作以后，就会随着时间的推移而形成专业的积累，形成相应的习惯和信念，这会影响未来的选择，当长时间处于这种状态，人的选择机制就会被锁定，想要摆脱是十分困难的。&lt;/p&gt;
+&lt;p&gt;在一个人的职业生涯中，也会存在职业适应和自我强化的现象，这种现象就被称为&lt;strong&gt;职业路径依赖&lt;/strong&gt;。当进入一个工作以后，就会随着时间的推移而形成专业的积累，形成相应的习惯和信念，这会影响未来的选择，当长时间处于这种状态，人的选择机制就会被锁定，想要摆脱是十分困难的。&lt;/p&gt;
 &lt;h2 id=&#34;常见的职业路径依赖&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#常见的职业路径依赖&#34;&gt;#&lt;/a&gt; 常见的职业路径依赖&lt;/h2&gt;
 &lt;p&gt;在职业中，最常见的职业路径依赖有三种，对企业的依赖、对行业的依赖和对工作内容的依赖。进行职业转换的时候，人们对未来工作的选择的顺序依次是：&lt;/p&gt;
 &lt;ol&gt;

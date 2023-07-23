@@ -25,16 +25,16 @@
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
-        <category>城市规划</category>
         <category>Python</category>
         <category>教孩子学编程</category>
+        <category>城市规划</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
-        <category>英语</category>
-        <category>学习</category>
         <category>环保</category>
         <category>碳中和</category>
+        <category>英语</category>
+        <category>学习</category>
         <category>种植</category>
         <category>健身</category>
         <category>地理</category>
@@ -48,20 +48,9 @@
         <category>科普</category>
         <category>可持续</category>
         <category>能源</category>
-        <category>社会问题</category>
+        <category>社会现象</category>
         <category>职业</category>
         <category>时间管理</category>
-        <category>milestone</category>
-        <category>总结</category>
-        <category>慈济</category>
-        <category>生活</category>
-        <category>RT-Thread</category>
-        <category>开源</category>
-        <category>写书</category>
-        <category>修身</category>
-        <category>思考</category>
-        <category>幸福</category>
-        <category>猫</category>
         <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
@@ -73,9 +62,20 @@
         <category>纪录片</category>
         <category>自由</category>
         <category>电影</category>
+        <category>开源</category>
         <category>策略</category>
         <category>定律</category>
         <category>心理学</category>
+        <category>milestone</category>
+        <category>总结</category>
+        <category>慈济</category>
+        <category>生活</category>
+        <category>RT-Thread</category>
+        <category>写书</category>
+        <category>修身</category>
+        <category>思考</category>
+        <category>幸福</category>
+        <category>猫</category>
         <category>无线电爱好者</category>
         <category>亲密关系</category>
         <category>农业</category>
@@ -99,7 +99,7 @@
             <pubDate>Tue, 18 Jul 2023 01:04:07 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;什么是职业路径依赖&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#什么是职业路径依赖&#34;&gt;#&lt;/a&gt; 什么是职业路径依赖&lt;/h2&gt;
 &lt;p&gt;路径依赖原本是一个自然科学术语，即一旦受某种偶然事件影响，整个系统就会沿着一条固定的路径演化下去。即使有更好的替代方案也不能更改既定的路径，形成一种 “不可逆的自我强化”。&lt;/p&gt;
-&lt;p&gt;在一个人的职业生涯中，也会存在职业适应和自我强化的现象，这种现象就被称为&lt;strong&gt;职业路径依赖&lt;/strong&gt;，当进入一个工作以后，就会随着时间的推移而形成专业的积累，形成相应的习惯和信念，这会影响未来的选择，当长时间处于这种状态，人的选择机制就会被锁定，想要摆脱是十分困难的。&lt;/p&gt;
+&lt;p&gt;在一个人的职业生涯中，也会存在职业适应和自我强化的现象，这种现象就被称为&lt;strong&gt;职业路径依赖&lt;/strong&gt;。当进入一个工作以后，就会随着时间的推移而形成专业的积累，形成相应的习惯和信念，这会影响未来的选择，当长时间处于这种状态，人的选择机制就会被锁定，想要摆脱是十分困难的。&lt;/p&gt;
 &lt;h2 id=&#34;常见的职业路径依赖&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#常见的职业路径依赖&#34;&gt;#&lt;/a&gt; 常见的职业路径依赖&lt;/h2&gt;
 &lt;p&gt;在职业中，最常见的职业路径依赖有三种，对企业的依赖、对行业的依赖和对工作内容的依赖。进行职业转换的时候，人们对未来工作的选择的顺序依次是：&lt;/p&gt;
 &lt;ol&gt;

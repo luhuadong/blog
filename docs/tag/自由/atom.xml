@@ -22,16 +22,16 @@
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
-    <category term="城市规划" />
     <category term="Python" />
     <category term="教孩子学编程" />
+    <category term="城市规划" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
-    <category term="英语" />
-    <category term="学习" />
     <category term="环保" />
     <category term="碳中和" />
+    <category term="英语" />
+    <category term="学习" />
     <category term="种植" />
     <category term="健身" />
     <category term="地理" />
@@ -45,20 +45,9 @@
     <category term="科普" />
     <category term="可持续" />
     <category term="能源" />
-    <category term="社会问题" />
+    <category term="社会现象" />
     <category term="职业" />
     <category term="时间管理" />
-    <category term="milestone" />
-    <category term="总结" />
-    <category term="慈济" />
-    <category term="生活" />
-    <category term="RT-Thread" />
-    <category term="开源" />
-    <category term="写书" />
-    <category term="修身" />
-    <category term="思考" />
-    <category term="幸福" />
-    <category term="猫" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -70,9 +59,20 @@
     <category term="纪录片" />
     <category term="自由" />
     <category term="电影" />
+    <category term="开源" />
     <category term="策略" />
     <category term="定律" />
     <category term="心理学" />
+    <category term="milestone" />
+    <category term="总结" />
+    <category term="慈济" />
+    <category term="生活" />
+    <category term="RT-Thread" />
+    <category term="写书" />
+    <category term="修身" />
+    <category term="思考" />
+    <category term="幸福" />
+    <category term="猫" />
     <category term="无线电爱好者" />
     <category term="亲密关系" />
     <category term="农业" />
@@ -107,9 +107,9 @@
 &lt;p&gt;非常经典的有关自由软件运动的纪录片&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5yZXZvbHV0aW9uLW9zLmNvbQ==&#34;&gt;http://www.revolution-os.com&lt;/span&gt;&lt;/p&gt;
 </content>
-        <category term="开源" />
         <category term="纪录片" />
         <category term="自由" />
+        <category term="开源" />
         <updated>2020-06-17T06:43:59.000Z</updated>
     </entry>
     <entry>
@@ -130,9 +130,9 @@
 &lt;li&gt;本片以及本片中文字幕的使用遵循以下协议：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2NyZWF0aXZlY29tbW9ucw==&#34;&gt;http://creativecommons&lt;/span&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="开源" />
         <category term="纪录片" />
         <category term="自由" />
+        <category term="开源" />
         <updated>2020-04-05T06:36:34.000Z</updated>
     </entry>
     <entry>

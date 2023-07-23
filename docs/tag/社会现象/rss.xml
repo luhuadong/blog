@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>成为自由人 • Posts by &#34;社会问题&#34; tag</title>
+        <title>成为自由人 • Posts by &#34;社会现象&#34; tag</title>
         <link>https://luhuadong.com</link>
         <description>阿基米东的网络日志</description>
         <language>zh-CN</language>
-        <pubDate>Tue, 11 Jul 2023 22:27:29 +0800</pubDate>
-        <lastBuildDate>Tue, 11 Jul 2023 22:27:29 +0800</lastBuildDate>
+        <pubDate>Sun, 23 Jul 2023 17:54:24 +0800</pubDate>
+        <lastBuildDate>Sun, 23 Jul 2023 17:54:24 +0800</lastBuildDate>
         <category>商业</category>
         <category>成长</category>
         <category>日记</category>
@@ -25,16 +25,16 @@
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
-        <category>城市规划</category>
         <category>Python</category>
         <category>教孩子学编程</category>
+        <category>城市规划</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
-        <category>英语</category>
-        <category>学习</category>
         <category>环保</category>
         <category>碳中和</category>
+        <category>英语</category>
+        <category>学习</category>
         <category>种植</category>
         <category>健身</category>
         <category>地理</category>
@@ -48,20 +48,9 @@
         <category>科普</category>
         <category>可持续</category>
         <category>能源</category>
-        <category>社会问题</category>
+        <category>社会现象</category>
         <category>职业</category>
         <category>时间管理</category>
-        <category>milestone</category>
-        <category>总结</category>
-        <category>慈济</category>
-        <category>生活</category>
-        <category>RT-Thread</category>
-        <category>开源</category>
-        <category>写书</category>
-        <category>修身</category>
-        <category>思考</category>
-        <category>幸福</category>
-        <category>猫</category>
         <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
@@ -73,9 +62,20 @@
         <category>纪录片</category>
         <category>自由</category>
         <category>电影</category>
+        <category>开源</category>
         <category>策略</category>
         <category>定律</category>
         <category>心理学</category>
+        <category>milestone</category>
+        <category>总结</category>
+        <category>慈济</category>
+        <category>生活</category>
+        <category>RT-Thread</category>
+        <category>写书</category>
+        <category>修身</category>
+        <category>思考</category>
+        <category>幸福</category>
+        <category>猫</category>
         <category>无线电爱好者</category>
         <category>亲密关系</category>
         <category>农业</category>
@@ -92,10 +92,23 @@
         <category>零废弃</category>
         <category>低碳</category>
         <item>
+            <guid isPermalink="true">https://luhuadong.com/inchina/fan-duan-she-li.html</guid>
+            <title>反断舍离</title>
+            <link>https://luhuadong.com/inchina/fan-duan-she-li.html</link>
+            <category>社会现象</category>
+            <pubDate>Sun, 23 Jul 2023 17:54:24 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/inchina/fan-duan-she-li.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;“反断舍离” 和 “断舍离” 相反，是指现在一些年轻人反对扔掉废旧多余之物，将其保留，或改造出其他用途，竭尽全力挖掘剩余价值，从而节省花销的现象。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“现在最重要的是省钱，什么断舍离，那不是浪费吗？” —— 网友&lt;/p&gt;
+&lt;/blockquote&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">https://luhuadong.com/inchina/du-li-chu-jia-ren.html</guid>
             <title>独立出家人</title>
             <link>https://luhuadong.com/inchina/du-li-chu-jia-ren.html</link>
-            <category>社会问题</category>
+            <category>社会现象</category>
             <pubDate>Tue, 11 Jul 2023 22:27:29 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/inchina/du-li-chu-jia-ren.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;我们知道，独立音乐人指没有和任何唱片公司签约的音乐人，自己录歌，自己宣传。独立制片人是指不依赖于专业商业公司或制片厂，拍摄制作相对比较自由的电影制片人。&lt;/p&gt;
@@ -107,7 +120,7 @@
             <guid isPermalink="true">https://luhuadong.com/inchina/si-bu-qing-nian.html</guid>
             <title>四不青年</title>
             <link>https://luhuadong.com/inchina/si-bu-qing-nian.html</link>
-            <category>社会问题</category>
+            <category>社会现象</category>
             <pubDate>Tue, 11 Jul 2023 22:27:16 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/inchina/si-bu-qing-nian.png&#34; alt=&#34;四不青年&#34;&gt;&lt;/p&gt;
 &lt;p&gt;香港《星岛日报》报导，受冠病疫情长达三年影响，中国经济不景气，当地青年失业率超过 20%。从今年三月起，“四不青年” 这个词汇开始在网络流行起来。&lt;/p&gt;
@@ -120,7 +133,7 @@
             <guid isPermalink="true">https://luhuadong.com/inchina/kong-qian-jue-hou.html</guid>
             <title>空前绝后</title>
             <link>https://luhuadong.com/inchina/kong-qian-jue-hou.html</link>
-            <category>社会问题</category>
+            <category>社会现象</category>
             <pubDate>Tue, 11 Jul 2023 22:27:05 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/inchina/kong-qian-jue-hou.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;“空前绝后” 是指掏空上一代积蓄，透支未来而来买房，最后还落得不敢结婚、不敢生子的结局。&lt;/p&gt;

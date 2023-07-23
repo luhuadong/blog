@@ -5,8 +5,8 @@
         <link>https://luhuadong.com</link>
         <description>阿基米东的网络日志</description>
         <language>zh-CN</language>
-        <pubDate>Tue, 18 Jul 2023 01:04:07 +0800</pubDate>
-        <lastBuildDate>Tue, 18 Jul 2023 01:04:07 +0800</lastBuildDate>
+        <pubDate>Sun, 23 Jul 2023 17:54:24 +0800</pubDate>
+        <lastBuildDate>Sun, 23 Jul 2023 17:54:24 +0800</lastBuildDate>
         <category>商业</category>
         <category>成长</category>
         <category>日记</category>
@@ -25,16 +25,16 @@
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
-        <category>城市规划</category>
         <category>Python</category>
         <category>教孩子学编程</category>
+        <category>城市规划</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
-        <category>英语</category>
-        <category>学习</category>
         <category>环保</category>
         <category>碳中和</category>
+        <category>英语</category>
+        <category>学习</category>
         <category>种植</category>
         <category>健身</category>
         <category>地理</category>
@@ -48,20 +48,9 @@
         <category>科普</category>
         <category>可持续</category>
         <category>能源</category>
-        <category>社会问题</category>
+        <category>社会现象</category>
         <category>职业</category>
         <category>时间管理</category>
-        <category>milestone</category>
-        <category>总结</category>
-        <category>慈济</category>
-        <category>生活</category>
-        <category>RT-Thread</category>
-        <category>开源</category>
-        <category>写书</category>
-        <category>修身</category>
-        <category>思考</category>
-        <category>幸福</category>
-        <category>猫</category>
         <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
@@ -73,9 +62,20 @@
         <category>纪录片</category>
         <category>自由</category>
         <category>电影</category>
+        <category>开源</category>
         <category>策略</category>
         <category>定律</category>
         <category>心理学</category>
+        <category>milestone</category>
+        <category>总结</category>
+        <category>慈济</category>
+        <category>生活</category>
+        <category>RT-Thread</category>
+        <category>写书</category>
+        <category>修身</category>
+        <category>思考</category>
+        <category>幸福</category>
+        <category>猫</category>
         <category>无线电爱好者</category>
         <category>亲密关系</category>
         <category>农业</category>
@@ -92,6 +92,19 @@
         <category>零废弃</category>
         <category>低碳</category>
         <item>
+            <guid isPermalink="true">https://luhuadong.com/inchina/fan-duan-she-li.html</guid>
+            <title>反断舍离</title>
+            <link>https://luhuadong.com/inchina/fan-duan-she-li.html</link>
+            <category>社会现象</category>
+            <pubDate>Sun, 23 Jul 2023 17:54:24 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/inchina/fan-duan-she-li.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;“反断舍离” 和 “断舍离” 相反，是指现在一些年轻人反对扔掉废旧多余之物，将其保留，或改造出其他用途，竭尽全力挖掘剩余价值，从而节省花销的现象。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“现在最重要的是省钱，什么断舍离，那不是浪费吗？” —— 网友&lt;/p&gt;
+&lt;/blockquote&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">https://luhuadong.com/career/career-path-dependence.html</guid>
             <title>摆脱职业路径依赖</title>
             <link>https://luhuadong.com/career/career-path-dependence.html</link>
@@ -99,7 +112,7 @@
             <pubDate>Tue, 18 Jul 2023 01:04:07 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;什么是职业路径依赖&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#什么是职业路径依赖&#34;&gt;#&lt;/a&gt; 什么是职业路径依赖&lt;/h2&gt;
 &lt;p&gt;路径依赖原本是一个自然科学术语，即一旦受某种偶然事件影响，整个系统就会沿着一条固定的路径演化下去。即使有更好的替代方案也不能更改既定的路径，形成一种 “不可逆的自我强化”。&lt;/p&gt;
-&lt;p&gt;在一个人的职业生涯中，也会存在职业适应和自我强化的现象，这种现象就被称为&lt;strong&gt;职业路径依赖&lt;/strong&gt;，当进入一个工作以后，就会随着时间的推移而形成专业的积累，形成相应的习惯和信念，这会影响未来的选择，当长时间处于这种状态，人的选择机制就会被锁定，想要摆脱是十分困难的。&lt;/p&gt;
+&lt;p&gt;在一个人的职业生涯中，也会存在职业适应和自我强化的现象，这种现象就被称为&lt;strong&gt;职业路径依赖&lt;/strong&gt;。当进入一个工作以后，就会随着时间的推移而形成专业的积累，形成相应的习惯和信念，这会影响未来的选择，当长时间处于这种状态，人的选择机制就会被锁定，想要摆脱是十分困难的。&lt;/p&gt;
 &lt;h2 id=&#34;常见的职业路径依赖&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#常见的职业路径依赖&#34;&gt;#&lt;/a&gt; 常见的职业路径依赖&lt;/h2&gt;
 &lt;p&gt;在职业中，最常见的职业路径依赖有三种，对企业的依赖、对行业的依赖和对工作内容的依赖。进行职业转换的时候，人们对未来工作的选择的顺序依次是：&lt;/p&gt;
 &lt;ol&gt;
@@ -125,7 +138,7 @@
             <guid isPermalink="true">https://luhuadong.com/inchina/du-li-chu-jia-ren.html</guid>
             <title>独立出家人</title>
             <link>https://luhuadong.com/inchina/du-li-chu-jia-ren.html</link>
-            <category>社会问题</category>
+            <category>社会现象</category>
             <pubDate>Tue, 11 Jul 2023 22:27:29 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/inchina/du-li-chu-jia-ren.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;我们知道，独立音乐人指没有和任何唱片公司签约的音乐人，自己录歌，自己宣传。独立制片人是指不依赖于专业商业公司或制片厂，拍摄制作相对比较自由的电影制片人。&lt;/p&gt;
@@ -137,7 +150,7 @@
             <guid isPermalink="true">https://luhuadong.com/inchina/si-bu-qing-nian.html</guid>
             <title>四不青年</title>
             <link>https://luhuadong.com/inchina/si-bu-qing-nian.html</link>
-            <category>社会问题</category>
+            <category>社会现象</category>
             <pubDate>Tue, 11 Jul 2023 22:27:16 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/inchina/si-bu-qing-nian.png&#34; alt=&#34;四不青年&#34;&gt;&lt;/p&gt;
 &lt;p&gt;香港《星岛日报》报导，受冠病疫情长达三年影响，中国经济不景气，当地青年失业率超过 20%。从今年三月起，“四不青年” 这个词汇开始在网络流行起来。&lt;/p&gt;
@@ -150,7 +163,7 @@
             <guid isPermalink="true">https://luhuadong.com/inchina/kong-qian-jue-hou.html</guid>
             <title>空前绝后</title>
             <link>https://luhuadong.com/inchina/kong-qian-jue-hou.html</link>
-            <category>社会问题</category>
+            <category>社会现象</category>
             <pubDate>Tue, 11 Jul 2023 22:27:05 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/inchina/kong-qian-jue-hou.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;“空前绝后” 是指掏空上一代积蓄，透支未来而来买房，最后还落得不敢结婚、不敢生子的结局。&lt;/p&gt;
@@ -11180,9 +11193,9 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
             <guid isPermalink="true">https://luhuadong.com/movies/revolution-os.html</guid>
             <title>【纪录片】操作系统革命（Revolution OS）</title>
             <link>https://luhuadong.com/movies/revolution-os.html</link>
-            <category>开源</category>
             <category>纪录片</category>
             <category>自由</category>
+            <category>开源</category>
             <pubDate>Wed, 17 Jun 2020 14:43:59 +0800</pubDate>
             <description><![CDATA[ &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=796140504&amp;bvid=BV1iC4y187nT&amp;cid=235560964&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;非常经典的有关自由软件运动的纪录片&lt;/p&gt;
@@ -11488,9 +11501,9 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
             <guid isPermalink="true">https://luhuadong.com/movies/patent-absurdity.html</guid>
             <title>【纪录片】软件专利的荒谬性（Patent Absurdity）</title>
             <link>https://luhuadong.com/movies/patent-absurdity.html</link>
-            <category>开源</category>
             <category>纪录片</category>
             <category>自由</category>
+            <category>开源</category>
             <pubDate>Sun, 05 Apr 2020 14:36:34 +0800</pubDate>
             <description><![CDATA[ &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=15221360&amp;bvid=BV1sx411u7qy&amp;cid=24774214&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;官网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3BhdGVudGFic3VyZGl0eS5jb20vd2F0Y2guaHRtbA==&#34;&gt;http://patentabsurdity.com/watch.html&lt;/span&gt;&lt;/p&gt;

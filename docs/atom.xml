@@ -3,7 +3,7 @@
     <id>https://luhuadong.com</id>
     <title>成为自由人</title>
     <link href="https://luhuadong.com" />
-    <updated>2023-07-17T17:04:07.000Z</updated>
+    <updated>2023-07-23T09:54:24.000Z</updated>
     <category term="商业" />
     <category term="成长" />
     <category term="日记" />
@@ -22,16 +22,16 @@
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
-    <category term="城市规划" />
     <category term="Python" />
     <category term="教孩子学编程" />
+    <category term="城市规划" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
-    <category term="英语" />
-    <category term="学习" />
     <category term="环保" />
     <category term="碳中和" />
+    <category term="英语" />
+    <category term="学习" />
     <category term="种植" />
     <category term="健身" />
     <category term="地理" />
@@ -45,20 +45,9 @@
     <category term="科普" />
     <category term="可持续" />
     <category term="能源" />
-    <category term="社会问题" />
+    <category term="社会现象" />
     <category term="职业" />
     <category term="时间管理" />
-    <category term="milestone" />
-    <category term="总结" />
-    <category term="慈济" />
-    <category term="生活" />
-    <category term="RT-Thread" />
-    <category term="开源" />
-    <category term="写书" />
-    <category term="修身" />
-    <category term="思考" />
-    <category term="幸福" />
-    <category term="猫" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -70,9 +59,20 @@
     <category term="纪录片" />
     <category term="自由" />
     <category term="电影" />
+    <category term="开源" />
     <category term="策略" />
     <category term="定律" />
     <category term="心理学" />
+    <category term="milestone" />
+    <category term="总结" />
+    <category term="慈济" />
+    <category term="生活" />
+    <category term="RT-Thread" />
+    <category term="写书" />
+    <category term="修身" />
+    <category term="思考" />
+    <category term="幸福" />
+    <category term="猫" />
     <category term="无线电爱好者" />
     <category term="亲密关系" />
     <category term="农业" />
@@ -89,12 +89,25 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
+        <id>https://luhuadong.com/inchina/fan-duan-she-li.html</id>
+        <title>反断舍离</title>
+        <link rel="alternate" href="https://luhuadong.com/inchina/fan-duan-she-li.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/inchina/fan-duan-she-li.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;“反断舍离” 和 “断舍离” 相反，是指现在一些年轻人反对扔掉废旧多余之物，将其保留，或改造出其他用途，竭尽全力挖掘剩余价值，从而节省花销的现象。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“现在最重要的是省钱，什么断舍离，那不是浪费吗？” —— 网友&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="社会现象" />
+        <updated>2023-07-23T09:54:24.000Z</updated>
+    </entry>
+    <entry>
         <id>https://luhuadong.com/career/career-path-dependence.html</id>
         <title>摆脱职业路径依赖</title>
         <link rel="alternate" href="https://luhuadong.com/career/career-path-dependence.html"/>
         <content type="html">&lt;h2 id=&#34;什么是职业路径依赖&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#什么是职业路径依赖&#34;&gt;#&lt;/a&gt; 什么是职业路径依赖&lt;/h2&gt;
 &lt;p&gt;路径依赖原本是一个自然科学术语，即一旦受某种偶然事件影响，整个系统就会沿着一条固定的路径演化下去。即使有更好的替代方案也不能更改既定的路径，形成一种 “不可逆的自我强化”。&lt;/p&gt;
-&lt;p&gt;在一个人的职业生涯中，也会存在职业适应和自我强化的现象，这种现象就被称为&lt;strong&gt;职业路径依赖&lt;/strong&gt;，当进入一个工作以后，就会随着时间的推移而形成专业的积累，形成相应的习惯和信念，这会影响未来的选择，当长时间处于这种状态，人的选择机制就会被锁定，想要摆脱是十分困难的。&lt;/p&gt;
+&lt;p&gt;在一个人的职业生涯中，也会存在职业适应和自我强化的现象，这种现象就被称为&lt;strong&gt;职业路径依赖&lt;/strong&gt;。当进入一个工作以后，就会随着时间的推移而形成专业的积累，形成相应的习惯和信念，这会影响未来的选择，当长时间处于这种状态，人的选择机制就会被锁定，想要摆脱是十分困难的。&lt;/p&gt;
 &lt;h2 id=&#34;常见的职业路径依赖&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#常见的职业路径依赖&#34;&gt;#&lt;/a&gt; 常见的职业路径依赖&lt;/h2&gt;
 &lt;p&gt;在职业中，最常见的职业路径依赖有三种，对企业的依赖、对行业的依赖和对工作内容的依赖。进行职业转换的时候，人们对未来工作的选择的顺序依次是：&lt;/p&gt;
 &lt;ol&gt;
@@ -127,7 +140,7 @@
 &lt;p&gt;“独立出家人” 是指不依赖于任何道观或寺院，不需要成为名义上的和尚、尼姑，以比较自由和灵活的方式隐居、吃斋、修道的人。他们通常选择定期离开亲人、家庭、事业这些世俗世界，关注自我的身心灵成长，提升悟性。&lt;/p&gt;
 &lt;p&gt;注：不依赖于任何道观或寺院的原因是条件太高了，按照宗教政策，寺庙和道观分别归佛教协会和道教协会管理，也就是说，在庙里上班的和尚可能是有事业编制的。&lt;/p&gt;
 </content>
-        <category term="社会问题" />
+        <category term="社会现象" />
         <updated>2023-07-11T14:27:29.000Z</updated>
     </entry>
     <entry>
@@ -140,7 +153,7 @@
 &lt;p&gt;众多网友表示，并非自己不想找对象、买房、结婚、生子，而是根本没能力实现这些目标。&lt;/p&gt;
 &lt;p&gt;就我本人而言，工作已经超过 996 的状态了，通常晚上 10 点，有时甚至到深夜 11 点或 12 点才下班，周末只想睡觉、啥也不想做、几乎没社交，薪水看起来挺高，但消费也高（个税也高），根本不敢想在工作的大城市买房。而且想到婚姻生活，房贷、车贷、赡养父母、上学难、看病难、停车也难，还有 35 岁就面临失业危机，不恋爱、不结婚、不买房和不生子实属是更好的选择。&lt;/p&gt;
 </content>
-        <category term="社会问题" />
+        <category term="社会现象" />
         <updated>2023-07-11T14:27:16.000Z</updated>
     </entry>
     <entry>
@@ -151,7 +164,7 @@
 &lt;p&gt;“空前绝后” 是指掏空上一代积蓄，透支未来而来买房，最后还落得不敢结婚、不敢生子的结局。&lt;/p&gt;
 &lt;p&gt;只能说，我们这一届没有背景的青年人太难了。&lt;/p&gt;
 </content>
-        <category term="社会问题" />
+        <category term="社会现象" />
         <updated>2023-07-11T14:27:05.000Z</updated>
     </entry>
     <entry>
@@ -11181,9 +11194,9 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
 &lt;p&gt;非常经典的有关自由软件运动的纪录片&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5yZXZvbHV0aW9uLW9zLmNvbQ==&#34;&gt;http://www.revolution-os.com&lt;/span&gt;&lt;/p&gt;
 </content>
-        <category term="开源" />
         <category term="纪录片" />
         <category term="自由" />
+        <category term="开源" />
         <updated>2020-06-17T06:43:59.000Z</updated>
     </entry>
     <entry>
@@ -11499,9 +11512,9 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
 &lt;li&gt;本片以及本片中文字幕的使用遵循以下协议：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2NyZWF0aXZlY29tbW9ucw==&#34;&gt;http://creativecommons&lt;/span&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="开源" />
         <category term="纪录片" />
         <category term="自由" />
+        <category term="开源" />
         <updated>2020-04-05T06:36:34.000Z</updated>
     </entry>
     <entry>

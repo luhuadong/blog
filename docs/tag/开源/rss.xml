@@ -25,16 +25,16 @@
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
-        <category>城市规划</category>
         <category>Python</category>
         <category>教孩子学编程</category>
+        <category>城市规划</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
-        <category>英语</category>
-        <category>学习</category>
         <category>环保</category>
         <category>碳中和</category>
+        <category>英语</category>
+        <category>学习</category>
         <category>种植</category>
         <category>健身</category>
         <category>地理</category>
@@ -48,20 +48,9 @@
         <category>科普</category>
         <category>可持续</category>
         <category>能源</category>
-        <category>社会问题</category>
+        <category>社会现象</category>
         <category>职业</category>
         <category>时间管理</category>
-        <category>milestone</category>
-        <category>总结</category>
-        <category>慈济</category>
-        <category>生活</category>
-        <category>RT-Thread</category>
-        <category>开源</category>
-        <category>写书</category>
-        <category>修身</category>
-        <category>思考</category>
-        <category>幸福</category>
-        <category>猫</category>
         <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
@@ -73,9 +62,20 @@
         <category>纪录片</category>
         <category>自由</category>
         <category>电影</category>
+        <category>开源</category>
         <category>策略</category>
         <category>定律</category>
         <category>心理学</category>
+        <category>milestone</category>
+        <category>总结</category>
+        <category>慈济</category>
+        <category>生活</category>
+        <category>RT-Thread</category>
+        <category>写书</category>
+        <category>修身</category>
+        <category>思考</category>
+        <category>幸福</category>
+        <category>猫</category>
         <category>无线电爱好者</category>
         <category>亲密关系</category>
         <category>农业</category>
@@ -145,9 +145,9 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
             <guid isPermalink="true">https://luhuadong.com/movies/revolution-os.html</guid>
             <title>【纪录片】操作系统革命（Revolution OS）</title>
             <link>https://luhuadong.com/movies/revolution-os.html</link>
-            <category>开源</category>
             <category>纪录片</category>
             <category>自由</category>
+            <category>开源</category>
             <pubDate>Wed, 17 Jun 2020 14:43:59 +0800</pubDate>
             <description><![CDATA[ &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=796140504&amp;bvid=BV1iC4y187nT&amp;cid=235560964&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;非常经典的有关自由软件运动的纪录片&lt;/p&gt;
@@ -158,9 +158,9 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
             <guid isPermalink="true">https://luhuadong.com/movies/patent-absurdity.html</guid>
             <title>【纪录片】软件专利的荒谬性（Patent Absurdity）</title>
             <link>https://luhuadong.com/movies/patent-absurdity.html</link>
-            <category>开源</category>
             <category>纪录片</category>
             <category>自由</category>
+            <category>开源</category>
             <pubDate>Sun, 05 Apr 2020 14:36:34 +0800</pubDate>
             <description><![CDATA[ &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=15221360&amp;bvid=BV1sx411u7qy&amp;cid=24774214&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;官网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3BhdGVudGFic3VyZGl0eS5jb20vd2F0Y2guaHRtbA==&#34;&gt;http://patentabsurdity.com/watch.html&lt;/span&gt;&lt;/p&gt;
