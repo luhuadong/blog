@@ -5,8 +5,8 @@
         <link>https://luhuadong.com</link>
         <description>阿基米东的网络日志</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 02 Jul 2023 11:53:47 +0800</pubDate>
-        <lastBuildDate>Sun, 02 Jul 2023 11:53:47 +0800</lastBuildDate>
+        <pubDate>Sun, 30 Jul 2023 19:08:10 +0800</pubDate>
+        <lastBuildDate>Sun, 30 Jul 2023 19:08:10 +0800</lastBuildDate>
         <category>商业</category>
         <category>成长</category>
         <category>日记</category>
@@ -91,6 +91,19 @@
         <category>垃圾分类</category>
         <category>零废弃</category>
         <category>低碳</category>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/journal/20230730.html</guid>
+            <title>聊聊最近让我焦虑的事情</title>
+            <link>https://luhuadong.com/journal/20230730.html</link>
+            <category>日记</category>
+            <category>思考</category>
+            <pubDate>Sun, 30 Jul 2023 19:08:10 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;最近工作上的事情让我特别焦虑，因为对现在这份工作的前景产生了动摇，在六月底提出离职申请后，工作氛围也有点尴尬。领导们也找我聊过好几次，现在走也不是，不走也不是，还是挺让人焦虑的。上周五答应领导留下来继续干，起码今年不走，但是周末又有点动摇了，因为哪怕今年不走，明年可能也会走，还是会面临一样的难题。&lt;/p&gt;
+&lt;p&gt;至于离职后，目前的想法是加入 openEuler 团队，参与 openEuler Embedded 版本的开发和维护。所以今天画了个图帮助整理和思考。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/journal/2023%E5%B9%B4%E5%B7%A5%E4%BD%9C%E9%80%89%E6%8B%A9%E5%92%8C%E7%9B%AE%E6%A0%87.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;主要还是工作方向上的原因，自动驾驶最近有点冷，激光雷达就更加冷了，而且导远进入激光雷达行业晚了点，很难抢占前装市场，后装市场又太小太杂。而另外一边，做开源软件一直是我非常感兴趣的事，尤其是做操作系统，所以觉得是一个很不错的机会。&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/wisdom/five-chapters-of-life.html</guid>
             <title>人生五章</title>
