@@ -98,10 +98,39 @@
             <category>日记</category>
             <category>思考</category>
             <pubDate>Sun, 30 Jul 2023 19:08:10 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;最近工作上的事情让我特别焦虑，因为对现在这份工作的前景产生了动摇，在六月底提出离职申请后，工作氛围也有点尴尬。领导们也找我聊过好几次，现在走也不是，不走也不是，还是挺让人焦虑的。上周五答应领导留下来继续干，起码今年不走，但是周末又有点动摇了，因为哪怕今年不走，明年可能也会走，还是会面临一样的难题。&lt;/p&gt;
+            <description><![CDATA[ &lt;h2 id=&#34;什么事&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#什么事&#34;&gt;#&lt;/a&gt; 什么事？&lt;/h2&gt;
+&lt;p&gt;最近工作上的事情让我特别焦虑，因为对现在这份工作的前景产生了动摇，在六月底提出离职申请后，工作氛围也有点尴尬。领导们也找我聊过好几次，现在走也不是，不走也不是，还是挺让人焦虑的。上周五答应领导留下来继续干，起码今年不走，但是周末又有点动摇了，因为哪怕今年不走，明年可能也会走，还是会面临一样的难题。&lt;/p&gt;
 &lt;p&gt;至于离职后，目前的想法是加入 openEuler 团队，参与 openEuler Embedded 版本的开发和维护。所以今天画了个图帮助整理和思考。&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/journal/2023%E5%B9%B4%E5%B7%A5%E4%BD%9C%E9%80%89%E6%8B%A9%E5%92%8C%E7%9B%AE%E6%A0%87.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;主要还是工作方向上的原因，自动驾驶最近有点冷，激光雷达就更加冷了，而且导远进入激光雷达行业晚了点，很难抢占前装市场，后装市场又太小太杂。而另外一边，做开源软件一直是我非常感兴趣的事，尤其是做操作系统，所以觉得是一个很不错的机会。&lt;/p&gt;
+&lt;p&gt;主要还是工作方向上的原因，自动驾驶最近有点冷，激光雷达就更加冷了，而且导远进入激光雷达行业晚了点，很难抢占前装市场，后装市场又太小太杂。而我吧，刚好在这里承担各种杂乱的工作（上位机、SDK、ROS、RK3588 平台、IMU 运动补偿、点云处理、算法集成、标定软件开发、产测软件开发、视觉识别…），真的很无语，而且交付周期很紧，每天都感觉自己像是外包的一样，今天干完不知道明天又有什么新需求，无法沉淀下来。&lt;/p&gt;
+&lt;p&gt;而另外一边，做开源软件一直是我非常感兴趣的事，尤其是做操作系统，所以觉得是一个很不错的机会。同时技术方向专一，如果我的目标是成为一名技术专家的话，是很适合长期发展的方向。&lt;/p&gt;
+&lt;h2 id=&#34;后续如何&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#后续如何&#34;&gt;#&lt;/a&gt; 后续如何？&lt;/h2&gt;
+&lt;p&gt;&lt;ins&gt;&lt;strong&gt;2023.07.31 更新&lt;/strong&gt;&lt;/ins&gt;&lt;/p&gt;
+&lt;p&gt;纠结了很久，赶在七月最后一天做了决定 —— 继续留在导远工作半年再作打算，同时业余时间参与 openEuler 和 RT-Thread 开源项目。&lt;/p&gt;
+&lt;p&gt;其实度过了一个非常纠结的周末，也已经做好了心理建设，想要果断离职，越快越好那种。今天（周一）也是以离职为立场约领导聊的，奈何领导一直挽留我，愿意减轻我的工作负担，在项目关键时期坚持住，也同意让我适当参与开源项目，精进技术。部门大领导也希望我能留下来，允许我参加外部培训和活动，并且希望我能出差对接一些客户，同时作为产品线的一个窗口做一些宣传（可能是因为我在网络上有一些粉丝）。反正，最终我还是被说服了，同意留下来继续干半年以上，也想继续看看这个产品是否能成功。希望领导没有骗我，以及项目能够取得好成绩，年底奖金丰厚点吧。只不过，拒绝&lt;a href=&#34;../career/cn-bay-area-national-technology-innovation-center.html&#34;&gt;国创&lt;/a&gt;这份工作，估计我也要纠结一两天，毕竟他们也挺有诚意的，也是我很想尝试的一份工作。&lt;/p&gt;
+&lt;p&gt;那么，接下来半年（2023.8 ~ 2024.1），我的工作重心以及目标应该是这样的：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;负责激光雷达 ROS SDK 开发和维护，多传感器融合感知、机器人项目研究和集成，最终形成一套 ROS 机器人小车方案；&lt;/li&gt;
+&lt;li&gt;了解点云处理相关算法和 SLAM 建图；&lt;/li&gt;
+&lt;li&gt;了解 AUTOSAR 架构和开发流程；&lt;/li&gt;
+&lt;li&gt;参与 openEuler Embedded 开发，实现在 reTerminal 和 NanoPi R6S 上运行，争取举办一次 openEuler Meetup 技术沙龙，以及了解实时 Linux 方案；&lt;/li&gt;
+&lt;li&gt;参与 RT-Thread 开发，重构基于 ART-Pi 的物联网开发教程；&lt;/li&gt;
+&lt;li&gt;好好经营 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nZXRpb3QudGVjaA==&#34;&gt;getiot.tech&lt;/span&gt; 和 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96ZXJvdG9nZXRoZXIubmV0&#34;&gt;zerotogether.net&lt;/span&gt; 网站，开发自己的 WordPress 插件；&lt;/li&gt;
+&lt;li&gt;实现 OpenEmber 嵌入式软件框架基本功能；&lt;/li&gt;
+&lt;li&gt;发布 Tusockit V1.0 版本；&lt;/li&gt;
+&lt;li&gt;制作教学视频（例如 Git、CMake、ROS 等）；&lt;/li&gt;
+&lt;li&gt;更新图解智能电动汽车、微信小程序等付费专栏。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;其他目标：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;恢复有规律的运动和篮球🏀训练；&lt;/li&gt;
+&lt;li&gt;治好汗癣和神经性皮炎✊；&lt;/li&gt;
+&lt;li&gt;有规律的作息😪，争取早起；&lt;/li&gt;
+&lt;li&gt;学习素食烹饪🍚，争取纯净素；&lt;/li&gt;
+&lt;li&gt;阅读亲密关系和心理学书籍🔖；&lt;/li&gt;
+&lt;li&gt;学习 iPad 画画🎨；&lt;/li&gt;
+&lt;li&gt;学习钢琴演奏🎹。&lt;/li&gt;
+&lt;/ul&gt;
  ]]></description>
         </item>
         <item>
@@ -2589,7 +2618,7 @@
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/me/book-writing-plan.html</guid>
-            <title>我的写书计划</title>
+            <title>我的写作计划</title>
             <link>https://luhuadong.com/me/book-writing-plan.html</link>
             <category>计划</category>
             <pubDate>Sun, 09 Oct 2022 16:41:35 +0800</pubDate>
@@ -2606,7 +2635,7 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRlZS5jb20vbHVodWFkb25nL0ZDVEMtQWly&#34;&gt;FCTC&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;从端到云构建物联网原型&lt;/td&gt;
+&lt;td&gt;从端到云构建物联网原型（基于 RT-Thread）&lt;/td&gt;
 &lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;即将出版&lt;/td&gt;
 &lt;/tr&gt;
@@ -2615,6 +2644,30 @@
 &lt;td&gt;基于树莓派的 Yocto 学习指南（reTerminal 树莓派 CM4）&lt;/td&gt;
 &lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;进行中&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OEEB&lt;/td&gt;
+&lt;td&gt;openEuler Embedded 系统构建与应用实战（ROS 机器人）&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;准备中&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Zephyr-Book&lt;/td&gt;
+&lt;td&gt;Zephyr 嵌入式实时操作系统&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;准备中&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OpenEmber&lt;/td&gt;
+&lt;td&gt;OpenEmber 嵌入式应用框架开发详解&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;准备中&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SmartEV&lt;/td&gt;
+&lt;td&gt;图解智能电动汽车&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;准备中&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRlZS5jb20vbHVodWFkb25nL1JlQ2hhdA==&#34;&gt;ReChat&lt;/span&gt;&lt;/td&gt;
@@ -2653,16 +2706,16 @@
 &lt;td&gt;进行中&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRlZS5jb20vbHVodWFkb25nL1B5RlM=&#34;&gt;PyFS&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;Python 全栈开发&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;进行中&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
 &lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRlZS5jb20vbHVodWFkb25nL1FUQlA=&#34;&gt;QTBP&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;Qt 跨平台开发最佳实践&lt;/td&gt;
 &lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;未开始&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRlZS5jb20vbHVodWFkb25nL1B5RlM=&#34;&gt;PyFS&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;Python 全栈开发&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;进行中&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2x1aHVhZG9uZy9FY28tSGFuZGJvb2s=&#34;&gt;Eco-Handbook&lt;/span&gt;&lt;/td&gt;

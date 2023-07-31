@@ -90,7 +90,7 @@
     <category term="低碳" />
     <entry>
         <id>https://luhuadong.com/me/book-writing-plan.html</id>
-        <title>我的写书计划</title>
+        <title>我的写作计划</title>
         <link rel="alternate" href="https://luhuadong.com/me/book-writing-plan.html"/>
         <content type="html">&lt;p&gt;自从 2016 年萌生写书的想法后，就一发不可收拾…&lt;/p&gt;
 &lt;table&gt;
@@ -105,7 +105,7 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRlZS5jb20vbHVodWFkb25nL0ZDVEMtQWly&#34;&gt;FCTC&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;从端到云构建物联网原型&lt;/td&gt;
+&lt;td&gt;从端到云构建物联网原型（基于 RT-Thread）&lt;/td&gt;
 &lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;即将出版&lt;/td&gt;
 &lt;/tr&gt;
@@ -114,6 +114,30 @@
 &lt;td&gt;基于树莓派的 Yocto 学习指南（reTerminal 树莓派 CM4）&lt;/td&gt;
 &lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;进行中&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OEEB&lt;/td&gt;
+&lt;td&gt;openEuler Embedded 系统构建与应用实战（ROS 机器人）&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;准备中&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Zephyr-Book&lt;/td&gt;
+&lt;td&gt;Zephyr 嵌入式实时操作系统&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;准备中&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OpenEmber&lt;/td&gt;
+&lt;td&gt;OpenEmber 嵌入式应用框架开发详解&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;准备中&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SmartEV&lt;/td&gt;
+&lt;td&gt;图解智能电动汽车&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;准备中&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRlZS5jb20vbHVodWFkb25nL1JlQ2hhdA==&#34;&gt;ReChat&lt;/span&gt;&lt;/td&gt;
@@ -152,16 +176,16 @@
 &lt;td&gt;进行中&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRlZS5jb20vbHVodWFkb25nL1B5RlM=&#34;&gt;PyFS&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;Python 全栈开发&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;进行中&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
 &lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRlZS5jb20vbHVodWFkb25nL1FUQlA=&#34;&gt;QTBP&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;Qt 跨平台开发最佳实践&lt;/td&gt;
 &lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;未开始&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRlZS5jb20vbHVodWFkb25nL1B5RlM=&#34;&gt;PyFS&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;Python 全栈开发&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;进行中&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2x1aHVhZG9uZy9FY28tSGFuZGJvb2s=&#34;&gt;Eco-Handbook&lt;/span&gt;&lt;/td&gt;
