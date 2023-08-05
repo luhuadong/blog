@@ -27,14 +27,14 @@
         <category>物联网</category>
         <category>Python</category>
         <category>教孩子学编程</category>
-        <category>城市规划</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
-        <category>环保</category>
-        <category>碳中和</category>
+        <category>城市规划</category>
         <category>英语</category>
         <category>学习</category>
+        <category>环保</category>
+        <category>碳中和</category>
         <category>种植</category>
         <category>健身</category>
         <category>地理</category>
@@ -51,6 +51,17 @@
         <category>社会现象</category>
         <category>职业</category>
         <category>时间管理</category>
+        <category>milestone</category>
+        <category>总结</category>
+        <category>慈济</category>
+        <category>生活</category>
+        <category>RT-Thread</category>
+        <category>开源</category>
+        <category>写书</category>
+        <category>修身</category>
+        <category>思考</category>
+        <category>幸福</category>
+        <category>猫</category>
         <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
@@ -62,20 +73,9 @@
         <category>纪录片</category>
         <category>自由</category>
         <category>电影</category>
-        <category>开源</category>
         <category>策略</category>
         <category>定律</category>
         <category>心理学</category>
-        <category>milestone</category>
-        <category>总结</category>
-        <category>慈济</category>
-        <category>生活</category>
-        <category>RT-Thread</category>
-        <category>写书</category>
-        <category>修身</category>
-        <category>思考</category>
-        <category>幸福</category>
-        <category>猫</category>
         <category>无线电爱好者</category>
         <category>亲密关系</category>
         <category>农业</category>

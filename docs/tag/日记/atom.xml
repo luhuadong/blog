@@ -3,7 +3,7 @@
     <id>https://luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;日记&#34; tag</title>
     <link href="https://luhuadong.com" />
-    <updated>2023-07-30T11:08:10.000Z</updated>
+    <updated>2023-08-01T02:38:24.000Z</updated>
     <category term="商业" />
     <category term="成长" />
     <category term="日记" />
@@ -24,14 +24,14 @@
     <category term="物联网" />
     <category term="Python" />
     <category term="教孩子学编程" />
-    <category term="城市规划" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
-    <category term="环保" />
-    <category term="碳中和" />
+    <category term="城市规划" />
     <category term="英语" />
     <category term="学习" />
+    <category term="环保" />
+    <category term="碳中和" />
     <category term="种植" />
     <category term="健身" />
     <category term="地理" />
@@ -48,6 +48,17 @@
     <category term="社会现象" />
     <category term="职业" />
     <category term="时间管理" />
+    <category term="milestone" />
+    <category term="总结" />
+    <category term="慈济" />
+    <category term="生活" />
+    <category term="RT-Thread" />
+    <category term="开源" />
+    <category term="写书" />
+    <category term="修身" />
+    <category term="思考" />
+    <category term="幸福" />
+    <category term="猫" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -59,20 +70,9 @@
     <category term="纪录片" />
     <category term="自由" />
     <category term="电影" />
-    <category term="开源" />
     <category term="策略" />
     <category term="定律" />
     <category term="心理学" />
-    <category term="milestone" />
-    <category term="总结" />
-    <category term="慈济" />
-    <category term="生活" />
-    <category term="RT-Thread" />
-    <category term="写书" />
-    <category term="修身" />
-    <category term="思考" />
-    <category term="幸福" />
-    <category term="猫" />
     <category term="无线电爱好者" />
     <category term="亲密关系" />
     <category term="农业" />
@@ -89,6 +89,27 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
+        <id>https://luhuadong.com/journal/20230801.html</id>
+        <title>七月碎碎念：机会成本</title>
+        <link rel="alternate" href="https://luhuadong.com/journal/20230801.html"/>
+        <content type="html">&lt;p&gt;如果你是一个高级工程师或者高级管理者，你所做的一切都有很高的机会成本，所以你选择的工作必须很重要。&lt;/p&gt;
+&lt;p&gt;机会成本 (opportunity cost) 是指企业为从事某项经营活动而放弃另一项经营活动的机会，或利用一定资源获得某种收入时所放弃的另一种收入。 另一项经营活动应取得的收益或另一种收入即为正在从事的经营活动的机会成本。&lt;/p&gt;
+&lt;p&gt;机会成本指的是，人经常需要做单选题，选择了其中一个最优选项，就必须放弃其他选项，其中被放弃的次优选择的价值，就是这次选择的机会成本，又称为「替代性成本」。&lt;/p&gt;
+&lt;p&gt;正如我们常常听说的「鱼与熊掌不可兼得「，当手里的钱有限，假如你买了熊掌，就买不起鱼了，那么你放弃的鱼，就是这次选择的机会成本。&lt;/p&gt;
+&lt;p&gt;机会成本存在的前提，主要有两个。其一，资源有多种用途，其二，资源是稀缺的。这里的资源包括金钱、时间、土地等一切有价值的东西。&lt;/p&gt;
+&lt;p&gt;例如，同样一笔钱，既可以用来买股票，也可以存在银行。同时，钱是有限、稀缺的，一旦全用来买股票了，就不能存银行了。&lt;/p&gt;
+&lt;p&gt;参考：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zbXlhY2hlbmtvdi5jb20vcG9zdHMvYm9vay1yZXZpZXctdGhlLXN0YWZmLWVuZ2luZWVycy1wYXRoLw==&#34;&gt;高级工程师的道路&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93aWtpLm1iYWxpYi5jb20vd2lraS8lRTYlOUMlQkElRTQlQkMlOUElRTYlODglOTAlRTYlOUMlQUM=&#34;&gt;机会成本&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aHVhbmxhbi56aGlodS5jb20vcC82MTM5NzMyMQ==&#34;&gt;这 3 种成本，将决定你是一无所有，还是财富自由！&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="日记" />
+        <category term="思考" />
+        <updated>2023-08-01T02:38:24.000Z</updated>
+    </entry>
+    <entry>
         <id>https://luhuadong.com/journal/20230730.html</id>
         <title>聊聊最近让我焦虑的事情</title>
         <link rel="alternate" href="https://luhuadong.com/journal/20230730.html"/>
@@ -101,14 +122,14 @@
 &lt;h2 id=&#34;后续如何&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#后续如何&#34;&gt;#&lt;/a&gt; 后续如何？&lt;/h2&gt;
 &lt;p&gt;&lt;ins&gt;&lt;strong&gt;2023.07.31 更新&lt;/strong&gt;&lt;/ins&gt;&lt;/p&gt;
 &lt;p&gt;纠结了很久，赶在七月最后一天做了决定 —— 继续留在导远工作半年再作打算，同时业余时间参与 openEuler 和 RT-Thread 开源项目。&lt;/p&gt;
-&lt;p&gt;其实度过了一个非常纠结的周末，也已经做好了心理建设，想要果断离职，越快越好那种。今天（周一）也是以离职为立场约领导聊的，奈何领导一直挽留我，愿意减轻我的工作负担，在项目关键时期坚持住，也同意让我适当参与开源项目，精进技术。部门大领导也希望我能留下来，允许我参加外部培训和活动，并且希望我能出差对接一些客户，同时作为产品线的一个窗口做一些宣传（可能是因为我在网络上有一些粉丝）。反正，最终我还是被说服了，同意留下来继续干半年以上，也想继续看看这个产品是否能成功。希望领导没有骗我，以及项目能够取得好成绩，年底奖金丰厚点吧。只不过，拒绝&lt;a href=&#34;../career/cn-bay-area-national-technology-innovation-center.html&#34;&gt;国创&lt;/a&gt;这份工作，估计我也要纠结一两天，毕竟他们也挺有诚意的，也是我很想尝试的一份工作。&lt;/p&gt;
+&lt;p&gt;其实度过了一个非常纠结的周末，也已经做好了心理建设，想要果断离职，越快越好那种。今天（周一）也是以离职为立场约领导聊的，奈何领导一直挽留我，愿意减轻我的工作负担，希望我在项目关键时期坚持住，也同意让我适当参与开源项目，精进技术。部门大领导也希望我能留下来，允许我申请或参加外部培训和活动，并且希望我能出差对接一些客户，同时作为产品线的一个窗口做一些宣传（可能是因为我在网络上有一些粉丝）。反正，最终我还是被说服了，同意留下来继续干半年以上，也想继续看看这个产品是否能成功。希望领导没有骗我，以及项目能够取得好成绩，年底奖金丰厚点吧。只不过，拒绝&lt;a href=&#34;../career/cn-bay-area-national-technology-innovation-center.html&#34;&gt;国创&lt;/a&gt;这份工作，估计我也要纠结一两天，毕竟他们也挺有诚意的，也是我很想尝试的一份工作。&lt;/p&gt;
 &lt;p&gt;那么，接下来半年（2023.8 ~ 2024.1），我的工作重心以及目标应该是这样的：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;负责激光雷达 ROS SDK 开发和维护，多传感器融合感知、机器人项目研究和集成，最终形成一套 ROS 机器人小车方案；&lt;/li&gt;
 &lt;li&gt;了解点云处理相关算法和 SLAM 建图；&lt;/li&gt;
 &lt;li&gt;了解 AUTOSAR 架构和开发流程；&lt;/li&gt;
 &lt;li&gt;参与 openEuler Embedded 开发，实现在 reTerminal 和 NanoPi R6S 上运行，争取举办一次 openEuler Meetup 技术沙龙，以及了解实时 Linux 方案；&lt;/li&gt;
-&lt;li&gt;参与 RT-Thread 开发，重构基于 ART-Pi 的物联网开发教程；&lt;/li&gt;
+&lt;li&gt;重返 RT-Thread 社区，重构基于 ART-Pi 的物联网开发教程；&lt;/li&gt;
 &lt;li&gt;好好经营 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nZXRpb3QudGVjaA==&#34;&gt;getiot.tech&lt;/span&gt; 和 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96ZXJvdG9nZXRoZXIubmV0&#34;&gt;zerotogether.net&lt;/span&gt; 网站，开发自己的 WordPress 插件；&lt;/li&gt;
 &lt;li&gt;实现 OpenEmber 嵌入式软件框架基本功能；&lt;/li&gt;
 &lt;li&gt;发布 Tusockit V1.0 版本；&lt;/li&gt;

@@ -5,8 +5,8 @@
         <link>https://luhuadong.com</link>
         <description>阿基米东的网络日志</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 30 Jul 2023 19:08:10 +0800</pubDate>
-        <lastBuildDate>Sun, 30 Jul 2023 19:08:10 +0800</lastBuildDate>
+        <pubDate>Tue, 01 Aug 2023 10:38:24 +0800</pubDate>
+        <lastBuildDate>Tue, 01 Aug 2023 10:38:24 +0800</lastBuildDate>
         <category>商业</category>
         <category>成长</category>
         <category>日记</category>
@@ -27,14 +27,14 @@
         <category>物联网</category>
         <category>Python</category>
         <category>教孩子学编程</category>
-        <category>城市规划</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
-        <category>环保</category>
-        <category>碳中和</category>
+        <category>城市规划</category>
         <category>英语</category>
         <category>学习</category>
+        <category>环保</category>
+        <category>碳中和</category>
         <category>种植</category>
         <category>健身</category>
         <category>地理</category>
@@ -51,6 +51,17 @@
         <category>社会现象</category>
         <category>职业</category>
         <category>时间管理</category>
+        <category>milestone</category>
+        <category>总结</category>
+        <category>慈济</category>
+        <category>生活</category>
+        <category>RT-Thread</category>
+        <category>开源</category>
+        <category>写书</category>
+        <category>修身</category>
+        <category>思考</category>
+        <category>幸福</category>
+        <category>猫</category>
         <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
@@ -62,20 +73,9 @@
         <category>纪录片</category>
         <category>自由</category>
         <category>电影</category>
-        <category>开源</category>
         <category>策略</category>
         <category>定律</category>
         <category>心理学</category>
-        <category>milestone</category>
-        <category>总结</category>
-        <category>慈济</category>
-        <category>生活</category>
-        <category>RT-Thread</category>
-        <category>写书</category>
-        <category>修身</category>
-        <category>思考</category>
-        <category>幸福</category>
-        <category>猫</category>
         <category>无线电爱好者</category>
         <category>亲密关系</category>
         <category>农业</category>
@@ -92,6 +92,27 @@
         <category>零废弃</category>
         <category>低碳</category>
         <item>
+            <guid isPermalink="true">https://luhuadong.com/journal/20230801.html</guid>
+            <title>七月碎碎念：机会成本</title>
+            <link>https://luhuadong.com/journal/20230801.html</link>
+            <category>日记</category>
+            <category>思考</category>
+            <pubDate>Tue, 01 Aug 2023 10:38:24 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;如果你是一个高级工程师或者高级管理者，你所做的一切都有很高的机会成本，所以你选择的工作必须很重要。&lt;/p&gt;
+&lt;p&gt;机会成本 (opportunity cost) 是指企业为从事某项经营活动而放弃另一项经营活动的机会，或利用一定资源获得某种收入时所放弃的另一种收入。 另一项经营活动应取得的收益或另一种收入即为正在从事的经营活动的机会成本。&lt;/p&gt;
+&lt;p&gt;机会成本指的是，人经常需要做单选题，选择了其中一个最优选项，就必须放弃其他选项，其中被放弃的次优选择的价值，就是这次选择的机会成本，又称为「替代性成本」。&lt;/p&gt;
+&lt;p&gt;正如我们常常听说的「鱼与熊掌不可兼得「，当手里的钱有限，假如你买了熊掌，就买不起鱼了，那么你放弃的鱼，就是这次选择的机会成本。&lt;/p&gt;
+&lt;p&gt;机会成本存在的前提，主要有两个。其一，资源有多种用途，其二，资源是稀缺的。这里的资源包括金钱、时间、土地等一切有价值的东西。&lt;/p&gt;
+&lt;p&gt;例如，同样一笔钱，既可以用来买股票，也可以存在银行。同时，钱是有限、稀缺的，一旦全用来买股票了，就不能存银行了。&lt;/p&gt;
+&lt;p&gt;参考：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zbXlhY2hlbmtvdi5jb20vcG9zdHMvYm9vay1yZXZpZXctdGhlLXN0YWZmLWVuZ2luZWVycy1wYXRoLw==&#34;&gt;高级工程师的道路&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93aWtpLm1iYWxpYi5jb20vd2lraS8lRTYlOUMlQkElRTQlQkMlOUElRTYlODglOTAlRTYlOUMlQUM=&#34;&gt;机会成本&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aHVhbmxhbi56aGlodS5jb20vcC82MTM5NzMyMQ==&#34;&gt;这 3 种成本，将决定你是一无所有，还是财富自由！&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">https://luhuadong.com/journal/20230730.html</guid>
             <title>聊聊最近让我焦虑的事情</title>
             <link>https://luhuadong.com/journal/20230730.html</link>
@@ -107,14 +128,14 @@
 &lt;h2 id=&#34;后续如何&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#后续如何&#34;&gt;#&lt;/a&gt; 后续如何？&lt;/h2&gt;
 &lt;p&gt;&lt;ins&gt;&lt;strong&gt;2023.07.31 更新&lt;/strong&gt;&lt;/ins&gt;&lt;/p&gt;
 &lt;p&gt;纠结了很久，赶在七月最后一天做了决定 —— 继续留在导远工作半年再作打算，同时业余时间参与 openEuler 和 RT-Thread 开源项目。&lt;/p&gt;
-&lt;p&gt;其实度过了一个非常纠结的周末，也已经做好了心理建设，想要果断离职，越快越好那种。今天（周一）也是以离职为立场约领导聊的，奈何领导一直挽留我，愿意减轻我的工作负担，在项目关键时期坚持住，也同意让我适当参与开源项目，精进技术。部门大领导也希望我能留下来，允许我参加外部培训和活动，并且希望我能出差对接一些客户，同时作为产品线的一个窗口做一些宣传（可能是因为我在网络上有一些粉丝）。反正，最终我还是被说服了，同意留下来继续干半年以上，也想继续看看这个产品是否能成功。希望领导没有骗我，以及项目能够取得好成绩，年底奖金丰厚点吧。只不过，拒绝&lt;a href=&#34;../career/cn-bay-area-national-technology-innovation-center.html&#34;&gt;国创&lt;/a&gt;这份工作，估计我也要纠结一两天，毕竟他们也挺有诚意的，也是我很想尝试的一份工作。&lt;/p&gt;
+&lt;p&gt;其实度过了一个非常纠结的周末，也已经做好了心理建设，想要果断离职，越快越好那种。今天（周一）也是以离职为立场约领导聊的，奈何领导一直挽留我，愿意减轻我的工作负担，希望我在项目关键时期坚持住，也同意让我适当参与开源项目，精进技术。部门大领导也希望我能留下来，允许我申请或参加外部培训和活动，并且希望我能出差对接一些客户，同时作为产品线的一个窗口做一些宣传（可能是因为我在网络上有一些粉丝）。反正，最终我还是被说服了，同意留下来继续干半年以上，也想继续看看这个产品是否能成功。希望领导没有骗我，以及项目能够取得好成绩，年底奖金丰厚点吧。只不过，拒绝&lt;a href=&#34;../career/cn-bay-area-national-technology-innovation-center.html&#34;&gt;国创&lt;/a&gt;这份工作，估计我也要纠结一两天，毕竟他们也挺有诚意的，也是我很想尝试的一份工作。&lt;/p&gt;
 &lt;p&gt;那么，接下来半年（2023.8 ~ 2024.1），我的工作重心以及目标应该是这样的：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;负责激光雷达 ROS SDK 开发和维护，多传感器融合感知、机器人项目研究和集成，最终形成一套 ROS 机器人小车方案；&lt;/li&gt;
 &lt;li&gt;了解点云处理相关算法和 SLAM 建图；&lt;/li&gt;
 &lt;li&gt;了解 AUTOSAR 架构和开发流程；&lt;/li&gt;
 &lt;li&gt;参与 openEuler Embedded 开发，实现在 reTerminal 和 NanoPi R6S 上运行，争取举办一次 openEuler Meetup 技术沙龙，以及了解实时 Linux 方案；&lt;/li&gt;
-&lt;li&gt;参与 RT-Thread 开发，重构基于 ART-Pi 的物联网开发教程；&lt;/li&gt;
+&lt;li&gt;重返 RT-Thread 社区，重构基于 ART-Pi 的物联网开发教程；&lt;/li&gt;
 &lt;li&gt;好好经营 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nZXRpb3QudGVjaA==&#34;&gt;getiot.tech&lt;/span&gt; 和 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96ZXJvdG9nZXRoZXIubmV0&#34;&gt;zerotogether.net&lt;/span&gt; 网站，开发自己的 WordPress 插件；&lt;/li&gt;
 &lt;li&gt;实现 OpenEmber 嵌入式软件框架基本功能；&lt;/li&gt;
 &lt;li&gt;发布 Tusockit V1.0 版本；&lt;/li&gt;
@@ -11259,9 +11280,9 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
             <guid isPermalink="true">https://luhuadong.com/movies/revolution-os.html</guid>
             <title>【纪录片】操作系统革命（Revolution OS）</title>
             <link>https://luhuadong.com/movies/revolution-os.html</link>
+            <category>开源</category>
             <category>纪录片</category>
             <category>自由</category>
-            <category>开源</category>
             <pubDate>Wed, 17 Jun 2020 14:43:59 +0800</pubDate>
             <description><![CDATA[ &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=796140504&amp;bvid=BV1iC4y187nT&amp;cid=235560964&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;非常经典的有关自由软件运动的纪录片&lt;/p&gt;
@@ -11567,9 +11588,9 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
             <guid isPermalink="true">https://luhuadong.com/movies/patent-absurdity.html</guid>
             <title>【纪录片】软件专利的荒谬性（Patent Absurdity）</title>
             <link>https://luhuadong.com/movies/patent-absurdity.html</link>
+            <category>开源</category>
             <category>纪录片</category>
             <category>自由</category>
-            <category>开源</category>
             <pubDate>Sun, 05 Apr 2020 14:36:34 +0800</pubDate>
             <description><![CDATA[ &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=15221360&amp;bvid=BV1sx411u7qy&amp;cid=24774214&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;官网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3BhdGVudGFic3VyZGl0eS5jb20vd2F0Y2guaHRtbA==&#34;&gt;http://patentabsurdity.com/watch.html&lt;/span&gt;&lt;/p&gt;
