@@ -1,27 +1,97 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "成为自由人 • All posts by \"蔬食\" tag",
+    "title": "成为自由人 • All posts by \"素食\" tag",
     "description": "阿基米东的网络日志",
     "home_page_url": "https://luhuadong.com",
     "items": [
         {
-            "id": "https://luhuadong.com/vegan/recipe-vegetarian-dumplings.html",
-            "url": "https://luhuadong.com/vegan/recipe-vegetarian-dumplings.html",
-            "title": "【蔬食菜谱】素饺子",
-            "date_published": "2021-10-03T11:37:57.000Z",
-            "content_html": "<p><img data-src=\"/images/vegan/dumplings.jpeg\" alt=\"\"></p>\n<p>由于饺子皮没有太大区别，因此素饺子的重点就在于 “馅料”，它的全名也就是 “素馅饺子”。</p>\n<h2 id=\"馅料制作\"><a class=\"markdownIt-Anchor\" href=\"#馅料制作\">#</a> 馅料制作</h2>\n<p>我收集了一些常见的素饺子馅料的食材，包括：韭菜、韭黄、木耳、香菇、胡萝卜、沙葛、西葫芦、大白菜、芹菜、紫菜、粉丝、豆腐、马蹄、玉米…</p>\n<p>下面是一些可以尝试的搭配：</p>\n<ol>\n<li>胡萝卜 + 豆泡</li>\n<li>胡萝卜 + 黄瓜</li>\n<li>胡萝卜 + 香菇 + 土豆</li>\n<li>胡萝卜 + 香菇 + 冬瓜</li>\n<li>胡萝卜 + 包菜 + 干花菇</li>\n<li>胡萝卜 + 芹菜 + 豆腐皮</li>\n<li>胡萝卜 + 香菇 + 豆腐 + 木耳</li>\n<li>胡萝卜 + 口蘑 + 芹菜 + 青豆 + 玉米</li>\n<li>胡萝卜 + 香菇 + 大白菜 + 木耳 + 粉丝</li>\n<li>胡萝卜 + 香菇 + 大白菜 + 黄瓜 + 青椒</li>\n<li>胡萝卜 + 香菇 + 大白菜 + 芹菜 + 木耳 + 黄花菜 + 山药</li>\n<li>大白菜 + 香干</li>\n<li>大白菜 + 香菇</li>\n<li>大白菜 + 香菇 + 苕皮</li>\n<li>大白菜 + 豆腐干 + 粉条</li>\n<li>大白菜 + 梅干菜 + 土豆 + 木耳 + 黄花菜</li>\n<li>大白菜 + 面筋 + 香干 + 黄花菜 + 木耳 + 粉丝 + 蘑菇</li>\n<li>香菇 + 油菜</li>\n<li>香菇 + 茄子</li>\n<li>香菇 + 南瓜 + 豆干</li>\n<li>香菇 + 西葫芦 + 木耳 + 粉丝</li>\n<li>香菇 + 杏鲍菇 + 西葫芦 + 青椒</li>\n<li>香菇 + 豌豆 + 甜玉米 + 马蹄 + 秀珍菇</li>\n<li>菠菜 + 粉丝</li>\n<li>荸荠 + 油豆腐 + 芹菜</li>\n</ol>\n<h2 id=\"制作步骤\"><a class=\"markdownIt-Anchor\" href=\"#制作步骤\">#</a> 制作步骤</h2>\n<h3 id=\"和面\"><a class=\"markdownIt-Anchor\" href=\"#和面\">#</a> 和面</h3>\n<p>使用小麦粉或其他面粉用凉水，面粉与水的比例：面粉四碗面，一碗水。在盆中揉成面团后，放置 20 分钟，让面团 “醒醒”。</p>\n<p>水偏多，和好的面偏软，容易包，但煮的时候易破。水偏少，面硬，擀皮费事，包亦费劲。好的口感一般要求面要和的硬一些，有软饼硬饺子之说。</p>\n<h3 id=\"擀皮儿\"><a class=\"markdownIt-Anchor\" href=\"#擀皮儿\">#</a> 擀皮儿</h3>\n<p>把醒好的面团放在案板上，搓成直径 2-3 厘米的圆柱状长条。把柱条揪（或切）成高 1.5 厘米左右的一个个小柱 —— 剂子。把剂子用手压扁。再用擀面杖擀成直径适度（4-7 厘米）的厚约 0.5——1 毫米的薄圆饼，中心部分稍厚些。是为饺子皮儿。擀皮时，案板上要撒些薄面，以防粘板。</p>\n<h3 id=\"包饺子\"><a class=\"markdownIt-Anchor\" href=\"#包饺子\">#</a> 包饺子</h3>\n<p>南方饺子的包法通常有下面 3 种：</p>\n<p><span class=\"github-emoji\" alias=\"one\" style=\"\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/0031-20e3.png?v8\">1️⃣</span> 【元宝状】饺子皮放入馅料后对折成半圆形，先将中间捏住，然后用左手从左边边缘开始向中间捏褶，右手从右边边缘开始向中间捏褶，饺子两半完全合上之后将边缘捏实弯曲呈元宝状。</p>\n<video muted autoplay loop>\n    <source src=\"/images/vegan/make-dumplings-01.mp4\" type=\"video/mp4\">\n</video>\n<p><span class=\"github-emoji\" alias=\"two\" style=\"\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/0032-20e3.png?v8\">2️⃣</span> 【沙县小吃】饺子皮放入馅料，用右手食指和拇指托住，将饺子皮对折，然后用左手大拇指和食指把其中一边向里折起约 1-2 厘米，捏紧再向里折 1-2 厘米，再捏紧如此重复直至另一边，最后收口时把尾巴稍微向上翘捏牢至形如柳叶既可。</p>\n<video muted autoplay loop>\n    <source src=\"/images/vegan/make-dumplings-02.mp4\" type=\"video/mp4\">\n</video>\n<p><span class=\"github-emoji\" alias=\"three\" style=\"\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/0033-20e3.png?v8\">3️⃣</span> 【小月牙】饺子皮放入馅料，用右手食指和拇指托住，将饺子皮对折，然后用左手大拇指和食指将左端边角捏住，左手拇指向内轻推外侧皮，左手食指将外侧皮形成褶折，拇指配合将褶折捏紧，重复步骤至右端饺边并将两端封口处捏牢。（这是我妈习惯的包法）</p>\n<video muted autoplay loop>\n    <source src=\"/images/vegan/make-dumplings-03.mp4\" type=\"video/mp4\">\n</video>\n<h3 id=\"煮饺子\"><a class=\"markdownIt-Anchor\" href=\"#煮饺子\">#</a> 煮饺子</h3>\n<p>锅中放清水，旺火烧开后，放入生饺子，一边放一边搅动，以防粘锅。沉在锅下部的饺子层的高度与其上面的水层的厚度，以不超过 3:2 为宜。饺子过多，易破。加锅盖。整个过程保持旺火。水又开锅，此时饺子应当都漂在水面，加少许凉水，使翻滚的汤终止翻滚，搅动。水又开，再加少许凉水，搅动。水再开，即可用漏勺把饺子捞出。</p>\n<p>判断是否煮熟的方法：用手指按一下皮儿没有破的饺子肚，离开后又鼓起，熟了。</p>\n<h2 id=\"references\"><a class=\"markdownIt-Anchor\" href=\"#references\">#</a> References</h2>\n<ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly9uZXcucXEuY29tL29tbi8yMDIxMDQxOC8yMDIxMDQxOEEwMlMyWTAwLmh0bWw=\">超好吃的素饺子馅做法大全，清淡爽口，全家人都爱吃！（二）</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuemhpaHUuY29tL3F1ZXN0aW9uLzI2NzAxMzEz\">如何简单的包饺子？</span></li>\n</ul>\n",
+            "id": "https://luhuadong.com/recipes/curry-potatoes.html",
+            "url": "https://luhuadong.com/recipes/curry-potatoes.html",
+            "title": "【素食菜谱】咖喱蔬菜大杂烩",
+            "date_published": "2023-08-19T10:51:15.000Z",
+            "content_html": "<p><img data-src=\"/images/vegan/curry-potatoes.jpeg\" alt=\"\"></p>\n<p>食材：</p>\n<p>素咖喱块、土豆、胡萝卜、西兰花、油豆腐、豌豆、板栗、植物油、食盐。</p>\n<p>步骤：</p>\n<ol>\n<li>洗净食材，胡萝卜土豆去皮切滚刀块，西兰花撕成小朵，然后焯水至五分熟，油豆腐切开。</li>\n<li>炒锅热油，放土豆、胡萝卜翻炒一分钟。</li>\n<li>加入板栗、西兰花继续翻炒一分钟。</li>\n<li>咖喱块用温水化开后倒入锅里，再适量添加温水和食盐，煮至咖喱浓稠即可，期间要多翻动以免糊锅。</li>\n</ol>\n",
             "tags": [
-                "蔬食"
+                "素食"
             ]
         },
         {
-            "id": "https://luhuadong.com/vegan/recipe-eggplant-and-green-beans.html",
-            "url": "https://luhuadong.com/vegan/recipe-eggplant-and-green-beans.html",
-            "title": "【蔬食菜谱】茄子豆角",
+            "id": "https://luhuadong.com/recipes/vegetable-stew-with-tomatoes.html",
+            "url": "https://luhuadong.com/recipes/vegetable-stew-with-tomatoes.html",
+            "title": "【素食菜谱】番茄炖蔬菜",
+            "date_published": "2023-08-19T10:39:18.000Z",
+            "content_html": "<p><img data-src=\"/images/vegan/vegetable-stew-with-tomatoes.jpg\" alt=\"\"></p>\n<p>食材：</p>\n<p>西红柿 1-2 个、豆腐半块、腐竹泡发 200 克、金针菇 1 把、娃娃菜约 150 克、木耳 5 朵、生姜适量、食用油约 25 克、盐 1/3 茶匙、素耗油 1 勺、素高鲜\t1/3 茶匙、生抽 1 勺、淀粉水（1 勺淀粉 + 1/3 碗清水）。</p>\n<p>步骤：</p>\n<ol>\n<li>将所有材料洗净备用（腐竹需要提前泡发）。</li>\n<li>锅里倒油，下豆腐煎两面金黄，盛起备用。</li>\n<li>用锅里剩下的油，放姜末爆香。</li>\n<li>放入番茄炒出汁。</li>\n<li>放入煎过的豆腐翻炒均匀。</li>\n<li>放入腐竹一起翻炒均匀。</li>\n<li>倒入适量清水，淹过食材，中火煮开。</li>\n<li>把金针菇、娃娃菜、木耳倒入锅内。</li>\n<li>加入盐、生抽、素耗油一起翻拌均匀。</li>\n<li>盖上锅盖焖约 2-3 分钟。</li>\n<li>倒入水淀粉，撒上素高鲜，翻拌均匀即可出锅。</li>\n</ol>\n",
+            "tags": [
+                "素食"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/recipes/sauteed-celery-with-dried-tofu-slices.html",
+            "url": "https://luhuadong.com/recipes/sauteed-celery-with-dried-tofu-slices.html",
+            "title": "【素食菜谱】芹菜炒香干",
+            "date_published": "2023-08-19T10:07:37.000Z",
+            "content_html": "<p><img data-src=\"/images/vegan/sauteed-celery-with-dried-tofu-slices.jpg\" alt=\"\"></p>\n<p>水芹菜是一种水生保健蔬菜，生拌炒食皆可，且风味独特。水芹菜营养丰富，含有多种人体不可缺少的营养物质。中医认为，水芹菜的功效为清热利水、化痰下气、祛瘀止带、解毒消肿，并有健脾和胃、消食导滞、利尿、止血、降血压、抗肝炎、抗心律失常、抗菌、治疗失眠等作用。</p>\n<p>食材：</p>\n<p>水芹菜一小把、香干（豆腐干）3-4 块、食盐适量、香油少许。</p>\n<p>步骤：</p>\n<ol>\n<li>将水芹菜洗净、沥干、切成寸段。</li>\n<li>香干洗净沥干，切成稍厚的片。</li>\n<li>锅中把水烧开，先加入芹菜杆，过 20 秒后加入芹菜叶，过 10 秒后把捞出过冷水。</li>\n<li>热锅冷油加入香干煸炒一下，然后加入芹菜继续煸炒。</li>\n<li>大约一分钟后，待芹菜看上去有些变软了，加入适量盐就可以出锅了。</li>\n</ol>\n",
+            "tags": [
+                "素食"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/recipes/chinese-yam-in-hot-toffee.html",
+            "url": "https://luhuadong.com/recipes/chinese-yam-in-hot-toffee.html",
+            "title": "【素食菜谱】拔丝山药",
+            "date_published": "2023-08-19T04:15:02.000Z",
+            "content_html": "<p><img data-src=\"/images/vegan/chinese-yam-in-hot-toffee.jpeg\" alt=\"\"></p>\n<p>食材：</p>\n<p>山药 500 克、白糖 150 克、玉米淀粉适量、油适量、白米醋少许、白芝麻 8 克。</p>\n<p>步骤：</p>\n<ol>\n<li>山药去皮切成滚刀块。</li>\n<li>为了防止山药氧化变色，所以用水泡一下。</li>\n<li>锅里放入一些清水，倒入白醋。</li>\n<li>放入山药约 2 分钟断生。</li>\n<li>山药沥干水分，撒上淀粉拌匀。</li>\n<li>用 5 成油温（约 150℃）炸一下。</li>\n<li>一边起另一口锅，加入食油，加入白糖，熬出糖色。</li>\n<li>放入山药快速翻炒即可出锅，撒上些芝麻。</li>\n</ol>\n",
+            "tags": [
+                "素食"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/recipes/candied-sweet-potatoes.html",
+            "url": "https://luhuadong.com/recipes/candied-sweet-potatoes.html",
+            "title": "【素食菜谱】拔丝地瓜",
+            "date_published": "2023-08-19T04:11:51.000Z",
+            "content_html": "<p><img data-src=\"/images/vegan/candied-sweet-potatoes.jpg\" alt=\"\"></p>\n<p>本文介绍非油炸拔丝地瓜的做法。</p>\n<p>食材：</p>\n<p>地瓜 500 克、白糖 150 克、玉米淀粉适量、油适量、白米醋少许、白芝麻 8 克。</p>\n<p>步骤：</p>\n<ol>\n<li>地瓜洗净，去皮，切成大小均匀的滚刀块。</li>\n<li>将地瓜放入烤箱，以 150 度到 200 度，烤 15 分钟左右至地瓜熟透。</li>\n<li>锅内加入食油，加入白糖，小火慢炒，熬出糖色。</li>\n<li>放入地瓜快速翻炒即可出锅，撒上些芝麻。</li>\n<li>出锅后，倒入涂了油的盘子上，蘸凉水食用即可。</li>\n</ol>\n",
+            "tags": [
+                "素食"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/recipes/di-san-xian.html",
+            "url": "https://luhuadong.com/recipes/di-san-xian.html",
+            "title": "【素食菜谱】地三鲜",
+            "date_published": "2023-08-19T04:10:31.000Z",
+            "content_html": "<p><img data-src=\"/images/vegan/di-san-xian.jpg\" alt=\"\"></p>\n<p>地三鲜是东北菜中最经典的一道素菜，也是一道超级下饭菜。用土豆、茄子、青椒，这三种新鲜又普通的蔬菜，烧出一道让人百吃不厌、色香味无敌的家常菜肴。也许很多人发现，自己在家做的地三鲜怎么都不如餐馆做的好吃，不仅茄子暗黑，而且土豆硬芯，这是因为没有掌握做好这道菜的关键 —— 炸。</p>\n<p>食材：</p>\n<p>茄子（长）1 个、青椒 2 个、土豆 2 个、淀粉 2 勺、盐适量、生抽 3 勺、老抽 1 勺、耗油 1 勺、白糖 1 勺。</p>\n<p>步骤：</p>\n<ol>\n<li>土豆去皮，切成滚刀块；茄子切成滚刀块；青椒切成小块。</li>\n<li>在切好的茄子中放入一勺干淀粉 并翻拌均匀（这样可以减少茄子的吸油量）。</li>\n<li>锅中多放油，烧至八成热。</li>\n<li>放入茄子炸 3 分钟左右，捞起备用。</li>\n<li>放入土豆炸 5 分钟左右，炸至金黄，捞起备用。</li>\n<li>放入青椒炸 10 秒左右，捞起备用。</li>\n<li>准备酱汁，小碗中放入半碗水、三勺生抽、两勺耗油、一勺老抽、一勺糖、一勺淀粉、少许盐。</li>\n<li>锅中留下底油，加入蒜爆香，倒入酱汁，再倒入炸好的蔬菜，充分翻拌均匀，然后大火收汁即可出锅。</li>\n</ol>\n",
+            "tags": [
+                "素食"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/recipes/eight-treasure-congee.html",
+            "url": "https://luhuadong.com/recipes/eight-treasure-congee.html",
+            "title": "【素食菜谱】八宝粥",
+            "date_published": "2023-08-19T04:08:29.000Z",
+            "content_html": "<p><img data-src=\"/images/vegan/eight-treasure-congee.jpeg\" alt=\"\"></p>\n<p>八宝又名腊八粥、佛粥，是一种在腊八节用由多种食材熬制的粥，也是我国的传统节日食品。早在南宋时期，文人周密所撰的《武林旧事》就曾记载：“用胡桃、松子、乳覃、柿、栗之类作粥，谓之腊八粥”。</p>\n<p>八宝粥的材料主要包含谷类、豆类和干果类。常见的八宝粥是由大米、糯米、黑米、红枣、花生、莲子、百合、红豆组成，但很多时候，八宝粥可不止八宝，还会添加绿豆、桃仁、桂圆等。因此，八宝粥富含氨基酸、淀粉、植物蛋白，具有健脾养胃，消滞减肥，益气安神的功效。</p>\n<p>食材：</p>\n<p>黑米 50 克、糯米 120 克、红豆 30 克、薏米 20 克、花生 30 克、红枣 12 颗、莲子 60 克、花芸豆 30 克、水约 1850ml、冰糖\t适量。</p>\n<p>步骤：</p>\n<ol>\n<li>将食材洗干净后，除了红枣外，其他食材都倒入碗内，用清水浸泡 2 小时（不急着吃的话，可以泡一晚上）。</li>\n<li>将泡好的食材和红枣一起倒入电饭煲，并加入 1850ml 的水，选择煮粥按钮即可。</li>\n<li>煮好的八宝粥，趁热加入适量的冰糖，搅拌至融化，即可享用。</li>\n</ol>\n",
+            "tags": [
+                "素食"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/recipes/vegetarian-dumplings.html",
+            "url": "https://luhuadong.com/recipes/vegetarian-dumplings.html",
+            "title": "【素食菜谱】素饺子",
+            "date_published": "2021-10-03T11:37:57.000Z",
+            "content_html": "<p><img data-src=\"/images/vegan/dumplings.jpeg\" alt=\"\"></p>\n<p>由于饺子皮没有太大区别，因此素饺子的重点就在于 “馅料”，它的全名也就是 “素馅饺子”。</p>\n<h2 id=\"馅料制作\"><a class=\"markdownIt-Anchor\" href=\"#馅料制作\">#</a> 馅料制作</h2>\n<p>我收集了一些常见的素饺子馅料的食材，包括：韭菜、韭黄、木耳、香菇、胡萝卜、沙葛、西葫芦、大白菜、芹菜、紫菜、粉丝、豆腐、马蹄、玉米…</p>\n<p>下面是一些可以尝试的搭配：</p>\n<ol>\n<li>胡萝卜 + 豆泡</li>\n<li>胡萝卜 + 黄瓜</li>\n<li>胡萝卜 + 香菇 + 土豆</li>\n<li>胡萝卜 + 香菇 + 冬瓜</li>\n<li>胡萝卜 + 包菜 + 干花菇</li>\n<li>胡萝卜 + 芹菜 + 豆腐皮</li>\n<li>胡萝卜 + 香菇 + 豆腐 + 木耳</li>\n<li>胡萝卜 + 口蘑 + 芹菜 + 青豆 + 玉米</li>\n<li>胡萝卜 + 香菇 + 大白菜 + 木耳 + 粉丝</li>\n<li>胡萝卜 + 香菇 + 大白菜 + 黄瓜 + 青椒</li>\n<li>胡萝卜 + 香菇 + 大白菜 + 芹菜 + 木耳 + 黄花菜 + 山药</li>\n<li>大白菜 + 香干</li>\n<li>大白菜 + 香菇</li>\n<li>大白菜 + 香菇 + 苕皮</li>\n<li>大白菜 + 豆腐干 + 粉条</li>\n<li>大白菜 + 梅干菜 + 土豆 + 木耳 + 黄花菜</li>\n<li>大白菜 + 面筋 + 香干 + 黄花菜 + 木耳 + 粉丝 + 蘑菇</li>\n<li>香菇 + 油菜</li>\n<li>香菇 + 茄子</li>\n<li>香菇 + 南瓜 + 豆干</li>\n<li>香菇 + 西葫芦 + 木耳 + 粉丝</li>\n<li>香菇 + 杏鲍菇 + 西葫芦 + 青椒</li>\n<li>香菇 + 豌豆 + 甜玉米 + 马蹄 + 秀珍菇</li>\n<li>菠菜 + 粉丝</li>\n<li>荸荠 + 油豆腐 + 芹菜</li>\n</ol>\n<h2 id=\"制作步骤\"><a class=\"markdownIt-Anchor\" href=\"#制作步骤\">#</a> 制作步骤</h2>\n<h3 id=\"和面\"><a class=\"markdownIt-Anchor\" href=\"#和面\">#</a> 和面</h3>\n<p>使用小麦粉或其他面粉用凉水，面粉与水的比例：面粉四碗面，一碗水。在盆中揉成面团后，放置 20 分钟，让面团 “醒醒”。</p>\n<p>水偏多，和好的面偏软，容易包，但煮的时候易破。水偏少，面硬，擀皮费事，包亦费劲。好的口感一般要求面要和的硬一些，有软饼硬饺子之说。</p>\n<h3 id=\"擀皮儿\"><a class=\"markdownIt-Anchor\" href=\"#擀皮儿\">#</a> 擀皮儿</h3>\n<p>把醒好的面团放在案板上，搓成直径 2-3 厘米的圆柱状长条。把柱条揪（或切）成高 1.5 厘米左右的一个个小柱 —— 剂子。把剂子用手压扁。再用擀面杖擀成直径适度（4-7 厘米）的厚约 0.5——1 毫米的薄圆饼，中心部分稍厚些。是为饺子皮儿。擀皮时，案板上要撒些薄面，以防粘板。</p>\n<h3 id=\"包饺子\"><a class=\"markdownIt-Anchor\" href=\"#包饺子\">#</a> 包饺子</h3>\n<p>南方饺子的包法通常有下面 3 种：</p>\n<p><span class=\"github-emoji\" alias=\"one\" style=\"\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/0031-20e3.png?v8\">1️⃣</span> 【元宝状】饺子皮放入馅料后对折成半圆形，先将中间捏住，然后用左手从左边边缘开始向中间捏褶，右手从右边边缘开始向中间捏褶，饺子两半完全合上之后将边缘捏实弯曲呈元宝状。</p>\n<video muted autoplay loop>\n    <source src=\"/images/vegan/make-dumplings-01.mp4\" type=\"video/mp4\">\n</video>\n<p><span class=\"github-emoji\" alias=\"two\" style=\"\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/0032-20e3.png?v8\">2️⃣</span> 【沙县小吃】饺子皮放入馅料，用右手食指和拇指托住，将饺子皮对折，然后用左手大拇指和食指把其中一边向里折起约 1-2 厘米，捏紧再向里折 1-2 厘米，再捏紧如此重复直至另一边，最后收口时把尾巴稍微向上翘捏牢至形如柳叶既可。</p>\n<video muted autoplay loop>\n    <source src=\"/images/vegan/make-dumplings-02.mp4\" type=\"video/mp4\">\n</video>\n<p><span class=\"github-emoji\" alias=\"three\" style=\"\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/0033-20e3.png?v8\">3️⃣</span> 【小月牙】饺子皮放入馅料，用右手食指和拇指托住，将饺子皮对折，然后用左手大拇指和食指将左端边角捏住，左手拇指向内轻推外侧皮，左手食指将外侧皮形成褶折，拇指配合将褶折捏紧，重复步骤至右端饺边并将两端封口处捏牢。（这是我妈习惯的包法）</p>\n<video muted autoplay loop>\n    <source src=\"/images/vegan/make-dumplings-03.mp4\" type=\"video/mp4\">\n</video>\n<h3 id=\"煮饺子\"><a class=\"markdownIt-Anchor\" href=\"#煮饺子\">#</a> 煮饺子</h3>\n<p>锅中放清水，旺火烧开后，放入生饺子，一边放一边搅动，以防粘锅。沉在锅下部的饺子层的高度与其上面的水层的厚度，以不超过 3:2 为宜。饺子过多，易破。加锅盖。整个过程保持旺火。水又开锅，此时饺子应当都漂在水面，加少许凉水，使翻滚的汤终止翻滚，搅动。水又开，再加少许凉水，搅动。水再开，即可用漏勺把饺子捞出。</p>\n<p>判断是否煮熟的方法：用手指按一下皮儿没有破的饺子肚，离开后又鼓起，熟了。</p>\n<h2 id=\"references\"><a class=\"markdownIt-Anchor\" href=\"#references\">#</a> References</h2>\n<ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly9uZXcucXEuY29tL29tbi8yMDIxMDQxOC8yMDIxMDQxOEEwMlMyWTAwLmh0bWw=\">超好吃的素饺子馅做法大全，清淡爽口，全家人都爱吃！（二）</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuemhpaHUuY29tL3F1ZXN0aW9uLzI2NzAxMzEz\">如何简单的包饺子？</span></li>\n</ul>\n",
+            "tags": [
+                "素食"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/recipes/eggplant-and-green-beans.html",
+            "url": "https://luhuadong.com/recipes/eggplant-and-green-beans.html",
+            "title": "【素食菜谱】茄子豆角",
             "date_published": "2021-10-03T09:23:05.000Z",
             "content_html": "<p><img data-src=\"/images/vegan/%E8%8C%84%E5%AD%90%E8%B1%86%E8%A7%92.jpeg\" alt=\"\"></p>\n<p>茄子豆角是许多餐馆都有的一道菜，豆角富含维生素 B、维生素 C、植物蛋白质、磷脂以及微量元素，茄子则是为数不多的紫色蔬菜之一，它的紫皮富含维生素 E。两者搭配起来还是蛮好看、美味、营养的。</p>\n<p>茄子豆角这道菜也是我转素食后给自己做的第一道菜。</p>\n<h2 id=\"准备食材\"><a class=\"markdownIt-Anchor\" href=\"#准备食材\">#</a> 准备食材</h2>\n<p><strong>主料</strong></p>\n<table>\n<thead>\n<tr>\n<th style=\"text-align:center\">豆角</th>\n<th style=\"text-align:center\">紫色茄子</th>\n<th style=\"text-align:center\">姜</th>\n<th style=\"text-align:center\">蒜头</th>\n<th style=\"text-align:center\">干辣椒</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:center\">250g</td>\n<td style=\"text-align:center\">1 个</td>\n<td style=\"text-align:center\">适量</td>\n<td style=\"text-align:center\">适量</td>\n<td style=\"text-align:center\">适量</td>\n</tr>\n</tbody>\n</table>\n<p><strong>辅料</strong></p>\n<table>\n<thead>\n<tr>\n<th style=\"text-align:center\">油</th>\n<th style=\"text-align:center\">盐</th>\n<th style=\"text-align:center\">生抽</th>\n<th style=\"text-align:center\">胡椒粉</th>\n<th style=\"text-align:center\">生粉</th>\n<th style=\"text-align:center\">…</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:center\">适量</td>\n<td style=\"text-align:center\">适量</td>\n<td style=\"text-align:center\">适量</td>\n<td style=\"text-align:center\">适量</td>\n<td style=\"text-align:center\">适量</td>\n<td style=\"text-align:center\"></td>\n</tr>\n</tbody>\n</table>\n<h2 id=\"制作步骤\"><a class=\"markdownIt-Anchor\" href=\"#制作步骤\">#</a> 制作步骤</h2>\n<ul>\n<li>姜、蒜切碎，干辣椒冲洗后切小段；</li>\n<li>将适量生抽、盐、胡椒粉、生粉混合拌匀调成芡汁；</li>\n<li>豆角洗净后切成 3 厘米长的小段；（默认使用长豆角，也就是豇豆）</li>\n<li>茄子洗净后切成条状（3-5 厘米长）；</li>\n<li>【油炸】\n<ul>\n<li>为了保持豆角和茄子的颜色，提升口感，可以先分别将豆角和茄子放入热油中炸一会（油温 6 成热，豆角炸约 1 分钟，茄子炸约 30 秒）；</li>\n<li>锅内留点底油，下姜、蒜、干辣椒小火炒出香味；</li>\n<li>加入之前炸好的茄子和豆角，继续翻炒；</li>\n<li>再倒入调制好的芡汁；烧开后焖一会即可。</li>\n</ul>\n</li>\n<li>【煸炒】\n<ul>\n<li>锅内倒入适量油，油热后放入豆角煸炒，直至豆角变软，表面微微起皱；</li>\n<li>加入茄子，继续煸炒 2-3 分钟；</li>\n<li>在锅中间留出一块空间，加入姜、蒜、干辣椒，煸炒出香味；</li>\n<li>与茄子和豆角一起翻炒均匀；</li>\n<li>再倒入调制好的芡汁；烧开后焖一会即可。</li>\n</ul>\n</li>\n</ul>\n<p>提示：</p>\n<ol>\n<li>姜片、蒜头、干辣椒的量随自己口味放，不一定都要添加；</li>\n<li>茄子可以先用盐腌一会，如果采用油炸的方式，还可以撒上一层生粉，这样就没那么容易吸油。</li>\n</ol>\n<h2 id=\"注解\"><a class=\"markdownIt-Anchor\" href=\"#注解\">#</a> 注解</h2>\n<blockquote>\n<p><strong>豇豆</strong>（学名：Vigna unguiculata），俗称角豆、姜豆、带豆、挂豆角。豇豆分为长豇豆和饭豇两种，属豆科植物。豇豆属豆科一年生植物。茎有矮性、半蔓性和蔓性三种。南方栽培以蔓性为主，矮性次之。</p>\n<p><strong>四季豆</strong>是芸豆的别名，菜豆是豆科菜豆种的栽培品种，为一年生草本植物。北方多叫眉豆，在浙江兰溪也叫眉豆。又叫菜豆，芸扁豆，四月豆等，在浙江衢州叫做清明豆，在四川及一些华中地区叫做四季豆，是餐桌上的常见蔬菜之一。</p>\n</blockquote>\n<p><img data-src=\"/images/vegan/%E8%B1%86%E8%A7%92%E7%A7%8D%E7%B1%BB.jpg\" alt=\"\"></p>\n<blockquote>\n<p>常见食用油沸点：大豆油 257℃、玉米油 246℃、花生油 226℃、芝麻油 215℃。所以油温六成热，大概就是豆油 154℃，玉米油 147℃、花生油 135℃、芝麻油 129℃。</p>\n</blockquote>\n",
             "tags": [
-                "蔬食"
+                "素食"
             ]
         }
     ]

@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luhuadong.com</id>
-    <title>成为自由人 • Posts by &#34;一起吃饭呀&#34; category</title>
+    <title>成为自由人 • Posts by &#34;一起学做菜&#34; category</title>
     <link href="https://luhuadong.com" />
-    <updated>2021-10-03T11:37:57.000Z</updated>
-    <category term="商业" />
+    <updated>2023-08-19T10:51:15.000Z</updated>
     <category term="成长" />
     <category term="日记" />
+    <category term="商业" />
     <category term="创业" />
     <category term="家居" />
     <category term="互联网" />
@@ -24,10 +24,10 @@
     <category term="物联网" />
     <category term="Python" />
     <category term="教孩子学编程" />
+    <category term="城市规划" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
-    <category term="城市规划" />
     <category term="英语" />
     <category term="学习" />
     <category term="环保" />
@@ -76,22 +76,169 @@
     <category term="无线电爱好者" />
     <category term="亲密关系" />
     <category term="农业" />
+    <category term="素食" />
     <category term="报告" />
     <category term="TED" />
     <category term="演讲" />
     <category term="励志" />
     <category term="时间" />
     <category term="游泳" />
-    <category term="蔬食" />
     <category term="声音训练" />
     <category term="WordPress" />
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/vegan/recipe-vegetarian-dumplings.html</id>
-        <title>【蔬食菜谱】素饺子</title>
-        <link rel="alternate" href="https://luhuadong.com/vegan/recipe-vegetarian-dumplings.html"/>
+        <id>https://luhuadong.com/recipes/curry-potatoes.html</id>
+        <title>【素食菜谱】咖喱蔬菜大杂烩</title>
+        <link rel="alternate" href="https://luhuadong.com/recipes/curry-potatoes.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/vegan/curry-potatoes.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;食材：&lt;/p&gt;
+&lt;p&gt;素咖喱块、土豆、胡萝卜、西兰花、油豆腐、豌豆、板栗、植物油、食盐。&lt;/p&gt;
+&lt;p&gt;步骤：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;洗净食材，胡萝卜土豆去皮切滚刀块，西兰花撕成小朵，然后焯水至五分熟，油豆腐切开。&lt;/li&gt;
+&lt;li&gt;炒锅热油，放土豆、胡萝卜翻炒一分钟。&lt;/li&gt;
+&lt;li&gt;加入板栗、西兰花继续翻炒一分钟。&lt;/li&gt;
+&lt;li&gt;咖喱块用温水化开后倒入锅里，再适量添加温水和食盐，煮至咖喱浓稠即可，期间要多翻动以免糊锅。&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+        <category term="素食" />
+        <updated>2023-08-19T10:51:15.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/recipes/vegetable-stew-with-tomatoes.html</id>
+        <title>【素食菜谱】番茄炖蔬菜</title>
+        <link rel="alternate" href="https://luhuadong.com/recipes/vegetable-stew-with-tomatoes.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/vegan/vegetable-stew-with-tomatoes.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;食材：&lt;/p&gt;
+&lt;p&gt;西红柿 1-2 个、豆腐半块、腐竹泡发 200 克、金针菇 1 把、娃娃菜约 150 克、木耳 5 朵、生姜适量、食用油约 25 克、盐 1/3 茶匙、素耗油 1 勺、素高鲜	1/3 茶匙、生抽 1 勺、淀粉水（1 勺淀粉 + 1/3 碗清水）。&lt;/p&gt;
+&lt;p&gt;步骤：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;将所有材料洗净备用（腐竹需要提前泡发）。&lt;/li&gt;
+&lt;li&gt;锅里倒油，下豆腐煎两面金黄，盛起备用。&lt;/li&gt;
+&lt;li&gt;用锅里剩下的油，放姜末爆香。&lt;/li&gt;
+&lt;li&gt;放入番茄炒出汁。&lt;/li&gt;
+&lt;li&gt;放入煎过的豆腐翻炒均匀。&lt;/li&gt;
+&lt;li&gt;放入腐竹一起翻炒均匀。&lt;/li&gt;
+&lt;li&gt;倒入适量清水，淹过食材，中火煮开。&lt;/li&gt;
+&lt;li&gt;把金针菇、娃娃菜、木耳倒入锅内。&lt;/li&gt;
+&lt;li&gt;加入盐、生抽、素耗油一起翻拌均匀。&lt;/li&gt;
+&lt;li&gt;盖上锅盖焖约 2-3 分钟。&lt;/li&gt;
+&lt;li&gt;倒入水淀粉，撒上素高鲜，翻拌均匀即可出锅。&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+        <category term="素食" />
+        <updated>2023-08-19T10:39:18.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/recipes/sauteed-celery-with-dried-tofu-slices.html</id>
+        <title>【素食菜谱】芹菜炒香干</title>
+        <link rel="alternate" href="https://luhuadong.com/recipes/sauteed-celery-with-dried-tofu-slices.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/vegan/sauteed-celery-with-dried-tofu-slices.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;水芹菜是一种水生保健蔬菜，生拌炒食皆可，且风味独特。水芹菜营养丰富，含有多种人体不可缺少的营养物质。中医认为，水芹菜的功效为清热利水、化痰下气、祛瘀止带、解毒消肿，并有健脾和胃、消食导滞、利尿、止血、降血压、抗肝炎、抗心律失常、抗菌、治疗失眠等作用。&lt;/p&gt;
+&lt;p&gt;食材：&lt;/p&gt;
+&lt;p&gt;水芹菜一小把、香干（豆腐干）3-4 块、食盐适量、香油少许。&lt;/p&gt;
+&lt;p&gt;步骤：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;将水芹菜洗净、沥干、切成寸段。&lt;/li&gt;
+&lt;li&gt;香干洗净沥干，切成稍厚的片。&lt;/li&gt;
+&lt;li&gt;锅中把水烧开，先加入芹菜杆，过 20 秒后加入芹菜叶，过 10 秒后把捞出过冷水。&lt;/li&gt;
+&lt;li&gt;热锅冷油加入香干煸炒一下，然后加入芹菜继续煸炒。&lt;/li&gt;
+&lt;li&gt;大约一分钟后，待芹菜看上去有些变软了，加入适量盐就可以出锅了。&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+        <category term="素食" />
+        <updated>2023-08-19T10:07:37.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/recipes/chinese-yam-in-hot-toffee.html</id>
+        <title>【素食菜谱】拔丝山药</title>
+        <link rel="alternate" href="https://luhuadong.com/recipes/chinese-yam-in-hot-toffee.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/vegan/chinese-yam-in-hot-toffee.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;食材：&lt;/p&gt;
+&lt;p&gt;山药 500 克、白糖 150 克、玉米淀粉适量、油适量、白米醋少许、白芝麻 8 克。&lt;/p&gt;
+&lt;p&gt;步骤：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;山药去皮切成滚刀块。&lt;/li&gt;
+&lt;li&gt;为了防止山药氧化变色，所以用水泡一下。&lt;/li&gt;
+&lt;li&gt;锅里放入一些清水，倒入白醋。&lt;/li&gt;
+&lt;li&gt;放入山药约 2 分钟断生。&lt;/li&gt;
+&lt;li&gt;山药沥干水分，撒上淀粉拌匀。&lt;/li&gt;
+&lt;li&gt;用 5 成油温（约 150℃）炸一下。&lt;/li&gt;
+&lt;li&gt;一边起另一口锅，加入食油，加入白糖，熬出糖色。&lt;/li&gt;
+&lt;li&gt;放入山药快速翻炒即可出锅，撒上些芝麻。&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+        <category term="素食" />
+        <updated>2023-08-19T04:15:02.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/recipes/candied-sweet-potatoes.html</id>
+        <title>【素食菜谱】拔丝地瓜</title>
+        <link rel="alternate" href="https://luhuadong.com/recipes/candied-sweet-potatoes.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/vegan/candied-sweet-potatoes.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;本文介绍非油炸拔丝地瓜的做法。&lt;/p&gt;
+&lt;p&gt;食材：&lt;/p&gt;
+&lt;p&gt;地瓜 500 克、白糖 150 克、玉米淀粉适量、油适量、白米醋少许、白芝麻 8 克。&lt;/p&gt;
+&lt;p&gt;步骤：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;地瓜洗净，去皮，切成大小均匀的滚刀块。&lt;/li&gt;
+&lt;li&gt;将地瓜放入烤箱，以 150 度到 200 度，烤 15 分钟左右至地瓜熟透。&lt;/li&gt;
+&lt;li&gt;锅内加入食油，加入白糖，小火慢炒，熬出糖色。&lt;/li&gt;
+&lt;li&gt;放入地瓜快速翻炒即可出锅，撒上些芝麻。&lt;/li&gt;
+&lt;li&gt;出锅后，倒入涂了油的盘子上，蘸凉水食用即可。&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+        <category term="素食" />
+        <updated>2023-08-19T04:11:51.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/recipes/di-san-xian.html</id>
+        <title>【素食菜谱】地三鲜</title>
+        <link rel="alternate" href="https://luhuadong.com/recipes/di-san-xian.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/vegan/di-san-xian.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;地三鲜是东北菜中最经典的一道素菜，也是一道超级下饭菜。用土豆、茄子、青椒，这三种新鲜又普通的蔬菜，烧出一道让人百吃不厌、色香味无敌的家常菜肴。也许很多人发现，自己在家做的地三鲜怎么都不如餐馆做的好吃，不仅茄子暗黑，而且土豆硬芯，这是因为没有掌握做好这道菜的关键 —— 炸。&lt;/p&gt;
+&lt;p&gt;食材：&lt;/p&gt;
+&lt;p&gt;茄子（长）1 个、青椒 2 个、土豆 2 个、淀粉 2 勺、盐适量、生抽 3 勺、老抽 1 勺、耗油 1 勺、白糖 1 勺。&lt;/p&gt;
+&lt;p&gt;步骤：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;土豆去皮，切成滚刀块；茄子切成滚刀块；青椒切成小块。&lt;/li&gt;
+&lt;li&gt;在切好的茄子中放入一勺干淀粉 并翻拌均匀（这样可以减少茄子的吸油量）。&lt;/li&gt;
+&lt;li&gt;锅中多放油，烧至八成热。&lt;/li&gt;
+&lt;li&gt;放入茄子炸 3 分钟左右，捞起备用。&lt;/li&gt;
+&lt;li&gt;放入土豆炸 5 分钟左右，炸至金黄，捞起备用。&lt;/li&gt;
+&lt;li&gt;放入青椒炸 10 秒左右，捞起备用。&lt;/li&gt;
+&lt;li&gt;准备酱汁，小碗中放入半碗水、三勺生抽、两勺耗油、一勺老抽、一勺糖、一勺淀粉、少许盐。&lt;/li&gt;
+&lt;li&gt;锅中留下底油，加入蒜爆香，倒入酱汁，再倒入炸好的蔬菜，充分翻拌均匀，然后大火收汁即可出锅。&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+        <category term="素食" />
+        <updated>2023-08-19T04:10:31.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/recipes/eight-treasure-congee.html</id>
+        <title>【素食菜谱】八宝粥</title>
+        <link rel="alternate" href="https://luhuadong.com/recipes/eight-treasure-congee.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/vegan/eight-treasure-congee.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;八宝又名腊八粥、佛粥，是一种在腊八节用由多种食材熬制的粥，也是我国的传统节日食品。早在南宋时期，文人周密所撰的《武林旧事》就曾记载：“用胡桃、松子、乳覃、柿、栗之类作粥，谓之腊八粥”。&lt;/p&gt;
+&lt;p&gt;八宝粥的材料主要包含谷类、豆类和干果类。常见的八宝粥是由大米、糯米、黑米、红枣、花生、莲子、百合、红豆组成，但很多时候，八宝粥可不止八宝，还会添加绿豆、桃仁、桂圆等。因此，八宝粥富含氨基酸、淀粉、植物蛋白，具有健脾养胃，消滞减肥，益气安神的功效。&lt;/p&gt;
+&lt;p&gt;食材：&lt;/p&gt;
+&lt;p&gt;黑米 50 克、糯米 120 克、红豆 30 克、薏米 20 克、花生 30 克、红枣 12 颗、莲子 60 克、花芸豆 30 克、水约 1850ml、冰糖	适量。&lt;/p&gt;
+&lt;p&gt;步骤：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;将食材洗干净后，除了红枣外，其他食材都倒入碗内，用清水浸泡 2 小时（不急着吃的话，可以泡一晚上）。&lt;/li&gt;
+&lt;li&gt;将泡好的食材和红枣一起倒入电饭煲，并加入 1850ml 的水，选择煮粥按钮即可。&lt;/li&gt;
+&lt;li&gt;煮好的八宝粥，趁热加入适量的冰糖，搅拌至融化，即可享用。&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+        <category term="素食" />
+        <updated>2023-08-19T04:08:29.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/recipes/vegetarian-dumplings.html</id>
+        <title>【素食菜谱】素饺子</title>
+        <link rel="alternate" href="https://luhuadong.com/recipes/vegetarian-dumplings.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/vegan/dumplings.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;由于饺子皮没有太大区别，因此素饺子的重点就在于 “馅料”，它的全名也就是 “素馅饺子”。&lt;/p&gt;
 &lt;h2 id=&#34;馅料制作&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#馅料制作&#34;&gt;#&lt;/a&gt; 馅料制作&lt;/h2&gt;
@@ -153,13 +300,13 @@
 &lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuemhpaHUuY29tL3F1ZXN0aW9uLzI2NzAxMzEz&#34;&gt;如何简单的包饺子？&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="蔬食" />
+        <category term="素食" />
         <updated>2021-10-03T11:37:57.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/vegan/recipe-eggplant-and-green-beans.html</id>
-        <title>【蔬食菜谱】茄子豆角</title>
-        <link rel="alternate" href="https://luhuadong.com/vegan/recipe-eggplant-and-green-beans.html"/>
+        <id>https://luhuadong.com/recipes/eggplant-and-green-beans.html</id>
+        <title>【素食菜谱】茄子豆角</title>
+        <link rel="alternate" href="https://luhuadong.com/recipes/eggplant-and-green-beans.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/vegan/%E8%8C%84%E5%AD%90%E8%B1%86%E8%A7%92.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;茄子豆角是许多餐馆都有的一道菜，豆角富含维生素 B、维生素 C、植物蛋白质、磷脂以及微量元素，茄子则是为数不多的紫色蔬菜之一，它的紫皮富含维生素 E。两者搭配起来还是蛮好看、美味、营养的。&lt;/p&gt;
 &lt;p&gt;茄子豆角这道菜也是我转素食后给自己做的第一道菜。&lt;/p&gt;
@@ -247,7 +394,7 @@
 &lt;p&gt;常见食用油沸点：大豆油 257℃、玉米油 246℃、花生油 226℃、芝麻油 215℃。所以油温六成热，大概就是豆油 154℃，玉米油 147℃、花生油 135℃、芝麻油 129℃。&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
-        <category term="蔬食" />
+        <category term="素食" />
         <updated>2021-10-03T09:23:05.000Z</updated>
     </entry>
 </feed>
