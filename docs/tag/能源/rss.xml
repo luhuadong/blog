@@ -7,12 +7,13 @@
         <language>zh-CN</language>
         <pubDate>Tue, 28 Sep 2021 00:47:37 +0800</pubDate>
         <lastBuildDate>Tue, 28 Sep 2021 00:47:37 +0800</lastBuildDate>
+        <category>商业</category>
         <category>成长</category>
         <category>日记</category>
-        <category>商业</category>
         <category>创业</category>
         <category>家居</category>
         <category>互联网</category>
+        <category>思考</category>
         <category>读书笔记</category>
         <category>工程师</category>
         <category>爱</category>
@@ -25,12 +26,12 @@
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
-        <category>Python</category>
-        <category>教孩子学编程</category>
         <category>城市规划</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
         <category>英语</category>
         <category>学习</category>
         <category>环保</category>
@@ -59,7 +60,6 @@
         <category>开源</category>
         <category>写书</category>
         <category>修身</category>
-        <category>思考</category>
         <category>幸福</category>
         <category>猫</category>
         <category>地铁</category>
@@ -81,11 +81,11 @@
         <category>农业</category>
         <category>素食</category>
         <category>报告</category>
-        <category>TED</category>
-        <category>演讲</category>
         <category>励志</category>
-        <category>时间</category>
+        <category>演讲</category>
+        <category>TED</category>
         <category>游泳</category>
+        <category>时间</category>
         <category>声音训练</category>
         <category>WordPress</category>
         <category>垃圾分类</category>

@@ -4,12 +4,13 @@
     <title>成为自由人 • Posts by &#34;管理&#34; tag</title>
     <link href="https://luhuadong.com" />
     <updated>2020-11-14T17:30:52.000Z</updated>
+    <category term="商业" />
     <category term="成长" />
     <category term="日记" />
-    <category term="商业" />
     <category term="创业" />
     <category term="家居" />
     <category term="互联网" />
+    <category term="思考" />
     <category term="读书笔记" />
     <category term="工程师" />
     <category term="爱" />
@@ -22,12 +23,12 @@
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="城市规划" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="英语" />
     <category term="学习" />
     <category term="环保" />
@@ -56,7 +57,6 @@
     <category term="开源" />
     <category term="写书" />
     <category term="修身" />
-    <category term="思考" />
     <category term="幸福" />
     <category term="猫" />
     <category term="地铁" />
@@ -78,11 +78,11 @@
     <category term="农业" />
     <category term="素食" />
     <category term="报告" />
-    <category term="TED" />
-    <category term="演讲" />
     <category term="励志" />
-    <category term="时间" />
+    <category term="演讲" />
+    <category term="TED" />
     <category term="游泳" />
+    <category term="时间" />
     <category term="声音训练" />
     <category term="WordPress" />
     <category term="垃圾分类" />
@@ -126,34 +126,41 @@
         <id>https://luhuadong.com/career/6s-management.html</id>
         <title>6S 管理（物资管理方法）</title>
         <link rel="alternate" href="https://luhuadong.com/career/6s-management.html"/>
-        <content type="html">&lt;p&gt;6S 管理是一种兴起于日本企业的管理模式，“6S” 对应 6 个 S 开头的单词（英语或日语）。具体如下：&lt;/p&gt;
+        <content type="html">&lt;p&gt;最近公司给我们做了一场 6S 管理培训，觉得有点意思。因此，也想给大家介绍一下什么是 6S 管理。&lt;/p&gt;
+&lt;p&gt;6S 管理是一种兴起于日本企业的管理模式，“6S” 对应 6 个 S 开头的单词（英语或日语）。具体如下：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;整理&lt;/strong&gt;（SEIRI）—— 将工作场所的任何物品区分为有必要和没有必要的，除了有必要的留下来，其他的都消除掉。
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;整理&lt;/strong&gt;（SEIRI）—— 将工作场所的任何物品区分为有必要和没有必要的，除了有必要的留下来，其他的都消除掉。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;目的：塑造一个清爽的工作场所。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;整顿&lt;/strong&gt;（SEITON）—— 把留下来的必要的物品按照规定位置摆放，并放置整齐加以标识。
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;整顿&lt;/strong&gt;（SEITON）—— 把留下来的必要的物品按照规定位置摆放，并放置整齐加以标识。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;目的：让工作场所一目了然，减少寻找物品的时间，同时可消除过多的积压物品。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;清扫&lt;/strong&gt;（SEISO）—— 将工作场所内看得见与看不见的地方清扫干净，保持工作场所干净、亮丽的环境。
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;清扫&lt;/strong&gt;（SEISO）—— 将工作场所内看得见与看不见的地方清扫干净，保持工作场所干净、亮丽的环境。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;目的：稳定品质，减少工业伤害。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;清洁&lt;/strong&gt;（SEIKETSU）—— 将整理、整顿、清扫进行到底，并且制度化，经常保持环境处在美观的状态。
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;清洁&lt;/strong&gt;（SEIKETSU）—— 将整理、整顿、清扫进行到底，并且制度化，经常保持环境处在美观的状态。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;目的：维持上面的 3S 成果。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;素养&lt;/strong&gt;（SHITSUKE）—— 让每位成员养成良好的习惯，并遵守规则做事，培养积极主动的精神（也称为习惯性）。
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;素养&lt;/strong&gt;（SHITSUKE）—— 让每位成员养成良好的习惯，并遵守规则做事，培养积极主动的精神（也称为习惯性）。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;目的：培养拥有良好习惯、遵守规则的员工，营造团队精神。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;安全&lt;/strong&gt;（SECURITY/SAFETY）—— 重视成员安全教育，每时每刻都有安全第一观念，防患于未然。
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;安全&lt;/strong&gt;（SECURITY/SAFETY）—— 重视成员安全教育，每时每刻都有安全第一观念，防患于未然。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;目的：建立起安全生成的环境，所有的工作应建立在安全的前提下。&lt;/p&gt;
 &lt;/blockquote&gt;

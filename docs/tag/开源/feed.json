@@ -5,6 +5,16 @@
     "home_page_url": "https://luhuadong.com",
     "items": [
         {
+            "id": "https://luhuadong.com/me/focus-open-source-projects.html",
+            "url": "https://luhuadong.com/me/focus-open-source-projects.html",
+            "title": "我重点关注和参与的开源项目",
+            "date_published": "2023-09-13T04:56:33.000Z",
+            "content_html": "<p>这里记录我本人平常比较关注的或者正在参与的一些开源软件（Open Source Software）项目。</p>\n<h2 id=\"开源项目\"><a class=\"markdownIt-Anchor\" href=\"#开源项目\">#</a> 开源项目</h2>\n<ul>\n<li><a href=\"\">linux</a></li>\n<li><a href=\"\">rt-thread</a></li>\n<li><a href=\"\">LVGL</a></li>\n<li><a href=\"\">openEuler</a>\n<ul>\n<li><a href=\"\">yocto-meta-openeuler</a></li>\n</ul>\n</li>\n<li><a href=\"\">Foxglove Studio</a></li>\n<li><a href=\"\">Arduino</a>\n<ul>\n<li><a href=\"\">ArduinoCore-avr</a></li>\n<li><a href=\"\">ArduinoCore-samd</a></li>\n</ul>\n</li>\n</ul>\n<h2 id=\"个人项目\"><a class=\"markdownIt-Anchor\" href=\"#个人项目\">#</a> 个人项目</h2>\n<ul>\n<li><a href=\"\">OpenEmber</a></li>\n</ul>\n",
+            "tags": [
+                "开源"
+            ]
+        },
+        {
             "id": "https://luhuadong.com/journal/20220712.html",
             "url": "https://luhuadong.com/journal/20220712.html",
             "title": "成为 LVGL 贡献者了",

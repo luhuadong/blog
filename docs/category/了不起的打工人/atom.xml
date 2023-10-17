@@ -4,12 +4,13 @@
     <title>成为自由人 • Posts by &#34;了不起的打工人&#34; category</title>
     <link href="https://luhuadong.com" />
     <updated>2023-07-17T17:04:07.000Z</updated>
+    <category term="商业" />
     <category term="成长" />
     <category term="日记" />
-    <category term="商业" />
     <category term="创业" />
     <category term="家居" />
     <category term="互联网" />
+    <category term="思考" />
     <category term="读书笔记" />
     <category term="工程师" />
     <category term="爱" />
@@ -22,12 +23,12 @@
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="城市规划" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="英语" />
     <category term="学习" />
     <category term="环保" />
@@ -56,7 +57,6 @@
     <category term="开源" />
     <category term="写书" />
     <category term="修身" />
-    <category term="思考" />
     <category term="幸福" />
     <category term="猫" />
     <category term="地铁" />
@@ -78,11 +78,11 @@
     <category term="农业" />
     <category term="素食" />
     <category term="报告" />
-    <category term="TED" />
-    <category term="演讲" />
     <category term="励志" />
-    <category term="时间" />
+    <category term="演讲" />
+    <category term="TED" />
     <category term="游泳" />
+    <category term="时间" />
     <category term="声音训练" />
     <category term="WordPress" />
     <category term="垃圾分类" />
@@ -2659,6 +2659,162 @@
         <updated>2019-10-22T10:23:45.000Z</updated>
     </entry>
     <entry>
+        <id>https://luhuadong.com/career/2019-new-it-careers.html</id>
+        <title>2019年新增13个新型工程技术人员职业</title>
+        <link rel="alternate" href="https://luhuadong.com/career/2019-new-it-careers.html"/>
+        <content type="html">&lt;p&gt;2019 年 4 月，人力资源社会保障部办公厅、市场监管总局办公厅、统计局办公室联合发布《关于发布人工智能工程技术人员等职业信息的通知》，确定了 13 个新型职业信息，其中人工智能工程技术人员、物联网工程技术人员、大数据工程技术人员、数字化管理师等均与数字经济紧密相关。&lt;/p&gt;
+&lt;h2 id=&#34;人工智能工程技术人员&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#人工智能工程技术人员&#34;&gt;#&lt;/a&gt; 人工智能工程技术人员&lt;/h2&gt;
+&lt;p&gt;定义：从事与人工智能相关算法、深度学习等多种技术的分析、研究、开发，并对人工智能系统进行设计、优化、运维、管理和应用的工程技术人员。&lt;/p&gt;
+&lt;p&gt;主要工作任务：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;分析、研究人工智能算法、深度学习及神经网络等技术；&lt;/li&gt;
+&lt;li&gt;研究、开发、应用人工智能指令、算法及技术；&lt;/li&gt;
+&lt;li&gt;规划、设计、开发基于人工智能算法的芯片；&lt;/li&gt;
+&lt;li&gt;研发、应用、优化语言识别、语义识别、图像识别、生物特征识别等人工智能技术；&lt;/li&gt;
+&lt;li&gt;设计、集成、管理、部署人工智能软硬件系统；&lt;/li&gt;
+&lt;li&gt;设计、开发人工智能系统解决方案；&lt;/li&gt;
+&lt;li&gt;提供人工智能相关技术咨询和技术服务。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;物联网工程技术人员&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#物联网工程技术人员&#34;&gt;#&lt;/a&gt; 物联网工程技术人员&lt;/h2&gt;
+&lt;p&gt;定义：从事物联网架构、平台、芯片、传感器、智能标签等技术的研究和开发，以及物联网工程的设计、测试、维护、管理和服务的工程技术人员。&lt;/p&gt;
+&lt;p&gt;主要工作任务：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;研究、应用物联网技术、体系结构、协议和标准；&lt;/li&gt;
+&lt;li&gt;研究、设计、开发物联网专用芯片及软硬件系统；&lt;/li&gt;
+&lt;li&gt;规划、研究、设计物联网解决方案；&lt;/li&gt;
+&lt;li&gt;规划、设计、集成、部署物联网系统并指导工程实施；&lt;/li&gt;
+&lt;li&gt;安装、调测、维护并保障物联网系统的正常运行；&lt;/li&gt;
+&lt;li&gt;监控、管理和保障物联网系统安全；&lt;/li&gt;
+&lt;li&gt;提供物联网系统的技术咨询和技术支持。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;大数据工程技术人员&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#大数据工程技术人员&#34;&gt;#&lt;/a&gt; 大数据工程技术人员&lt;/h2&gt;
+&lt;p&gt;定义：从事大数据采集、清洗、分析、治理、挖掘等技术研究，并加以利用、管理、维护和服务的工程技术人员。&lt;/p&gt;
+&lt;p&gt;主要工作任务：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;研究和开发大数据采集、清洗、存储及管理、分析及挖掘、展现及应用等有关技术；&lt;/li&gt;
+&lt;li&gt;研究、应用大数据平台体系架构、技术和标准；&lt;/li&gt;
+&lt;li&gt;设计、开发、集成、测试大数据软硬件系统；&lt;/li&gt;
+&lt;li&gt;大数据采集、清洗、建模与分析；&lt;/li&gt;
+&lt;li&gt;管理、维护并保障大数据系统稳定运行；&lt;/li&gt;
+&lt;li&gt;监控、管理和保障大数据安全；&lt;/li&gt;
+&lt;li&gt;提供大数据的技术咨询和技术服务。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;云计算工程技术人员&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#云计算工程技术人员&#34;&gt;#&lt;/a&gt; 云计算工程技术人员&lt;/h2&gt;
+&lt;p&gt;定义：从事云计算技术研究，云系统构建、部署、运维，云资源管理、应用和服务的工程技术人员。&lt;/p&gt;
+&lt;p&gt;主要工作任务：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;开发虚拟化、云平台、云资源管理和分发等云计算技术，以及大规模数据管理、分布式数据存储等相关技术；&lt;/li&gt;
+&lt;li&gt;研究、应用云计算技术、体系架构、协议和标准；&lt;/li&gt;
+&lt;li&gt;规划、设计、开发、集成、部署云计算系统；&lt;/li&gt;
+&lt;li&gt;管理、维护并保障云计算系统的稳定运行；&lt;/li&gt;
+&lt;li&gt;监控、保障云计算系统安全；&lt;/li&gt;
+&lt;li&gt;提供云计算系统的技术咨询和技术服务。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;数字化管理师&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#数字化管理师&#34;&gt;#&lt;/a&gt; 数字化管理师&lt;/h2&gt;
+&lt;p&gt;定义：使用数字化智能移动办公平台，进行企业或组织的人员架构搭建、运营流程维护、工作流协同、大数据决策分析、上下游在线化连接，实现企业经营管理在线化、数字化的人员。&lt;/p&gt;
+&lt;p&gt;主要工作任务：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;制定数字化办公软件推进计划和实施方案，搭建企业及组织的人员架构，进行扁平透明可视化管理；&lt;/li&gt;
+&lt;li&gt;进行数字化办公模块的搭建和运转流程的维护，实现高效安全沟通；&lt;/li&gt;
+&lt;li&gt;制定企业及组织工作流协同机制，进行知识经验的沉淀和共享；&lt;/li&gt;
+&lt;li&gt;进行业务流程和业务行为的在线化，实现企业的大数据决策分析；&lt;/li&gt;
+&lt;li&gt;打通企业和组织的上下游信息通道，实现组织在线、沟通在线、协同在线、业务在线，降低成本，提升生产、销售效率。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;建筑信息模型技术员&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#建筑信息模型技术员&#34;&gt;#&lt;/a&gt; 建筑信息模型技术员&lt;/h2&gt;
+&lt;p&gt;定义：利用计算机软件进行工程实践过程中的模拟建造，以改进其全过程中工程工序的技术人员。&lt;/p&gt;
+&lt;p&gt;主要工作任务：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;负责项目中建筑、结构、暖通、给排水、电气专业等建筑信息模型的搭建、复核、维护管理工作；&lt;/li&gt;
+&lt;li&gt;协同其它专业建模，并做碰撞检查；&lt;/li&gt;
+&lt;li&gt;通过室内外渲染、虚拟漫游、建筑动画、虚拟施工周期等，进行建筑信息模型可视化设计；&lt;/li&gt;
+&lt;li&gt;施工管理及后期运维。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;电子竞技运营师&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#电子竞技运营师&#34;&gt;#&lt;/a&gt; 电子竞技运营师&lt;/h2&gt;
+&lt;p&gt;定义：在电竞产业从事组织活动及内容运营的人员。&lt;/p&gt;
+&lt;p&gt;主要工作任务：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;进行电竞活动的整体策划和概念规划，设计并制定活动方案；&lt;/li&gt;
+&lt;li&gt;维护线上、线下媒体渠道关系，对电竞活动的主题、品牌进行宣传、推广、协调及监督；&lt;/li&gt;
+&lt;li&gt;分析评估电竞活动商业价值，确定活动赞助权益，并拓展与赞助商、承办商的合作；&lt;/li&gt;
+&lt;li&gt;协调电竞活动的各项资源，组织电竞活动；&lt;/li&gt;
+&lt;li&gt;制作和发布电竞活动的音视频内容，并评估发布效果；&lt;/li&gt;
+&lt;li&gt;对电竞活动进行总结报告，对相关档案进行管理。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;电子竞技员&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#电子竞技员&#34;&gt;#&lt;/a&gt; 电子竞技员&lt;/h2&gt;
+&lt;p&gt;定义：从事不同类型电子竞技项目比赛、陪练、体验及活动表演的人员。&lt;/p&gt;
+&lt;p&gt;主要工作任务：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;参加电子竞技项目比赛；&lt;/li&gt;
+&lt;li&gt;进行专业化的电子竞技项目训练活动；&lt;/li&gt;
+&lt;li&gt;收集和研究电竞战队动态、电竞游戏内容，提供专业的电竞数据分析；&lt;/li&gt;
+&lt;li&gt;参与电竞游戏的设计和策划，体验电竞游戏并提出建议；&lt;/li&gt;
+&lt;li&gt;参与电竞活动的表演。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;无人机驾驶员&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#无人机驾驶员&#34;&gt;#&lt;/a&gt; 无人机驾驶员&lt;/h2&gt;
+&lt;p&gt;定义：通过远程控制设备，操控无人机完成既定飞行任务的人员。&lt;/p&gt;
+&lt;p&gt;​    主要工作任务：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;安装、调试无人机电机、动力设备、桨叶及相应任务设备等；&lt;/li&gt;
+&lt;li&gt;根据任务规划航线；&lt;/li&gt;
+&lt;li&gt;根据飞行环境和气象条件校对飞行参数；&lt;/li&gt;
+&lt;li&gt;操控无人机完成既定飞行任务；&lt;/li&gt;
+&lt;li&gt;整理并分析采集的数据；&lt;/li&gt;
+&lt;li&gt;评价飞行结果和工作效果；&lt;/li&gt;
+&lt;li&gt;检查、维护、整理无人机及任务设备。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;农业经理人&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#农业经理人&#34;&gt;#&lt;/a&gt; 农业经理人&lt;/h2&gt;
+&lt;p&gt;定义：在农民专业合作社等农业经济合作组织中，从事农业生产组织、设备作业、技术支持、产品加工与销售等管理服务的人员。&lt;/p&gt;
+&lt;p&gt;主要工作任务：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;搜集和分析农产品供求、客户需求数据等信息；&lt;/li&gt;
+&lt;li&gt;编制生产、服务经营方案和作业计划；&lt;/li&gt;
+&lt;li&gt;调度生产、服务人员，安排生产或服务项目；&lt;/li&gt;
+&lt;li&gt;指导生产、服务人员执行作业标准；&lt;/li&gt;
+&lt;li&gt;疏通营销渠道，维护客户关系；&lt;/li&gt;
+&lt;li&gt;组织产品加工、运输、营销；&lt;/li&gt;
+&lt;li&gt;评估生产、服务绩效，争取资金支持。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;物联网安装调试员&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#物联网安装调试员&#34;&gt;#&lt;/a&gt; 物联网安装调试员&lt;/h2&gt;
+&lt;p&gt;定义：利用检测仪器和专用工具，安装、配置、调试物联网产品与设备的人员。&lt;/p&gt;
+&lt;p&gt;主要工作任务：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;检测物联网设备、感知模块、控制模块的质量；&lt;/li&gt;
+&lt;li&gt;组装物联网设备及相关附件；&lt;/li&gt;
+&lt;li&gt;连接物联网设备电路；&lt;/li&gt;
+&lt;li&gt;建立物联网设备与设备、设备与网络的连接；&lt;/li&gt;
+&lt;li&gt;调整设备安装距离，优化物联网网络布局；&lt;/li&gt;
+&lt;li&gt;配置物联网网关和短距传输模块参数；&lt;/li&gt;
+&lt;li&gt;预防和解决物联网产品和网络系统中的网络瘫痪、中断等事件，确保物联网产品及网络的正常运行。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;工业机器人系统操作员&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#工业机器人系统操作员&#34;&gt;#&lt;/a&gt; 工业机器人系统操作员&lt;/h2&gt;
+&lt;p&gt;定义：使用示教器、操作面板等人机交互设备及相关机械工具，对工业机器人、工业机器人工作站或系统进行装配、编程、调试、工艺参数更改、工装夹具更换及其他辅助作业的人员。&lt;/p&gt;
+&lt;p&gt;主要工作任务：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;按照工艺指导文件等相关文件的要求完成作业准备；&lt;/li&gt;
+&lt;li&gt;按照装配图、电气图、工艺文件等相关文件的要求，使用工具、仪器等进行工业机器人工作站或系统装配；&lt;/li&gt;
+&lt;li&gt;使用示教器、计算机、组态软件等相关软硬件工具，对工业机器人、可编程逻辑控制器、人机交互界面、电机等设备和视觉、位置等传感器进行程序编制、单元功能调试和生产联调；&lt;/li&gt;
+&lt;li&gt;使用示教器、操作面板等人机交互设备，进行生产过程的参数设定与修改、菜单功能的选择与配置、程序的选择与切换；&lt;/li&gt;
+&lt;li&gt;进行工业机器人系统工装夹具等装置的检查、确认、更换与复位；&lt;/li&gt;
+&lt;li&gt;观察工业机器人工作站或系统的状态变化并做相应操作，遇到异常情况执行急停操作等；&lt;/li&gt;
+&lt;li&gt;填写设备装调、操作等记录。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;工业机器人系统运维员&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#工业机器人系统运维员&#34;&gt;#&lt;/a&gt; 工业机器人系统运维员&lt;/h2&gt;
+&lt;p&gt;定义：使用工具、量具、检测仪器及设备，对工业机器人、工业机器人工作站或系统进行数据采集、状态监测、故障分析与诊断、维修及预防性维护与保养作业的人员。&lt;/p&gt;
+&lt;p&gt;主要工作任务：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;对工业机器人本体、末端执行器、周边装置等机械系统进行常规性检查、诊断；&lt;/li&gt;
+&lt;li&gt;对工业机器人电控系统、驱动系统、电源及线路等电气系统进行常规性检查、诊断；&lt;/li&gt;
+&lt;li&gt;根据维护保养手册，对工业机器人、工业机器人工作站或系统进行零位校准、防尘、更换电池、更换润滑油等维护保养；&lt;/li&gt;
+&lt;li&gt;使用测量设备采集工业机器人、工业机器人工作站或系统运行参数、工作状态等数据，进行监测；&lt;/li&gt;
+&lt;li&gt;对工业机器人工作站或系统的故障进行分析、诊断与维修；&lt;/li&gt;
+&lt;li&gt;编制工业机器人系统运行维护、维修报告。&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+        <category term="程序员" />
+        <category term="职场" />
+        <updated>2019-05-13T14:35:42.000Z</updated>
+    </entry>
+    <entry>
         <id>https://luhuadong.com/career/dont-kill-self-career.html</id>
         <title>大龄码农是如何把自己逼死的</title>
         <link rel="alternate" href="https://luhuadong.com/career/dont-kill-self-career.html"/>
@@ -2975,34 +3131,41 @@
         <id>https://luhuadong.com/career/6s-management.html</id>
         <title>6S 管理（物资管理方法）</title>
         <link rel="alternate" href="https://luhuadong.com/career/6s-management.html"/>
-        <content type="html">&lt;p&gt;6S 管理是一种兴起于日本企业的管理模式，“6S” 对应 6 个 S 开头的单词（英语或日语）。具体如下：&lt;/p&gt;
+        <content type="html">&lt;p&gt;最近公司给我们做了一场 6S 管理培训，觉得有点意思。因此，也想给大家介绍一下什么是 6S 管理。&lt;/p&gt;
+&lt;p&gt;6S 管理是一种兴起于日本企业的管理模式，“6S” 对应 6 个 S 开头的单词（英语或日语）。具体如下：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;整理&lt;/strong&gt;（SEIRI）—— 将工作场所的任何物品区分为有必要和没有必要的，除了有必要的留下来，其他的都消除掉。
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;整理&lt;/strong&gt;（SEIRI）—— 将工作场所的任何物品区分为有必要和没有必要的，除了有必要的留下来，其他的都消除掉。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;目的：塑造一个清爽的工作场所。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;整顿&lt;/strong&gt;（SEITON）—— 把留下来的必要的物品按照规定位置摆放，并放置整齐加以标识。
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;整顿&lt;/strong&gt;（SEITON）—— 把留下来的必要的物品按照规定位置摆放，并放置整齐加以标识。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;目的：让工作场所一目了然，减少寻找物品的时间，同时可消除过多的积压物品。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;清扫&lt;/strong&gt;（SEISO）—— 将工作场所内看得见与看不见的地方清扫干净，保持工作场所干净、亮丽的环境。
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;清扫&lt;/strong&gt;（SEISO）—— 将工作场所内看得见与看不见的地方清扫干净，保持工作场所干净、亮丽的环境。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;目的：稳定品质，减少工业伤害。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;清洁&lt;/strong&gt;（SEIKETSU）—— 将整理、整顿、清扫进行到底，并且制度化，经常保持环境处在美观的状态。
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;清洁&lt;/strong&gt;（SEIKETSU）—— 将整理、整顿、清扫进行到底，并且制度化，经常保持环境处在美观的状态。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;目的：维持上面的 3S 成果。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;素养&lt;/strong&gt;（SHITSUKE）—— 让每位成员养成良好的习惯，并遵守规则做事，培养积极主动的精神（也称为习惯性）。
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;素养&lt;/strong&gt;（SHITSUKE）—— 让每位成员养成良好的习惯，并遵守规则做事，培养积极主动的精神（也称为习惯性）。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;目的：培养拥有良好习惯、遵守规则的员工，营造团队精神。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;安全&lt;/strong&gt;（SECURITY/SAFETY）—— 重视成员安全教育，每时每刻都有安全第一观念，防患于未然。
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;安全&lt;/strong&gt;（SECURITY/SAFETY）—— 重视成员安全教育，每时每刻都有安全第一观念，防患于未然。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;目的：建立起安全生成的环境，所有的工作应建立在安全的前提下。&lt;/p&gt;
 &lt;/blockquote&gt;
