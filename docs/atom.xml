@@ -88,6 +88,7 @@
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
+    <category term="碎碎念" />
     <entry>
         <id>https://luhuadong.com/inchina/digital-nomads.html</id>
         <title>数字游民</title>
@@ -239,7 +240,7 @@
 &lt;p&gt;提交了第一个 PR（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2ZyZWVDb2RlQ2FtcC9jaGluZXNlL3B1bGwvMTE3Nw==&#34;&gt;#1177&lt;/span&gt;）有了 freeCodeCamp 专栏&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZnJlZWNvZGVjYW1wLm9yZy9jaGluZXNlL25ld3MvYXV0aG9yL2x1aHVhZG9uZw==&#34;&gt;个人主页&lt;/span&gt;，经过长达两周的审核，终于发布了《&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZnJlZWNvZGVjYW1wLm9yZy9jaGluZXNlL25ld3MvZnJvbnQtZW5kLWphdmFzY3JpcHQtZGV2ZWxvcG1lbnQtcmVhY3QtYW5ndWxhci12dWUtY29tcGFyZWQ=&#34;&gt;前端 JavaScript 开发手册 ——React、Angular 和 Vue 比较&lt;/span&gt;》文章。&lt;/p&gt;
 </content>
         <category term="日记" />
-        <category term="思考" />
+        <category term="碎碎念" />
         <updated>2023-09-30T02:22:29.000Z</updated>
     </entry>
     <entry>
@@ -280,7 +281,7 @@
         <content type="html">&lt;h2 id=&#34;参与-openeuler-项目&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#参与-openeuler-项目&#34;&gt;#&lt;/a&gt; 参与 openEuler 项目&lt;/h2&gt;
 </content>
         <category term="日记" />
-        <category term="思考" />
+        <category term="碎碎念" />
         <updated>2023-08-31T12:22:07.000Z</updated>
     </entry>
     <entry>
@@ -524,7 +525,7 @@
 &lt;/ul&gt;
 </content>
         <category term="日记" />
-        <category term="思考" />
+        <category term="碎碎念" />
         <updated>2023-07-31T12:38:24.000Z</updated>
     </entry>
     <entry>
@@ -771,7 +772,7 @@
 &lt;/blockquote&gt;
 </content>
         <category term="日记" />
-        <category term="思考" />
+        <category term="碎碎念" />
         <updated>2023-06-30T12:33:29.000Z</updated>
     </entry>
     <entry>
@@ -1526,7 +1527,7 @@
 &lt;p&gt;（2023.06.09 晚）&lt;/p&gt;
 </content>
         <category term="日记" />
-        <category term="思考" />
+        <category term="碎碎念" />
         <updated>2023-05-31T15:22:58.000Z</updated>
     </entry>
     <entry>
@@ -9647,7 +9648,7 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
     </entry>
     <entry>
         <id>https://luhuadong.com/hexo/hexo-themes.html</id>
-        <title>Hexo 主题</title>
+        <title>Hexo 主题推荐</title>
         <link rel="alternate" href="https://luhuadong.com/hexo/hexo-themes.html"/>
         <content type="html">&lt;p&gt;Hexo 博客系统的主题有很多选择，你可以在 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL3RoZW1lcy8=&#34;&gt;这里&lt;/span&gt; 找到它们。如果你愿意，你还可以自己动手编写一个属于你的主题。&lt;/p&gt;
 &lt;p&gt;本文主要介绍几个比较好用的主题。&lt;/p&gt;
@@ -9672,6 +9673,27 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
 &lt;li&gt;项目官网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9idXR0ZXJmbHkuanMub3Jn&#34;&gt;https://butterfly.js.org&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/hexo/hexo-theme-butterfly.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;shoka&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#shoka&#34;&gt;#&lt;/a&gt; Shoka&lt;/h2&gt;
+&lt;p&gt;Shoka 是一个有趣的 Hexo 主题，中文名为 “书架”，可以说是为了笔记阅读而生的主题。Shoka 对 Markdown 的支持很好，并且有很好看的渲染样式。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==&#34;&gt;https://github.com/amehime/hexo-theme-shoka&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;演示：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34;&gt;https://shoka.lostyu.me&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;使用说明：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy8=&#34;&gt;https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;shokax&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#shokax&#34;&gt;#&lt;/a&gt; ShokaX&lt;/h2&gt;
+&lt;p&gt;ShokaX 是基于 Shoka 演变而来的另一个 Hexo 主题，这一点从名字就可以看出来。起因是由于 Shoka 的作者因学业繁忙暂停更新，导致一些 Bug 无人修复，并且缺少文档。于是诞生了 ShokaX 项目，和 Shoka 相比，它有更高的性能、更多的功能、更现代的代码。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3RoZW1lLXNob2thLXgvaGV4by10aGVtZS1zaG9rYVg=&#34;&gt;https://github.com/theme-shoka-x/hexo-theme-shokaX&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;文档中心：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLmthaXRha3UueHl6&#34;&gt;https://docs.kaitaku.xyz&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;演示：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cua2FpdGFrdS54eXo=&#34;&gt;https://www.kaitaku.xyz&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;acorn&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#acorn&#34;&gt;#&lt;/a&gt; Acorn&lt;/h2&gt;
+&lt;p&gt;Acorn 是一个免费且开源的 Hexo 主题，和其他主题不一样，Acorn 是适用于企业站点的主题，可适用于中小型企业门户或工作室等展示类网站的简单建设。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3pod2FuZ2FydC9oZXhvLXRoZW1lLWFjb3Ju&#34;&gt;https://github.com/zhwangart/hexo-theme-acorn&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;项目官网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hY29ybi5pbWFnaW5nLnhpbg==&#34;&gt;https://acorn.imaging.xin&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;演示：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zYWludHJlZS5jbg==&#34;&gt;https://saintree.cn&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;扩展阅读&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#扩展阅读&#34;&gt;#&lt;/a&gt; 扩展阅读&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL3poLWNuL2RvY3MvdGhlbWVzLmh0bWw=&#34;&gt;主题 - Hexo 文档&lt;/span&gt;&lt;/li&gt;

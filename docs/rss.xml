@@ -91,6 +91,7 @@
         <category>垃圾分类</category>
         <category>零废弃</category>
         <category>低碳</category>
+        <category>碎碎念</category>
         <item>
             <guid isPermalink="true">https://luhuadong.com/inchina/digital-nomads.html</guid>
             <title>数字游民</title>
@@ -238,7 +239,7 @@
             <title>九月碎碎念：重返 RT-Thread 开源社区</title>
             <link>https://luhuadong.com/journal/monthly-2023-09.html</link>
             <category>日记</category>
-            <category>思考</category>
+            <category>碎碎念</category>
             <pubDate>Sat, 30 Sep 2023 10:22:29 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;rt-thread-技术沙龙&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#rt-thread-技术沙龙&#34;&gt;#&lt;/a&gt; RT-Thread 技术沙龙&lt;/h2&gt;
 &lt;h2 id=&#34;freecodecamp-社区&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#freecodecamp-社区&#34;&gt;#&lt;/a&gt; freeCodeCamp 社区&lt;/h2&gt;
@@ -281,7 +282,7 @@
             <title>八月碎碎念：openEuler 项目</title>
             <link>https://luhuadong.com/journal/monthly-2023-08.html</link>
             <category>日记</category>
-            <category>思考</category>
+            <category>碎碎念</category>
             <pubDate>Thu, 31 Aug 2023 20:22:07 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;参与-openeuler-项目&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#参与-openeuler-项目&#34;&gt;#&lt;/a&gt; 参与 openEuler 项目&lt;/h2&gt;
  ]]></description>
@@ -514,7 +515,7 @@
             <title>七月碎碎念：机会成本</title>
             <link>https://luhuadong.com/journal/monthly-2023-07.html</link>
             <category>日记</category>
-            <category>思考</category>
+            <category>碎碎念</category>
             <pubDate>Mon, 31 Jul 2023 20:38:24 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;如果你是一个高级工程师或者高级管理者，你所做的一切都有很高的机会成本，所以你选择的工作必须很重要。&lt;/p&gt;
 &lt;p&gt;机会成本 (opportunity cost) 是指企业为从事某项经营活动而放弃另一项经营活动的机会，或利用一定资源获得某种收入时所放弃的另一种收入。 另一项经营活动应取得的收益或另一种收入即为正在从事的经营活动的机会成本。&lt;/p&gt;
@@ -770,7 +771,7 @@
             <title>六月碎碎念：如何解脱生活的压力，体现生命的价值</title>
             <link>https://luhuadong.com/journal/monthly-2023-06.html</link>
             <category>日记</category>
-            <category>思考</category>
+            <category>碎碎念</category>
             <pubDate>Fri, 30 Jun 2023 20:33:29 +0800</pubDate>
             <description><![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;我好像不会笑了 😶&lt;/p&gt;
@@ -1491,7 +1492,7 @@
             <title>五月碎碎念：高温、裁员、职业倦怠、运动的快乐</title>
             <link>https://luhuadong.com/journal/monthly-2023-05.html</link>
             <category>日记</category>
-            <category>思考</category>
+            <category>碎碎念</category>
             <pubDate>Wed, 31 May 2023 23:22:58 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;天天上班，天天加班，感觉好久没有记录生活了，决定以后每个月都要写一篇碎碎念，分享一下近期的生活和感悟吧。这是第一期，所以可能会包含不止五月份发生的事情哦～&lt;/p&gt;
 &lt;h2 id=&#34;高温天气&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#高温天气&#34;&gt;#&lt;/a&gt; 高温天气&lt;/h2&gt;
@@ -9650,7 +9651,7 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/hexo/hexo-themes.html</guid>
-            <title>Hexo 主题</title>
+            <title>Hexo 主题推荐</title>
             <link>https://luhuadong.com/hexo/hexo-themes.html</link>
             <category>Hexo</category>
             <pubDate>Tue, 09 Mar 2021 16:02:19 +0800</pubDate>
@@ -9677,6 +9678,27 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
 &lt;li&gt;项目官网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9idXR0ZXJmbHkuanMub3Jn&#34;&gt;https://butterfly.js.org&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/hexo/hexo-theme-butterfly.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;shoka&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#shoka&#34;&gt;#&lt;/a&gt; Shoka&lt;/h2&gt;
+&lt;p&gt;Shoka 是一个有趣的 Hexo 主题，中文名为 “书架”，可以说是为了笔记阅读而生的主题。Shoka 对 Markdown 的支持很好，并且有很好看的渲染样式。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==&#34;&gt;https://github.com/amehime/hexo-theme-shoka&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;演示：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34;&gt;https://shoka.lostyu.me&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;使用说明：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy8=&#34;&gt;https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;shokax&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#shokax&#34;&gt;#&lt;/a&gt; ShokaX&lt;/h2&gt;
+&lt;p&gt;ShokaX 是基于 Shoka 演变而来的另一个 Hexo 主题，这一点从名字就可以看出来。起因是由于 Shoka 的作者因学业繁忙暂停更新，导致一些 Bug 无人修复，并且缺少文档。于是诞生了 ShokaX 项目，和 Shoka 相比，它有更高的性能、更多的功能、更现代的代码。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3RoZW1lLXNob2thLXgvaGV4by10aGVtZS1zaG9rYVg=&#34;&gt;https://github.com/theme-shoka-x/hexo-theme-shokaX&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;文档中心：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLmthaXRha3UueHl6&#34;&gt;https://docs.kaitaku.xyz&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;演示：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cua2FpdGFrdS54eXo=&#34;&gt;https://www.kaitaku.xyz&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;acorn&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#acorn&#34;&gt;#&lt;/a&gt; Acorn&lt;/h2&gt;
+&lt;p&gt;Acorn 是一个免费且开源的 Hexo 主题，和其他主题不一样，Acorn 是适用于企业站点的主题，可适用于中小型企业门户或工作室等展示类网站的简单建设。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3pod2FuZ2FydC9oZXhvLXRoZW1lLWFjb3Ju&#34;&gt;https://github.com/zhwangart/hexo-theme-acorn&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;项目官网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hY29ybi5pbWFnaW5nLnhpbg==&#34;&gt;https://acorn.imaging.xin&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;演示：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zYWludHJlZS5jbg==&#34;&gt;https://saintree.cn&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;扩展阅读&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#扩展阅读&#34;&gt;#&lt;/a&gt; 扩展阅读&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL3poLWNuL2RvY3MvdGhlbWVzLmh0bWw=&#34;&gt;主题 - Hexo 文档&lt;/span&gt;&lt;/li&gt;
