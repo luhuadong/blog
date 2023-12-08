@@ -10,25 +10,24 @@
     <category term="创业" />
     <category term="家居" />
     <category term="互联网" />
-    <category term="思考" />
     <category term="读书笔记" />
     <category term="工程师" />
     <category term="爱" />
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
-    <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
+    <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
     <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="英语" />
     <category term="学习" />
     <category term="环保" />
@@ -57,8 +56,10 @@
     <category term="开源" />
     <category term="写书" />
     <category term="修身" />
+    <category term="思考" />
     <category term="幸福" />
     <category term="猫" />
+    <category term="碎碎念" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -78,17 +79,16 @@
     <category term="农业" />
     <category term="素食" />
     <category term="报告" />
-    <category term="励志" />
-    <category term="演讲" />
     <category term="TED" />
-    <category term="游泳" />
+    <category term="演讲" />
+    <category term="励志" />
     <category term="时间" />
+    <category term="游泳" />
     <category term="声音训练" />
     <category term="WordPress" />
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
-    <category term="碎碎念" />
     <entry>
         <id>https://luhuadong.com/speech/ted-you-dont-need-more-than-two-years.html</id>
         <title>【TED】改变自己，只需要两年时间</title>
@@ -166,8 +166,8 @@
 &lt;p&gt;&lt;strong&gt;Every day counts.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;每一天都很重要。&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="演讲" />
         <category term="TED" />
+        <category term="演讲" />
         <category term="时间" />
         <updated>2021-09-07T14:47:18.000Z</updated>
     </entry>
@@ -267,8 +267,8 @@
 &lt;p&gt;It’s as simple as what I learned to say to Alex. It’s what I now have the privilege of saying to twentysomethings like Emma every single day: Thirty is not the new 20, so claim your adulthood, get some identity capital, use your weak ties, pick your family. Don’t be defined by what you didn’t know or didn’t do. You’re deciding your life right now. Thank you.&lt;/p&gt;
 &lt;p&gt;这想法就像我后来告诉 Alex 的话一样简单。我应该每天都对像 Emma 这样的 20 多岁的人说：30 岁不是一个新的 20 岁，所以规划好你的成年生活，获得一些身份认同资本，利用你的弱关系，选择你的家庭。不要被你所不知道的，从未做过的事所禁锢。你现在的作为决定着你的人生。谢谢。&lt;/p&gt;
 </content>
-        <category term="演讲" />
         <category term="TED" />
+        <category term="演讲" />
         <category term="时间" />
         <updated>2020-05-18T14:47:18.000Z</updated>
     </entry>

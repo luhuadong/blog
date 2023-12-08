@@ -10,25 +10,24 @@
     <category term="创业" />
     <category term="家居" />
     <category term="互联网" />
-    <category term="思考" />
     <category term="读书笔记" />
     <category term="工程师" />
     <category term="爱" />
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
-    <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
+    <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
     <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="英语" />
     <category term="学习" />
     <category term="环保" />
@@ -57,8 +56,10 @@
     <category term="开源" />
     <category term="写书" />
     <category term="修身" />
+    <category term="思考" />
     <category term="幸福" />
     <category term="猫" />
+    <category term="碎碎念" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -78,17 +79,16 @@
     <category term="农业" />
     <category term="素食" />
     <category term="报告" />
-    <category term="励志" />
-    <category term="演讲" />
     <category term="TED" />
-    <category term="游泳" />
+    <category term="演讲" />
+    <category term="励志" />
     <category term="时间" />
+    <category term="游泳" />
     <category term="声音训练" />
     <category term="WordPress" />
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
-    <category term="碎碎念" />
     <entry>
         <id>https://luhuadong.com/wisdom/five-chapters-of-life.html</id>
         <title>人生五章</title>
@@ -126,8 +126,8 @@
 &lt;h2 id=&#34;第五章&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第五章&#34;&gt;#&lt;/a&gt; 第五章&lt;/h2&gt;
 &lt;p&gt;我走上另一条街。&lt;/p&gt;
 </content>
-        <category term="思考" />
         <category term="人生" />
+        <category term="思考" />
         <updated>2023-07-02T03:53:47.000Z</updated>
     </entry>
     <entry>
@@ -161,8 +161,8 @@
 &lt;p&gt;让自己成为幸福的源泉，用生命中最美好的东西去感染别人。深信只要付出就会有所回报。热情、爱情、信任、称赞…… 不论是它们中的哪一种，只要你学会向别人索取之前，先付出，就会收获更多。改变自己以后，再去改变别人。最后这种力量会凝结在一起变成翅膀，让你在有风的日子里，自由翱翔。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;对自己的选择倾注全部的爱，你将得到奇迹般的收获。&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="思考" />
         <category term="人生" />
+        <category term="思考" />
         <updated>2023-06-12T12:52:21.000Z</updated>
     </entry>
     <entry>

@@ -3,32 +3,31 @@
     <id>https://luhuadong.com</id>
     <title>成为自由人</title>
     <link href="https://luhuadong.com" />
-    <updated>2023-10-17T17:37:12.000Z</updated>
+    <updated>2023-12-01T12:20:05.000Z</updated>
     <category term="商业" />
     <category term="成长" />
     <category term="日记" />
     <category term="创业" />
     <category term="家居" />
     <category term="互联网" />
-    <category term="思考" />
     <category term="读书笔记" />
     <category term="工程师" />
     <category term="爱" />
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
-    <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
+    <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
     <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="英语" />
     <category term="学习" />
     <category term="环保" />
@@ -57,8 +56,10 @@
     <category term="开源" />
     <category term="写书" />
     <category term="修身" />
+    <category term="思考" />
     <category term="幸福" />
     <category term="猫" />
+    <category term="碎碎念" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -78,17 +79,64 @@
     <category term="农业" />
     <category term="素食" />
     <category term="报告" />
-    <category term="励志" />
-    <category term="演讲" />
     <category term="TED" />
-    <category term="游泳" />
+    <category term="演讲" />
+    <category term="励志" />
     <category term="时间" />
+    <category term="游泳" />
     <category term="声音训练" />
     <category term="WordPress" />
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
-    <category term="碎碎念" />
+    <entry>
+        <id>https://luhuadong.com/journal/monthly-2023-11.html</id>
+        <title>十一月碎碎念：加班、创客峰会、录制播客</title>
+        <link rel="alternate" href="https://luhuadong.com/journal/monthly-2023-11.html"/>
+        <content type="html">&lt;p&gt;11 月的广州，终于进入了秋天，不过忽冷忽热的，感觉不是很好。据悉，11 月 17 日全球平均气温较工业化前的 1850 年至 1900 年间平均水平高 2.07℃，系有记录以来全球单日平均气温升温水平首次突破 2 摄氏度。另外，数据显示 11 月 18 日的全球平均气温升温水平同样超过 2℃，达到 2.06℃左右（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9uZXdzLmNxbmV3cy5uZXQvMS9kZXRhaWwvMTE3Njk3MjA0ODU1NDE5Mjg5Ni93ZWIvY29udGVudF8xMTc2OTcyMDQ4NTU0MTkyODk2Lmh0bWw=&#34;&gt;via&lt;/span&gt;）。真是让人感到忧心忡忡！&lt;/p&gt;
+&lt;h2 id=&#34;还在加班&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#还在加班&#34;&gt;#&lt;/a&gt; 还在加班&lt;/h2&gt;
+&lt;p&gt;整个 11 月份吧，其实是从 10 月中下旬开始，都疯狂加班。为了解决项目难题，部门还成立了临时攻坚小组，而我也被点名成为小组成员。于是，开始每天在小黑屋（会议室）里面工作，看文章、写代码、验证算法。。。&lt;/p&gt;
+&lt;p&gt;11 月上旬，有了一点攻坚成果，初步交付给客户了。我也赶紧离开小黑屋，休了两天假。本来领导说等项目结束给我们放一周的假，但是项目情况紧急，临近年尾业绩不佳，我们都不敢多休。打工人真苦 😭&lt;/p&gt;
+&lt;p&gt;休完两天假回来，结果又是一堆需求等着要开发，看来是没完没了。这也坚定了我要往自由职业方向发展的决心。其实这份工作经历让我成长挺多的，不仅丰富了技术栈，当了架构师，还对要接各种客户，无论是研发管理还是市场竞争，都积累了一些经验。尤其在一个风口行业，市场的变化非常快，像我们这样的创业型公司很容易在惊涛骇浪中被拍死，亦或是随波逐流。所以裁员、加班就成为了家常便饭。&lt;/p&gt;
+&lt;p&gt;就我个人而言，这段经历是没有什么可遗憾的。两年时间，经历了从团队搭建到发布第一款产品，再到市场推广。每一步都有很多值得思考的地方，不仅收获了从零到一的创业经验，还赚到了一些钱。&lt;/p&gt;
+&lt;p&gt;那么，在最后关键的时刻，再努力一把，再加一会班吧！（后面如果时间充沛，我还挺想写一本程序员职场小说的）&lt;/p&gt;
+&lt;h2 id=&#34;maker-faire&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#maker-faire&#34;&gt;#&lt;/a&gt; Maker Faire&lt;/h2&gt;
+&lt;p&gt;11 月 11 日 - 12 日，时隔三年的 Maker Faire 在深圳重新举办，主题是 “创客今何在”。一个意思是经过三年疫情，散落在世界各地的创客如今都怎么样了？另一个意思是随着科技的进步、商业的成熟，愿意花时间动手 DIY 的人越来越少了，如何重新激发大家的创客精神。&lt;/p&gt;
+&lt;p&gt;创客峰会举办前一个月，主办方柴火创客空间问我是否感兴趣，给我一个展示摊位。鉴于最近工作太忙，我婉拒了，决定老老实实当一回观众。于是我约了朋友 Grissiom 和同事 Hywing 一起参加，他们应该是我目前工作生活中距离得最近且具有创客精神伙伴了。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/journal/20231111-Maker-Faire-01.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;freecodecamp&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#freecodecamp&#34;&gt;#&lt;/a&gt; freeCodeCamp&lt;/h2&gt;
+&lt;p&gt;11 月受 Miya 邀请录了一期 freeCodeCamp 中文播客，发布在第 20 期：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZnJlZWNvZGVjYW1wLm9yZy9jaGluZXNlL25ld3MvaW50ZXJ2aWV3LXJ1ZHktZW1iZWRkZWQtZGV2ZWxvcG1lbnQtYW5kLW9wZXJhdGluZy1zeXN0ZW1zLw==&#34;&gt;Ep. 20 对话嵌入式软件开发者 Rudy：开源操作系统、公益和教育&lt;/span&gt;，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueGlhb3l1emhvdWZtLmNvbS9lcGlzb2RlLzY1NmFjMzExOWY0NDBmNTQ0M2VjNzJlMQ==&#34;&gt;小宇宙链接&lt;/span&gt;。第一次录播客，时间仓促，我自己并不是很满意啦，不过也是一次有趣的体验。&lt;/p&gt;
+&lt;p&gt;还不小心登上了 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZnJlZWNvZGVjYW1wLm9yZy9jaGluZXNlL25ld3MvdG9wLW9wZW4tc291cmNlLWNvbnRyaWJ1dG9ycy0yMDIzLw==&#34;&gt;freeCodeCamp 全球开源社区 2023 Top Contributors&lt;/span&gt; 大名单，哈哈！&lt;/p&gt;
+</content>
+        <category term="日记" />
+        <category term="思考" />
+        <updated>2023-12-01T12:20:05.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/journal/monthly-2023-10.html</id>
+        <title>十月碎碎念：国庆自驾游、自由职业新探索</title>
+        <link rel="alternate" href="https://luhuadong.com/journal/monthly-2023-10.html"/>
+        <content type="html">&lt;p&gt;（我还在加班，晚一点点补充）&lt;/p&gt;
+&lt;h2 id=&#34;国庆自驾&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#国庆自驾&#34;&gt;#&lt;/a&gt; 国庆自驾&lt;/h2&gt;
+&lt;h2 id=&#34;商业写作&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#商业写作&#34;&gt;#&lt;/a&gt; 商业写作&lt;/h2&gt;
+&lt;p&gt;pbootcms 应用迁移实践&lt;/p&gt;
+&lt;h2 id=&#34;theme-shokax&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#theme-shokax&#34;&gt;#&lt;/a&gt; Theme ShokaX&lt;/h2&gt;
+&lt;p&gt;加入 Theme ShokaX 项目&lt;/p&gt;
+&lt;h2 id=&#34;实务学堂月捐人&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#实务学堂月捐人&#34;&gt;#&lt;/a&gt; 实务学堂月捐人&lt;/h2&gt;
+&lt;p&gt;10 月 12 日开始参与实务学堂的月捐，&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/journal/shi-wu-xue-tang-20231012.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;可持续生活创变营&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#可持续生活创变营&#34;&gt;#&lt;/a&gt; 可持续生活创变营&lt;/h2&gt;
+&lt;h2 id=&#34;更新网站&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#更新网站&#34;&gt;#&lt;/a&gt; 更新网站&lt;/h2&gt;
+&lt;h2 id=&#34;封闭开发&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#封闭开发&#34;&gt;#&lt;/a&gt; 封闭开发&lt;/h2&gt;
+&lt;p&gt;激光雷达高反串扰问题，点云分类&lt;/p&gt;
+&lt;h2 id=&#34;倒计时&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#倒计时&#34;&gt;#&lt;/a&gt; 倒计时&lt;/h2&gt;
+&lt;p&gt;退休倒计时，不过其实也不可能退休，应该是想去探索自由职业，换一种生活方式吧。&lt;/p&gt;
+&lt;h2 id=&#34;团贷网登记&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#团贷网登记&#34;&gt;#&lt;/a&gt; 团贷网登记&lt;/h2&gt;
+</content>
+        <category term="日记" />
+        <category term="思考" />
+        <updated>2023-10-31T12:30:22.000Z</updated>
+    </entry>
     <entry>
         <id>https://luhuadong.com/inchina/digital-nomads.html</id>
         <title>数字游民</title>
@@ -700,8 +748,8 @@
 &lt;h2 id=&#34;第五章&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第五章&#34;&gt;#&lt;/a&gt; 第五章&lt;/h2&gt;
 &lt;p&gt;我走上另一条街。&lt;/p&gt;
 </content>
-        <category term="思考" />
         <category term="人生" />
+        <category term="思考" />
         <updated>2023-07-02T03:53:47.000Z</updated>
     </entry>
     <entry>
@@ -1452,8 +1500,8 @@
 &lt;p&gt;让自己成为幸福的源泉，用生命中最美好的东西去感染别人。深信只要付出就会有所回报。热情、爱情、信任、称赞…… 不论是它们中的哪一种，只要你学会向别人索取之前，先付出，就会收获更多。改变自己以后，再去改变别人。最后这种力量会凝结在一起变成翅膀，让你在有风的日子里，自由翱翔。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;对自己的选择倾注全部的爱，你将得到奇迹般的收获。&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="思考" />
         <category term="人生" />
+        <category term="思考" />
         <updated>2023-06-12T12:52:21.000Z</updated>
     </entry>
     <entry>
@@ -2248,9 +2296,9 @@
 &lt;p&gt;英文：《&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9Hcml0LVBhc3Npb24tUGVyc2V2ZXJhbmNlLUFuZ2VsYS1EdWNrd29ydGgvZHAvMTUwMTExMTEwOA==&#34;&gt;Grit: The Power of Passion and Perseverance&lt;/span&gt;》&lt;/p&gt;
 &lt;p&gt;繁体中文：《&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYm9va3MuY29tLnR3L3Byb2R1Y3RzLzAwMTA4Njc5MzE=&#34;&gt;恆毅力：人生成功的究極能力&lt;/span&gt;》&lt;/p&gt;
 </content>
-        <category term="励志" />
-        <category term="演讲" />
         <category term="TED" />
+        <category term="演讲" />
+        <category term="励志" />
         <updated>2023-03-02T04:56:58.000Z</updated>
     </entry>
     <entry>
@@ -3321,8 +3369,8 @@
 &lt;p&gt;求知若渴，虚心若愚。&lt;/p&gt;
 &lt;p&gt;谢谢大家！&lt;/p&gt;
 </content>
-        <category term="励志" />
         <category term="演讲" />
+        <category term="励志" />
         <updated>2022-10-07T03:44:57.000Z</updated>
     </entry>
     <entry>
@@ -8015,8 +8063,8 @@ STEM 是科学（Science）、技术（Technology）、工程（Engineering）�
 &lt;p&gt;&lt;strong&gt;Every day counts.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;每一天都很重要。&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="演讲" />
         <category term="TED" />
+        <category term="演讲" />
         <category term="时间" />
         <updated>2021-09-07T14:47:18.000Z</updated>
     </entry>
@@ -8472,9 +8520,9 @@ STEM 是科学（Science）、技术（Technology）、工程（Engineering）�
 &lt;li&gt;Don’t lose hope&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="思考" />
         <category term="总结" />
         <category term="修身" />
+        <category term="思考" />
         <updated>2021-04-05T06:24:28.000Z</updated>
     </entry>
     <entry>
@@ -11105,8 +11153,8 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
 &lt;p&gt;这么想想，其实还是蛮有趣的。垫底虽然很难受，但也让我深深地记住了这个 T，帮助我在以后的工作生活中，提醒我要从不同角度看问题。我想这不仅适用于团队工作，在日常生活、为人处世方面也可以灵活运用。当然啦，我们还是要不断学习、不断成长，建立一套更加完善的思维。同时，也要保持纯粹，学会放下包袱，打破常规，做一个童心未泯的大人。&lt;/p&gt;
 &lt;p&gt;成长是一件美好的事，但愿你我都能成为自己想要的样子！&lt;/p&gt;
 </content>
-        <category term="管理" />
         <category term="职场" />
+        <category term="管理" />
         <updated>2020-11-14T17:30:52.000Z</updated>
     </entry>
     <entry>
@@ -12031,8 +12079,8 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
 &lt;p&gt;It’s as simple as what I learned to say to Alex. It’s what I now have the privilege of saying to twentysomethings like Emma every single day: Thirty is not the new 20, so claim your adulthood, get some identity capital, use your weak ties, pick your family. Don’t be defined by what you didn’t know or didn’t do. You’re deciding your life right now. Thank you.&lt;/p&gt;
 &lt;p&gt;这想法就像我后来告诉 Alex 的话一样简单。我应该每天都对像 Emma 这样的 20 多岁的人说：30 岁不是一个新的 20 岁，所以规划好你的成年生活，获得一些身份认同资本，利用你的弱关系，选择你的家庭。不要被你所不知道的，从未做过的事所禁锢。你现在的作为决定着你的人生。谢谢。&lt;/p&gt;
 </content>
-        <category term="演讲" />
         <category term="TED" />
+        <category term="演讲" />
         <category term="时间" />
         <updated>2020-05-18T14:47:18.000Z</updated>
     </entry>

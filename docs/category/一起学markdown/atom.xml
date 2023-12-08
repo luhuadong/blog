@@ -10,25 +10,24 @@
     <category term="创业" />
     <category term="家居" />
     <category term="互联网" />
-    <category term="思考" />
     <category term="读书笔记" />
     <category term="工程师" />
     <category term="爱" />
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
-    <category term="管理" />
     <category term="程序员" />
     <category term="职场" />
+    <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
     <category term="城市规划" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="英语" />
     <category term="学习" />
     <category term="环保" />
@@ -57,8 +56,10 @@
     <category term="开源" />
     <category term="写书" />
     <category term="修身" />
+    <category term="思考" />
     <category term="幸福" />
     <category term="猫" />
+    <category term="碎碎念" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -78,17 +79,16 @@
     <category term="农业" />
     <category term="素食" />
     <category term="报告" />
-    <category term="励志" />
-    <category term="演讲" />
     <category term="TED" />
-    <category term="游泳" />
+    <category term="演讲" />
+    <category term="励志" />
     <category term="时间" />
+    <category term="游泳" />
     <category term="声音训练" />
     <category term="WordPress" />
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
-    <category term="碎碎念" />
     <entry>
         <id>https://luhuadong.com/markdown/markdown-to-wechat.html</id>
         <title>将 Markdown 格式文章发布到微信公众号</title>

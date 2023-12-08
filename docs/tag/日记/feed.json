@@ -5,6 +5,28 @@
     "home_page_url": "https://luhuadong.com",
     "items": [
         {
+            "id": "https://luhuadong.com/journal/monthly-2023-11.html",
+            "url": "https://luhuadong.com/journal/monthly-2023-11.html",
+            "title": "十一月碎碎念：加班、创客峰会、录制播客",
+            "date_published": "2023-12-01T12:20:05.000Z",
+            "content_html": "<p>11 月的广州，终于进入了秋天，不过忽冷忽热的，感觉不是很好。据悉，11 月 17 日全球平均气温较工业化前的 1850 年至 1900 年间平均水平高 2.07℃，系有记录以来全球单日平均气温升温水平首次突破 2 摄氏度。另外，数据显示 11 月 18 日的全球平均气温升温水平同样超过 2℃，达到 2.06℃左右（<span class=\"exturl\" data-url=\"aHR0cHM6Ly9uZXdzLmNxbmV3cy5uZXQvMS9kZXRhaWwvMTE3Njk3MjA0ODU1NDE5Mjg5Ni93ZWIvY29udGVudF8xMTc2OTcyMDQ4NTU0MTkyODk2Lmh0bWw=\">via</span>）。真是让人感到忧心忡忡！</p>\n<h2 id=\"还在加班\"><a class=\"markdownIt-Anchor\" href=\"#还在加班\">#</a> 还在加班</h2>\n<p>整个 11 月份吧，其实是从 10 月中下旬开始，都疯狂加班。为了解决项目难题，部门还成立了临时攻坚小组，而我也被点名成为小组成员。于是，开始每天在小黑屋（会议室）里面工作，看文章、写代码、验证算法。。。</p>\n<p>11 月上旬，有了一点攻坚成果，初步交付给客户了。我也赶紧离开小黑屋，休了两天假。本来领导说等项目结束给我们放一周的假，但是项目情况紧急，临近年尾业绩不佳，我们都不敢多休。打工人真苦 😭</p>\n<p>休完两天假回来，结果又是一堆需求等着要开发，看来是没完没了。这也坚定了我要往自由职业方向发展的决心。其实这份工作经历让我成长挺多的，不仅丰富了技术栈，当了架构师，还对要接各种客户，无论是研发管理还是市场竞争，都积累了一些经验。尤其在一个风口行业，市场的变化非常快，像我们这样的创业型公司很容易在惊涛骇浪中被拍死，亦或是随波逐流。所以裁员、加班就成为了家常便饭。</p>\n<p>就我个人而言，这段经历是没有什么可遗憾的。两年时间，经历了从团队搭建到发布第一款产品，再到市场推广。每一步都有很多值得思考的地方，不仅收获了从零到一的创业经验，还赚到了一些钱。</p>\n<p>那么，在最后关键的时刻，再努力一把，再加一会班吧！（后面如果时间充沛，我还挺想写一本程序员职场小说的）</p>\n<h2 id=\"maker-faire\"><a class=\"markdownIt-Anchor\" href=\"#maker-faire\">#</a> Maker Faire</h2>\n<p>11 月 11 日 - 12 日，时隔三年的 Maker Faire 在深圳重新举办，主题是 “创客今何在”。一个意思是经过三年疫情，散落在世界各地的创客如今都怎么样了？另一个意思是随着科技的进步、商业的成熟，愿意花时间动手 DIY 的人越来越少了，如何重新激发大家的创客精神。</p>\n<p>创客峰会举办前一个月，主办方柴火创客空间问我是否感兴趣，给我一个展示摊位。鉴于最近工作太忙，我婉拒了，决定老老实实当一回观众。于是我约了朋友 Grissiom 和同事 Hywing 一起参加，他们应该是我目前工作生活中距离得最近且具有创客精神伙伴了。</p>\n<p><img data-src=\"/images/journal/20231111-Maker-Faire-01.jpeg\" alt=\"\"></p>\n<h2 id=\"freecodecamp\"><a class=\"markdownIt-Anchor\" href=\"#freecodecamp\">#</a> freeCodeCamp</h2>\n<p>11 月受 Miya 邀请录了一期 freeCodeCamp 中文播客，发布在第 20 期：<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuZnJlZWNvZGVjYW1wLm9yZy9jaGluZXNlL25ld3MvaW50ZXJ2aWV3LXJ1ZHktZW1iZWRkZWQtZGV2ZWxvcG1lbnQtYW5kLW9wZXJhdGluZy1zeXN0ZW1zLw==\">Ep. 20 对话嵌入式软件开发者 Rudy：开源操作系统、公益和教育</span>，<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cueGlhb3l1emhvdWZtLmNvbS9lcGlzb2RlLzY1NmFjMzExOWY0NDBmNTQ0M2VjNzJlMQ==\">小宇宙链接</span>。第一次录播客，时间仓促，我自己并不是很满意啦，不过也是一次有趣的体验。</p>\n<p>还不小心登上了 <span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuZnJlZWNvZGVjYW1wLm9yZy9jaGluZXNlL25ld3MvdG9wLW9wZW4tc291cmNlLWNvbnRyaWJ1dG9ycy0yMDIzLw==\">freeCodeCamp 全球开源社区 2023 Top Contributors</span> 大名单，哈哈！</p>\n",
+            "tags": [
+                "日记",
+                "思考"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/journal/monthly-2023-10.html",
+            "url": "https://luhuadong.com/journal/monthly-2023-10.html",
+            "title": "十月碎碎念：国庆自驾游、自由职业新探索",
+            "date_published": "2023-10-31T12:30:22.000Z",
+            "content_html": "<p>（我还在加班，晚一点点补充）</p>\n<h2 id=\"国庆自驾\"><a class=\"markdownIt-Anchor\" href=\"#国庆自驾\">#</a> 国庆自驾</h2>\n<h2 id=\"商业写作\"><a class=\"markdownIt-Anchor\" href=\"#商业写作\">#</a> 商业写作</h2>\n<p>pbootcms 应用迁移实践</p>\n<h2 id=\"theme-shokax\"><a class=\"markdownIt-Anchor\" href=\"#theme-shokax\">#</a> Theme ShokaX</h2>\n<p>加入 Theme ShokaX 项目</p>\n<h2 id=\"实务学堂月捐人\"><a class=\"markdownIt-Anchor\" href=\"#实务学堂月捐人\">#</a> 实务学堂月捐人</h2>\n<p>10 月 12 日开始参与实务学堂的月捐，</p>\n<p><img data-src=\"/images/journal/shi-wu-xue-tang-20231012.png\" alt=\"\"></p>\n<h2 id=\"可持续生活创变营\"><a class=\"markdownIt-Anchor\" href=\"#可持续生活创变营\">#</a> 可持续生活创变营</h2>\n<h2 id=\"更新网站\"><a class=\"markdownIt-Anchor\" href=\"#更新网站\">#</a> 更新网站</h2>\n<h2 id=\"封闭开发\"><a class=\"markdownIt-Anchor\" href=\"#封闭开发\">#</a> 封闭开发</h2>\n<p>激光雷达高反串扰问题，点云分类</p>\n<h2 id=\"倒计时\"><a class=\"markdownIt-Anchor\" href=\"#倒计时\">#</a> 倒计时</h2>\n<p>退休倒计时，不过其实也不可能退休，应该是想去探索自由职业，换一种生活方式吧。</p>\n<h2 id=\"团贷网登记\"><a class=\"markdownIt-Anchor\" href=\"#团贷网登记\">#</a> 团贷网登记</h2>\n",
+            "tags": [
+                "日记",
+                "思考"
+            ]
+        },
+        {
             "id": "https://luhuadong.com/journal/monthly-2023-09.html",
             "url": "https://luhuadong.com/journal/monthly-2023-09.html",
             "title": "九月碎碎念：重返 RT-Thread 开源社区",
