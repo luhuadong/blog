@@ -5,6 +5,17 @@
     "home_page_url": "https://luhuadong.com",
     "items": [
         {
+            "id": "https://luhuadong.com/journal/monthly-2023-12.html",
+            "url": "https://luhuadong.com/journal/monthly-2023-12.html",
+            "title": "十二月碎碎念：一年又过去了呀",
+            "date_published": "2023-12-23T15:36:05.000Z",
+            "content_html": "<h2 id=\"中国互联网的问题\"><a class=\"markdownIt-Anchor\" href=\"#中国互联网的问题\">#</a> 中国互联网的问题</h2>\n<p>GitHub 官方的报告，美国用户数量依然第一，中国去年被印度超过，从第二变到第三。</p>\n<p>另外，维基百科公布了今年<span class=\"exturl\" data-url=\"aHR0cHM6Ly9hcG5ld3MuY29tL2FydGljbGUvd2lraXBlZGlhLXRvcC1zZWFyY2hlcy0yMDIzLWNoYXRncHQtYTBlNzQyZGY0ZTAwYzMwYzA2M2QwYzI1MDVjMTI2ZTU=\">访问量最大的页面</span>，ChatGPT 第一，印度的板球世界杯和板球联赛第三和第四。印度在互联网世界的影响，真是越来越大了。</p>\n<p>拼多多超越阿里巴巴，成为最具价值的中国电商股。中国电商市场格局正在发生变化。截至周四收盘，拼多多市值接近 1,960 亿美元，超过了历史悠久得多的竞争对手阿里巴巴。</p>\n",
+            "tags": [
+                "日记",
+                "思考"
+            ]
+        },
+        {
             "id": "https://luhuadong.com/journal/monthly-2023-11.html",
             "url": "https://luhuadong.com/journal/monthly-2023-11.html",
             "title": "十一月碎碎念：加班、创客峰会、录制播客",
