@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://luhuadong.com/city/shanghai.html</loc>
+    <lastmod>2024-01-09</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/city/qingyuan-city-planning.html</loc>
+    <lastmod>2024-01-09</lastmod>
+  </url>
+  <url>
     <loc>https://luhuadong.com/reading/jian-fa-shou-na.html</loc>
     <lastmod>2024-01-07</lastmod>
   </url>
@@ -1254,10 +1262,6 @@
   </url>
   <url>
     <loc>https://luhuadong.com/career/the-transformation-of-embedded-engineers-under-iot.html</loc>
-    <lastmod>2023-10-18</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/city/qingyuan-city-planning.html</loc>
     <lastmod>2023-10-18</lastmod>
   </url>
   <url>
