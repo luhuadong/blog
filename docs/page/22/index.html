@@ -94,12 +94,12 @@
       </div>
       <div id="imgs" class="pjax">
         <ul>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/MinouLighthouse.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/QingMing2023.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/ProcidaItaly.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/YuanyangChina.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/OrcaNorway.jpg"></li>
           <li class="item" data-background-image="https://luhuadong.com/images/default/CrestedButteEclispe.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/EuropeFromISS.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/JTNPMilkyWay.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/AgueroSpain.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/WhitehorseAurora.jpg"></li>
+          <li class="item" data-background-image="https://luhuadong.com/images/default/PicoVolcano.jpg"></li>
         </ul>
       </div>
     </header>
@@ -125,7 +125,127 @@
         
 <article class="item">
   <div class="cover">
-    <a href="/hexo/hexo-permalink.html" itemprop="url" title="Hexo 固定链接"><img data-src="https://luhuadong.com/images/default/NIrelandGiants.jpg"></a>
+    <a href="/hexo/hexo-search.html" itemprop="url" title="Hexo 添加搜索"><img data-src="https://luhuadong.com/images/default/QingMing2023.jpg"></a>
+  </div>
+  <div class="info">
+    
+<div class="meta">
+  <span class="item" title="创建时间：2021-03-10 07:10:20">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2021-03-10T07:10:20+08:00">2021-03-10</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>1.1k</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>1 分钟</span>
+  </span>
+</div>
+
+    <h3><a href="/hexo/hexo-search.html" itemprop="url" title="Hexo 添加搜索">Hexo 添加搜索</a></h3>
+    <div class="excerpt">
+        在使用 Hexo 博客时，如果文章较多，就会发现分类和标签已经很难快速找到所需要的文章内容了。这时候就需要为 Hexo 博客系统添加本站的搜索功能。
+
+# 安装插件
+Hexo 的搜索功能依赖于 hexo-generator-search 插件，在博客根目录执行下面命令进行安装。
+
+1
+
+
+npm install hexo-generator-searchdb --save
+
+
+# 修改配置
+# 修改站点配置文件
+修改根目录下的 _config.yml 配置文件，添加如下内容。
+
+1
+2
+3
+4
+5
+6
+7
+
+
+# hexo-generator-searchdb
+search:
+  path: 
+      
+    </div>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAHexo%E5%8D%9A%E5%AE%A2/" itemprop="url" title="如何搭建Hexo博客"><i class="ic i-flag"></i>如何搭建Hexo博客</a>
+      </span>
+    </div>
+    <a href="/hexo/hexo-search.html" itemprop="url" title="Hexo 添加搜索" class="btn">more...</a>
+  </div>
+</article>
+
+        
+<article class="item">
+  <div class="cover">
+    <a href="/hexo/hexo-comments.html" itemprop="url" title="Hexo 评论系统"><img data-src="https://luhuadong.com/images/default/AgueroSpain.jpg"></a>
+  </div>
+  <div class="info">
+    
+<div class="meta">
+  <span class="item" title="创建时间：2021-03-09 17:10:20">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2021-03-09T17:10:20+08:00">2021-03-09</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>1.4k</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>1 分钟</span>
+  </span>
+</div>
+
+    <h3><a href="/hexo/hexo-comments.html" itemprop="url" title="Hexo 评论系统">Hexo 评论系统</a></h3>
+    <div class="excerpt">
+        由于 Hexo 博客系统是静态博客，所以它本身无法支持评论等动态的功能。不过，有很多第三方的评论系统都可以通过添加 JS 代码的方式让 Hexo 博客支持评论功能。
+
+常见的评论系统包括：Valine、Disqus、Gitment 等等。
+
+# 添加 Valine 评论系统
+# 注册 LeanCloud
+由于 valine 评论系统是放在 LeanCloud 上的，因此需要先打开 https://www.leancloud.cn 网址注册一个 LeanCloud 账号。
+
+注册完成后创建一个应用，比如名字为 blog，然后进入应用，在 设置 -> 应用凭证 中找到 APP ID 和 APP K
+      
+    </div>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAHexo%E5%8D%9A%E5%AE%A2/" itemprop="url" title="如何搭建Hexo博客"><i class="ic i-flag"></i>如何搭建Hexo博客</a>
+      </span>
+    </div>
+    <a href="/hexo/hexo-comments.html" itemprop="url" title="Hexo 评论系统" class="btn">more...</a>
+  </div>
+</article>
+
+        
+<article class="item">
+  <div class="cover">
+    <a href="/hexo/hexo-permalink.html" itemprop="url" title="Hexo 固定链接"><img data-src="https://luhuadong.com/images/default/OrcaNorway.jpg"></a>
   </div>
   <div class="info">
     
@@ -257,7 +377,7 @@ hexo deploy
         
 <article class="item">
   <div class="cover">
-    <a href="/hexo/hexo-new-article.html" itemprop="url" title="Hexo 创建文章"><img data-src="https://luhuadong.com/images/default/AgueroSpain.jpg"></a>
+    <a href="/hexo/hexo-new-article.html" itemprop="url" title="Hexo 创建文章"><img data-src="https://luhuadong.com/images/default/ProcidaItaly.jpg"></a>
   </div>
   <div class="info">
     
@@ -333,7 +453,7 @@ tags:
         
 <article class="item">
   <div class="cover">
-    <a href="/hexo/hexo-configuration.html" itemprop="url" title="Hexo 配置"><img data-src="https://luhuadong.com/images/default/QingMing2023.jpg"></a>
+    <a href="/hexo/hexo-configuration.html" itemprop="url" title="Hexo 配置"><img data-src="https://luhuadong.com/images/default/NahargarhFort.jpg"></a>
   </div>
   <div class="info">
     
@@ -397,7 +517,7 @@ description: 这是
         
 <article class="item">
   <div class="cover">
-    <a href="/hexo/hexo-themes.html" itemprop="url" title="Hexo 主题推荐"><img data-src="https://luhuadong.com/images/default/CrestedButteEclispe.jpg"></a>
+    <a href="/hexo/hexo-themes.html" itemprop="url" title="Hexo 主题推荐"><img data-src="https://luhuadong.com/images/default/EdaleValley.jpg"></a>
   </div>
   <div class="info">
     
@@ -453,7 +573,7 @@ Fluid 一款 Material Design 风格的 Hexo 主题，由 Fluid-dev 负
         
 <article class="item">
   <div class="cover">
-    <a href="/hexo/hexo-commands.html" itemprop="url" title="Hexo 命令"><img data-src="https://luhuadong.com/images/default/WhitehorseAurora.jpg"></a>
+    <a href="/hexo/hexo-commands.html" itemprop="url" title="Hexo 命令"><img data-src="https://luhuadong.com/images/default/ProcidaItaly.jpg"></a>
   </div>
   <div class="info">
     
@@ -520,7 +640,7 @@ hexo server
         
 <article class="item">
   <div class="cover">
-    <a href="/hexo/hexo-installation.html" itemprop="url" title="Hexo 安装"><img data-src="https://luhuadong.com/images/default/CrestedButteEclispe.jpg"></a>
+    <a href="/hexo/hexo-installation.html" itemprop="url" title="Hexo 安装"><img data-src="https://luhuadong.com/images/default/NIrelandGiants.jpg"></a>
   </div>
   <div class="info">
     
@@ -579,7 +699,7 @@ sudo apt-get install g
         
 <article class="item">
   <div class="cover">
-    <a href="/hexo/hexo-intro.html" itemprop="url" title="Hexo 简介"><img data-src="https://luhuadong.com/images/default/YuanyangChina.jpg"></a>
+    <a href="/hexo/hexo-intro.html" itemprop="url" title="Hexo 简介"><img data-src="https://luhuadong.com/images/default/JTNPMilkyWay.jpg"></a>
   </div>
   <div class="info">
     
@@ -627,134 +747,6 @@ Hexo 框架具有如下特性：
   </div>
 </article>
 
-        
-<article class="item">
-  <div class="cover">
-    <a href="/markdown/markdown-emoji.html" itemprop="url" title="俏皮的 Markdown Emoji 表情"><img data-src="https://luhuadong.com/images/default/EuropeFromISS.jpg"></a>
-  </div>
-  <div class="info">
-    
-<div class="meta">
-  <span class="item" title="创建时间：2021-03-07 23:07:08">
-    <span class="icon">
-      <i class="ic i-calendar"></i>
-    </span>
-    <time itemprop="dateCreated datePublished" datetime="2021-03-07T23:07:08+08:00">2021-03-07</time>
-  </span>
-  <span class="item" title="本文字数">
-    <span class="icon">
-      <i class="ic i-pen"></i>
-    </span>
-    <span>1.8k</span>
-    <span class="text">字</span>
-  </span>
-  <span class="item" title="阅读时长">
-    <span class="icon">
-      <i class="ic i-clock"></i>
-    </span>
-    <span>2 分钟</span>
-  </span>
-</div>
-
-    <h3><a href="/markdown/markdown-emoji.html" itemprop="url" title="俏皮的 Markdown Emoji 表情">俏皮的 Markdown Emoji 表情</a></h3>
-    <div class="excerpt">
-        【Markdown 从入门到精通】
-
-❓ 如果不懂外语，在互联网上怎么交流？—— 别慌，可以用互联网时代全球通用语言 Emoji 呀！
-
-# Emoji 的发展史
-📎 ​Emoji 的演变主要分为三个阶段。
-
-# 1️⃣ 符号表情（颜文字）
-早在 1967 年，美国《Reader’s Digest》的一篇文章就提出了用符号表达情绪的概念，但这个想法并未付诸实践。直到 1982 年，卡耐基梅隆大学的 Scott Fahlman 教授提议在留言板上使用 :-) 和 :-( 符号来区分严肃的帖子和笑话。
-
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-
-
-19-Sep-82 11:44    S
-      
-    </div>
-    <div class="meta footer">
-      <span>
-        <a href="/categories/%E4%B8%80%E8%B5%B7%E5%AD%A6Markdown/" itemprop="url" title="一起学Markdown"><i class="ic i-flag"></i>一起学Markdown</a>
-      </span>
-    </div>
-    <a href="/markdown/markdown-emoji.html" itemprop="url" title="俏皮的 Markdown Emoji 表情" class="btn">more...</a>
-  </div>
-</article>
-
-        
-<article class="item">
-  <div class="cover">
-    <a href="/markdown/markdown-extended-syntax.html" itemprop="url" title="了解常用 Markdown 扩展语法"><img data-src="https://luhuadong.com/images/default/EdaleValley.jpg"></a>
-  </div>
-  <div class="info">
-    
-<div class="meta">
-  <span class="item" title="创建时间：2021-03-07 21:04:54">
-    <span class="icon">
-      <i class="ic i-calendar"></i>
-    </span>
-    <time itemprop="dateCreated datePublished" datetime="2021-03-07T21:04:54+08:00">2021-03-07</time>
-  </span>
-  <span class="item" title="本文字数">
-    <span class="icon">
-      <i class="ic i-pen"></i>
-    </span>
-    <span>2.1k</span>
-    <span class="text">字</span>
-  </span>
-  <span class="item" title="阅读时长">
-    <span class="icon">
-      <i class="ic i-clock"></i>
-    </span>
-    <span>2 分钟</span>
-  </span>
-</div>
-
-    <h3><a href="/markdown/markdown-extended-syntax.html" itemprop="url" title="了解常用 Markdown 扩展语法">了解常用 Markdown 扩展语法</a></h3>
-    <div class="excerpt">
-        【Markdown 从入门到精通】
-
-虽然 Markdown 扩展语法不在 CommonMark Spec 标准中，但许多 Markdown 编辑器也都尽量支持，因此学习一些常用的 Markdown 扩展语法也是有必要的。本文介绍的主要是 GitHub Flavored Markdown，也就是 GitHub 风格的 Markdown 扩展语法。
-
-# 删除线
-使用两个飘号 ~~ 包裹需要表示删除的文字。
-
-1
-
-
-~~抽烟~~
-
-
-# 下划线
-由于 Markdown 和 HTML 的暧昧关系，因此在 Markdown 中，下划线可以通过 <u> </u> 标签来实现。
-
-1
-
-
-<u>下面有
-      
-    </div>
-    <div class="meta footer">
-      <span>
-        <a href="/categories/%E4%B8%80%E8%B5%B7%E5%AD%A6Markdown/" itemprop="url" title="一起学Markdown"><i class="ic i-flag"></i>一起学Markdown</a>
-      </span>
-    </div>
-    <a href="/markdown/markdown-extended-syntax.html" itemprop="url" title="了解常用 Markdown 扩展语法" class="btn">more...</a>
-  </div>
-</article>
-
     </div>
 
   </div>
@@ -790,7 +782,7 @@ Hexo 框架具有如下特性：
 <nav class="state">
     <div class="item posts">
       <a href="/archives/">
-        <span class="count">361</span>
+        <span class="count">363</span>
         <span class="name">文章</span>
       </a>
     </div>
@@ -894,13 +886,13 @@ Hexo 框架具有如下特性：
     <span class="post-meta-item-icon">
       <i class="ic i-chart-area"></i>
     </span>
-    <span title="站点总字数">698k 字</span>
+    <span title="站点总字数">701k 字</span>
 
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="ic i-coffee"></i>
     </span>
-    <span title="站点阅读时长">10:34</span>
+    <span title="站点阅读时长">10:37</span>
   </div>
   <div class="powered-by">
     基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>

@@ -312,9 +312,40 @@ STEM 是科学（Science）、技术（Technology）、工程（Engineering）�
         <title>Funpack 一起免费玩转开发板</title>
         <link rel="alternate" href="https://luhuadong.com/contest/eetree-funpack.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/contest/funpack-banner-2-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Funpack 是 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jbGFzcy5lZXRyZWUuY24v&#34;&gt;硬禾学堂&lt;/span&gt; 和 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nZXRpb3QudGVjaC9kaWN0aW9uYXJ5L2RpZ2lrZXkuaHRtbA==&#34;&gt;得捷电子&lt;/span&gt; 联合推出的开发板评测活动，通过在指定时间内完成任务，一起玩转开发板，并获得与板卡等额的现金奖励。&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMQ==&#34;&gt;Funpack 第一期&lt;/span&gt; 在 2020 年 9 月 1 日发布，板卡是一款基于 STM32MP1 系列通用处理器的单板计算机 —— 来自 Seeed 科技的 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93aWtpLnNlZWVkc3R1ZGlvLmNvbS9PRFlTU0VZLVNUTTMyTVAxNTdDLw==&#34;&gt;ODYSSEY – STM32MP157C&lt;/span&gt; 开发板。为期一个月，鼓励参与者将项目开源、编写教程，以及拍摄演示视频。获得参与者的一致好评，我已经参加&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDEwNjg0MTY2L2NoYW5uZWwvc2VyaWVzZGV0YWlsP3NpZD00NTQwMDk=&#34;&gt;好多期&lt;/span&gt;了！&lt;/p&gt;
-&lt;p&gt;链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNr&#34;&gt;https://www.eetree.cn/page/digikey-funpack&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Funpack 是 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jbGFzcy5lZXRyZWUuY24v&#34;&gt;硬禾学堂&lt;/span&gt; 和 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nZXRpb3QudGVjaC9kaWN0aW9uYXJ5L2RpZ2lrZXk=&#34;&gt;得捷电子&lt;/span&gt; 联合推出的开发板评测活动，通过在指定时间内完成任务，一起玩转开发板，并获得与板卡等额的现金奖励。&lt;/p&gt;
+&lt;p&gt;Funpack 第一期在 2020 年 9 月 1 日发布，板卡是一款基于 STM32MP1 系列通用处理器的单板计算机 —— 来自 Seeed 科技的 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93aWtpLnNlZWVkc3R1ZGlvLmNvbS9PRFlTU0VZLVNUTTMyTVAxNTdDLw==&#34;&gt;ODYSSEY – STM32MP157C&lt;/span&gt; 开发板。为期一个月，鼓励参与者将项目开源、编写教程，以及拍摄演示视频。获得参与者的一致好评，我已经参加&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDEwNjg0MTY2L2NoYW5uZWwvc2VyaWVzZGV0YWlsP3NpZD00NTQwMDk=&#34;&gt;好多期&lt;/span&gt;了！&lt;/p&gt;
+&lt;p&gt;目前已经进行到第三季啦，点击&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNr&#34;&gt;这里&lt;/span&gt;可以了解更多关于 Funpack 活动的信息。&lt;/p&gt;
+&lt;h2 id=&#34;funpack-第一季&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#funpack-第一季&#34;&gt;#&lt;/a&gt; Funpack 第一季&lt;/h2&gt;
+&lt;p&gt;Funpack 第一季共 12 期，每月一期。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMQ==&#34;&gt;ODYSSEY – STM32MP157C 单板计算机&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMg==&#34;&gt;SparkFun RED-V RedBoard 开发板&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMw==&#34;&gt;Renesas EK-RA2A1 评估板&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlNA==&#34;&gt;Thunderboard™ BG22 开发套件&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlNQ==&#34;&gt;ADALM-PLUTO 主动学习模块&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlNg==&#34;&gt;MAX32660-EVSYS 评估板&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlNw==&#34;&gt;Microchip DM164137 开发板&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlOA==&#34;&gt;Arduino Nano 33 BLE Sense 开发板&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlOQ==&#34;&gt;SensorTile.box 传感器开发套件&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMTA=&#34;&gt;Kitronik ARCADE 可编程游戏手柄&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMTE=&#34;&gt;LPC55S69-EVK 评估板&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMTI=&#34;&gt;Wio Terminal 开发套件&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;funpack-第二季&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#funpack-第二季&#34;&gt;#&lt;/a&gt; Funpack 第二季&lt;/h2&gt;
+&lt;p&gt;Funpack 第二季共 6 期，每两个月一期。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMTM=&#34;&gt;Syntiant TinyML Board 语音和传感器开发板&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMTQ=&#34;&gt;英飞凌 KIT_AURIX_TC275_LITE 开发板&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMTU=&#34;&gt;FireBeetle ESP32-E 开发板&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMTY=&#34;&gt;AVR64DD32 Curiosity Nano 开发板&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMTc=&#34;&gt;ESP32-S3-BOX-LITE 开发套件&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMTg=&#34;&gt;nRF7002-DK 开发套件&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;funpack-第三季&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#funpack-第三季&#34;&gt;#&lt;/a&gt; Funpack 第三季&lt;/h2&gt;
+&lt;p&gt;Funpack 第三季火热进行中，预计共 6 期，每两个月一期。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMTk=&#34;&gt;Silicon Labs 的 XG24-EK2703A 开发板&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
 </content>
         <category term="创客" />
         <updated>2020-10-01T15:31:49.000Z</updated>

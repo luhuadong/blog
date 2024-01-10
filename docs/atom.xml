@@ -3,7 +3,7 @@
     <id>https://luhuadong.com</id>
     <title>成为自由人</title>
     <link href="https://luhuadong.com" />
-    <updated>2024-01-08T11:48:18.000Z</updated>
+    <updated>2024-01-10T05:50:01.000Z</updated>
     <category term="商业" />
     <category term="成长" />
     <category term="日记" />
@@ -90,6 +90,75 @@
     <category term="零废弃" />
     <category term="低碳" />
     <category term="独立开发者" />
+    <entry>
+        <id>https://luhuadong.com/wordpress/wordpress-themes.html</id>
+        <title>WordPress 优秀主题推荐</title>
+        <link rel="alternate" href="https://luhuadong.com/wordpress/wordpress-themes.html"/>
+        <content type="html">&lt;p&gt;这里收集一些我觉得挺不错的 WordPress 主题，通常都是收费的，但也有一些会同时提供基础免费版。&lt;/p&gt;
+&lt;h2 id=&#34;通用网站&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#通用网站&#34;&gt;#&lt;/a&gt; 通用网站&lt;/h2&gt;
+&lt;h3 id=&#34;astra&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#astra&#34;&gt;#&lt;/a&gt; Astra&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93cGFzdHJhLmNvbS8=&#34;&gt;Astra&lt;/span&gt; 主题最大的卖点是它具有许多的免费样式提供使用（专业版有 70 种，免费版有 35 种）。同时，用户能根据自身的使用习惯来使用 Astra 对所创建网站的自定义布局；在使用 Astra 时，其人性化的菜单设计也能给第一次使用这款主题的用户最好的体验，比如，上传 Logo、字体样式设计等功能会直接显示在菜单上，即使是免费版本，也能满足用户建站的基本需求（专业版在这些功能上也有更好的强化升级）。&lt;/p&gt;
+&lt;p&gt;Astra 主题实例：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;电商主题：Furniture Store（是 Astra 众多优秀电商主题中注重于销售家具的一款主题）&lt;/li&gt;
+&lt;li&gt;教育主题：Music School（是教育主题中专注于音乐教育的主题）&lt;/li&gt;
+&lt;li&gt;杂志主题：Travel Agency（是杂志主题中专为旅游杂志而设计的主题）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/wordpress/wp-theme-astra.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;资讯网站&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#资讯网站&#34;&gt;#&lt;/a&gt; 资讯网站&lt;/h2&gt;
+&lt;h3 id=&#34;justnews&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#justnews&#34;&gt;#&lt;/a&gt; JustNews&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cud3Bjb20uY24vdGhlbWVzL2p1c3RuZXdzLmh0bWw=&#34;&gt;JustNews&lt;/span&gt; 主题专为博客、自媒体、资讯类的网站设计开发，自适应兼容手机、平板设备，支持前端用户中心，可以前端发布 / 投稿文章，同时主题支持专题功能，可以添加文章专题。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/wordpress/wp-theme-justnews.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;corepress-pro&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#corepress-pro&#34;&gt;#&lt;/a&gt; CorePress Pro&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubG92ZXN0dS5jb20vY29yZXByZXNzLmh0bWw=&#34;&gt;CorePress Pro&lt;/span&gt; 是一个强大的 WordPress 定制主题，目标是一站式解决方案，无需再安装各种各样的插件。具有体积小、性能强、功能多等特点，是一款不可多得的高性能、高颜值主题。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/wordpress/wp-theme-corepress.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;电商网站&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#电商网站&#34;&gt;#&lt;/a&gt; 电商网站&lt;/h2&gt;
+&lt;h3 id=&#34;sage&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#sage&#34;&gt;#&lt;/a&gt; Sage&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cud3Bjb20uY24vdGhlbWVzL3NhZ2UuaHRtbA==&#34;&gt;Sage&lt;/span&gt; 主题专为在线商城网站需求而开发，通过深度整合 WooCommerce 插件可让 WordPress 具备强大的电子商务网站功能，实现完整的在线购物流程。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/wordpress/wp-theme-sage.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="WordPress" />
+        <updated>2024-01-10T05:50:01.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/city/weihai.html</id>
+        <title>山东半岛最东端——威海</title>
+        <link rel="alternate" href="https://luhuadong.com/city/weihai.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/city/weihai-city.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;威海是一座沿海城市，位于山东半岛东端，是中国大陆直线距离韩国首尔最近的城市。威海以其美丽的海岸线、宜人的气候和发达的经济为特点，是山东半岛的区域中心城市，重要的海洋产业基地和滨海旅游城市。&lt;/p&gt;
+&lt;h2 id=&#34;地理位置&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#地理位置&#34;&gt;#&lt;/a&gt; 地理位置&lt;/h2&gt;
+&lt;p&gt;威海市地处北纬 36°41′ - 37°35′、东经 121°11′ - 122°42′，位于山东半岛的最东端，三面环海，北东南三面濒临黄海，北与辽东半岛相对，东及东南与朝鲜半岛和琉球群岛隔海相望，西与烟台市接壤。东西最大横距 135 公里，南北最大纵距 81 公里，总面积 5698 平方公里，其中市区面积 769 平方公里。其中，低山占土地总面积的 15.77%，丘陵占 52.38% ，平原占 27.56%，岛屿占 0.28%，滩涂占 4.01%。海岸线长 985.9 公里，海岸类型属于港湾海岸，海岸线曲折，岬湾交错，多港湾、岛屿。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/city/weihai-google-map-02.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;威海市属北温带季风型大陆性气候，四季变化及季风进退都很明显，气温变化和缓，降水较为充足。因受海洋调节作用，表现出春冷、夏凉、秋暧、冬温，昼夜温差小、无霜期长、大风多和湿度大等海洋性气候特点。年平均气温约 12.2℃，一月最冷，平均气温 -1.4℃，八月最热，平均气温 25.1℃。&lt;/p&gt;
+&lt;h2 id=&#34;行政区划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#行政区划&#34;&gt;#&lt;/a&gt; 行政区划&lt;/h2&gt;
+&lt;p&gt;威海市辖环翠区、文登区、荣成市和乳山市 2 区、2 市。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/city/weihai-area-map.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;环翠区位于山东半岛东端地区，北部濒临黄海。它是威海市的中心城区，是威海市政治、经济、交通中心，市政府就位于其境内。&lt;/li&gt;
+&lt;li&gt;文登区位于山东半岛的东部，辖区的南部濒临黄海。老母猪河入海口处周边，设立有南海新区，这块区域正在大力开发，修建了很多高楼大厦和工业园区，占地面积巨大。&lt;/li&gt;
+&lt;li&gt;荣成市在 1988 年撤县设立了县级市，由威海市代管。荣成市位于山东半岛最东端，其三面临海，海岸线长，港口众多，渔业和工业发达。它是中国大陆直线距离韩国最近的地方。&lt;/li&gt;
+&lt;li&gt;乳山市在 1993 年撤销乳山县，成立了县级市乳山市，由威海市代管。乳山市位于山东半岛的东部地区，南面濒临黄海。因境内有大乳山所以得名为乳山，它是沿海地区的长寿之乡。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;人口民族&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#人口民族&#34;&gt;#&lt;/a&gt; 人口民族&lt;/h2&gt;
+&lt;p&gt;2022 年末，威海市常住人口为 291.78 万人。其中，全市户籍人口为 255.28 万人，城镇人口为 209.38 万人。&lt;/p&gt;
+&lt;p&gt;在全市常住人口中，汉族人口为 2,875,752 人，占 98.94%；各少数民族人口为 30,796 人，占 1.06%。包括朝鲜族、满族、蒙古族、佤族、回族、彝族、苗族、拉祜族、土家族等少数民族。&lt;/p&gt;
+&lt;h2 id=&#34;历史文化&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#历史文化&#34;&gt;#&lt;/a&gt; 历史文化&lt;/h2&gt;
+&lt;p&gt;威海是中国第一支海军北洋海军发源地，也是中日甲午战争的发生地。威海卫战役是中日甲午战争中的一次重要战役，是保卫北洋海军根据地的防御战，也是北洋舰队对日本的最后一战。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/city/weihai-museum.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;位于山东省威海市环翠区丁公路的中国甲午战争博物馆，是威海刘公岛甲午战争纪念地的专门保护管理机构，是全国著名的爱国主义教育示范基地。开馆以来，已接待 60 多位国家领导人和 100 多个国家的一千多万观众。1988 年，国务院公布 “刘公岛甲午战争纪念地” 为全国重点文物保护单位。2008 年 5 月 16 日，列入国家文物局首批国家一级博物馆。&lt;/p&gt;
+&lt;h2 id=&#34;旅游资源&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#旅游资源&#34;&gt;#&lt;/a&gt; 旅游资源&lt;/h2&gt;
+&lt;p&gt;威海市旅游资源丰富，自然资源与人文资源兼备，有旅游景区（点）80 余处。全市有国家 A 级以上景区 49 家，其中国家 5A 级 2 家（刘公岛景区、华夏城景区），国家 4A 级 13 家，国家 3A 级 30 家，国家 2A 级 4 家。&lt;/p&gt;
+&lt;p&gt;自然资源以 “海、岛、滩、湾、泉、山” 为特色，全市拥有近 1000 千米海岸线，沿线沙滩细腻绵延，海水碧蓝纯净，有国际海水浴场、文登金海滩、乳山银滩等 10 余处天然海水浴场，有威海湾、半月湾、九龙湾等 16 个海湾，有刘公岛、海驴岛等大小海岛 168 个，有优质地下温泉 9 处，有昆嵛山、圣经山、里口山、铁槎山、大乳山等山地风景区。&lt;/p&gt;
+&lt;p&gt;人文资源以秦汉文化、民俗文化、道教文化、甲午文化、英租文化为代表。全市有各级文物保护单位 217 处，其中国家级 4 处（刘公岛甲午战争纪念地、威海英式建筑、圣经山摩崖、留村石墓群）、省级 78 处、市级 41 处、县级 94 处，一般不可移动文物 502 处。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/city/weihai-islands.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;参考资料&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#参考资料&#34;&gt;#&lt;/a&gt; 参考资料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cud2VpaGFpLmdvdi5jbi9jb2wvY29sNTg4NTUvaW5kZXguaHRtbA==&#34;&gt;威海概况 - 威海市人民政府&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="城市规划" />
+        <updated>2024-01-10T05:43:56.000Z</updated>
+    </entry>
     <entry>
         <id>https://luhuadong.com/city/shanghai.html</id>
         <title>“东方魔都”——上海</title>
@@ -2918,9 +2987,9 @@ https://weibo.com/ttarticle/p/show?id=2309404859631611805768
         <updated>2023-01-23T09:35:28.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/city/qingyuan-city-planning.html</id>
+        <id>https://luhuadong.com/city/qingyuan.html</id>
         <title>清远城市规划（四馆一中心）</title>
-        <link rel="alternate" href="https://luhuadong.com/city/qingyuan-city-planning.html"/>
+        <link rel="alternate" href="https://luhuadong.com/city/qingyuan.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/city/%E6%B8%85%E8%BF%9C%E5%B8%82%E5%8C%BA2016-2035%E5%9F%8E%E5%B8%82%E8%A7%84%E5%88%9201.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;燕湖新城&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#燕湖新城&#34;&gt;#&lt;/a&gt; 燕湖新城&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -11571,9 +11640,40 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
         <title>Funpack 一起免费玩转开发板</title>
         <link rel="alternate" href="https://luhuadong.com/contest/eetree-funpack.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/contest/funpack-banner-2-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Funpack 是 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jbGFzcy5lZXRyZWUuY24v&#34;&gt;硬禾学堂&lt;/span&gt; 和 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nZXRpb3QudGVjaC9kaWN0aW9uYXJ5L2RpZ2lrZXkuaHRtbA==&#34;&gt;得捷电子&lt;/span&gt; 联合推出的开发板评测活动，通过在指定时间内完成任务，一起玩转开发板，并获得与板卡等额的现金奖励。&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMQ==&#34;&gt;Funpack 第一期&lt;/span&gt; 在 2020 年 9 月 1 日发布，板卡是一款基于 STM32MP1 系列通用处理器的单板计算机 —— 来自 Seeed 科技的 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93aWtpLnNlZWVkc3R1ZGlvLmNvbS9PRFlTU0VZLVNUTTMyTVAxNTdDLw==&#34;&gt;ODYSSEY – STM32MP157C&lt;/span&gt; 开发板。为期一个月，鼓励参与者将项目开源、编写教程，以及拍摄演示视频。获得参与者的一致好评，我已经参加&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDEwNjg0MTY2L2NoYW5uZWwvc2VyaWVzZGV0YWlsP3NpZD00NTQwMDk=&#34;&gt;好多期&lt;/span&gt;了！&lt;/p&gt;
-&lt;p&gt;链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNr&#34;&gt;https://www.eetree.cn/page/digikey-funpack&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Funpack 是 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jbGFzcy5lZXRyZWUuY24v&#34;&gt;硬禾学堂&lt;/span&gt; 和 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nZXRpb3QudGVjaC9kaWN0aW9uYXJ5L2RpZ2lrZXk=&#34;&gt;得捷电子&lt;/span&gt; 联合推出的开发板评测活动，通过在指定时间内完成任务，一起玩转开发板，并获得与板卡等额的现金奖励。&lt;/p&gt;
+&lt;p&gt;Funpack 第一期在 2020 年 9 月 1 日发布，板卡是一款基于 STM32MP1 系列通用处理器的单板计算机 —— 来自 Seeed 科技的 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93aWtpLnNlZWVkc3R1ZGlvLmNvbS9PRFlTU0VZLVNUTTMyTVAxNTdDLw==&#34;&gt;ODYSSEY – STM32MP157C&lt;/span&gt; 开发板。为期一个月，鼓励参与者将项目开源、编写教程，以及拍摄演示视频。获得参与者的一致好评，我已经参加&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDEwNjg0MTY2L2NoYW5uZWwvc2VyaWVzZGV0YWlsP3NpZD00NTQwMDk=&#34;&gt;好多期&lt;/span&gt;了！&lt;/p&gt;
+&lt;p&gt;目前已经进行到第三季啦，点击&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNr&#34;&gt;这里&lt;/span&gt;可以了解更多关于 Funpack 活动的信息。&lt;/p&gt;
+&lt;h2 id=&#34;funpack-第一季&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#funpack-第一季&#34;&gt;#&lt;/a&gt; Funpack 第一季&lt;/h2&gt;
+&lt;p&gt;Funpack 第一季共 12 期，每月一期。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMQ==&#34;&gt;ODYSSEY – STM32MP157C 单板计算机&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMg==&#34;&gt;SparkFun RED-V RedBoard 开发板&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMw==&#34;&gt;Renesas EK-RA2A1 评估板&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlNA==&#34;&gt;Thunderboard™ BG22 开发套件&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlNQ==&#34;&gt;ADALM-PLUTO 主动学习模块&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlNg==&#34;&gt;MAX32660-EVSYS 评估板&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlNw==&#34;&gt;Microchip DM164137 开发板&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlOA==&#34;&gt;Arduino Nano 33 BLE Sense 开发板&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlOQ==&#34;&gt;SensorTile.box 传感器开发套件&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMTA=&#34;&gt;Kitronik ARCADE 可编程游戏手柄&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMTE=&#34;&gt;LPC55S69-EVK 评估板&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMTI=&#34;&gt;Wio Terminal 开发套件&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;funpack-第二季&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#funpack-第二季&#34;&gt;#&lt;/a&gt; Funpack 第二季&lt;/h2&gt;
+&lt;p&gt;Funpack 第二季共 6 期，每两个月一期。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMTM=&#34;&gt;Syntiant TinyML Board 语音和传感器开发板&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMTQ=&#34;&gt;英飞凌 KIT_AURIX_TC275_LITE 开发板&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMTU=&#34;&gt;FireBeetle ESP32-E 开发板&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMTY=&#34;&gt;AVR64DD32 Curiosity Nano 开发板&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMTc=&#34;&gt;ESP32-S3-BOX-LITE 开发套件&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMTg=&#34;&gt;nRF7002-DK 开发套件&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;funpack-第三季&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#funpack-第三季&#34;&gt;#&lt;/a&gt; Funpack 第三季&lt;/h2&gt;
+&lt;p&gt;Funpack 第三季火热进行中，预计共 6 期，每两个月一期。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZWV0cmVlLmNuL3BhZ2UvZGlnaWtleS1mdW5wYWNrL3BoYXNlMTk=&#34;&gt;Silicon Labs 的 XG24-EK2703A 开发板&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
 </content>
         <category term="创客" />
         <updated>2020-10-01T15:31:49.000Z</updated>

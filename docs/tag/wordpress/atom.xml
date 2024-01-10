@@ -3,7 +3,7 @@
     <id>https://luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;wordpress&#34; tag</title>
     <link href="https://luhuadong.com" />
-    <updated>2023-07-03T05:40:16.000Z</updated>
+    <updated>2024-01-10T05:50:01.000Z</updated>
     <category term="商业" />
     <category term="成长" />
     <category term="日记" />
@@ -90,6 +90,36 @@
     <category term="零废弃" />
     <category term="低碳" />
     <category term="独立开发者" />
+    <entry>
+        <id>https://luhuadong.com/wordpress/wordpress-themes.html</id>
+        <title>WordPress 优秀主题推荐</title>
+        <link rel="alternate" href="https://luhuadong.com/wordpress/wordpress-themes.html"/>
+        <content type="html">&lt;p&gt;这里收集一些我觉得挺不错的 WordPress 主题，通常都是收费的，但也有一些会同时提供基础免费版。&lt;/p&gt;
+&lt;h2 id=&#34;通用网站&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#通用网站&#34;&gt;#&lt;/a&gt; 通用网站&lt;/h2&gt;
+&lt;h3 id=&#34;astra&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#astra&#34;&gt;#&lt;/a&gt; Astra&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93cGFzdHJhLmNvbS8=&#34;&gt;Astra&lt;/span&gt; 主题最大的卖点是它具有许多的免费样式提供使用（专业版有 70 种，免费版有 35 种）。同时，用户能根据自身的使用习惯来使用 Astra 对所创建网站的自定义布局；在使用 Astra 时，其人性化的菜单设计也能给第一次使用这款主题的用户最好的体验，比如，上传 Logo、字体样式设计等功能会直接显示在菜单上，即使是免费版本，也能满足用户建站的基本需求（专业版在这些功能上也有更好的强化升级）。&lt;/p&gt;
+&lt;p&gt;Astra 主题实例：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;电商主题：Furniture Store（是 Astra 众多优秀电商主题中注重于销售家具的一款主题）&lt;/li&gt;
+&lt;li&gt;教育主题：Music School（是教育主题中专注于音乐教育的主题）&lt;/li&gt;
+&lt;li&gt;杂志主题：Travel Agency（是杂志主题中专为旅游杂志而设计的主题）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/wordpress/wp-theme-astra.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;资讯网站&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#资讯网站&#34;&gt;#&lt;/a&gt; 资讯网站&lt;/h2&gt;
+&lt;h3 id=&#34;justnews&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#justnews&#34;&gt;#&lt;/a&gt; JustNews&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cud3Bjb20uY24vdGhlbWVzL2p1c3RuZXdzLmh0bWw=&#34;&gt;JustNews&lt;/span&gt; 主题专为博客、自媒体、资讯类的网站设计开发，自适应兼容手机、平板设备，支持前端用户中心，可以前端发布 / 投稿文章，同时主题支持专题功能，可以添加文章专题。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/wordpress/wp-theme-justnews.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;corepress-pro&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#corepress-pro&#34;&gt;#&lt;/a&gt; CorePress Pro&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubG92ZXN0dS5jb20vY29yZXByZXNzLmh0bWw=&#34;&gt;CorePress Pro&lt;/span&gt; 是一个强大的 WordPress 定制主题，目标是一站式解决方案，无需再安装各种各样的插件。具有体积小、性能强、功能多等特点，是一款不可多得的高性能、高颜值主题。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/wordpress/wp-theme-corepress.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;电商网站&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#电商网站&#34;&gt;#&lt;/a&gt; 电商网站&lt;/h2&gt;
+&lt;h3 id=&#34;sage&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#sage&#34;&gt;#&lt;/a&gt; Sage&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cud3Bjb20uY24vdGhlbWVzL3NhZ2UuaHRtbA==&#34;&gt;Sage&lt;/span&gt; 主题专为在线商城网站需求而开发，通过深度整合 WooCommerce 插件可让 WordPress 具备强大的电子商务网站功能，实现完整的在线购物流程。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/wordpress/wp-theme-sage.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="WordPress" />
+        <updated>2024-01-10T05:50:01.000Z</updated>
+    </entry>
     <entry>
         <id>https://luhuadong.com/wordpress/best-wordpress-online-education-themes.html</id>
         <title>WordPress 在线教育主题</title>
