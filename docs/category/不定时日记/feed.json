@@ -5,6 +5,17 @@
     "home_page_url": "https://luhuadong.com",
     "items": [
         {
+            "id": "https://luhuadong.com/journal/monthly-2024-01.html",
+            "url": "https://luhuadong.com/journal/monthly-2024-01.html",
+            "title": "2024年1月碎碎念：生活还是要有点目标",
+            "date_published": "2024-01-14T16:18:12.000Z",
+            "content_html": "<iframe src=\"//player.bilibili.com/player.html?aid=453583924&bvid=BV1G5411i7vX&cid=1400589004&p=1&high_quality=1&danmaku=0\" width=\"100%\" height=\"500\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>\n<p>之前写 <a href=\"/journal/2023-year-end-summary.html\">2023 年总结</a> 的时候，本来不想制定 2024 年的目标，但是又怕自己荒废时光，最后碌碌无为。思前想后，还是决定在这里写下今年想要做的一些事情，也作为目标在我堕落的时候方便拿出来审视自己吧。</p>\n<ol>\n<li>重写整理「从端到云构建物联网系统」书稿，发布付费专栏，CSDN 粉丝数破十万；</li>\n<li>继续更新「人人都懂物联网」网站教程，排名稳定进入全球前一百万；</li>\n<li>重写「零废弃部落」的可持续生活指南，搭建资讯平台和数据库搜索功能；</li>\n<li>系统学习 Web 前端开发技术栈；</li>\n<li>开发一款地图社区应用；</li>\n<li>钻研 AI 工具使用；</li>\n<li>开发、维护 OpenEmber 开源项目；</li>\n<li>设计、开发「南瓜派」开源硬件；</li>\n<li>在 RT-Thread smart 上移植 ROS2；</li>\n<li>考个 PCB 设计专项技术证书；</li>\n<li>考个健身教练初级资格证；</li>\n<li>考个素食烹饪专项职业证书；</li>\n<li>学习缝纫机的使用；</li>\n<li>学习人物摄影技术；</li>\n<li>学钢琴、尤克里里；</li>\n<li>钻研 iPad 绘画技术；</li>\n<li>练习普通话、英语、演讲，录有声书；</li>\n<li>还有 … 买套房？</li>\n</ol>\n<p>不过呀，这些都是必须要完成的目标，只是想做的事而已，一件件地做，做到哪算到哪就好了。最重要的还是吃好喝好睡好，还有谈恋爱、结婚这些大事。</p>\n",
+            "tags": [
+                "日记",
+                "思考"
+            ]
+        },
+        {
             "id": "https://luhuadong.com/journal/2023-year-end-summary.html",
             "url": "https://luhuadong.com/journal/2023-year-end-summary.html",
             "title": "我的2023——走向自洽，做真实的自己",
