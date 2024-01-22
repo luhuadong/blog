@@ -16,26 +16,24 @@
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
-    <category term="城市规划" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
     <category term="英语" />
     <category term="学习" />
-    <category term="环保" />
-    <category term="碳中和" />
     <category term="种植" />
     <category term="健身" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="气象爱好者" />
     <category term="指南" />
     <category term="自律" />
@@ -43,9 +41,12 @@
     <category term="健康" />
     <category term="Hexo" />
     <category term="科普" />
+    <category term="环保" />
     <category term="可持续" />
     <category term="能源" />
     <category term="社会现象" />
+    <category term="独立开发者" />
+    <category term="碳中和" />
     <category term="职业" />
     <category term="时间管理" />
     <category term="milestone" />
@@ -83,14 +84,14 @@
     <category term="演讲" />
     <category term="励志" />
     <category term="时间" />
+    <category term="普拉提" />
     <category term="游泳" />
     <category term="声音训练" />
     <category term="WordPress" />
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
-    <category term="独立开发者" />
-    <category term="普拉提" />
+    <category term="徒步" />
     <entry>
         <id>https://luhuadong.com/reading/starting-a-business-from-home.html</id>
         <title>《在家创业应有的姿势》读书笔记</title>
@@ -151,9 +152,9 @@
         <updated>2023-07-01T15:12:45.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/entrepreneurship/innovation-entrepreneurship-competition.html</id>
+        <id>https://luhuadong.com/startup/innovation-entrepreneurship-competition.html</id>
         <title>创新创业大赛</title>
-        <link rel="alternate" href="https://luhuadong.com/entrepreneurship/innovation-entrepreneurship-competition.html"/>
+        <link rel="alternate" href="https://luhuadong.com/startup/innovation-entrepreneurship-competition.html"/>
         <content type="html">&lt;h2 id=&#34;hackaday-prize&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hackaday-prize&#34;&gt;#&lt;/a&gt; HACKADAY PRIZE&lt;/h2&gt;
 &lt;p&gt;Hackaday Prize 是一个全球性的硬件设计挑战，聚焦于广泛和有影响力的创新。&lt;/p&gt;
 &lt;ul&gt;
@@ -207,9 +208,9 @@
         <updated>2021-11-02T08:33:37.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/entrepreneurship/how-to-be-a-successful-founder.html</id>
+        <id>https://luhuadong.com/startup/how-to-be-a-successful-founder.html</id>
         <title>如何成为优秀的创始人</title>
-        <link rel="alternate" href="https://luhuadong.com/entrepreneurship/how-to-be-a-successful-founder.html"/>
+        <link rel="alternate" href="https://luhuadong.com/startup/how-to-be-a-successful-founder.html"/>
         <content type="html">&lt;h2 id=&#34;早期能力&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#早期能力&#34;&gt;#&lt;/a&gt; 早期能力&lt;/h2&gt;
 &lt;p&gt;创始人在创业早期最重要的两个能力：&lt;/p&gt;
 &lt;ul&gt;
@@ -250,9 +251,9 @@
         <updated>2021-10-30T15:49:14.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/entrepreneurship/green-business-ideas.html</id>
+        <id>https://luhuadong.com/startup/green-business-ideas.html</id>
         <title>碳中和创业 | 23种绿色环保商业理念</title>
-        <link rel="alternate" href="https://luhuadong.com/entrepreneurship/green-business-ideas.html"/>
+        <link rel="alternate" href="https://luhuadong.com/startup/green-business-ideas.html"/>
         <content type="html">&lt;p&gt;您想在创业的同时保护环境吗？ 本文介绍的这些绿色商业理念可以帮助您做到这一点。&lt;/p&gt;
 &lt;p&gt;如今，消费者对&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYnVzaW5lc3NuZXdzZGFpbHkuY29tLzQ2NzktY29ycG9yYXRlLXNvY2lhbC1yZXNwb25zaWJpbGl0eS5odG1s&#34;&gt;企业社会责任&lt;/span&gt; （CSR）的兴趣与他们对公司的产品和服务一样感兴趣。这对有环保意识的企业家来说尤其是个好消息。&lt;/p&gt;
 &lt;p&gt;因此，我们概述了 23 种环保、绿色产业的商业理念，既可以赚钱同时又可以拯救地球。&lt;/p&gt;
@@ -355,9 +356,9 @@
         <updated>2021-10-26T08:55:50.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/entrepreneurship/how-to-start-a-business.html</id>
+        <id>https://luhuadong.com/startup/how-to-start-a-business.html</id>
         <title>如何开始创业？</title>
-        <link rel="alternate" href="https://luhuadong.com/entrepreneurship/how-to-start-a-business.html"/>
+        <link rel="alternate" href="https://luhuadong.com/startup/how-to-start-a-business.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/startup/start-my-own-business.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;开始创业&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#开始创业&#34;&gt;#&lt;/a&gt; 开始创业&lt;/h2&gt;
 &lt;p&gt;想要创业成功可以从以下几个方面尝试：&lt;/p&gt;
@@ -424,9 +425,9 @@
         <updated>2021-10-04T16:49:26.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/entrepreneurship/y-combinator-startup.html</id>
+        <id>https://luhuadong.com/startup/y-combinator-startup.html</id>
         <title>YC 创业课</title>
-        <link rel="alternate" href="https://luhuadong.com/entrepreneurship/y-combinator-startup.html"/>
+        <link rel="alternate" href="https://luhuadong.com/startup/y-combinator-startup.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/startup/yc-startup-school.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Y Combinator（简称 YC）成立于 2005 年，是美国著名创业孵化器，旨在扶持初创企业并为其提供创业指南。&lt;/p&gt;
 &lt;p&gt;YC 的创始人是《黑客与画家》的作者保罗。格雷厄姆（Paul Graham）。他拥有哈佛大学应用科学（计算机方向）博士学位，并在罗德岛设计学院和佛罗伦萨绘画艺术学院学习过绘画。在编程方面以 Lisp 方面的工作而知名，也是最早的 Web 应用 Viaweb 的创办者之一，后来以近 5 千万美元价格被雅虎收购，成为 Yahoo! Store。&lt;/p&gt;
@@ -442,18 +443,18 @@
         <updated>2021-09-16T07:06:46.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/entrepreneurship/whats-the-problem-of-beian.html</id>
+        <id>https://luhuadong.com/startup/whats-the-problem-of-beian.html</id>
         <title>网站备案的流程与注意事项</title>
-        <link rel="alternate" href="https://luhuadong.com/entrepreneurship/whats-the-problem-of-beian.html"/>
+        <link rel="alternate" href="https://luhuadong.com/startup/whats-the-problem-of-beian.html"/>
         <content type="html">&lt;p&gt;个人网站不能有 “关于我们” 和 “商务合作” 之类的页面。&lt;/p&gt;
 </content>
         <category term="创业" />
         <updated>2021-09-16T01:47:42.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/entrepreneurship/how-to-build-an-online-business.html</id>
+        <id>https://luhuadong.com/startup/how-to-build-an-online-business.html</id>
         <title>如何建立网络生意</title>
-        <link rel="alternate" href="https://luhuadong.com/entrepreneurship/how-to-build-an-online-business.html"/>
+        <link rel="alternate" href="https://luhuadong.com/startup/how-to-build-an-online-business.html"/>
         <content type="html">&lt;ol&gt;
 &lt;li&gt;建立平台&lt;/li&gt;
 &lt;li&gt;建立品牌&lt;/li&gt;
@@ -470,9 +471,9 @@
         <updated>2020-10-24T08:59:32.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/entrepreneurship/those-companies-that-started-in-the-garage.html</id>
+        <id>https://luhuadong.com/startup/those-companies-that-started-in-the-garage.html</id>
         <title>那些从车库开始创业的公司</title>
-        <link rel="alternate" href="https://luhuadong.com/entrepreneurship/those-companies-that-started-in-the-garage.html"/>
+        <link rel="alternate" href="https://luhuadong.com/startup/those-companies-that-started-in-the-garage.html"/>
         <content type="html">&lt;p&gt;美国有很多公司诞生于车库，其中不乏一些著名的世界 500 强企业，包括谷歌、苹果、亚马逊等等。车库确实是一个不错的地方，非常适合创客们低成本创业，这就是所谓的 “车库文化” 吧。不过在中国不行，因为车库在我们这里注册不了公司，住宅也不行，而那些共享空间、孵化器也是各种坑，一波操作下来也挺累的。&lt;/p&gt;
 &lt;h2 id=&#34;苹果apple&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#苹果apple&#34;&gt;#&lt;/a&gt; 苹果（Apple）&lt;/h2&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/startup/garage-apple.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;

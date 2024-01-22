@@ -3,7 +3,7 @@
     <id>https://luhuadong.com</id>
     <title>成为自由人</title>
     <link href="https://luhuadong.com" />
-    <updated>2024-01-14T16:18:12.000Z</updated>
+    <updated>2024-01-22T04:25:57.000Z</updated>
     <category term="商业" />
     <category term="成长" />
     <category term="日记" />
@@ -16,26 +16,24 @@
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
-    <category term="城市规划" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
     <category term="英语" />
     <category term="学习" />
-    <category term="环保" />
-    <category term="碳中和" />
     <category term="种植" />
     <category term="健身" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="气象爱好者" />
     <category term="指南" />
     <category term="自律" />
@@ -43,9 +41,12 @@
     <category term="健康" />
     <category term="Hexo" />
     <category term="科普" />
+    <category term="环保" />
     <category term="可持续" />
     <category term="能源" />
     <category term="社会现象" />
+    <category term="独立开发者" />
+    <category term="碳中和" />
     <category term="职业" />
     <category term="时间管理" />
     <category term="milestone" />
@@ -83,14 +84,66 @@
     <category term="演讲" />
     <category term="励志" />
     <category term="时间" />
+    <category term="普拉提" />
     <category term="游泳" />
     <category term="声音训练" />
     <category term="WordPress" />
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
-    <category term="独立开发者" />
-    <category term="普拉提" />
+    <category term="徒步" />
+    <entry>
+        <id>https://luhuadong.com/hiking/hiking-tips-for-beginners.html</id>
+        <title>给徒步新手的十条建议</title>
+        <link rel="alternate" href="https://luhuadong.com/hiking/hiking-tips-for-beginners.html"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/hiking/hiking-banner-01.webp&#34; alt=&#34;&#34; title=&#34;图片来源：www.explore.com，拍摄者：Sera Parris&#34;&gt;&lt;/p&gt;
+&lt;p&gt;我最近开始尝试徒步旅行，为什么是徒步呢？因为徒步是一种适合大部分人身体机能的锻炼方式，同时也是一种了解自己、接触大自然的方式，还有很重要的一点，徒步旅行（通常）是免费的。相比于花钱闷在健身房里，显然徒步就是一种和有趣的户外活动，每个新的徒步旅程都是一段不一样的体验。&lt;/p&gt;
+&lt;p&gt;我知道，对于徒步新手来说，你可能会感到有点害怕，就像我刚开始接触徒步的时候一样。因此，我整理了一份简短的指南，希望可以帮助你开始你的徒步旅行。&lt;/p&gt;
+&lt;h2 id=&#34;第一条提前做计划检查天气&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一条提前做计划检查天气&#34;&gt;#&lt;/a&gt; 第一条：提前做计划，检查天气&lt;/h2&gt;
+&lt;p&gt;对于徒步新手来说，选择好天气是保证良好体验的第一要务。你应该不希望天气成为妨碍你徒步旅行的因素吧？因为恶劣的天气条件会增加徒步的难度，容易出现安全事故。&lt;/p&gt;
+&lt;p&gt;如果你还是想说走就走，来一场风雨无阻的徒步旅行，那么务必提前查看天气，根据情况准备好保持干燥和安全所需的装备。&lt;/p&gt;
+&lt;h2 id=&#34;第二条准备好必需品&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第二条准备好必需品&#34;&gt;#&lt;/a&gt; 第二条：准备好必需品&lt;/h2&gt;
+&lt;p&gt;行李清单的长短取决于你计划在徒步旅程中度过多少天、在哪里吃饭、睡觉，以及你出发的季节。对于徒步新手，我建议你从一日徒步开始，当天出发，当天回来，并且最好是天黑之前回来。&lt;/p&gt;
+&lt;p&gt;下面这些物品是推荐你最好要放进背包的：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;地图（纸质的！）&lt;/li&gt;
+&lt;li&gt;指南针&lt;/li&gt;
+&lt;li&gt;饮用水&lt;/li&gt;
+&lt;li&gt;食物&lt;/li&gt;
+&lt;li&gt;打火机或火柴&lt;/li&gt;
+&lt;li&gt;简单的急救箱&lt;/li&gt;
+&lt;li&gt;军刀或多用途工具&lt;/li&gt;
+&lt;li&gt;手电筒和电池&lt;/li&gt;
+&lt;li&gt;防晒霜和太阳镜&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第三条确保适量的食物和水&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第三条确保适量的食物和水&#34;&gt;#&lt;/a&gt; 第三条：确保适量的食物和水&lt;/h2&gt;
+&lt;p&gt;水维持着生命，所以这是徒步旅行最重要的东西！每 2 小时的徒步旅行就需要一整升的水，因此不要带得太少，因为如果迷路或不得不绕道，可能会增加意想不到的时间。我建议你购买一个可重复使用的水瓶或者水袋，并贴上你的专属贴纸进行装饰。这不仅可以节省金钱，减少塑料的使用，还会让你在路上自豪地炫耀它！&lt;/p&gt;
+&lt;p&gt;对于一天的徒步旅行，最好携带不需要冷藏或加热的高能量食物。常见的选择包括肉干、干果（我们喜欢芒果！）、混合干果或能量棒。无需在食物上吃太多 —— 只需确保你有足够的食物为这次徒步旅行提供能量即可。然后再放入一块高能量的燕麦巧克力棒以备不时之需。&lt;/p&gt;
+&lt;h2 id=&#34;第四条选择正确的鞋袜组合&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第四条选择正确的鞋袜组合&#34;&gt;#&lt;/a&gt; 第四条：选择正确的鞋袜组合&lt;/h2&gt;
+&lt;p&gt;对于新手来说，刚开始徒步很容易在脚上长水泡，尤其是当你的鞋子和袜子不适合徒步时。毫不夸张地说，水泡会毁掉一次完美的徒步旅行！&lt;/p&gt;
+&lt;p&gt;我建议你前往当地的户外商店并购买适合你码数的徒步鞋。理想情况下，鞋子应该舒适但不要太紧，并且有符合你脚型独特的贴合度。而袜子则需要考虑与鞋子搭配的适当长度。通常，羊毛长袜是标准的通用徒步袜，一双好的袜子绝对值得投资！&lt;/p&gt;
+&lt;h2 id=&#34;第五条带上手机并且充好电&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第五条带上手机并且充好电&#34;&gt;#&lt;/a&gt; 第五条：带上手机，并且充好电&lt;/h2&gt;
+&lt;p&gt;前面介绍必需品时没有提到手机，但我相信你一定不会落下的。在开始徒步之前，建议你将手机充满电，最好带上你的充电宝，以防发生紧急情况。&lt;/p&gt;
+&lt;p&gt;当然，用手机 GPS 实时定位，以及用手机相机记录你的这次徒步旅行，也是很重要的事情！&lt;/p&gt;
+&lt;h2 id=&#34;第六条随身携带光源&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第六条随身携带光源&#34;&gt;#&lt;/a&gt; 第六条：随身携带光源&lt;/h2&gt;
+&lt;p&gt;徒步新手一定要记住，在做计划时必须为在天黑之前到达目的地留出充足的时间。如果你的徒步旅行时间比预期的时间长，在黑暗中没有灯可能会让你陷入困境和恐惧，因此必须始终携带一盏灯！&lt;/p&gt;
+&lt;p&gt;我建议你使用头灯，虽然现在的手机都有照明功能，但它可能不能长期使用，或者亮度不够，更关键的是你需要在黑暗中腾出你的双手以确保安全。而头灯打开以后就不需要管了，可以让你更加安心地挑战这段黑暗的旅程，这样你就可以更专注更安全地到达目的地。&lt;/p&gt;
+&lt;p&gt;请务必携带手机手电筒以外的其他光源，否则你的手机可能会耗尽电池电量并意外关闭，而它有更重要的作用！&lt;/p&gt;
+&lt;h2 id=&#34;第七条掌握基本急救知识&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第七条掌握基本急救知识&#34;&gt;#&lt;/a&gt; 第七条：掌握基本急救知识&lt;/h2&gt;
+&lt;p&gt;不管是新手还是老手，都必须掌握一些基本的急救知识，以从容应对突发意外造成的各种伤害。掌握基本急救知识，带上一个基本急救箱，有时候会在徒步旅行时发挥重要作用。&lt;/p&gt;
+&lt;h2 id=&#34;第八条带上你的朋友一起&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第八条带上你的朋友一起&#34;&gt;#&lt;/a&gt; 第八条：带上你的朋友一起&lt;/h2&gt;
+&lt;p&gt;有些人喜欢一个人徒步，对于新手来说，我不建议你这么做。在开始的时候，最好带上一两个朋友，他们可以帮你探路，可以在受伤时提供帮助，当然，他们也会让这次徒步旅行变得更有趣！&lt;/p&gt;
+&lt;p&gt;如果你暂时没有喜欢徒步的朋友，那么可以尝试加入当地的徒步网络社群，寻找徒步搭子。&lt;/p&gt;
+&lt;p&gt;记住：只有当你有了足够的徒步经验之后，才可以开始探索独自徒步旅行。&lt;/p&gt;
+&lt;h2 id=&#34;第九条慢慢走不着急&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第九条慢慢走不着急&#34;&gt;#&lt;/a&gt; 第九条：慢慢走，不着急&lt;/h2&gt;
+&lt;p&gt;徒步最重要的是旅程，而不是目的地，你应该同意吧？除非你在参加计时的徒步比赛，否则我建议你放慢脚步，多看看旅途的风景，这会增加你的徒步体验。当你以舒适的速度前进，沉浸在风景中，在需要时停下来休息，这样你才能真正享受徒步旅行。&lt;/p&gt;
+&lt;p&gt;当然啦，这也意味着你在做计划的时候，要多给自己预留一些时间。&lt;/p&gt;
+&lt;h2 id=&#34;第十条找一个满意的营地&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第十条找一个满意的营地&#34;&gt;#&lt;/a&gt; 第十条：找一个满意的营地&lt;/h2&gt;
+&lt;p&gt;基本上，每一次徒步旅行都会经过一些很棒的地方，你可以在这些地方稍作休息，吃点东西，甚至睡个觉。你可以提前看看地图，或者看看攻略，也许会对你有帮助，尤其是如果你想要在徒步营地过夜的话。&lt;/p&gt;
+</content>
+        <category term="徒步" />
+        <updated>2024-01-22T04:25:57.000Z</updated>
+    </entry>
     <entry>
         <id>https://luhuadong.com/journal/monthly-2024-01.html</id>
         <title>2024年1月碎碎念：生活还是要有点目标</title>
@@ -3308,9 +3361,9 @@ https://weibo.com/ttarticle/p/show?id=2309404859631611805768
         <updated>2023-01-23T09:35:28.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/city/qingyuan.html</id>
+        <id>https://luhuadong.com/city/qingyuan-city-planning.html</id>
         <title>清远城市规划（四馆一中心）</title>
-        <link rel="alternate" href="https://luhuadong.com/city/qingyuan.html"/>
+        <link rel="alternate" href="https://luhuadong.com/city/qingyuan-city-planning.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/city/%E6%B8%85%E8%BF%9C%E5%B8%82%E5%8C%BA2016-2035%E5%9F%8E%E5%B8%82%E8%A7%84%E5%88%9201.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;燕湖新城&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#燕湖新城&#34;&gt;#&lt;/a&gt; 燕湖新城&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -5435,9 +5488,9 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
         <updated>2021-12-31T00:45:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/entrepreneurship/innovation-entrepreneurship-competition.html</id>
+        <id>https://luhuadong.com/startup/innovation-entrepreneurship-competition.html</id>
         <title>创新创业大赛</title>
-        <link rel="alternate" href="https://luhuadong.com/entrepreneurship/innovation-entrepreneurship-competition.html"/>
+        <link rel="alternate" href="https://luhuadong.com/startup/innovation-entrepreneurship-competition.html"/>
         <content type="html">&lt;h2 id=&#34;hackaday-prize&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hackaday-prize&#34;&gt;#&lt;/a&gt; HACKADAY PRIZE&lt;/h2&gt;
 &lt;p&gt;Hackaday Prize 是一个全球性的硬件设计挑战，聚焦于广泛和有影响力的创新。&lt;/p&gt;
 &lt;ul&gt;
@@ -5973,9 +6026,9 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
         <updated>2021-11-01T03:41:36.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/entrepreneurship/how-to-be-a-successful-founder.html</id>
+        <id>https://luhuadong.com/startup/how-to-be-a-successful-founder.html</id>
         <title>如何成为优秀的创始人</title>
-        <link rel="alternate" href="https://luhuadong.com/entrepreneurship/how-to-be-a-successful-founder.html"/>
+        <link rel="alternate" href="https://luhuadong.com/startup/how-to-be-a-successful-founder.html"/>
         <content type="html">&lt;h2 id=&#34;早期能力&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#早期能力&#34;&gt;#&lt;/a&gt; 早期能力&lt;/h2&gt;
 &lt;p&gt;创始人在创业早期最重要的两个能力：&lt;/p&gt;
 &lt;ul&gt;
@@ -6232,9 +6285,9 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
         <updated>2021-10-28T15:03:02.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/entrepreneurship/green-business-ideas.html</id>
+        <id>https://luhuadong.com/startup/green-business-ideas.html</id>
         <title>碳中和创业 | 23种绿色环保商业理念</title>
-        <link rel="alternate" href="https://luhuadong.com/entrepreneurship/green-business-ideas.html"/>
+        <link rel="alternate" href="https://luhuadong.com/startup/green-business-ideas.html"/>
         <content type="html">&lt;p&gt;您想在创业的同时保护环境吗？ 本文介绍的这些绿色商业理念可以帮助您做到这一点。&lt;/p&gt;
 &lt;p&gt;如今，消费者对&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYnVzaW5lc3NuZXdzZGFpbHkuY29tLzQ2NzktY29ycG9yYXRlLXNvY2lhbC1yZXNwb25zaWJpbGl0eS5odG1s&#34;&gt;企业社会责任&lt;/span&gt; （CSR）的兴趣与他们对公司的产品和服务一样感兴趣。这对有环保意识的企业家来说尤其是个好消息。&lt;/p&gt;
 &lt;p&gt;因此，我们概述了 23 种环保、绿色产业的商业理念，既可以赚钱同时又可以拯救地球。&lt;/p&gt;
@@ -6409,9 +6462,9 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
         <updated>2021-10-21T03:19:39.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/entrepreneurship/how-to-start-a-business.html</id>
+        <id>https://luhuadong.com/startup/how-to-start-a-business.html</id>
         <title>如何开始创业？</title>
-        <link rel="alternate" href="https://luhuadong.com/entrepreneurship/how-to-start-a-business.html"/>
+        <link rel="alternate" href="https://luhuadong.com/startup/how-to-start-a-business.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/startup/start-my-own-business.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;开始创业&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#开始创业&#34;&gt;#&lt;/a&gt; 开始创业&lt;/h2&gt;
 &lt;p&gt;想要创业成功可以从以下几个方面尝试：&lt;/p&gt;
@@ -8393,9 +8446,9 @@ STEM 是科学（Science）、技术（Technology）、工程（Engineering）�
         <updated>2021-09-16T17:29:51.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/entrepreneurship/y-combinator-startup.html</id>
+        <id>https://luhuadong.com/startup/y-combinator-startup.html</id>
         <title>YC 创业课</title>
-        <link rel="alternate" href="https://luhuadong.com/entrepreneurship/y-combinator-startup.html"/>
+        <link rel="alternate" href="https://luhuadong.com/startup/y-combinator-startup.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/startup/yc-startup-school.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Y Combinator（简称 YC）成立于 2005 年，是美国著名创业孵化器，旨在扶持初创企业并为其提供创业指南。&lt;/p&gt;
 &lt;p&gt;YC 的创始人是《黑客与画家》的作者保罗。格雷厄姆（Paul Graham）。他拥有哈佛大学应用科学（计算机方向）博士学位，并在罗德岛设计学院和佛罗伦萨绘画艺术学院学习过绘画。在编程方面以 Lisp 方面的工作而知名，也是最早的 Web 应用 Viaweb 的创办者之一，后来以近 5 千万美元价格被雅虎收购，成为 Yahoo! Store。&lt;/p&gt;
@@ -8427,18 +8480,18 @@ STEM 是科学（Science）、技术（Technology）、工程（Engineering）�
         <updated>2021-09-16T02:11:09.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/entrepreneurship/whats-the-problem-of-beian.html</id>
+        <id>https://luhuadong.com/startup/whats-the-problem-of-beian.html</id>
         <title>网站备案的流程与注意事项</title>
-        <link rel="alternate" href="https://luhuadong.com/entrepreneurship/whats-the-problem-of-beian.html"/>
+        <link rel="alternate" href="https://luhuadong.com/startup/whats-the-problem-of-beian.html"/>
         <content type="html">&lt;p&gt;个人网站不能有 “关于我们” 和 “商务合作” 之类的页面。&lt;/p&gt;
 </content>
         <category term="创业" />
         <updated>2021-09-16T01:47:42.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/geography/city-china-qingyuan.html</id>
+        <id>https://luhuadong.com/city/qingyuan.html</id>
         <title>【城市介绍】清远</title>
-        <link rel="alternate" href="https://luhuadong.com/geography/city-china-qingyuan.html"/>
+        <link rel="alternate" href="https://luhuadong.com/city/qingyuan.html"/>
         <content type="html">&lt;p&gt;发展定位：珠三角北（缘）门户、环珠三角新兴产业与绿色产业集聚区、国际旅游休闲目的地、生态宜居城市。&lt;/p&gt;
 &lt;h2 id=&#34;清远各区域规划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#清远各区域规划&#34;&gt;#&lt;/a&gt; 清远各区域规划&lt;/h2&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/map/qingyuan-regional-plan.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -11844,9 +11897,9 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
         <updated>2020-10-29T01:41:22.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/entrepreneurship/how-to-build-an-online-business.html</id>
+        <id>https://luhuadong.com/startup/how-to-build-an-online-business.html</id>
         <title>如何建立网络生意</title>
-        <link rel="alternate" href="https://luhuadong.com/entrepreneurship/how-to-build-an-online-business.html"/>
+        <link rel="alternate" href="https://luhuadong.com/startup/how-to-build-an-online-business.html"/>
         <content type="html">&lt;ol&gt;
 &lt;li&gt;建立平台&lt;/li&gt;
 &lt;li&gt;建立品牌&lt;/li&gt;
@@ -21385,9 +21438,9 @@ n\in\mathbb N&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;
         <updated>2017-06-11T17:18:22.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/entrepreneurship/those-companies-that-started-in-the-garage.html</id>
+        <id>https://luhuadong.com/startup/those-companies-that-started-in-the-garage.html</id>
         <title>那些从车库开始创业的公司</title>
-        <link rel="alternate" href="https://luhuadong.com/entrepreneurship/those-companies-that-started-in-the-garage.html"/>
+        <link rel="alternate" href="https://luhuadong.com/startup/those-companies-that-started-in-the-garage.html"/>
         <content type="html">&lt;p&gt;美国有很多公司诞生于车库，其中不乏一些著名的世界 500 强企业，包括谷歌、苹果、亚马逊等等。车库确实是一个不错的地方，非常适合创客们低成本创业，这就是所谓的 “车库文化” 吧。不过在中国不行，因为车库在我们这里注册不了公司，住宅也不行，而那些共享空间、孵化器也是各种坑，一波操作下来也挺累的。&lt;/p&gt;
 &lt;h2 id=&#34;苹果apple&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#苹果apple&#34;&gt;#&lt;/a&gt; 苹果（Apple）&lt;/h2&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/startup/garage-apple.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;

@@ -16,26 +16,24 @@
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
-    <category term="城市规划" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
     <category term="英语" />
     <category term="学习" />
-    <category term="环保" />
-    <category term="碳中和" />
     <category term="种植" />
     <category term="健身" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="气象爱好者" />
     <category term="指南" />
     <category term="自律" />
@@ -43,9 +41,12 @@
     <category term="健康" />
     <category term="Hexo" />
     <category term="科普" />
+    <category term="环保" />
     <category term="可持续" />
     <category term="能源" />
     <category term="社会现象" />
+    <category term="独立开发者" />
+    <category term="碳中和" />
     <category term="职业" />
     <category term="时间管理" />
     <category term="milestone" />
@@ -83,14 +84,14 @@
     <category term="演讲" />
     <category term="励志" />
     <category term="时间" />
+    <category term="普拉提" />
     <category term="游泳" />
     <category term="声音训练" />
     <category term="WordPress" />
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
-    <category term="独立开发者" />
-    <category term="普拉提" />
+    <category term="徒步" />
     <entry>
         <id>https://luhuadong.com/city/weihai.html</id>
         <title>山东半岛最东端——威海</title>
@@ -181,9 +182,9 @@
         <updated>2024-01-08T11:48:18.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/city/qingyuan.html</id>
+        <id>https://luhuadong.com/city/qingyuan-city-planning.html</id>
         <title>清远城市规划（四馆一中心）</title>
-        <link rel="alternate" href="https://luhuadong.com/city/qingyuan.html"/>
+        <link rel="alternate" href="https://luhuadong.com/city/qingyuan-city-planning.html"/>
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/city/%E6%B8%85%E8%BF%9C%E5%B8%82%E5%8C%BA2016-2035%E5%9F%8E%E5%B8%82%E8%A7%84%E5%88%9201.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;燕湖新城&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#燕湖新城&#34;&gt;#&lt;/a&gt; 燕湖新城&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -225,5 +226,31 @@
 </content>
         <category term="城市规划" />
         <updated>2023-01-22T19:24:41.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/city/qingyuan.html</id>
+        <title>【城市介绍】清远</title>
+        <link rel="alternate" href="https://luhuadong.com/city/qingyuan.html"/>
+        <content type="html">&lt;p&gt;发展定位：珠三角北（缘）门户、环珠三角新兴产业与绿色产业集聚区、国际旅游休闲目的地、生态宜居城市。&lt;/p&gt;
+&lt;h2 id=&#34;清远各区域规划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#清远各区域规划&#34;&gt;#&lt;/a&gt; 清远各区域规划&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/map/qingyuan-regional-plan.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;城市总体规划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#城市总体规划&#34;&gt;#&lt;/a&gt; 城市总体规划&lt;/h2&gt;
+&lt;p&gt;按照 “强中心、网络化” 的思路，重点推进市域中心、副中心和县域中心的建设。 2030 年市域常住人口为 550 万人，其中城镇人口 400 万人，城镇化率为 73%。发展成 1 个 200 万人大城市（清远中心城区），20-50 万人的 I 型小城市 2 个（英德市区、连州市区），10-20 万人的 Ⅱ 型小城市 2 个（佛冈县城和阳山县城），小城镇 66 个的体系。形成 “一心两核，两主五轴，三区联动，网络发展” 的空间格局。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/map/%E6%B8%85%E8%BF%9C%E5%B8%82%E5%9F%8E%E5%B8%82%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92_2015-2030.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;建设低碳示范城镇&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/map/%E6%B8%85%E8%BF%9C_%E4%BD%8E%E7%A2%B3%E7%A4%BA%E8%8C%83%E5%9F%8E%E9%95%87.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;构建低碳交通体系：以广清交通一体化为核心，以城际轨道交通为引领，建成广清一小时交通生活圈；以清连高速、广乐高速等构建对外交通体系，促进城际发展；以复合型、内外一体化的道路网络为骨架，以慢行系统、管道运输和综合客货运枢纽站场为支撑，加快绿道网络建设，提高步行、自行车等低碳出行方式的比例；通过加大节能环保科技投入、建立智慧化的运输组织管理，因地制宜的制定与城市空间结构相对应的低碳交通发展战略，促进清远市低碳交通体系快速发展。&lt;/li&gt;
+&lt;li&gt;增强碳汇能力：坚持生态文明理念，大力开展森林围城工程，开展城市绿地系统建设，充分挖掘湿地、农田等碳汇潜力，加强生态环境修复，构建稳定、高效的生态碳汇体系。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5nZHF5Lmdvdi5jbi94eGdrNS96empnL3pmamcvcXlzenJ6eWovY2Fncy9jb250ZW50L3Bvc3RfOTYyNjE3Lmh0bWw=&#34;&gt;《清远市城市总体规划（2015-2030）》批前公示 | 清远市资源局&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5nZHF5Lmdvdi5jbi94eGdrNS96empnL3pmamcvcXlzenJ6eWovY2Fncy9jb250ZW50L3Bvc3RfOTYyNjE2Lmh0bWw=&#34;&gt;《清远市低碳生态城市建设规划》草案公示 | 清远市资源局&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="地理" />
+        <category term="城市" />
+        <updated>2021-09-13T06:05:57.000Z</updated>
     </entry>
 </feed>

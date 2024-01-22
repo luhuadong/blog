@@ -16,26 +16,24 @@
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
-    <category term="城市规划" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
     <category term="英语" />
     <category term="学习" />
-    <category term="环保" />
-    <category term="碳中和" />
     <category term="种植" />
     <category term="健身" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="气象爱好者" />
     <category term="指南" />
     <category term="自律" />
@@ -43,9 +41,12 @@
     <category term="健康" />
     <category term="Hexo" />
     <category term="科普" />
+    <category term="环保" />
     <category term="可持续" />
     <category term="能源" />
     <category term="社会现象" />
+    <category term="独立开发者" />
+    <category term="碳中和" />
     <category term="职业" />
     <category term="时间管理" />
     <category term="milestone" />
@@ -83,14 +84,14 @@
     <category term="演讲" />
     <category term="励志" />
     <category term="时间" />
+    <category term="普拉提" />
     <category term="游泳" />
     <category term="声音训练" />
     <category term="WordPress" />
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
-    <category term="独立开发者" />
-    <category term="普拉提" />
+    <category term="徒步" />
     <entry>
         <id>https://luhuadong.com/farm/mushroom.html</id>
         <title>蘑菇种类及其生长条件</title>

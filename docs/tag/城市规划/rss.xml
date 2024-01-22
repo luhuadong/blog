@@ -19,26 +19,24 @@
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
-        <category>城市规划</category>
-        <category>Python</category>
-        <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
         <category>英语</category>
         <category>学习</category>
-        <category>环保</category>
-        <category>碳中和</category>
         <category>种植</category>
         <category>健身</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>气象爱好者</category>
         <category>指南</category>
         <category>自律</category>
@@ -46,9 +44,12 @@
         <category>健康</category>
         <category>Hexo</category>
         <category>科普</category>
+        <category>环保</category>
         <category>可持续</category>
         <category>能源</category>
         <category>社会现象</category>
+        <category>独立开发者</category>
+        <category>碳中和</category>
         <category>职业</category>
         <category>时间管理</category>
         <category>milestone</category>
@@ -86,14 +87,14 @@
         <category>演讲</category>
         <category>励志</category>
         <category>时间</category>
+        <category>普拉提</category>
         <category>游泳</category>
         <category>声音训练</category>
         <category>WordPress</category>
         <category>垃圾分类</category>
         <category>零废弃</category>
         <category>低碳</category>
-        <category>独立开发者</category>
-        <category>普拉提</category>
+        <category>徒步</category>
         <item>
             <guid isPermalink="true">https://luhuadong.com/city/weihai.html</guid>
             <title>山东半岛最东端——威海</title>
@@ -184,9 +185,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/city/qingyuan.html</guid>
+            <guid isPermalink="true">https://luhuadong.com/city/qingyuan-city-planning.html</guid>
             <title>清远城市规划（四馆一中心）</title>
-            <link>https://luhuadong.com/city/qingyuan.html</link>
+            <link>https://luhuadong.com/city/qingyuan-city-planning.html</link>
             <category>城市规划</category>
             <pubDate>Mon, 23 Jan 2023 03:24:41 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/city/%E6%B8%85%E8%BF%9C%E5%B8%82%E5%8C%BA2016-2035%E5%9F%8E%E5%B8%82%E8%A7%84%E5%88%9201.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;

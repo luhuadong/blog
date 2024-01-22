@@ -16,26 +16,24 @@
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
-    <category term="城市规划" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
     <category term="英语" />
     <category term="学习" />
-    <category term="环保" />
-    <category term="碳中和" />
     <category term="种植" />
     <category term="健身" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="气象爱好者" />
     <category term="指南" />
     <category term="自律" />
@@ -43,9 +41,12 @@
     <category term="健康" />
     <category term="Hexo" />
     <category term="科普" />
+    <category term="环保" />
     <category term="可持续" />
     <category term="能源" />
     <category term="社会现象" />
+    <category term="独立开发者" />
+    <category term="碳中和" />
     <category term="职业" />
     <category term="时间管理" />
     <category term="milestone" />
@@ -83,14 +84,14 @@
     <category term="演讲" />
     <category term="励志" />
     <category term="时间" />
+    <category term="普拉提" />
     <category term="游泳" />
     <category term="声音训练" />
     <category term="WordPress" />
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
-    <category term="独立开发者" />
-    <category term="普拉提" />
+    <category term="徒步" />
     <entry>
         <id>https://luhuadong.com/map/china-railway-highspeed.html</id>
         <title>中国高铁线路图（2024年最新）</title>
@@ -143,9 +144,9 @@ https://weibo.com/ttarticle/p/show?id=2309404859631611805768
         <updated>2021-09-16T17:29:51.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/geography/city-china-qingyuan.html</id>
+        <id>https://luhuadong.com/city/qingyuan.html</id>
         <title>【城市介绍】清远</title>
-        <link rel="alternate" href="https://luhuadong.com/geography/city-china-qingyuan.html"/>
+        <link rel="alternate" href="https://luhuadong.com/city/qingyuan.html"/>
         <content type="html">&lt;p&gt;发展定位：珠三角北（缘）门户、环珠三角新兴产业与绿色产业集聚区、国际旅游休闲目的地、生态宜居城市。&lt;/p&gt;
 &lt;h2 id=&#34;清远各区域规划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#清远各区域规划&#34;&gt;#&lt;/a&gt; 清远各区域规划&lt;/h2&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/map/qingyuan-regional-plan.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
