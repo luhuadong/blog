@@ -92,6 +92,7 @@
     <category term="零废弃" />
     <category term="低碳" />
     <category term="徒步" />
+    <category term="英语短文" />
     <entry>
         <id>https://luhuadong.com/coding/python-run-simple-http-server.html</id>
         <title>Python 临时启动简单的 HTTP 服务器</title>
