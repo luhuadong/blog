@@ -60,7 +60,6 @@
     <category term="思考" />
     <category term="幸福" />
     <category term="猫" />
-    <category term="碎碎念" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -94,6 +93,7 @@
     <category term="徒步" />
     <category term="英语短文" />
     <category term="年终总结" />
+    <category term="月报" />
     <entry>
         <id>https://luhuadong.com/contest/aws-serverless-for-good-2022.html</id>
         <title>亚马逊 Serverless For Good - 2022 编程挑战赛</title>

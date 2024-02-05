@@ -5,61 +5,6 @@
     "home_page_url": "https://luhuadong.com",
     "items": [
         {
-            "id": "https://luhuadong.com/journal/monthly-2024-02.html",
-            "url": "https://luhuadong.com/journal/monthly-2024-02.html",
-            "title": "2024年2月碎碎念：结束也是新的开始",
-            "date_published": "2024-02-03T13:26:02.000Z",
-            "content_html": "<p>2 月 2 日北方小年，2 月 3 日南方小年，2 月 4 日立春，2 月 9 日除夕，2 月 10 日春节，2 月 14 日情人节，2 月 24 日元宵。二月份真是一个辞旧迎新的好时机啊！</p>\n<h2 id=\"天下无不散之筵席\"><a class=\"markdownIt-Anchor\" href=\"#天下无不散之筵席\">#</a> 天下无不散之筵席</h2>\n<p>自从 1 月 26 日宣布裁员以来，吃了一个多星期的散伙饭。从毫无防备的伤心，慢慢过渡到展望未来和祝福，再回到离别后的些许伤感。好在临近春节假期，放假的愉悦多少能抵消这部分悲伤之情。</p>\n<p>散伙饭是吃了好多顿，不过好像工程师都不太爱拍照，所以连合照都没有留下，还是有点遗憾了。而我也只是在个别同事离开的最后一天，拿起手机随手拍了张合照而已，不过我相信我们以后都还会再见的。</p>\n<p>（INTJ 的我居然是程序员里比较外向，比较爱拍照的啦？）</p>\n<p><img data-src=\"/images/journal/20240205-171726.jpeg\" alt=\"\" title=\"我和同事们：潘工、廖工、莫工\"></p>\n<p>2 月 5 日是我春节前最后一天上班，清理了一下办公桌，看到之前同事们送的一些手办上积了一层灰，顺便冲洗了一下。还有朋友送的两张卡片，一直贴在我的工位上，用来警醒自己 —— 要多思考，勇敢表达自己，要用代码改变世界，而不是做无意义的工作！</p>\n<p><img data-src=\"/images/journal/20240205-171857.jpeg\" alt=\"\" title=\"办公桌上的小摆件\"></p>\n<h2 id=\"团贷网案清退\"><a class=\"markdownIt-Anchor\" href=\"#团贷网案清退\">#</a> “团贷网” 案清退</h2>\n<p>2024 年 2 月 2 日，东莞市中级人民法院发布关于 “团贷网” 案集资参与人资金清退公告，资金清退将于 2024 年 2 月 3 日开始。这意味着自 2019 年 3 月 27 日团贷网暴雷以来，历时五年的荒唐事件终于有了一个实际的结果。我也在 2 月 3 日当天收到了一笔回款 —— 17140.40 元，回款比例为 34.3%。</p>\n<p><img data-src=\"/images/journal/20240205-180102.jpeg\" alt=\"\"></p>\n<p>“团贷网” 是我的第一次投资失败（后面还有几次失败），它将永远记入我的耻辱本上。对我来说，这五年发生了很多事情，包括工作、感情、家庭… 也不知道是否算成长，但心态发生了很大变化。虽然说逆境能够磨砺一个人，但经常处于逆境真的会打击一个人的信心。以前觉得存下来的才是钱，后来发现其实花出去的才是钱。以后要把钱花在正确的事情上，多体验人生，丰富生命的宽度。</p>\n<p>哎，这世间是在太多荒谬的事情了，到处都有骗子和坏人，谨记教诲：<strong>害人之心不可有，防人之心不可无</strong>。虽然我很想说 “凡事要多留个心眼”，但我又觉得太累了，我做不到！所以我更喜欢用查理芒格的这句话 —— “<strong>如果知道我会死在哪里，我将永远不会去那里</strong>” 告诫自己。在投资方面就是 “不懂不投”，看不懂就不要投嘛，不做就不会犯错。简单点，就会开心点。</p>\n<h2 id=\"春节假期安排\"><a class=\"markdownIt-Anchor\" href=\"#春节假期安排\">#</a> 春节假期安排</h2>\n<p>我的春节假期从 2 月 5 号开始，到 2 月 17 号结束，一共 13 天。这个章节是在 2 月 5 号写的，这一天我睡了个懒觉，中午才起床，下午去了趟健身房，所以这个春节计划将从 6 号开始。</p>\n<p>下面是这个春节假期计划要做的几件大事：</p>\n<ul>\n<li>更新博客文章，移除一些乱七八糟的文章，补充修改 2023 年的月报。</li>\n<li>更新「人人都懂物联网」网站的教程，每个类别至少 5 篇文章，移除所有字数少于 200 的文章。<span class=\"github-emoji\" alias=\"star\" style=\"\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8\">⭐</span></li>\n<li>重新整理「零废弃部落」上的指南和气象服务，网站备案，优化 SEO。</li>\n<li>整理《从端到云构建物联网原型》专栏，更新所有实验代码，完善云端章节内容。</li>\n<li>整理《基于树莓派的 Yocto 学习指南》专栏。</li>\n<li>分析一些商业案例：自媒体、AI 产品、零售（环保商店）、回收等。</li>\n<li>筹备 RT-Thread 兴趣小组。</li>\n<li>练习普通话，录制有声书《什么样的爱值得勇敢一次》和《碳中和时代》。<span class=\"github-emoji\" alias=\"star\" style=\"\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8\">⭐</span></li>\n<li>阅读亲密关系、婚恋、个人成长相关书籍，包括《亲密关系》、《假性亲密关系》、《爱的五种语言》、《幸福关系的 7 段旅程》、《男人来自火星，女人来自金星》、《突破型谈判》、《精神健康讲记》、《人生只有一件事》、《素食、跑步、修行》、《女性主义》、《厌女》、《始于极限》，梳理自己对亲密关系的需求，争取将自己调整到适合谈恋爱和结婚的状态。<span class=\"github-emoji\" alias=\"star\" style=\"\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8\">⭐</span></li>\n<li>重读《穷查理宝典》、《纳瓦尔宝典》、《百万富翁快车道》等书籍，对接下来的工作做一个大致的规划。</li>\n<li>整理闲置物品，挂闲鱼出售。</li>\n</ul>\n<p>我知道，一个春节假期无法完成所有事情，何况还要陪伴家人、见见朋友。所以标星的是最重要的，优先处理，其他的做多少算多少吧。</p>\n",
-            "tags": [
-                "日记",
-                "思考"
-            ]
-        },
-        {
-            "id": "https://luhuadong.com/journal/monthly-2024-01.html",
-            "url": "https://luhuadong.com/journal/monthly-2024-01.html",
-            "title": "2024年1月碎碎念：公司裁员，准备上市？",
-            "date_published": "2024-01-30T16:18:12.000Z",
-            "content_html": "<p>一月份发生了很多事情，包括感情方面的巨大危机、股市跌跌不休，以及我们部门的大裁员事件。这里主要聊聊裁员的事情，感情问题后面有好消息会单独聊，至于股市就没什么好聊的。</p>\n<h2 id=\"公司大裁员\"><a class=\"markdownIt-Anchor\" href=\"#公司大裁员\">#</a> 公司大裁员</h2>\n<p>2024 年 1 月 26 日，公司酝酿已久的年底裁员终于开始了。相较于 2023 年 5 月底和 9 月底的那两次裁员，这次裁员对于我们部门来说简直就是大清洗！非常惨烈！</p>\n<p>软件部门不算实习生，原来一共 15 名成员，这次裁员之后剩下 5 名。而我所在的组，只留下了我一个。这意味着接下来我需要承担 LiDAR 上位机、SDK、融合感知算法的开发，可能还要负责一部分嵌入式软件的开发。与此同时，还降薪了，年薪从原来的 15-17 个月调整为 13 个月，OMG！</p>\n<p>其实我在 2023 年也参加了 3 场面试，分别是做操作系统、无人机和机器人的公司或事业单位，其中两个走到终面的也都拿到了 offer，只是最后都被我放弃了。放弃的原因，一个是觉得当下的工作还值得再努力一下，一个是我实在有点不喜欢上班了，还不确定自己是否留在广州，或者去另一个城市，是否还能再卷几年。实际上就是 “上班” 对我的吸引力已经不大了，我想寻找一条更自由、更灵活、更有意义的路。</p>\n<h2 id=\"股权激励\"><a class=\"markdownIt-Anchor\" href=\"#股权激励\">#</a> 股权激励</h2>\n<p>对于没有领到 N+2 大礼包的一些同学，公司火速开展了股权激励方案。新任领导给我打了个电话，说给我配了五万股，未来预计可以带来超过 6 倍的收益。在随后几天，公司组织了三次会议，介绍股权激励方案和答疑，并拟定了认购协议让我们签署。</p>\n<p>消息刚出来的前两天，有一部分同学比较兴奋，纷纷申请增加份额。但在签署协议之前，有一部分弃权或暂缓了。归根结底还是在考虑这家公司是否值得投资？是否有上市的可能？以及未来的产品竞争力怎么样？显然，在混乱的管理和接二连三的裁员中，哪怕留下来的人也有相当一部分人失去了信心。</p>\n<p>而我，也在观望状态。只不过我似乎比大多数人要乐观一点，这可能和我自己有过创业经历有关，我认为 “危机即是转机”，关键在于我们如何把握住危机中的转机，走向成功之路。</p>\n<h2 id=\"职业发展路径\"><a class=\"markdownIt-Anchor\" href=\"#职业发展路径\">#</a> 职业发展路径</h2>\n<p>在这段时间里，抛开感情的问题，职业发展就是我所思考的重点。我梳理了自己未来可能的三条发展路径：</p>\n<ol>\n<li>辞职 -&gt; 自由职业 / 独立开发 / 开店 / 创业</li>\n<li>继续上班 -&gt; 认购股权 -&gt; 艰苦奋斗三五七年 -&gt; 公司上市收获财富</li>\n<li>换工作 -&gt; 追求工作生活平衡</li>\n</ol>\n<p>如果不考虑钱的因素，或者我被裁员了，那想都不用想，我会选择 ①。因为人生苦短，把自己最想做的事情先做了，一定不后悔。我马上就 32 岁了，我可不想 35 岁的时候还在为了钱苦哈哈地上班、加班。</p>\n<p>选择 ② 和 ③ 则是更传统、风险更小的选择，但是我已经不喜欢上班了，继续下去很容易把自己搞崩溃。相对来说，③ 有更多可能性，也许可以焕发职业生涯第二春，但也有可能陷入另一个不良循环。</p>\n<p>而 ② 应该是大部分人建议的选择，毕竟经过多轮裁员还是留下来了，而且有机会成为公司股东，获得 N 倍的财富增长。不过，能否上市成功，以及上市后的股价走势都是未知数，关键是大概率需要锁定五年以上。而未来五年，可以说是我人生中最重要的五年。我能说服自己在智能驾驶行业艰苦奋斗下去吗？</p>\n",
-            "tags": [
-                "日记",
-                "思考"
-            ]
-        },
-        {
-            "id": "https://luhuadong.com/journal/monthly-2023-12.html",
-            "url": "https://luhuadong.com/journal/monthly-2023-12.html",
-            "title": "十二月碎碎念：一年又过去了呀",
-            "date_published": "2023-12-23T15:36:05.000Z",
-            "content_html": "<h2 id=\"中国互联网的问题\"><a class=\"markdownIt-Anchor\" href=\"#中国互联网的问题\">#</a> 中国互联网的问题</h2>\n<p>GitHub 官方的报告，美国用户数量依然第一，中国去年被印度超过，从第二变到第三。</p>\n<p>另外，维基百科公布了今年<span class=\"exturl\" data-url=\"aHR0cHM6Ly9hcG5ld3MuY29tL2FydGljbGUvd2lraXBlZGlhLXRvcC1zZWFyY2hlcy0yMDIzLWNoYXRncHQtYTBlNzQyZGY0ZTAwYzMwYzA2M2QwYzI1MDVjMTI2ZTU=\">访问量最大的页面</span>，ChatGPT 第一，印度的板球世界杯和板球联赛第三和第四。印度在互联网世界的影响，真是越来越大了。</p>\n<p>拼多多超越阿里巴巴，成为最具价值的中国电商股。中国电商市场格局正在发生变化。截至周四收盘，拼多多市值接近 1,960 亿美元，超过了历史悠久得多的竞争对手阿里巴巴。</p>\n",
-            "tags": [
-                "日记",
-                "思考"
-            ]
-        },
-        {
-            "id": "https://luhuadong.com/journal/monthly-2023-11.html",
-            "url": "https://luhuadong.com/journal/monthly-2023-11.html",
-            "title": "十一月碎碎念：加班、创客峰会、录制播客",
-            "date_published": "2023-12-01T12:20:05.000Z",
-            "content_html": "<p>11 月的广州，终于进入了秋天，不过忽冷忽热的，感觉不是很好。据悉，11 月 17 日全球平均气温较工业化前的 1850 年至 1900 年间平均水平高 2.07℃，系有记录以来全球单日平均气温升温水平首次突破 2 摄氏度。另外，数据显示 11 月 18 日的全球平均气温升温水平同样超过 2℃，达到 2.06℃左右（<span class=\"exturl\" data-url=\"aHR0cHM6Ly9uZXdzLmNxbmV3cy5uZXQvMS9kZXRhaWwvMTE3Njk3MjA0ODU1NDE5Mjg5Ni93ZWIvY29udGVudF8xMTc2OTcyMDQ4NTU0MTkyODk2Lmh0bWw=\">via</span>）。真是让人感到忧心忡忡！</p>\n<h2 id=\"还在加班\"><a class=\"markdownIt-Anchor\" href=\"#还在加班\">#</a> 还在加班</h2>\n<p>整个 11 月份吧，其实是从 10 月中下旬开始，都疯狂加班。为了解决项目难题，部门还成立了临时攻坚小组，而我也被点名成为小组成员。于是，开始每天在小黑屋（会议室）里面工作，看文章、写代码、验证算法。。。</p>\n<p>11 月上旬，有了一点攻坚成果，初步交付给客户了。我也赶紧离开小黑屋，休了两天假。本来领导说等项目结束给我们放一周的假，但是项目情况紧急，临近年尾业绩不佳，我们都不敢多休。打工人真苦 😭</p>\n<p>休完两天假回来，结果又是一堆需求等着要开发，看来是没完没了。这也坚定了我要往自由职业方向发展的决心。其实这份工作经历让我成长挺多的，不仅丰富了技术栈，当了架构师，还对要接各种客户，无论是研发管理还是市场竞争，都积累了一些经验。尤其在一个风口行业，市场的变化非常快，像我们这样的创业型公司很容易在惊涛骇浪中被拍死，亦或是随波逐流。所以裁员、加班就成为了家常便饭。</p>\n<p>就我个人而言，这段经历是没有什么可遗憾的。两年时间，经历了从团队搭建到发布第一款产品，再到市场推广。每一步都有很多值得思考的地方，不仅收获了从零到一的创业经验，还赚到了一些钱。</p>\n<p>那么，在最后关键的时刻，再努力一把，再加一会班吧！（后面如果时间充沛，我还挺想写一本程序员职场小说的）</p>\n<h2 id=\"maker-faire\"><a class=\"markdownIt-Anchor\" href=\"#maker-faire\">#</a> Maker Faire</h2>\n<p>11 月 11 日 - 12 日，时隔三年的 Maker Faire 在深圳重新举办，主题是 “创客今何在”。一个意思是经过三年疫情，散落在世界各地的创客如今都怎么样了？另一个意思是随着科技的进步、商业的成熟，愿意花时间动手 DIY 的人越来越少了，如何重新激发大家的创客精神。</p>\n<p>创客峰会举办前一个月，主办方柴火创客空间问我是否感兴趣，给我一个展示摊位。鉴于最近工作太忙，我婉拒了，决定老老实实当一回观众。于是我约了朋友 Grissiom 和同事 Hywing 一起参加，他们应该是我目前工作生活中距离得最近且具有创客精神伙伴了。</p>\n<p><img data-src=\"/images/journal/20231111-Maker-Faire-01.jpeg\" alt=\"\"></p>\n<h2 id=\"freecodecamp\"><a class=\"markdownIt-Anchor\" href=\"#freecodecamp\">#</a> freeCodeCamp</h2>\n<p>11 月受 Miya 邀请录了一期 freeCodeCamp 中文播客，发布在第 20 期：<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuZnJlZWNvZGVjYW1wLm9yZy9jaGluZXNlL25ld3MvaW50ZXJ2aWV3LXJ1ZHktZW1iZWRkZWQtZGV2ZWxvcG1lbnQtYW5kLW9wZXJhdGluZy1zeXN0ZW1zLw==\">Ep. 20 对话嵌入式软件开发者 Rudy：开源操作系统、公益和教育</span>，👉 <span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cueGlhb3l1emhvdWZtLmNvbS9lcGlzb2RlLzY1NmFjMzExOWY0NDBmNTQ0M2VjNzJlMQ==\">小宇宙链接</span>。第一次录播客，时间仓促，我自己并不是很满意啦，不过也是一次有趣的体验。</p>\n<p><img data-src=\"/images/journal/freeCodeCamp-Podcast-Chinese-20.png\" alt=\"\"></p>\n<p>还不小心登上了 <span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuZnJlZWNvZGVjYW1wLm9yZy9jaGluZXNlL25ld3MvdG9wLW9wZW4tc291cmNlLWNvbnRyaWJ1dG9ycy0yMDIzLw==\">freeCodeCamp 全球开源社区 2023 Top Contributors</span> 大名单，哈哈！</p>\n",
-            "tags": [
-                "日记",
-                "思考"
-            ]
-        },
-        {
-            "id": "https://luhuadong.com/journal/monthly-2023-10.html",
-            "url": "https://luhuadong.com/journal/monthly-2023-10.html",
-            "title": "十月碎碎念：国庆自驾游、自由职业新探索",
-            "date_published": "2023-10-31T12:30:22.000Z",
-            "content_html": "<p>（我还在加班，晚一点点补充）</p>\n<h2 id=\"国庆自驾\"><a class=\"markdownIt-Anchor\" href=\"#国庆自驾\">#</a> 国庆自驾</h2>\n<h2 id=\"商业写作\"><a class=\"markdownIt-Anchor\" href=\"#商业写作\">#</a> 商业写作</h2>\n<p>pbootcms 应用迁移实践</p>\n<h2 id=\"theme-shokax\"><a class=\"markdownIt-Anchor\" href=\"#theme-shokax\">#</a> Theme ShokaX</h2>\n<p>加入 Theme ShokaX 项目</p>\n<h2 id=\"实务学堂月捐人\"><a class=\"markdownIt-Anchor\" href=\"#实务学堂月捐人\">#</a> 实务学堂月捐人</h2>\n<p>10 月 12 日开始参与实务学堂的月捐，</p>\n<img data-src=\"/images/journal/shi-wu-xue-tang-20231012.png\" width=\"400px\" />\n<h2 id=\"可持续生活创变营\"><a class=\"markdownIt-Anchor\" href=\"#可持续生活创变营\">#</a> 可持续生活创变营</h2>\n<h2 id=\"更新网站\"><a class=\"markdownIt-Anchor\" href=\"#更新网站\">#</a> 更新网站</h2>\n<h2 id=\"封闭开发\"><a class=\"markdownIt-Anchor\" href=\"#封闭开发\">#</a> 封闭开发</h2>\n<p>激光雷达高反串扰问题，点云分类</p>\n<h2 id=\"倒计时\"><a class=\"markdownIt-Anchor\" href=\"#倒计时\">#</a> 倒计时</h2>\n<p>退休倒计时，不过其实也不可能退休，应该是想去探索自由职业，换一种生活方式吧。</p>\n<h2 id=\"团贷网登记\"><a class=\"markdownIt-Anchor\" href=\"#团贷网登记\">#</a> 团贷网登记</h2>\n",
-            "tags": [
-                "日记",
-                "思考"
-            ]
-        },
-        {
             "id": "https://luhuadong.com/journal/20230730.html",
             "url": "https://luhuadong.com/journal/20230730.html",
             "title": "聊聊最近让我焦虑的事情",
