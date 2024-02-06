@@ -19,21 +19,22 @@
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
-        <category>Python</category>
-        <category>教孩子学编程</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
         <category>英语</category>
+        <category>英语短文</category>
         <category>学习</category>
         <category>种植</category>
         <category>健身</category>
@@ -43,6 +44,7 @@
         <category>思维</category>
         <category>健康</category>
         <category>Hexo</category>
+        <category>徒步</category>
         <category>科普</category>
         <category>环保</category>
         <category>可持续</category>
@@ -54,6 +56,7 @@
         <category>时间管理</category>
         <category>milestone</category>
         <category>总结</category>
+        <category>年终总结</category>
         <category>慈济</category>
         <category>生活</category>
         <category>RT-Thread</category>
@@ -63,6 +66,7 @@
         <category>思考</category>
         <category>幸福</category>
         <category>猫</category>
+        <category>月报</category>
         <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
@@ -93,10 +97,6 @@
         <category>垃圾分类</category>
         <category>零废弃</category>
         <category>低碳</category>
-        <category>徒步</category>
-        <category>英语短文</category>
-        <category>年终总结</category>
-        <category>月报</category>
         <item>
             <guid isPermalink="true">https://luhuadong.com/radio/radio-brief-history.html</guid>
             <title>无线电发展简史</title>

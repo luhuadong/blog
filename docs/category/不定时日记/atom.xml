@@ -16,21 +16,22 @@
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
     <category term="英语" />
+    <category term="英语短文" />
     <category term="学习" />
     <category term="种植" />
     <category term="健身" />
@@ -40,6 +41,7 @@
     <category term="思维" />
     <category term="健康" />
     <category term="Hexo" />
+    <category term="徒步" />
     <category term="科普" />
     <category term="环保" />
     <category term="可持续" />
@@ -51,6 +53,7 @@
     <category term="时间管理" />
     <category term="milestone" />
     <category term="总结" />
+    <category term="年终总结" />
     <category term="慈济" />
     <category term="生活" />
     <category term="RT-Thread" />
@@ -60,6 +63,7 @@
     <category term="思考" />
     <category term="幸福" />
     <category term="猫" />
+    <category term="月报" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -90,10 +94,6 @@
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
-    <category term="徒步" />
-    <category term="英语短文" />
-    <category term="年终总结" />
-    <category term="月报" />
     <entry>
         <id>https://luhuadong.com/journal/monthly-2024-02.html</id>
         <title>2024年2月碎碎念：结束也是新的开始</title>
@@ -120,11 +120,11 @@
 &lt;li&gt;重新整理「零废弃部落」上的指南和气象服务，网站备案，优化 SEO。&lt;/li&gt;
 &lt;li&gt;整理《从端到云构建物联网原型》专栏，更新所有实验代码，完善云端章节内容。&lt;/li&gt;
 &lt;li&gt;整理《基于树莓派的 Yocto 学习指南》专栏。&lt;/li&gt;
-&lt;li&gt;分析一些商业案例：自媒体、AI 产品、零售（环保商店）、回收等。&lt;/li&gt;
+&lt;li&gt;分析一些商业案例：自媒体、AI 产品、零售（环保商店）、回收等。&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;筹备 RT-Thread 兴趣小组。&lt;/li&gt;
 &lt;li&gt;练习普通话，录制有声书《什么样的爱值得勇敢一次》和《碳中和时代》。&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;阅读亲密关系、婚恋、个人成长相关书籍，包括《亲密关系》、《假性亲密关系》、《爱的五种语言》、《幸福关系的 7 段旅程》、《男人来自火星，女人来自金星》、《突破型谈判》、《精神健康讲记》、《人生只有一件事》、《素食、跑步、修行》、《女性主义》、《厌女》、《始于极限》，梳理自己对亲密关系的需求，争取将自己调整到适合谈恋爱和结婚的状态。&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;重读《穷查理宝典》、《纳瓦尔宝典》、《百万富翁快车道》等书籍，对接下来的工作做一个大致的规划。&lt;/li&gt;
+&lt;li&gt;重读《穷查理宝典》、《纳瓦尔宝典》、《百万富翁快车道》、《原则》等书籍，对接下来的工作做一个大致的规划。&lt;/li&gt;
 &lt;li&gt;整理闲置物品，挂闲鱼出售。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;我知道，一个春节假期无法完成所有事情，何况还要陪伴家人、见见朋友。所以标星的是最重要的，优先处理，其他的做多少算多少吧。&lt;/p&gt;
@@ -214,8 +214,11 @@
 &lt;h2 id=&#34;小结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#小结&#34;&gt;#&lt;/a&gt; 小结&lt;/h2&gt;
 &lt;p&gt;前两周参加朋友的活动，写下了 2024 年的期望 —— 自洽自由。希望 2024 年能更加从容一点，勇气再多一点，可以更好地感受和表达爱和喜悦，做真实的自己，也可以更好地释放创造力，过一种张弛有度的生活。祝大家新年快乐～&lt;/p&gt;
 &lt;p&gt;最后，附上 2024 年的第一次投篮，希望我们都能把握住人生中的每次关键一投！&lt;/p&gt;
-&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=453583924&amp;bvid=BV1G5411i7vX&amp;cid=1400589004&amp;p=1&amp;high_quality=1&amp;danmaku=0&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
-</content>
+&lt;video width=&#34;100%&#34; controls&gt;
+  &lt;source type=&#34;video/mp4&#34; src=&#34;/images/journal/video-20240107-203318.mp4&#34;&gt;
+  您的浏览器不支持 video 标签。
+&lt;/video&gt;
+&lt;br/&gt;</content>
         <category term="总结" />
         <category term="年终总结" />
         <updated>2023-12-31T06:02:26.000Z</updated>
@@ -371,9 +374,34 @@
         <id>https://luhuadong.com/journal/monthly-2023-06.html</id>
         <title>2023年6月碎碎念：如何解脱生活的压力，体现生命的价值</title>
         <link rel="alternate" href="https://luhuadong.com/journal/monthly-2023-06.html"/>
-        <content type="html">&lt;blockquote&gt;
-&lt;p&gt;我好像不会笑了 😶&lt;/p&gt;
-&lt;/blockquote&gt;
+        <content type="html">&lt;p&gt;最近，我好像不会笑了 😶&lt;/p&gt;
+&lt;p&gt;好像上班久了就会失去编程的乐趣，只有做自己觉得有趣的事情，才不会觉得工作太累太枯燥。&lt;/p&gt;
+&lt;h2 id=&#34;上班为什么会这么累&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#上班为什么会这么累&#34;&gt;#&lt;/a&gt; 上班为什么会这么累？&lt;/h2&gt;
+&lt;p&gt;在我的字典里，“上班” 和 “工作” 的含义是不一样的。“工作” 就是做事，是一个人安身立命或实现自我价值的手段之一，无论赚不赚钱，强调的是意义和价值。而 “上班” 是一种个人与公司之间的 “商业交易行为”，公司付费购买员工的劳动时间，员工就必须按照公司的规章制度，在规定时间去到规定地点做规定的事情，无论是否有意义，以及你是否喜欢，带有约束性和强制性。&lt;/p&gt;
+&lt;p&gt;对于敏感、多虑、容易内耗的人来说，上班其实是一件挺痛苦的事！而我刚好就是这样的人。每天上班路上都在想：为什么我会在这里？为什么每天都走一样的路，去一样的地方，和一群那样的人，做那样的事情？似乎上班的兴致还比不过早上一缕阳光透过树叶洒落在脸上所带来的快乐。&lt;/p&gt;
+&lt;video width=&#34;600&#34; controls&gt;
+  &lt;source type=&#34;video/mp4&#34; src=&#34;/images/journal/video-20231207-174948.mp4&#34;&gt;
+  您的浏览器不支持 video 标签。
+&lt;/video&gt;
+&lt;br/&gt;
+&lt;p&gt;每天都要理解并按照别人的思维模式和行为方式做事，是一件非常糟心的事。如果不是为了那份工资，很难说服自己忍气吞声地干活。为了摆脱这种局面，一定要学会掌握主动权。比如要经常和别人争辩、要向上管理、要拒绝职责范围外的工作，但在职场中又会带来新的问题，比如不小心就被裁员了。&lt;/p&gt;
+&lt;p&gt;反正这不会是我们的终点，也不应该成为终点，少加班，多留点时间发展自己的兴趣爱好和副业吧。&lt;/p&gt;
+&lt;p&gt;我十分认同 Jeff Bezos 关于 “工作生活平衡” 的观点：我们不应该追求工作和私人生活的平衡，因为平衡意味着在工作和私人生活中进行取舍。相反，工作和生活之间应该有更全面的关系，它们是互助的关系。如果你在家里很开心，那么当你去办公室工作的时候就会精神满满；如果你在工作的地方很开心，你回家的时候也会精神满满。&lt;/p&gt;
+&lt;p&gt;这确实很值得我们深思！&lt;/p&gt;
+&lt;h2 id=&#34;年度体检&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#年度体检&#34;&gt;#&lt;/a&gt; 年度体检&lt;/h2&gt;
+&lt;p&gt;六月份做了一次体检，出现了一些以前没有的问题。吓到我又跑去医院复查了，结果还是一样。&lt;/p&gt;
+&lt;p&gt;于是，我向公司提出了离职。领导没同意，不过他答应我以后尽量不让我加班。&lt;/p&gt;
+&lt;h2 id=&#34;和朋友喝茶聊天&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#和朋友喝茶聊天&#34;&gt;#&lt;/a&gt; 和朋友喝茶聊天&lt;/h2&gt;
+&lt;p&gt;素创文企的朋友知道我有烦心事，约我每个周末过去喝茶聊聊人生。于是我这段时间去了几趟，也学到了一些茶艺知识。茶盘、茶漏、茶夹、茶宠、茶罐、公道杯、闻香杯、品茗杯… 名词太多了。&lt;/p&gt;
+&lt;img data-src=&#34;/images/journal/20230611-185538.jpeg&#34; width=&#34;600&#34; /&gt;
+&lt;p&gt;这段时间，我问了芳姐和伟权兄很多问题，关于人生、工作、感情方面。他们给我讲了一些故事和人生哲理，还给我推荐了《盔甲骑士：为自己出征》这本书。&lt;/p&gt;
+&lt;p&gt;书中讲述了一个穿着亮闪闪的盔甲的骑士，由于他太喜欢他的盔甲，以至于无论吃饭还是睡觉他都从来不脱下盔甲，他的妻子和儿子都忘记了他的长相了。有一天，妻子很伤心地和他要决裂，他为了不失去妻子儿子，想要脱下盔甲，但却发现怎么都脱不下来。于是，他找到能够帮助他脱下盔甲的魔法师，魔法师告诉骑士，要脱下盔甲，他必须要通过三个城堡。这时，一直很痛苦低落闷闷不乐的骑士，开心地叫了起来：我知道！！每个城堡里都有一个公主在等我拯救！！然而魔法师却告诉他，你不要再去想救什么公主了，你必须首先想想怎么拯救自己。从此，骑士开始了解脱盔甲、寻找自我的征程。&lt;/p&gt;
+&lt;p&gt;这个故事很有代入感，我看完之后受到一些启发 —— 其实有时候，我何尝不是一个戴着盔甲的骑士，如果我不爱自己，那么我也无法爱别人。&lt;/p&gt;
+&lt;h2 id=&#34;唉没有去新疆旅游&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#唉没有去新疆旅游&#34;&gt;#&lt;/a&gt; 唉，没有去新疆旅游&lt;/h2&gt;
+&lt;p&gt;春萍很早之前就约我去新疆旅游，不过我又拒绝她了，这次一大早送她去机场。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/journal/20230529-183804.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;大概一周后，她旅游回来了，给我带了几个馕饼。于是，接下来一周，我每天都在吃饼。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/journal/20230609-185501.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </content>
         <category term="日记" />
         <category term="月报" />
@@ -411,7 +439,7 @@
         <id>https://luhuadong.com/journal/monthly-2023-05.html</id>
         <title>2023年5月碎碎念：高温、裁员、职业倦怠、运动的快乐</title>
         <link rel="alternate" href="https://luhuadong.com/journal/monthly-2023-05.html"/>
-        <content type="html">&lt;p&gt;天天上班，天天加班，感觉好久没有记录生活了，决定以后每个月都要写一篇碎碎念，分享一下近期的生活和感悟吧。这是第一期，所以可能会包含不止五月份发生的事情哦～&lt;/p&gt;
+        <content type="html">&lt;p&gt;天天上班，天天加班，感觉好久没有记录生活了，决定以后每个月都要写一篇碎碎念，记录一下近期的生活和感悟吧。这是第一期，所以可能会包含不止五月份发生的事情哦～&lt;/p&gt;
 &lt;h2 id=&#34;高温天气&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#高温天气&#34;&gt;#&lt;/a&gt; 高温天气&lt;/h2&gt;
 &lt;p&gt;想不到五月份的广州就已经这么热，反正我现在是离不开空调了！想起以前抠门夏天也不舍得开空调的我，真的应了那句话 —— 由俭入奢易，由奢入俭难。&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/journal/20230611-000001.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -441,13 +469,12 @@
 &lt;p&gt;好像从高三开始就变得焦虑了，总是要和别人竞争对比，其实是一件很折磨人的事情。以前担任体育委员，我一直这样告诉自己和身边的朋友：“不要给自己太大压力呀，每天都要运动一下，只要保持健康的身体，慢慢努力就会变好的！”&lt;/p&gt;
 &lt;p&gt;这几周开始，每周四晚上都和几个合得来的同事一起打羽毛球，他们说运动可以产生多巴胺，让人更快乐。我的车里也总是放着篮球和羽毛球，可以提醒我要多点运动。现在每次给我的车充电时，我也会在旁边练习篮球，会有一种很踏实、快乐的感觉。&lt;/p&gt;
 &lt;video width=&#34;600&#34; controls&gt;
-  &lt;source type=&#34;video/mp4&#34; src=&#34;/images/journal/20230528-230033.mp4&#34;&gt;
+  &lt;source type=&#34;video/mp4&#34; src=&#34;/images/journal/video-20230528-230033.mp4&#34;&gt;
   您的浏览器不支持 video 标签。
 &lt;/video&gt;
 &lt;br/&gt;
 &lt;p&gt;过去一年，逐渐变得焦虑，睡眠质量也差了好多。每次看到有人因为工作而猝死，就会想：我们上辈子到底造了什么孽？这辈子要天天拼命上班，拼命加班！Fuck，老子不干了！&lt;/p&gt;
 &lt;p&gt;一辈子很短，要多运动、多休息，专注地去做你觉得有趣的事情，一定会是一个丰富而生动的人生！&lt;/p&gt;
-&lt;p&gt;（2023.06.09 晚）&lt;/p&gt;
 </content>
         <category term="日记" />
         <category term="月报" />

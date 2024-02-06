@@ -16,21 +16,22 @@
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
     <category term="英语" />
+    <category term="英语短文" />
     <category term="学习" />
     <category term="种植" />
     <category term="健身" />
@@ -40,6 +41,7 @@
     <category term="思维" />
     <category term="健康" />
     <category term="Hexo" />
+    <category term="徒步" />
     <category term="科普" />
     <category term="环保" />
     <category term="可持续" />
@@ -51,6 +53,7 @@
     <category term="时间管理" />
     <category term="milestone" />
     <category term="总结" />
+    <category term="年终总结" />
     <category term="慈济" />
     <category term="生活" />
     <category term="RT-Thread" />
@@ -60,6 +63,7 @@
     <category term="思考" />
     <category term="幸福" />
     <category term="猫" />
+    <category term="月报" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -90,10 +94,6 @@
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
-    <category term="徒步" />
-    <category term="英语短文" />
-    <category term="年终总结" />
-    <category term="月报" />
     <entry>
         <id>https://luhuadong.com/journal/2023-year-end-summary.html</id>
         <title>我的2023——现实的理想主义者</title>
@@ -147,8 +147,11 @@
 &lt;h2 id=&#34;小结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#小结&#34;&gt;#&lt;/a&gt; 小结&lt;/h2&gt;
 &lt;p&gt;前两周参加朋友的活动，写下了 2024 年的期望 —— 自洽自由。希望 2024 年能更加从容一点，勇气再多一点，可以更好地感受和表达爱和喜悦，做真实的自己，也可以更好地释放创造力，过一种张弛有度的生活。祝大家新年快乐～&lt;/p&gt;
 &lt;p&gt;最后，附上 2024 年的第一次投篮，希望我们都能把握住人生中的每次关键一投！&lt;/p&gt;
-&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=453583924&amp;bvid=BV1G5411i7vX&amp;cid=1400589004&amp;p=1&amp;high_quality=1&amp;danmaku=0&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
-</content>
+&lt;video width=&#34;100%&#34; controls&gt;
+  &lt;source type=&#34;video/mp4&#34; src=&#34;/images/journal/video-20240107-203318.mp4&#34;&gt;
+  您的浏览器不支持 video 标签。
+&lt;/video&gt;
+&lt;br/&gt;</content>
         <category term="总结" />
         <category term="年终总结" />
         <updated>2023-12-31T06:02:26.000Z</updated>

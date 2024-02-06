@@ -19,21 +19,22 @@
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
-        <category>Python</category>
-        <category>教孩子学编程</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
         <category>英语</category>
+        <category>英语短文</category>
         <category>学习</category>
         <category>种植</category>
         <category>健身</category>
@@ -43,6 +44,7 @@
         <category>思维</category>
         <category>健康</category>
         <category>Hexo</category>
+        <category>徒步</category>
         <category>科普</category>
         <category>环保</category>
         <category>可持续</category>
@@ -54,6 +56,7 @@
         <category>时间管理</category>
         <category>milestone</category>
         <category>总结</category>
+        <category>年终总结</category>
         <category>慈济</category>
         <category>生活</category>
         <category>RT-Thread</category>
@@ -63,6 +66,7 @@
         <category>思考</category>
         <category>幸福</category>
         <category>猫</category>
+        <category>月报</category>
         <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
@@ -93,10 +97,6 @@
         <category>垃圾分类</category>
         <category>零废弃</category>
         <category>低碳</category>
-        <category>徒步</category>
-        <category>英语短文</category>
-        <category>年终总结</category>
-        <category>月报</category>
         <item>
             <guid isPermalink="true">https://luhuadong.com/journal/2023-year-end-summary.html</guid>
             <title>我的2023——现实的理想主义者</title>
@@ -153,8 +153,11 @@
 &lt;h2 id=&#34;小结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#小结&#34;&gt;#&lt;/a&gt; 小结&lt;/h2&gt;
 &lt;p&gt;前两周参加朋友的活动，写下了 2024 年的期望 —— 自洽自由。希望 2024 年能更加从容一点，勇气再多一点，可以更好地感受和表达爱和喜悦，做真实的自己，也可以更好地释放创造力，过一种张弛有度的生活。祝大家新年快乐～&lt;/p&gt;
 &lt;p&gt;最后，附上 2024 年的第一次投篮，希望我们都能把握住人生中的每次关键一投！&lt;/p&gt;
-&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=453583924&amp;bvid=BV1G5411i7vX&amp;cid=1400589004&amp;p=1&amp;high_quality=1&amp;danmaku=0&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
- ]]></description>
+&lt;video width=&#34;100%&#34; controls&gt;
+  &lt;source type=&#34;video/mp4&#34; src=&#34;/images/journal/video-20240107-203318.mp4&#34;&gt;
+  您的浏览器不支持 video 标签。
+&lt;/video&gt;
+&lt;br/&gt; ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/journal/2022-year-end-summary.html</guid>

@@ -3,7 +3,7 @@
     <id>https://luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;社会现象&#34; tag</title>
     <link href="https://luhuadong.com" />
-    <updated>2023-10-17T17:37:12.000Z</updated>
+    <updated>2024-02-06T06:26:15.000Z</updated>
     <category term="商业" />
     <category term="成长" />
     <category term="日记" />
@@ -16,21 +16,22 @@
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
     <category term="英语" />
+    <category term="英语短文" />
     <category term="学习" />
     <category term="种植" />
     <category term="健身" />
@@ -40,6 +41,7 @@
     <category term="思维" />
     <category term="健康" />
     <category term="Hexo" />
+    <category term="徒步" />
     <category term="科普" />
     <category term="环保" />
     <category term="可持续" />
@@ -51,6 +53,7 @@
     <category term="时间管理" />
     <category term="milestone" />
     <category term="总结" />
+    <category term="年终总结" />
     <category term="慈济" />
     <category term="生活" />
     <category term="RT-Thread" />
@@ -60,6 +63,7 @@
     <category term="思考" />
     <category term="幸福" />
     <category term="猫" />
+    <category term="月报" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -90,10 +94,25 @@
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
-    <category term="徒步" />
-    <category term="英语短文" />
-    <category term="年终总结" />
-    <category term="月报" />
+    <entry>
+        <id>https://luhuadong.com/inchina/the-one-person-unicorn-startup.html</id>
+        <title>一人独角兽</title>
+        <link rel="alternate" href="https://luhuadong.com/inchina/the-one-person-unicorn-startup.html"/>
+        <content type="html">&lt;p&gt;“独角兽公司” 是投资界的一个术语，是指那些成立不超过 10 年但估值超过 10 亿美元（$1 billion），且未在股票市场上市的科技创业公司。&lt;/p&gt;
+&lt;p&gt;按照以往的认知，这种体量的公司至少要有几百名员工才能撑起来。但在 AI 时代，这种认知被颠覆了，我们可能很快就会看到一种全新的创业公司，即&lt;strong&gt;一个人的独角兽公司&lt;/strong&gt;。2024 年 2 月，OpenAI CEO Sam Altman 在接受 Reddit 联合创始人 Alexis Ohanian 的采访时表示：“因为 AI，人类历史上将首次出现一个人的公司就能市值过十亿没有，如果没有 AI，这是不可想象的，但未来可能会成为常态。”&lt;/p&gt;
+&lt;p&gt;当然，一人独角兽的定义并没有限制公司必须只有一个人，那些小团队高估值（高收入）的公司也都属于这个行列。比如 Instagram 以 10 亿美元的价格卖给 Facebook 时，员工只有 13 人；WhatsApp 在只有 35 名工程师的情况下支持了全球 4.5 亿用户，并以 190 亿美元被 Facebook 收购；还有当下的 AI 绘图软件 Midjourney，只有 11 名全职员工，在零融资的情况下，一年时间积累了 1300 万用户和一亿美金的营收。&lt;/p&gt;
+&lt;p&gt;我们知道，创业公司的最大特点就是快速行动，而 AI 将会把这种能力急剧放大，因为 AI 可以自动化许多过去需要更多人来操作的过程。试想一下，如果你能减少员工数量，每一项业务操作都会变得更简单。人数较少意味着创始人会有更少的会议、更少的分歧、更少的政治斗争、更快的决策制定，以及更快的实验；更少的人意味着更少的招聘、面试、雇佣、入职培训、指导、绩效评估、文化建设、戏剧性的离职和解雇；越少的人意味着花费在薪资上的开支越少，花费在融资上的时间越少，从风险投资公司筹集的资金越少，对创始人的稀释也越少。&lt;/p&gt;
+&lt;p&gt;我认为，创业团队人少而精才是正解。但人少，并不意味着做的事情小。反而由于不需要招那么多人，可以不拿融资，也就没有那么大的销售压力，可以慢慢打磨产品，坚持初心，做自己喜欢且有意义的事。&lt;/p&gt;
+&lt;p&gt;AI 时代，也许我们不应该再问孩子：你长大后想当什么？，而是问：你长大后想解决什么问题？&lt;/p&gt;
+&lt;h2 id=&#34;参考&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#参考&#34;&gt;#&lt;/a&gt; 参考&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9uZXdzL2NvdWxkLWFpLWNyZWF0ZS1vbmUtcGVyc29uLTEyMDAwMDcyMi5odG1s&#34;&gt;Could AI create a one-person unicorn? &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYWl4aW56aGlqaWUuY29tL2FydGljbGUvNjg0NDc3NA==&#34;&gt;Sam Altman: AI 时代，1 个人的独角兽公司即将成为可能&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="社会现象" />
+        <updated>2024-02-06T06:26:15.000Z</updated>
+    </entry>
     <entry>
         <id>https://luhuadong.com/inchina/digital-nomads.html</id>
         <title>数字游民</title>
