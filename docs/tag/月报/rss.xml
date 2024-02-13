@@ -41,7 +41,6 @@
         <category>气象爱好者</category>
         <category>指南</category>
         <category>自律</category>
-        <category>思维</category>
         <category>健康</category>
         <category>Hexo</category>
         <category>徒步</category>
@@ -97,6 +96,7 @@
         <category>垃圾分类</category>
         <category>零废弃</category>
         <category>低碳</category>
+        <category>思维模型</category>
         <item>
             <guid isPermalink="true">https://luhuadong.com/journal/monthly-2024-02.html</guid>
             <title>2024年2月碎碎念：结束也是新的开始</title>
@@ -250,18 +250,21 @@
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/journal/monthly-2023-07.html</guid>
-            <title>2023年7月碎碎念：机会成本</title>
+            <title>2023年7月碎碎念：机会成本和遗憾最小化模型</title>
             <link>https://luhuadong.com/journal/monthly-2023-07.html</link>
             <category>日记</category>
             <category>月报</category>
             <pubDate>Mon, 31 Jul 2023 20:38:24 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;如果你是一个高级工程师或者高级管理者，你所做的一切都有很高的机会成本，所以你选择的工作必须很重要。&lt;/p&gt;
-&lt;p&gt;机会成本 (opportunity cost) 是指企业为从事某项经营活动而放弃另一项经营活动的机会，或利用一定资源获得某种收入时所放弃的另一种收入。 另一项经营活动应取得的收益或另一种收入即为正在从事的经营活动的机会成本。&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;上个月提了离职，想加入 openEuler 团队，所以花了一些心思在是否换工作这件事情上。&lt;/p&gt;
+&lt;h2 id=&#34;机会成本&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#机会成本&#34;&gt;#&lt;/a&gt; 机会成本&lt;/h2&gt;
+&lt;p&gt;如果你是一个高级工程师或者高级管理者，你所做的一切都有很高的机会成本，所以你选择的工作必须很重要。&lt;/p&gt;
+&lt;p&gt;机会成本（opportunity cost）是指企业为从事某项经营活动而放弃另一项经营活动的机会，或利用一定资源获得某种收入时所放弃的另一种收入。另一项经营活动应取得的收益或另一种收入即为正在从事的经营活动的机会成本。&lt;/p&gt;
 &lt;p&gt;机会成本指的是，人经常需要做单选题，选择了其中一个最优选项，就必须放弃其他选项，其中被放弃的次优选择的价值，就是这次选择的机会成本，又称为「替代性成本」。&lt;/p&gt;
 &lt;p&gt;正如我们常常听说的「鱼与熊掌不可兼得「，当手里的钱有限，假如你买了熊掌，就买不起鱼了，那么你放弃的鱼，就是这次选择的机会成本。&lt;/p&gt;
 &lt;p&gt;机会成本存在的前提，主要有两个。其一，资源有多种用途，其二，资源是稀缺的。这里的资源包括金钱、时间、土地等一切有价值的东西。&lt;/p&gt;
 &lt;p&gt;例如，同样一笔钱，既可以用来买股票，也可以存在银行。同时，钱是有限、稀缺的，一旦全用来买股票了，就不能存银行了。&lt;/p&gt;
-&lt;p&gt;参考：&lt;/p&gt;
+&lt;h2 id=&#34;遗憾最小化模型&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#遗憾最小化模型&#34;&gt;#&lt;/a&gt; 遗憾最小化模型&lt;/h2&gt;
+&lt;h2 id=&#34;参考&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#参考&#34;&gt;#&lt;/a&gt; 参考&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zbXlhY2hlbmtvdi5jb20vcG9zdHMvYm9vay1yZXZpZXctdGhlLXN0YWZmLWVuZ2luZWVycy1wYXRoLw==&#34;&gt;高级工程师的道路&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93aWtpLm1iYWxpYi5jb20vd2lraS8lRTYlOUMlQkElRTQlQkMlOUElRTYlODglOTAlRTYlOUMlQUM=&#34;&gt;机会成本&lt;/span&gt;&lt;/li&gt;

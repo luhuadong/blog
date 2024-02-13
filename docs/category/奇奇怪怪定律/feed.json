@@ -5,6 +5,16 @@
     "home_page_url": "https://luhuadong.com",
     "items": [
         {
+            "id": "https://luhuadong.com/principle/regret-minimization-framwork.html",
+            "url": "https://luhuadong.com/principle/regret-minimization-framwork.html",
+            "title": "最小遗憾化框架",
+            "date_published": "2024-02-07T12:31:24.000Z",
+            "content_html": "<p>最小遗憾化框架（Regret Minimization Framwork）是亚马逊公司创始人杰夫・贝索斯提出的一个概念，是一个避免遗憾的决策思维模型。在这个模型中，需要把遗憾放在决策推演的核心。</p>\n<h2 id=\"提出背景\"><a class=\"markdownIt-Anchor\" href=\"#提出背景\">#</a> 提出背景</h2>\n<h2 id=\"决策思路\"><a class=\"markdownIt-Anchor\" href=\"#决策思路\">#</a> 决策思路</h2>\n<p><img data-src=\"/images/principle/TheRegretMinimizationFramwork.png\" alt=\"\"></p>\n",
+            "tags": [
+                "思维模型"
+            ]
+        },
+        {
             "id": "https://luhuadong.com/principle/barbell-strategy.html",
             "url": "https://luhuadong.com/principle/barbell-strategy.html",
             "title": "杠铃策略",

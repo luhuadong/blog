@@ -38,7 +38,6 @@
     <category term="气象爱好者" />
     <category term="指南" />
     <category term="自律" />
-    <category term="思维" />
     <category term="健康" />
     <category term="Hexo" />
     <category term="徒步" />
@@ -94,6 +93,7 @@
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
+    <category term="思维模型" />
     <entry>
         <id>https://luhuadong.com/guide/how-to-wake-up-at-5am-every-day.html</id>
         <title>如何做到每天清晨五点起床</title>
@@ -534,7 +534,7 @@
 &lt;p&gt;现在你已经做出了选择，但还剩下一个挑战，就是执行这一选择，&lt;strong&gt;努力让它成为真正的最佳选择&lt;/strong&gt;。&lt;/p&gt;
 </content>
         <category term="指南" />
-        <category term="思维" />
+        <category term="思维模型" />
         <updated>2021-04-18T04:27:44.000Z</updated>
     </entry>
     <entry>

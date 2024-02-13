@@ -41,7 +41,6 @@
         <category>气象爱好者</category>
         <category>指南</category>
         <category>自律</category>
-        <category>思维</category>
         <category>健康</category>
         <category>Hexo</category>
         <category>徒步</category>
@@ -97,6 +96,7 @@
         <category>垃圾分类</category>
         <category>零废弃</category>
         <category>低碳</category>
+        <category>思维模型</category>
         <item>
             <guid isPermalink="true">https://luhuadong.com/guide/how-to-wake-up-at-5am-every-day.html</guid>
             <title>如何做到每天清晨五点起床</title>
@@ -489,7 +489,7 @@
             <title>有选择困难症怎么办？三个步骤帮你治好</title>
             <link>https://luhuadong.com/guide/fobo.html</link>
             <category>指南</category>
-            <category>思维</category>
+            <category>思维模型</category>
             <pubDate>Sun, 18 Apr 2021 12:27:44 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/guide/FOBO.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;「&lt;strong&gt;FOBO&lt;/strong&gt;」是 “Fear Of Better Options” 的缩写，即 “更佳选择恐惧症”，也就是我们常说的 “选择困难症”。&lt;/p&gt;

@@ -38,7 +38,6 @@
     <category term="气象爱好者" />
     <category term="指南" />
     <category term="自律" />
-    <category term="思维" />
     <category term="健康" />
     <category term="Hexo" />
     <category term="徒步" />
@@ -94,6 +93,7 @@
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
+    <category term="思维模型" />
     <entry>
         <id>https://luhuadong.com/zerowaste/cloud-computing-and-carbon-neutrality.html</id>
         <title>云计算与碳中和</title>
