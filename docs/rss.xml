@@ -118,11 +118,11 @@
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/principle/regret-minimization-framwork.html</guid>
-            <title>最小遗憾化框架</title>
+            <title>遗憾最小化框架</title>
             <link>https://luhuadong.com/principle/regret-minimization-framwork.html</link>
             <category>思维模型</category>
             <pubDate>Wed, 07 Feb 2024 20:31:24 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;最小遗憾化框架（Regret Minimization Framwork）是亚马逊（Amazon）公司创始人杰夫・贝索斯（Jeff Bezos）提出的一个概念，是一个避免遗憾的决策思维模型。在这个模型中，需要把遗憾放在决策推演的核心。&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;遗憾最小化框架（Regret Minimization Framwork）是亚马逊（Amazon）公司创始人杰夫・贝索斯（Jeff Bezos）提出的一个概念，是一个避免遗憾的决策思维模型。在这个模型中，需要把遗憾放在决策推演的核心。&lt;/p&gt;
 &lt;h2 id=&#34;提出背景&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#提出背景&#34;&gt;#&lt;/a&gt; 提出背景&lt;/h2&gt;
 &lt;p&gt;贝索斯在创立 Amazon 之前，一直在华尔街打拼，收入颇丰，成绩傲人。&lt;/p&gt;
 &lt;p&gt;1994 年，贝索斯发现互联网的使用量以每年 2300% 的速度增长，这个数据令他萌生了辞职创业的想法。&lt;/p&gt;
@@ -132,7 +132,7 @@
 &lt;p&gt;最后，他找到了一个能助大家轻松做出人生的重大决定的框架，他将其称作 “遗憾最小化框架”，并坦言道这是影响他一生的理论。&lt;/p&gt;
 &lt;p&gt;1995 年，贝索斯 30 岁，他辞去了在对冲基金公司的高薪职位，甚至放弃了年终奖，搬到西雅图，在车库创办了亚马逊。1997 年，亚马逊成为一家上市公司，贝索斯也从打包图书订单的人摇身一变成为全球 35 岁以下最富有的人之一。1999 年，亚马逊的总市值超过 300 亿美元，贝索斯的身价达到 100 亿美元，被《时代》杂志评为 “年度人物”，并称他为 “电子商务之王”。&lt;/p&gt;
 &lt;h2 id=&#34;决策思路&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#决策思路&#34;&gt;#&lt;/a&gt; 决策思路&lt;/h2&gt;
-&lt;p&gt;“最小遗憾化框架” 的概念其实很简单，贝索斯当年就给了自己三个非常简单的思维指令：&lt;/p&gt;
+&lt;p&gt;“遗憾最小化框架” 的概念其实很简单，贝索斯当年就给了自己三个非常简单的思维指令：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;想象你自己已经 80 岁了。&lt;/li&gt;
 &lt;li&gt;在这个年纪回首今生，你想要尽量减少人生中留下的遗憾。&lt;/li&gt;
