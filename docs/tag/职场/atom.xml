@@ -94,6 +94,9 @@
     <category term="零废弃" />
     <category term="低碳" />
     <category term="思维模型" />
+    <category term="开发者" />
+    <category term="性格测试" />
+    <category term="AI" />
     <entry>
         <id>https://luhuadong.com/career/career-path-dependence.html</id>
         <title>摆脱职业路径依赖</title>
@@ -268,19 +271,108 @@
         <id>https://luhuadong.com/career/remote-companies.html</id>
         <title>支持远程办公的公司</title>
         <link rel="alternate" href="https://luhuadong.com/career/remote-companies.html"/>
-        <content type="html">&lt;h2 id=&#34;国内&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#国内&#34;&gt;#&lt;/a&gt; 国内&lt;/h2&gt;
+        <content type="html">&lt;h2 id=&#34;国内企业&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#国内企业&#34;&gt;#&lt;/a&gt; 国内企业&lt;/h2&gt;
 &lt;h3 id=&#34;极狐-gitlab&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#极狐-gitlab&#34;&gt;#&lt;/a&gt; 极狐 GitLab&lt;/h3&gt;
 &lt;p&gt;极狐 GitLab，是一应俱全的一站式 DevOps 平台，提供与独立应用完全一致的使用体验，从根本上改变开发、安全和运维团队的协同工作方式。极狐 GitLab 专注于解决中国用户需求的，是 GitLab DevOps 平台的中国发行版。&lt;/p&gt;
 &lt;p&gt;极狐（GitLab）公司以 “开源开放，人人贡献” 为原则，致力于推进开源生态与产业的结合。我们希望通过极狐 GitLab 开源平台，为中国用户提供全球领先的 “软件创新加速器”。&lt;/p&gt;
-&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRsYWIuY24v&#34;&gt;https://gitlab.cn&lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&#34;国外&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#国外&#34;&gt;#&lt;/a&gt; 国外&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：51-200 人&lt;/li&gt;
+&lt;li&gt;行业：信息服务&lt;/li&gt;
+&lt;li&gt;总部：Hong Kong&lt;/li&gt;
+&lt;li&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRsYWIuY24v&#34;&gt;https://gitlab.cn&lt;/span&gt;，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvamlodS1naXRsYWIv&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;国外企业&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#国外企业&#34;&gt;#&lt;/a&gt; 国外企业&lt;/h2&gt;
 &lt;h3 id=&#34;fossasia&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#fossasia&#34;&gt;#&lt;/a&gt; FOSSASIA&lt;/h3&gt;
-&lt;p&gt;FOSSASIA 是帮助自由和开源技术开发者和 Maker 的非营利组织。它由 Hong Phuc Dang 和 Mario Behling 成立。FOSSASIA 的目的是发展和套用开源技术以配合社会转变，并把重点放在亚洲用户。&lt;/p&gt;
-&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9mb3NzYXNpYS5vcmcv&#34;&gt;https://fossasia.org&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;FOSSASIA 是帮助自由和开源技术开发者和 Maker 的非营利组织。它由 Hong Phuc Dang 和 Mario Behling 于 2009 年成立。FOSSASIA 的目的是发展和套用开源技术以配合社会转变，并把重点放在亚洲用户。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：501-1,000 人&lt;/li&gt;
+&lt;li&gt;行业：信息技术和服务&lt;/li&gt;
+&lt;li&gt;总部：Singapore&lt;/li&gt;
+&lt;li&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9mb3NzYXNpYS5vcmcv&#34;&gt;https://fossasia.org&lt;/span&gt;，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvZm9zc2FzaWEv&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;canonical&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#canonical&#34;&gt;#&lt;/a&gt; Canonical&lt;/h3&gt;
 &lt;p&gt;Canonical（科能软件）公司由南非的企业家马克・沙特尔沃思创建，其创立目的是为了促进开源软件项目的发展。著名的 Linux 发行版 Ubuntu 就是由 Canonical 公司开发和维护。&lt;/p&gt;
 &lt;p&gt;Canonical 在全球（包括中国大陆）释放出了一些支持远程办公的职位，例如 Embedded &amp;amp; Desktop Linux Systems Engineer，你可以在 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY2Fub25pY2FsL2pvYnMv&#34;&gt;Linkedin&lt;/span&gt; 上找到它们。&lt;/p&gt;
-&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jYW5vbmljYWwuY29t&#34;&gt;https://canonical.com&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：501-1,000 人&lt;/li&gt;
+&lt;li&gt;行业：软件开发&lt;/li&gt;
+&lt;li&gt;总部：England，London&lt;/li&gt;
+&lt;li&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jYW5vbmljYWwuY29t&#34;&gt;https://canonical.com&lt;/span&gt;，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY2Fub25pY2FsLw==&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;flashintel&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#flashintel&#34;&gt;#&lt;/a&gt; FlashIntel&lt;/h3&gt;
+&lt;p&gt;A premier Go-to-Market Intelligence company that strengthens revenue teams by improving their capacity to discover and connect with ideal customer profiles. Our all-inclusive solutions combine sales intelligence and engagement functionalities within a unified platform, allowing revenue teams to refine their workflows and concentrate on achieving enhanced performance.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：51-200 人&lt;/li&gt;
+&lt;li&gt;行业：科技、信息和媒体&lt;/li&gt;
+&lt;li&gt;总部：CA，San Francisco&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvbXlmbGFzaGNsb3VkLw==&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;英伟达&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#英伟达&#34;&gt;#&lt;/a&gt; 英伟达&lt;/h3&gt;
+&lt;p&gt;Since its founding in 1993, NVIDIA (NASDAQ: NVDA) has been a pioneer in accelerated computing. The company’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined computer graphics, ignited the era of modern AI and is fueling the creation of the metaverse. NVIDIA is now a full-stack computing company with data-center-scale offerings that are reshaping industry.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：大于 10,000 人&lt;/li&gt;
+&lt;li&gt;行业：计算机硬件制造业&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvbnZpZGlhLw==&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ebay&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#ebay&#34;&gt;#&lt;/a&gt; eBay&lt;/h3&gt;
+&lt;p&gt;eBay has more than 15 years experience of building and running cloud, and now we are in the transition to the 3rd generation cloud platform with the most advanced technologies supporting eBay business rapid growth. This platform is aimed to inspire the eBay developers to be more innovative and productive, and empower them with full stack offerings from infrastructure to application. Meanwhile, the eBay Cloud is engineered for reliability, scalability and security all the time.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：大于 10,000 人&lt;/li&gt;
+&lt;li&gt;行业：科技、信息和网络&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvZWJheS8=&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;wish&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#wish&#34;&gt;#&lt;/a&gt; Wish&lt;/h3&gt;
+&lt;p&gt;Wish is a mobile e-commerce platform that connects millions of consumers with the widest selection of products delivered directly to their doors. Our vision is to unlock ecommerce for the underserved by giving everyone access to the most affordable and convenient shopping experience on the planet.&lt;/p&gt;
+&lt;p&gt;Wish is headquartered in San Francisco, with additional offices around the world.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：501-1,000 人&lt;/li&gt;
+&lt;li&gt;行业：软件开发&lt;/li&gt;
+&lt;li&gt;总部：CA，San Francisco&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvd2lzaHNob3BwaW5nLw==&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ffw&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#ffw&#34;&gt;#&lt;/a&gt; FFW&lt;/h3&gt;
+&lt;p&gt;FFW is a global digital platform agency that combines data insights, strategy, design, and development to design, build and scale engaging experiences and to impact our clients’ businesses. With more than 800 experts worldwide, we act as digital experience navigators that our clients trust.&lt;/p&gt;
+&lt;p&gt;Founded in 2000 in Copenhagen, we are now based in eleven countries – from the United States to Vietnam – and work on award-winning projects for Fortune 2000 companies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：501-1,000 人&lt;/li&gt;
+&lt;li&gt;行业：软件开发&lt;/li&gt;
+&lt;li&gt;总部：Denmark，Copenhagen&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvZmZ3Lw==&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;epam-systems&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#epam-systems&#34;&gt;#&lt;/a&gt; EPAM Systems&lt;/h3&gt;
+&lt;p&gt;Since 1993, EPAM Systems, Inc. (NYSE: EPAM) has used its software engineering expertise to become a leading global provider of digital engineering, cloud and AI-enabled transformation services, as well as a leading business and experience consulting partner for global enterprises and ambitious startups. We address our clients’ transformation challenges by fusing EPAM Continuum’s integrated strategy, experience and technology consulting with our 30+ years of engineering execution to speed our clients’ time to market and drive greater value from their innovations and digital investments.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：大于 10,000 人&lt;/li&gt;
+&lt;li&gt;行业：IT 服务与咨询&lt;/li&gt;
+&lt;li&gt;总部：PA，Newtown&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvZXBhbS1zeXN0ZW1zLw==&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;lime&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#lime&#34;&gt;#&lt;/a&gt; Lime&lt;/h3&gt;
+&lt;p&gt;Lime is the world’s largest shared electric vehicle company. We’re on a mission to build a future where transportation is shared, affordable and carbon-free. Our electric bikes and scooters have powered 400+ million rides in 250+ cities on 5 continents, replacing an estimated 100+ million car trips. Named a Time 100 Most Influential Company and Fast Company Brand That Matters, we achieved a fully profitable year in 2022, becoming the first in our industry to reach this milestone.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：501-1,000 人&lt;/li&gt;
+&lt;li&gt;行业：软件开发&lt;/li&gt;
+&lt;li&gt;总部：CA，San Francisco&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvbGltZWJpa2Uv&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;edb&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#edb&#34;&gt;#&lt;/a&gt; EDB&lt;/h3&gt;
+&lt;p&gt;EDB provides enterprise-class software and services that enable businesses and governments to harness the full power of Postgres, the world’s leading open-source database. With offices worldwide, EDB serves more than 1,500 customers, including leading financial services, government, media and communications and information technology organizations. As one of the leading contributors to the vibrant and fast-growing Postgres community, EDB is committed to driving technology innovation.&lt;/p&gt;
+&lt;p&gt;With deep database expertise, EDB ensures high availability, reliability, security, 24x7 global support and advanced professional services, both on-premises and in the cloud. This empowers enterprises to control risk, manage costs and scale efficiently. For more information, visit &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5lbnRlcnByaXNlZGIuY29t&#34;&gt;www.enterprisedb.com&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：501-1,000 人&lt;/li&gt;
+&lt;li&gt;行业：软件开发&lt;/li&gt;
+&lt;li&gt;总部：MA，Bedford&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvZWRicG9zdGdyZXMv&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;varian&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#varian&#34;&gt;#&lt;/a&gt; Varian&lt;/h3&gt;
+&lt;p&gt;At Varian, a Siemens Healthineers company, we envision a world without fear of cancer. For more than 75 years, Varian has developed, built, and delivered innovative technologies and solutions that help care providers around the globe treat millions of patients each year. Today, as a Siemens Healthineers company, we support every step of the cancer care journey – from screening to survivorship. From advanced imaging and radiation therapy, to comprehensive software and services, to interventional radiology, we are harnessing the power of our perspective while also pursuing clinical research to create a more efficient, and more personalized care pathway. Because, for cancer patients everywhere, their fight is our fight.&lt;/p&gt;
+&lt;p&gt;Varian reserves the right to remove any comment for any reason and ban any user from its page at its sole discretion. Varian does not endorse user comments on its page and cannot confirm their accuracy. User comments do not necessarily represent the ideas, thoughts, beliefs, opinions or views of Varian, or any of its affiliates.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：5,000-10,000 人&lt;/li&gt;
+&lt;li&gt;行业：医疗设备&lt;/li&gt;
+&lt;li&gt;总部：CA，Palo Alto&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvdmFyaWFuLW1lZGljYWwtc3lzdGVtcy8=&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
         <category term="程序员" />
         <category term="职场" />
@@ -440,6 +532,13 @@
         <content type="html">&lt;p&gt;今晚做了两次 MBTI 测试，一次是 28 题版的，结果是 INTP，另一次是 93 题版的 INTJ。&lt;/p&gt;
 &lt;p&gt;测试地址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93ZWxlZmVuLmNvbS9sYWIvbWJ0aS8=&#34;&gt;https://welefen.com/lab/mbti/&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/career/MBTI-01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;MBTI 通过四个维度来描述人格类型，每个维度都包含两个相对的极端特征。以下是这四个维度及其对应的特征：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;外向（ &lt;code&gt;E&lt;/code&gt; ）与内向（ &lt;code&gt;I&lt;/code&gt; ）：外向者从外部世界获得能量，喜欢社交和交流；内向者则从内部世界获得能量，更倾向于独处和思考。&lt;/li&gt;
+&lt;li&gt;实感（ &lt;code&gt;S&lt;/code&gt; ）与直觉（ &lt;code&gt;N&lt;/code&gt; ）：实感者注重细节、现实和具体事实；直觉者则更关注整体、未来和潜在可能。&lt;/li&gt;
+&lt;li&gt;思考（ &lt;code&gt;T&lt;/code&gt; ）与情感（ &lt;code&gt;F&lt;/code&gt; ）：思考者更注重逻辑和分析，常以理性决策；情感者则更注重情感和价值观，常以情感驱动行为。&lt;/li&gt;
+&lt;li&gt;判断（ &lt;code&gt;J&lt;/code&gt; ）与知觉（ &lt;code&gt;P&lt;/code&gt; ）：判断者喜欢计划、组织和控制局面；知觉者则更愿意保持开放、灵活随性的应对。&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;intp-学者型聪颖机智的解决问题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#intp-学者型聪颖机智的解决问题&#34;&gt;#&lt;/a&gt; INTP 学者型–聪颖机智的解决问题&lt;/h2&gt;
 &lt;h3 id=&#34;荣格理论图形&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#荣格理论图形&#34;&gt;#&lt;/a&gt; 荣格理论图形&lt;/h3&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/career/INTP%E8%8D%A3%E6%A0%BC%E7%90%86%E8%AE%BA%E5%9B%BE%E5%BD%A2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;

@@ -5,6 +5,16 @@
     "home_page_url": "https://luhuadong.com",
     "items": [
         {
+            "id": "https://luhuadong.com/guide/how-to-start-a-podcast.html",
+            "url": "https://luhuadong.com/guide/how-to-start-a-podcast.html",
+            "title": "如何开始创建一个播客节目",
+            "date_published": "2024-03-17T06:46:12.000Z",
+            "content_html": "<h2 id=\"硬件设备\"><a class=\"markdownIt-Anchor\" href=\"#硬件设备\">#</a> 硬件设备</h2>\n<h2 id=\"播客平台\"><a class=\"markdownIt-Anchor\" href=\"#播客平台\">#</a> 播客平台</h2>\n<ul>\n<li>YouTube</li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYXBwbGUuY29tL2FwcGxlLXBvZGNhc3RzLw==\">Apple Podcasts</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly9wb2RjYXN0ZXJzLnNwb3RpZnkuY29tLw==\">Spotify for Podcasters</span></li>\n<li>小宇宙</li>\n<li>喜马拉雅</li>\n<li>网易云音乐</li>\n<li>豆瓣</li>\n</ul>\n<p>苹果播客 | 小宇宙 App | 汽水儿 App | Spotify | 喜马拉雅 | 网易云音乐 | QQ 音乐 | 微信听书 | 荔枝 FM | 央广云听 | 听听 FM | Sure 竖耳 App | Bilibili | YouTube</p>\n<h2 id=\"参考\"><a class=\"markdownIt-Anchor\" href=\"#参考\">#</a> 参考</h2>\n<ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly96aC53aWtpaG93LmNvbS8lRTUlODglOUIlRTUlQkIlQkElRTglODclQUElRTUlQjclQjElRTclOUElODQlRTYlOTIlQUQlRTUlQUUlQTIlRUYlQkMlODhQb2RjYXN0JUVGJUJDJTg5\">如何创建自己的播客（Podcast）</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly9ibG9nLm5hdGl2ZS1pbnN0cnVtZW50cy5jb20vemgvP3A9MTQxNjg=\">流媒体时代，如何从无到有经营自己的播客电台？</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYnV6enNwcm91dC5jb20vYmxvZy9ob3ctdG8tc3RhcnQtYS1wb2RjYXN0\">How to Start a Podcast: Complete Step-by-Step Guide [2024]</span></li>\n</ul>\n",
+            "tags": [
+                "指南"
+            ]
+        },
+        {
             "id": "https://luhuadong.com/guide/how-to-wake-up-at-5am-every-day.html",
             "url": "https://luhuadong.com/guide/how-to-wake-up-at-5am-every-day.html",
             "title": "如何做到每天清晨五点起床",

@@ -3,7 +3,7 @@
     <id>https://luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;独立开发者&#34; category</title>
     <link href="https://luhuadong.com" />
-    <updated>2024-01-06T08:36:30.000Z</updated>
+    <updated>2024-04-04T05:24:49.000Z</updated>
     <category term="商业" />
     <category term="成长" />
     <category term="日记" />
@@ -94,6 +94,31 @@
     <category term="零废弃" />
     <category term="低碳" />
     <category term="思维模型" />
+    <category term="开发者" />
+    <category term="性格测试" />
+    <category term="AI" />
+    <entry>
+        <id>https://luhuadong.com/indie/excellent-cases-of-indie-hacker.html</id>
+        <title>独立开发者优秀案例分享</title>
+        <link rel="alternate" href="https://luhuadong.com/indie/excellent-cases-of-indie-hacker.html"/>
+        <content type="html">&lt;p&gt;这里收集一些独立开发者、数字游民、开源先锋的成功经验和产品。&lt;/p&gt;
+&lt;h2 id=&#34;独立开发&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#独立开发&#34;&gt;#&lt;/a&gt; 独立开发&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvZ0ZlaGUzSDFTS2lmQXQ2SG1KNVVBQQ==&#34;&gt;Tony Dinh：来自越南的开发者，Typing Mind 创始人，两年内从 0 到每月 4.5 万美元。&lt;/span&gt;（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9uZXdzLnRvbnlkaW5oLmNvbS9wL215LXNvbG9wcmVuZXVyLXN0b3J5LXplcm8tdG8tNDVrbW8=&#34;&gt;原文&lt;/span&gt;）&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvX2Y4dmNkZy1oak1GYUpGczJEeGQyZw==&#34;&gt;Pieter Levels：PhotoAI 创始人年入数百万美元的独立开发者故事。&lt;/span&gt;（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zdHVkeS5nZWVrYWkuY28vcG9zdHMvdGhlLXN0b3J5LW9mLXBpZXRlci1sZXZlbHM=&#34;&gt;原文&lt;/span&gt;）&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvTTk1eURacWlYTmtWOUtkVDZ2RTUwZw==&#34;&gt;Marc Lou：创建 ShipFast，一个用于快速发布创业项目的 NextJS 模板，月入 6.5 万美元。&lt;/span&gt;（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tYXJjbG91LmJlZWhpaXYuY29tL3AvbXktc29sb3ByZW5ldXItc3RvcnktMC10by02NWstbW9udGgtaW4tMi15ZWFycw==&#34;&gt;原文&lt;/span&gt;）&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvT0NfOGtoOGp6YmhHbkw5cHFEX1gydw==&#34;&gt;亚裔小姐姐 Jen：创建 Lunch Money「个人财务管理」网站，每月营收超过 3W 美元。&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MveTJBWWNDODNLQ3YyUGkwNjBuX01aZw==&#34;&gt;Sindre Sorhus：GitHub 榜一大佬，一个开发者兼开源贡献者，拥有众多实用的软件和开源项目。&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;开源先锋&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#开源先锋&#34;&gt;#&lt;/a&gt; 开源先锋&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvTlBzcGpNX2NvNTVsVWIwbXhtZnVPQQ==&#34;&gt;Hong Phuc Dang：创建 FOSSASIA 开源组织，立志促进亚洲计算机程序员使用自由和开源软件。&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvMW5HYl9MQk5GOE40YTREYVp5eDRpUQ==&#34;&gt;陈思达：耶鲁大学的统计与数据科学专业大二学生，静态网站生成器 Docusaurus 核心维护者。&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="独立开发者" />
+        <updated>2024-04-04T05:24:49.000Z</updated>
+    </entry>
     <entry>
         <id>https://luhuadong.com/indie/building-launching-saas-10-days.html</id>
         <title>10天构建一个 SaaS 工具 aiCarousels</title>

@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://luhuadong.com</id>
+    <title>成为自由人 • Posts by &#34;ai&#34; tag</title>
+    <link href="https://luhuadong.com" />
+    <updated>2024-04-07T05:12:37.000Z</updated>
+    <category term="商业" />
+    <category term="成长" />
+    <category term="日记" />
+    <category term="创业" />
+    <category term="家居" />
+    <category term="互联网" />
+    <category term="读书笔记" />
+    <category term="工程师" />
+    <category term="爱" />
+    <category term="名言" />
+    <category term="奋斗" />
+    <category term="信息世界" />
+    <category term="程序员" />
+    <category term="职场" />
+    <category term="管理" />
+    <category term="人生" />
+    <category term="工作" />
+    <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
+    <category term="创客" />
+    <category term="比赛" />
+    <category term="科技向善" />
+    <category term="英语" />
+    <category term="英语短文" />
+    <category term="学习" />
+    <category term="种植" />
+    <category term="健身" />
+    <category term="气象爱好者" />
+    <category term="指南" />
+    <category term="自律" />
+    <category term="健康" />
+    <category term="Hexo" />
+    <category term="徒步" />
+    <category term="科普" />
+    <category term="环保" />
+    <category term="可持续" />
+    <category term="能源" />
+    <category term="社会现象" />
+    <category term="独立开发者" />
+    <category term="碳中和" />
+    <category term="职业" />
+    <category term="时间管理" />
+    <category term="milestone" />
+    <category term="总结" />
+    <category term="年终总结" />
+    <category term="慈济" />
+    <category term="生活" />
+    <category term="RT-Thread" />
+    <category term="开源" />
+    <category term="写书" />
+    <category term="修身" />
+    <category term="思考" />
+    <category term="幸福" />
+    <category term="猫" />
+    <category term="月报" />
+    <category term="地铁" />
+    <category term="Markdown" />
+    <category term="计划" />
+    <category term="股票" />
+    <category term="理财" />
+    <category term="投资" />
+    <category term="财富" />
+    <category term="保险" />
+    <category term="纪录片" />
+    <category term="自由" />
+    <category term="电影" />
+    <category term="策略" />
+    <category term="定律" />
+    <category term="心理学" />
+    <category term="无线电爱好者" />
+    <category term="亲密关系" />
+    <category term="农业" />
+    <category term="素食" />
+    <category term="报告" />
+    <category term="TED" />
+    <category term="演讲" />
+    <category term="励志" />
+    <category term="时间" />
+    <category term="普拉提" />
+    <category term="游泳" />
+    <category term="声音训练" />
+    <category term="WordPress" />
+    <category term="垃圾分类" />
+    <category term="零废弃" />
+    <category term="低碳" />
+    <category term="思维模型" />
+    <category term="开发者" />
+    <category term="性格测试" />
+    <category term="AI" />
+    <entry>
+        <id>https://luhuadong.com/it/generative-ai-glossary.html</id>
+        <title>科普：AI 名词解释</title>
+        <link rel="alternate" href="https://luhuadong.com/it/generative-ai-glossary.html"/>
+        <content type="html">&lt;p&gt;啊！ChatGPT 最近很火呀，你们说的 AGI、AIGC、AI Agent、Prompt、LLM … 到底是什么意思啊？还有 Midjourney、Lensa、Sora、DALL-E、Llama … 又是什么鬼？&lt;/p&gt;
+&lt;h2 id=&#34;名词解释&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#名词解释&#34;&gt;#&lt;/a&gt; 名词解释&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AI（Artificial Intelligence，人工智能）&lt;/strong&gt;：是研究和开发用于模拟、延伸和扩展人类智能的理论、方法、技术及应用系统的一门新技术科学。它的目标是让机器具备类似人类的智能，能够感知、理解、学习、思考、决策等。人工智能是智能学科的重要组成部分，旨在生产出一种能以人类智能相似的方式做出反应的智能机器。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AGI（Artificial General Intelligence，通用人工智能）&lt;/strong&gt;：是人工智能发展的一个更高级阶段。它指的是机器能够像人类一样具备全面的智能能力，包括认知、情感、自我意识等方面。AGI 能够解决未曾预见的问题，并在不同环境中灵活适应。相比于特定领域的人工智能，AGI 能够理解和自主处理各种复杂任务，具有更广泛的认知能力。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AIGC（AI Generated Content，人工智能生成内容）&lt;/strong&gt;：是 AI 的一个应用领域。它指通过 AI 技术自动生成各种形式的内容，如文本、图像、音频、视频等创意作品。AIGC 涵盖了人工智能、计算机图形学和深度学习等领域技术的综合平台，目的是实现更加高效、智能化的图像识别和处理，提升人机交互的用户体验。在游戏、虚拟现实、智能安防等领域，AIGC 都有广泛的应用。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生成式人工智能（Generative AI，生成式 AI）&lt;/strong&gt;：是深度学习的一个子集，其中 AI 系统可以根据所学知识生成独特而真实的内容。生成式人工智能模型使用海量数据集进行训练，这使它们能够使用自然类似于人类创作的文本、音频或视觉效果来响应人类查询。例如，来自 AI21 Labs、Anthropic、Cohere 和 Meta 的 LLM 是生成式人工智能算法，组织可以使用这些算法来解决复杂的任务。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ChatGPT&lt;/strong&gt;：OpenAI 创建的对话式聊天机器人，使用强调来回对话的语言模型。截至目前，可以免费试用。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GPT（Generative Pre-Trained Transformer）&lt;/strong&gt;：这是一种使用深度学习生成类人文本的 AI 模型，由 OpenAI 创建。其中，“生成” 是指其生成文本的能力；“预训练” 是指使用一个机器学习任务的模型来训练另一个，类似于人类在学习新事物时如何利用现有知识（在这种情况下，GPT 涉及对大量文本进行预训练）；“Transformer” 是一种神经网络，可以全面了解数据序列所有部分（如句子中的单词）之间的关系。它被视为人工智能的一项突破，因为它比以前的方法更能理解上下文和细微差别。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GPT-3&lt;/strong&gt;：OpenAI 创建的第三代语言模型。它构成了过去两年推出的大量使用 OpenAI 的 API 的 AI 编写工具的基础。（ChatGPT 使用改进版本，称为 GPT-3.5，而 GPT-4 正在开发中。）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OpenAI&lt;/strong&gt;：GPT-3、ChatGPT 和 DALL-E 背后的人工智能研究公司。它最初是一个非营利组织，但现在经营着一家雇佣大部分员工的 “利润上限” 公司。值得注意的是，Elon Musk 是联合创始人，但于 2018 年辞去了 OpenAI 董事会的职务。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prompt&lt;/strong&gt;：是一种基于自然语言处理的交互方式，它通过机器对自然语言的解析，实现用户与机器之间的沟通。可以理解为是一段给定的文本或语句，用于启动和引导机器学习模型生成特定类型、主题或格式的输出。在自然语言处理领域中，Prompt 通常由一个问题或任务描述组成，例如 “给我写一篇有关人工智能的文章”、“翻译这个英文句子到法语” 等等。在图像识别领域中，Prompt 则可以是一个图片描述、标签或分类信息。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI Agent（人工智能代理）&lt;/strong&gt;：一种能够自主理解、规划决策、执行复杂任务的智能体。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NLP（Natural Language Processing，自然语言处理）&lt;/strong&gt;：是 AI 的一个分支，它允许计算机系统理解和生成人类语言。NLP 系统使用计算语言学和机器学习技术将语言数据转换为称为标记的简单表示，并理解它们的上下文关系。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LLM（Large Language Model，大语言模型）&lt;/strong&gt;：是基于大量数据进行预训练的超大型深度学习模型，可以执行各种自然语言处理（NLP）任务。大型语言模型会使用多个转换器模型，并使用海量数据集进行训练，因此规模非常庞大。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;机器学习&lt;/strong&gt;：人工智能的一个子领域，这是教计算机通过数据和算法识别模式的实践。它与传统编程的不同之处在于，计算机不需要明确编码来解决每一个潜在场景。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;神经网络&lt;/strong&gt;：一种机器学习模型，模仿人脑中的神经元，使用节点网络通过算法处理数据。这允许计算机在许多不同的数据点之间建立联系，并在响应查询时了解哪些是最重要的。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;深度学习&lt;/strong&gt;：是一门 AI 学科，专注于训练具有多个隐藏层的神经网络，以从原始数据中提取和理解复杂的关系。AI 专家使用深度学习来构建能够理解文本、音频、图像、视频和其他信息类型的系统。ChatGPT 和 Stable Diffusion 等 AI 工具是使用深度学习技术的应用示例。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言建模&lt;/strong&gt;：一种确定句子中单词顺序的技术，基于这些单词有意义的概率。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;扩散模型&lt;/strong&gt;：一种根据文本提示创建图像的方法。它的工作原理是向一组训练图像添加随机噪声，然后学习如何去除噪声以构建所需图像。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DALL-E&lt;/strong&gt;：OpenAI 的文本转图像工具，它使用 GPT-3 来解释用户的请求。最新版本 DALL-E2 于 7 月推出，提供比原始版本更清晰、更准确的图像。它在公开测试版中可用，用户最多可以免费创建 50 张图像。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stable Diffusion&lt;/strong&gt;：由 Stability AI 创建的开源文本到图像应用程序。正式版安装过程繁琐，并通过命令行运行，但第三方开发人员使用开源代码为台式机和网络创建了更易访问的版本。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Imagen&lt;/strong&gt;：另一种使用扩散模型的文本到图像工具，由谷歌创建。该公司选择暂时不发布其代码或公开展示它，理由是它有可能创建不适当的内容。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Midjourney&lt;/strong&gt;：一个创建自己的文本到图像系统的独立实验室，目前仅提供受邀测试版。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dreambooth&lt;/strong&gt;：一种由谷歌开发的深度学习模型，可以微调通过扩散创建的图像。它最著名的用例是能够根据现有照片生成特定人物的新照片 —— 无论好坏。尽管 Google 本身并未发布 Dreambooth 供公众使用，但其实现已作为开源项目发布。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lensa&lt;/strong&gt;：Prisma Labs 于 2018 年首次推出的适用于 iOS 和 Android 的图像编辑应用程序。由于新的 “魔法头像” 功能，它在最近几周走红，其效果类似于 Stable Diffusion 和 Dreambooth。它因创造过度性感的图像（尤其是女性图像）以及意外的裸体而受到批评。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sora&lt;/strong&gt;：是 OpenAI 开发的一个能以文本描述生成视频的人工智能模型，可以从文本提示创建真实的视频。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LLaMA&lt;/strong&gt;（Large Language Model Meta AI，大语言模型元 AI）：是 Meta AI 公司于 2023 年 2 月发布的大型语言模型，也是目前为止效果最好的开源 LLM 之一。Llama 这个单词本身是指美洲大羊驼，所以社区也将这个系列的模型昵称为羊驼系模型。LLaMA 按照参数量的大小分为四个型号：LLaMA-7B、LLaMA-13B、LLaMA-30B 与 LLaMA-65B。这里的 B 是 billion 的缩写，指代模型的参数规模。故最小的模型 7B 包含 70 亿个参数，而最大的一款 65B 则包含 650 亿个参数。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hd3MuYW1hem9uLmNvbS90dy93aGF0LWlzL2dlbmVyYXRpdmUtYWkv&#34;&gt;什麼是生成式 AI？&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly95aW5ndW9iaW5nLmNvbS9sbGFtYS8=&#34;&gt;LLaMA 大语言模型&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="AI" />
+        <updated>2024-04-07T05:12:37.000Z</updated>
+    </entry>
+</feed>

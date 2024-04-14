@@ -5,8 +5,8 @@
         <link>https://luhuadong.com</link>
         <description>阿基米东的网络日志</description>
         <language>zh-CN</language>
-        <pubDate>Sat, 02 Mar 2024 11:21:35 +0800</pubDate>
-        <lastBuildDate>Sat, 02 Mar 2024 11:21:35 +0800</lastBuildDate>
+        <pubDate>Sun, 07 Apr 2024 13:12:37 +0800</pubDate>
+        <lastBuildDate>Sun, 07 Apr 2024 13:12:37 +0800</lastBuildDate>
         <category>商业</category>
         <category>成长</category>
         <category>日记</category>
@@ -97,6 +97,575 @@
         <category>零废弃</category>
         <category>低碳</category>
         <category>思维模型</category>
+        <category>开发者</category>
+        <category>性格测试</category>
+        <category>AI</category>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/it/generative-ai-glossary.html</guid>
+            <title>科普：AI 名词解释</title>
+            <link>https://luhuadong.com/it/generative-ai-glossary.html</link>
+            <category>AI</category>
+            <pubDate>Sun, 07 Apr 2024 13:12:37 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;啊！ChatGPT 最近很火呀，你们说的 AGI、AIGC、AI Agent、Prompt、LLM … 到底是什么意思啊？还有 Midjourney、Lensa、Sora、DALL-E、Llama … 又是什么鬼？&lt;/p&gt;
+&lt;h2 id=&#34;名词解释&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#名词解释&#34;&gt;#&lt;/a&gt; 名词解释&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AI（Artificial Intelligence，人工智能）&lt;/strong&gt;：是研究和开发用于模拟、延伸和扩展人类智能的理论、方法、技术及应用系统的一门新技术科学。它的目标是让机器具备类似人类的智能，能够感知、理解、学习、思考、决策等。人工智能是智能学科的重要组成部分，旨在生产出一种能以人类智能相似的方式做出反应的智能机器。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AGI（Artificial General Intelligence，通用人工智能）&lt;/strong&gt;：是人工智能发展的一个更高级阶段。它指的是机器能够像人类一样具备全面的智能能力，包括认知、情感、自我意识等方面。AGI 能够解决未曾预见的问题，并在不同环境中灵活适应。相比于特定领域的人工智能，AGI 能够理解和自主处理各种复杂任务，具有更广泛的认知能力。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AIGC（AI Generated Content，人工智能生成内容）&lt;/strong&gt;：是 AI 的一个应用领域。它指通过 AI 技术自动生成各种形式的内容，如文本、图像、音频、视频等创意作品。AIGC 涵盖了人工智能、计算机图形学和深度学习等领域技术的综合平台，目的是实现更加高效、智能化的图像识别和处理，提升人机交互的用户体验。在游戏、虚拟现实、智能安防等领域，AIGC 都有广泛的应用。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生成式人工智能（Generative AI，生成式 AI）&lt;/strong&gt;：是深度学习的一个子集，其中 AI 系统可以根据所学知识生成独特而真实的内容。生成式人工智能模型使用海量数据集进行训练，这使它们能够使用自然类似于人类创作的文本、音频或视觉效果来响应人类查询。例如，来自 AI21 Labs、Anthropic、Cohere 和 Meta 的 LLM 是生成式人工智能算法，组织可以使用这些算法来解决复杂的任务。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ChatGPT&lt;/strong&gt;：OpenAI 创建的对话式聊天机器人，使用强调来回对话的语言模型。截至目前，可以免费试用。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GPT（Generative Pre-Trained Transformer）&lt;/strong&gt;：这是一种使用深度学习生成类人文本的 AI 模型，由 OpenAI 创建。其中，“生成” 是指其生成文本的能力；“预训练” 是指使用一个机器学习任务的模型来训练另一个，类似于人类在学习新事物时如何利用现有知识（在这种情况下，GPT 涉及对大量文本进行预训练）；“Transformer” 是一种神经网络，可以全面了解数据序列所有部分（如句子中的单词）之间的关系。它被视为人工智能的一项突破，因为它比以前的方法更能理解上下文和细微差别。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GPT-3&lt;/strong&gt;：OpenAI 创建的第三代语言模型。它构成了过去两年推出的大量使用 OpenAI 的 API 的 AI 编写工具的基础。（ChatGPT 使用改进版本，称为 GPT-3.5，而 GPT-4 正在开发中。）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OpenAI&lt;/strong&gt;：GPT-3、ChatGPT 和 DALL-E 背后的人工智能研究公司。它最初是一个非营利组织，但现在经营着一家雇佣大部分员工的 “利润上限” 公司。值得注意的是，Elon Musk 是联合创始人，但于 2018 年辞去了 OpenAI 董事会的职务。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prompt&lt;/strong&gt;：是一种基于自然语言处理的交互方式，它通过机器对自然语言的解析，实现用户与机器之间的沟通。可以理解为是一段给定的文本或语句，用于启动和引导机器学习模型生成特定类型、主题或格式的输出。在自然语言处理领域中，Prompt 通常由一个问题或任务描述组成，例如 “给我写一篇有关人工智能的文章”、“翻译这个英文句子到法语” 等等。在图像识别领域中，Prompt 则可以是一个图片描述、标签或分类信息。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI Agent（人工智能代理）&lt;/strong&gt;：一种能够自主理解、规划决策、执行复杂任务的智能体。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NLP（Natural Language Processing，自然语言处理）&lt;/strong&gt;：是 AI 的一个分支，它允许计算机系统理解和生成人类语言。NLP 系统使用计算语言学和机器学习技术将语言数据转换为称为标记的简单表示，并理解它们的上下文关系。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LLM（Large Language Model，大语言模型）&lt;/strong&gt;：是基于大量数据进行预训练的超大型深度学习模型，可以执行各种自然语言处理（NLP）任务。大型语言模型会使用多个转换器模型，并使用海量数据集进行训练，因此规模非常庞大。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;机器学习&lt;/strong&gt;：人工智能的一个子领域，这是教计算机通过数据和算法识别模式的实践。它与传统编程的不同之处在于，计算机不需要明确编码来解决每一个潜在场景。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;神经网络&lt;/strong&gt;：一种机器学习模型，模仿人脑中的神经元，使用节点网络通过算法处理数据。这允许计算机在许多不同的数据点之间建立联系，并在响应查询时了解哪些是最重要的。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;深度学习&lt;/strong&gt;：是一门 AI 学科，专注于训练具有多个隐藏层的神经网络，以从原始数据中提取和理解复杂的关系。AI 专家使用深度学习来构建能够理解文本、音频、图像、视频和其他信息类型的系统。ChatGPT 和 Stable Diffusion 等 AI 工具是使用深度学习技术的应用示例。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言建模&lt;/strong&gt;：一种确定句子中单词顺序的技术，基于这些单词有意义的概率。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;扩散模型&lt;/strong&gt;：一种根据文本提示创建图像的方法。它的工作原理是向一组训练图像添加随机噪声，然后学习如何去除噪声以构建所需图像。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DALL-E&lt;/strong&gt;：OpenAI 的文本转图像工具，它使用 GPT-3 来解释用户的请求。最新版本 DALL-E2 于 7 月推出，提供比原始版本更清晰、更准确的图像。它在公开测试版中可用，用户最多可以免费创建 50 张图像。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stable Diffusion&lt;/strong&gt;：由 Stability AI 创建的开源文本到图像应用程序。正式版安装过程繁琐，并通过命令行运行，但第三方开发人员使用开源代码为台式机和网络创建了更易访问的版本。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Imagen&lt;/strong&gt;：另一种使用扩散模型的文本到图像工具，由谷歌创建。该公司选择暂时不发布其代码或公开展示它，理由是它有可能创建不适当的内容。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Midjourney&lt;/strong&gt;：一个创建自己的文本到图像系统的独立实验室，目前仅提供受邀测试版。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dreambooth&lt;/strong&gt;：一种由谷歌开发的深度学习模型，可以微调通过扩散创建的图像。它最著名的用例是能够根据现有照片生成特定人物的新照片 —— 无论好坏。尽管 Google 本身并未发布 Dreambooth 供公众使用，但其实现已作为开源项目发布。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lensa&lt;/strong&gt;：Prisma Labs 于 2018 年首次推出的适用于 iOS 和 Android 的图像编辑应用程序。由于新的 “魔法头像” 功能，它在最近几周走红，其效果类似于 Stable Diffusion 和 Dreambooth。它因创造过度性感的图像（尤其是女性图像）以及意外的裸体而受到批评。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sora&lt;/strong&gt;：是 OpenAI 开发的一个能以文本描述生成视频的人工智能模型，可以从文本提示创建真实的视频。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LLaMA&lt;/strong&gt;（Large Language Model Meta AI，大语言模型元 AI）：是 Meta AI 公司于 2023 年 2 月发布的大型语言模型，也是目前为止效果最好的开源 LLM 之一。Llama 这个单词本身是指美洲大羊驼，所以社区也将这个系列的模型昵称为羊驼系模型。LLaMA 按照参数量的大小分为四个型号：LLaMA-7B、LLaMA-13B、LLaMA-30B 与 LLaMA-65B。这里的 B 是 billion 的缩写，指代模型的参数规模。故最小的模型 7B 包含 70 亿个参数，而最大的一款 65B 则包含 650 亿个参数。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hd3MuYW1hem9uLmNvbS90dy93aGF0LWlzL2dlbmVyYXRpdmUtYWkv&#34;&gt;什麼是生成式 AI？&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly95aW5ndW9iaW5nLmNvbS9sbGFtYS8=&#34;&gt;LLaMA 大语言模型&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/journal/20240406.html</guid>
+            <title>32岁才发现，原来我可以什么都不做</title>
+            <link>https://luhuadong.com/journal/20240406.html</link>
+            <category>日记</category>
+            <category>思考</category>
+            <pubDate>Sat, 06 Apr 2024 17:12:19 +0800</pubDate>
+            <description><![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;32 岁了，这两年有什么长进？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;事业太大，需要慢慢做，还是先找对象结婚吧。&lt;/p&gt;
+&lt;p&gt;对另一半的需求？&lt;/p&gt;
+&lt;!--
+
+性需求
+
+有相同的理念
+
+--&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/relationship/mbti-personality-test.html</guid>
+            <title>MBTI 性格测试与 16 型人格分析</title>
+            <link>https://luhuadong.com/relationship/mbti-personality-test.html</link>
+            <category>性格测试</category>
+            <pubDate>Sat, 06 Apr 2024 13:27:14 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/relationship/MBTI-banner.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;MBTI 是一种经典的人格类型测评工具，它是基于心理分析家卡尔・荣格的书籍《心理类型》衍生而来的。通过对个体心理偏好的测试和分析，可以帮助个体理解自己和彼此的认知与决策倾向。&lt;/p&gt;
+&lt;p&gt;如今，MBTI 已经成为全球通用的一种人格分类方法，被广泛应用于商业、军事、教育等各个领域，在人们的日常社交、职业选择、情感沟通等方面起到良好的促进作用。&lt;/p&gt;
+&lt;h2 id=&#34;mbti-测试的起源&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#mbti-测试的起源&#34;&gt;#&lt;/a&gt; MBTI 测试的起源&lt;/h2&gt;
+&lt;p&gt;MBTI 的全称是 Myers-Briggs Type Indicator，直译就是迈尔斯 - 布里格斯类型指标。最初由两名美国人 —— 凯瑟琳・库克・布里格斯（Katharine Cook Briggs）和她的女儿伊莎贝尔・布里格斯・迈尔斯（Isabel Briggs Myers）所建构，最早于 1944 年发表。&lt;/p&gt;
+&lt;p&gt;MBTI 指标的理论基础来自瑞士精神科医师兼精神分析师&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aC53aWtpcGVkaWEub3JnL3dpa2kvJUU1JThEJUExJUU1JUIwJTk0JUMyJUI3JUU4JThEJUEzJUU2JUEwJUJD&#34;&gt;卡尔・荣格&lt;/span&gt;（Carl Jung）的着作《心理类型》。不过，迈尔斯认为荣格的着作对大众而言过于复杂难懂，于是布里格斯母女尝试将荣格认知功能整理得更加易于理解。&lt;/p&gt;
+&lt;h2 id=&#34;mbti-的四个维度&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#mbti-的四个维度&#34;&gt;#&lt;/a&gt; MBTI 的四个维度&lt;/h2&gt;
+&lt;p&gt;MBTI 人格理论认为，人类的人格特征可以从四个角度进行分析，包括认知功能（Attitudes）、信息获取（Perceiving）、决策方式（Judging）和生活方式（Lifestyle）。&lt;/p&gt;
+&lt;p&gt;每个角度都有两个对立的方向，共计八个方面，具体如下：&lt;/p&gt;
+&lt;h3 id=&#34;认知功能&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#认知功能&#34;&gt;#&lt;/a&gt; 认知功能&lt;/h3&gt;
+&lt;p&gt;认知功能（Attitudes）指个体在处理信息和判断情况时的心理偏好。分为：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;内向&lt;/strong&gt;（Introversion）：更喜欢自己独处，关注自己内在的想法和感受。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;外向&lt;/strong&gt;（Extraversion）：喜欢和他人交往，通过与他人互动来获取能量和信息。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;信息获取&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#信息获取&#34;&gt;#&lt;/a&gt; 信息获取&lt;/h3&gt;
+&lt;p&gt;信息获取（Perceiving）指个体获取信息的方式和偏好。分为：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;感性&lt;/strong&gt;（Sensing）：注重具体、现实、细节，通过感官来获取信息。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;直觉&lt;/strong&gt;（Intuition）：注重抽象、未来、整体，通过想象和联想来获取信息。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;决策方式&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#决策方式&#34;&gt;#&lt;/a&gt; 决策方式&lt;/h3&gt;
+&lt;p&gt;决策方式（Judging）指个体做出决策的方式和偏好。分为：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;思考&lt;/strong&gt;（Thinking）：注重分析、逻辑、客观，倾向于通过分析和推理来做出决策。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;情感&lt;/strong&gt;（Feeling）：注重价值观、情感、主观，倾向于通过考虑他人的感受和价值观来做出决策。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;生活方式&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#生活方式&#34;&gt;#&lt;/a&gt; 生活方式&lt;/h3&gt;
+&lt;p&gt;生活方式（Lifestyle）指个体在生活中表现出来的特征和偏好。分为：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;判断&lt;/strong&gt;（Judging）：注重有序、计划、控制，喜欢按照计划行动和做出决策。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;知觉&lt;/strong&gt;（Perceiving）：注重灵活、适应、自由，喜欢根据情况变化和随心所欲地行动。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;16-种人格分析&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#16-种人格分析&#34;&gt;#&lt;/a&gt; 16 种人格分析&lt;/h2&gt;
+&lt;h3 id=&#34;intj建筑师span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#intj建筑师span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;#&lt;/a&gt; INTJ（建筑师）&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;INTJ 是 16 型人格比例最低的一种，只占全球人口的 2%。他们聪明、创新，且注重策略，是最有能力的人格类型之一。INTJ 的脑袋就如同超级电脑，有非常强大的思考与问题处理能力，而且渴望学习新知，但也因为傲人的聪明才智，使得 INTJ 难以与他人产生共感，他们择善固执，宁可贯彻真理也不愿当个滥好人，因此容易在社交上遇到挫折。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;优点：优秀的问题解决者、择善固执、学习力强、良好的洞察力与观察力&lt;/li&gt;
+&lt;li&gt;缺点：不擅于沟通、较无法同理他人、个性较固执&lt;/li&gt;
+&lt;li&gt;适合职业：医师、研究员、科学家、律师、财务专家&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;intp逻辑学家&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#intp逻辑学家&#34;&gt;#&lt;/a&gt; INTP（逻辑学家）&lt;/h3&gt;
+&lt;p&gt;INTP 是 16 型人格中好奇心最旺盛的类型，历史上许多具有影响力的哲学家和科学家都是 INTP。他们不仅好奇，也善于分析，总是持续不间断地进行思考，但这也使他们疲于社交，比起与他人互动，INTP 更倾向探讨自己内心深处的想法，不过若遇到能与他们的精神能量相匹配的人，他们也可以进行一场深度的思想交流！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;优点：反应快速、良好的逻辑与组织能力、能客观分析问题、好学&lt;/li&gt;
+&lt;li&gt;缺点：专注力不足、较没耐心、不易察觉情感&lt;/li&gt;
+&lt;li&gt;适合职业：工程师、发明家、数学家、学术研究、软件开发、金融分析师&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;entj指挥官&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#entj指挥官&#34;&gt;#&lt;/a&gt; ENTJ（指挥官）&lt;/h3&gt;
+&lt;p&gt;ENTJ 能展现自信，因此非常具有领袖魅力，他们善于领导他人、处事果断又注重组织，也喜欢挑战，所以只要给他们充裕的时间和资源，他们可以精确地执行计划并且达到目标，但是他们并不善于表达情感，可能会给人居高临下、难以亲近的感觉，不过他们擅长发掘他人的才华，并带领团队成员发挥各自长处以达到目标。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;优点：指挥能力强、善于社交、不会优柔寡断、目标导向且坚持不懈&lt;/li&gt;
+&lt;li&gt;缺点：包容力较低、过度好胜、较不近人情&lt;/li&gt;
+&lt;li&gt;适合职业：企业家、律师、法官、管理阶层、政治家&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;entp辩论家&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#entp辩论家&#34;&gt;#&lt;/a&gt; ENTP（辩论家）&lt;/h3&gt;
+&lt;p&gt;ENTP 喜欢与人进行观点的辩论，对于不认同的观点，他们并不会害怕反驳，聪明且好辩的特质让他们勇于突破现有框架；独特的见解则让他们具有娱乐性十足的幽默感。ENTP 擅长社交，所以很容易就能交到新朋友，但因为总是直接了当地提出质疑，可能会不小心得罪別人，使关系产生疙瘩。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;优点：头脑思路清楚、不怕挫折、勇于打破现有框架&lt;/li&gt;
+&lt;li&gt;缺点：较没耐心、容易起冲突、过度理性、太在乎他人是否欣赏自己&lt;/li&gt;
+&lt;li&gt;适合职业：艺术家、作家、顾问、主持人、演员、摄影师、广告业&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;infj提倡者&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#infj提倡者&#34;&gt;#&lt;/a&gt; INFJ（提倡者）&lt;/h3&gt;
+&lt;p&gt;INFJ 是理想主义者也是利他主义者，他们有原则、做事会经过深思熟虑，并且富有同理心。INFJ 不安于现状，他们希望自己的人生可以有所成就，而且并不在于金钱地位方面，而是帮助他人，为社会造成良好的影响。INFJ 有着清楚明确的价值观，想要导正问题，因为专注于这个目标，导致他们有时很难融入人群。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;优点：个性圆滑、良好的聆听者、有正义感、学习力强&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;缺点：过度牺牲自己、不擅于表达、过度感性、太在意他人眼光&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;适合职业：老师、艺术家、设计师、社工、心理师、宗教家、非政府组织&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;infp调停者&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#infp调停者&#34;&gt;#&lt;/a&gt; INFP（调停者）&lt;/h3&gt;
+&lt;p&gt;INFP 是外冷内热的人格类型，外表看似平静的他们，内心其实充满热情，且能积极努力地追求目标！他们非常感性，因此对音乐，艺术，自然和周围的人都能产生深刻的情感反应，他们也是非常好的聆听者，富有同理心，能以客观的角度看待他人面临的问题，但他们也容易内化这些负面情绪，造成自己的心理负担。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;优点：个性容易与人亲近、热爱挑战、善于表达、自我目标明确&lt;/li&gt;
+&lt;li&gt;缺点：难跳脱自己的内心世界、防备心过低、过度理想&lt;/li&gt;
+&lt;li&gt;适合职业：编辑、作家、设计师、插画家、演员、心理学家&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;enfj主人公span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#enfj主人公span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;#&lt;/a&gt; ENFJ（主人公）&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;ENFJ 是天生的领导者，他们擅长激励他人，并且具有实事求是的价值观。他们热情又具有同理心，能用最让人产生共鸣的方式敘述自己的想法，藉此帮助他人解决问题。另外他们善于观察周遭的人，并了解他们的想法与行为动机，但 ENFJ 并不会想要利用或操控他人，即使遇到想法分歧的对象，他们也能求同存异。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;优点：同理心强、个性外向随和、优秀的领导能力、乐观正向&lt;/li&gt;
+&lt;li&gt;缺点：过度寻求他人认同、爱钻牛角尖、容易内耗自己&lt;/li&gt;
+&lt;li&gt;适合职业：公关、创业家、人资、销售、老师、心理师&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;enfp竞选者span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#enfp竞选者span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;#&lt;/a&gt; ENFP（竞选者）&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;ENFP 喜欢追求精神上的自由，他们热情且富有创意，总是可以用最活泼、乐观的方式过生活。他们会经常关心身边的人，善于交际且个性相当随和，通常能交到许多知心好友，除此之外，ENFP 总是能找到生活深层的意义，并且从中寻求快乐，他们也擅长表达自己的感受，甚至将正向的能量带给他人。（ENFP 也被称为 “快乐小狗”）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;优点：开朗活泼、热情、团体的动力来源、能以各种角度思考&lt;/li&gt;
+&lt;li&gt;缺点：较情绪化、过度理想、专注力较差、太急性子&lt;/li&gt;
+&lt;li&gt;适合职业：记者、主播、演员、艺术家、音乐家、雕塑家&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;istj物流师&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#istj物流师&#34;&gt;#&lt;/a&gt; ISTJ（物流师）&lt;/h3&gt;
+&lt;p&gt;ISTJ 讲求实事求是，有组织与负责任的精神，他们认为凡事都有正确的行事方法，因此非常注重紀律与社会结构，喜欢处在有清晰组织架构的工作或教育环境。ISTJ 很有责任感，他们总是能快速做决策并且愿意履行义务，即使犯错了也勇于承认错误并承担责任，但这样的特质也可能使他们常常在替身边的人收拾残局。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;优点：个性沉稳内敛、能观察到细节、实事求是、脚踏实地、有责任感&lt;/li&gt;
+&lt;li&gt;缺点：过度守旧、难以跳脱舒适圈、变通能力稍差&lt;/li&gt;
+&lt;li&gt;适合职业：公务员、会计师、行政人员、军人&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;isfj守卫者&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#isfj守卫者&#34;&gt;#&lt;/a&gt; ISFJ（守卫者）&lt;/h3&gt;
+&lt;p&gt;ISFJ 喜欢在幕后默默地付出不求回报，他们个性温和，对周围的人也具有相当的责任感，任何的任务交付于他们都会让人感到放心。他们能与人建立稳定的关系，总是拿出最大的善意和他人相处，只要身边的人遇到困难，他们绝对尽其所能地提供协助，不过这样的特质也使他们常常过度劳累。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;优点：同理心强、富有责任感、凡事说到做到、具有奉献精神、观察能力强&lt;/li&gt;
+&lt;li&gt;缺点：容易过度压抑自己、容易被拖累、难以跳脱舒适圈、易受他人影响&lt;/li&gt;
+&lt;li&gt;适合职业：护理师、老师、社工、餐饮业、服务业&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;estj总经理&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#estj总经理&#34;&gt;#&lt;/a&gt; ESTJ（总经理）&lt;/h3&gt;
+&lt;p&gt;ESTJ 人格的特別之处是对于追求「秩序」的坚持。他们常常扮演组织众人的角色，并给出明确的建议和指导，让整个团体有秩序地合作，因此常受到身边的人重视。ESTJ 也非常能以身作则，主动深入任何挑战并轻松完成复杂的任务，但是当他们遇到能力不足的队友时，也会直接地表达愤怒情绪。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;优点：管理能力强、意志力坚强、有主见、言而有信&lt;/li&gt;
+&lt;li&gt;缺点：思想较制式、过于个人中心、不擅于表达情感&lt;/li&gt;
+&lt;li&gt;适合职业：药剂师、房地产、保险业务员、军官、警察、高层管理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;esfj执行官&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#esfj执行官&#34;&gt;#&lt;/a&gt; ESFJ（执行官）&lt;/h3&gt;
+&lt;p&gt;ESFJ 非常的重视自身的责任，能在完成自身任务的同时也回馈于他人，因此 ESFJ 工作时总能为所有人带来一股正能量，但如果遇到与自己意见分歧的对象时，他们内心也容易受到打击。ESFJ 的「E」性格使得他们总是能记住亲友生活中的大小事件，并且热于参与或是举办团体动，轻松与他人建立长久的关系，若身边的人需要帮助时，他们也会主动伸出援手。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;优点：行动力强、优秀的组织能力、擅长处理人际关系、很受人相信&lt;/li&gt;
+&lt;li&gt;缺点：易受別人影响、不懂得拒绝、不敢为自己争取权利&lt;/li&gt;
+&lt;li&gt;适合职业：老师、社工、策划、企划、幼教类、家庭医师&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;istp鉴赏家&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#istp鉴赏家&#34;&gt;#&lt;/a&gt; ISTP（鉴赏家）&lt;/h3&gt;
+&lt;p&gt;ISTP 的「S」性格特別明显，他们喜欢用来自感官的「实感」探索世界，喜欢亲自上手实作来学习技能，并从这些实际经验探索脑中的想法，因此有许多的机械师都是 ISTP 人格，ISTP 不会过度谨慎，行事不拘小节的他们喜欢朝大方向去发展，这类人格大多具备阳刚的特质，所以女性 ISTP 非常少见。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;优点：喜欢凡事亲力亲为、勇敢的精神、乐观正向、勇于尝试&lt;/li&gt;
+&lt;li&gt;缺点：有时会稍微鲁莽、不容易向他人吐露心声、三分钟热度&lt;/li&gt;
+&lt;li&gt;适合职业：运动员、电脑工程师、机械师、游戏设计师、飞行员、消防员&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;isfp探险家&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#isfp探险家&#34;&gt;#&lt;/a&gt; ISFP（探险家）&lt;/h3&gt;
+&lt;p&gt;ISFP 是富有艺术气息的人格，他们喜欢探索未知的事物，对新事物充满热情，这样的探索精神是他们的动力来源之一。ISFP 具有良好的适应能力，喜欢灵活与不受拘束的生活方式，这也反映在人际关系中，他们对于交友抱持开放的态度，喜欢认识各种不同性格的人并与之相处，但他们也需要独处的时间来补充精力。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;优点：善解人意、专注于当下、有创意、懂得利用自身优势&lt;/li&gt;
+&lt;li&gt;缺点：自我中心、做事较冲动、郭華能力稍差&lt;/li&gt;
+&lt;li&gt;适合职业：艺术家、媒体、创作者、插画家、娱乐圈、摄影、杂志业&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;estp企业家&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#estp企业家&#34;&gt;#&lt;/a&gt; ESTP（企业家）&lt;/h3&gt;
+&lt;p&gt;ESTP 人格具有强大的影响力，常常是人群中的焦点，他们也是彻彻底底的行动派，因此他们喜欢谈论可以付诸实行的话题，而不是抽象的概念。ESTP 的敏锐度高，他们可以从他人的脸部表情与行为察觉其想法和动机，不喜欢受规则所约束的他们，会透过自己的观察，找出可以优化的事项，并打破现有框架、提出改革。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;优点：行动力强、良好的适应能力、说话具说服力、团队的士气来源&lt;/li&gt;
+&lt;li&gt;缺点：较没耐心、风险控管能力较差、容易钻牛角尖&lt;/li&gt;
+&lt;li&gt;适合职业：企业家、导游、旅游业、销售、议员、主持人&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;esfp表演家&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#esfp表演家&#34;&gt;#&lt;/a&gt; ESFP（表演家）&lt;/h3&gt;
+&lt;p&gt;ESFP 天生就是镁光灯的焦点，他们总是用热情的态度在生活，无论是谈话内容或是生活空间，ESFP 都具有强烈的个人风格，但是他们并不会活在自己的世界中，反而善于察言观色，提供身边的人情感的支持与解决问题的建议，但他们并不擅长分析太复杂的资讯，因此如果自己遇到困难，他们倾向求助身边的朋友。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;优点：专注于当下、乐观正向、勇于尝试、善于与人沟通相处&lt;/li&gt;
+&lt;li&gt;缺点：太重视物质享受、易受批评影响、处理问题较主观&lt;/li&gt;
+&lt;li&gt;适合职业：演员、歌手、艺术家、设计师、运动教练、活动策划、主持人、记者&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;16-种人格配对&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#16-种人格配对&#34;&gt;#&lt;/a&gt; 16 种人格配对&lt;/h2&gt;
+&lt;p&gt;看完以上 16 种人格介绍之后，你是不是也好奇自己的 MBTI 人格配对什么样的性格相处起来最自在呢？接下来，我们就来看看 16 型人格测验爱情与工作上都适配的对象分别有谁？&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;注意：有些配对似乎没有什么共同点，这是因为在配对时，更加注重的是性格类型是否能相互成长和学习，以及他们的优势和劣势是否很好地互补。这对于伴侣的配对非常重要。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;MBTI&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;th&gt;配对对象&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;INTJ 建筑师&lt;/td&gt;
+&lt;td&gt;聪明又理性的他们，不善于同理他人，常不小心就伤害到他人，因此适合与处事圆融又善于思考的对象相处。&lt;/td&gt;
+&lt;td&gt;ENFP、INFP&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;INTP 逻辑学家&lt;/td&gt;
+&lt;td&gt;好奇又善于分析的 INTP，总是能丟出很多的想法，与学习能立强的对象相处起来，更能激荡出火花。&lt;/td&gt;
+&lt;td&gt;ENFJ、INFJ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ENTJ 指挥官&lt;/td&gt;
+&lt;td&gt;注重组织又目标导向的他们，身边的人不能太后知后觉，适合与聪明且勇敢的人相处。&lt;/td&gt;
+&lt;td&gt;INFP、INTJ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ENTP 辩论家&lt;/td&gt;
+&lt;td&gt;喜欢挑战常规的 ENTP，不适合与过度守旧的人相处，而是需要能支持他们行动的对象。&lt;/td&gt;
+&lt;td&gt;INFJ、ESTP&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;INFJ 提倡者&lt;/td&gt;
+&lt;td&gt;善于导正问题的他们，若与鲁莽的人相处可能会过度牺牲自己，他们需要的是能一起解决问题的伙伴。&lt;/td&gt;
+&lt;td&gt;ENTP、ENFP&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;INFP 调停者&lt;/td&gt;
+&lt;td&gt;善于聆听又热情的他们，不适合与太内向的人相处，而是喜欢和有自己想法又自信的人互动交流。&lt;/td&gt;
+&lt;td&gt;INFJ、ENTJ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ENFJ 主人公&lt;/td&gt;
+&lt;td&gt;具有领导特质的 ENFJ，喜欢聪明有能力的人，很适合与善于分析与表达想法的人相处。&lt;/td&gt;
+&lt;td&gt;INTP、INFP&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ENFP 竞选者&lt;/td&gt;
+&lt;td&gt;追求自由与创意的 ENFP，需要能认可并支持他改变的人，或是共同追求理想目标的同伴。&lt;/td&gt;
+&lt;td&gt;INTJ、INFJ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ISTJ 物流师&lt;/td&gt;
+&lt;td&gt;注重细节的他们，与神经大条的人容易产生摩擦，因此适合性格敏锐且懂得察言观色的相处对象。&lt;/td&gt;
+&lt;td&gt;ESFP、ESFJ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ISFJ 守卫者&lt;/td&gt;
+&lt;td&gt;总是默默付出、牺牲奉献的 ISFJ，需要有人看到并认可他的努力，观察力强的人更能带出他们的能力与正向精神。&lt;/td&gt;
+&lt;td&gt;ESFP、ESTP&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ESTJ 总经理&lt;/td&gt;
+&lt;td&gt;讲究秩序的 ESTJ，不喜欢没有计划的行动，因此需要能与他一同达成目标，嚴守紀律的相处对象。&lt;/td&gt;
+&lt;td&gt;INFP、ISTJ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ESFJ 执政官&lt;/td&gt;
+&lt;td&gt;实践能力强的 ESFJ，喜欢跳脱舒适圈，可以和与具有挑战性格的人成为最佳拍档。&lt;/td&gt;
+&lt;td&gt;ISTP、INFP&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ISTP 鉴赏家&lt;/td&gt;
+&lt;td&gt;ISTP 喜欢亲身实践学习、行事不拘小节的他们，需要一位行为的向导，让他们朝正确的方向前进。&lt;/td&gt;
+&lt;td&gt;ESFJ、ENTJ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ISFP 探险家&lt;/td&gt;
+&lt;td&gt;喜欢探索未知的他们，不喜欢制式枯燥的生活，因此适合与勇于面对挑战的对象相处。&lt;/td&gt;
+&lt;td&gt;ESTJ、ESFP&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ESTP 企业家&lt;/td&gt;
+&lt;td&gt;行事不拖泥带水的企业家，不喜欢回首过往，适合与愿意付出，并且专注于当下的人相处。&lt;/td&gt;
+&lt;td&gt;ISFJ、ESFP&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ESFP 表演者&lt;/td&gt;
+&lt;td&gt;独具个人风格又热情的 ESFP，适合与注重细节的人相处，更能带出他们热情的态度。&lt;/td&gt;
+&lt;td&gt;ISTJ、ESFP&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;测试地址&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#测试地址&#34;&gt;#&lt;/a&gt; 测试地址&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93ZWxlZmVuLmNvbS9sYWIvbWJ0aS8=&#34;&gt;https://welefen.com/lab/mbti/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tYnRpLmNkZXN6LnRvcC8=&#34;&gt;https://mbti.cdesz.top/&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubXllcnNicmlnZ3Mub3JnL2Fib3V0LXVzL215ZXJzLWJyaWdncy1qdW5nLWxlZ2FjeS8=&#34;&gt;Evolving the MBTI Legacy&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jbWctYWdlbmN5LmNvbS9iZW5lZml0cy1vZi1tYnRpLWluLXRoZS13b3JrcGxhY2Uv&#34;&gt;Benefits of MBTI In the Workplace&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/journal/monthly-2024-03.html</guid>
+            <title>2024年3月碎碎念：懂很多道理，却依然过不好这一生？</title>
+            <link>https://luhuadong.com/journal/monthly-2024-03.html</link>
+            <category>日记</category>
+            <category>月报</category>
+            <pubDate>Sat, 06 Apr 2024 12:46:59 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;感情失败&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#感情失败&#34;&gt;#&lt;/a&gt; 感情失败&lt;/h2&gt;
+&lt;p&gt;我突然发现，她爱我不是因为我很好，而是因为她很好，因为她有爱人的能力。这就意味着，换了一个人差不多的人，她依然可以像爱我一样爱他。&lt;/p&gt;
+&lt;h2 id=&#34;开源峰会&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#开源峰会&#34;&gt;#&lt;/a&gt; 开源峰会&lt;/h2&gt;
+&lt;p&gt;OSPO Summit 和 Dev.Together&lt;/p&gt;
+&lt;h2 id=&#34;羽毛球运动&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#羽毛球运动&#34;&gt;#&lt;/a&gt; 羽毛球运动&lt;/h2&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/business/xiaoyuzhoufm.html</guid>
+            <title>「小宇宙」的发展历程与启发</title>
+            <link>https://luhuadong.com/business/xiaoyuzhoufm.html</link>
+            <category>商业</category>
+            <category>创业</category>
+            <pubDate>Sat, 06 Apr 2024 11:52:14 +0800</pubDate>
+            <description><![CDATA[ &lt;img data-src=&#34;/images/business/xiaoyuzhoufm-logo.png&#34; width=&#34;300&#34; /&gt;
+&lt;h2 id=&#34;产品简介&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#产品简介&#34;&gt;#&lt;/a&gt; 产品简介&lt;/h2&gt;
+&lt;p&gt;「小宇宙」是即刻团队推出一款中文播客 App，于 2020 年 3 月正式上线。有网友评价：“小宇宙是国内目前最轻量化、最纯粹、最便捷的播客播放 App，没有之一”。&lt;/p&gt;
+&lt;p&gt;播客是一种数字媒体，指一系列的音频、影片、电子电台或文字档以列表形式经互联网发布，然后听众经由电子设备订阅该列表以下载或流当中的电子文件，从而接收内容。&lt;/p&gt;
+&lt;p&gt;相对于图文和视频，播客具有低信息密度、高情感密度的属性。但它可以提供长期陪伴、信任的价值，提供慢下来而温暖的内容，因此在年轻一代中流行起来。就我个人使用习惯而言，开车、居家、睡前是我收听播客的三大场景，甚至戏称它为 “交通大学”，因为我可以一边开车，一边学到知识、拓宽认知。&lt;/p&gt;
+&lt;p&gt;实际上，在小宇宙推出之前，国内都没有一款专门针对播客的产品。播客更多只是作为各大音频类 App 的一个板块，如网易云音乐、喜马拉雅 App 中的一个功能。由于这些平台的播客内容不够丰富，且用户也无法触达更多感兴趣的内容，所以用户体验并不好，播客爱好者只能使用国外的播客产品，如苹果 podcast，overcast，pocket cast 等。因此，小宇宙推出之后，很快就收获了一大批用户。&lt;/p&gt;
+&lt;h2 id=&#34;产品特点&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#产品特点&#34;&gt;#&lt;/a&gt; 产品特点&lt;/h2&gt;
+&lt;p&gt;小宇宙作为即刻产品矩阵中的一员，继承了即刻的 RSS 订阅模式，是一款泛用型播客。而相对应的则是以喜马拉雅为代表的平台型播客。下面简单介绍一下两者的区别：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;平台型播客：播客制作者需要将内容上传到平台服务器，然后经过审核和编辑发布后用户才能收听。&lt;/li&gt;
+&lt;li&gt;泛用型播客：用户只需添加播客制作方的 RSS 地址，就可以直接和制作方建立端对端的订阅关系。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在不同平台型播客订阅的节目需要来回切换，而使用泛用型播客，则可以把所有的播客地址收纳到一个客户端来收听，更加方便省心。并且使用 RSS 订阅模式可以减少平台对内容的干涉，因此用户选择更加丰富，管理播客更加方便。&lt;/p&gt;
+&lt;h2 id=&#34;创始故事&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#创始故事&#34;&gt;#&lt;/a&gt; 创始故事&lt;/h2&gt;
+&lt;p&gt;小宇宙播客是即刻旗下的一款产品，小宇宙的 CEO 是 Kyth，你可以在即刻 App 上找到他，里面有一些 Kyth 关于小宇宙播客这个产品的思考。&lt;/p&gt;
+&lt;h2 id=&#34;演讲视频&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#演讲视频&#34;&gt;#&lt;/a&gt; 演讲视频&lt;/h2&gt;
+&lt;p&gt;发布日期：2022 年 1 月&lt;/p&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=508248294&amp;bvid=BV17u411m7Sf&amp;cid=483562681&amp;p=1&amp;high_quality=1&amp;danmaku=0&amp;autoplay=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLnhpYW95dXpob3VmbS5jb20veGlhby15dS16aG91LWt5dGgtZmVuLXhpYW5nLXlpLXhpZS13by1tZW4td2VpLWJvLWtlLXp1by1kZS14aWFvLXdhbi1qdS8=&#34;&gt;小宇宙 kyth：分享一些我们为播客做的小玩具&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cud29zaGlwbS5jb20vZXZhbHVhdGluZy80MDYxNzg0Lmh0bWw=&#34;&gt;产品分析 | 小宇宙 —— 为播客而生&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/business/dejavu.html</guid>
+            <title>多抓鱼（dejavu）发展历程与启发</title>
+            <link>https://luhuadong.com/business/dejavu.html</link>
+            <category>商业</category>
+            <category>创业</category>
+            <pubDate>Sat, 06 Apr 2024 10:32:14 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/business/dejavu-banner.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;简介&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h2&gt;
+&lt;p&gt;「多抓鱼」是一个主营图书和耐用消费品二手循环服务的平台，年销售额已经过亿元。在循环经济快速发展的当下，成为一个亮眼的二手物品交易平台。&lt;/p&gt;
+&lt;p&gt;slogan：&lt;strong&gt;真正的好东西值得买两次&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;商业模式&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#商业模式&#34;&gt;#&lt;/a&gt; 商业模式&lt;/h2&gt;
+&lt;p&gt;随着二手市场愈发火热，入局者也在增多。近年来，线上二手书交易平台层出不穷，孔夫子旧书网、闲鱼以用户之间相互交易为主的 C2C 模式进入大众视野，多抓鱼则以由平台把书买走再卖出的 C2B2C 买断模式为主。&lt;/p&gt;
+&lt;p&gt;据悉，多抓鱼采用的 C2B2C 买断模式通过自建运营回收系统、标准化定价体制，让二手书籍的交易更具标准化。&lt;/p&gt;
+&lt;p&gt;消费者若想出售书籍，直接打开多抓鱼 App 点击卖东西页面即可，卖家通过扫描书籍背后的 ISBN 码可查看书籍是否可出售，售价也会显示在页面中。当卖家决定销售商品后，多抓鱼将安排快递免费上门取货，系统审核书籍通过后将对卖家付款。&lt;/p&gt;
+&lt;h2 id=&#34;创始人故事&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#创始人故事&#34;&gt;#&lt;/a&gt; 创始人故事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;魏颖，多抓鱼创始人、CEO。前知乎市场总监，负责知乎旗下产品线的品牌建设与推广策略。熟悉魏颖的人称她为 “猫助”。&lt;/li&gt;
+&lt;li&gt;陈拓，多抓鱼 CTO。前知乎商业产品负责人、豆瓣社区开发负责人。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;演讲视频&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#演讲视频&#34;&gt;#&lt;/a&gt; 演讲视频&lt;/h2&gt;
+&lt;h3 id=&#34;在中国开一家二手书店&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#在中国开一家二手书店&#34;&gt;#&lt;/a&gt; 在中国开一家二手书店&lt;/h3&gt;
+&lt;p&gt;发布日期：2018 年 10 月&lt;/p&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=34440102&amp;bvid=BV19t411R7FR&amp;cid=60328869&amp;page=1&amp;high_quality=1&amp;danmaku=0&amp;autoplay=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;如何通过软硬件开发捡破烂&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#如何通过软硬件开发捡破烂&#34;&gt;#&lt;/a&gt; 如何通过软硬件开发捡破烂&lt;/h3&gt;
+&lt;p&gt;发布日期：2022 年 1 月&lt;/p&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=635718224&amp;bvid=BV1Gb4y1J78D&amp;cid=483562386&amp;p=1&amp;high_quality=1&amp;danmaku=0&amp;autoplay=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuemdzd2NuLmNvbS9hcnRpY2xlLzIwMjEwOS8yMDIxMDkyNjE1MjYyOTEyMjYuaHRtbA==&#34;&gt;多抓鱼线下限时店受追捧 是真火爆还是昙花一现&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudG10cG9zdC5jb20vNTAzOTgwNS5odG1s&#34;&gt;当多抓鱼卖起二手衣，还有 “豆瓣” 内味儿吗？&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly8zNmtyLmNvbS9wLzE3MzY3MDE0NjM0NzcyNTY=&#34;&gt;5 周岁的多抓鱼，会成为下一个豆瓣吗？&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/indie/excellent-cases-of-indie-hacker.html</guid>
+            <title>独立开发者优秀案例分享</title>
+            <link>https://luhuadong.com/indie/excellent-cases-of-indie-hacker.html</link>
+            <category>独立开发者</category>
+            <pubDate>Thu, 04 Apr 2024 13:24:49 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;这里收集一些独立开发者、数字游民、开源先锋的成功经验和产品。&lt;/p&gt;
+&lt;h2 id=&#34;独立开发&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#独立开发&#34;&gt;#&lt;/a&gt; 独立开发&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvZ0ZlaGUzSDFTS2lmQXQ2SG1KNVVBQQ==&#34;&gt;Tony Dinh：来自越南的开发者，Typing Mind 创始人，两年内从 0 到每月 4.5 万美元。&lt;/span&gt;（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9uZXdzLnRvbnlkaW5oLmNvbS9wL215LXNvbG9wcmVuZXVyLXN0b3J5LXplcm8tdG8tNDVrbW8=&#34;&gt;原文&lt;/span&gt;）&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvX2Y4dmNkZy1oak1GYUpGczJEeGQyZw==&#34;&gt;Pieter Levels：PhotoAI 创始人年入数百万美元的独立开发者故事。&lt;/span&gt;（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zdHVkeS5nZWVrYWkuY28vcG9zdHMvdGhlLXN0b3J5LW9mLXBpZXRlci1sZXZlbHM=&#34;&gt;原文&lt;/span&gt;）&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvTTk1eURacWlYTmtWOUtkVDZ2RTUwZw==&#34;&gt;Marc Lou：创建 ShipFast，一个用于快速发布创业项目的 NextJS 模板，月入 6.5 万美元。&lt;/span&gt;（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tYXJjbG91LmJlZWhpaXYuY29tL3AvbXktc29sb3ByZW5ldXItc3RvcnktMC10by02NWstbW9udGgtaW4tMi15ZWFycw==&#34;&gt;原文&lt;/span&gt;）&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvT0NfOGtoOGp6YmhHbkw5cHFEX1gydw==&#34;&gt;亚裔小姐姐 Jen：创建 Lunch Money「个人财务管理」网站，每月营收超过 3W 美元。&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MveTJBWWNDODNLQ3YyUGkwNjBuX01aZw==&#34;&gt;Sindre Sorhus：GitHub 榜一大佬，一个开发者兼开源贡献者，拥有众多实用的软件和开源项目。&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;开源先锋&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#开源先锋&#34;&gt;#&lt;/a&gt; 开源先锋&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvTlBzcGpNX2NvNTVsVWIwbXhtZnVPQQ==&#34;&gt;Hong Phuc Dang：创建 FOSSASIA 开源组织，立志促进亚洲计算机程序员使用自由和开源软件。&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvMW5HYl9MQk5GOE40YTREYVp5eDRpUQ==&#34;&gt;陈思达：耶鲁大学的统计与数据科学专业大二学生，静态网站生成器 Docusaurus 核心维护者。&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/it/developer-communities.html</guid>
+            <title>盘点国内外的开发者社区</title>
+            <link>https://luhuadong.com/it/developer-communities.html</link>
+            <category>互联网</category>
+            <category>开发者</category>
+            <pubDate>Mon, 01 Apr 2024 13:22:03 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;本文收集和介绍国内外知名的开发者 / 程序员社区，包括国内的 CSDN、OSChina、InfoQ、SegmentFault、掘金、V2EX 等，以及海外的 StackOverFlow、HackerNews、Medium 等。&lt;/p&gt;
+&lt;h2 id=&#34;国内社区&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#国内社区&#34;&gt;#&lt;/a&gt; 国内社区&lt;/h2&gt;
+&lt;h3 id=&#34;csdn&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#csdn&#34;&gt;#&lt;/a&gt; CSDN&lt;/h3&gt;
+&lt;p&gt;CSDN（Chinese Software Developer Network，中国开发者网络）创立于 1999 年，是全球知名中文开发者网站。致力于为中国软件开发者提供知识传播、在线学习、职业发展等全生命周期服务。&lt;/p&gt;
+&lt;p&gt;CSDN 目前在全球编程类网站排名第 10 左右，注册用户超过 3500 万，覆盖 90% 的中文开发者，拥有超过 1000 家企业客户和合作伙伴。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY3Nkbi5uZXQ=&#34;&gt;https://www.csdn.net&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/it/website_csdn.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;oschina&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#oschina&#34;&gt;#&lt;/a&gt; OSCHINA&lt;/h3&gt;
+&lt;p&gt;OSCHINA（开源中国，全称 Open Source China，简称 OSC）成立于 2008 年，是国内知名的开源技术社区。目前已建立了相当完善的开源软件分类数据库，收录全球知名开源项目近 10 万款，涉及几百个不同的分类。围绕这些开源项目，OSCHINA 为中国开发者提供了最新开源资讯、软件更新资讯、技术分享和交流的技术平台。&lt;/p&gt;
+&lt;p&gt;2013 年，OSCHINA 建立了代码托管与 DevOps 平台 “码云 Gitee”，为广大开发者提供团队协作、源码托管、代码质量分析、代码评审、测试、CI/CD 与代码演示等功能。&lt;/p&gt;
+&lt;p&gt;OSCHINA 目前社区有 500 万开发者活跃，长期致力于推动国内开源软件的应用和发展，提升本土开源能力，以及为开源生态环境的优化提供支持。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub3NjaGluYS5uZXQ=&#34;&gt;https://www.oschina.net&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/it/website_oschina.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;infoq&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#infoq&#34;&gt;#&lt;/a&gt; InfoQ&lt;/h3&gt;
+&lt;p&gt;InfoQ 成立于 2006 年（InfoQ 全球于 2006 年上线，InfoQ 中国于 2007 年上线），最早为促进软件开发领域知识与创新的传播而创建。如今，InfoQ 发展为一个实践驱动、以社区为中心的技术媒体平台，致力于促进软件开发及相关领域知识与创新的传播，并提供架构、云计算、AI、前端、大数据等与软件开发相关的最新技术资讯、解读及技术会议。&lt;/p&gt;
+&lt;p&gt;InfoQ 作为一个面向技术人员的垂直社区，其主要的盈利模式为广告发布和技术会议。2016 年，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZ2Vla2Jhbmcub3Jn&#34;&gt;极客邦科技&lt;/span&gt;正式签署合约，实现对 InfoQ 大中华区业务的整体收购。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;极客邦是首批将 Node.js、HTML5、Docker 等技术全面引入中国的技术媒体之一。每月超过 100 万技术人在网站上学习相关内容，近百位社区专家与编辑团队合作生产优质的内容，涵盖资讯、深度文章、专家访谈、精品栏目和演讲视频，每周的总计产出量超过 100 篇。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaW5mb3EuY24=&#34;&gt;https://www.infoq.cn&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/it/website_infoq.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;segmentfault&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#segmentfault&#34;&gt;#&lt;/a&gt; SegmentFault&lt;/h3&gt;
+&lt;p&gt;SegmentFault（中文：思否）成立于 2012 年，是领先的中文技术问答社区，也是中国名列前茅的新一代开发者社区和专业的技术媒体。为中文开发者提供纯粹、高质的技术交流平台以及最前沿的技术行业动态，帮助更多的开发者获得认知和能力的提升。&lt;/p&gt;
+&lt;p&gt;SegmentFault 以技术问答、技术专栏、技术课程、技术资讯为核心的产品形态，目前已经覆盖和服务了超过 1000 万开发者，同时，SegmentFault 思否团队也是中国区最大的黑客马拉松 Hackathon 创新力赛事组织者。腾讯、阿里、百度、美团、京东、滴滴、360 等上千个技术团队已经入驻思否社区。&lt;/p&gt;
+&lt;p&gt;2022 年 5 月，专注于企业级研发管理的 ONES 公司宣布收购 SegmentFault；2022 年 12 月，SegmentFault 思否团队正式对外开源其问答社区软件 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FwYWNoZS9pbmN1YmF0b3ItYW5zd2Vy&#34;&gt;Answer&lt;/span&gt;，这是被收购后的首次公开发布大动态。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zZWdtZW50ZmF1bHQuY29t&#34;&gt;https://segmentfault.com&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/it/website_segmentfault.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;掘金&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#掘金&#34;&gt;#&lt;/a&gt; 掘金&lt;/h3&gt;
+&lt;p&gt;掘金（稀土掘金）成立于 2015 年，是一个帮助开发者成长的社区。官方的定位是给开发者用的 Hacker News，给设计师用的 Designer News，和给产品经理用的 Medium。从内容来看，掘金平台上前端内容偏多，这和创始人最早从事前端开发有关。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9qdWVqaW4uY24=&#34;&gt;https://juejin.cn&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/it/website_juejin.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;v2ex&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#v2ex&#34;&gt;#&lt;/a&gt; V2EX&lt;/h3&gt;
+&lt;p&gt;V2EX 是创意工作者们的社区。这里目前汇聚了超过 40 万名主要来自互联网行业、游戏行业和媒体行业的创意工作者。V2EX 希望能够成为创意工作者们的生活和事业的一部分。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudjJleC5jb20=&#34;&gt;https://www.v2ex.com&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/it/website_v2ex.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;其他&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#其他&#34;&gt;#&lt;/a&gt; 其他&lt;/h3&gt;
+&lt;p&gt;当然，还有很多平台没有介绍，例如创立于 2004 年的 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY25ibG9ncy5jb20=&#34;&gt;博客园&lt;/span&gt;、创立于 2005 年的 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuNTFjdG8uY29t&#34;&gt;51CTO&lt;/span&gt;，以及似乎已经不更新的 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaXRleWUuY29t&#34;&gt;ITeye&lt;/span&gt;。除此之外，还有一些大厂运营的开发者社区，例如 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kZXZlbG9wZXIuaHVhd2VpY2xvdWQuY29t&#34;&gt;华为云开发者社区&lt;/span&gt;、&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kZXZlbG9wZXIuYWxpeXVuLmNvbQ==&#34;&gt;阿里云开发者社区&lt;/span&gt;、&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jbG91ZC50ZW5jZW50LmNvbS9kZXZlbG9wZXI=&#34;&gt;腾讯开发者社区&lt;/span&gt; 等等。最后，还有一些开源项目的开发者社区，例如 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jbHViLnJ0LXRocmVhZC5vcmc=&#34;&gt;RT-Thread 问答社区&lt;/span&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;国外社区&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#国外社区&#34;&gt;#&lt;/a&gt; 国外社区&lt;/h2&gt;
+&lt;h3 id=&#34;stackoverflow&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#stackoverflow&#34;&gt;#&lt;/a&gt; StackOverFlow&lt;/h3&gt;
+&lt;p&gt;StackOverFlow 是一个全球最大的技术问答网站，和国内知乎比较相似。但与知乎不同的是，StackOverFlow 更垂直于技术，不像知乎内容比较杂。在 StackOverFlow，每月有超过 1 亿人访问该平台提出编程问题、学习和分享技术知识。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbQ==&#34;&gt;https://stackoverflow.com&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/it/website_stackoverflow.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;github&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#github&#34;&gt;#&lt;/a&gt; GitHub&lt;/h3&gt;
+&lt;p&gt;GitHub 是世界上最大的代码托管平台，超 1 亿开发者正在使用。GitHub 于 2008 年 4 月 10 日正式上线，除了 Git 代码仓库托管及基本的 Web 管理界面以外，还提供了订阅、讨论组、文本渲染、在线文件编辑器、协作图谱（报表）、代码片段分享（Gist）等功能。&lt;/p&gt;
+&lt;p&gt;虽然 GitHub 更多是一个代码托管平台，但也确实有一定社交属性，因此被戏称为「全球最大的同性交友网站」。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29t&#34;&gt;https://github.com&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/it/website_.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;freecodecamp&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#freecodecamp&#34;&gt;#&lt;/a&gt; freeCodeCamp&lt;/h3&gt;
+&lt;p&gt;非营利组织 freeCodeCamp（简称 FCC）成立于 2014 年，是全球最大的开源公益编程教育社区，以 “帮助人们免费学习编程” 为使命，在成千上万名志愿贡献者的帮助下，创建了大量优质的编程教程，包括交互式课程、视频课程、文章等，内容涵盖 JavaScript、Python、SQL、数据科学等等 —— 所有内容向公众免费开放。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZnJlZWNvZGVjYW1wLm9yZw==&#34;&gt;https://www.freecodecamp.org&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/it/website_fcc.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;dev-community&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#dev-community&#34;&gt;#&lt;/a&gt; Dev Community&lt;/h3&gt;
+&lt;p&gt;DEV 是一个软件开发人员社区，他们聚在一起互相帮助。软件行业依赖于协作和网络学习，而 DEV 为这种情况提供了一个场所。DEV 构建在 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2ZvcmVtL2ZvcmVt&#34;&gt;Forem&lt;/span&gt; 之上，Forem 是一款强大的、完全开源的论坛软件，由 Ruby on Rails 编程语言开发而成。&lt;/p&gt;
+&lt;p&gt;DEV 社区和国内的掘金社区很相似，技术分类也比较多，像 Java、Python、js、分布式等应有尽有，文章质量普遍都还不错，其实如果平时多留意不难发现，掘金上有一些文章是翻译自 DEV 社区。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kZXYudG8=&#34;&gt;https://dev.to&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/it/website_dev.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;hackernews&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hackernews&#34;&gt;#&lt;/a&gt; HackerNews&lt;/h3&gt;
+&lt;p&gt;Hacker News 是 Y Combinator 旗下的一个新闻提交社区，它的界面比较保守，但是社区用户质量、评论质量非常高。其定位是一个专注于计算机科学和创业的社交新闻网站，和其他新闻媒体不同，你可以在 HackerNews 上提交你的技术内容链接，将你的内容推广给全球的观众，并从其他技术极客那里找到各种有意思的内容。&lt;/p&gt;
+&lt;p&gt;如果你是科技行业从业者，无论是程序员、产品经理、PR、运营，这个网站值得每天泡，它基本上代表了当今世界最高的科技圈人群。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbQ==&#34;&gt;https://news.ycombinator.com&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/it/website_hackernews.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;hackaday&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hackaday&#34;&gt;#&lt;/a&gt; Hackaday&lt;/h3&gt;
+&lt;p&gt;Hackaday 是一个技术社区和博客网站，主要关注电子设备、计算机、硬件和创客等方面的技术内容。该平台发布了大量有关电子制作、创客项目、开源硬件、编程和创新的文章、教程和新闻。用户可以在该网站上浏览和学习各种电子技术和硬件制作的知识，并与其他技术爱好者进行交流和讨论。&lt;/p&gt;
+&lt;p&gt;Hackaday 有两个网址，其中 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2hhY2thZGF5LmNvbQ==&#34;&gt;hackaday.com&lt;/span&gt; 主要提供技术文章和新闻，而 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2hhY2thZGF5Lmlv&#34;&gt;hackaday.io&lt;/span&gt; 则是一个面向创客和技术爱好者的项目托管平台和社交网络，旨在促进项目的分享、交流和合作。两者共同构成了 Hackaday 的整个生态系统，为技术创新和社区互动提供了丰富的资源和平台。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oYWNrYWRheS5jb20=&#34;&gt;https://hackaday.com&lt;/span&gt;, &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oYWNrYWRheS5pbw==&#34;&gt;https://hackaday.io&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;hackster&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hackster&#34;&gt;#&lt;/a&gt; Hackster&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL0hhY2tzdGVyLmlv&#34;&gt;Hackster.io&lt;/span&gt; 是针对硬件学习的创客社区，聚集了大量开发者、工程师和科技爱好者，你可以在那里获得大量的灵感或者向社区展示你的项目。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaGFja3N0ZXIuaW8=&#34;&gt;https://www.hackster.io&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;hacker-noon&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hacker-noon&#34;&gt;#&lt;/a&gt; Hacker Noon&lt;/h3&gt;
+&lt;p&gt;Hacker Noon 是一家成立于 2006 年的美国独立技术媒体网站，致力于成为技术从业者阅读、编写和发布内容的首选平台。目前拥有超过 25000 名撰稿人，每月向数百万读者提供科技发布服务，提供了资源编辑、验证和发布功能。它是许多技术专家、软件开发者、比特币制造者和区块链爱好者常去的社区。&lt;/p&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oYWNrZXJub29uLmNvbQ==&#34;&gt;https://hackernoon.com&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;其他-2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#其他-2&#34;&gt;#&lt;/a&gt; 其他&lt;/h3&gt;
+&lt;p&gt;除了上面提到的网站，还有很多开发者相关的网站平台，例如 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY29kZXByb2plY3QuY29t&#34;&gt;Code Project&lt;/span&gt;、&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaW1wbGVwcm9ncmFtbWVyLmNvbQ==&#34;&gt;simpleprogrammer&lt;/span&gt;，以及 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tZWRpdW0uY29t&#34;&gt;Medium&lt;/span&gt;、&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29t&#34;&gt;Linkedin&lt;/span&gt;、&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucmVkZGl0LmNvbQ==&#34;&gt;Reddit&lt;/span&gt;、&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZm9yYmVzLmNvbQ==&#34;&gt;Forbes&lt;/span&gt; 等平台（虽然不是垂直类的开发者社区，但也经常看到优质的科技类文章或信息）。&lt;/p&gt;
+&lt;h2 id=&#34;网站排名&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#网站排名&#34;&gt;#&lt;/a&gt; 网站排名&lt;/h2&gt;
+&lt;p&gt;这里以撰写文章时最新的 2024 年 3 月数据为例，对比一下 OSCHINA、InfoQ、思否、掘金、V2EX 的访问数据（CSDN 流量远大于它们，就不放一起对比了）。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/it/dev-communities-compare-01_202403.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在对比一下 CSDN、StackOverFlow、freeCodeCamp、DEV 以及 GitHub，确实是流量非常惊人的开发者平台！&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/it/dev-communities-compare-02_202403.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/me/my-life-principles.html</guid>
+            <title>人生之书·我的原则</title>
+            <link>https://luhuadong.com/me/my-life-principles.html</link>
+            <category>人生</category>
+            <pubDate>Sun, 31 Mar 2024 13:27:59 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;自我评价体系&lt;/p&gt;
+&lt;h2 id=&#34;人生哲学与价值观&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#人生哲学与价值观&#34;&gt;#&lt;/a&gt; 人生哲学与价值观&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;鼓起勇气拒绝别人，会让你的人生轻松很多。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;时间与个人管理&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#时间与个人管理&#34;&gt;#&lt;/a&gt; 时间与个人管理&lt;/h2&gt;
+&lt;h2 id=&#34;学习与知识积累&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#学习与知识积累&#34;&gt;#&lt;/a&gt; 学习与知识积累&lt;/h2&gt;
+&lt;h2 id=&#34;事业与职业规划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#事业与职业规划&#34;&gt;#&lt;/a&gt; 事业与职业规划&lt;/h2&gt;
+&lt;h2 id=&#34;消费与财务管理&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#消费与财务管理&#34;&gt;#&lt;/a&gt; 消费与财务管理&lt;/h2&gt;
+&lt;h2 id=&#34;情感与生活品质&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#情感与生活品质&#34;&gt;#&lt;/a&gt; 情感与生活品质&lt;/h2&gt;
+&lt;h2 id=&#34;情绪与内心成长&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#情绪与内心成长&#34;&gt;#&lt;/a&gt; 情绪与内心成长&lt;/h2&gt;
+&lt;h2 id=&#34;艺术修养与审美&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#艺术修养与审美&#34;&gt;#&lt;/a&gt; 艺术修养与审美&lt;/h2&gt;
+&lt;h2 id=&#34;生死观&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#生死观&#34;&gt;#&lt;/a&gt; 生死观&lt;/h2&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/guide/how-to-start-a-podcast.html</guid>
+            <title>如何开始创建一个播客节目</title>
+            <link>https://luhuadong.com/guide/how-to-start-a-podcast.html</link>
+            <category>指南</category>
+            <pubDate>Sun, 17 Mar 2024 14:46:12 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;硬件设备&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#硬件设备&#34;&gt;#&lt;/a&gt; 硬件设备&lt;/h2&gt;
+&lt;h2 id=&#34;播客平台&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#播客平台&#34;&gt;#&lt;/a&gt; 播客平台&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;YouTube&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYXBwbGUuY29tL2FwcGxlLXBvZGNhc3RzLw==&#34;&gt;Apple Podcasts&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wb2RjYXN0ZXJzLnNwb3RpZnkuY29tLw==&#34;&gt;Spotify for Podcasters&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;小宇宙&lt;/li&gt;
+&lt;li&gt;喜马拉雅&lt;/li&gt;
+&lt;li&gt;网易云音乐&lt;/li&gt;
+&lt;li&gt;豆瓣&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;苹果播客 | 小宇宙 App | 汽水儿 App | Spotify | 喜马拉雅 | 网易云音乐 | QQ 音乐 | 微信听书 | 荔枝 FM | 央广云听 | 听听 FM | Sure 竖耳 App | Bilibili | YouTube&lt;/p&gt;
+&lt;h2 id=&#34;参考&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#参考&#34;&gt;#&lt;/a&gt; 参考&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aC53aWtpaG93LmNvbS8lRTUlODglOUIlRTUlQkIlQkElRTglODclQUElRTUlQjclQjElRTclOUElODQlRTYlOTIlQUQlRTUlQUUlQTIlRUYlQkMlODhQb2RjYXN0JUVGJUJDJTg5&#34;&gt;如何创建自己的播客（Podcast）&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLm5hdGl2ZS1pbnN0cnVtZW50cy5jb20vemgvP3A9MTQxNjg=&#34;&gt;流媒体时代，如何从无到有经营自己的播客电台？&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYnV6enNwcm91dC5jb20vYmxvZy9ob3ctdG8tc3RhcnQtYS1wb2RjYXN0&#34;&gt;How to Start a Podcast: Complete Step-by-Step Guide [2024]&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/reading/the-4-hour-workweek.html</guid>
             <title>每周工作4小时</title>
@@ -3255,6 +3824,7 @@ https://weibo.com/ttarticle/p/show?id=2309404859631611805768
             <link>https://luhuadong.com/guideline.html</link>
             <pubDate>Mon, 30 Jan 2023 17:05:31 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;大家好，我是阿基米东，「成为自由人」是我的个人网络日志频道，这里会记录我的一些日常、思考，以及想分享的知识内容。在 &lt;a href=&#34;about&#34;&gt;About&lt;/a&gt; 页面有关于我的个人简介，可以快速了解我。&lt;/p&gt;
+&lt;p&gt;这些年，虽然感觉自己懂很多道理，但是却依然过不好每一天的生活，包括面对的人际关系、感情、工作、创业，所以我在《&lt;a href=&#34;/me/my-life-principles.html&#34;&gt;人生之书・我的原则&lt;/a&gt;》中记录了一些为人处世的原则。很多都是因为犯过错才反省出来的，希望以后出现类似情况可以从容面对，不会在同一个地方再次摔倒。&lt;/p&gt;
 &lt;p&gt;从 2016 年开始，我每年都会写一篇总结，记录过去一年发生的事情和个人成长，如果你感兴趣，可以看一看。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/journal/2023-year-end-summary.html&#34;&gt;我的 2023—— 现实的理想主义者&lt;/a&gt;&lt;/li&gt;
@@ -4907,19 +5477,108 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Thu, 09 Jun 2022 14:13:12 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;国内&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#国内&#34;&gt;#&lt;/a&gt; 国内&lt;/h2&gt;
+            <description><![CDATA[ &lt;h2 id=&#34;国内企业&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#国内企业&#34;&gt;#&lt;/a&gt; 国内企业&lt;/h2&gt;
 &lt;h3 id=&#34;极狐-gitlab&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#极狐-gitlab&#34;&gt;#&lt;/a&gt; 极狐 GitLab&lt;/h3&gt;
 &lt;p&gt;极狐 GitLab，是一应俱全的一站式 DevOps 平台，提供与独立应用完全一致的使用体验，从根本上改变开发、安全和运维团队的协同工作方式。极狐 GitLab 专注于解决中国用户需求的，是 GitLab DevOps 平台的中国发行版。&lt;/p&gt;
 &lt;p&gt;极狐（GitLab）公司以 “开源开放，人人贡献” 为原则，致力于推进开源生态与产业的结合。我们希望通过极狐 GitLab 开源平台，为中国用户提供全球领先的 “软件创新加速器”。&lt;/p&gt;
-&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRsYWIuY24v&#34;&gt;https://gitlab.cn&lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&#34;国外&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#国外&#34;&gt;#&lt;/a&gt; 国外&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：51-200 人&lt;/li&gt;
+&lt;li&gt;行业：信息服务&lt;/li&gt;
+&lt;li&gt;总部：Hong Kong&lt;/li&gt;
+&lt;li&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRsYWIuY24v&#34;&gt;https://gitlab.cn&lt;/span&gt;，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvamlodS1naXRsYWIv&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;国外企业&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#国外企业&#34;&gt;#&lt;/a&gt; 国外企业&lt;/h2&gt;
 &lt;h3 id=&#34;fossasia&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#fossasia&#34;&gt;#&lt;/a&gt; FOSSASIA&lt;/h3&gt;
-&lt;p&gt;FOSSASIA 是帮助自由和开源技术开发者和 Maker 的非营利组织。它由 Hong Phuc Dang 和 Mario Behling 成立。FOSSASIA 的目的是发展和套用开源技术以配合社会转变，并把重点放在亚洲用户。&lt;/p&gt;
-&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9mb3NzYXNpYS5vcmcv&#34;&gt;https://fossasia.org&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;FOSSASIA 是帮助自由和开源技术开发者和 Maker 的非营利组织。它由 Hong Phuc Dang 和 Mario Behling 于 2009 年成立。FOSSASIA 的目的是发展和套用开源技术以配合社会转变，并把重点放在亚洲用户。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：501-1,000 人&lt;/li&gt;
+&lt;li&gt;行业：信息技术和服务&lt;/li&gt;
+&lt;li&gt;总部：Singapore&lt;/li&gt;
+&lt;li&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9mb3NzYXNpYS5vcmcv&#34;&gt;https://fossasia.org&lt;/span&gt;，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvZm9zc2FzaWEv&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;canonical&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#canonical&#34;&gt;#&lt;/a&gt; Canonical&lt;/h3&gt;
 &lt;p&gt;Canonical（科能软件）公司由南非的企业家马克・沙特尔沃思创建，其创立目的是为了促进开源软件项目的发展。著名的 Linux 发行版 Ubuntu 就是由 Canonical 公司开发和维护。&lt;/p&gt;
 &lt;p&gt;Canonical 在全球（包括中国大陆）释放出了一些支持远程办公的职位，例如 Embedded &amp;amp; Desktop Linux Systems Engineer，你可以在 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY2Fub25pY2FsL2pvYnMv&#34;&gt;Linkedin&lt;/span&gt; 上找到它们。&lt;/p&gt;
-&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jYW5vbmljYWwuY29t&#34;&gt;https://canonical.com&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：501-1,000 人&lt;/li&gt;
+&lt;li&gt;行业：软件开发&lt;/li&gt;
+&lt;li&gt;总部：England，London&lt;/li&gt;
+&lt;li&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jYW5vbmljYWwuY29t&#34;&gt;https://canonical.com&lt;/span&gt;，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY2Fub25pY2FsLw==&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;flashintel&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#flashintel&#34;&gt;#&lt;/a&gt; FlashIntel&lt;/h3&gt;
+&lt;p&gt;A premier Go-to-Market Intelligence company that strengthens revenue teams by improving their capacity to discover and connect with ideal customer profiles. Our all-inclusive solutions combine sales intelligence and engagement functionalities within a unified platform, allowing revenue teams to refine their workflows and concentrate on achieving enhanced performance.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：51-200 人&lt;/li&gt;
+&lt;li&gt;行业：科技、信息和媒体&lt;/li&gt;
+&lt;li&gt;总部：CA，San Francisco&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvbXlmbGFzaGNsb3VkLw==&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;英伟达&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#英伟达&#34;&gt;#&lt;/a&gt; 英伟达&lt;/h3&gt;
+&lt;p&gt;Since its founding in 1993, NVIDIA (NASDAQ: NVDA) has been a pioneer in accelerated computing. The company’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined computer graphics, ignited the era of modern AI and is fueling the creation of the metaverse. NVIDIA is now a full-stack computing company with data-center-scale offerings that are reshaping industry.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：大于 10,000 人&lt;/li&gt;
+&lt;li&gt;行业：计算机硬件制造业&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvbnZpZGlhLw==&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ebay&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#ebay&#34;&gt;#&lt;/a&gt; eBay&lt;/h3&gt;
+&lt;p&gt;eBay has more than 15 years experience of building and running cloud, and now we are in the transition to the 3rd generation cloud platform with the most advanced technologies supporting eBay business rapid growth. This platform is aimed to inspire the eBay developers to be more innovative and productive, and empower them with full stack offerings from infrastructure to application. Meanwhile, the eBay Cloud is engineered for reliability, scalability and security all the time.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：大于 10,000 人&lt;/li&gt;
+&lt;li&gt;行业：科技、信息和网络&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvZWJheS8=&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;wish&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#wish&#34;&gt;#&lt;/a&gt; Wish&lt;/h3&gt;
+&lt;p&gt;Wish is a mobile e-commerce platform that connects millions of consumers with the widest selection of products delivered directly to their doors. Our vision is to unlock ecommerce for the underserved by giving everyone access to the most affordable and convenient shopping experience on the planet.&lt;/p&gt;
+&lt;p&gt;Wish is headquartered in San Francisco, with additional offices around the world.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：501-1,000 人&lt;/li&gt;
+&lt;li&gt;行业：软件开发&lt;/li&gt;
+&lt;li&gt;总部：CA，San Francisco&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvd2lzaHNob3BwaW5nLw==&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ffw&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#ffw&#34;&gt;#&lt;/a&gt; FFW&lt;/h3&gt;
+&lt;p&gt;FFW is a global digital platform agency that combines data insights, strategy, design, and development to design, build and scale engaging experiences and to impact our clients’ businesses. With more than 800 experts worldwide, we act as digital experience navigators that our clients trust.&lt;/p&gt;
+&lt;p&gt;Founded in 2000 in Copenhagen, we are now based in eleven countries – from the United States to Vietnam – and work on award-winning projects for Fortune 2000 companies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：501-1,000 人&lt;/li&gt;
+&lt;li&gt;行业：软件开发&lt;/li&gt;
+&lt;li&gt;总部：Denmark，Copenhagen&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvZmZ3Lw==&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;epam-systems&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#epam-systems&#34;&gt;#&lt;/a&gt; EPAM Systems&lt;/h3&gt;
+&lt;p&gt;Since 1993, EPAM Systems, Inc. (NYSE: EPAM) has used its software engineering expertise to become a leading global provider of digital engineering, cloud and AI-enabled transformation services, as well as a leading business and experience consulting partner for global enterprises and ambitious startups. We address our clients’ transformation challenges by fusing EPAM Continuum’s integrated strategy, experience and technology consulting with our 30+ years of engineering execution to speed our clients’ time to market and drive greater value from their innovations and digital investments.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：大于 10,000 人&lt;/li&gt;
+&lt;li&gt;行业：IT 服务与咨询&lt;/li&gt;
+&lt;li&gt;总部：PA，Newtown&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvZXBhbS1zeXN0ZW1zLw==&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;lime&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#lime&#34;&gt;#&lt;/a&gt; Lime&lt;/h3&gt;
+&lt;p&gt;Lime is the world’s largest shared electric vehicle company. We’re on a mission to build a future where transportation is shared, affordable and carbon-free. Our electric bikes and scooters have powered 400+ million rides in 250+ cities on 5 continents, replacing an estimated 100+ million car trips. Named a Time 100 Most Influential Company and Fast Company Brand That Matters, we achieved a fully profitable year in 2022, becoming the first in our industry to reach this milestone.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：501-1,000 人&lt;/li&gt;
+&lt;li&gt;行业：软件开发&lt;/li&gt;
+&lt;li&gt;总部：CA，San Francisco&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvbGltZWJpa2Uv&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;edb&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#edb&#34;&gt;#&lt;/a&gt; EDB&lt;/h3&gt;
+&lt;p&gt;EDB provides enterprise-class software and services that enable businesses and governments to harness the full power of Postgres, the world’s leading open-source database. With offices worldwide, EDB serves more than 1,500 customers, including leading financial services, government, media and communications and information technology organizations. As one of the leading contributors to the vibrant and fast-growing Postgres community, EDB is committed to driving technology innovation.&lt;/p&gt;
+&lt;p&gt;With deep database expertise, EDB ensures high availability, reliability, security, 24x7 global support and advanced professional services, both on-premises and in the cloud. This empowers enterprises to control risk, manage costs and scale efficiently. For more information, visit &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5lbnRlcnByaXNlZGIuY29t&#34;&gt;www.enterprisedb.com&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：501-1,000 人&lt;/li&gt;
+&lt;li&gt;行业：软件开发&lt;/li&gt;
+&lt;li&gt;总部：MA，Bedford&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvZWRicG9zdGdyZXMv&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;varian&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#varian&#34;&gt;#&lt;/a&gt; Varian&lt;/h3&gt;
+&lt;p&gt;At Varian, a Siemens Healthineers company, we envision a world without fear of cancer. For more than 75 years, Varian has developed, built, and delivered innovative technologies and solutions that help care providers around the globe treat millions of patients each year. Today, as a Siemens Healthineers company, we support every step of the cancer care journey – from screening to survivorship. From advanced imaging and radiation therapy, to comprehensive software and services, to interventional radiology, we are harnessing the power of our perspective while also pursuing clinical research to create a more efficient, and more personalized care pathway. Because, for cancer patients everywhere, their fight is our fight.&lt;/p&gt;
+&lt;p&gt;Varian reserves the right to remove any comment for any reason and ban any user from its page at its sole discretion. Varian does not endorse user comments on its page and cannot confirm their accuracy. User comments do not necessarily represent the ideas, thoughts, beliefs, opinions or views of Varian, or any of its affiliates.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;规模：5,000-10,000 人&lt;/li&gt;
+&lt;li&gt;行业：医疗设备&lt;/li&gt;
+&lt;li&gt;总部：CA，Palo Alto&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvdmFyaWFuLW1lZGljYWwtc3lzdGVtcy8=&#34;&gt;linkedin&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
  ]]></description>
         </item>
         <item>
@@ -10265,13 +10924,14 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
 &lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;iframe&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;//player.bilibili.com/player.html?aid=xxx&amp;amp;bvid=yyy&amp;amp;cid=zzz&amp;amp;page=1&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;scrolling&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;no&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;border&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;frameborder&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;no&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;framespacing&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;allowfullscreen&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;true&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;iframe&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;但由于官方提供的这段代码的视频排版不是很美观，而且不能观看高清视频，也发不了弹幕（或关闭弹幕），因此有必要对它进行调整。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;优化示例：&lt;/strong&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;iframe&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;//player.bilibili.com/player.html?aid=xxx&amp;amp;bvid=yyy&amp;amp;cid=zzz&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;allowfullscreen&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;allowfullscreen&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;width&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;100%&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;height&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;500&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;scrolling&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;no&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;frameborder&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;sandbox&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;iframe&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;iframe&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;//player.bilibili.com/player.html?aid=xxx&amp;amp;bvid=yyy&amp;amp;cid=zzz&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&amp;amp;autoplay=0&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;allowfullscreen&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;allowfullscreen&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;width&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;100%&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;height&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;500&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;scrolling&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;no&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;frameborder&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;sandbox&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;iframe&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;&lt;strong&gt;参数解释：&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;URL 参数
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;&amp;amp;high_quality=1&lt;/code&gt; ：1 = 最高画质，0 = 最低画质&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;&amp;amp;danmaku=0&lt;/code&gt; ：1 = 打开弹幕，0 = 关闭弹幕&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&amp;amp;autoplay=0&lt;/code&gt; ：1 = 自动播放，0 = 禁止自动播放&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;iframe 参数
@@ -12383,6 +13043,13 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/s
             <description><![CDATA[ &lt;p&gt;今晚做了两次 MBTI 测试，一次是 28 题版的，结果是 INTP，另一次是 93 题版的 INTJ。&lt;/p&gt;
 &lt;p&gt;测试地址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93ZWxlZmVuLmNvbS9sYWIvbWJ0aS8=&#34;&gt;https://welefen.com/lab/mbti/&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/career/MBTI-01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;MBTI 通过四个维度来描述人格类型，每个维度都包含两个相对的极端特征。以下是这四个维度及其对应的特征：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;外向（ &lt;code&gt;E&lt;/code&gt; ）与内向（ &lt;code&gt;I&lt;/code&gt; ）：外向者从外部世界获得能量，喜欢社交和交流；内向者则从内部世界获得能量，更倾向于独处和思考。&lt;/li&gt;
+&lt;li&gt;实感（ &lt;code&gt;S&lt;/code&gt; ）与直觉（ &lt;code&gt;N&lt;/code&gt; ）：实感者注重细节、现实和具体事实；直觉者则更关注整体、未来和潜在可能。&lt;/li&gt;
+&lt;li&gt;思考（ &lt;code&gt;T&lt;/code&gt; ）与情感（ &lt;code&gt;F&lt;/code&gt; ）：思考者更注重逻辑和分析，常以理性决策；情感者则更注重情感和价值观，常以情感驱动行为。&lt;/li&gt;
+&lt;li&gt;判断（ &lt;code&gt;J&lt;/code&gt; ）与知觉（ &lt;code&gt;P&lt;/code&gt; ）：判断者喜欢计划、组织和控制局面；知觉者则更愿意保持开放、灵活随性的应对。&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;intp-学者型聪颖机智的解决问题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#intp-学者型聪颖机智的解决问题&#34;&gt;#&lt;/a&gt; INTP 学者型–聪颖机智的解决问题&lt;/h2&gt;
 &lt;h3 id=&#34;荣格理论图形&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#荣格理论图形&#34;&gt;#&lt;/a&gt; 荣格理论图形&lt;/h3&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/career/INTP%E8%8D%A3%E6%A0%BC%E7%90%86%E8%AE%BA%E5%9B%BE%E5%BD%A2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;

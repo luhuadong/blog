@@ -5,6 +5,16 @@
     "home_page_url": "https://luhuadong.com",
     "items": [
         {
+            "id": "https://luhuadong.com/indie/excellent-cases-of-indie-hacker.html",
+            "url": "https://luhuadong.com/indie/excellent-cases-of-indie-hacker.html",
+            "title": "独立开发者优秀案例分享",
+            "date_published": "2024-04-04T05:24:49.000Z",
+            "content_html": "<p>这里收集一些独立开发者、数字游民、开源先锋的成功经验和产品。</p>\n<h2 id=\"独立开发\"><a class=\"markdownIt-Anchor\" href=\"#独立开发\">#</a> 独立开发</h2>\n<ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvZ0ZlaGUzSDFTS2lmQXQ2SG1KNVVBQQ==\">Tony Dinh：来自越南的开发者，Typing Mind 创始人，两年内从 0 到每月 4.5 万美元。</span>（<span class=\"exturl\" data-url=\"aHR0cHM6Ly9uZXdzLnRvbnlkaW5oLmNvbS9wL215LXNvbG9wcmVuZXVyLXN0b3J5LXplcm8tdG8tNDVrbW8=\">原文</span>）</li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvX2Y4dmNkZy1oak1GYUpGczJEeGQyZw==\">Pieter Levels：PhotoAI 创始人年入数百万美元的独立开发者故事。</span>（<span class=\"exturl\" data-url=\"aHR0cHM6Ly9zdHVkeS5nZWVrYWkuY28vcG9zdHMvdGhlLXN0b3J5LW9mLXBpZXRlci1sZXZlbHM=\">原文</span>）</li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvTTk1eURacWlYTmtWOUtkVDZ2RTUwZw==\">Marc Lou：创建 ShipFast，一个用于快速发布创业项目的 NextJS 模板，月入 6.5 万美元。</span>（<span class=\"exturl\" data-url=\"aHR0cHM6Ly9tYXJjbG91LmJlZWhpaXYuY29tL3AvbXktc29sb3ByZW5ldXItc3RvcnktMC10by02NWstbW9udGgtaW4tMi15ZWFycw==\">原文</span>）</li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvT0NfOGtoOGp6YmhHbkw5cHFEX1gydw==\">亚裔小姐姐 Jen：创建 Lunch Money「个人财务管理」网站，每月营收超过 3W 美元。</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MveTJBWWNDODNLQ3YyUGkwNjBuX01aZw==\">Sindre Sorhus：GitHub 榜一大佬，一个开发者兼开源贡献者，拥有众多实用的软件和开源项目。</span></li>\n</ul>\n<h2 id=\"开源先锋\"><a class=\"markdownIt-Anchor\" href=\"#开源先锋\">#</a> 开源先锋</h2>\n<ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvTlBzcGpNX2NvNTVsVWIwbXhtZnVPQQ==\">Hong Phuc Dang：创建 FOSSASIA 开源组织，立志促进亚洲计算机程序员使用自由和开源软件。</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvMW5HYl9MQk5GOE40YTREYVp5eDRpUQ==\">陈思达：耶鲁大学的统计与数据科学专业大二学生，静态网站生成器 Docusaurus 核心维护者。</span></li>\n</ul>\n",
+            "tags": [
+                "独立开发者"
+            ]
+        },
+        {
             "id": "https://luhuadong.com/indie/building-launching-saas-10-days.html",
             "url": "https://luhuadong.com/indie/building-launching-saas-10-days.html",
             "title": "10天构建一个 SaaS 工具 aiCarousels",

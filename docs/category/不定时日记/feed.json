@@ -5,6 +5,28 @@
     "home_page_url": "https://luhuadong.com",
     "items": [
         {
+            "id": "https://luhuadong.com/journal/20240406.html",
+            "url": "https://luhuadong.com/journal/20240406.html",
+            "title": "32岁才发现，原来我可以什么都不做",
+            "date_published": "2024-04-06T09:12:19.000Z",
+            "content_html": "<blockquote>\n<p>32 岁了，这两年有什么长进？</p>\n</blockquote>\n<p>事业太大，需要慢慢做，还是先找对象结婚吧。</p>\n<p>对另一半的需求？</p>\n<!--\n\n性需求\n\n有相同的理念\n\n-->\n",
+            "tags": [
+                "日记",
+                "思考"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/journal/monthly-2024-03.html",
+            "url": "https://luhuadong.com/journal/monthly-2024-03.html",
+            "title": "2024年3月碎碎念：懂很多道理，却依然过不好这一生？",
+            "date_published": "2024-04-06T04:46:59.000Z",
+            "content_html": "<h2 id=\"感情失败\"><a class=\"markdownIt-Anchor\" href=\"#感情失败\">#</a> 感情失败</h2>\n<p>我突然发现，她爱我不是因为我很好，而是因为她很好，因为她有爱人的能力。这就意味着，换了一个人差不多的人，她依然可以像爱我一样爱他。</p>\n<h2 id=\"开源峰会\"><a class=\"markdownIt-Anchor\" href=\"#开源峰会\">#</a> 开源峰会</h2>\n<p>OSPO Summit 和 Dev.Together</p>\n<h2 id=\"羽毛球运动\"><a class=\"markdownIt-Anchor\" href=\"#羽毛球运动\">#</a> 羽毛球运动</h2>\n",
+            "tags": [
+                "日记",
+                "月报"
+            ]
+        },
+        {
             "id": "https://luhuadong.com/journal/five-year-plan-2024-2028.html",
             "url": "https://luhuadong.com/journal/five-year-plan-2024-2028.html",
             "title": "浅浅做个2024-2028五年规划",
