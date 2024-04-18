@@ -5,6 +5,28 @@
     "home_page_url": "https://luhuadong.com",
     "items": [
         {
+            "id": "https://luhuadong.com/it/forem.html",
+            "url": "https://luhuadong.com/it/forem.html",
+            "title": "Forem 开源的社区论坛软件框架",
+            "date_published": "2024-04-18T05:56:56.000Z",
+            "content_html": "<p>Forem 是一款强大的、完全开源的论坛软件，使用 Ruby on Rails 语言开发。它的设计目标是让创建和管理社区变得简单而高效，无论是用于大型企业还是个人项目，Forem 都可以提供丰富的功能和自定义选项。</p>\n<p>著名的开发者社区 <span class=\"exturl\" data-url=\"aHR0cHM6Ly9kZXYudG8=\">DEV</span> 就是基于 Forem 打造而成的。</p>\n<h2 id=\"主要特点\"><a class=\"markdownIt-Anchor\" href=\"#主要特点\">#</a> 主要特点</h2>\n<ul>\n<li>易部署： Forem 提供了一键部署到 Heroku 或 Docker 的方案，让你快速启动论坛。</li>\n<li>模块化：其组件化设计便于定制和扩展，满足不同需求。</li>\n<li>多语言支持：内置多语言包，适应全球化社区。</li>\n<li>用户体验友好：拥有清晰的界面，易于导航和操作。</li>\n<li>活跃的社区：Forem 社区积极贡献代码和解决方案，保证项目的持续发展。</li>\n</ul>\n<h2 id=\"技术特性\"><a class=\"markdownIt-Anchor\" href=\"#技术特性\">#</a> 技术特性</h2>\n<ul>\n<li>\n<p><strong>基于 Ruby on Rails</strong></p>\n<p>Forem 的核心构建在 Ruby on Rails 框架之上，这使得它具备了 RoR 的所有优点，包括 MVC（模型 - 视图 - 控制器）架构、 ActiveRecord ORM（对象关系映射）以及 ActiveJob 背景任务处理等。RoR 的强大性能与简洁的代码风格确保了 Forem 在扩展性和可维护性方面的优秀表现。</p>\n</li>\n<li>\n<p><strong>响应式设计</strong></p>\n<p>Forem 具有响应式布局，这意味着无论是在桌面电脑、平板还是手机上，用户都能获得一致的优质体验。这得益于 HTML5 和 CSS3 技术的应用，使网站能够根据设备屏幕大小自动调整布局。</p>\n</li>\n<li>\n<p><strong>RESTful API</strong><br>\nForem 提供了一个全面的 RESTful API，允许开发者通过编程方式与论坛数据进行交互。这为集成其他应用或构建自定义插件提供了可能，极大地拓展了 Forem 的功能边界。</p>\n</li>\n<li>\n<p><strong>插件系统</strong><br>\n Forem 有一个强大的插件系统，允许你轻松地添加新功能或者修改现有行为。已经有众多预建的插件，如 Markdown 支持、用户积分系统等，同时你也可以根据需要自行编写。</p>\n</li>\n</ul>\n<h2 id=\"应用场景\"><a class=\"markdownIt-Anchor\" href=\"#应用场景\">#</a> 应用场景</h2>\n<ul>\n<li>社区支持：建立一个讨论产品特性的平台，与客户保持互动，收集反馈。</li>\n<li>教育平台：教师和学生可以在此进行课程讨论，分享学习资源。</li>\n<li>博客评论系统：替代传统的评论框，提供更丰富多样的交互体验。</li>\n<li>内部协作：作为团队的一个沟通工具，分享知识，讨论项目问题。</li>\n</ul>\n<h2 id=\"资源链接\"><a class=\"markdownIt-Anchor\" href=\"#资源链接\">#</a> 资源链接</h2>\n<ul>\n<li>Forem 官方网站：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9mb3JlbS5jb20=\">https://forem.com</span></li>\n<li>Forem 代码仓库：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2ZvcmVtL2ZvcmVt\">https://github.com/forem/forem</span></li>\n</ul>\n",
+            "tags": [
+                "互联网",
+                "开发者"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/it/apache-answer.html",
+            "url": "https://luhuadong.com/it/apache-answer.html",
+            "title": "Apache Answer 开源问答平台软件",
+            "date_published": "2024-04-18T05:55:40.000Z",
+            "content_html": "<p>Answer 是由 SegmentFault 思否团队打造的一款问答平台软件，后端使用 Go 语言编写，于 2022 年 10 月 24 日（程序员节）正式开源。你可以免费使用 Answer 高效地搭建一个问答社区，并用于产品技术问答、客户支持、用户交流等场景。</p>\n<p>2023 年 10 月 9 日，Answer 顺利通过投票，以全票通过的优秀表现正式进入 Apache 软件基金会（ASF）孵化器。10 月 18 日，Answer 项目正式移交到 Apache 软件基金会名下，从此改名为 Apache Answer。</p>\n<h2 id=\"主要功能\"><a class=\"markdownIt-Anchor\" href=\"#主要功能\">#</a> 主要功能</h2>\n<ul>\n<li><strong>提问和回答</strong>：提出问题并从你的用户和团队那里获得答案。</li>\n<li><strong>组织内容</strong>：将你的内容组织为分类和标签。</li>\n<li><strong>集成</strong>：与你现有的工具和服务集成。</li>\n<li><strong>游戏化</strong>：奖励用户的贡献。</li>\n<li><strong>现代用户界面</strong>：现代且响应式的用户界面。</li>\n<li><strong>可扩展</strong>：使用插件扩展 Answer。</li>\n<li><strong>开源</strong>：免费且开源。</li>\n</ul>\n<h2 id=\"资源链接\"><a class=\"markdownIt-Anchor\" href=\"#资源链接\">#</a> 资源链接</h2>\n<ul>\n<li>官方网站：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9hbnN3ZXIuYXBhY2hlLm9yZw==\">https://answer.apache.org</span> (<span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2FwYWNoZS9pbmN1YmF0b3ItYW5zd2VyLXdlYnNpdGU=\">via</span>)</li>\n<li>代码仓库：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2FwYWNoZS9pbmN1YmF0b3ItYW5zd2Vy\">https://github.com/apache/incubator-answer</span></li>\n<li>插件仓库：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2FwYWNoZS9pbmN1YmF0b3ItYW5zd2VyLXBsdWdpbnM=\">https://github.com/apache/incubator-answer-plugins</span></li>\n<li>在线文档：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9hbnN3ZXIuYXBhY2hlLm9yZy9kb2NzLw==\">https://answer.apache.org/docs/</span></li>\n<li>社区：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9tZXRhLmFuc3dlci5kZXY=\">https://meta.answer.dev</span></li>\n</ul>\n<h2 id=\"推荐阅读\"><a class=\"markdownIt-Anchor\" href=\"#推荐阅读\">#</a> 推荐阅读</h2>\n<ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvUlpXNHM1UlRmT2pBWEM4bGlKV0FhQQ==\">SegmentFault 思否正式开源问答社区软件 Answer</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvaDJQOU5UdUk0MVVTMlRfaU5zNWt4UQ==\">个人 / 团队 / 公司开源，Joyqi 谈贡献开源的「不同姿势」</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvVC0zbVFBN0V6YUNTYk9lSmxIajRPQQ==\">立足对社区的思考，贡献社区：Joyqi 在中国开源年会的演讲</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3Mvd2NCSVdIbjVPUHRHaENFOUs5ZEItZw==\">Answer 进校园：详解项目开发流程</span></li>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly96aHVhbmxhbi56aGlodS5jb20vcC82NjMwMzIzNzI=\">SegmentFault 旗下开源问答软件 Answer 入选 Apache 孵化器</span></li>\n</ul>\n",
+            "tags": [
+                "互联网",
+                "开发者"
+            ]
+        },
+        {
             "id": "https://luhuadong.com/it/developer-communities.html",
             "url": "https://luhuadong.com/it/developer-communities.html",
             "title": "盘点国内外的开发者社区",

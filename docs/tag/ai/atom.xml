@@ -98,10 +98,10 @@
     <category term="性格测试" />
     <category term="AI" />
     <entry>
-        <id>https://luhuadong.com/it/generative-ai-glossary.html</id>
+        <id>https://luhuadong.com/it/ai-glossary.html</id>
         <title>科普：AI 名词解释</title>
-        <link rel="alternate" href="https://luhuadong.com/it/generative-ai-glossary.html"/>
-        <content type="html">&lt;p&gt;啊！ChatGPT 最近很火呀，你们说的 AGI、AIGC、AI Agent、Prompt、LLM … 到底是什么意思啊？还有 Midjourney、Lensa、Sora、DALL-E、Llama … 又是什么鬼？&lt;/p&gt;
+        <link rel="alternate" href="https://luhuadong.com/it/ai-glossary.html"/>
+        <content type="html">&lt;p&gt;啊！ChatGPT 最近很火呀，你们说的 AGI、AIGC、AI Agent、Prompt、LLM … 到底是什么意思啊？还有 Midjourney、Lensa、Sora、DALL-E、Llama、GPTs … 又是什么鬼？&lt;/p&gt;
 &lt;h2 id=&#34;名词解释&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#名词解释&#34;&gt;#&lt;/a&gt; 名词解释&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;AI（Artificial Intelligence，人工智能）&lt;/strong&gt;：是研究和开发用于模拟、延伸和扩展人类智能的理论、方法、技术及应用系统的一门新技术科学。它的目标是让机器具备类似人类的智能，能够感知、理解、学习、思考、决策等。人工智能是智能学科的重要组成部分，旨在生产出一种能以人类智能相似的方式做出反应的智能机器。&lt;/li&gt;
@@ -116,6 +116,7 @@
 &lt;li&gt;&lt;strong&gt;AI Agent（人工智能代理）&lt;/strong&gt;：一种能够自主理解、规划决策、执行复杂任务的智能体。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;NLP（Natural Language Processing，自然语言处理）&lt;/strong&gt;：是 AI 的一个分支，它允许计算机系统理解和生成人类语言。NLP 系统使用计算语言学和机器学习技术将语言数据转换为称为标记的简单表示，并理解它们的上下文关系。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;LLM（Large Language Model，大语言模型）&lt;/strong&gt;：是基于大量数据进行预训练的超大型深度学习模型，可以执行各种自然语言处理（NLP）任务。大型语言模型会使用多个转换器模型，并使用海量数据集进行训练，因此规模非常庞大。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GPTs&lt;/strong&gt;：即 GPT Store，是 OpenAI 推出的一个应用商店平台，里面提供了各种各样的 GPT 智能应用。自 2023 年 11 月开放 GPTs 以来，短短两个月，用户已创建多达 300 万个 GPTs，涉及办公、设计、生活、教育、科研、编程等各个领域。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;机器学习&lt;/strong&gt;：人工智能的一个子领域，这是教计算机通过数据和算法识别模式的实践。它与传统编程的不同之处在于，计算机不需要明确编码来解决每一个潜在场景。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;神经网络&lt;/strong&gt;：一种机器学习模型，模仿人脑中的神经元，使用节点网络通过算法处理数据。这允许计算机在许多不同的数据点之间建立联系，并在响应查询时了解哪些是最重要的。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;深度学习&lt;/strong&gt;：是一门 AI 学科，专注于训练具有多个隐藏层的神经网络，以从原始数据中提取和理解复杂的关系。AI 专家使用深度学习来构建能够理解文本、音频、图像、视频和其他信息类型的系统。ChatGPT 和 Stable Diffusion 等 AI 工具是使用深度学习技术的应用示例。&lt;/li&gt;
@@ -129,6 +130,7 @@
 &lt;li&gt;&lt;strong&gt;Lensa&lt;/strong&gt;：Prisma Labs 于 2018 年首次推出的适用于 iOS 和 Android 的图像编辑应用程序。由于新的 “魔法头像” 功能，它在最近几周走红，其效果类似于 Stable Diffusion 和 Dreambooth。它因创造过度性感的图像（尤其是女性图像）以及意外的裸体而受到批评。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Sora&lt;/strong&gt;：是 OpenAI 开发的一个能以文本描述生成视频的人工智能模型，可以从文本提示创建真实的视频。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;LLaMA&lt;/strong&gt;（Large Language Model Meta AI，大语言模型元 AI）：是 Meta AI 公司于 2023 年 2 月发布的大型语言模型，也是目前为止效果最好的开源 LLM 之一。Llama 这个单词本身是指美洲大羊驼，所以社区也将这个系列的模型昵称为羊驼系模型。LLaMA 按照参数量的大小分为四个型号：LLaMA-7B、LLaMA-13B、LLaMA-30B 与 LLaMA-65B。这里的 B 是 billion 的缩写，指代模型的参数规模。故最小的模型 7B 包含 70 亿个参数，而最大的一款 65B 则包含 650 亿个参数。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;多模态模型&lt;/strong&gt;：是指能够处理和融合多种不同类型数据的模型。这些数据可以包括文本、图像、音频、视频等不同模态的数据。多模态模型在许多应用领域中都发挥着重要作用，例如自然语言处理（NLP）、计算机视觉（CV）、音频处理、健康医疗等等。在多模态模型中，不同模态的数据被融合在一起，以便同时处理和分析它们。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
 &lt;ul&gt;

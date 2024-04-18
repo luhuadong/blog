@@ -5,8 +5,8 @@
         <link>https://luhuadong.com</link>
         <description>阿基米东的网络日志</description>
         <language>zh-CN</language>
-        <pubDate>Mon, 01 Apr 2024 13:22:03 +0800</pubDate>
-        <lastBuildDate>Mon, 01 Apr 2024 13:22:03 +0800</lastBuildDate>
+        <pubDate>Thu, 18 Apr 2024 13:56:56 +0800</pubDate>
+        <lastBuildDate>Thu, 18 Apr 2024 13:56:56 +0800</lastBuildDate>
         <category>商业</category>
         <category>成长</category>
         <category>日记</category>
@@ -100,6 +100,93 @@
         <category>开发者</category>
         <category>性格测试</category>
         <category>AI</category>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/it/forem.html</guid>
+            <title>Forem 开源的社区论坛软件框架</title>
+            <link>https://luhuadong.com/it/forem.html</link>
+            <category>互联网</category>
+            <category>开发者</category>
+            <pubDate>Thu, 18 Apr 2024 13:56:56 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;Forem 是一款强大的、完全开源的论坛软件，使用 Ruby on Rails 语言开发。它的设计目标是让创建和管理社区变得简单而高效，无论是用于大型企业还是个人项目，Forem 都可以提供丰富的功能和自定义选项。&lt;/p&gt;
+&lt;p&gt;著名的开发者社区 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kZXYudG8=&#34;&gt;DEV&lt;/span&gt; 就是基于 Forem 打造而成的。&lt;/p&gt;
+&lt;h2 id=&#34;主要特点&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#主要特点&#34;&gt;#&lt;/a&gt; 主要特点&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;易部署： Forem 提供了一键部署到 Heroku 或 Docker 的方案，让你快速启动论坛。&lt;/li&gt;
+&lt;li&gt;模块化：其组件化设计便于定制和扩展，满足不同需求。&lt;/li&gt;
+&lt;li&gt;多语言支持：内置多语言包，适应全球化社区。&lt;/li&gt;
+&lt;li&gt;用户体验友好：拥有清晰的界面，易于导航和操作。&lt;/li&gt;
+&lt;li&gt;活跃的社区：Forem 社区积极贡献代码和解决方案，保证项目的持续发展。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;技术特性&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#技术特性&#34;&gt;#&lt;/a&gt; 技术特性&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;基于 Ruby on Rails&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Forem 的核心构建在 Ruby on Rails 框架之上，这使得它具备了 RoR 的所有优点，包括 MVC（模型 - 视图 - 控制器）架构、 ActiveRecord ORM（对象关系映射）以及 ActiveJob 背景任务处理等。RoR 的强大性能与简洁的代码风格确保了 Forem 在扩展性和可维护性方面的优秀表现。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;响应式设计&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Forem 具有响应式布局，这意味着无论是在桌面电脑、平板还是手机上，用户都能获得一致的优质体验。这得益于 HTML5 和 CSS3 技术的应用，使网站能够根据设备屏幕大小自动调整布局。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;RESTful API&lt;/strong&gt;&lt;br&gt;
+Forem 提供了一个全面的 RESTful API，允许开发者通过编程方式与论坛数据进行交互。这为集成其他应用或构建自定义插件提供了可能，极大地拓展了 Forem 的功能边界。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;插件系统&lt;/strong&gt;&lt;br&gt;
+ Forem 有一个强大的插件系统，允许你轻松地添加新功能或者修改现有行为。已经有众多预建的插件，如 Markdown 支持、用户积分系统等，同时你也可以根据需要自行编写。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;应用场景&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#应用场景&#34;&gt;#&lt;/a&gt; 应用场景&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;社区支持：建立一个讨论产品特性的平台，与客户保持互动，收集反馈。&lt;/li&gt;
+&lt;li&gt;教育平台：教师和学生可以在此进行课程讨论，分享学习资源。&lt;/li&gt;
+&lt;li&gt;博客评论系统：替代传统的评论框，提供更丰富多样的交互体验。&lt;/li&gt;
+&lt;li&gt;内部协作：作为团队的一个沟通工具，分享知识，讨论项目问题。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;资源链接&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#资源链接&#34;&gt;#&lt;/a&gt; 资源链接&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Forem 官方网站：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9mb3JlbS5jb20=&#34;&gt;https://forem.com&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Forem 代码仓库：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2ZvcmVtL2ZvcmVt&#34;&gt;https://github.com/forem/forem&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/it/apache-answer.html</guid>
+            <title>Apache Answer 开源问答平台软件</title>
+            <link>https://luhuadong.com/it/apache-answer.html</link>
+            <category>互联网</category>
+            <category>开发者</category>
+            <pubDate>Thu, 18 Apr 2024 13:55:40 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;Answer 是由 SegmentFault 思否团队打造的一款问答平台软件，后端使用 Go 语言编写，于 2022 年 10 月 24 日（程序员节）正式开源。你可以免费使用 Answer 高效地搭建一个问答社区，并用于产品技术问答、客户支持、用户交流等场景。&lt;/p&gt;
+&lt;p&gt;2023 年 10 月 9 日，Answer 顺利通过投票，以全票通过的优秀表现正式进入 Apache 软件基金会（ASF）孵化器。10 月 18 日，Answer 项目正式移交到 Apache 软件基金会名下，从此改名为 Apache Answer。&lt;/p&gt;
+&lt;h2 id=&#34;主要功能&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#主要功能&#34;&gt;#&lt;/a&gt; 主要功能&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;提问和回答&lt;/strong&gt;：提出问题并从你的用户和团队那里获得答案。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;组织内容&lt;/strong&gt;：将你的内容组织为分类和标签。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;集成&lt;/strong&gt;：与你现有的工具和服务集成。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;游戏化&lt;/strong&gt;：奖励用户的贡献。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;现代用户界面&lt;/strong&gt;：现代且响应式的用户界面。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可扩展&lt;/strong&gt;：使用插件扩展 Answer。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;开源&lt;/strong&gt;：免费且开源。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;资源链接&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#资源链接&#34;&gt;#&lt;/a&gt; 资源链接&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;官方网站：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hbnN3ZXIuYXBhY2hlLm9yZw==&#34;&gt;https://answer.apache.org&lt;/span&gt; (&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FwYWNoZS9pbmN1YmF0b3ItYW5zd2VyLXdlYnNpdGU=&#34;&gt;via&lt;/span&gt;)&lt;/li&gt;
+&lt;li&gt;代码仓库：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FwYWNoZS9pbmN1YmF0b3ItYW5zd2Vy&#34;&gt;https://github.com/apache/incubator-answer&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;插件仓库：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FwYWNoZS9pbmN1YmF0b3ItYW5zd2VyLXBsdWdpbnM=&#34;&gt;https://github.com/apache/incubator-answer-plugins&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;在线文档：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hbnN3ZXIuYXBhY2hlLm9yZy9kb2NzLw==&#34;&gt;https://answer.apache.org/docs/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;社区：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tZXRhLmFuc3dlci5kZXY=&#34;&gt;https://meta.answer.dev&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;推荐阅读&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#推荐阅读&#34;&gt;#&lt;/a&gt; 推荐阅读&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvUlpXNHM1UlRmT2pBWEM4bGlKV0FhQQ==&#34;&gt;SegmentFault 思否正式开源问答社区软件 Answer&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvaDJQOU5UdUk0MVVTMlRfaU5zNWt4UQ==&#34;&gt;个人 / 团队 / 公司开源，Joyqi 谈贡献开源的「不同姿势」&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvVC0zbVFBN0V6YUNTYk9lSmxIajRPQQ==&#34;&gt;立足对社区的思考，贡献社区：Joyqi 在中国开源年会的演讲&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3Mvd2NCSVdIbjVPUHRHaENFOUs5ZEItZw==&#34;&gt;Answer 进校园：详解项目开发流程&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aHVhbmxhbi56aGlodS5jb20vcC82NjMwMzIzNzI=&#34;&gt;SegmentFault 旗下开源问答软件 Answer 入选 Apache 孵化器&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/it/developer-communities.html</guid>
             <title>盘点国内外的开发者社区</title>
@@ -229,6 +316,16 @@
 &lt;p&gt;Read the Docs 是一个在线文档托管服务，你可以从各种版本控制系统（例如 Github）中导入文档，每次提交代码后可以自动构建并上传至 readthedocs 网站，非常方便。&lt;/p&gt;
 &lt;p&gt;Read the Docs 是一个基于 Sphinx 的免费文档托管项目，目前已经托管了超过 9 万份文档。Sphinx 是一个基于 Python 的文档生成项目，最早只是用来生成 Python 官方文档，随着工具的完善， 越来越多的知名的项目也用他来生成文档。&lt;/p&gt;
 &lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9yZWFkdGhlZG9jcy5vcmc=&#34;&gt;https://readthedocs.org&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;vercel&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#vercel&#34;&gt;#&lt;/a&gt; Vercel&lt;/h2&gt;
+&lt;p&gt;Vercel 它是一个免费的网站托管平台，也是我目前用过最好的网站托管平台，不仅仅可以部署静态网站，而且还可以部署动态网站。（本站就是托管在 Vercel 平台上）&lt;/p&gt;
+&lt;p&gt;Vercel 有以下特点和优势：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;关联 GitHub，只需要将提交推送到 GitHub 仓库，就会自动拉取最新的提交，然后自动部署。&lt;/li&gt;
+&lt;li&gt;提供了免费的域名，省去了申请域名的问题，如果有自己的域名，还可以做个域名解析到这个平台上。&lt;/li&gt;
+&lt;li&gt;提供了免费的 HTTPS 证书，如果证书到期了，它会自动替换，完全不需要操心。&lt;/li&gt;
+&lt;li&gt;提供傻瓜式的部署方式，操作非常简单，既可以通过命令行部署，也通过 Vercel 提供管理后台部署。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92ZXJjZWwuY29t&#34;&gt;https://vercel.com&lt;/span&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
