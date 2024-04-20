@@ -1,188 +1,20 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2"><meta name="theme-color" content="#222"><meta http-equiv="X-UA-COMPATIBLE" content="IE=edge,chrome=1"><meta name="renderer" content="webkit"><link rel="icon" type="image/ico" sizes="32x32" href="/images/favicon.ico"><link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png"><link rel="alternate" href="/rss.xml" title="成为自由人" type="application/rss+xml"><link rel="alternate" href="/atom.xml" title="成为自由人" type="application/atom+xml"><link rel="alternate" type="application/json" title="成为自由人" href="https://luhuadong.com/feed.json"><link rel="preconnect" href="https://lf9-cdn-tos.bytecdntp.com"><link rel="preconnect" href="https://at.alicdn.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mulish:400,400italic,700,700italic%7CFredericka%20the%20Great:400,400italic,700,700italic%7CNoto%20Serif%20JP:400,400italic,700,700italic%7CNoto%20Serif%20SC:400,400italic,700,700italic%7CInconsolata:400,400italic,700,700italic&amp;display=swap&amp;subset=latin,latin-ext" media="none" onload="this.media='all'"><link rel="stylesheet" href="/css/app.css?v=0.4.2"><link rel="modulepreload" href="/js/chunk-6YUOJFUT.js"><link rel="modulepreload" href="/js/chunk-BOAMRYMO.js"><link rel="modulepreload" href="/js/chunk-EUVLDRIS.js"><link rel="modulepreload" href="/js/chunk-MHCLU4MO.js"><link rel="modulepreload" href="/js/chunk-QV654IOU.js"><link rel="modulepreload" href="/js/index.esm-ZSS43QI4.js"><link rel="modulepreload" href="/js/post-5QNZ4XN4.js"><link rel="modulepreload" href="/js/quicklink-JNTWXEJ2.js"><link rel="modulepreload" href="/js/search-STTKNIV5.js"><link rel="modulepreload" href="/js/siteInit.js"><link rel="modulepreload" href="/js/tcomments-IJCZZNNK.js"><link rel="preload" href="https://luhuadong.com/images/default/CrestedButteEclispe.jpg" as="image" fetchpriority="high"><link rel="preload" href="https://luhuadong.com/images/default/OrcaNorway.jpg" as="image" fetchpriority="high"><link rel="preload" href="https://luhuadong.com/images/default/WhitehorseAurora.jpg" as="image" fetchpriority="high"><link rel="preload" href="https://luhuadong.com/images/default/JavaBromo.jpg" as="image" fetchpriority="high"><link rel="preload" href="https://luhuadong.com/images/default/NIrelandGiants.jpg" as="image" fetchpriority="high"><link rel="preload" href="https://luhuadong.com/images/default/JTNPMilkyWay.jpg" as="image" fetchpriority="high"><meta name="keywords" content="Markdown"><meta name="description" content="在前面《了解常用 Markdown 扩展语法》简单介绍了如何在 Markdown 中插入数学公式，关于这个话题还是蛮有趣的。尤其在专业领域，常常需要引入公式进行论证，如何呈现印刷级别的公式就很重要啦！好在 Markdown 扩展语法支持 LaTeX 公式表达，并且有像 MathJax 这样优秀的工具渲染 LaTeX 数学表达式。
 
 
 
-
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-  <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
-<meta name="theme-color" content="#FFF">
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
-
-<link rel="icon" type="image/ico" sizes="32x32" href="/images/favicon.ico">
-  <meta http-equiv="Cache-Control" content="no-transform">
-  <meta http-equiv="Cache-Control" content="no-siteapp">
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3396347538857110" crossorigin="anonymous"></script>
-
-<link rel="alternate" type="application/rss+xml" title="成为自由人" href="https://luhuadong.com/rss.xml" />
-<link rel="alternate" type="application/atom+xml" title="成为自由人" href="https://luhuadong.com/atom.xml" />
-<link rel="alternate" type="application/json" title="成为自由人" href="https://luhuadong.com/feed.json" />
-
-<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Mulish:300,300italic,400,400italic,700,700italic%7CFredericka%20the%20Great:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20JP:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20SC:300,300italic,400,400italic,700,700italic%7CInconsolata:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
-
-<link rel="stylesheet" href="/css/app.css?v=0.2.5">
-
-  
-  <meta name="keywords" content="Markdown" />
-
-
-<link rel="canonical" href="https://luhuadong.com/markdown/markdown-formulas-expression.html">
-
-
-
-  <title>
-一次搞定 Markdown 公式表达 - 一起学Markdown |
-Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</title>
-<!-- hexo injector head_end start -->
+MathJax 是一个跨浏览器的 JavaScript 库，它使用 MathML、LaTeX 和 ASCIIMathML 标记在 Web 浏览器中显示数学符号。MathJax 项目始于 2009 年，是早期 JavaScript 数学格式化库 jsMath 的继"><link rel="canonical" href="https://luhuadong.com/markdown/markdown-formulas-expression.html"><title>一次搞定 Markdown 公式表达</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css">
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-math@4.0.0/dist/style.css">
-<!-- hexo injector head_end end --><meta name="generator" content="Hexo 5.4.2"></head>
-<body itemscope itemtype="http://schema.org/WebPage">
-  <div id="loading">
-    <div class="cat">
-      <div class="body"></div>
-      <div class="head">
-        <div class="face"></div>
-      </div>
-      <div class="foot">
-        <div class="tummy-end"></div>
-        <div class="bottom"></div>
-        <div class="legs left"></div>
-        <div class="legs right"></div>
-      </div>
-      <div class="paw">
-        <div class="hands left"></div>
-        <div class="hands right"></div>
-      </div>
-    </div>
-  </div>
-  <div id="container">
-    <header id="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="inner">
-        <div id="brand">
-          <div class="pjax">
-          
-  <h1 itemprop="name headline">一次搞定 Markdown 公式表达
-  </h1>
-  
-<div class="meta">
-  <span class="item" title="创建时间：2021-03-13 11:29:04">
-    <span class="icon">
-      <i class="ic i-calendar"></i>
-    </span>
-    <span class="text">发表于</span>
-    <time itemprop="dateCreated datePublished" datetime="2021-03-13T11:29:04+08:00">2021-03-13</time>
-  </span>
-  <span class="item" title="本文字数">
-    <span class="icon">
-      <i class="ic i-pen"></i>
-    </span>
-    <span class="text">本文字数</span>
-    <span>3.4k</span>
-    <span class="text">字</span>
-  </span>
-  <span class="item" title="阅读时长">
-    <span class="icon">
-      <i class="ic i-clock"></i>
-    </span>
-    <span class="text">阅读时长</span>
-    <span>3 分钟</span>
-  </span>
-</div>
-
-
-          </div>
-        </div>
-        <nav id="nav">
-  <div class="inner">
-    <div class="toggle">
-      <div class="lines" aria-label="切换导航栏">
-        <span class="line"></span>
-        <span class="line"></span>
-        <span class="line"></span>
-      </div>
-    </div>
-    <ul class="menu">
-      <li class="item title"><a href="/" rel="start">Freedom Blog</a></li>
-    </ul>
-    <ul class="right">
-      <li class="item theme">
-        <i class="ic i-sun"></i>
-      </li>
-      <li class="item search">
-        <i class="ic i-search"></i>
-      </li>
-    </ul>
-  </div>
-</nav>
-
-      </div>
-      <div id="imgs" class="pjax">
-        <ul>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/ProcidaItaly.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/CrestedButteEclispe.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/QingMing2023.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/NahargarhFort.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/EdaleValley.jpg"></li>
-          <li class="item" data-background-image="https://luhuadong.com/images/default/MPPUnesco.jpg"></li>
-        </ul>
-      </div>
-    </header>
-    <div id="waves">
-      <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
-        <defs>
-          <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
-        </defs>
-        <g class="parallax">
-          <use xlink:href="#gentle-wave" x="48" y="0" />
-          <use xlink:href="#gentle-wave" x="48" y="3" />
-          <use xlink:href="#gentle-wave" x="48" y="5" />
-          <use xlink:href="#gentle-wave" x="48" y="7" />
-        </g>
-      </svg>
-    </div>
-    <main>
-      <div class="inner">
-        <div id="main" class="pjax">
-          
-  <div class="article wrap">
-    
-<div class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
-<i class="ic i-home"></i>
-<span><a href="/">首页</a></span><i class="ic i-angle-right"></i>
-<span  class="current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/categories/markdown/" itemprop="item" rel="index" title="分类于 一起学Markdown"><span itemprop="name">一起学Markdown</span></a>
-<meta itemprop="position" content="1" /></span>
-</div>
-
-    <article itemscope itemtype="http://schema.org/Article" class="post block" lang="zh-CN">
-  <link itemprop="mainEntityOfPage" href="https://luhuadong.com/markdown/markdown-formulas-expression.html">
-
-  <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <meta itemprop="image" content="/images/lu_20221221.jpg">
-    <meta itemprop="name" content="Rudy Lo">
-    <meta itemprop="description" content="生活的理想，就是为了理想的生活, 阿基米东的网络日志">
-  </span>
-
-  <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-    <meta itemprop="name" content="成为自由人">
-  </span>
-
-  <div class="body md" itemprop="articleBody">
-    
-
-    <p>在前面《<span class="exturl" data-url="aHR0cHM6Ly9sdWh1YWRvbmcuYmxvZy5jc2RuLm5ldC9hcnRpY2xlL2RldGFpbHMvMTE0NDk4MTE3">了解常用 Markdown 扩展语法</span>》简单介绍了如何在 Markdown 中插入数学公式，关于这个话题还是蛮有趣的。尤其在专业领域，常常需要引入公式进行论证，如何呈现印刷级别的公式就很重要啦！好在 Markdown 扩展语法支持 LaTeX 公式表达，并且有像 MathJax 这样优秀的工具渲染 LaTeX 数学表达式。</p>
-<p><img data-src="/images/md/LaTeX_in_Markdown.png" alt=""></p>
-<p>MathJax 是一个跨浏览器的 JavaScript 库，它使用 MathML、LaTeX 和 ASCIIMathML 标记在 Web 浏览器中显示数学符号。MathJax 项目始于 2009 年，是早期 JavaScript 数学格式化库 jsMath 的继承者，由美国数学学会管理。MathJax 是在 Apache 许可证下发布的开源软件，GitHub 地址是 <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL21hdGhqYXgvTWF0aEpheA==">https://github.com/mathjax/MathJax</span> 。</p>
+<meta name="generator" content="Hexo 7.2.0"></head><body itemscope="" itemtype="http://schema.org/WebPage"><div id="loading"><div class="cat"><div class="body"></div><div class="head"><div class="face"></div></div><div class="foot"><div class="tummy-end"></div><div class="bottom"></div><div class="legs left"></div><div class="legs right"></div></div><div class="paw"><div class="hands left"></div><div class="hands right"></div></div></div></div><div id="container"><header id="header" itemscope="" itemtype="http://schema.org/WPHeader"><div class="inner"><div id="brand"><div class="pjax"><h1 itemprop="name headline">一次搞定 Markdown 公式表达</h1><div class="meta"><span class="item" title="创建时间：2021-03-13 11:29:04"><span class="icon"><i class="ic i-calendar"></i></span><span class="text">发表于</span><time itemprop="dateCreated datePublished" datetime="2021-03-13T11:29:04+08:00">2021-03-13</time></span><span class="item" title="本文字数"><span class="icon"><i class="ic i-pen"></i></span><span class="text">本文字数</span><span>4.8k</span><span class="text">字</span></span><span class="item" title="阅读时长"><span class="icon"><i class="ic i-clock"></i></span><span class="text">阅读时长</span><span>4 分钟</span></span></div></div></div><nav id="nav"><div class="inner"><div class="toggle"><div class="lines" aria-label="切换导航栏"><span class="line"></span><span class="line"></span><span class="line"></span></div></div><ul class="menu"><li class="item title"><a href="/" rel="start">Freedom Blog</a></li></ul><ul class="right" id="rightNav"><li class="item theme"><i class="ic i-sun"></i></li><li class="item search"><i class="ic i-search"></i></li></ul></div></nav></div><div class="pjax" id="imgs"><img src="https://7ed.net/bing/api" loading="eager" decoding="async" fetchpriority="high" alt="成为自由人"></div></header><div id="waves"><svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto"><defs><path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"></path></defs><g class="parallax"><use xlink:href="#gentle-wave" x="48" y="0"></use><use xlink:href="#gentle-wave" x="48" y="3"></use><use xlink:href="#gentle-wave" x="48" y="5"></use><use xlink:href="#gentle-wave" x="48" y="7"></use></g></svg></div><main><div class="inner"><div class="pjax" id="main"><div class="article wrap"><div class="breadcrumb" itemlistelement="" itemscope="" itemtype="https://schema.org/BreadcrumbList"><i class="ic i-home"></i><span><a href="/">首页</a></span><i class="ic i-angle-right"></i><span class="current" itemprop="itemListElement" itemscope="itemscope" itemtype="https://schema.org/ListItem"><a href="/categories/markdown/" itemprop="item" rel="index" title="分类于一起学Markdown"><span itemprop="name">一起学Markdown<meta itemprop="position" content="0"></span></a></span></div><article class="post block" itemscope="itemscope" itemtype="http://schema.org/Article" lang="zh-CN"><link itemprop="mainEntityOfPage" href="https://luhuadong.com/markdown/markdown-formulas-expression.html"><span hidden="hidden" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person"><meta itemprop="image" content="/images/lu_20221221.jpg"><meta itemprop="name" content="Rudy Lo"><meta itemprop="description" content="生活的理想，就是为了理想的生活, 阿基米东的网络日志"></span><span hidden="hidden" itemprop="publisher" itemscope="itemscope" itemtype="http://schema.org/Organization"><meta itemprop="name" content="成为自由人"></span><div class="body md" itemprop="articleBody"><p>在前面《<a target="_blank" rel="noopener" href="https://luhuadong.blog.csdn.net/article/details/114498117">了解常用 Markdown 扩展语法</a>》简单介绍了如何在 Markdown 中插入数学公式，关于这个话题还是蛮有趣的。尤其在专业领域，常常需要引入公式进行论证，如何呈现印刷级别的公式就很重要啦！好在 Markdown 扩展语法支持 LaTeX 公式表达，并且有像 MathJax 这样优秀的工具渲染 LaTeX 数学表达式。</p>
+<p><img loading="lazy" data-src="/images/md/LaTeX_in_Markdown.webp" alt=""></p>
+<p>MathJax 是一个跨浏览器的 JavaScript 库，它使用 MathML、LaTeX 和 ASCIIMathML 标记在 Web 浏览器中显示数学符号。MathJax 项目始于 2009 年，是早期 JavaScript 数学格式化库 jsMath 的继承者，由美国数学学会管理。MathJax 是在 Apache 许可证下发布的开源软件，GitHub 地址是 <a target="_blank" rel="noopener" href="https://github.com/mathjax/MathJax">https://github.com/mathjax/MathJax</a> 。</p>
 <p>LaTeX 则是一个对数学公式进行排版的系统。他们的关系如下：</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">graph LR</span><br><span class="line">A[LaTeX表达式] --&gt; |MathJax| B[优美的公式]</span><br></pre></td></tr></table></figure>
-<p>额，这一节其实跟 Markdown 没太大关系 <span class="github-emoji" alias="joy" style="" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f602.png?v8">😂</span></p>
+<figure class="highlight mermaid"><figcaption data-lang="mermaid"></figcaption><table><tbody><tr><td data-num="1"></td><td><pre><span class="token keyword">graph</span> LR</pre></td></tr><tr><td data-num="2"></td><td><pre>A<span class="token text string">[LaTeX表达式]</span> <span class="token arrow operator">--&gt;</span> <span class="token label property">|MathJax|</span> B<span class="token text string">[优美的公式]</span></pre></td></tr></tbody></table></figure><p>额，这一节其实跟 Markdown 没太大关系 &lt;span class="github-emoji" alias="joy" style=""fallback-src="<a target="_blank" rel="noopener" href="https://github.githubassets.com/images/icons/emoji/unicode/1f602.png?v8">https://github.githubassets.com/images/icons/emoji/unicode/1f602.png?v8</a>"&gt;😂&lt;/span&gt;</p>
 <p>唯一要记住的就是行内标记使用一个  <code>$</code>  包裹，行间标记使用两个  <code>$$</code>  包裹 LaTeX 表达式。</p>
-<h2 id="latex-基本用法"><a class="markdownIt-Anchor" href="#latex-基本用法">#</a> LaTeX 基本用法</h2>
-<h2 id="字体"><a class="markdownIt-Anchor" href="#字体">#</a> 字体</h2>
-<h3 id="字体命令"><a class="markdownIt-Anchor" href="#字体命令">#</a> 字体命令</h3>
+<h2 id="latex-基本用法"><a class="anchor" href="#latex-基本用法">#</a> LaTeX 基本用法</h2>
+<h2 id="字体"><a class="anchor" href="#字体">#</a> 字体</h2>
+<h3 id="字体命令"><a class="anchor" href="#字体命令">#</a> 字体命令</h3>
 <p>字体命令用于定义字体，在 LaTeX 中用的字体有：</p>
 <ul>
 <li>罗马字体（ <code>\rm</code> ）</li>
@@ -195,10 +27,9 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 </ul>
 <p>其中强调型字体不是一种新的字体，而仍是上述六种之一。LaTeX 规定：如果当前字体为罗马字体，则强调型为意大利字体；如果当前字体为非罗马字体，则强调型字体为罗马字体。</p>
 <p>例如：</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;\it 这是意大利体&#125;</span><br></pre></td></tr></table></figure>
-<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mtext mathvariant="italic">这是意大利体</mtext></mrow><annotation encoding="application/x-tex">{\it 这是意大利体}
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord"><span class="mord"><span class="mord mathit cjk_fallback">这</span><span class="mord mathit cjk_fallback">是</span><span class="mord mathit cjk_fallback">意</span><span class="mord mathit cjk_fallback">大</span><span class="mord mathit cjk_fallback">利</span><span class="mord mathit cjk_fallback">体</span></span></span></span></span></span></span></p>
-<h3 id="字号命令"><a class="markdownIt-Anchor" href="#字号命令">#</a> 字号命令</h3>
+<figure class="highlight latex"><figcaption data-lang="LaTeX"></figcaption><table><tbody><tr><td data-num="1"></td><td><pre><span class="token punctuation">{</span><span class="token function selector">\it</span> 这是意大利体<span class="token punctuation">}</span></pre></td></tr></tbody></table></figure><p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mtext mathvariant="italic">这是意大利体</mtext></mrow><annotation encoding="application/x-tex">{\it 这是意大利体}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord"><span class="mord"><span class="mord mathit cjk_fallback">这是意大利体</span></span></span></span></span></span></span></p>
+<h3 id="字号命令"><a class="anchor" href="#字号命令">#</a> 字号命令</h3>
 <p>字号命令用于定义字符的大小。字号命令有：</p>
 <ul>
 <li><code>\tiny</code></li>
@@ -212,55 +43,47 @@ Freedom Blog = 成为自由人 = 生活的理想，就是为了理想的生活</
 <li><code>\huge</code></li>
 <li><code>\Huge</code></li>
 </ul>
-<p>字号命令的引用格式为： <code>&#123;命令 内容&#125;</code> 。</p>
-<h2 id="数学表达式"><a class="markdownIt-Anchor" href="#数学表达式">#</a> 数学表达式</h2>
-<h3 id="分数"><a class="markdownIt-Anchor" href="#分数">#</a> 分数</h3>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;\frac&#123;a&#125;&#123;b&#125;&#125;</span><br></pre></td></tr></table></figure>
-<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mfrac><mi>a</mi><mi>b</mi></mfrac></mrow><annotation encoding="application/x-tex">{\frac{a}{b}}
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.7935600000000003em;vertical-align:-0.686em;"></span><span class="mord"><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.10756em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">b</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">a</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></span></span></p>
-<h3 id="导数"><a class="markdownIt-Anchor" href="#导数">#</a> 导数</h3>
-<h3 id="极限"><a class="markdownIt-Anchor" href="#极限">#</a> 极限</h3>
-<h3 id="求和"><a class="markdownIt-Anchor" href="#求和">#</a> 求和</h3>
-<h3 id="微积分"><a class="markdownIt-Anchor" href="#微积分">#</a> 微积分</h3>
-<h3 id="矩阵"><a class="markdownIt-Anchor" href="#矩阵">#</a> 矩阵</h3>
-<h2 id="化学方程式"><a class="markdownIt-Anchor" href="#化学方程式">#</a> 化学方程式</h2>
-<h3 id="在等号上下写字"><a class="markdownIt-Anchor" href="#在等号上下写字">#</a> 在等号上下写字</h3>
+<p>字号命令的引用格式为： <code>{命令 内容}</code> 。</p>
+<h2 id="数学表达式"><a class="anchor" href="#数学表达式">#</a> 数学表达式</h2>
+<h3 id="分数"><a class="anchor" href="#分数">#</a> 分数</h3>
+<figure class="highlight latex"><figcaption data-lang="LaTeX"></figcaption><table><tbody><tr><td data-num="1"></td><td><pre><span class="token punctuation">{</span><span class="token function selector">\frac</span><span class="token punctuation">{</span>a<span class="token punctuation">}</span><span class="token punctuation">{</span>b<span class="token punctuation">}</span><span class="token punctuation">}</span></pre></td></tr></tbody></table></figure><p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mfrac><mi>a</mi><mi>b</mi></mfrac></mrow><annotation encoding="application/x-tex">{\frac{a}{b}}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.7936em;vertical-align:-0.686em;"></span><span class="mord"><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.1076em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">b</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">a</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></span></span></p>
+<h3 id="导数"><a class="anchor" href="#导数">#</a> 导数</h3>
+<h3 id="极限"><a class="anchor" href="#极限">#</a> 极限</h3>
+<h3 id="求和"><a class="anchor" href="#求和">#</a> 求和</h3>
+<h3 id="微积分"><a class="anchor" href="#微积分">#</a> 微积分</h3>
+<h3 id="矩阵"><a class="anchor" href="#矩阵">#</a> 矩阵</h3>
+<h2 id="化学方程式"><a class="anchor" href="#化学方程式">#</a> 化学方程式</h2>
+<h3 id="在等号上下写字"><a class="anchor" href="#在等号上下写字">#</a> 在等号上下写字</h3>
 <p><strong>在等号上面写字</strong></p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">\overset&#123;\text&#123;def&#125;&#125;&#123;=&#125;</span><br></pre></td></tr></table></figure>
-<p>效果：</p>
+<figure class="highlight latex"><figcaption data-lang="LaTeX"></figcaption><table><tbody><tr><td data-num="1"></td><td><pre><span class="token function selector">\overset</span><span class="token punctuation">{</span><span class="token function selector">\text</span><span class="token punctuation">{</span>def<span class="token punctuation">}</span><span class="token punctuation">}</span><span class="token punctuation">{</span>=<span class="token punctuation">}</span></pre></td></tr></tbody></table></figure><p>效果：</p>
 <p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mo><mover><mo><mo>=</mo></mo><mtext>def</mtext></mover></mo></mrow><annotation encoding="application/x-tex">\overset{\text{def}}{=}
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.152978em;vertical-align:0em;"></span><span class="mrel"><span class="mop op-limits"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.152978em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span><span class="mop">=</span></span></span><span style="top:-3.5668699999999998em;margin-left:0em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord mtight">def</span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.153em;"></span><span class="mrel"><span class="mop op-limits"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.153em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span><span class="mop">=</span></span></span><span style="top:-3.5669em;margin-left:0em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord mtight">def</span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
 <p><strong>在等号下面写字</strong></p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">\underset&#123;\text&#123;heated&#125;&#125;&#123;=&#125;</span><br></pre></td></tr></table></figure>
-<p>效果：</p>
+<figure class="highlight latex"><figcaption data-lang="LaTeX"></figcaption><table><tbody><tr><td data-num="1"></td><td><pre><span class="token function selector">\underset</span><span class="token punctuation">{</span><span class="token function selector">\text</span><span class="token punctuation">{</span>heated<span class="token punctuation">}</span><span class="token punctuation">}</span><span class="token punctuation">{</span>=<span class="token punctuation">}</span></pre></td></tr></tbody></table></figure><p>效果：</p>
 <p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mo><munder><mo><mo>=</mo></mo><mtext>heated</mtext></munder></mo></mrow><annotation encoding="application/x-tex">\underset{\text{heated}}{=}
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.1189779999999998em;vertical-align:-0.752108em;"></span><span class="mrel"><span class="mop op-limits"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3668699999999999em;"><span style="top:-2.347892em;margin-left:0em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord mtight">heated</span></span></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span><span class="mop">=</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.752108em;"><span></span></span></span></span></span></span></span></span></span></span></p>
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.119em;vertical-align:-0.7521em;"></span><span class="mrel"><span class="mop op-limits"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3669em;"><span style="top:-2.3479em;margin-left:0em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord mtight">heated</span></span></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span><span class="mop">=</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.7521em;"><span></span></span></span></span></span></span></span></span></span></span></p>
 <p>我们发现这种方式显示的等号太短了，在输入化学方程式的时候，如果需要添加较多的附加条件就显得不协调。比如：</p>
 <p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mo><mover><mo><mo>=</mo></mo><mrow><mtext>稀硫酸、</mtext><mn>14</mn><msup><mn>0</mn><mo>∘</mo></msup><mi mathvariant="normal">C</mi></mrow></mover></mo></mrow><annotation encoding="application/x-tex">\overset{\text{稀硫酸、}140^\circ{\rm C}}{=}
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.190795em;vertical-align:0em;"></span><span class="mrel"><span class="mop op-limits"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.190795em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span><span class="mop">=</span></span></span><span style="top:-3.5668699999999998em;margin-left:0em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">稀硫酸、</span></span><span class="mord mtight">1</span><span class="mord mtight">4</span><span class="mord mtight"><span class="mord mtight">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7484642857142858em;"><span style="top:-2.931em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord mtight"><span class="mord mtight"><span class="mord mathrm mtight">C</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.1908em;"></span><span class="mrel"><span class="mop op-limits"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.1908em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span><span class="mop">=</span></span></span><span style="top:-3.5669em;margin-left:0em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">稀硫酸、</span></span><span class="mord mtight">14</span><span class="mord mtight"><span class="mord mtight">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7485em;"><span style="top:-2.931em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord mtight"><span class="mord mtight"><span class="mord mathrm mtight">C</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
 <p>这时候需要使用下面介绍的长等号。</p>
-<h3 id="使用长等号"><a class="markdownIt-Anchor" href="#使用长等号">#</a> 使用长等号</h3>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">\xlongequal[140^\circ&#123;\rm C&#125;]&#123;\text&#123;稀硫酸&#125;&#125;</span><br></pre></td></tr></table></figure>
-<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><munderover><mo stretchy="true">=</mo><mpadded width="+0.6em" lspace="0.3em"><mrow><mn>14</mn><msup><mn>0</mn><mo>∘</mo></msup><mi mathvariant="normal">C</mi></mrow></mpadded><mpadded width="+0.6em" lspace="0.3em"><mtext>稀硫酸</mtext></mpadded></munderover></mrow><annotation encoding="application/x-tex">\xlongequal[140^\circ{\rm C}]{\text{稀硫酸}}
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.512662em;vertical-align:-0.5063310000000001em;"></span><span class="mrel x-arrow"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.0063309999999999em;"><span style="top:-3.228em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight x-arrow-pad"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">稀硫酸</span></span></span></span></span><span class="svg-align" style="top:-2.783em;"><span class="pstrut" style="height:2.7em;"></span><span class="hide-tail" style="height:0.334em;min-width:0.888em;"><svg width='400em' height='0.334em' viewBox='0 0 400000 334' preserveAspectRatio='xMinYMin slice'><path d='M0 50 h400000 v40H0z m0 194h40000v40H0z
-M0 50 h400000 v40H0z m0 194h40000v40H0z'/></svg></span></span><span style="top:-2.193669em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight x-arrow-pad"><span class="mord mtight"><span class="mord mtight">1</span><span class="mord mtight">4</span><span class="mord mtight"><span class="mord mtight">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6034642857142858em;"><span style="top:-2.786em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord mtight"><span class="mord mtight"><span class="mord mathrm mtight">C</span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.5063310000000001em;"><span></span></span></span></span></span></span></span></span></span></p>
+<h3 id="使用长等号"><a class="anchor" href="#使用长等号">#</a> 使用长等号</h3>
+<figure class="highlight latex"><figcaption data-lang="LaTeX"></figcaption><table><tbody><tr><td data-num="1"></td><td><pre><span class="token function selector">\xlongequal</span><span class="token punctuation">[</span>140^<span class="token function selector">\circ</span><span class="token punctuation">{</span><span class="token function selector">\rm</span> C<span class="token punctuation">}</span><span class="token punctuation">]</span><span class="token punctuation">{</span><span class="token function selector">\text</span><span class="token punctuation">{</span>稀硫酸<span class="token punctuation">}</span><span class="token punctuation">}</span></pre></td></tr></tbody></table></figure><p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><munderover><mo stretchy="true" minsize="3.0em">=</mo><mpadded width="+0.6em" lspace="0.3em"><mrow><mn>14</mn><msup><mn>0</mn><mo>∘</mo></msup><mi mathvariant="normal">C</mi></mrow></mpadded><mpadded width="+0.6em" lspace="0.3em"><mtext>稀硫酸</mtext></mpadded></munderover></mrow><annotation encoding="application/x-tex">\xlongequal[140^\circ{\rm C}]{\text{稀硫酸}}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.5127em;vertical-align:-0.5063em;"></span><span class="mrel x-arrow"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.0063em;"><span style="top:-3.228em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight x-arrow-pad"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">稀硫酸</span></span></span></span></span><span class="svg-align" style="top:-2.783em;"><span class="pstrut" style="height:2.7em;"></span><span class="hide-tail" style="height:0.334em;min-width:0.888em;"><svg xmlns="http://www.w3.org/2000/svg" width="400em" height="0.334em" viewBox="0 0 400000 334" preserveAspectRatio="xMinYMin slice"><path d="M0 50 h400000 v40H0z m0 194h40000v40H0z
+M0 50 h400000 v40H0z m0 194h40000v40H0z"></path></svg></span></span><span style="top:-2.1937em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight x-arrow-pad"><span class="mord mtight"><span class="mord mtight">14</span><span class="mord mtight"><span class="mord mtight">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6035em;"><span style="top:-2.786em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord mtight"><span class="mord mtight"><span class="mord mathrm mtight">C</span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.5063em;"><span></span></span></span></span></span></span></span></span></span></p>
 <p><code>\xlongequal</code>  的用法是：</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">\xlongequal[下面]&#123;上面&#125;</span><br></pre></td></tr></table></figure>
-<p>例如：</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">\text&#123;左&#125; \xlongequal[\text&#123;上&#125;]&#123;\text&#123;下&#125;&#125; \text&#123;右&#125;</span><br></pre></td></tr></table></figure>
-<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mtext>左</mtext><munderover><mo stretchy="true">=</mo><mpadded width="+0.6em" lspace="0.3em"><mtext>上</mtext></mpadded><mpadded width="+0.6em" lspace="0.3em"><mtext>下</mtext></mpadded></munderover><mtext>右</mtext></mrow><annotation encoding="application/x-tex">\text{左} \xlongequal[\text{上}]{\text{下}} \text{右}
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.512662em;vertical-align:-0.5063310000000001em;"></span><span class="mord text"><span class="mord cjk_fallback">左</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel x-arrow"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.0063309999999999em;"><span style="top:-3.228em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight x-arrow-pad"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">下</span></span></span></span></span><span class="svg-align" style="top:-2.783em;"><span class="pstrut" style="height:2.7em;"></span><span class="hide-tail" style="height:0.334em;min-width:0.888em;"><svg width='400em' height='0.334em' viewBox='0 0 400000 334' preserveAspectRatio='xMinYMin slice'><path d='M0 50 h400000 v40H0z m0 194h40000v40H0z
-M0 50 h400000 v40H0z m0 194h40000v40H0z'/></svg></span></span><span style="top:-2.193669em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight x-arrow-pad"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">上</span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.5063310000000001em;"><span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord text"><span class="mord cjk_fallback">右</span></span></span></span></span></span></p>
-<h3 id="示例"><a class="markdownIt-Anchor" href="#示例">#</a> 示例</h3>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;2\rm&#123;C_2H_5OH&#125;&#125;&#123;\overset&#123;\text&#123;稀硫酸、&#125;140^\circ&#123;\rm C&#125;&#125;&#123;=&#125;&#125;&#123;\rm C_2H_5OC_2H_5+H_2O&#125;</span><br></pre></td></tr></table></figure>
-<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mrow><mn>2</mn><mrow><msub><mi mathvariant="normal">C</mi><mn>2</mn></msub><msub><mi mathvariant="normal">H</mi><mn>5</mn></msub><mi mathvariant="normal">O</mi><mi mathvariant="normal">H</mi></mrow></mrow><mo lspace="0em" rspace="0em"><mover><mo><mo>=</mo></mo><mrow><mtext>稀硫酸、</mtext><mn>14</mn><msup><mn>0</mn><mo>∘</mo></msup><mi mathvariant="normal">C</mi></mrow></mover></mo><mrow><msub><mi mathvariant="normal">C</mi><mn>2</mn></msub><msub><mi mathvariant="normal">H</mi><mn>5</mn></msub><mi mathvariant="normal">O</mi><msub><mi mathvariant="normal">C</mi><mn>2</mn></msub><msub><mi mathvariant="normal">H</mi><mn>5</mn></msub><mo>+</mo><msub><mi mathvariant="normal">H</mi><mn>2</mn></msub><mi mathvariant="normal">O</mi></mrow></mrow><annotation encoding="application/x-tex">{2\rm{C_2H_5OH}}{\overset{\text{稀硫酸、}140^\circ{\rm C}}{=}}{\rm C_2H_5OC_2H_5+H_2O}
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.340795em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord">2</span><span class="mord"><span class="mord"><span class="mord"><span class="mord mathrm">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathrm">H</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">5</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord mathrm">O</span><span class="mord mathrm">H</span></span></span></span><span class="mord"><span class="mrel"><span class="mop op-limits"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.190795em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span><span class="mop">=</span></span></span><span style="top:-3.5668699999999998em;margin-left:0em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">稀硫酸、</span></span><span class="mord mtight">1</span><span class="mord mtight">4</span><span class="mord mtight"><span class="mord mtight">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7484642857142858em;"><span style="top:-2.931em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord mtight"><span class="mord mtight"><span class="mord mathrm mtight">C</span></span></span></span></span></span></span></span></span></span></span></span><span class="mord"><span class="mord"><span class="mord"><span class="mord mathrm">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathrm">H</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">5</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord mathrm">O</span><span class="mord"><span class="mord mathrm">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathrm">H</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">5</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord"><span class="mord mathrm">H</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord mathrm">O</span></span></span></span></span></span></span></p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;2\rm&#123;C_2H_5OH&#125;&#125;\xlongequal[140^\circ &#123;\rm C&#125;]&#123;\text&#123;稀硫酸&#125;&#125;&#123;\rm C_2H_5OC_2H_5+H_2O&#125;</span><br></pre></td></tr></table></figure>
-<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mrow><mn>2</mn><mrow><msub><mi mathvariant="normal">C</mi><mn>2</mn></msub><msub><mi mathvariant="normal">H</mi><mn>5</mn></msub><mi mathvariant="normal">O</mi><mi mathvariant="normal">H</mi></mrow></mrow><munderover><mo stretchy="true">=</mo><mpadded width="+0.6em" lspace="0.3em"><mrow><mn>14</mn><msup><mn>0</mn><mo>∘</mo></msup><mi mathvariant="normal">C</mi></mrow></mpadded><mpadded width="+0.6em" lspace="0.3em"><mtext>稀硫酸</mtext></mpadded></munderover><mrow><msub><mi mathvariant="normal">C</mi><mn>2</mn></msub><msub><mi mathvariant="normal">H</mi><mn>5</mn></msub><mi mathvariant="normal">O</mi><msub><mi mathvariant="normal">C</mi><mn>2</mn></msub><msub><mi mathvariant="normal">H</mi><mn>5</mn></msub><mo>+</mo><msub><mi mathvariant="normal">H</mi><mn>2</mn></msub><mi mathvariant="normal">O</mi></mrow></mrow><annotation encoding="application/x-tex">{2\rm{C_2H_5OH}}\xlongequal[140^\circ {\rm C}]{\text{稀硫酸}}{\rm C_2H_5OC_2H_5+H_2O}
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.512662em;vertical-align:-0.5063310000000001em;"></span><span class="mord"><span class="mord">2</span><span class="mord"><span class="mord"><span class="mord"><span class="mord mathrm">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathrm">H</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">5</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord mathrm">O</span><span class="mord mathrm">H</span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel x-arrow"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.0063309999999999em;"><span style="top:-3.228em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight x-arrow-pad"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">稀硫酸</span></span></span></span></span><span class="svg-align" style="top:-2.783em;"><span class="pstrut" style="height:2.7em;"></span><span class="hide-tail" style="height:0.334em;min-width:0.888em;"><svg width='400em' height='0.334em' viewBox='0 0 400000 334' preserveAspectRatio='xMinYMin slice'><path d='M0 50 h400000 v40H0z m0 194h40000v40H0z
-M0 50 h400000 v40H0z m0 194h40000v40H0z'/></svg></span></span><span style="top:-2.193669em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight x-arrow-pad"><span class="mord mtight"><span class="mord mtight">1</span><span class="mord mtight">4</span><span class="mord mtight"><span class="mord mtight">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6034642857142858em;"><span style="top:-2.786em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord mtight"><span class="mord mtight"><span class="mord mathrm mtight">C</span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.5063310000000001em;"><span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord"><span class="mord"><span class="mord mathrm">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathrm">H</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">5</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord mathrm">O</span><span class="mord"><span class="mord mathrm">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathrm">H</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">5</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord"><span class="mord mathrm">H</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord mathrm">O</span></span></span></span></span></span></span></p>
-<h2 id="latex-符号"><a class="markdownIt-Anchor" href="#latex-符号">#</a> LaTeX 符号</h2>
-<h3 id="特殊字符"><a class="markdownIt-Anchor" href="#特殊字符">#</a> 特殊字符</h3>
+<figure class="highlight latex"><figcaption data-lang="LaTeX"></figcaption><table><tbody><tr><td data-num="1"></td><td><pre><span class="token function selector">\xlongequal</span><span class="token punctuation">[</span>下面<span class="token punctuation">]</span><span class="token punctuation">{</span>上面<span class="token punctuation">}</span></pre></td></tr></tbody></table></figure><p>例如：</p>
+<figure class="highlight latex"><figcaption data-lang="LaTeX"></figcaption><table><tbody><tr><td data-num="1"></td><td><pre><span class="token function selector">\text</span><span class="token punctuation">{</span>左<span class="token punctuation">}</span> <span class="token function selector">\xlongequal</span><span class="token punctuation">[</span><span class="token function selector">\text</span><span class="token punctuation">{</span>上<span class="token punctuation">}</span><span class="token punctuation">]</span><span class="token punctuation">{</span><span class="token function selector">\text</span><span class="token punctuation">{</span>下<span class="token punctuation">}</span><span class="token punctuation">}</span> <span class="token function selector">\text</span><span class="token punctuation">{</span>右<span class="token punctuation">}</span></pre></td></tr></tbody></table></figure><p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mtext>左</mtext><munderover><mo stretchy="true" minsize="3.0em">=</mo><mpadded width="+0.6em" lspace="0.3em"><mtext>上</mtext></mpadded><mpadded width="+0.6em" lspace="0.3em"><mtext>下</mtext></mpadded></munderover><mtext>右</mtext></mrow><annotation encoding="application/x-tex">\text{左} \xlongequal[\text{上}]{\text{下}} \text{右}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.5127em;vertical-align:-0.5063em;"></span><span class="mord text"><span class="mord cjk_fallback">左</span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel x-arrow"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.0063em;"><span style="top:-3.228em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight x-arrow-pad"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">下</span></span></span></span></span><span class="svg-align" style="top:-2.783em;"><span class="pstrut" style="height:2.7em;"></span><span class="hide-tail" style="height:0.334em;min-width:0.888em;"><svg xmlns="http://www.w3.org/2000/svg" width="400em" height="0.334em" viewBox="0 0 400000 334" preserveAspectRatio="xMinYMin slice"><path d="M0 50 h400000 v40H0z m0 194h40000v40H0z
+M0 50 h400000 v40H0z m0 194h40000v40H0z"></path></svg></span></span><span style="top:-2.1937em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight x-arrow-pad"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">上</span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.5063em;"><span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord text"><span class="mord cjk_fallback">右</span></span></span></span></span></span></p>
+<h3 id="示例"><a class="anchor" href="#示例">#</a> 示例</h3>
+<figure class="highlight latex"><figcaption data-lang="LaTeX"></figcaption><table><tbody><tr><td data-num="1"></td><td><pre><span class="token punctuation">{</span>2<span class="token function selector">\rm</span><span class="token punctuation">{</span>C_2H_5OH<span class="token punctuation">}</span><span class="token punctuation">}</span><span class="token punctuation">{</span><span class="token function selector">\overset</span><span class="token punctuation">{</span><span class="token function selector">\text</span><span class="token punctuation">{</span>稀硫酸、<span class="token punctuation">}</span>140^<span class="token function selector">\circ</span><span class="token punctuation">{</span><span class="token function selector">\rm</span> C<span class="token punctuation">}</span><span class="token punctuation">}</span><span class="token punctuation">{</span>=<span class="token punctuation">}</span><span class="token punctuation">}</span><span class="token punctuation">{</span><span class="token function selector">\rm</span> C_2H_5OC_2H_5+H_2O<span class="token punctuation">}</span></pre></td></tr></tbody></table></figure><p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mrow><mn>2</mn><mrow><msub><mi mathvariant="normal">C</mi><mn>2</mn></msub><msub><mi mathvariant="normal">H</mi><mn>5</mn></msub><mi mathvariant="normal">O</mi><mi mathvariant="normal">H</mi></mrow></mrow><mo lspace="0em" rspace="0em"><mover><mo><mo>=</mo></mo><mrow><mtext>稀硫酸、</mtext><mn>14</mn><msup><mn>0</mn><mo>∘</mo></msup><mi mathvariant="normal">C</mi></mrow></mover></mo><mrow><msub><mi mathvariant="normal">C</mi><mn>2</mn></msub><msub><mi mathvariant="normal">H</mi><mn>5</mn></msub><mi mathvariant="normal">O</mi><msub><mi mathvariant="normal">C</mi><mn>2</mn></msub><msub><mi mathvariant="normal">H</mi><mn>5</mn></msub><mo>+</mo><msub><mi mathvariant="normal">H</mi><mn>2</mn></msub><mi mathvariant="normal">O</mi></mrow></mrow><annotation encoding="application/x-tex">{2\rm{C_2H_5OH}}{\overset{\text{稀硫酸、}140^\circ{\rm C}}{=}}{\rm C_2H_5OC_2H_5+H_2O}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.3408em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord">2</span><span class="mord"><span class="mord"><span class="mord"><span class="mord mathrm">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathrm">H</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">5</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord mathrm">OH</span></span></span></span><span class="mord"><span class="mrel"><span class="mop op-limits"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.1908em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span><span class="mop">=</span></span></span><span style="top:-3.5669em;margin-left:0em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">稀硫酸、</span></span><span class="mord mtight">14</span><span class="mord mtight"><span class="mord mtight">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7485em;"><span style="top:-2.931em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord mtight"><span class="mord mtight"><span class="mord mathrm mtight">C</span></span></span></span></span></span></span></span></span></span></span></span><span class="mord"><span class="mord"><span class="mord"><span class="mord mathrm">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathrm">H</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">5</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord mathrm">O</span><span class="mord"><span class="mord mathrm">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathrm">H</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">5</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord"><span class="mord mathrm">H</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord mathrm">O</span></span></span></span></span></span></span></p>
+<figure class="highlight latex"><figcaption data-lang="LaTeX"></figcaption><table><tbody><tr><td data-num="1"></td><td><pre><span class="token punctuation">{</span>2<span class="token function selector">\rm</span><span class="token punctuation">{</span>C_2H_5OH<span class="token punctuation">}</span><span class="token punctuation">}</span><span class="token function selector">\xlongequal</span><span class="token punctuation">[</span>140^<span class="token function selector">\circ</span> <span class="token punctuation">{</span><span class="token function selector">\rm</span> C<span class="token punctuation">}</span><span class="token punctuation">]</span><span class="token punctuation">{</span><span class="token function selector">\text</span><span class="token punctuation">{</span>稀硫酸<span class="token punctuation">}</span><span class="token punctuation">}</span><span class="token punctuation">{</span><span class="token function selector">\rm</span> C_2H_5OC_2H_5+H_2O<span class="token punctuation">}</span></pre></td></tr></tbody></table></figure><p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mrow><mn>2</mn><mrow><msub><mi mathvariant="normal">C</mi><mn>2</mn></msub><msub><mi mathvariant="normal">H</mi><mn>5</mn></msub><mi mathvariant="normal">O</mi><mi mathvariant="normal">H</mi></mrow></mrow><munderover><mo stretchy="true" minsize="3.0em">=</mo><mpadded width="+0.6em" lspace="0.3em"><mrow><mn>14</mn><msup><mn>0</mn><mo>∘</mo></msup><mi mathvariant="normal">C</mi></mrow></mpadded><mpadded width="+0.6em" lspace="0.3em"><mtext>稀硫酸</mtext></mpadded></munderover><mrow><msub><mi mathvariant="normal">C</mi><mn>2</mn></msub><msub><mi mathvariant="normal">H</mi><mn>5</mn></msub><mi mathvariant="normal">O</mi><msub><mi mathvariant="normal">C</mi><mn>2</mn></msub><msub><mi mathvariant="normal">H</mi><mn>5</mn></msub><mo>+</mo><msub><mi mathvariant="normal">H</mi><mn>2</mn></msub><mi mathvariant="normal">O</mi></mrow></mrow><annotation encoding="application/x-tex">{2\rm{C_2H_5OH}}\xlongequal[140^\circ {\rm C}]{\text{稀硫酸}}{\rm C_2H_5OC_2H_5+H_2O}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.5127em;vertical-align:-0.5063em;"></span><span class="mord"><span class="mord">2</span><span class="mord"><span class="mord"><span class="mord"><span class="mord mathrm">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathrm">H</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">5</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord mathrm">OH</span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel x-arrow"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.0063em;"><span style="top:-3.228em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight x-arrow-pad"><span class="mord mtight"><span class="mord text mtight"><span class="mord cjk_fallback mtight">稀硫酸</span></span></span></span></span><span class="svg-align" style="top:-2.783em;"><span class="pstrut" style="height:2.7em;"></span><span class="hide-tail" style="height:0.334em;min-width:0.888em;"><svg xmlns="http://www.w3.org/2000/svg" width="400em" height="0.334em" viewBox="0 0 400000 334" preserveAspectRatio="xMinYMin slice"><path d="M0 50 h400000 v40H0z m0 194h40000v40H0z
+M0 50 h400000 v40H0z m0 194h40000v40H0z"></path></svg></span></span><span style="top:-2.1937em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight x-arrow-pad"><span class="mord mtight"><span class="mord mtight">14</span><span class="mord mtight"><span class="mord mtight">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6035em;"><span style="top:-2.786em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord mtight"><span class="mord mtight"><span class="mord mathrm mtight">C</span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.5063em;"><span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord"><span class="mord"><span class="mord mathrm">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathrm">H</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">5</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord mathrm">O</span><span class="mord"><span class="mord mathrm">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathrm">H</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">5</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord"><span class="mord mathrm">H</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord mathrm">O</span></span></span></span></span></span></span></p>
+<h2 id="latex-符号"><a class="anchor" href="#latex-符号">#</a> LaTeX 符号</h2>
+<h3 id="特殊字符"><a class="anchor" href="#特殊字符">#</a> 特殊字符</h3>
 <table>
 <thead>
 <tr>
@@ -274,175 +97,175 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z'/></svg></span></span><span style="top:-
 <tbody>
 <tr>
 <td style="text-align:center">alpha</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">A</mi></mrow><annotation encoding="application/x-tex">\Alpha</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord"><span class="mord mathrm">A</span></span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">A</mi></mrow><annotation encoding="application/x-tex">\Alpha</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathrm">A</span></span></span></span></td>
 <td style="text-align:center"><code>$\Alpha$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>α</mi></mrow><annotation encoding="application/x-tex">\alpha</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>α</mi></mrow><annotation encoding="application/x-tex">\alpha</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span></td>
 <td style="text-align:center"><code>$\alpha$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">beta</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">B</mi></mrow><annotation encoding="application/x-tex">\Beta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord"><span class="mord mathrm">B</span></span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">B</mi></mrow><annotation encoding="application/x-tex">\Beta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathrm">B</span></span></span></span></td>
 <td style="text-align:center"><code>$\Beta$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>β</mi></mrow><annotation encoding="application/x-tex">\beta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathnormal" style="margin-right:0.05278em;">β</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>β</mi></mrow><annotation encoding="application/x-tex">\beta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.05278em;">β</span></span></span></span></td>
 <td style="text-align:center"><code>$\beta$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">gamma</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Γ</mi></mrow><annotation encoding="application/x-tex">\Gamma</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Γ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Γ</mi></mrow><annotation encoding="application/x-tex">\Gamma</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Γ</span></span></span></span></td>
 <td style="text-align:center"><code>$\Gamma$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>γ</mi></mrow><annotation encoding="application/x-tex">\gamma</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathnormal" style="margin-right:0.05556em;">γ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>γ</mi></mrow><annotation encoding="application/x-tex">\gamma</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.05556em;">γ</span></span></span></span></td>
 <td style="text-align:center"><code>$\gamma$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">delta</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Δ</mi></mrow><annotation encoding="application/x-tex">\Delta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Δ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Δ</mi></mrow><annotation encoding="application/x-tex">\Delta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></td>
 <td style="text-align:center"><code>$\Delta$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>δ</mi></mrow><annotation encoding="application/x-tex">\delta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.03785em;">δ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>δ</mi></mrow><annotation encoding="application/x-tex">\delta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal" style="margin-right:0.03785em;">δ</span></span></span></span></td>
 <td style="text-align:center"><code>$\delta$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">epsilon</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">E</mi></mrow><annotation encoding="application/x-tex">\Epsilon</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord"><span class="mord mathrm">E</span></span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">E</mi></mrow><annotation encoding="application/x-tex">\Epsilon</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathrm">E</span></span></span></span></td>
 <td style="text-align:center"><code>$\Epsilon$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ϵ</mi></mrow><annotation encoding="application/x-tex">\epsilon</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">ϵ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ϵ</mi></mrow><annotation encoding="application/x-tex">\epsilon</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">ϵ</span></span></span></span></td>
 <td style="text-align:center"><code>$\epsilon$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">zeta</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Z</mi></mrow><annotation encoding="application/x-tex">\Zeta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord"><span class="mord mathrm">Z</span></span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Z</mi></mrow><annotation encoding="application/x-tex">\Zeta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathrm">Z</span></span></span></span></td>
 <td style="text-align:center"><code>$\Zeta$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ζ</mi></mrow><annotation encoding="application/x-tex">\zeta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathnormal" style="margin-right:0.07378em;">ζ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ζ</mi></mrow><annotation encoding="application/x-tex">\zeta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.07378em;">ζ</span></span></span></span></td>
 <td style="text-align:center"><code>$\zeta$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">eta</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">H</mi></mrow><annotation encoding="application/x-tex">\Eta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord"><span class="mord mathrm">H</span></span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">H</mi></mrow><annotation encoding="application/x-tex">\Eta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathrm">H</span></span></span></span></td>
 <td style="text-align:center"><code>$\Eta$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>η</mi></mrow><annotation encoding="application/x-tex">\eta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">η</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>η</mi></mrow><annotation encoding="application/x-tex">\eta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">η</span></span></span></span></td>
 <td style="text-align:center"><code>$\eta$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">theta</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Θ</mi></mrow><annotation encoding="application/x-tex">\Theta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Θ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Θ</mi></mrow><annotation encoding="application/x-tex">\Theta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Θ</span></span></span></span></td>
 <td style="text-align:center"><code>$\Theta$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>θ</mi></mrow><annotation encoding="application/x-tex">\theta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>θ</mi></mrow><annotation encoding="application/x-tex">\theta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span></span></span></span></td>
 <td style="text-align:center"><code>$\theta$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">iota</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">I</mi></mrow><annotation encoding="application/x-tex">\Iota</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord"><span class="mord mathrm">I</span></span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">I</mi></mrow><annotation encoding="application/x-tex">\Iota</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathrm">I</span></span></span></span></td>
 <td style="text-align:center"><code>$\Iota$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ι</mi></mrow><annotation encoding="application/x-tex">\iota</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">ι</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ι</mi></mrow><annotation encoding="application/x-tex">\iota</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">ι</span></span></span></span></td>
 <td style="text-align:center"><code>$\iota$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">kappa</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">K</mi></mrow><annotation encoding="application/x-tex">\Kappa</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord"><span class="mord mathrm">K</span></span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">K</mi></mrow><annotation encoding="application/x-tex">\Kappa</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathrm">K</span></span></span></span></td>
 <td style="text-align:center"><code>$\Kappa$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>κ</mi></mrow><annotation encoding="application/x-tex">\kappa</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">κ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>κ</mi></mrow><annotation encoding="application/x-tex">\kappa</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">κ</span></span></span></span></td>
 <td style="text-align:center"><code>$\kappa$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">lambda</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Λ</mi></mrow><annotation encoding="application/x-tex">\Lambda</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Λ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Λ</mi></mrow><annotation encoding="application/x-tex">\Lambda</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Λ</span></span></span></span></td>
 <td style="text-align:center"><code>$\Lambda$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi></mrow><annotation encoding="application/x-tex">\lambda</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathnormal">λ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>λ</mi></mrow><annotation encoding="application/x-tex">\lambda</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span></td>
 <td style="text-align:center"><code>$\lambda$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">mu</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">M</mi></mrow><annotation encoding="application/x-tex">\Mu</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord"><span class="mord mathrm">M</span></span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">M</mi></mrow><annotation encoding="application/x-tex">\Mu</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathrm">M</span></span></span></span></td>
 <td style="text-align:center"><code>$\Mu$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>μ</mi></mrow><annotation encoding="application/x-tex">\mu</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathnormal">μ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>μ</mi></mrow><annotation encoding="application/x-tex">\mu</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal">μ</span></span></span></span></td>
 <td style="text-align:center"><code>$\mu$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">nu</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">N</mi></mrow><annotation encoding="application/x-tex">\Nu</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord"><span class="mord mathrm">N</span></span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">N</mi></mrow><annotation encoding="application/x-tex">\Nu</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathrm">N</span></span></span></span></td>
 <td style="text-align:center"><code>$\Nu$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ν</mi></mrow><annotation encoding="application/x-tex">\nu</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.06366em;">ν</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ν</mi></mrow><annotation encoding="application/x-tex">\nu</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.06366em;">ν</span></span></span></span></td>
 <td style="text-align:center"><code>$\nu$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">xi</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Ξ</mi></mrow><annotation encoding="application/x-tex">\Xi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Ξ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Ξ</mi></mrow><annotation encoding="application/x-tex">\Xi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Ξ</span></span></span></span></td>
 <td style="text-align:center"><code>$\Xi$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ξ</mi></mrow><annotation encoding="application/x-tex">\xi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathnormal" style="margin-right:0.04601em;">ξ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ξ</mi></mrow><annotation encoding="application/x-tex">\xi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.04601em;">ξ</span></span></span></span></td>
 <td style="text-align:center"><code>$\xi$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">omicron</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">O</mi></mrow><annotation encoding="application/x-tex">\Omicron</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord"><span class="mord mathrm">O</span></span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">O</mi></mrow><annotation encoding="application/x-tex">\Omicron</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathrm">O</span></span></span></span></td>
 <td style="text-align:center"><code>$\Omicron$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ο</mi></mrow><annotation encoding="application/x-tex">\omicron</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">ο</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ο</mi></mrow><annotation encoding="application/x-tex">\omicron</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">ο</span></span></span></span></td>
 <td style="text-align:center"><code>$\omicron$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">pi</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Π</mi></mrow><annotation encoding="application/x-tex">\Pi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Π</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Π</mi></mrow><annotation encoding="application/x-tex">\Pi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Π</span></span></span></span></td>
 <td style="text-align:center"><code>$\Pi$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>π</mi></mrow><annotation encoding="application/x-tex">\pi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">π</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>π</mi></mrow><annotation encoding="application/x-tex">\pi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">π</span></span></span></span></td>
 <td style="text-align:center"><code>$\pi$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">rho</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">P</mi></mrow><annotation encoding="application/x-tex">\Rho</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord"><span class="mord mathrm">P</span></span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">P</mi></mrow><annotation encoding="application/x-tex">\Rho</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathrm">P</span></span></span></span></td>
 <td style="text-align:center"><code>$\Rho$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ρ</mi></mrow><annotation encoding="application/x-tex">\rho</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathnormal">ρ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ρ</mi></mrow><annotation encoding="application/x-tex">\rho</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal">ρ</span></span></span></span></td>
 <td style="text-align:center"><code>$\rho$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">sigma</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Σ</mi></mrow><annotation encoding="application/x-tex">\Sigma</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Σ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Σ</mi></mrow><annotation encoding="application/x-tex">\Sigma</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Σ</span></span></span></span></td>
 <td style="text-align:center"><code>$\Sigma$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>σ</mi></mrow><annotation encoding="application/x-tex">\sigma</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">σ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>σ</mi></mrow><annotation encoding="application/x-tex">\sigma</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">σ</span></span></span></span></td>
 <td style="text-align:center"><code>$\sigma$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">tau</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">T</mi></mrow><annotation encoding="application/x-tex">\Tau</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord"><span class="mord mathrm">T</span></span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">T</mi></mrow><annotation encoding="application/x-tex">\Tau</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathrm">T</span></span></span></span></td>
 <td style="text-align:center"><code>$\Tau$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>τ</mi></mrow><annotation encoding="application/x-tex">\tau</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.1132em;">τ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>τ</mi></mrow><annotation encoding="application/x-tex">\tau</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.1132em;">τ</span></span></span></span></td>
 <td style="text-align:center"><code>$\tau$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">upsilon</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Υ</mi></mrow><annotation encoding="application/x-tex">\Upsilon</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Υ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Υ</mi></mrow><annotation encoding="application/x-tex">\Upsilon</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Υ</span></span></span></span></td>
 <td style="text-align:center"><code>$\Upsilon$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>υ</mi></mrow><annotation encoding="application/x-tex">\upsilon</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">υ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>υ</mi></mrow><annotation encoding="application/x-tex">\upsilon</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">υ</span></span></span></span></td>
 <td style="text-align:center"><code>$\upsilon$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">phi</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Φ</mi></mrow><annotation encoding="application/x-tex">\Phi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Φ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Φ</mi></mrow><annotation encoding="application/x-tex">\Phi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Φ</span></span></span></span></td>
 <td style="text-align:center"><code>$\Phi$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ϕ</mi></mrow><annotation encoding="application/x-tex">\phi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathnormal">ϕ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ϕ</mi></mrow><annotation encoding="application/x-tex">\phi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mord mathnormal">ϕ</span></span></span></span></td>
 <td style="text-align:center"><code>$\phi$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">chi</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">X</mi></mrow><annotation encoding="application/x-tex">\Chi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord"><span class="mord mathrm">X</span></span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">X</mi></mrow><annotation encoding="application/x-tex">\Chi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathrm">X</span></span></span></span></td>
 <td style="text-align:center"><code>$\Chi$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>χ</mi></mrow><annotation encoding="application/x-tex">\chi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathnormal">χ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>χ</mi></mrow><annotation encoding="application/x-tex">\chi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal">χ</span></span></span></span></td>
 <td style="text-align:center"><code>$\chi$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">psi</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Ψ</mi></mrow><annotation encoding="application/x-tex">\Psi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Ψ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Ψ</mi></mrow><annotation encoding="application/x-tex">\Psi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Ψ</span></span></span></span></td>
 <td style="text-align:center"><code>$\Psi$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ψ</mi></mrow><annotation encoding="application/x-tex">\psi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">ψ</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ψ</mi></mrow><annotation encoding="application/x-tex">\psi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">ψ</span></span></span></span></td>
 <td style="text-align:center"><code>$\psi$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">omega</td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Ω</mi></mrow><annotation encoding="application/x-tex">\Omega</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Ω</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Ω</mi></mrow><annotation encoding="application/x-tex">\Omega</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Ω</span></span></span></span></td>
 <td style="text-align:center"><code>$\Omega$</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ω</mi></mrow><annotation encoding="application/x-tex">\omega</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">ω</span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ω</mi></mrow><annotation encoding="application/x-tex">\omega</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">ω</span></span></span></span></td>
 <td style="text-align:center"><code>$\omega$</code></td>
 </tr>
 </tbody>
 </table>
-<h3 id="求和-积分"><a class="markdownIt-Anchor" href="#求和-积分">#</a> 求和、积分</h3>
+<h3 id="求和-积分"><a class="anchor" href="#求和-积分">#</a> 求和、积分</h3>
 <table>
 <thead>
 <tr>
@@ -456,18 +279,18 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z'/></svg></span></span><span style="top:-
 <tr>
 <td style="text-align:center">求和</td>
 <td style="text-align:center"><code>\sum</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msubsup><mo>∑</mo><mn>1</mn><mi>n</mi></msubsup></mrow><annotation encoding="application/x-tex">\sum_1^n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.104002em;vertical-align:-0.29971000000000003em;"></span><span class="mop"><span class="mop op-symbol small-op" style="position:relative;top:-0.0000050000000000050004em;">∑</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.804292em;"><span style="top:-2.40029em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span><span style="top:-3.2029em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">n</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.29971000000000003em;"><span></span></span></span></span></span></span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msubsup><mo>∑</mo><mn>1</mn><mi>n</mi></msubsup></mrow><annotation encoding="application/x-tex">\sum_1^n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.104em;vertical-align:-0.2997em;"></span><span class="mop"><span class="mop op-symbol small-op" style="position:relative;top:0em;">∑</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8043em;"><span style="top:-2.4003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span><span style="top:-3.2029em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">n</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.2997em;"><span></span></span></span></span></span></span></span></span></span></td>
 <td style="text-align:center"><code>$\sum_1^n$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">积分</td>
 <td style="text-align:center"><code>\int</code></td>
-<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msubsup><mo>∫</mo><mn>1</mn><mi mathvariant="normal">∞</mi></msubsup></mrow><annotation encoding="application/x-tex">\int_1^\infty</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.215112em;vertical-align:-0.35582em;"></span><span class="mop"><span class="mop op-symbol small-op" style="margin-right:0.19445em;position:relative;top:-0.0005599999999999772em;">∫</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8592920000000001em;"><span style="top:-2.34418em;margin-left:-0.19445em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span><span style="top:-3.2579000000000002em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">∞</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.35582em;"><span></span></span></span></span></span></span></span></span></span></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msubsup><mo>∫</mo><mn>1</mn><mi mathvariant="normal">∞</mi></msubsup></mrow><annotation encoding="application/x-tex">\int_1^\infty</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.2151em;vertical-align:-0.3558em;"></span><span class="mop"><span class="mop op-symbol small-op" style="margin-right:0.19445em;position:relative;top:-0.0006em;">∫</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8593em;"><span style="top:-2.3442em;margin-left:-0.1945em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span><span style="top:-3.2579em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">∞</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.3558em;"><span></span></span></span></span></span></span></span></span></span></td>
 <td style="text-align:center"><code>$\int_1^\infty$</code></td>
 </tr>
 </tbody>
 </table>
-<h3 id="分式-根式"><a class="markdownIt-Anchor" href="#分式-根式">#</a> 分式、根式</h3>
+<h3 id="分式-根式"><a class="anchor" href="#分式-根式">#</a> 分式、根式</h3>
 <table>
 <thead>
 <tr>
@@ -481,315 +304,80 @@ M0 50 h400000 v40H0z m0 194h40000v40H0z'/></svg></span></span><span style="top:-
 <tr>
 <td style="text-align:center">分式</td>
 <td style="text-align:center"><code>\frac</code></td>
-<td style="text-align:center" n="">\frac{1}</td>
-<td style="text-align:center"><code>$\frac&#123;1&#125;&#123;n&#125;$</code></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><mn>1</mn><mi>n</mi></mfrac></mrow><annotation encoding="application/x-tex">\frac{1}{n}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.1901em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8451em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">n</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></td>
+<td style="text-align:center"><code>$\frac{1}{n}$</code></td>
 </tr>
 <tr>
 <td style="text-align:center">根式</td>
 <td style="text-align:center"><code>\sqrt</code></td>
-<td style="text-align:center" 1000="">\sqrt[3]</td>
-<td style="text-align:center"><code>$\sqrt[3]&#123;1000&#125;$</code></td>
+<td style="text-align:center"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mroot><mn>1000</mn><mn>3</mn></mroot></mrow><annotation encoding="application/x-tex">\sqrt[3]{1000}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.04em;vertical-align:-0.1328em;"></span><span class="mord sqrt"><span class="root"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7869em;"><span style="top:-2.9647em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size6 size1 mtight"><span class="mord mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.9072em;"><span class="svg-align" style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord" style="padding-left:0.833em;"><span class="mord">1000</span></span></span><span style="top:-2.8672em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="min-width:0.853em;height:1.08em;"><svg xmlns="http://www.w3.org/2000/svg" width="400em" height="1.08em" viewBox="0 0 400000 1080" preserveAspectRatio="xMinYMin slice"><path d="M95,702
+c-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14
+c0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54
+c44.2,-33.3,65.8,-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10
+s173,378,173,378c0.7,0,35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429
+c69,-144,104.5,-217.7,106.5,-221
+l0 -0
+c5.3,-9.3,12,-14,20,-14
+H400000v40H845.2724
+s-225.272,467,-225.272,467s-235,486,-235,486c-2.7,4.7,-9,7,-19,7
+c-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47z
+M834 80h400000v40h-400000z"></path></svg></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.1328em;"><span></span></span></span></span></span></span></span></span></td>
+<td style="text-align:center"><code>$\sqrt[3]{1000}$</code></td>
 </tr>
 </tbody>
 </table>
 <p><strong>LaTex 公式对照表</strong></p>
-<p><span class="exturl" data-url="aHR0cHM6Ly9lbi53aWtpYm9va3Mub3JnL3dpa2kvTGFUZVgvTWF0aGVtYXRpY3M=">https://en.wikibooks.org/wiki/LaTeX/Mathematics</span></p>
-<h2 id="参考"><a class="markdownIt-Anchor" href="#参考">#</a> 参考</h2>
+<p><a target="_blank" rel="noopener" href="https://en.wikibooks.org/wiki/LaTeX/Mathematics">https://en.wikibooks.org/wiki/LaTeX/Mathematics</a></p>
+<h2 id="参考"><a class="anchor" href="#参考">#</a> 参考</h2>
 <ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly9lbi53aWtpYm9va3Mub3JnL3dpa2kvTGFUZVgvTWF0aGVtYXRpY3M=">https://en.wikibooks.org/wiki/LaTeX/Mathematics</span></li>
-<li><span class="exturl" data-url="aHR0cHM6Ly9saWFtLnBhZ2UvMjAxNC8wOS8wOC9sYXRleC1pbnRyb2R1Y3Rpb24v">一份其实很短的 LaTeX 入门文档</span></li>
-<li><span class="exturl" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1ZpYXRvclN1bi9hcnRpY2xlL2RldGFpbHMvODI4MjY2NjQ=">超详细 LaTex 数学公式</span></li>
+<li><a target="_blank" rel="noopener" href="https://en.wikibooks.org/wiki/LaTeX/Mathematics">https://en.wikibooks.org/wiki/LaTeX/Mathematics</a></li>
+<li><a target="_blank" rel="noopener" href="https://liam.page/2014/09/08/latex-introduction/">一份其实很短的 LaTeX 入门文档</a></li>
+<li><a target="_blank" rel="noopener" href="https://blog.csdn.net/ViatorSun/article/details/82826664">超详细 LaTex 数学公式</a></li>
 </ul>
-
-      <div class="tags">
-          <a href="/tags/Markdown/" rel="tag"><i class="ic i-tag"></i> Markdown</a>
-      </div>
-  </div>
-
-   <footer>
-
-    <div class="meta">
-  <span class="item">
-    <span class="icon">
-      <i class="ic i-calendar-check"></i>
-    </span>
-    <span class="text">更新于</span>
-    <time title="修改时间：2023-10-19 02:00:27" itemprop="dateModified" datetime="2023-10-19T02:00:27+08:00">2023-10-19</time>
-  </span>
-  <span id="markdown/markdown-formulas-expression.html" class="item leancloud_visitors" data-flag-title="一次搞定 Markdown 公式表达" title="阅读次数">
-      <span class="icon">
-        <i class="ic i-eye"></i>
-      </span>
-      <span class="text">阅读次数</span>
-      <span class="leancloud-visitors-count"></span>
-      <span class="text">次</span>
-  </span>
-</div>
-
-      
-<div class="reward">
-  <button><i class="ic i-heartbeat"></i> 赞赏</button>
-  <p>请我喝[茶]~(￣▽￣)~*</p>
-  <div id="qr">
-      
-      <div>
-        <img data-src="/images/wechatpay-small.jpeg" alt="Rudy Lo 微信支付">
-        <p>微信支付</p>
-      </div>
-      
-      <div>
-        <img data-src="/images/alipay-small.jpeg" alt="Rudy Lo 支付宝">
-        <p>支付宝</p>
-      </div>
-      
-      <div>
-        <img data-src="/images/avatar.png" alt="Rudy Lo 贝宝">
-        <p>贝宝</p>
-      </div>
-  </div>
-</div>
-
-      
-
-<div id="copyright">
-<ul>
-  <li class="author">
-    <strong>本文作者： </strong>Rudy Lo <i class="ic i-at"><em>@</em></i>成为自由人
-  </li>
-  <li class="link">
-    <strong>本文链接：</strong>
-    <a href="https://luhuadong.com/markdown/markdown-formulas-expression.html" title="一次搞定 Markdown 公式表达">https://luhuadong.com/markdown/markdown-formulas-expression.html</a>
-  </li>
-  <li class="license">
-    <strong>版权声明： </strong>本站所有文章除特别声明外，均采用 <span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzQuMC9kZWVkLnpo"><i class="ic i-creative-commons"><em>(CC)</em></i>BY-NC-SA</span> 许可协议。转载请注明出处！
-  </li>
-</ul>
-</div>
-
-  </footer>
-
-</article>
-
-  </div>
-  
-
-<div class="post-nav">
-    <div class="item left">
-      
-
-  <a href="/wordpress/wordpress-showcase.html" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;AgueroSpain.jpg" title="WordPress 优秀网站案例">
-  <span class="type">上一篇</span>
-  <span class="category"><i class="ic i-flag"></i> WordPress建站指南</span>
-  <h3>WordPress 优秀网站案例</h3>
-  </a>
-
-    </div>
-    <div class="item right">
-      
-
-  <a href="/markdown/markdown-flow-chart.html" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;luhuadong.com&#x2F;images&#x2F;default&#x2F;EuropeFromISS.jpg" title="学会用 Markdown 画流程图">
-  <span class="type">下一篇</span>
-  <span class="category"><i class="ic i-flag"></i> 一起学Markdown</span>
-  <h3>学会用 Markdown 画流程图</h3>
-  </a>
-
-    </div>
-</div>
-
-  
-  <div class="wrap" id="comments"></div>
-
-
-        </div>
-        <div id="sidebar">
-          
-
-<div class="inner">
-
-  <div class="panels">
-    <div class="inner">
-      <div class="contents panel pjax" data-title="文章目录">
-          <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#latex-%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95"><span class="toc-number">1.</span> <span class="toc-text"> LaTeX 基本用法</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%AD%97%E4%BD%93"><span class="toc-number">2.</span> <span class="toc-text"> 字体</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%AD%97%E4%BD%93%E5%91%BD%E4%BB%A4"><span class="toc-number">2.1.</span> <span class="toc-text"> 字体命令</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%AD%97%E5%8F%B7%E5%91%BD%E4%BB%A4"><span class="toc-number">2.2.</span> <span class="toc-text"> 字号命令</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%95%B0%E5%AD%A6%E8%A1%A8%E8%BE%BE%E5%BC%8F"><span class="toc-number">3.</span> <span class="toc-text"> 数学表达式</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%88%86%E6%95%B0"><span class="toc-number">3.1.</span> <span class="toc-text"> 分数</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%AF%BC%E6%95%B0"><span class="toc-number">3.2.</span> <span class="toc-text"> 导数</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%9E%81%E9%99%90"><span class="toc-number">3.3.</span> <span class="toc-text"> 极限</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%B1%82%E5%92%8C"><span class="toc-number">3.4.</span> <span class="toc-text"> 求和</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%BE%AE%E7%A7%AF%E5%88%86"><span class="toc-number">3.5.</span> <span class="toc-text"> 微积分</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%9F%A9%E9%98%B5"><span class="toc-number">3.6.</span> <span class="toc-text"> 矩阵</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%8C%96%E5%AD%A6%E6%96%B9%E7%A8%8B%E5%BC%8F"><span class="toc-number">4.</span> <span class="toc-text"> 化学方程式</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%9C%A8%E7%AD%89%E5%8F%B7%E4%B8%8A%E4%B8%8B%E5%86%99%E5%AD%97"><span class="toc-number">4.1.</span> <span class="toc-text"> 在等号上下写字</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%BD%BF%E7%94%A8%E9%95%BF%E7%AD%89%E5%8F%B7"><span class="toc-number">4.2.</span> <span class="toc-text"> 使用长等号</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%A4%BA%E4%BE%8B"><span class="toc-number">4.3.</span> <span class="toc-text"> 示例</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#latex-%E7%AC%A6%E5%8F%B7"><span class="toc-number">5.</span> <span class="toc-text"> LaTeX 符号</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%89%B9%E6%AE%8A%E5%AD%97%E7%AC%A6"><span class="toc-number">5.1.</span> <span class="toc-text"> 特殊字符</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%B1%82%E5%92%8C-%E7%A7%AF%E5%88%86"><span class="toc-number">5.2.</span> <span class="toc-text"> 求和、积分</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%88%86%E5%BC%8F-%E6%A0%B9%E5%BC%8F"><span class="toc-number">5.3.</span> <span class="toc-text"> 分式、根式</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%8F%82%E8%80%83"><span class="toc-number">6.</span> <span class="toc-text"> 参考</span></a></li></ol>
-      </div>
-      <div class="related panel pjax" data-title="系列文章">
-        <ul>
-          <li><a href="/markdown/csdn-markdown.html" rel="bookmark" title="CSDN 博客的 Markdown 语法">CSDN 博客的 Markdown 语法</a></li><li><a href="/markdown/markdown-intro.html" rel="bookmark" title="三分钟成为 Markdown 专家">三分钟成为 Markdown 专家</a></li><li><a href="/markdown/markdown-editor.html" rel="bookmark" title="盘点好用的 Markdown 编辑器">盘点好用的 Markdown 编辑器</a></li><li><a href="/markdown/markdown-basic-syntax.html" rel="bookmark" title="快速了解 Markdown 基础语法">快速了解 Markdown 基础语法</a></li><li><a href="/markdown/markdown-extended-syntax.html" rel="bookmark" title="了解常用 Markdown 扩展语法">了解常用 Markdown 扩展语法</a></li><li><a href="/markdown/markdown-emoji.html" rel="bookmark" title="俏皮的 Markdown Emoji 表情">俏皮的 Markdown Emoji 表情</a></li><li class="active"><a href="/markdown/markdown-formulas-expression.html" rel="bookmark" title="一次搞定 Markdown 公式表达">一次搞定 Markdown 公式表达</a></li><li><a href="/markdown/markdown-flow-chart.html" rel="bookmark" title="学会用 Markdown 画流程图">学会用 Markdown 画流程图</a></li><li><a href="/markdown/markdown-sequence-diagram.html" rel="bookmark" title="学会用 Markdown 画时序图">学会用 Markdown 画时序图</a></li><li><a href="/markdown/markdown-to-wechat.html" rel="bookmark" title="将 Markdown 格式文章发布到微信公众号">将 Markdown 格式文章发布到微信公众号</a></li>
-        </ul>
-      </div>
-      <div class="overview panel" data-title="站点概览">
-        <div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
-  <img class="image" itemprop="image" alt="Rudy Lo"
-      data-src="/images/lu_20221221.jpg">
-  <p class="name" itemprop="name">Rudy Lo</p>
-  <div class="description" itemprop="description">阿基米东的网络日志</div>
-</div>
-
-<nav class="state">
-    <div class="item posts">
-      <a href="/archives/">
-        <span class="count">385</span>
-        <span class="name">文章</span>
-      </a>
-    </div>
-    <div class="item categories">
-      <a href="/categories/">
-        <span class="count">42</span>
-        <span class="name">分类</span>
-      </a>
-    </div>
-    <div class="item tags">
-      <a href="/tags/">
-        <span class="count">93</span>
-        <span class="name">标签</span>
-      </a>
-    </div>
-</nav>
-
-<div class="social">
-      <span class="exturl item github" data-url="aHR0cHM6Ly9naXRodWIuY29tL2x1aHVhZG9uZw==" title="https:&#x2F;&#x2F;github.com&#x2F;luhuadong"><i class="ic i-github"></i></span>
-      <span class="exturl item csdn" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x1X2VtYmVkZGVk" title="https:&#x2F;&#x2F;blog.csdn.net&#x2F;lu_embedded"><i class="ic i-address-card"></i></span>
-      <span class="exturl item zhihu" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9hcm1zdHJvbmcyMDE0" title="https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;armstrong2014"><i class="ic i-zhihu"></i></span>
-      <span class="exturl item douban" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC83MzAwNDcv" title="https:&#x2F;&#x2F;www.douban.com&#x2F;group&#x2F;730047&#x2F;"><i class="ic i-douban"></i></span>
-      <span class="exturl item weibo" data-url="aHR0cHM6Ly93ZWliby5jb20vdS8yMDAwMzkxOTUx" title="https:&#x2F;&#x2F;weibo.com&#x2F;u&#x2F;2000391951"><i class="ic i-weibo"></i></span>
-      <span class="exturl item email" data-url="bWFpbHRvOmx1aHVhZG9uZ0AxNjMuY29t" title="mailto:luhuadong@163.com"><i class="ic i-envelope"></i></span>
-</div>
-
-<ul class="menu">
-  
-    
-  <li class="item">
-    <a href="/" rel="section"><i class="ic i-home"></i>首页</a>
-  </li>
-
-    
-  <li class="item">
-    <a href="/about/" rel="section"><i class="ic i-user"></i>关于</a>
-  </li>
-
-        
-  <li class="item dropdown">
-      <a href="javascript:void(0);"><i class="ic i-feather"></i>文章</a>
-    <ul class="submenu">
-
-        
-  <li class="item">
-    <a href="/archives/" rel="section"><i class="ic i-list-alt"></i>归档</a>
-  </li>
-
-        
-  <li class="item">
-    <a href="/categories/" rel="section"><i class="ic i-th"></i>分类</a>
-  </li>
-
-        
-  <li class="item">
-    <a href="/tags/" rel="section"><i class="ic i-tags"></i>标签</a>
-  </li>
-
-  </ul>
-
-</ul>
-
-      </div>
-    </div>
-  </div>
-
-  <ul id="quick">
-    <li class="prev pjax">
-        <a href="/wordpress/wordpress-showcase.html" rel="prev" title="上一篇"><i class="ic i-chevron-left"></i></a>
-    </li>
-    <li class="up"><i class="ic i-arrow-up"></i></li>
-    <li class="down"><i class="ic i-arrow-down"></i></li>
-    <li class="next pjax">
-        <a href="/markdown/markdown-flow-chart.html" rel="next" title="下一篇"><i class="ic i-chevron-right"></i></a>
-    </li>
-    <li class="percent"></li>
-  </ul>
-</div>
-
-
-        </div>
-        <div class="dimmer"></div>
-      </div>
-    </main>
-    <footer id="footer">
-      <div class="inner">
-        <div class="widgets">
-          
-
-        </div>
-        <div class="status">
-  <div class="copyright">
-    
-    &copy; 2014 – 
-    <span itemprop="copyrightYear">2024</span>
-    <span class="with-love">
-      <i class="ic i-sakura rotate"></i>
-    </span>
-    <span class="author" itemprop="copyrightHolder">Rudy Lo @ Freedom Blog</span>
-  </div>
-  <div class="count">
-    <span class="post-meta-item-icon">
-      <i class="ic i-chart-area"></i>
-    </span>
-    <span title="站点总字数">744k 字</span>
-
-    <span class="post-meta-divider">|</span>
-    <span class="post-meta-item-icon">
-      <i class="ic i-coffee"></i>
-    </span>
-    <span title="站点阅读时长">11:17</span>
-  </div>
-  <div class="powered-by">
-    基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
-  </div>
-</div>
-
-      </div>
-    </footer>
-  </div>
-<script data-config type="text/javascript">
-  var LOCAL = {
-    path: 'markdown/markdown-formulas-expression.html',
-    favicon: {
-      show: "成为自由人",
-      hide: "成为自由人"
+<div class="tags"><a href="/tags/Markdown/" rel="tag"><i class="ic i-tag"></i>Markdown</a></div></div><footer><div class="meta"><span class="icon"><i class="ic i-eye"></i></span><span>此文章已被阅读次数:</span><span class="waline-pageview-count" id="twikoo_visitors" data-path="markdown/markdown-formulas-expression.html">正在加载...</span><span class="item"><span class="icon"><i class="ic i-calendar-check"></i></span><span class="text">更新于</span><time title="修改时间：2023-10-19 02:00:27" itemprop="dateModified" datetime="2023-10-19T02:00:27+08:00">2023-10-19</time></span></div><div class="reward"><button><i class="ic i-heartbeat"></i>赞赏</button><p>请我喝[茶]~(￣▽￣)~*</p><div id="qr"><div><img loading="lazy" data-src="/images/wechatpay-small.jpeg" alt="Rudy Lo 微信支付"><p>微信支付</p></div><div><img loading="lazy" data-src="/images/alipay-small.jpeg" alt="Rudy Lo 支付宝"><p>支付宝</p></div><div><img loading="lazy" data-src="/images/avatar.webp" alt="Rudy Lo 贝宝"><p>贝宝</p></div></div></div><div id="copyright"><ul><li class="author"><strong>本文作者：</strong>Rudy Lo<i class="ic i-at"><em>@</em></i>成为自由人</li><li class="link"><strong>本文链接：</strong><a href="https://luhuadong.com/markdown/markdown-formulas-expression.html" title="一次搞定 Markdown 公式表达">https://luhuadong.com/markdown/markdown-formulas-expression.html</a></li><li class="license"><strong>版权声明：</strong>本站所有文章除特别声明外，均采用 <a target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh"><i class="ic i-creative-commons"><em>(CC)</em></i>BY-NC-SA</a> 许可协议。转载请注明出处！</li></ul></div></footer></article></div><div class="post-nav"><div class="item left"><a href="/wordpress/wordpress-showcase.html" rel="prev" itemprop="url" data-background-image="https://luhuadong.com/images/default/NIrelandGiants.jpg" title="WordPress 优秀网站案例"><span class="type">上一篇</span><span class="category"><i class="ic i-flag"></i>WordPress建站指南</span><h3>WordPress 优秀网站案例</h3></a></div><div class="item right"><a href="/markdown/markdown-flow-chart.html" rel="next" itemprop="url" data-background-image="https://luhuadong.com/images/default/ProcidaItaly.jpg" title="学会用 Markdown 画流程图"><span class="type">下一篇</span><span class="category"><i class="ic i-flag"></i>一起学Markdown</span><h3>学会用 Markdown 画流程图</h3></a></div></div><div class="wrap" id="comments"></div></div><div id="sidebar"><div class="inner"><div class="panels"><div class="inner"><div class="contents panel pjax" data-title="文章目录"><ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#latex-%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95"><span class="toc-number">1.</span> <span class="toc-text"> LaTeX 基本用法</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%AD%97%E4%BD%93"><span class="toc-number">2.</span> <span class="toc-text"> 字体</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%AD%97%E4%BD%93%E5%91%BD%E4%BB%A4"><span class="toc-number">2.1.</span> <span class="toc-text"> 字体命令</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%AD%97%E5%8F%B7%E5%91%BD%E4%BB%A4"><span class="toc-number">2.2.</span> <span class="toc-text"> 字号命令</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%95%B0%E5%AD%A6%E8%A1%A8%E8%BE%BE%E5%BC%8F"><span class="toc-number">3.</span> <span class="toc-text"> 数学表达式</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%88%86%E6%95%B0"><span class="toc-number">3.1.</span> <span class="toc-text"> 分数</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%AF%BC%E6%95%B0"><span class="toc-number">3.2.</span> <span class="toc-text"> 导数</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%9E%81%E9%99%90"><span class="toc-number">3.3.</span> <span class="toc-text"> 极限</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%B1%82%E5%92%8C"><span class="toc-number">3.4.</span> <span class="toc-text"> 求和</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%BE%AE%E7%A7%AF%E5%88%86"><span class="toc-number">3.5.</span> <span class="toc-text"> 微积分</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%9F%A9%E9%98%B5"><span class="toc-number">3.6.</span> <span class="toc-text"> 矩阵</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%8C%96%E5%AD%A6%E6%96%B9%E7%A8%8B%E5%BC%8F"><span class="toc-number">4.</span> <span class="toc-text"> 化学方程式</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%9C%A8%E7%AD%89%E5%8F%B7%E4%B8%8A%E4%B8%8B%E5%86%99%E5%AD%97"><span class="toc-number">4.1.</span> <span class="toc-text"> 在等号上下写字</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%BD%BF%E7%94%A8%E9%95%BF%E7%AD%89%E5%8F%B7"><span class="toc-number">4.2.</span> <span class="toc-text"> 使用长等号</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%A4%BA%E4%BE%8B"><span class="toc-number">4.3.</span> <span class="toc-text"> 示例</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#latex-%E7%AC%A6%E5%8F%B7"><span class="toc-number">5.</span> <span class="toc-text"> LaTeX 符号</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%89%B9%E6%AE%8A%E5%AD%97%E7%AC%A6"><span class="toc-number">5.1.</span> <span class="toc-text"> 特殊字符</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%B1%82%E5%92%8C-%E7%A7%AF%E5%88%86"><span class="toc-number">5.2.</span> <span class="toc-text"> 求和、积分</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%88%86%E5%BC%8F-%E6%A0%B9%E5%BC%8F"><span class="toc-number">5.3.</span> <span class="toc-text"> 分式、根式</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%8F%82%E8%80%83"><span class="toc-number">6.</span> <span class="toc-text"> 参考</span></a></li></ol></div><div class="related panel pjax" data-title="系列文章"><ul><li><a href="/markdown/csdn-markdown.html" rel="bookmark" title="CSDN 博客的 Markdown 语法">CSDN 博客的 Markdown 语法</a></li><li><a href="/markdown/markdown-intro.html" rel="bookmark" title="三分钟成为 Markdown 专家">三分钟成为 Markdown 专家</a></li><li><a href="/markdown/markdown-editor.html" rel="bookmark" title="盘点好用的 Markdown 编辑器">盘点好用的 Markdown 编辑器</a></li><li><a href="/markdown/markdown-basic-syntax.html" rel="bookmark" title="快速了解 Markdown 基础语法">快速了解 Markdown 基础语法</a></li><li><a href="/markdown/markdown-extended-syntax.html" rel="bookmark" title="了解常用 Markdown 扩展语法">了解常用 Markdown 扩展语法</a></li><li><a href="/markdown/markdown-emoji.html" rel="bookmark" title="俏皮的 Markdown Emoji 表情">俏皮的 Markdown Emoji 表情</a></li><li class="active"><a href="/markdown/markdown-formulas-expression.html" rel="bookmark" title="一次搞定 Markdown 公式表达">一次搞定 Markdown 公式表达</a></li><li><a href="/markdown/markdown-flow-chart.html" rel="bookmark" title="学会用 Markdown 画流程图">学会用 Markdown 画流程图</a></li><li><a href="/markdown/markdown-sequence-diagram.html" rel="bookmark" title="学会用 Markdown 画时序图">学会用 Markdown 画时序图</a></li><li><a href="/markdown/markdown-to-wechat.html" rel="bookmark" title="将 Markdown 格式文章发布到微信公众号">将 Markdown 格式文章发布到微信公众号</a></li></ul></div><div class="overview panel" data-title="站点概览"><div class="author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person"><img class="image" loading="lazy" decoding="async" itemprop="image" alt="Rudy Lo" src="/images/lu_20221221.webp"><p class="name" itemprop="name">Rudy Lo</p><div class="description" itemprop="description">阿基米东的网络日志</div></div><nav class="state"><div class="item posts"><a href="/archives/"><span class="count">386</span><span class="name">文章</span></a></div><div class="item categories"><a href="/categories/"><span class="count">42</span><span class="name">分类</span></a></div><div class="item tags"><a href="/tags/"><span class="count">93</span><span class="name">标签</span></a></div></nav><div class="social"><a target="_blank" rel="noopener" href="https://github.com/luhuadong" class="item github" title="https://github.com/luhuadong"><i class="ic i-github"></i></a><a target="_blank" rel="noopener" href="https://gitee.com/luhuadong" class="item gitee" title="https://gitee.com/luhuadong"><i class="ic i-gitee"></i></a><a target="_blank" rel="noopener" href="https://blog.csdn.net/lu_embedded" class="item csdn" title="https://blog.csdn.net/lu_embedded"><i class="ic i-address-card"></i></a><a target="_blank" rel="noopener" href="https://www.zhihu.com/people/armstrong2014" class="item zhihu" title="https://www.zhihu.com/people/armstrong2014"><i class="ic i-zhihu"></i></a><a target="_blank" rel="noopener" href="https://www.douban.com/group/730047/" class="item douban" title="https://www.douban.com/group/730047/"><i class="ic i-douban"></i></a><a target="_blank" rel="noopener" href="https://weibo.com/u/2000391951" class="item weibo" title="https://weibo.com/u/2000391951"><i class="ic i-weibo"></i></a><a href="mailto:luhuadong@163.com" class="item email" title="mailto:luhuadong@163.com"><i class="ic i-envelope"></i></a></div><div class="menu"><li class="item"><a href="/" rel="section"><i class="ic i-home"></i>首页</a></li><li class="item"><a href="/about/" rel="section"><i class="ic i-user"></i>关于</a></li><li class="item dropdown"><a href="#" onclick="return false;"><i class="ic i-feather"></i>文章</a><ul class="submenu"><li class="item"><a href="/archives/" rel="section"><i class="ic i-list-alt"></i>归档</a></li><li class="item"><a href="/categories/" rel="section"><i class="ic i-th"></i>分类</a></li><li class="item"><a href="/tags/" rel="section"><i class="ic i-tags"></i>标签</a></li></ul></li></div></div></div></div><ul id="quick"><li class="prev pjax"><a href="/markdown/markdown-flow-chart.html" rel="prev" title="上一篇"><i class="ic i-chevron-left"></i></a></li><li class="up"><i class="ic i-arrow-up"></i></li><li class="down"><i class="ic i-arrow-down"></i></li><li class="next pjax"><a href="/wordpress/wordpress-showcase.html" rel="next" title="下一篇"><i class="ic i-chevron-right"></i></a></li><li class="percent"></li></ul></div></div><div class="dimmer"></div></div></main><footer id="footer"><div class="inner"><div class="widgets"><div class="rpost pjax"><h2>随机文章</h2><ul><li class="item"><div class="breadcrumb"><a href="/categories/reading/" title="分类于一起读书呀">一起读书呀</a></div><span><a href="/reading/the-almanack-of-naval-ravikant.html">《纳瓦尔宝典》—— 财富与幸福指南</a></span></li><li class="item"><div class="breadcrumb"><a href="/categories/career/" title="分类于了不起的打工人">了不起的打工人</a></div><span><a href="/career/the-transformation-of-embedded-engineers-under-iot.html">论物联网浪潮下嵌入式工程师的转型</a></span></li><li class="item"><div class="breadcrumb"><a href="/categories/business/" title="分类于business">business</a></div><span><a href="/business/xiaoyuzhoufm.html">「小宇宙」的发展历程与启发</a></span></li><li class="item"><div class="breadcrumb"><a href="/categories/journal/" title="分类于不定时日记">不定时日记</a></div><span><a href="/journal/monthly-2023-05.html">2023年5月碎碎念：高温、裁员、职业倦怠、运动的快乐</a></span></li><li class="item"><div class="breadcrumb"><a href="/categories/coding/" title="分类于一起学编程">一起学编程</a></div><span><a href="/coding/python-run-simple-http-server.html">Python 临时启动简单的 HTTP 服务器</a></span></li><li class="item"><div class="breadcrumb"><a href="/categories/%E6%88%B7%E5%A4%96%E5%BE%92%E6%AD%A5%E6%97%85%E8%A1%8C/" title="分类于户外徒步旅行">户外徒步旅行</a></div><span><a href="/hiking/hiking-tips-for-beginners.html">给徒步新手的十条建议</a></span></li><li class="item"><div class="breadcrumb"><a href="/categories/city/" title="分类于城市地理研究所">城市地理研究所</a></div><span><a href="/city/weihai.html">山东半岛最东端——威海</a></span></li><li class="item"><div class="breadcrumb"><a href="/categories/map/" title="分类于从此不迷路">从此不迷路</a></div><span><a href="/map/intercity-railway-guangzhou-qingyuan.html">广清城际线路图（2024年最新）</a></span></li><li class="item"><div class="breadcrumb"><a href="/categories/fitness/" title="分类于一起健身呀">一起健身呀</a></div><span><a href="/fitness/warm-up.html">运动训练前的必备热身运动</a></span></li><li class="item"><div class="breadcrumb"><a href="/categories/wisdom/" title="分类于哲思学堂">哲思学堂</a></div><span><a href="/wisdom/the-bride-price-of-nine-cows.html">九头牛的故事</a></span></li></ul></div><div class="rpost pjax"><h2>最新评论</h2><ul class="leancloud-recent-comment" id="new-comment"></ul></div></div><div class="status"><div class="copyright">© 2014 -<span itemprop="copyrightYear">2024</span><span class="with-love"><i class="ic i-sakura rotate"></i></span><span class="author" itemprop="copyrightHolder">Rudy Lo @ Freedom Blog</span></div><div class="count"><span class="post-meta-item-icon"><i class="ic i-chart-area"></i></span><span title="站点总字数">955k 字</span><span class="post-meta-divider"> | </span><span class="post-meta-item-icon"><i class="ic i-coffee"></i></span><span title="站点阅读时长">14:28</span></div><div class="powered-by">基于 <a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a> &amp; Theme.<a target="_blank" rel="noopener" href="https://github.com/theme-shoka-x/hexo-theme-shokaX/">ShokaX</a></div></div></div></footer></div><script data-config="" type="text/javascript">var LOCAL = {
+    ispost: true,
+        path: `markdown/markdown-formulas-expression.html`,
+        favicon: {
+        show: `成为自由人`,
+        hide: `成为自由人`
     },
-    search : {
-      placeholder: "文章搜索",
-      empty: "关于 「 ${query} 」，什么也没搜到",
-      stats: "${time} ms 内找到 ${hits} 条结果"
+    search: {
+        placeholder: "文章搜索",
+        empty: "关于 「 ${query} 」，什么也没搜到",
+        stats: "${time} ms 内找到 ${hits} 条结果"
     },
-    valine: true,fancybox: true,
-    copyright: '复制成功，转载请遵守 <i class="ic i-creative-commons"></i>BY-NC-SA 协议。',
-    ignores : [
-      function(uri) {
-        return uri.includes('#');
-      },
-      function(uri) {
-        return new RegExp(LOCAL.path+"$").test(uri);
-      }
+    copy_tex: false,
+    katex: false,
+    mermaid: false,
+    audio: undefined,
+    fancybox: true,
+    nocopy: false,
+    outime: true,
+    template: `<div class="note warning"><p><span class="label warning">文章时效性提示</span><br>这是一篇发布于 {{publish}} 天前，最后一次更新在 {{updated}} 天前的文章，部分信息可能已经发生改变，请注意甄别。</p></div>`,
+    quiz: {
+        choice: `单选题`,
+        multiple: `多选题`,
+        true_false: `判断题`,
+        essay: `问答题`,
+        gap_fill: `填空题`,
+        mistake: `错题备注`
+    },
+    ignores: [
+        (uri) => uri.includes('#'),
+        (uri) => new RegExp(LOCAL.path + '$').test(uri),
+            []
     ]
-  };
-</script>
-
-<script src="https://cdn.polyfill.io/v2/polyfill.js"></script>
-
-<script src="//cdn.jsdelivr.net/combine/npm/pace-js@1.0.2/pace.min.js,npm/pjax@0.2.8/pjax.min.js,npm/whatwg-fetch@3.4.0/dist/fetch.umd.min.js,npm/animejs@3.2.0/lib/anime.min.js,npm/algoliasearch@4/dist/algoliasearch-lite.umd.js,npm/instantsearch.js@4/dist/instantsearch.production.min.js,npm/lozad@1/dist/lozad.min.js,npm/quicklink@2/dist/quicklink.umd.js"></script>
-
-<script src="/js/app.js?v=0.2.5"></script>
-
-
-  <script data-pjax>
-    var _hmt = _hmt || [];
-    (function() {
-      var hm = document.createElement("script");
-      hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58";
-      var s = document.getElementsByTagName("script")[0];
-      s.parentNode.insertBefore(hm, s);
-    })();
-  </script>
-
-
-</body>
-</html>
+};
+</script><script data-pjax="data-pjax">var _hmt = _hmt || [];
+(function () {
+    const hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?58f6aab1bcd18448d069fbf8a3310a58"
+    hm.async = true;
+    const s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+ })();</script><script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-190737867-1"></script><script data-pjax="data-pjax">window.dataLayer = window.dataLayer || [];
+function gtag() {
+    dataLayer.push(arguments);
+}
+gtag('js', new Date());
+gtag('config', 'UA-190737867-1');</script><script src="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-6-M/pace/1.2.4/pace.min.js" async=""></script><script src="/js/siteInit.js?v=0.4.2" type="module" fetchpriority="high" defer=""></script></body></html>

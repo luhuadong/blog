@@ -7,43 +7,39 @@
         <language>zh-CN</language>
         <pubDate>Thu, 21 Oct 2021 11:19:39 +0800</pubDate>
         <lastBuildDate>Thu, 21 Oct 2021 11:19:39 +0800</lastBuildDate>
-        <category>商业</category>
-        <category>成长</category>
-        <category>日记</category>
-        <category>创业</category>
-        <category>家居</category>
-        <category>互联网</category>
-        <category>读书笔记</category>
-        <category>工程师</category>
-        <category>爱</category>
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
+        <category>商业</category>
+        <category>创业</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
+        <category>种植</category>
         <category>英语</category>
+        <category>成长</category>
         <category>英语短文</category>
         <category>学习</category>
-        <category>种植</category>
         <category>健身</category>
         <category>气象爱好者</category>
         <category>指南</category>
         <category>自律</category>
+        <category>思维模型</category>
         <category>健康</category>
         <category>Hexo</category>
         <category>徒步</category>
+        <category>家居</category>
         <category>科普</category>
         <category>环保</category>
         <category>可持续</category>
@@ -51,12 +47,17 @@
         <category>社会现象</category>
         <category>独立开发者</category>
         <category>碳中和</category>
+        <category>互联网</category>
+        <category>工程师</category>
+        <category>AI</category>
+        <category>开发者</category>
         <category>职业</category>
         <category>时间管理</category>
         <category>milestone</category>
         <category>总结</category>
         <category>年终总结</category>
         <category>慈济</category>
+        <category>爱</category>
         <category>生活</category>
         <category>RT-Thread</category>
         <category>开源</category>
@@ -65,7 +66,9 @@
         <category>思考</category>
         <category>幸福</category>
         <category>猫</category>
+        <category>日记</category>
         <category>月报</category>
+        <category>读书笔记</category>
         <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
@@ -84,6 +87,7 @@
         <category>亲密关系</category>
         <category>农业</category>
         <category>素食</category>
+        <category>性格测试</category>
         <category>报告</category>
         <category>TED</category>
         <category>演讲</category>
@@ -96,71 +100,67 @@
         <category>垃圾分类</category>
         <category>零废弃</category>
         <category>低碳</category>
-        <category>思维模型</category>
-        <category>开发者</category>
-        <category>性格测试</category>
-        <category>AI</category>
         <item>
             <guid isPermalink="true">https://luhuadong.com/industry/search-engines.html</guid>
             <title>国内外常用搜索引擎</title>
             <link>https://luhuadong.com/industry/search-engines.html</link>
             <category>互联网</category>
             <pubDate>Thu, 21 Oct 2021 11:19:39 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;谷歌&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#谷歌&#34;&gt;#&lt;/a&gt; 谷歌&lt;/h2&gt;
+            <description><![CDATA[ &lt;h2 id=&#34;谷歌&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#谷歌&#34;&gt;#&lt;/a&gt; 谷歌&lt;/h2&gt;
 &lt;p&gt;谷歌（Google）搜索是由 Google 公司推出的一个互联网搜索引擎，它是互联网上最大、影响最广泛的搜索引擎。Google 每日透过不同的服务，处理来自世界各地超过 30 亿次的查询。&lt;/p&gt;
-&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbQ==&#34;&gt;https://www.google.com&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/industry/google-search.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;必应&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#必应&#34;&gt;#&lt;/a&gt; 必应&lt;/h2&gt;
+&lt;p&gt;网址：&lt;a href=&#34;https://www.google.com&#34;&gt;https://www.google.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/industry/google-search.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;必应&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#必应&#34;&gt;#&lt;/a&gt; 必应&lt;/h2&gt;
 &lt;p&gt;必应搜索是由微软公司出品的国际搜索引擎。针对中国用户，提供国内版和国际版两个搜索域。令人印象深刻的是，每次打开必应搜索，就能欣赏到每日更新的必应美图及背后的图片故事，让每次搜索都从一个愉悦的心情开始。&lt;/p&gt;
-&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmluZy5jb20=&#34;&gt;https://www.bing.com&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/industry/bing-search.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;百度&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#百度&#34;&gt;#&lt;/a&gt; 百度&lt;/h2&gt;
+&lt;p&gt;网址：&lt;a href=&#34;https://www.bing.com&#34;&gt;https://www.bing.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/industry/bing-search.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;百度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#百度&#34;&gt;#&lt;/a&gt; 百度&lt;/h2&gt;
 &lt;p&gt;百度是中国互联网用户最常用的搜索引擎，每天完成上亿次搜索，也是全球最大的中文搜索引擎。2000 年 1 月由李彦宏、徐勇两人创立于北京中关村，致力于向人们提供 “简单，可依赖” 的信息获取方式。&lt;/p&gt;
-&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmFpZHUuY29t&#34;&gt;https://www.baidu.com&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/industry/baidu-search.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;360搜索&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#360搜索&#34;&gt;#&lt;/a&gt; 360 搜索&lt;/h2&gt;
-&lt;p&gt;全球第二大的中文搜索引擎，依托于 360 母品牌的安全优势，全面拦截各类钓鱼欺诈等恶意网站，提供更放心的搜索服务。360 搜索的前身是 “好搜搜索”， 2016 年 2 月 1 日，好搜搜索更名为 360 搜索，域名也从 “&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2hhb3NvdS5jb20=&#34;&gt;haosou.com&lt;/span&gt;”，切换为更易记忆、更易输入的 “&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3NvLmNvbQ==&#34;&gt;so.com&lt;/span&gt;”。&lt;/p&gt;
-&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc28uY29t&#34;&gt;https://www.so.com&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/industry/360-search.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;搜狗搜索&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#搜狗搜索&#34;&gt;#&lt;/a&gt; 搜狗搜索&lt;/h2&gt;
+&lt;p&gt;网址：&lt;a href=&#34;https://www.baidu.com&#34;&gt;https://www.baidu.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/industry/baidu-search.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;360搜索&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#360搜索&#34;&gt;#&lt;/a&gt; 360 搜索&lt;/h2&gt;
+&lt;p&gt;全球第二大的中文搜索引擎，依托于 360 母品牌的安全优势，全面拦截各类钓鱼欺诈等恶意网站，提供更放心的搜索服务。360 搜索的前身是 “好搜搜索”， 2016 年 2 月 1 日，好搜搜索更名为 360 搜索，域名也从 “&lt;a href=&#34;http://haosou.com&#34;&gt;haosou.com&lt;/a&gt;”，切换为更易记忆、更易输入的 “&lt;a href=&#34;http://so.com&#34;&gt;so.com&lt;/a&gt;”。&lt;/p&gt;
+&lt;p&gt;网址：&lt;a href=&#34;https://www.so.com&#34;&gt;https://www.so.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/industry/360-search.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;搜狗搜索&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#搜狗搜索&#34;&gt;#&lt;/a&gt; 搜狗搜索&lt;/h2&gt;
 &lt;p&gt;搜狗搜索是搜狐公司于 2004 年 8 月 3 日推出的全球首个第三代互动式中文搜索引擎。致力于中文互联网信息的深度挖掘，从用户需求出发，以人工智能新算法，分析和理解用户可能的查询意图，对不同的搜索结果进行分类，对相同的搜索结果进行聚类，在用户查询和搜索引擎返回结果的过程中，引导用户更快速准确定位自己所关注的内容。&lt;/p&gt;
-&lt;p&gt;值得关注的是，搜狗搜索提供了微信订阅号的文章搜索功能。（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93ZWl4aW4uc29nb3UuY29t&#34;&gt;https://weixin.sogou.com&lt;/span&gt;）&lt;/p&gt;
-&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc29nb3UuY29t&#34;&gt;https://www.sogou.com&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/industry/sogou-search.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;yandex&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#yandex&#34;&gt;#&lt;/a&gt; Yandex&lt;/h2&gt;
+&lt;p&gt;值得关注的是，搜狗搜索提供了微信订阅号的文章搜索功能。（&lt;a href=&#34;https://weixin.sogou.com&#34;&gt;https://weixin.sogou.com&lt;/a&gt;）&lt;/p&gt;
+&lt;p&gt;网址：&lt;a href=&#34;https://www.sogou.com&#34;&gt;https://www.sogou.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/industry/sogou-search.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;yandex&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#yandex&#34;&gt;#&lt;/a&gt; Yandex&lt;/h2&gt;
 &lt;p&gt;Yandex 号称 “东欧第一搜索门户”，是俄罗斯网络拥有用户较多的网站。Yandex 的服务包括搜索、最近新闻、地图和百科、电子信箱、电子商务及其他服务。Yandex 非常注重区域网站工作，所有的服务都考虑到了使用者的地理位置：可以在区域网站上搜索，“新闻” 里提供地方信息，“市场” 里首先就提供地区商店的物品。&lt;/p&gt;
-&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly95YW5kZXguY29t&#34;&gt;https://yandex.com&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/industry/yandex-search.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;神马搜索&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#神马搜索&#34;&gt;#&lt;/a&gt; 神马搜索&lt;/h2&gt;
+&lt;p&gt;网址：&lt;a href=&#34;https://yandex.com&#34;&gt;https://yandex.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/industry/yandex-search.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;神马搜索&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#神马搜索&#34;&gt;#&lt;/a&gt; 神马搜索&lt;/h2&gt;
 &lt;p&gt;神马搜索是由知名的移动浏览器 UC 优视与中国互联网行业领军企业阿里巴巴共同发起组建，是全球第一款完全基于移动互联网的搜索引擎。它是专注移动互联网的搜索引擎，基于阿里云搜索的积累和 UC 浏览器的自身的发展，为企业提供全方位推广。也就是说，神马搜索只专注于移动搜索，不提供 PC 端搜索功能，目前已成为移动市场里最大的贡献流量搜索引擎之一。&lt;/p&gt;
-&lt;p&gt;网址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tLnNtLmNu&#34;&gt;https://m.sm.cn&lt;/span&gt;&lt;/p&gt;
-&lt;img data-src=&#34;/images/industry/sm-search.jpeg&#34; width=&#34;520&#34;&gt;
+&lt;p&gt;网址：&lt;a href=&#34;https://m.sm.cn&#34;&gt;https://m.sm.cn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/industry/sm-search.jpeg&amp;quot; width=&amp;quot;520&amp;quot;&amp;gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/industry/how-to-learn-electrical-engineering.html</guid>
             <title>电子电气工程师（EE）学习路线</title>
             <link>https://luhuadong.com/industry/how-to-learn-electrical-engineering.html</link>
-            <category>工程师</category>
             <category>创客</category>
             <category>学习</category>
+            <category>工程师</category>
             <pubDate>Sat, 09 Oct 2021 15:57:09 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;说明&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#说明&#34;&gt;#&lt;/a&gt; 说明&lt;/h2&gt;
+            <description><![CDATA[ &lt;h2 id=&#34;说明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#说明&#34;&gt;#&lt;/a&gt; 说明&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;EE&lt;/strong&gt;：&lt;br&gt;
+&lt;li&gt;&lt;strong&gt;EE&lt;/strong&gt;：&lt;br /&gt;
 通常指电气工程（Electrical Engineering）或电子工程（Electronic Engineering），又或者电子电气工程（Electrical and Electronics Engineering，EEE）。简单来说，是一门以电磁学为基础，研究利用电与磁现象传输、转化能量的工程学科，其研究内容涵盖了产生电能（发电）、传输电能（输配电）、转化电能、储存电能、使用电能（用电器）等环节。而电子工程则是电气工程的一个分支，涉及电磁频谱的使用以及集成电路和晶体管等电子设备的应用。也就是说，电气工程偏向强电（能源），电子工程偏向弱电（计算机硬件）。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;CS&lt;/strong&gt;：&lt;br&gt;
+&lt;li&gt;&lt;strong&gt;CS&lt;/strong&gt;：&lt;br /&gt;
 通常指计算机科学（Computer Science），是一门包括各种各样与计算机信息处理相关的系统学科，从抽象的操作系统、数据结构、算法分析等，到更具体的如编程语言、程序设计、网络安全、数据分析、人工智能等。最常见的工作就是潜伏在各大 IT 公司的各类程序员们。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;STEM&lt;/strong&gt;：&lt;br&gt;
+&lt;li&gt;&lt;strong&gt;STEM&lt;/strong&gt;：&lt;br /&gt;
 STEM 是科学（Science）、技术（Technology）、工程（Engineering）和数学（Mathematics）四个单词的缩写，意味着它融合了这四门学科的知识与技能。能够同时掌握这几门学科的人都是很厉害的，而且他们可能在艺术和人文方面也颇有见解。这类人有时也被称为创客（Maker）或极客（Geek），拥有自驱力极强的学习与创造能力。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;代表人物：尼古拉・特斯拉、稚晖君&lt;/p&gt;
-&lt;h2 id=&#34;学习路线&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#学习路线&#34;&gt;#&lt;/a&gt; 学习路线&lt;/h2&gt;
+&lt;h2 id=&#34;学习路线&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习路线&#34;&gt;#&lt;/a&gt; 学习路线&lt;/h2&gt;
 &lt;p&gt;基础课程学习类：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;电路 —— 推荐课程：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueHVldGFuZ3guY29tL2NvdXJzZS9USFUwODA2MTAwMDI5NC83NzU0MzAw&#34;&gt;电路原理 - 清华大学&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;电路 —— 推荐课程：&lt;a href=&#34;https://www.xuetangx.com/course/THU08061000294/7754300&#34;&gt;电路原理 - 清华大学&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;机器人设计&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#机器人设计&#34;&gt;#&lt;/a&gt; 机器人设计&lt;/h2&gt;
+&lt;h2 id=&#34;机器人设计&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#机器人设计&#34;&gt;#&lt;/a&gt; 机器人设计&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;机械设计&lt;/li&gt;
 &lt;li&gt;硬件设计&lt;/li&gt;
@@ -169,9 +169,9 @@ STEM 是科学（Science）、技术（Technology）、工程（Engineering）�
 &lt;li&gt;机器学习&lt;/li&gt;
 &lt;li&gt;艺术&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuemhpaHUuY29tL3F1ZXN0aW9uLzIxNDE1MTA5&#34;&gt;我想成为电气工程师，学习电气有哪些可以利用的好的网络资源？&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zhihu.com/question/21415109&#34;&gt;我想成为电气工程师，学习电气有哪些可以利用的好的网络资源？&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -239,42 +239,42 @@ STEM 是科学（Science）、技术（Technology）、工程（Engineering）�
             <link>https://luhuadong.com/industry/%E6%96%B0%E5%AA%92%E4%BD%93%E6%97%B6%E4%BB%A3%E7%BD%91%E7%BB%9C%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.html</link>
             <category>互联网</category>
             <pubDate>Sat, 02 Oct 2021 21:39:57 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;网媒&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#网媒&#34;&gt;#&lt;/a&gt; 网媒&lt;/h2&gt;
+            <description><![CDATA[ &lt;h2 id=&#34;网媒&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网媒&#34;&gt;#&lt;/a&gt; 网媒&lt;/h2&gt;
 &lt;p&gt;网媒就是以网络为载体的媒体。常见的博客、新浪微博、微信公众号、今日头条、哔哩哔哩等平台上的内容都是互联网媒体，即网媒。相对来说，电视、广播、报刊、杂志等则称为传统媒体。&lt;/p&gt;
-&lt;h2 id=&#34;自媒体&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#自媒体&#34;&gt;#&lt;/a&gt; 自媒体&lt;/h2&gt;
+&lt;h2 id=&#34;自媒体&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自媒体&#34;&gt;#&lt;/a&gt; 自媒体&lt;/h2&gt;
 &lt;p&gt;自媒体的英文是 “We Media”，是指普通大众（个人或团队）通过网络等途径向外发布他们本身的事实和新闻的传播方式。是一种私人化、平民化、普泛化、自主化的知识分享与传播新途径。&lt;/p&gt;
-&lt;h2 id=&#34;自媒体平台&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#自媒体平台&#34;&gt;#&lt;/a&gt; 自媒体平台&lt;/h2&gt;
+&lt;h2 id=&#34;自媒体平台&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自媒体平台&#34;&gt;#&lt;/a&gt; 自媒体平台&lt;/h2&gt;
 &lt;p&gt;从字面上可以理解，自媒体平台就是以自媒体为管理中心的平台。如今的自媒体平台非常多，目前比较受欢迎的有微信公众平台、抖音、B 站、今日头条、百家号等等。这些自媒体平台都是超级流量平台，但内容形式、算法推荐机制有所不同。&lt;/p&gt;
-&lt;h2 id=&#34;网红经济&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#网红经济&#34;&gt;#&lt;/a&gt; 网红经济&lt;/h2&gt;
+&lt;h2 id=&#34;网红经济&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网红经济&#34;&gt;#&lt;/a&gt; 网红经济&lt;/h2&gt;
 &lt;p&gt;网红经济就是指通过粉丝与被关注的人产生能够挣钱的的事。过去，被关注的一般都是明星名人，或是制造行业巨头等。例如篮球运动员科比球衣、电影明星李易峰、文学家韩寒书粉等。如今，有越来越多自媒体在获得受众关注后，也能利用其知名度进行一定方式的变现，这就是网红经济，或者称为粉丝经济。&lt;/p&gt;
-&lt;h2 id=&#34;鱼塘&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#鱼塘&#34;&gt;#&lt;/a&gt; 鱼塘&lt;/h2&gt;
+&lt;h2 id=&#34;鱼塘&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#鱼塘&#34;&gt;#&lt;/a&gt; 鱼塘&lt;/h2&gt;
 &lt;p&gt;此鱼塘并不是指农场里养魚的塘。在互联网经济中，是指为了获取流量，是把人比成鱼，先把人养起来，再进行收割的形式。&lt;/p&gt;
-&lt;h2 id=&#34;互联网&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#互联网&#34;&gt;#&lt;/a&gt; 互联网 +&lt;/h2&gt;
+&lt;h2 id=&#34;互联网&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#互联网&#34;&gt;#&lt;/a&gt; 互联网 +&lt;/h2&gt;
 &lt;p&gt;就是说传统产业 + 互联网方法，例如线下推广开个早餐店，刚开始用美团外卖送餐员，也可以叫互联网 + 了。&lt;/p&gt;
-&lt;h2 id=&#34;共享经济&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#共享经济&#34;&gt;#&lt;/a&gt; 共享经济&lt;/h2&gt;
+&lt;h2 id=&#34;共享经济&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#共享经济&#34;&gt;#&lt;/a&gt; 共享经济&lt;/h2&gt;
 &lt;p&gt;共享经济（Sharing Economy）是指拥有闲置资源的机构或个人有偿让渡资源使用权给他人，让渡者获取回报，分享者利用分享自己的闲置资源创造价值。其中车子和房屋共享的概念较早，也最被接受，像 Uber、Airbnb 等都是为人所知的例子。&lt;/p&gt;
-&lt;h2 id=&#34;长尾理论&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#长尾理论&#34;&gt;#&lt;/a&gt; 长尾理论&lt;/h2&gt;
+&lt;h2 id=&#34;长尾理论&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#长尾理论&#34;&gt;#&lt;/a&gt; 长尾理论&lt;/h2&gt;
 &lt;p&gt;长尾理论（The Long Tail Effect）是指那些原来不受到重视的销量小但种类多的产品或服务由于总量巨大，累积起来的总收益超过主流产品的现象。在互联网领域，长尾效应尤为显著。&lt;/p&gt;
 &lt;p&gt;用 SEO 的话来解释长尾理论，就是说，不必只盯住主关键字排名产生流量，你可以做很多长尾词排行。例如你也是搞室内装修的，你不必只做房子装修，你应当把 “房子装修哪家好”、“北京房屋装修企业”、“房子装修步骤是啥” 等关键字排名都做上来。&lt;/p&gt;
-&lt;h2 id=&#34;ugc&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#ugc&#34;&gt;#&lt;/a&gt; UGC&lt;/h2&gt;
+&lt;h2 id=&#34;ugc&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ugc&#34;&gt;#&lt;/a&gt; UGC&lt;/h2&gt;
 &lt;p&gt;UGC（User Generated Content，用户原创内容）的概念最早起源于互联网领域，即用户将自己原创的内容通过互联网平台进行展示或者提供给其他用户。UGC 是伴随着以提倡个性化为主要特点的 Web2.0 概念兴起的。UGC 并不是某一种具体的业务，而是一种用户使用互联网的新方式，即由原来的以下载为主变成下载和上传并重。YouTube、MySpace、哔哩哔哩、喜马拉雅等网站都可以看做是 UGC 的成功案例，社区网络、视频分享、博客和播客（视频分享）等都是 UGC 的主要应用形式。&lt;/p&gt;
-&lt;h2 id=&#34;pgc&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#pgc&#34;&gt;#&lt;/a&gt; PGC&lt;/h2&gt;
+&lt;h2 id=&#34;pgc&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#pgc&#34;&gt;#&lt;/a&gt; PGC&lt;/h2&gt;
 &lt;p&gt;PGC（Professionally Generated Content，专业生产内容），与 UGC 相比，PGC 产出的内容通常更加专业化、更具公信力、更有价值。这是由创作主体决定的，UGC 更偏向于话题社区，PGC 则更多是在特定领域内的单方面信息的输出。PGC 有时候泛指个性化、视角多元化、传播民主化、社会关系虚拟化的内容。&lt;/p&gt;
-&lt;h2 id=&#34;ogc&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#ogc&#34;&gt;#&lt;/a&gt; OGC&lt;/h2&gt;
+&lt;h2 id=&#34;ogc&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ogc&#34;&gt;#&lt;/a&gt; OGC&lt;/h2&gt;
 &lt;p&gt;OGC（Occupationally Generated Content，品牌生产内容）有两种主体，一类是新媒体从业者、新闻背景工作者、传媒行业人员创作；另一类是某些行业的精英、特长、专业人士，与 PGC 一样。OGC 的创作主体与 PGC 的区别在于是否有目的性、盈利性。PGC 更多的是个人兴趣、个人表达需求的满足，这是创作的动机。而 OGC，获得报酬是他们的创作动机。&lt;/p&gt;
-&lt;h2 id=&#34;ip&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#ip&#34;&gt;#&lt;/a&gt; IP&lt;/h2&gt;
+&lt;h2 id=&#34;ip&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ip&#34;&gt;#&lt;/a&gt; IP&lt;/h2&gt;
 &lt;p&gt;这里的 IP 并不是指人们建立网站流量里边那个 IP，或者网络 IP 地址那个 IP。而是指专利权的 IP，即 Intellectual Property，可以理解为知识财产、智慧财产、知识产权等意思。在网络新媒体中，我们常常听到有人说 “打造个人 IP”，意思就是通过文字、视频、音频等载体创造具有价值的内容，从而打造个人品牌。&lt;/p&gt;
-&lt;h2 id=&#34;kol&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#kol&#34;&gt;#&lt;/a&gt; KOL&lt;/h2&gt;
+&lt;h2 id=&#34;kol&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#kol&#34;&gt;#&lt;/a&gt; KOL&lt;/h2&gt;
 &lt;p&gt;KOL（英文全拼：Key Opinion Leader），即关键意见领袖。是指在互联网上特别有影响力的人，例如通过 YouTube、Facebook、Instagram 等社交平台发布内容和分享观点的人。&lt;/p&gt;
 &lt;p&gt;“意见领袖” 这个概念起源于行销学 / 市场营销学。例如某某行业的权威人士说了一句话，于是好多人都相信，从而影响了消费者的想法、决策以及产品的广告效果。&lt;/p&gt;
-&lt;h2 id=&#34;koc&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#koc&#34;&gt;#&lt;/a&gt; KOC&lt;/h2&gt;
+&lt;h2 id=&#34;koc&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#koc&#34;&gt;#&lt;/a&gt; KOC&lt;/h2&gt;
 &lt;p&gt;KOC（英文全拼：Key Opinion Consumer），即关键意见消费者。从名字可以看出，它与 KOL 是相对应的，通常指能影响自己的朋友、粉丝，产生消费行为的消费者。相比于 KOL，KOC 的粉丝更少，影响力更小，优势是更垂直、更便宜。例如小红书 App 上就有许多 KOC。&lt;/p&gt;
-&lt;h2 id=&#34;mcn&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#mcn&#34;&gt;#&lt;/a&gt; MCN&lt;/h2&gt;
+&lt;h2 id=&#34;mcn&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mcn&#34;&gt;#&lt;/a&gt; MCN&lt;/h2&gt;
 &lt;p&gt;MCN（英文全拼：Multi-Channel Network），即多频道网络，是一种新的网红经济运作模式。MCN 模式源于国外成熟的网红经济运作，其本质是一个多频道网络的产品形态，将 PGC（专业内容生产）内容联合起来，在资本的有力支持下，保障内容的持续输出，从而最终实现商业的稳定变现。&lt;/p&gt;
 &lt;p&gt;简单来说，MCN 就像是一个中介公司，上游对接优质内容，下游寻找推广平台变现。国外的 MCN 早期以经纪模式为主，帮助视频红人变现；而国内的 MCN 模式不同，机构只需要和内容生产者对接上，内容生产者专心做内容，MCN 机构帮你包装、营销、推广和变现。与李子柒合作的杭州微念公司就是一家 MCN 机构。&lt;/p&gt;
-&lt;h2 id=&#34;社群营销&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#社群营销&#34;&gt;#&lt;/a&gt; 社群营销&lt;/h2&gt;
+&lt;h2 id=&#34;社群营销&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#社群营销&#34;&gt;#&lt;/a&gt; 社群营销&lt;/h2&gt;
 &lt;p&gt;网络社群营销是基于互联网等移动终端把具有共同兴趣、爱好的人聚集在一起，进行营销传播的过程，营销过程中通过引起受众的关注度，汇聚人群达到最终的营销目的。说的直接点就是，建微信群、QQ 群、知识星球等社群，还可以设置收费标准。&lt;/p&gt;
-&lt;h2 id=&#34;社群经济&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#社群经济&#34;&gt;#&lt;/a&gt; 社群经济&lt;/h2&gt;
+&lt;h2 id=&#34;社群经济&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#社群经济&#34;&gt;#&lt;/a&gt; 社群经济&lt;/h2&gt;
 &lt;p&gt;社群经济是指互联网时代，一群有共同兴趣、认知、价值观的用户抱成团，发生群蜂效应，在一起互动、交流、协作、感染，对产品品牌本身产生反哺的价值关系，这种建立在产品与粉丝群体之间的情感信任 + 价值反哺，共同作用形成的自运转、自循环的范围经济系统。&lt;/p&gt;
 &lt;p&gt;社群经济，就是说拉人头数卖东西，购买划算（团购），转发赚钱（导购）。&lt;/p&gt;
  ]]></description>
@@ -286,7 +286,7 @@ STEM 是科学（Science）、技术（Technology）、工程（Engineering）�
             <category>环保</category>
             <category>碳中和</category>
             <pubDate>Fri, 24 Sep 2021 10:57:54 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;最近 “碳中和” 太火了，很多资本都盯着 “碳中和” 领域，所以这里收集一些与碳中和相关的名词解释。（持续更新…）&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;最近 “碳中和” 太火了，很多资本都盯着 “碳中和” 领域，所以这里收集一些与碳中和相关的名词解释。（持续更新...）&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;碳源&lt;/strong&gt;：产生二氧化碳、甲烷等含碳温室气体的来源。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;碳汇&lt;/strong&gt;：温室气体汇聚、存留之处，称为碳汇。例如，海洋是世界上最大的碳汇，森林是陆地上最大的碳汇。&lt;/li&gt;

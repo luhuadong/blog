@@ -7,43 +7,39 @@
         <language>zh-CN</language>
         <pubDate>Sun, 31 Mar 2024 13:27:59 +0800</pubDate>
         <lastBuildDate>Sun, 31 Mar 2024 13:27:59 +0800</lastBuildDate>
-        <category>商业</category>
-        <category>成长</category>
-        <category>日记</category>
-        <category>创业</category>
-        <category>家居</category>
-        <category>互联网</category>
-        <category>读书笔记</category>
-        <category>工程师</category>
-        <category>爱</category>
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
+        <category>商业</category>
+        <category>创业</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
+        <category>种植</category>
         <category>英语</category>
+        <category>成长</category>
         <category>英语短文</category>
         <category>学习</category>
-        <category>种植</category>
         <category>健身</category>
         <category>气象爱好者</category>
         <category>指南</category>
         <category>自律</category>
+        <category>思维模型</category>
         <category>健康</category>
         <category>Hexo</category>
         <category>徒步</category>
+        <category>家居</category>
         <category>科普</category>
         <category>环保</category>
         <category>可持续</category>
@@ -51,12 +47,17 @@
         <category>社会现象</category>
         <category>独立开发者</category>
         <category>碳中和</category>
+        <category>互联网</category>
+        <category>工程师</category>
+        <category>AI</category>
+        <category>开发者</category>
         <category>职业</category>
         <category>时间管理</category>
         <category>milestone</category>
         <category>总结</category>
         <category>年终总结</category>
         <category>慈济</category>
+        <category>爱</category>
         <category>生活</category>
         <category>RT-Thread</category>
         <category>开源</category>
@@ -65,7 +66,9 @@
         <category>思考</category>
         <category>幸福</category>
         <category>猫</category>
+        <category>日记</category>
         <category>月报</category>
+        <category>读书笔记</category>
         <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
@@ -84,6 +87,7 @@
         <category>亲密关系</category>
         <category>农业</category>
         <category>素食</category>
+        <category>性格测试</category>
         <category>报告</category>
         <category>TED</category>
         <category>演讲</category>
@@ -96,10 +100,6 @@
         <category>垃圾分类</category>
         <category>零废弃</category>
         <category>低碳</category>
-        <category>思维模型</category>
-        <category>开发者</category>
-        <category>性格测试</category>
-        <category>AI</category>
         <item>
             <guid isPermalink="true">https://luhuadong.com/me/my-life-principles.html</guid>
             <title>人生之书·我的原则</title>
@@ -109,7 +109,7 @@
             <description><![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;自我评价体系&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&#34;人生哲学与价值观&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#人生哲学与价值观&#34;&gt;#&lt;/a&gt; 人生哲学与价值观&lt;/h2&gt;
+&lt;h2 id=&#34;人生哲学与价值观&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#人生哲学与价值观&#34;&gt;#&lt;/a&gt; 人生哲学与价值观&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;择善固执，选择做正确的事情。&lt;/li&gt;
 &lt;li&gt;广结善缘，与德才兼备的人打交道。&lt;/li&gt;
@@ -117,21 +117,21 @@
 &lt;li&gt;鼓起勇气拒绝别人，会让你的人生轻松很多。&lt;/li&gt;
 &lt;li&gt;不要轻易帮助他人，除非你确定他值得帮助。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;时间与个人管理&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#时间与个人管理&#34;&gt;#&lt;/a&gt; 时间与个人管理&lt;/h2&gt;
+&lt;h2 id=&#34;时间与个人管理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#时间与个人管理&#34;&gt;#&lt;/a&gt; 时间与个人管理&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;时间是一个人最重要的资源。&lt;/li&gt;
 &lt;li&gt;给自己的时间定价，做最重要的事情。&lt;/li&gt;
 &lt;li&gt;尽量少熬夜，用早起代替。&lt;/li&gt;
 &lt;li&gt;常锻炼身体，每天保持一定的运动量，但不要太大。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;学习与知识积累&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#学习与知识积累&#34;&gt;#&lt;/a&gt; 学习与知识积累&lt;/h2&gt;
+&lt;h2 id=&#34;学习与知识积累&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习与知识积累&#34;&gt;#&lt;/a&gt; 学习与知识积累&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;保持空杯心态，虚心优秀的人学习。&lt;/li&gt;
 &lt;li&gt;保持好奇心，永远不要停止学习。&lt;/li&gt;
 &lt;li&gt;构建自己的知识库，并经常更新，积极分享。&lt;/li&gt;
 &lt;li&gt;人生就是一个求知的过程，学习就很快乐呀。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;事业与职业规划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#事业与职业规划&#34;&gt;#&lt;/a&gt; 事业与职业规划&lt;/h2&gt;
+&lt;h2 id=&#34;事业与职业规划&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#事业与职业规划&#34;&gt;#&lt;/a&gt; 事业与职业规划&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;如果无法从工作中得到成长和足够的金钱，就是时候离职了。&lt;/li&gt;
 &lt;li&gt;长期来看，找一份真心喜欢和认同的工作，比赚钱更重要。&lt;/li&gt;
@@ -140,7 +140,7 @@
 &lt;li&gt;以终为始，先搞清楚目标是什么再行动。&lt;/li&gt;
 &lt;li&gt;学会与政府部门打交道，理解他们的语言和工作流程。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;消费与财务管理&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#消费与财务管理&#34;&gt;#&lt;/a&gt; 消费与财务管理&lt;/h2&gt;
+&lt;h2 id=&#34;消费与财务管理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#消费与财务管理&#34;&gt;#&lt;/a&gt; 消费与财务管理&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;不要乱花钱，尤其是购买不需要的物品。&lt;/li&gt;
 &lt;li&gt;不要不舍得花钱，尤其是对于重要的人（家人、朋友）。&lt;/li&gt;
@@ -150,30 +150,30 @@
 &lt;li&gt;不懂不投，不要乱投资，除非你真的理解并认同它的赚钱逻辑。&lt;/li&gt;
 &lt;li&gt;鸡蛋不要放在一个篮子里，永远不要满仓操作。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;情感与生活品质&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#情感与生活品质&#34;&gt;#&lt;/a&gt; 情感与生活品质&lt;/h2&gt;
+&lt;h2 id=&#34;情感与生活品质&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#情感与生活品质&#34;&gt;#&lt;/a&gt; 情感与生活品质&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;不要轻易谈恋爱，如果决定了谈恋爱，就不要有所保留。&lt;/li&gt;
 &lt;li&gt;亲密关系中凡事要多沟通，尽量不要让情绪过夜。&lt;/li&gt;
 &lt;li&gt;警惕新鲜感，多和旧人做新事，少和新人做旧事。&lt;/li&gt;
 &lt;li&gt;把伴侣的家人当作自己的家人，用心对待。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;情绪与内心成长&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#情绪与内心成长&#34;&gt;#&lt;/a&gt; 情绪与内心成长&lt;/h2&gt;
+&lt;h2 id=&#34;情绪与内心成长&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#情绪与内心成长&#34;&gt;#&lt;/a&gt; 情绪与内心成长&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;吃素有助于情绪稳定。&lt;/li&gt;
 &lt;li&gt;保持独立思考，不要人云亦云，这一点在 AI 时代尤其重要。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;艺术修养与审美&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#艺术修养与审美&#34;&gt;#&lt;/a&gt; 艺术修养与审美&lt;/h2&gt;
+&lt;h2 id=&#34;艺术修养与审美&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#艺术修养与审美&#34;&gt;#&lt;/a&gt; 艺术修养与审美&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;找到自己的穿衣风格，不要太随意。&lt;/li&gt;
 &lt;li&gt;学习摄影可以提高审美。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;决策与思考方法&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#决策与思考方法&#34;&gt;#&lt;/a&gt; 决策与思考方法&lt;/h2&gt;
+&lt;h2 id=&#34;决策与思考方法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#决策与思考方法&#34;&gt;#&lt;/a&gt; 决策与思考方法&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/principle/regret-minimization-framwork.html&#34;&gt;遗憾最小化框架&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/journal/two-decision-method-wcca-and-wadm.html#wcca&#34;&gt;WCCA&lt;/a&gt;（最坏情况后果分析）&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/journal/two-decision-method-wcca-and-wadm.html#wadm&#34;&gt;WADM&lt;/a&gt;（加权平均决策矩阵）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;生死观&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#生死观&#34;&gt;#&lt;/a&gt; 生死观&lt;/h2&gt;
+&lt;h2 id=&#34;生死观&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生死观&#34;&gt;#&lt;/a&gt; 生死观&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;珍惜每一天，勇敢地去做自己想做的事。&lt;/li&gt;
 &lt;li&gt;活在当下，不要吝啬对家人表达爱意。&lt;/li&gt;
@@ -188,36 +188,36 @@
             <category>思考</category>
             <pubDate>Sun, 02 Jul 2023 11:53:47 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;《人生五章》是波歇。尼尔森的一首很治愈的诗，却也很写实，描述了我们遇到问题的反应以及最终如何去解决这个问题的心理过程。如果你正好在困境中，希望这首诗能给你一些启发！&lt;/p&gt;
-&lt;h2 id=&#34;第一章&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一章&#34;&gt;#&lt;/a&gt; 第一章&lt;/h2&gt;
-&lt;p&gt;我走上街，&lt;br&gt;
-人行道上有一个深洞，&lt;br&gt;
-我掉了进去，&lt;br&gt;
-我迷失了，我绝望了，&lt;br&gt;
-这不是我的错，&lt;br&gt;
+&lt;h2 id=&#34;第一章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章&#34;&gt;#&lt;/a&gt; 第一章&lt;/h2&gt;
+&lt;p&gt;我走上街，&lt;br /&gt;
+人行道上有一个深洞，&lt;br /&gt;
+我掉了进去，&lt;br /&gt;
+我迷失了，我绝望了，&lt;br /&gt;
+这不是我的错，&lt;br /&gt;
 我费了好大的劲才爬出来。&lt;/p&gt;
-&lt;h2 id=&#34;第二章&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第二章&#34;&gt;#&lt;/a&gt; 第二章&lt;/h2&gt;
-&lt;p&gt;我走上同一条街，&lt;br&gt;
-人行道上有一个深洞，&lt;br&gt;
-我假装没看到，&lt;br&gt;
-还是掉了进去，&lt;br&gt;
-我不能相信我居然会掉在同样的地方，&lt;br&gt;
-但这不是我的错，&lt;br&gt;
+&lt;h2 id=&#34;第二章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二章&#34;&gt;#&lt;/a&gt; 第二章&lt;/h2&gt;
+&lt;p&gt;我走上同一条街，&lt;br /&gt;
+人行道上有一个深洞，&lt;br /&gt;
+我假装没看到，&lt;br /&gt;
+还是掉了进去，&lt;br /&gt;
+我不能相信我居然会掉在同样的地方，&lt;br /&gt;
+但这不是我的错，&lt;br /&gt;
 我还是花了好长的时间才爬出来。&lt;/p&gt;
-&lt;h2 id=&#34;第三章&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第三章&#34;&gt;#&lt;/a&gt; 第三章&lt;/h2&gt;
-&lt;p&gt;我走上同一条街，&lt;br&gt;
-人行道上有一个深洞，&lt;br&gt;
-我看到它在那，&lt;br&gt;
-但还是掉了进去，&lt;br&gt;
-这是一种习惯，&lt;br&gt;
-我的眼睛张开着，&lt;br&gt;
-我知道我在那儿，&lt;br&gt;
-我知道这是我的错，&lt;br&gt;
+&lt;h2 id=&#34;第三章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三章&#34;&gt;#&lt;/a&gt; 第三章&lt;/h2&gt;
+&lt;p&gt;我走上同一条街，&lt;br /&gt;
+人行道上有一个深洞，&lt;br /&gt;
+我看到它在那，&lt;br /&gt;
+但还是掉了进去，&lt;br /&gt;
+这是一种习惯，&lt;br /&gt;
+我的眼睛张开着，&lt;br /&gt;
+我知道我在那儿，&lt;br /&gt;
+我知道这是我的错，&lt;br /&gt;
 我立刻爬了出来。&lt;/p&gt;
-&lt;h2 id=&#34;第四章&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第四章&#34;&gt;#&lt;/a&gt; 第四章&lt;/h2&gt;
-&lt;p&gt;我走上同一条街，&lt;br&gt;
-人行道上有一个深洞，&lt;br&gt;
+&lt;h2 id=&#34;第四章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四章&#34;&gt;#&lt;/a&gt; 第四章&lt;/h2&gt;
+&lt;p&gt;我走上同一条街，&lt;br /&gt;
+人行道上有一个深洞，&lt;br /&gt;
 我绕道而过。&lt;/p&gt;
-&lt;h2 id=&#34;第五章&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第五章&#34;&gt;#&lt;/a&gt; 第五章&lt;/h2&gt;
+&lt;h2 id=&#34;第五章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五章&#34;&gt;#&lt;/a&gt; 第五章&lt;/h2&gt;
 &lt;p&gt;我走上另一条街。&lt;/p&gt;
  ]]></description>
         </item>
@@ -228,7 +228,7 @@
             <category>人生</category>
             <category>思考</category>
             <pubDate>Mon, 12 Jun 2023 20:52:21 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;故事&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#故事&#34;&gt;#&lt;/a&gt; 故事&lt;/h2&gt;
+            <description><![CDATA[ &lt;h2 id=&#34;故事&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#故事&#34;&gt;#&lt;/a&gt; 故事&lt;/h2&gt;
 &lt;p&gt;从前有两个兄弟，他们发现村子里没有称心如意的姑娘，于是决定一起到外面寻找心仪的姑娘。&lt;/p&gt;
 &lt;p&gt;在离开家乡之后，他们走了很多地方，有一天他们来到一个渔村，在村头碰到了一个姑娘，弟弟觉得那位姑娘正是自己的心目中人，或许这就是一见钟情，所以他决定留下来。&lt;/p&gt;
 &lt;p&gt;他对哥哥说：“那个姑娘就是我要找的人，我要留在这里。”&lt;/p&gt;
@@ -236,7 +236,7 @@
 &lt;p&gt;可弟弟执意留下。哥哥就对弟弟说 “既然你喜欢，就留下好了，我还要去找我喜欢的人。”&lt;/p&gt;
 &lt;p&gt;于是弟弟就辞别了哥哥，到当地打听求婚的习俗。当地人告诉他求婚要送牛的，普通的女孩只需要送一两头牛，贤惠漂亮的女孩要送多些，也就是说四五头。最多的是送九头牛，这样的女孩是非常优秀的，很少见这里，根本就没有人送过九头牛。&lt;/p&gt;
 &lt;p&gt;结果弟弟买了九头牛，浩浩荡荡地赶着牛群去求婚了。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/wisdom/nine-cows.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/wisdom/nine-cows.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;敲开女孩家的门时，女孩的父亲出来了，扶着门框吃惊的问：“年轻人有什么事？”&lt;/p&gt;
 &lt;p&gt;弟弟说：“老伯伯，我看上了你家的女儿，我赶着牛来是求婚的。”&lt;/p&gt;
 &lt;p&gt;老人说：“你求婚也用不着赶这么多牛来，我家女儿只是一个普通人，最多只要三四头牛就行了。你送这么多牛来是不对的，如果我收下了，邻居会笑话的。”&lt;/p&gt;
@@ -250,7 +250,7 @@
 &lt;p&gt;几年后哥哥回来了，走到村口，他发现村长正在举办一个盛大的篝火晚会，熊熊篝火旁边，大家正在观看一个体态轻盈年轻漂亮的女子，翩翩起舞，哥哥好奇：村里哪有这么漂亮的女孩？&lt;/p&gt;
 &lt;p&gt;哥哥见到弟弟，问弟弟，弟弟说这个女孩正是他的媳妇儿。哥哥很纳闷，弟弟当年娶的那位媳妇儿没有那么漂亮！哥哥就问弟弟是怎么回事，弟弟说：“他就是当年你没看上的那个女孩。”&lt;/p&gt;
 &lt;p&gt;弟弟说：“从小到大家都认为她是一个普通的人，连她自己也觉得没有什么特别之处。但自从我把她当做九牛之人取回之后，她就开始学习九牛之人的优点。结果三年过去了，没想到她真的变成了聪明贤惠、漂亮可爱的九牛之人。”&lt;/p&gt;
-&lt;h2 id=&#34;启发&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#启发&#34;&gt;#&lt;/a&gt; 启发&lt;/h2&gt;
+&lt;h2 id=&#34;启发&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#启发&#34;&gt;#&lt;/a&gt; 启发&lt;/h2&gt;
 &lt;p&gt;你期望你的爱人、同事、下属是什么样子的，你就要把他当成你期待的样子对待，那么因你的暗示，他们就会向你期望的方向发展，最终也会变成你所期望的样子。&lt;/p&gt;
 &lt;p&gt;让自己成为幸福的源泉，用生命中最美好的东西去感染别人。深信只要付出就会有所回报。热情、爱情、信任、称赞…… 不论是它们中的哪一种，只要你学会向别人索取之前，先付出，就会收获更多。改变自己以后，再去改变别人。最后这种力量会凝结在一起变成翅膀，让你在有风的日子里，自由翱翔。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;对自己的选择倾注全部的爱，你将得到奇迹般的收获。&lt;/strong&gt;&lt;/p&gt;
@@ -260,15 +260,15 @@
             <guid isPermalink="true">https://luhuadong.com/journal/20230430.html</guid>
             <title>当我不再寻找人生的意义，生活才刚刚开始</title>
             <link>https://luhuadong.com/journal/20230430.html</link>
-            <category>成长</category>
             <category>人生</category>
+            <category>成长</category>
             <pubDate>Sun, 30 Apr 2023 15:41:16 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;这几年活得很痛苦，其实也不是这几年啦，是这三十年好像都活得很痛苦，一直在寻找人生的意义。逃离原生家庭、追寻情感寄托、忙碌到让人麻木的工作、内心对名利的欲望… 以及那好像永远都达不到的理想生活。&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;这几年活得很痛苦，其实也不是这几年啦，是这三十年好像都活得很痛苦，一直在寻找人生的意义。逃离原生家庭、追寻情感寄托、忙碌到让人麻木的工作、内心对名利的欲望...... 以及那好像永远都达不到的理想生活。&lt;/p&gt;
 &lt;p&gt;别人总觉得我很好，就连我妈也是这么认为的，似乎他们无法理解我的痛苦，而我又只能不断地压抑自己，把痛苦和伤疤掩埋起来，对大家笑一个 ･◡･&lt;/p&gt;
 &lt;p&gt;从大三开始，抑郁就伴随着我，我曾以为我好了，可这几年持续性的心情低落，越来越频繁了。我好像失去了勇气，失去了自信，却依然要在大家面前展示最好的一面。累，真的累了。我想要的 “内外一致” 的状态，找不到了。&lt;/p&gt;
 &lt;p&gt;可能是被 996 工作所异化，可能是我太固执，无法从原生家庭和失败的感情经历中走出来，总是一昧地回避，摆脱不了受害者心态。&lt;/p&gt;
 &lt;p&gt;但我今天，31 岁的我，决定要重新夺回生活的主导权，不再寻找人生的意义。因为人生本来就没有意义，对于浩瀚的宇宙而言，我只不过是一粒尘埃，很多事情已经发生了，我并不能改变什么，唯一能改变的就是我自己。看淡人生吧，活在当下，享受生活，随遇而安，花更多时间去做自己想做的事，快快乐乐地度过每一天。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/journal/life-meaning.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/life-meaning.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
@@ -279,7 +279,7 @@
             <category>指南</category>
             <category>自律</category>
             <pubDate>Fri, 07 Oct 2022 12:21:35 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;生活习惯&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#生活习惯&#34;&gt;#&lt;/a&gt; 生活习惯&lt;/h2&gt;
+            <description><![CDATA[ &lt;h2 id=&#34;生活习惯&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活习惯&#34;&gt;#&lt;/a&gt; 生活习惯&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;戒掉熬夜，保证充足睡眠&lt;/li&gt;
 &lt;li&gt;起床后叠好被子，换好衣服，有仪式感地开启每一天&lt;/li&gt;
@@ -292,7 +292,7 @@
 &lt;li&gt;每周整理收拾一次房间，心情会变得更好&lt;/li&gt;
 &lt;li&gt;坚持理财记账的好习惯&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;自我提升&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#自我提升&#34;&gt;#&lt;/a&gt; 自我提升&lt;/h2&gt;
+&lt;h2 id=&#34;自我提升&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自我提升&#34;&gt;#&lt;/a&gt; 自我提升&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;保证每个月至少读两本书&lt;/li&gt;
 &lt;li&gt;把自己的字练好&lt;/li&gt;
@@ -304,7 +304,7 @@
 &lt;li&gt;提升工作效率，找到适合自己的方式方法&lt;/li&gt;
 &lt;li&gt;戒掉拖延症，要做的事立马去做！&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;提升内外气质&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#提升内外气质&#34;&gt;#&lt;/a&gt; 提升内外气质&lt;/h2&gt;
+&lt;h2 id=&#34;提升内外气质&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#提升内外气质&#34;&gt;#&lt;/a&gt; 提升内外气质&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;多微笑，微笑能带来自信和好运&lt;/li&gt;
 &lt;li&gt;时刻保持抬头、挺胸、不驼背&lt;/li&gt;
@@ -314,7 +314,7 @@
 &lt;li&gt;不吝啬对别人的夸奖，大方赞扬&lt;/li&gt;
 &lt;li&gt;不要悲观主义，告别负能量和抱怨&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;人际交往&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#人际交往&#34;&gt;#&lt;/a&gt; 人际交往&lt;/h2&gt;
+&lt;h2 id=&#34;人际交往&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#人际交往&#34;&gt;#&lt;/a&gt; 人际交往&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;减少无意义的社交，远离让你心生厌烦的人&lt;/li&gt;
 &lt;li&gt;提高圈子质量，多和优秀的人接触&lt;/li&gt;
@@ -322,7 +322,7 @@
 &lt;li&gt;记得伴侣、亲朋好友的生日并送上祝福&lt;/li&gt;
 &lt;li&gt;多和父母通电话，提供心灵上的陪伴&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;消费观念&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#消费观念&#34;&gt;#&lt;/a&gt; 消费观念&lt;/h2&gt;
+&lt;h2 id=&#34;消费观念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#消费观念&#34;&gt;#&lt;/a&gt; 消费观念&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;投资自己，理性消费，不盲目跟风&lt;/li&gt;
 &lt;li&gt;养成记账的好习惯，便于每月复盘&lt;/li&gt;
@@ -340,52 +340,52 @@
             <category>指南</category>
             <pubDate>Mon, 03 Oct 2022 16:37:17 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;通过下面这些小练习，你就会明白如何为自己创造想要的人生。&lt;/p&gt;
-&lt;h2 id=&#34;1-找到人生大方向&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-找到人生大方向&#34;&gt;#&lt;/a&gt; 1. 找到人生大方向&lt;/h2&gt;
+&lt;h2 id=&#34;1-找到人生大方向&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-找到人生大方向&#34;&gt;#&lt;/a&gt; 1. 找到人生大方向&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;在便利贴上写下对你来说最重要的五个价值观，把它贴在每天都能看见的地方；&lt;/li&gt;
 &lt;li&gt;列出你明年最希望实现的三个明确的目标，选出其中最有野心又最吓人的那个 —— 它其实是最令人兴奋的目标。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;2-成为无可取代之人&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2-成为无可取代之人&#34;&gt;#&lt;/a&gt; 2. 成为无可取代之人&lt;/h2&gt;
+&lt;h2 id=&#34;2-成为无可取代之人&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-成为无可取代之人&#34;&gt;#&lt;/a&gt; 2. 成为无可取代之人&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;完成个性分析测试（如 MBTI 职业性格测试），确定职业发展方向，结合自身情况和应聘职位的需求修改简历，向未来的雇主展示你的优势；&lt;/li&gt;
 &lt;li&gt;如果想得到梦想中的工作，或是希望在现在的工作中成为无可取代之人，你需要掌握什么技能、知识或经验？制订一个学习计划。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;3-让金钱为你铺路&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#3-让金钱为你铺路&#34;&gt;#&lt;/a&gt; 3. 让金钱为你铺路&lt;/h2&gt;
+&lt;h2 id=&#34;3-让金钱为你铺路&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-让金钱为你铺路&#34;&gt;#&lt;/a&gt; 3. 让金钱为你铺路&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;下载一个理财 APP，学习管理自己的收入支出；&lt;/li&gt;
 &lt;li&gt;弄清自己的经济状况，制订一份月度预算，并准备一个应急账户，定期向账户中存钱，不要轻易动用这笔钱。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;4-独立生活的开始&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#4-独立生活的开始&#34;&gt;#&lt;/a&gt; 4. 独立生活的开始&lt;/h2&gt;
+&lt;h2 id=&#34;4-独立生活的开始&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-独立生活的开始&#34;&gt;#&lt;/a&gt; 4. 独立生活的开始&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;学会「断舍离」，把不用的东西分类后根据捐赠、置换闲置物品、卖二手店等方式，进行处理；&lt;/li&gt;
 &lt;li&gt;准备一个急救小药箱，常备药物：阿司匹林、创可贴、胃药、眼药水、炉甘石洗剂、双氧水、纱布、开瑞坦。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;5-有条理地生活&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#5-有条理地生活&#34;&gt;#&lt;/a&gt; 5. 有条理地生活&lt;/h2&gt;
+&lt;h2 id=&#34;5-有条理地生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5-有条理地生活&#34;&gt;#&lt;/a&gt; 5. 有条理地生活&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;建立日程表，规划自己的日程安排、计划，定期进行总结；&lt;/li&gt;
 &lt;li&gt;准备文件筐，把账单、重要文件分门别类收好，不要平摊在桌面上。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;6-关心朋友和家人&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#6-关心朋友和家人&#34;&gt;#&lt;/a&gt; 6. 关心朋友和家人&lt;/h2&gt;
+&lt;h2 id=&#34;6-关心朋友和家人&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#6-关心朋友和家人&#34;&gt;#&lt;/a&gt; 6. 关心朋友和家人&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;经常给家人打电话，告诉他们你很好，很想念他们；&lt;/li&gt;
 &lt;li&gt;春天到了，找一处朋友们都感兴趣的目的地，来一次春游。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;7-好好谈恋爱&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#7-好好谈恋爱&#34;&gt;#&lt;/a&gt; 7. 好好谈恋爱&lt;/h2&gt;
+&lt;h2 id=&#34;7-好好谈恋爱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#7-好好谈恋爱&#34;&gt;#&lt;/a&gt; 7. 好好谈恋爱&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;试试最近很火的「5 美元订制最佳男 / 女朋友」测试，看看对于你来说，伴侣必须拥有的是哪些品质。把结果记下来；&lt;/li&gt;
 &lt;li&gt;想想你从过去的感情中学到了哪些教训，自己有哪些能改善的地方，在维护一段感情中有哪些必须注意的事情。把它们写下来。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;8-你不是累你是懒&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#8-你不是累你是懒&#34;&gt;#&lt;/a&gt; 8. 你不是累，你是懒&lt;/h2&gt;
+&lt;h2 id=&#34;8-你不是累你是懒&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#8-你不是累你是懒&#34;&gt;#&lt;/a&gt; 8. 你不是累，你是懒&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;你有多久没运动了？工作太忙或是空气不好都知识借口，赶快动起来，哪怕是走路上班、上学；&lt;/li&gt;
 &lt;li&gt;写下你最喜欢的运动，每周最少锻炼一次。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;9-歇一歇没有人是永动机&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#9-歇一歇没有人是永动机&#34;&gt;#&lt;/a&gt; 9. 歇一歇，没有人是永动机&lt;/h2&gt;
+&lt;h2 id=&#34;9-歇一歇没有人是永动机&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#9-歇一歇没有人是永动机&#34;&gt;#&lt;/a&gt; 9. 歇一歇，没有人是永动机&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;列出一份目标清单，记录你一生中最想做成或是想尝试的事情；&lt;/li&gt;
 &lt;li&gt;每天记录三件当天最让你开心或是放松的事情。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;10-敢不敢对自己好一点&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#10-敢不敢对自己好一点&#34;&gt;#&lt;/a&gt; 10. 敢不敢对自己好一点？&lt;/h2&gt;
+&lt;h2 id=&#34;10-敢不敢对自己好一点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#10-敢不敢对自己好一点&#34;&gt;#&lt;/a&gt; 10. 敢不敢对自己好一点？&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;建立「我很伟大」文件夹，把你的成就、值得自豪的时刻和成功的经历都放进去，遭遇困难时，它能帮你找回信心；&lt;/li&gt;
 &lt;li&gt;每天五分钟，清空思绪，练习冥想。&lt;/li&gt;
@@ -399,18 +399,18 @@
             <category>人生</category>
             <category>总结</category>
             <pubDate>Wed, 06 Apr 2022 00:47:47 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/journal/your-30s-are-just-like-20s.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/your-30s-are-just-like-20s.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;最近比较忙，其实也不是很忙，主要是过去很长一段时间，情绪低迷，进入了一种间歇性自律、持续性懒惰的状态，导致工作效率有点低。时常感到焦虑和孤独，唯一让我感到内心平静，居然是在图书馆学习的时候。生活总是平平淡淡，工作总是忙忙碌碌，还没来得及感叹，一不小心，就已经达成了 30 岁的里程碑。&lt;/p&gt;
 &lt;p&gt;30 岁真是一个可怕的数字，它总在提醒你 “该成家啦，该立业啦”。而我，似乎两头都不着调。没有甜甜的爱情，没有支持我的家庭，没有一份属于自己的事业。好像做什么都觉得差点意思，买房子、买车子也没感到多开心，找到一份还不错的工作也没感到多开心。哎，我的快乐阈值可真高。可能是因为我是个有野心的人吧，也许只有当我拥有一份事业，拥有自由的生活，拥有心心相印的爱人，才会感到快乐吧。&lt;/p&gt;
-&lt;p&gt;过去几个月，时常常想写点什么，又迟迟不敢落笔，生怕不好的想法和潦草的字体玷污了纸张，我… 好像抑郁了。果然，每次测试结果都显示我可能已经患上抑郁症，建议向心理医生或专业人士寻求协助。于是，我花了一些时间阅读心理学方面的著作，以寻求帮助。好消息是，虽然总是显示有抑郁倾向，但没有一次是重度抑郁。我想，应该是我依然热爱生活，对未来还抱有希望吧！&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/journal/20220301_BDI-II_test.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;作为 30 岁的总结，我本来想给自己打个 59 分，因为很多事情并没有达到预期，我也没有成为想成为的样子，让自己失望了。不过，我的心理医生说：要多点肯定自己，相信自己的才能，并用积极进取的态度看待自己的不足，摆脱自我束缚。于是，我给自己打了 99 分。&lt;span class=&#34;github-emoji&#34; alias=&#34;smile&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8&#34;&gt;😄&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;过去几个月，时常常想写点什么，又迟迟不敢落笔，生怕不好的想法和潦草的字体玷污了纸张，我... 好像抑郁了。果然，每次测试结果都显示我可能已经患上抑郁症，建议向心理医生或专业人士寻求协助。于是，我花了一些时间阅读心理学方面的著作，以寻求帮助。好消息是，虽然总是显示有抑郁倾向，但没有一次是重度抑郁。我想，应该是我依然热爱生活，对未来还抱有希望吧！&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20220301_BDI-II_test.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;作为 30 岁的总结，我本来想给自己打个 59 分，因为很多事情并没有达到预期，我也没有成为想成为的样子，让自己失望了。不过，我的心理医生说：要多点肯定自己，相信自己的才能，并用积极进取的态度看待自己的不足，摆脱自我束缚。于是，我给自己打了 99 分。&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;smile&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😄&amp;lt;/span&amp;gt;&lt;/p&gt;
 &lt;p&gt;人生最重要的资源是什么？是时间，是每时每刻都在流淌的时间。把时间花在什么样的事、什么样的人上，收获的结果是不一样的。于是，我离开了那些阻碍我前进的人和事，开始了一段新的探索。做小项目、写书、面试、换赛道，就是过去一年的缩影。&lt;/p&gt;
-&lt;p&gt;对于我来说，痛苦的根源在于家庭、工作和生活的割裂。好像在不同的场景和圈子，都有不同的人设，而这都不是真实、完整的我。我要扮演一个好儿子、好哥哥、好员工、好男友… 不同场景间的切换、情绪的调整，让我感到很累。其实我没那么好，都是装出来的…&lt;/p&gt;
-&lt;p&gt;那我到底是一个什么样的人？如果一定要贴标签的话，那么「Maker」和「环保」是我最想贴的两个标签。前者偏向于科技，后者偏向于人文。虽然我的工作是软件工程师（程序员），但我认为自己是一个富含现实理想主义色彩、开源和极客精神的 Maker，享受从零到一的自造过程。在生活中，我是一个有环保洁癖的人，我会尽量少产生垃圾、严格做好垃圾分类、多吃素少吃肉、不点外卖不喝奶茶，还会在家堆肥… 所以跟我这样的人谈恋爱应该很累吧？&lt;/p&gt;
+&lt;p&gt;对于我来说，痛苦的根源在于家庭、工作和生活的割裂。好像在不同的场景和圈子，都有不同的人设，而这都不是真实、完整的我。我要扮演一个好儿子、好哥哥、好员工、好男友...... 不同场景间的切换、情绪的调整，让我感到很累。其实我没那么好，都是装出来的......&lt;/p&gt;
+&lt;p&gt;那我到底是一个什么样的人？如果一定要贴标签的话，那么「Maker」和「环保」是我最想贴的两个标签。前者偏向于科技，后者偏向于人文。虽然我的工作是软件工程师（程序员），但我认为自己是一个富含现实理想主义色彩、开源和极客精神的 Maker，享受从零到一的自造过程。在生活中，我是一个有环保洁癖的人，我会尽量少产生垃圾、严格做好垃圾分类、多吃素少吃肉、不点外卖不喝奶茶，还会在家堆肥...... 所以跟我这样的人谈恋爱应该很累吧？&lt;/p&gt;
 &lt;p&gt;除此之外，「运动」「抠门」「禅修」「长发」等也是我的标签。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;运动：我从来不是那种学习特别勤奋的人，也常常需要通过运动来调整状态，因此造就了广泛的兴趣爱好，比较喜欢的是篮球、橄榄球、乒乓球、羽毛球、游泳、爬山… 不过由于经常找不到伴，所以通常都是玩一个人就可以完成的运动项目，游泳、健身、跑步等等。刚好前段时间在家，还顺便充当了我外甥的篮球启蒙教练。&lt;/li&gt;
+&lt;li&gt;运动：我从来不是那种学习特别勤奋的人，也常常需要通过运动来调整状态，因此造就了广泛的兴趣爱好，比较喜欢的是篮球、橄榄球、乒乓球、羽毛球、游泳、爬山...... 不过由于经常找不到伴，所以通常都是玩一个人就可以完成的运动项目，游泳、健身、跑步等等。刚好前段时间在家，还顺便充当了我外甥的篮球启蒙教练。&lt;/li&gt;
 &lt;li&gt;抠门：作为豆瓣抠门男性联合会会员，我始终秉持 “消费降级” 的理念，只买需要的不买想要的，最高程度上实现物美价廉，把钱省下来争取早日实现自由生活和伟大事业。比如说，虽然我自己从事技术开发，但我从来没有考虑过购买智能手表、扫地机器人、L3 级自动驾驶汽车等产品，取而代之的是迪卡侬最便宜的 39.9 元防水手表、自己动手扫地、较低配置的代步汽车。同样，相比于花钱办健身卡，我更喜欢免费的街头健身，因为最终的结果往往只取决于你在这件事情上花费了多少时间。抠门的一个例外，是在购买书籍方面，只要图书馆不好借或者电子版阅读体验不好的，都会选择购买纸质书，不过会优先考虑二手图书。&lt;/li&gt;
 &lt;li&gt;禅修：虽然我并没有宗教信仰，不过我还是用了佛教中 “禅修” 一词。一方面由于长期存在抑郁情绪，需要通过冥想、心理研究等方式把心灵中的良好状态培养出来；另一方面，作为 “慈济人” 会接触到一些佛法，我会把它们当作心理学和哲学去对待，也会以此修炼自己的心灵和行为。&lt;/li&gt;
 &lt;li&gt;长发：最开始留长头发，只是想做点不一样的事情突破自己，提醒自己不要在意别人的眼光，要勇敢地做自己。后来把留了三年长发的长发捐给公益机构以后，本想重新剪个小寸头，后来还是留了个短短的长发。意外收获是，每次去到一个新环境，都能很快被别人记住 —— 噢，那个长头发的男生。&lt;/li&gt;
@@ -419,7 +419,7 @@
 &lt;p&gt;工作方面，去年离职后有一段时间没上班，探索（躺平）了一段时间。期间有接触一些公司和团队，也想着要不要转行不做程序员了，找一份可以远程办公的工作，比如技术编辑。这样就可以脱离地理位置的限制，一边旅游一边工作。不过，考虑政治动荡、经济低迷、疫情肆虐等因素，最终还是选择了比较赚钱的程序员工作，到智能电动汽车领域再疯狂内卷一波。&lt;/p&gt;
 &lt;p&gt;为什么选择汽车行业？一方面是本人过往在嵌入式软件方面的工作经验比较匹配；另一方面是近年来汽车行业发展迅猛，包括电动化、智能化、网联化、共享化，造就了大量的投融资和工作需求。汽车工业的变革，是中国碳中和之路的一个重要开端。你想想，汽车作为一种快速折旧的昂贵资产，生命周期的绝大部分时间居然无所事事地停在车库，城市地区还必须拿出大量土地当作停车场，才能放置所有的闲置车辆。我们越早实现无人驾驶和大规模的按需运输，就能越早摆脱这种巨大的浪费。虽然我只是行业中的一个小兵，但这确实是吸引我进来的一点。&lt;/p&gt;
 &lt;p&gt;具体来说，我现在从事的是激光雷达（LiDAR）的 SDK 研发。2022 年被称为激光雷达量产元年，预计全球乘用车市场激光雷达需求量将由 2022 年的 22 万颗快速提升至 2025 年的 2134 万颗。显然，这个增长速度足以用疯狂来形容。我吧，其实也没那么大的野心，如果公司发展得好，我也工作得比较开心，那么应该会在这里度过未来的 3/5/7 年，希望在个人财富方面能有不错的提升吧，毕竟自由的基础还是财务自由。&lt;/p&gt;
-&lt;p&gt;业余时间应该还是会折腾点项目和比赛，为未来做准备。长远来看，我的目标其实是创立一家小而美的公司，用技术赋能环保和可持续发展，提供一些相关的产品和服务。我希望公司的总部位于一个小城市（比如我的家乡），同时支持远程办公，是一家灵活、快乐、高效、具有竞争力的小公司。当然，为了达成这个目标，我还需要做很多准备，我现在正处于这个积累的阶段。30 岁这一年，必须是突破的一年！当然，也不是说非得创业，如果能找到一种舒适的合作方式，实现个人价值和社会价值，那也是可以的。比如说做一个快乐的自由职业者、科技作家、独立创客…&lt;/p&gt;
+&lt;p&gt;业余时间应该还是会折腾点项目和比赛，为未来做准备。长远来看，我的目标其实是创立一家小而美的公司，用技术赋能环保和可持续发展，提供一些相关的产品和服务。我希望公司的总部位于一个小城市（比如我的家乡），同时支持远程办公，是一家灵活、快乐、高效、具有竞争力的小公司。当然，为了达成这个目标，我还需要做很多准备，我现在正处于这个积累的阶段。30 岁这一年，必须是突破的一年！当然，也不是说非得创业，如果能找到一种舒适的合作方式，实现个人价值和社会价值，那也是可以的。比如说做一个快乐的自由职业者、科技作家、独立创客......&lt;/p&gt;
 &lt;p&gt;感情方面，处于想结婚又不想谈恋爱的状态。可是，不谈恋爱怎么结婚？Single 的原因，是因为我感觉自己还处于 “半杯水” 的状态。可能很难给予对方足够的支撑，我希望自己能成长到更加充盈的状态，不需要用力倾斜也能予以对方足够的支持。&lt;/p&gt;
 &lt;p&gt;我在想，会不会未来某一天突然想结婚，然后给一位认识很久的朋友打电话 —— “要不我们结婚吧”，然后她说 “好呀”，就这么神奇地步入了婚姻。也不是非得结婚，毕竟我们都快被逼成完人了，很多事情都能一个人完成，自然对伴侣少了很多期待，对婚姻少了很多向往。当然，如果我有选择权，肯定是希望对方能匹配上「Maker」和「环保」两个标签（至少一个吧）。这样，别人看来是缺点的地方，就会变成优点，也能避免很多争吵和磨合。如果她还懂点心理学，能接受我留长头发、抠门、禅修等奇奇怪怪的行为，还能陪我一起读读书、做做运动，那简直就是完美伴侣！赶紧来捞我一下吧～&lt;/p&gt;
 &lt;p&gt;过去 30 年的一个教训，就是不太懂得营销自己。未来应该加大力度推销一下自己，不断地学习、精进，成为更好的自己！&lt;/p&gt;
@@ -515,26 +515,26 @@
             <link>https://luhuadong.com/me/my-career.html</link>
             <category>人生</category>
             <pubDate>Fri, 24 Sep 2021 11:21:45 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/my-career-map.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/my-career-map.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/reading/ten-conditions-of-happiness.html</guid>
             <title>新幸福的十大标准</title>
             <link>https://luhuadong.com/reading/ten-conditions-of-happiness.html</link>
-            <category>读书笔记</category>
             <category>人生</category>
             <category>幸福</category>
+            <category>读书笔记</category>
             <pubDate>Sat, 04 Sep 2021 11:48:17 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;记得小学语文课本有一篇文章 ——《幸福是什么》，当时没看懂。直到最近，感觉自己不太幸福，所以重新读了这篇文章。文章其实很短，讲三个牧羊的小孩在树林里清理一口老泉，善举感动了森林里的智慧女神，简单的对话引发了孩子们对幸福的思考。后来三个孩子选择了不同的人生道路，十年后在小井旁相遇了，他们都明白了什么是幸福 —— &lt;strong&gt;幸福要靠劳动，要靠很好地尽自己的义务，做出对人们有益的事情。&lt;/strong&gt;&lt;/p&gt;
-&lt;img data-src=&#34;/images/static/what-happiness-is.jpg&#34; alt=&#34;幸福&#34; title=&#34;幸福是什么？&#34; width=600 /&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/static/what-happiness-is.jpg&amp;quot; alt=&amp;quot;幸福&amp;quot; title=&amp;quot;幸福是什么？&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
 &lt;p&gt;虽然文章给出了幸福的含义，就是脚踏实地、做个对社会有价值的人。但感觉还是比较空泛，缺少了一些深度和行动指导。毕竟只是一篇小学生课文，目的只是引发大家思考而已。&lt;/p&gt;
-&lt;p&gt;于是，我想起了《&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly91bmlvbi1jbGljay5qZC5jb20vamRjP2U9JmFtcDtwPUpGOEJBTWtKSzFvbFhnSUFVMWRZQ1VzZkExOElHRklSV3dVQ1ZXNFpWeE5KWEY5UlhoNVVIdzBjU2dZWVhCY0lXRG9YU1FWSlF3WUJYVnBiQzBzV0hEWk5Sd1lsQlVGMFBBMEphengxZUNjS1JEeENHVzlSVUFjLVRrY2JNMjQ0RzFvVVh3TUNVRnRmRG5zbkEyZzRUVFVWWEFjRFZWOVZDRW9TTTI0NEcxd1hYQTREVlZaYkRra1dCVjhQRzFJbEFFSlFEaFlJV0FoRlMxODRLMWdsYlRZQ1pGMXRTaVVTQ20xWVQxeEhYUWRWVVF4WUMwZ1RDenNPRWxOQlhGUUFCZ3BaVzBJV0NsOEtHbG9SVkRZ&#34;&gt;少即是多：北欧自由生活意见&lt;/span&gt;》这本书里面提到的 “新幸福的十大标准” 概念。&lt;/p&gt;
-&lt;img data-src=&#34;/images/static/new-happiness-define-01.jpeg&#34; title=&#34;新幸福的十大标准&#34; width=480 /&gt;
+&lt;p&gt;于是，我想起了《&lt;a href=&#34;https://union-click.jd.com/jdc?e=&amp;amp;p=JF8BAMkJK1olXgIAU1dYCUsfA18IGFIRWwUCVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXVpbC0sWHDZNRwYlBUF0PA0Jazx1eCcKRDxCGW9RUAc-TkcbM244G1oUXwMCUFtfDnsnA2g4TTUVXAcDVV9VCEoSM244G1wXXA4DVVZbDkkWBV8PG1IlAEJQDhYIWAhFS184K1glbTYCZF1tSiUSCm1YT1xHXQdVUQxYC0gTCzsOElNBXFQABgpZW0IWCl8KGloRVDY&#34;&gt;少即是多：北欧自由生活意见&lt;/a&gt;》这本书里面提到的 “新幸福的十大标准” 概念。&lt;/p&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/static/new-happiness-define-01.jpeg&amp;quot; title=&amp;quot;新幸福的十大标准&amp;quot; width=480 /&amp;gt;&lt;/p&gt;
 &lt;p&gt;管理学大师彼得・德鲁克曾经说过 “It you can’t measure it, you can’t manage it”（你如果无法度量它，就无法管理它）。我在想 —— 我们能否对幸福进行有效管理呢？如果能对幸福进行度量，那是不是就能看到迈向幸福的光明大道？&lt;/p&gt;
 &lt;p&gt;幸福是一种主观感受，确实难以度量，而 “新幸福的十大标准” 可以理解为是一种度量幸福的方法和指标。那我们就来试试，看看能够通过逐步靠近这十个条件来获得幸福。&lt;/p&gt;
 &lt;p&gt;下面将结合书中的解释以及个人理解，详细介绍这十条幸福标准。&lt;/p&gt;
-&lt;h2 id=&#34;一-享受工作&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一-享受工作&#34;&gt;#&lt;/a&gt; 一、享受工作&lt;/h2&gt;
+&lt;h2 id=&#34;一-享受工作&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-享受工作&#34;&gt;#&lt;/a&gt; 一、享受工作&lt;/h2&gt;
 &lt;p&gt;这和工资高低没有关系，而关乎工作是否开心，是否觉得有挑战性和成就感，能不能让你学到东西，不断成长、进步，并能为之感到满足。&lt;/p&gt;
 &lt;p&gt;记得大学刚毕业的时候，有一位 HR 姐姐跟我说：“找工作主要看两点，一是能否得到学习，二是薪酬是否到位，两者兼得最好，如果不行，优先考虑能让你学到东西、能给你带来成长的工作。” 这句话我一直记在心里。&lt;/p&gt;
 &lt;p&gt;可现实生活中，有多少人为了眼前放弃自己的明天？如果无法从工作中感受到乐趣，那是很难让人感到幸福的。毕竟，对许多人来说，人生中有三分之一的时间都在工作。如果我们做的事情 / 工作不快乐，就会觉得很累，难以持续。&lt;/p&gt;
@@ -543,40 +543,40 @@
 &lt;li&gt;一是改变自己，努力提升自己，让自己有能力选那份自己喜欢、符合自身特质和时代发展需要的工作；&lt;/li&gt;
 &lt;li&gt;二是想办法做好当前的工作，用心感受这份工作的乐趣，也就是 “干一行，爱一行”。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;二-有关系亲密的朋友和家人&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二-有关系亲密的朋友和家人&#34;&gt;#&lt;/a&gt; 二、有关系亲密的朋友和家人&lt;/h2&gt;
+&lt;h2 id=&#34;二-有关系亲密的朋友和家人&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二-有关系亲密的朋友和家人&#34;&gt;#&lt;/a&gt; 二、有关系亲密的朋友和家人&lt;/h2&gt;
 &lt;p&gt;如果工作顺利，却没有可以亲密分享的家人和朋友，这绝对谈不上愉快，更没有幸福可言。&lt;/p&gt;
 &lt;p&gt;随着年龄的增长，我越来越感受到亲密的朋友和家人关系是多么重要，如果聊不到一块去，如果无法跟家人朋友分享你的快乐，那会是一件让人感到遗憾的事情。&lt;/p&gt;
 &lt;p&gt;好消息是，家人和朋友其实都是可以选择的！我以前不懂，觉得每个人都可以做朋友，直到后来发生了一些不愉快的事，我才反思自己，给我的朋友圈做了个断舍离。家人也一样，很多人觉得家人是无法选择的，没错，我们无法选择原生家庭，但是我们可以选择找什么样的伴侣，组建一个什么样的新家庭。&lt;/p&gt;
-&lt;h2 id=&#34;三-拥有稳定的经济来源&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#三-拥有稳定的经济来源&#34;&gt;#&lt;/a&gt; 三、拥有稳定的经济来源&lt;/h2&gt;
+&lt;h2 id=&#34;三-拥有稳定的经济来源&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#三-拥有稳定的经济来源&#34;&gt;#&lt;/a&gt; 三、拥有稳定的经济来源&lt;/h2&gt;
 &lt;p&gt;拥有稳定的经济来源非常重要，这并不是说你必须拥有多么庞大的资产，或是必须有相当高的收入，只要可以满足自己安定的生活就可以了，哪怕是需要控制对物质的欲望，谨守清简的生活也不是问题。但如果经济条件不够稳定，我想就算工作有多美妙，兴趣有多丰富，日子也不太会好过。&lt;/p&gt;
 &lt;p&gt;而且，较之经济收入的多寡，更为重要的是我们对待金钱的态度和理财方式。那些总是入不敷出的人，多半与缺乏对金钱的控制力有关。也可以说，这样的人，还没有摸索出属于自己的能让自己得到幸福的生活方式。&lt;/p&gt;
-&lt;p&gt;我是毕业之后这些年遇到的坑多了，才开始慢慢理解金钱。对于我们这样在小镇成长起来的青年，缺乏家庭教育，学校教育也只是教我们怎么考试、怎么找一份稳定的工作。导致像我们这种新时代农民工日子过得苦呵呵的，不仅要承受工作压力，还有房贷压力、婚姻压力… 你看看现在那么多大龄未婚男女青年就知道了。我觉得一个很重要的原因是，我们没有形成对金钱的正确观念，没有找到赚钱的正确方法，认为工资就是稳定的经济来源。&lt;/p&gt;
+&lt;p&gt;我是毕业之后这些年遇到的坑多了，才开始慢慢理解金钱。对于我们这样在小镇成长起来的青年，缺乏家庭教育，学校教育也只是教我们怎么考试、怎么找一份稳定的工作。导致像我们这种新时代农民工日子过得苦呵呵的，不仅要承受工作压力，还有房贷压力、婚姻压力...... 你看看现在那么多大龄未婚男女青年就知道了。我觉得一个很重要的原因是，我们没有形成对金钱的正确观念，没有找到赚钱的正确方法，认为工资就是稳定的经济来源。&lt;/p&gt;
 &lt;p&gt;现在的科技进步了，网络发达了，其实我们身边真的有许多光明正大赚钱的机会，只是许多人还没开窍，所以看不到、不敢尝试或者浅尝辄止罢了。未来，我觉得每个人都应该有自己的复业（不是副业喔），能够带来稳定的经济来源（不需要多，但要稳定），抵御不确定性的风险。&lt;/p&gt;
-&lt;h2 id=&#34;四-身心健康&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#四-身心健康&#34;&gt;#&lt;/a&gt; 四、身心健康&lt;/h2&gt;
+&lt;h2 id=&#34;四-身心健康&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#四-身心健康&#34;&gt;#&lt;/a&gt; 四、身心健康&lt;/h2&gt;
 &lt;p&gt;身体是革命的本钱，所有一切的基础，不仅身体要健康，心灵也必须健康。&lt;/p&gt;
 &lt;p&gt;东京残奥会刚结束，那残障人士是否就无法获得幸福呢？不是的，一样可以获得幸福。从某种程度上来说，其实我们每个人都有缺陷，无论是生理还是心理上的。而我们要做的是正确地认识自己，接纳无法改变的缺陷，填补可以改变的不足。同时，养成良好的生活习惯，保持身心健康。&lt;/p&gt;
-&lt;h2 id=&#34;五-拥有富于刺激性的兴趣和生活方式&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#五-拥有富于刺激性的兴趣和生活方式&#34;&gt;#&lt;/a&gt; 五、拥有富于刺激性的兴趣和生活方式&lt;/h2&gt;
+&lt;h2 id=&#34;五-拥有富于刺激性的兴趣和生活方式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#五-拥有富于刺激性的兴趣和生活方式&#34;&gt;#&lt;/a&gt; 五、拥有富于刺激性的兴趣和生活方式&lt;/h2&gt;
 &lt;p&gt;有些人虽然工作得力，和朋友、家人的关系挺好，收入也很高，并且身体健康，可是有了空闲之后却不知道该做什么。成年进入社会以后，又习惯将人脉圈与利益圈捆绑在一起，如果没有一两个可以让自己充分享受的兴趣，根本无法拥有纯粹而不带功利色彩的社交圈。&lt;/p&gt;
-&lt;p&gt;以前听过一句话：人与人之间的差别，往往取决于你对业余时间的利用。虽然这句话有点绝对，但也不无道理。尤其是当你还在为工作、人际关系、经济等问题发愁时，如果能够充分利用时间来学习提升自己、发展兴趣… 那么，其他问题也会得到一定的改善。比如徒步、打球、玩滑板或者 DIY 一些小玩意，对我来说都能给平淡的生活带来一丝刺激。&lt;/p&gt;
+&lt;p&gt;以前听过一句话：人与人之间的差别，往往取决于你对业余时间的利用。虽然这句话有点绝对，但也不无道理。尤其是当你还在为工作、人际关系、经济等问题发愁时，如果能够充分利用时间来学习提升自己、发展兴趣...... 那么，其他问题也会得到一定的改善。比如徒步、打球、玩滑板或者 DIY 一些小玩意，对我来说都能给平淡的生活带来一丝刺激。&lt;/p&gt;
 &lt;p&gt;坚持你所热爱的，热爱你所坚持的，剩下的，交给时间就好。希望大家都能做个有趣的人，心中有梦，眼里有光。&lt;/p&gt;
-&lt;h2 id=&#34;六-觉得自己拥有时间自由&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#六-觉得自己拥有时间自由&#34;&gt;#&lt;/a&gt; 六、觉得自己拥有时间自由&lt;/h2&gt;
+&lt;h2 id=&#34;六-觉得自己拥有时间自由&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#六-觉得自己拥有时间自由&#34;&gt;#&lt;/a&gt; 六、觉得自己拥有时间自由&lt;/h2&gt;
 &lt;p&gt;这并不是 “时间就是金钱” 的意思，而是说你必须拥有可以完全自行支配的时间。为了赚钱一天到晚疲于奔命，无暇陪伴重要的朋友和家人自不可取，可拥有大把时间，成天无所事事不知如何打发也没有任何意义。&lt;/p&gt;
 &lt;p&gt;幸福与否的一个很重要因素在于 —— 你是否感到自由？除了财务自由和心灵自由，时间自由也是十分重要的。我以前每年都会报三两个培训课程，线上和线下的都有，学编程、数据分析、考证、英语、健身、理财、画画等等。许多课程都是匆匆忙忙结束的，学习效果也很难评估，后来我才明白，其实我缺的根本就不是课程或学习资料，我缺的是时间啊！&lt;/p&gt;
 &lt;p&gt;时间自由固然很重要，但对于许多人来说（包括我），可能只有到退休或者实现梦想之后才能拥有大块可自行支配的时间吧。鲁迅先生也说了：“时间，就像海绵里的水，只要你挤，总是有的。” 所以保持勤奋自律，学会拒绝，善于管理时间可能更重要、更具实操性。&lt;/p&gt;
-&lt;h2 id=&#34;七-能够选择适合自己的居住环境&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#七-能够选择适合自己的居住环境&#34;&gt;#&lt;/a&gt; 七、能够选择适合自己的居住环境&lt;/h2&gt;
+&lt;h2 id=&#34;七-能够选择适合自己的居住环境&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#七-能够选择适合自己的居住环境&#34;&gt;#&lt;/a&gt; 七、能够选择适合自己的居住环境&lt;/h2&gt;
 &lt;p&gt;不管从事什么工作，有着怎样的活法，都需要好好挑选自己的居住环境。不管这个居住环境有多便利，房子有多豪华，如果和自己的特质不相匹配，不但不能带来幸福，反而会成为累赘。&lt;/p&gt;
 &lt;p&gt;房价高企确实是个令人头疼的问题，但也不代表我们无法选择自己的居住环境，结合家庭、工作等因素好好计划，还是可以选择那个面朝大海、春暖花开的 Dream House。最简单的，我们现在就可以好好收拾下住所，让室内环境变得更加干净整洁，选择极简风格，减少对物品的依赖。&lt;/p&gt;
-&lt;h2 id=&#34;八-具备有效的思维习惯&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#八-具备有效的思维习惯&#34;&gt;#&lt;/a&gt; 八、具备有效的思维习惯&lt;/h2&gt;
+&lt;h2 id=&#34;八-具备有效的思维习惯&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#八-具备有效的思维习惯&#34;&gt;#&lt;/a&gt; 八、具备有效的思维习惯&lt;/h2&gt;
 &lt;p&gt;总是推卸责任充当受害者的人，经常处于消极状态的人，习惯性寻找借口的人，被固有常识局限并难以突破的人，都很难邂逅幸福。如果是这类思维模式的人，想要凑齐这十个新幸福的条件恐怕也不是易事。&lt;/p&gt;
-&lt;p&gt;经历了一些糟心事之后，我才明白 —— 人生真的太难了，处处都是坑，别说居心叵测的陌生人了，有时候就连朋友、家人、企业、政府都在坑你… 我们唯一能做的就是提升自己的见识和思维，完善知识体系，做个有智慧的人，谨慎行事，学会分析问题，学会对自己负责，相信自己的判断。&lt;/p&gt;
+&lt;p&gt;经历了一些糟心事之后，我才明白 —— 人生真的太难了，处处都是坑，别说居心叵测的陌生人了，有时候就连朋友、家人、企业、政府都在坑你...... 我们唯一能做的就是提升自己的见识和思维，完善知识体系，做个有智慧的人，谨慎行事，学会分析问题，学会对自己负责，相信自己的判断。&lt;/p&gt;
 &lt;p&gt;每个人都有他的思维模型，比如查理・芒格的 100 个思维模型，或者我在&lt;a href=&#34;https://luhuadong.com/2020/10/09/%E5%88%86%E4%BA%AB%E4%B8%A4%E4%B8%AA%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95WCCA%E5%92%8CWADM/&#34;&gt;前面&lt;/a&gt;提到过的 WCCA 和 WADM 决策模型。但我觉得最重要的是我们要时刻审视自己的思维，了解自己属于固定型思维还是成长型思维，亦或某些时候属于固定性思维，而某些场景属于成长型思维，并且有意识地训练自己的大脑，完善我们的成长型思维。改变的方法很简单，就是不断学习、接收新的信息，保持开放包容的心态，持续地刺激和培养我们的思维习惯。&lt;/p&gt;
-&lt;h2 id=&#34;九-能够放眼未来&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#九-能够放眼未来&#34;&gt;#&lt;/a&gt; 九、能够放眼未来&lt;/h2&gt;
+&lt;h2 id=&#34;九-能够放眼未来&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#九-能够放眼未来&#34;&gt;#&lt;/a&gt; 九、能够放眼未来&lt;/h2&gt;
 &lt;p&gt;幸福指数下降的最大原因，就在于人们看不到自己的未来，继而心生不安。在北欧国家，单靠年金是很难让老百姓潇洒度日的，可是国民生病了有免费的医疗制度，失业了可以靠雄厚的失业救济金解围，所以不太会出现重大变故导致生活质量急剧下降的现象。&lt;/p&gt;
 &lt;p&gt;可惜，对我国居民来说，这样的福利离我们还很远。所以，我们必须自己提前做好准备，即使生活出现任何意外，在未来的几年里，也可以依靠自身的力量来渡过难关。&lt;/p&gt;
 &lt;p&gt;而从宏观层面来看，政府需要把社会资源和社会财富进行更合理的分配，为普通老百姓解决教育、医疗、失业等民生问题。这一点从今年国家对游戏、教育等行业的整改，以及习总书记提出的「共同富裕」政策可以看出。我们的未来还是值得期待的，但个人的提前部署仍然相当重要！&lt;/p&gt;
-&lt;h2 id=&#34;十-感觉自己正在向目标迈进&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#十-感觉自己正在向目标迈进&#34;&gt;#&lt;/a&gt; 十、感觉自己正在向目标迈进&lt;/h2&gt;
+&lt;h2 id=&#34;十-感觉自己正在向目标迈进&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#十-感觉自己正在向目标迈进&#34;&gt;#&lt;/a&gt; 十、感觉自己正在向目标迈进&lt;/h2&gt;
 &lt;p&gt;Last but not least，是否有目标感也十分重要。人们在全力追逐自己的目标时，是不会觉得累的。&lt;/p&gt;
-&lt;p&gt;但对于一部分人来说，他们并不知道自己的目标是什么，或者把别人的事情当做自己的目标。例如我妈前阵子有点焦虑，她说她的目标就是让我早点结婚生子，这样她才会感到幸福。一旦我没有靠近她期待的目标，她就会觉得自己不幸福，当然啦，因为她对这个 “目标” 根本就把握不到方向。其实只要做一下课题分离，就会知道其实她把我的目标误认为是她的目标了，这就让我们都觉得很累。不过，这样的课题分离也确实挺难的，你光想想那句歌词就知道 —— 因为爱着你的爱，因为梦着你的梦，所以悲伤着你的悲伤，幸福着你的幸福…&lt;/p&gt;
+&lt;p&gt;但对于一部分人来说，他们并不知道自己的目标是什么，或者把别人的事情当做自己的目标。例如我妈前阵子有点焦虑，她说她的目标就是让我早点结婚生子，这样她才会感到幸福。一旦我没有靠近她期待的目标，她就会觉得自己不幸福，当然啦，因为她对这个 “目标” 根本就把握不到方向。其实只要做一下课题分离，就会知道其实她把我的目标误认为是她的目标了，这就让我们都觉得很累。不过，这样的课题分离也确实挺难的，你光想想那句歌词就知道 —— 因为爱着你的爱，因为梦着你的梦，所以悲伤着你的悲伤，幸福着你的幸福......&lt;/p&gt;
 &lt;p&gt;寻找自己、寻找目标，是我们每个人一生的课题。许多年前，我也是只有烦恼、没有目标的青年。下面介绍几个我自己寻找目标的方法，供大家参考。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;自我对话&lt;/strong&gt;：从高中练习长跑开始，我就意外地发现自己会在跑步过程中进入自我对话模式，这种状态能让我很快地平静下来，帮助我改善精神世界。当然你不喜欢的话，不一定要练习跑步，冥想、瑜伽、游泳也是能让我们与内心的自我深度对话的好方法。反正就是要营造一个让你感到舒适的独处环境，慢慢地去感受自己的内心世界。&lt;/li&gt;
@@ -585,7 +585,7 @@
 &lt;li&gt;&lt;strong&gt;放眼世界&lt;/strong&gt;：我常常觉得自己是井底之蛙，哪怕是在自己熟悉的行业，也还有许多不懂的地方。比如你想设计一款产品解决一个社会问题，当你焦头烂额地想呀想，仍然没有头绪。那么，为何不把目光拉远一些，看看世界各地的人们都是怎么思考、怎么解决的？哪怕是微积分和三相电系统这么颠覆性的东西都会同时有多个发明者，你的想法也极有可能有人正在尝试。所以呀，科学上网，多看看学术期刊，多看看这个世界，建立与连接共同体，也许你会发现你的目标也并非遥不可及。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;目标和想法的区别在于，想法是抽象的，而目标是具象的，当一个想法足够完整时，它就会变成一个能给你带来希望的目标。&lt;/p&gt;
-&lt;h2 id=&#34;总结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h2&gt;
+&lt;h2 id=&#34;总结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h2&gt;
 &lt;p&gt;新幸福的十大条件的共通之处，就是人只要不被工作、金钱、时间、环境乃至常识束缚，就会获得自由。当你拥有自由，拥有对生活的自主决断和选择权力，并且朝着目标迈进时，如果你还觉得不幸福，那你是不是该考虑降低一下期望呢？知足常乐～&lt;/p&gt;
  ]]></description>
         </item>
@@ -593,10 +593,10 @@
             <guid isPermalink="true">https://luhuadong.com/reading/%E8%A7%81%E8%AF%86.html</guid>
             <title>《见识》读书笔记</title>
             <link>https://luhuadong.com/reading/%E8%A7%81%E8%AF%86.html</link>
-            <category>读书笔记</category>
             <category>人生</category>
+            <category>读书笔记</category>
             <pubDate>Sun, 28 Feb 2021 20:28:09 +0800</pubDate>
-            <description><![CDATA[ &lt;div class=&#34;note default&#34;&gt;&lt;p&gt;比贫穷更可怕的是：缺乏见识、缺乏爱、缺乏规矩&lt;/p&gt;&lt;/div&gt;
+            <description><![CDATA[ &lt;p&gt;&amp;lt;div class=&amp;quot;note default&amp;quot;&amp;gt;&amp;lt;p &amp;gt; 比贫穷更可怕的是：缺乏见识、缺乏爱、缺乏规矩 &amp;lt;/p&amp;gt;&amp;lt;/div&amp;gt;&lt;/p&gt;
 &lt;p&gt;《见识》作者吴军&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -893,7 +893,7 @@
             <link>https://luhuadong.com/me/my-keyword.html</link>
             <category>人生</category>
             <pubDate>Wed, 24 Jun 2020 11:21:01 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/my-keyword.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/my-keyword.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
  ]]></description>
         </item>
     </channel>

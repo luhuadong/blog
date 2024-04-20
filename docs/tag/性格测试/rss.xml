@@ -7,43 +7,39 @@
         <language>zh-CN</language>
         <pubDate>Sat, 06 Apr 2024 13:27:14 +0800</pubDate>
         <lastBuildDate>Sat, 06 Apr 2024 13:27:14 +0800</lastBuildDate>
-        <category>商业</category>
-        <category>成长</category>
-        <category>日记</category>
-        <category>创业</category>
-        <category>家居</category>
-        <category>互联网</category>
-        <category>读书笔记</category>
-        <category>工程师</category>
-        <category>爱</category>
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
+        <category>商业</category>
+        <category>创业</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
+        <category>种植</category>
         <category>英语</category>
+        <category>成长</category>
         <category>英语短文</category>
         <category>学习</category>
-        <category>种植</category>
         <category>健身</category>
         <category>气象爱好者</category>
         <category>指南</category>
         <category>自律</category>
+        <category>思维模型</category>
         <category>健康</category>
         <category>Hexo</category>
         <category>徒步</category>
+        <category>家居</category>
         <category>科普</category>
         <category>环保</category>
         <category>可持续</category>
@@ -51,12 +47,17 @@
         <category>社会现象</category>
         <category>独立开发者</category>
         <category>碳中和</category>
+        <category>互联网</category>
+        <category>工程师</category>
+        <category>AI</category>
+        <category>开发者</category>
         <category>职业</category>
         <category>时间管理</category>
         <category>milestone</category>
         <category>总结</category>
         <category>年终总结</category>
         <category>慈济</category>
+        <category>爱</category>
         <category>生活</category>
         <category>RT-Thread</category>
         <category>开源</category>
@@ -65,7 +66,9 @@
         <category>思考</category>
         <category>幸福</category>
         <category>猫</category>
+        <category>日记</category>
         <category>月报</category>
+        <category>读书笔记</category>
         <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
@@ -84,6 +87,7 @@
         <category>亲密关系</category>
         <category>农业</category>
         <category>素食</category>
+        <category>性格测试</category>
         <category>报告</category>
         <category>TED</category>
         <category>演讲</category>
@@ -96,79 +100,75 @@
         <category>垃圾分类</category>
         <category>零废弃</category>
         <category>低碳</category>
-        <category>思维模型</category>
-        <category>开发者</category>
-        <category>性格测试</category>
-        <category>AI</category>
         <item>
             <guid isPermalink="true">https://luhuadong.com/relationship/mbti-personality-test.html</guid>
             <title>MBTI 性格测试与 16 型人格分析</title>
             <link>https://luhuadong.com/relationship/mbti-personality-test.html</link>
             <category>性格测试</category>
             <pubDate>Sat, 06 Apr 2024 13:27:14 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/relationship/MBTI-banner.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/relationship/MBTI-banner.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;MBTI 是一种经典的人格类型测评工具，它是基于心理分析家卡尔・荣格的书籍《心理类型》衍生而来的。通过对个体心理偏好的测试和分析，可以帮助个体理解自己和彼此的认知与决策倾向。&lt;/p&gt;
 &lt;p&gt;如今，MBTI 已经成为全球通用的一种人格分类方法，被广泛应用于商业、军事、教育等各个领域，在人们的日常社交、职业选择、情感沟通等方面起到良好的促进作用。&lt;/p&gt;
-&lt;h2 id=&#34;mbti-测试的起源&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#mbti-测试的起源&#34;&gt;#&lt;/a&gt; MBTI 测试的起源&lt;/h2&gt;
+&lt;h2 id=&#34;mbti-测试的起源&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mbti-测试的起源&#34;&gt;#&lt;/a&gt; MBTI 测试的起源&lt;/h2&gt;
 &lt;p&gt;MBTI 的全称是 Myers-Briggs Type Indicator，直译就是迈尔斯 - 布里格斯类型指标。最初由两名美国人 —— 凯瑟琳・库克・布里格斯（Katharine Cook Briggs）和她的女儿伊莎贝尔・布里格斯・迈尔斯（Isabel Briggs Myers）所建构，最早于 1944 年发表。&lt;/p&gt;
-&lt;p&gt;MBTI 指标的理论基础来自瑞士精神科医师兼精神分析师&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aC53aWtpcGVkaWEub3JnL3dpa2kvJUU1JThEJUExJUU1JUIwJTk0JUMyJUI3JUU4JThEJUEzJUU2JUEwJUJD&#34;&gt;卡尔・荣格&lt;/span&gt;（Carl Jung）的着作《心理类型》。不过，迈尔斯认为荣格的着作对大众而言过于复杂难懂，于是布里格斯母女尝试将荣格认知功能整理得更加易于理解。&lt;/p&gt;
-&lt;h2 id=&#34;mbti-的四个维度&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#mbti-的四个维度&#34;&gt;#&lt;/a&gt; MBTI 的四个维度&lt;/h2&gt;
+&lt;p&gt;MBTI 指标的理论基础来自瑞士精神科医师兼精神分析师&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E8%8D%A3%E6%A0%BC&#34;&gt;卡尔・荣格&lt;/a&gt;（Carl Jung）的着作《心理类型》。不过，迈尔斯认为荣格的着作对大众而言过于复杂难懂，于是布里格斯母女尝试将荣格认知功能整理得更加易于理解。&lt;/p&gt;
+&lt;h2 id=&#34;mbti-的四个维度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mbti-的四个维度&#34;&gt;#&lt;/a&gt; MBTI 的四个维度&lt;/h2&gt;
 &lt;p&gt;MBTI 人格理论认为，人类的人格特征可以从四个角度进行分析，包括认知功能（Attitudes）、信息获取（Perceiving）、决策方式（Judging）和生活方式（Lifestyle）。&lt;/p&gt;
 &lt;p&gt;每个角度都有两个对立的方向，共计八个方面，具体如下：&lt;/p&gt;
-&lt;h3 id=&#34;认知功能&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#认知功能&#34;&gt;#&lt;/a&gt; 认知功能&lt;/h3&gt;
+&lt;h3 id=&#34;认知功能&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#认知功能&#34;&gt;#&lt;/a&gt; 认知功能&lt;/h3&gt;
 &lt;p&gt;认知功能（Attitudes）指个体在处理信息和判断情况时的心理偏好。分为：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;内向&lt;/strong&gt;（Introversion）：更喜欢自己独处，关注自己内在的想法和感受。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;外向&lt;/strong&gt;（Extraversion）：喜欢和他人交往，通过与他人互动来获取能量和信息。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;信息获取&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#信息获取&#34;&gt;#&lt;/a&gt; 信息获取&lt;/h3&gt;
+&lt;h3 id=&#34;信息获取&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#信息获取&#34;&gt;#&lt;/a&gt; 信息获取&lt;/h3&gt;
 &lt;p&gt;信息获取（Perceiving）指个体获取信息的方式和偏好。分为：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;感性&lt;/strong&gt;（Sensing）：注重具体、现实、细节，通过感官来获取信息。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;直觉&lt;/strong&gt;（Intuition）：注重抽象、未来、整体，通过想象和联想来获取信息。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;决策方式&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#决策方式&#34;&gt;#&lt;/a&gt; 决策方式&lt;/h3&gt;
+&lt;h3 id=&#34;决策方式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#决策方式&#34;&gt;#&lt;/a&gt; 决策方式&lt;/h3&gt;
 &lt;p&gt;决策方式（Judging）指个体做出决策的方式和偏好。分为：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;思考&lt;/strong&gt;（Thinking）：注重分析、逻辑、客观，倾向于通过分析和推理来做出决策。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;情感&lt;/strong&gt;（Feeling）：注重价值观、情感、主观，倾向于通过考虑他人的感受和价值观来做出决策。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;生活方式&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#生活方式&#34;&gt;#&lt;/a&gt; 生活方式&lt;/h3&gt;
+&lt;h3 id=&#34;生活方式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活方式&#34;&gt;#&lt;/a&gt; 生活方式&lt;/h3&gt;
 &lt;p&gt;生活方式（Lifestyle）指个体在生活中表现出来的特征和偏好。分为：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;判断&lt;/strong&gt;（Judging）：注重有序、计划、控制，喜欢按照计划行动和做出决策。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;知觉&lt;/strong&gt;（Perceiving）：注重灵活、适应、自由，喜欢根据情况变化和随心所欲地行动。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;16-种人格分析&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#16-种人格分析&#34;&gt;#&lt;/a&gt; 16 种人格分析&lt;/h2&gt;
-&lt;h3 id=&#34;intj建筑师span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#intj建筑师span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;#&lt;/a&gt; INTJ（建筑师）&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/h3&gt;
+&lt;h2 id=&#34;16-种人格分析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#16-种人格分析&#34;&gt;#&lt;/a&gt; 16 种人格分析&lt;/h2&gt;
+&lt;h3 id=&#34;intj建筑师&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#intj建筑师&#34;&gt;#&lt;/a&gt; INTJ（建筑师）🤗&lt;/h3&gt;
 &lt;p&gt;INTJ 是 16 型人格比例最低的一种，只占全球人口的 2%。他们聪明、创新，且注重策略，是最有能力的人格类型之一。INTJ 的脑袋就如同超级电脑，有非常强大的思考与问题处理能力，而且渴望学习新知，但也因为傲人的聪明才智，使得 INTJ 难以与他人产生共感，他们择善固执，宁可贯彻真理也不愿当个滥好人，因此容易在社交上遇到挫折。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：优秀的问题解决者、择善固执、学习力强、良好的洞察力与观察力&lt;/li&gt;
 &lt;li&gt;缺点：不擅于沟通、较无法同理他人、个性较固执&lt;/li&gt;
 &lt;li&gt;适合职业：医师、研究员、科学家、律师、财务专家&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;intp逻辑学家&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#intp逻辑学家&#34;&gt;#&lt;/a&gt; INTP（逻辑学家）&lt;/h3&gt;
+&lt;h3 id=&#34;intp逻辑学家&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#intp逻辑学家&#34;&gt;#&lt;/a&gt; INTP（逻辑学家）&lt;/h3&gt;
 &lt;p&gt;INTP 是 16 型人格中好奇心最旺盛的类型，历史上许多具有影响力的哲学家和科学家都是 INTP。他们不仅好奇，也善于分析，总是持续不间断地进行思考，但这也使他们疲于社交，比起与他人互动，INTP 更倾向探讨自己内心深处的想法，不过若遇到能与他们的精神能量相匹配的人，他们也可以进行一场深度的思想交流！&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：反应快速、良好的逻辑与组织能力、能客观分析问题、好学&lt;/li&gt;
 &lt;li&gt;缺点：专注力不足、较没耐心、不易察觉情感&lt;/li&gt;
 &lt;li&gt;适合职业：工程师、发明家、数学家、学术研究、软件开发、金融分析师&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;entj指挥官&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#entj指挥官&#34;&gt;#&lt;/a&gt; ENTJ（指挥官）&lt;/h3&gt;
+&lt;h3 id=&#34;entj指挥官&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#entj指挥官&#34;&gt;#&lt;/a&gt; ENTJ（指挥官）&lt;/h3&gt;
 &lt;p&gt;ENTJ 能展现自信，因此非常具有领袖魅力，他们善于领导他人、处事果断又注重组织，也喜欢挑战，所以只要给他们充裕的时间和资源，他们可以精确地执行计划并且达到目标，但是他们并不善于表达情感，可能会给人居高临下、难以亲近的感觉，不过他们擅长发掘他人的才华，并带领团队成员发挥各自长处以达到目标。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：指挥能力强、善于社交、不会优柔寡断、目标导向且坚持不懈&lt;/li&gt;
 &lt;li&gt;缺点：包容力较低、过度好胜、较不近人情&lt;/li&gt;
 &lt;li&gt;适合职业：企业家、律师、法官、管理阶层、政治家&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;entp辩论家&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#entp辩论家&#34;&gt;#&lt;/a&gt; ENTP（辩论家）&lt;/h3&gt;
+&lt;h3 id=&#34;entp辩论家&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#entp辩论家&#34;&gt;#&lt;/a&gt; ENTP（辩论家）&lt;/h3&gt;
 &lt;p&gt;ENTP 喜欢与人进行观点的辩论，对于不认同的观点，他们并不会害怕反驳，聪明且好辩的特质让他们勇于突破现有框架；独特的见解则让他们具有娱乐性十足的幽默感。ENTP 擅长社交，所以很容易就能交到新朋友，但因为总是直接了当地提出质疑，可能会不小心得罪別人，使关系产生疙瘩。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：头脑思路清楚、不怕挫折、勇于打破现有框架&lt;/li&gt;
 &lt;li&gt;缺点：较没耐心、容易起冲突、过度理性、太在乎他人是否欣赏自己&lt;/li&gt;
 &lt;li&gt;适合职业：艺术家、作家、顾问、主持人、演员、摄影师、广告业&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;infj提倡者&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#infj提倡者&#34;&gt;#&lt;/a&gt; INFJ（提倡者）&lt;/h3&gt;
+&lt;h3 id=&#34;infj提倡者&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#infj提倡者&#34;&gt;#&lt;/a&gt; INFJ（提倡者）&lt;/h3&gt;
 &lt;p&gt;INFJ 是理想主义者也是利他主义者，他们有原则、做事会经过深思熟虑，并且富有同理心。INFJ 不安于现状，他们希望自己的人生可以有所成就，而且并不在于金钱地位方面，而是帮助他人，为社会造成良好的影响。INFJ 有着清楚明确的价值观，想要导正问题，因为专注于这个目标，导致他们有时很难融入人群。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -181,84 +181,84 @@
 &lt;p&gt;适合职业：老师、艺术家、设计师、社工、心理师、宗教家、非政府组织&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;infp调停者&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#infp调停者&#34;&gt;#&lt;/a&gt; INFP（调停者）&lt;/h3&gt;
+&lt;h3 id=&#34;infp调停者&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#infp调停者&#34;&gt;#&lt;/a&gt; INFP（调停者）&lt;/h3&gt;
 &lt;p&gt;INFP 是外冷内热的人格类型，外表看似平静的他们，内心其实充满热情，且能积极努力地追求目标！他们非常感性，因此对音乐，艺术，自然和周围的人都能产生深刻的情感反应，他们也是非常好的聆听者，富有同理心，能以客观的角度看待他人面临的问题，但他们也容易内化这些负面情绪，造成自己的心理负担。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：个性容易与人亲近、热爱挑战、善于表达、自我目标明确&lt;/li&gt;
 &lt;li&gt;缺点：难跳脱自己的内心世界、防备心过低、过度理想&lt;/li&gt;
 &lt;li&gt;适合职业：编辑、作家、设计师、插画家、演员、心理学家&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;enfj主人公span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#enfj主人公span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;#&lt;/a&gt; ENFJ（主人公）&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;enfj主人公&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#enfj主人公&#34;&gt;#&lt;/a&gt; ENFJ（主人公）😅&lt;/h3&gt;
 &lt;p&gt;ENFJ 是天生的领导者，他们擅长激励他人，并且具有实事求是的价值观。他们热情又具有同理心，能用最让人产生共鸣的方式敘述自己的想法，藉此帮助他人解决问题。另外他们善于观察周遭的人，并了解他们的想法与行为动机，但 ENFJ 并不会想要利用或操控他人，即使遇到想法分歧的对象，他们也能求同存异。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：同理心强、个性外向随和、优秀的领导能力、乐观正向&lt;/li&gt;
 &lt;li&gt;缺点：过度寻求他人认同、爱钻牛角尖、容易内耗自己&lt;/li&gt;
 &lt;li&gt;适合职业：公关、创业家、人资、销售、老师、心理师&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;enfp竞选者span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#enfp竞选者span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;#&lt;/a&gt; ENFP（竞选者）&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;enfp竞选者&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#enfp竞选者&#34;&gt;#&lt;/a&gt; ENFP（竞选者）😃&lt;/h3&gt;
 &lt;p&gt;ENFP 喜欢追求精神上的自由，他们热情且富有创意，总是可以用最活泼、乐观的方式过生活。他们会经常关心身边的人，善于交际且个性相当随和，通常能交到许多知心好友，除此之外，ENFP 总是能找到生活深层的意义，并且从中寻求快乐，他们也擅长表达自己的感受，甚至将正向的能量带给他人。（ENFP 也被称为 “快乐小狗”）&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：开朗活泼、热情、团体的动力来源、能以各种角度思考&lt;/li&gt;
 &lt;li&gt;缺点：较情绪化、过度理想、专注力较差、太急性子&lt;/li&gt;
 &lt;li&gt;适合职业：记者、主播、演员、艺术家、音乐家、雕塑家&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;istj物流师&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#istj物流师&#34;&gt;#&lt;/a&gt; ISTJ（物流师）&lt;/h3&gt;
+&lt;h3 id=&#34;istj物流师&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#istj物流师&#34;&gt;#&lt;/a&gt; ISTJ（物流师）&lt;/h3&gt;
 &lt;p&gt;ISTJ 讲求实事求是，有组织与负责任的精神，他们认为凡事都有正确的行事方法，因此非常注重紀律与社会结构，喜欢处在有清晰组织架构的工作或教育环境。ISTJ 很有责任感，他们总是能快速做决策并且愿意履行义务，即使犯错了也勇于承认错误并承担责任，但这样的特质也可能使他们常常在替身边的人收拾残局。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：个性沉稳内敛、能观察到细节、实事求是、脚踏实地、有责任感&lt;/li&gt;
 &lt;li&gt;缺点：过度守旧、难以跳脱舒适圈、变通能力稍差&lt;/li&gt;
 &lt;li&gt;适合职业：公务员、会计师、行政人员、军人&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;isfj守卫者&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#isfj守卫者&#34;&gt;#&lt;/a&gt; ISFJ（守卫者）&lt;/h3&gt;
+&lt;h3 id=&#34;isfj守卫者&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#isfj守卫者&#34;&gt;#&lt;/a&gt; ISFJ（守卫者）&lt;/h3&gt;
 &lt;p&gt;ISFJ 喜欢在幕后默默地付出不求回报，他们个性温和，对周围的人也具有相当的责任感，任何的任务交付于他们都会让人感到放心。他们能与人建立稳定的关系，总是拿出最大的善意和他人相处，只要身边的人遇到困难，他们绝对尽其所能地提供协助，不过这样的特质也使他们常常过度劳累。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：同理心强、富有责任感、凡事说到做到、具有奉献精神、观察能力强&lt;/li&gt;
 &lt;li&gt;缺点：容易过度压抑自己、容易被拖累、难以跳脱舒适圈、易受他人影响&lt;/li&gt;
 &lt;li&gt;适合职业：护理师、老师、社工、餐饮业、服务业&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;estj总经理&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#estj总经理&#34;&gt;#&lt;/a&gt; ESTJ（总经理）&lt;/h3&gt;
+&lt;h3 id=&#34;estj总经理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#estj总经理&#34;&gt;#&lt;/a&gt; ESTJ（总经理）&lt;/h3&gt;
 &lt;p&gt;ESTJ 人格的特別之处是对于追求「秩序」的坚持。他们常常扮演组织众人的角色，并给出明确的建议和指导，让整个团体有秩序地合作，因此常受到身边的人重视。ESTJ 也非常能以身作则，主动深入任何挑战并轻松完成复杂的任务，但是当他们遇到能力不足的队友时，也会直接地表达愤怒情绪。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：管理能力强、意志力坚强、有主见、言而有信&lt;/li&gt;
 &lt;li&gt;缺点：思想较制式、过于个人中心、不擅于表达情感&lt;/li&gt;
 &lt;li&gt;适合职业：药剂师、房地产、保险业务员、军官、警察、高层管理&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;esfj执行官&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#esfj执行官&#34;&gt;#&lt;/a&gt; ESFJ（执行官）&lt;/h3&gt;
+&lt;h3 id=&#34;esfj执行官&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#esfj执行官&#34;&gt;#&lt;/a&gt; ESFJ（执行官）&lt;/h3&gt;
 &lt;p&gt;ESFJ 非常的重视自身的责任，能在完成自身任务的同时也回馈于他人，因此 ESFJ 工作时总能为所有人带来一股正能量，但如果遇到与自己意见分歧的对象时，他们内心也容易受到打击。ESFJ 的「E」性格使得他们总是能记住亲友生活中的大小事件，并且热于参与或是举办团体动，轻松与他人建立长久的关系，若身边的人需要帮助时，他们也会主动伸出援手。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：行动力强、优秀的组织能力、擅长处理人际关系、很受人相信&lt;/li&gt;
 &lt;li&gt;缺点：易受別人影响、不懂得拒绝、不敢为自己争取权利&lt;/li&gt;
 &lt;li&gt;适合职业：老师、社工、策划、企划、幼教类、家庭医师&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;istp鉴赏家&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#istp鉴赏家&#34;&gt;#&lt;/a&gt; ISTP（鉴赏家）&lt;/h3&gt;
+&lt;h3 id=&#34;istp鉴赏家&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#istp鉴赏家&#34;&gt;#&lt;/a&gt; ISTP（鉴赏家）&lt;/h3&gt;
 &lt;p&gt;ISTP 的「S」性格特別明显，他们喜欢用来自感官的「实感」探索世界，喜欢亲自上手实作来学习技能，并从这些实际经验探索脑中的想法，因此有许多的机械师都是 ISTP 人格，ISTP 不会过度谨慎，行事不拘小节的他们喜欢朝大方向去发展，这类人格大多具备阳刚的特质，所以女性 ISTP 非常少见。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：喜欢凡事亲力亲为、勇敢的精神、乐观正向、勇于尝试&lt;/li&gt;
 &lt;li&gt;缺点：有时会稍微鲁莽、不容易向他人吐露心声、三分钟热度&lt;/li&gt;
 &lt;li&gt;适合职业：运动员、电脑工程师、机械师、游戏设计师、飞行员、消防员&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;isfp探险家&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#isfp探险家&#34;&gt;#&lt;/a&gt; ISFP（探险家）&lt;/h3&gt;
+&lt;h3 id=&#34;isfp探险家&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#isfp探险家&#34;&gt;#&lt;/a&gt; ISFP（探险家）&lt;/h3&gt;
 &lt;p&gt;ISFP 是富有艺术气息的人格，他们喜欢探索未知的事物，对新事物充满热情，这样的探索精神是他们的动力来源之一。ISFP 具有良好的适应能力，喜欢灵活与不受拘束的生活方式，这也反映在人际关系中，他们对于交友抱持开放的态度，喜欢认识各种不同性格的人并与之相处，但他们也需要独处的时间来补充精力。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：善解人意、专注于当下、有创意、懂得利用自身优势&lt;/li&gt;
 &lt;li&gt;缺点：自我中心、做事较冲动、郭華能力稍差&lt;/li&gt;
 &lt;li&gt;适合职业：艺术家、媒体、创作者、插画家、娱乐圈、摄影、杂志业&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;estp企业家&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#estp企业家&#34;&gt;#&lt;/a&gt; ESTP（企业家）&lt;/h3&gt;
+&lt;h3 id=&#34;estp企业家&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#estp企业家&#34;&gt;#&lt;/a&gt; ESTP（企业家）&lt;/h3&gt;
 &lt;p&gt;ESTP 人格具有强大的影响力，常常是人群中的焦点，他们也是彻彻底底的行动派，因此他们喜欢谈论可以付诸实行的话题，而不是抽象的概念。ESTP 的敏锐度高，他们可以从他人的脸部表情与行为察觉其想法和动机，不喜欢受规则所约束的他们，会透过自己的观察，找出可以优化的事项，并打破现有框架、提出改革。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：行动力强、良好的适应能力、说话具说服力、团队的士气来源&lt;/li&gt;
 &lt;li&gt;缺点：较没耐心、风险控管能力较差、容易钻牛角尖&lt;/li&gt;
 &lt;li&gt;适合职业：企业家、导游、旅游业、销售、议员、主持人&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;esfp表演家&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#esfp表演家&#34;&gt;#&lt;/a&gt; ESFP（表演家）&lt;/h3&gt;
+&lt;h3 id=&#34;esfp表演家&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#esfp表演家&#34;&gt;#&lt;/a&gt; ESFP（表演家）&lt;/h3&gt;
 &lt;p&gt;ESFP 天生就是镁光灯的焦点，他们总是用热情的态度在生活，无论是谈话内容或是生活空间，ESFP 都具有强烈的个人风格，但是他们并不会活在自己的世界中，反而善于察言观色，提供身边的人情感的支持与解决问题的建议，但他们并不擅长分析太复杂的资讯，因此如果自己遇到困难，他们倾向求助身边的朋友。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：专注于当下、乐观正向、勇于尝试、善于与人沟通相处&lt;/li&gt;
 &lt;li&gt;缺点：太重视物质享受、易受批评影响、处理问题较主观&lt;/li&gt;
 &lt;li&gt;适合职业：演员、歌手、艺术家、设计师、运动教练、活动策划、主持人、记者&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;16-种人格配对&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#16-种人格配对&#34;&gt;#&lt;/a&gt; 16 种人格配对&lt;/h2&gt;
+&lt;h2 id=&#34;16-种人格配对&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#16-种人格配对&#34;&gt;#&lt;/a&gt; 16 种人格配对&lt;/h2&gt;
 &lt;p&gt;看完以上 16 种人格介绍之后，你是不是也好奇自己的 MBTI 人格配对什么样的性格相处起来最自在呢？接下来，我们就来看看 16 型人格测验爱情与工作上都适配的对象分别有谁？&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;注意：有些配对似乎没有什么共同点，这是因为在配对时，更加注重的是性格类型是否能相互成长和学习，以及他们的优势和劣势是否很好地互补。这对于伴侣的配对非常重要。&lt;/p&gt;
@@ -354,15 +354,15 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id=&#34;测试地址&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#测试地址&#34;&gt;#&lt;/a&gt; 测试地址&lt;/h2&gt;
+&lt;h2 id=&#34;测试地址&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试地址&#34;&gt;#&lt;/a&gt; 测试地址&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93ZWxlZmVuLmNvbS9sYWIvbWJ0aS8=&#34;&gt;https://welefen.com/lab/mbti/&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tYnRpLmNkZXN6LnRvcC8=&#34;&gt;https://mbti.cdesz.top/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://welefen.com/lab/mbti/&#34;&gt;https://welefen.com/lab/mbti/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mbti.cdesz.top/&#34;&gt;https://mbti.cdesz.top/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubXllcnNicmlnZ3Mub3JnL2Fib3V0LXVzL215ZXJzLWJyaWdncy1qdW5nLWxlZ2FjeS8=&#34;&gt;Evolving the MBTI Legacy&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jbWctYWdlbmN5LmNvbS9iZW5lZml0cy1vZi1tYnRpLWluLXRoZS13b3JrcGxhY2Uv&#34;&gt;Benefits of MBTI In the Workplace&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.myersbriggs.org/about-us/myers-briggs-jung-legacy/&#34;&gt;Evolving the MBTI Legacy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cmg-agency.com/benefits-of-mbti-in-the-workplace/&#34;&gt;Benefits of MBTI In the Workplace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>

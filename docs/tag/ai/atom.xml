@@ -4,43 +4,39 @@
     <title>成为自由人 • Posts by &#34;ai&#34; tag</title>
     <link href="https://luhuadong.com" />
     <updated>2024-04-07T05:12:37.000Z</updated>
-    <category term="商业" />
-    <category term="成长" />
-    <category term="日记" />
-    <category term="创业" />
-    <category term="家居" />
-    <category term="互联网" />
-    <category term="读书笔记" />
-    <category term="工程师" />
-    <category term="爱" />
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
+    <category term="商业" />
+    <category term="创业" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
+    <category term="种植" />
     <category term="英语" />
+    <category term="成长" />
     <category term="英语短文" />
     <category term="学习" />
-    <category term="种植" />
     <category term="健身" />
     <category term="气象爱好者" />
     <category term="指南" />
     <category term="自律" />
+    <category term="思维模型" />
     <category term="健康" />
     <category term="Hexo" />
     <category term="徒步" />
+    <category term="家居" />
     <category term="科普" />
     <category term="环保" />
     <category term="可持续" />
@@ -48,12 +44,17 @@
     <category term="社会现象" />
     <category term="独立开发者" />
     <category term="碳中和" />
+    <category term="互联网" />
+    <category term="工程师" />
+    <category term="AI" />
+    <category term="开发者" />
     <category term="职业" />
     <category term="时间管理" />
     <category term="milestone" />
     <category term="总结" />
     <category term="年终总结" />
     <category term="慈济" />
+    <category term="爱" />
     <category term="生活" />
     <category term="RT-Thread" />
     <category term="开源" />
@@ -62,7 +63,9 @@
     <category term="思考" />
     <category term="幸福" />
     <category term="猫" />
+    <category term="日记" />
     <category term="月报" />
+    <category term="读书笔记" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -81,6 +84,7 @@
     <category term="亲密关系" />
     <category term="农业" />
     <category term="素食" />
+    <category term="性格测试" />
     <category term="报告" />
     <category term="TED" />
     <category term="演讲" />
@@ -93,16 +97,12 @@
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
-    <category term="思维模型" />
-    <category term="开发者" />
-    <category term="性格测试" />
-    <category term="AI" />
     <entry>
         <id>https://luhuadong.com/it/ai-glossary.html</id>
         <title>科普：AI 名词解释</title>
         <link rel="alternate" href="https://luhuadong.com/it/ai-glossary.html"/>
-        <content type="html">&lt;p&gt;啊！ChatGPT 最近很火呀，你们说的 AGI、AIGC、AI Agent、Prompt、LLM … 到底是什么意思啊？还有 Midjourney、Lensa、Sora、DALL-E、Llama、GPTs … 又是什么鬼？&lt;/p&gt;
-&lt;h2 id=&#34;名词解释&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#名词解释&#34;&gt;#&lt;/a&gt; 名词解释&lt;/h2&gt;
+        <content type="html">&lt;p&gt;啊！ChatGPT 最近很火呀，你们说的 AGI、AIGC、AI Agent、Prompt、LLM ... 到底是什么意思啊？还有 Midjourney、Lensa、Sora、DALL-E、Llama、GPTs ... 又是什么鬼？&lt;/p&gt;
+&lt;h2 id=&#34;名词解释&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#名词解释&#34;&gt;#&lt;/a&gt; 名词解释&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;AI（Artificial Intelligence，人工智能）&lt;/strong&gt;：是研究和开发用于模拟、延伸和扩展人类智能的理论、方法、技术及应用系统的一门新技术科学。它的目标是让机器具备类似人类的智能，能够感知、理解、学习、思考、决策等。人工智能是智能学科的重要组成部分，旨在生产出一种能以人类智能相似的方式做出反应的智能机器。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;AGI（Artificial General Intelligence，通用人工智能）&lt;/strong&gt;：是人工智能发展的一个更高级阶段。它指的是机器能够像人类一样具备全面的智能能力，包括认知、情感、自我意识等方面。AGI 能够解决未曾预见的问题，并在不同环境中灵活适应。相比于特定领域的人工智能，AGI 能够理解和自主处理各种复杂任务，具有更广泛的认知能力。&lt;/li&gt;
@@ -132,10 +132,10 @@
 &lt;li&gt;&lt;strong&gt;LLaMA&lt;/strong&gt;（Large Language Model Meta AI，大语言模型元 AI）：是 Meta AI 公司于 2023 年 2 月发布的大型语言模型，也是目前为止效果最好的开源 LLM 之一。Llama 这个单词本身是指美洲大羊驼，所以社区也将这个系列的模型昵称为羊驼系模型。LLaMA 按照参数量的大小分为四个型号：LLaMA-7B、LLaMA-13B、LLaMA-30B 与 LLaMA-65B。这里的 B 是 billion 的缩写，指代模型的参数规模。故最小的模型 7B 包含 70 亿个参数，而最大的一款 65B 则包含 650 亿个参数。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;多模态模型&lt;/strong&gt;：是指能够处理和融合多种不同类型数据的模型。这些数据可以包括文本、图像、音频、视频等不同模态的数据。多模态模型在许多应用领域中都发挥着重要作用，例如自然语言处理（NLP）、计算机视觉（CV）、音频处理、健康医疗等等。在多模态模型中，不同模态的数据被融合在一起，以便同时处理和分析它们。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hd3MuYW1hem9uLmNvbS90dy93aGF0LWlzL2dlbmVyYXRpdmUtYWkv&#34;&gt;什麼是生成式 AI？&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly95aW5ndW9iaW5nLmNvbS9sbGFtYS8=&#34;&gt;LLaMA 大语言模型&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/tw/what-is/generative-ai/&#34;&gt;什麼是生成式 AI？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://yinguobing.com/llama/&#34;&gt;LLaMA 大语言模型&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
         <category term="AI" />

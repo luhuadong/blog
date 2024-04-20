@@ -7,43 +7,39 @@
         <language>zh-CN</language>
         <pubDate>Sun, 02 Jul 2023 11:53:47 +0800</pubDate>
         <lastBuildDate>Sun, 02 Jul 2023 11:53:47 +0800</lastBuildDate>
-        <category>商业</category>
-        <category>成长</category>
-        <category>日记</category>
-        <category>创业</category>
-        <category>家居</category>
-        <category>互联网</category>
-        <category>读书笔记</category>
-        <category>工程师</category>
-        <category>爱</category>
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
+        <category>商业</category>
+        <category>创业</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
+        <category>种植</category>
         <category>英语</category>
+        <category>成长</category>
         <category>英语短文</category>
         <category>学习</category>
-        <category>种植</category>
         <category>健身</category>
         <category>气象爱好者</category>
         <category>指南</category>
         <category>自律</category>
+        <category>思维模型</category>
         <category>健康</category>
         <category>Hexo</category>
         <category>徒步</category>
+        <category>家居</category>
         <category>科普</category>
         <category>环保</category>
         <category>可持续</category>
@@ -51,12 +47,17 @@
         <category>社会现象</category>
         <category>独立开发者</category>
         <category>碳中和</category>
+        <category>互联网</category>
+        <category>工程师</category>
+        <category>AI</category>
+        <category>开发者</category>
         <category>职业</category>
         <category>时间管理</category>
         <category>milestone</category>
         <category>总结</category>
         <category>年终总结</category>
         <category>慈济</category>
+        <category>爱</category>
         <category>生活</category>
         <category>RT-Thread</category>
         <category>开源</category>
@@ -65,7 +66,9 @@
         <category>思考</category>
         <category>幸福</category>
         <category>猫</category>
+        <category>日记</category>
         <category>月报</category>
+        <category>读书笔记</category>
         <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
@@ -84,6 +87,7 @@
         <category>亲密关系</category>
         <category>农业</category>
         <category>素食</category>
+        <category>性格测试</category>
         <category>报告</category>
         <category>TED</category>
         <category>演讲</category>
@@ -96,10 +100,6 @@
         <category>垃圾分类</category>
         <category>零废弃</category>
         <category>低碳</category>
-        <category>思维模型</category>
-        <category>开发者</category>
-        <category>性格测试</category>
-        <category>AI</category>
         <item>
             <guid isPermalink="true">https://luhuadong.com/wisdom/five-chapters-of-life.html</guid>
             <title>人生五章</title>
@@ -108,36 +108,36 @@
             <category>思考</category>
             <pubDate>Sun, 02 Jul 2023 11:53:47 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;《人生五章》是波歇。尼尔森的一首很治愈的诗，却也很写实，描述了我们遇到问题的反应以及最终如何去解决这个问题的心理过程。如果你正好在困境中，希望这首诗能给你一些启发！&lt;/p&gt;
-&lt;h2 id=&#34;第一章&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一章&#34;&gt;#&lt;/a&gt; 第一章&lt;/h2&gt;
-&lt;p&gt;我走上街，&lt;br&gt;
-人行道上有一个深洞，&lt;br&gt;
-我掉了进去，&lt;br&gt;
-我迷失了，我绝望了，&lt;br&gt;
-这不是我的错，&lt;br&gt;
+&lt;h2 id=&#34;第一章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章&#34;&gt;#&lt;/a&gt; 第一章&lt;/h2&gt;
+&lt;p&gt;我走上街，&lt;br /&gt;
+人行道上有一个深洞，&lt;br /&gt;
+我掉了进去，&lt;br /&gt;
+我迷失了，我绝望了，&lt;br /&gt;
+这不是我的错，&lt;br /&gt;
 我费了好大的劲才爬出来。&lt;/p&gt;
-&lt;h2 id=&#34;第二章&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第二章&#34;&gt;#&lt;/a&gt; 第二章&lt;/h2&gt;
-&lt;p&gt;我走上同一条街，&lt;br&gt;
-人行道上有一个深洞，&lt;br&gt;
-我假装没看到，&lt;br&gt;
-还是掉了进去，&lt;br&gt;
-我不能相信我居然会掉在同样的地方，&lt;br&gt;
-但这不是我的错，&lt;br&gt;
+&lt;h2 id=&#34;第二章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二章&#34;&gt;#&lt;/a&gt; 第二章&lt;/h2&gt;
+&lt;p&gt;我走上同一条街，&lt;br /&gt;
+人行道上有一个深洞，&lt;br /&gt;
+我假装没看到，&lt;br /&gt;
+还是掉了进去，&lt;br /&gt;
+我不能相信我居然会掉在同样的地方，&lt;br /&gt;
+但这不是我的错，&lt;br /&gt;
 我还是花了好长的时间才爬出来。&lt;/p&gt;
-&lt;h2 id=&#34;第三章&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第三章&#34;&gt;#&lt;/a&gt; 第三章&lt;/h2&gt;
-&lt;p&gt;我走上同一条街，&lt;br&gt;
-人行道上有一个深洞，&lt;br&gt;
-我看到它在那，&lt;br&gt;
-但还是掉了进去，&lt;br&gt;
-这是一种习惯，&lt;br&gt;
-我的眼睛张开着，&lt;br&gt;
-我知道我在那儿，&lt;br&gt;
-我知道这是我的错，&lt;br&gt;
+&lt;h2 id=&#34;第三章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三章&#34;&gt;#&lt;/a&gt; 第三章&lt;/h2&gt;
+&lt;p&gt;我走上同一条街，&lt;br /&gt;
+人行道上有一个深洞，&lt;br /&gt;
+我看到它在那，&lt;br /&gt;
+但还是掉了进去，&lt;br /&gt;
+这是一种习惯，&lt;br /&gt;
+我的眼睛张开着，&lt;br /&gt;
+我知道我在那儿，&lt;br /&gt;
+我知道这是我的错，&lt;br /&gt;
 我立刻爬了出来。&lt;/p&gt;
-&lt;h2 id=&#34;第四章&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第四章&#34;&gt;#&lt;/a&gt; 第四章&lt;/h2&gt;
-&lt;p&gt;我走上同一条街，&lt;br&gt;
-人行道上有一个深洞，&lt;br&gt;
+&lt;h2 id=&#34;第四章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四章&#34;&gt;#&lt;/a&gt; 第四章&lt;/h2&gt;
+&lt;p&gt;我走上同一条街，&lt;br /&gt;
+人行道上有一个深洞，&lt;br /&gt;
 我绕道而过。&lt;/p&gt;
-&lt;h2 id=&#34;第五章&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第五章&#34;&gt;#&lt;/a&gt; 第五章&lt;/h2&gt;
+&lt;h2 id=&#34;第五章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五章&#34;&gt;#&lt;/a&gt; 第五章&lt;/h2&gt;
 &lt;p&gt;我走上另一条街。&lt;/p&gt;
  ]]></description>
         </item>
@@ -148,7 +148,7 @@
             <category>人生</category>
             <category>思考</category>
             <pubDate>Mon, 12 Jun 2023 20:52:21 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;故事&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#故事&#34;&gt;#&lt;/a&gt; 故事&lt;/h2&gt;
+            <description><![CDATA[ &lt;h2 id=&#34;故事&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#故事&#34;&gt;#&lt;/a&gt; 故事&lt;/h2&gt;
 &lt;p&gt;从前有两个兄弟，他们发现村子里没有称心如意的姑娘，于是决定一起到外面寻找心仪的姑娘。&lt;/p&gt;
 &lt;p&gt;在离开家乡之后，他们走了很多地方，有一天他们来到一个渔村，在村头碰到了一个姑娘，弟弟觉得那位姑娘正是自己的心目中人，或许这就是一见钟情，所以他决定留下来。&lt;/p&gt;
 &lt;p&gt;他对哥哥说：“那个姑娘就是我要找的人，我要留在这里。”&lt;/p&gt;
@@ -156,7 +156,7 @@
 &lt;p&gt;可弟弟执意留下。哥哥就对弟弟说 “既然你喜欢，就留下好了，我还要去找我喜欢的人。”&lt;/p&gt;
 &lt;p&gt;于是弟弟就辞别了哥哥，到当地打听求婚的习俗。当地人告诉他求婚要送牛的，普通的女孩只需要送一两头牛，贤惠漂亮的女孩要送多些，也就是说四五头。最多的是送九头牛，这样的女孩是非常优秀的，很少见这里，根本就没有人送过九头牛。&lt;/p&gt;
 &lt;p&gt;结果弟弟买了九头牛，浩浩荡荡地赶着牛群去求婚了。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/wisdom/nine-cows.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/wisdom/nine-cows.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;敲开女孩家的门时，女孩的父亲出来了，扶着门框吃惊的问：“年轻人有什么事？”&lt;/p&gt;
 &lt;p&gt;弟弟说：“老伯伯，我看上了你家的女儿，我赶着牛来是求婚的。”&lt;/p&gt;
 &lt;p&gt;老人说：“你求婚也用不着赶这么多牛来，我家女儿只是一个普通人，最多只要三四头牛就行了。你送这么多牛来是不对的，如果我收下了，邻居会笑话的。”&lt;/p&gt;
@@ -170,7 +170,7 @@
 &lt;p&gt;几年后哥哥回来了，走到村口，他发现村长正在举办一个盛大的篝火晚会，熊熊篝火旁边，大家正在观看一个体态轻盈年轻漂亮的女子，翩翩起舞，哥哥好奇：村里哪有这么漂亮的女孩？&lt;/p&gt;
 &lt;p&gt;哥哥见到弟弟，问弟弟，弟弟说这个女孩正是他的媳妇儿。哥哥很纳闷，弟弟当年娶的那位媳妇儿没有那么漂亮！哥哥就问弟弟是怎么回事，弟弟说：“他就是当年你没看上的那个女孩。”&lt;/p&gt;
 &lt;p&gt;弟弟说：“从小到大家都认为她是一个普通的人，连她自己也觉得没有什么特别之处。但自从我把她当做九牛之人取回之后，她就开始学习九牛之人的优点。结果三年过去了，没想到她真的变成了聪明贤惠、漂亮可爱的九牛之人。”&lt;/p&gt;
-&lt;h2 id=&#34;启发&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#启发&#34;&gt;#&lt;/a&gt; 启发&lt;/h2&gt;
+&lt;h2 id=&#34;启发&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#启发&#34;&gt;#&lt;/a&gt; 启发&lt;/h2&gt;
 &lt;p&gt;你期望你的爱人、同事、下属是什么样子的，你就要把他当成你期待的样子对待，那么因你的暗示，他们就会向你期望的方向发展，最终也会变成你所期望的样子。&lt;/p&gt;
 &lt;p&gt;让自己成为幸福的源泉，用生命中最美好的东西去感染别人。深信只要付出就会有所回报。热情、爱情、信任、称赞…… 不论是它们中的哪一种，只要你学会向别人索取之前，先付出，就会收获更多。改变自己以后，再去改变别人。最后这种力量会凝结在一起变成翅膀，让你在有风的日子里，自由翱翔。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;对自己的选择倾注全部的爱，你将得到奇迹般的收获。&lt;/strong&gt;&lt;/p&gt;

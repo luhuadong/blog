@@ -7,43 +7,39 @@
         <language>zh-CN</language>
         <pubDate>Sun, 08 Mar 2020 19:18:15 +0800</pubDate>
         <lastBuildDate>Sun, 08 Mar 2020 19:18:15 +0800</lastBuildDate>
-        <category>商业</category>
-        <category>成长</category>
-        <category>日记</category>
-        <category>创业</category>
-        <category>家居</category>
-        <category>互联网</category>
-        <category>读书笔记</category>
-        <category>工程师</category>
-        <category>爱</category>
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
+        <category>商业</category>
+        <category>创业</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
+        <category>种植</category>
         <category>英语</category>
+        <category>成长</category>
         <category>英语短文</category>
         <category>学习</category>
-        <category>种植</category>
         <category>健身</category>
         <category>气象爱好者</category>
         <category>指南</category>
         <category>自律</category>
+        <category>思维模型</category>
         <category>健康</category>
         <category>Hexo</category>
         <category>徒步</category>
+        <category>家居</category>
         <category>科普</category>
         <category>环保</category>
         <category>可持续</category>
@@ -51,12 +47,17 @@
         <category>社会现象</category>
         <category>独立开发者</category>
         <category>碳中和</category>
+        <category>互联网</category>
+        <category>工程师</category>
+        <category>AI</category>
+        <category>开发者</category>
         <category>职业</category>
         <category>时间管理</category>
         <category>milestone</category>
         <category>总结</category>
         <category>年终总结</category>
         <category>慈济</category>
+        <category>爱</category>
         <category>生活</category>
         <category>RT-Thread</category>
         <category>开源</category>
@@ -65,7 +66,9 @@
         <category>思考</category>
         <category>幸福</category>
         <category>猫</category>
+        <category>日记</category>
         <category>月报</category>
+        <category>读书笔记</category>
         <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
@@ -84,6 +87,7 @@
         <category>亲密关系</category>
         <category>农业</category>
         <category>素食</category>
+        <category>性格测试</category>
         <category>报告</category>
         <category>TED</category>
         <category>演讲</category>
@@ -96,49 +100,45 @@
         <category>垃圾分类</category>
         <category>零废弃</category>
         <category>低碳</category>
-        <category>思维模型</category>
-        <category>开发者</category>
-        <category>性格测试</category>
-        <category>AI</category>
         <item>
             <guid isPermalink="true">https://luhuadong.com/reading/where-does-the-money-come-from.html</guid>
             <title>《钱从哪里来——中国家庭的财富方案》</title>
             <link>https://luhuadong.com/reading/where-does-the-money-come-from.html</link>
-            <category>读书笔记</category>
             <category>城市</category>
+            <category>读书笔记</category>
             <category>财富</category>
             <pubDate>Sun, 08 Mar 2020 19:18:15 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/static/book_money-come_001.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/book_money-come_001.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;香帅老师的这本书，讲的是中国家庭财富积累的底层逻辑。不是理财、投资的具体策略，而是分析在当代社会，一个普通家庭该如何积累财富，也就是 —— 钱从哪里来？&lt;/p&gt;
 &lt;p&gt;本书结合许多普通人的案例进行论述，从不同的例子当中多少让人看到自己的影子。抛开宏观经济因素，影响一个人或一个家庭财富水平的，主要有三个方面：职业方向、城市选择、资产配置。&lt;/p&gt;
-&lt;h2 id=&#34;职业方向&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#职业方向&#34;&gt;#&lt;/a&gt; 职业方向&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/static/book_money-come_002.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;职业方向&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#职业方向&#34;&gt;#&lt;/a&gt; 职业方向&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/book_money-come_002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;首先是&lt;strong&gt;职业方向&lt;/strong&gt;。普通家庭的主要收入来源其实还是工资收入，一份 “&lt;strong&gt;滚雪球型&lt;/strong&gt;” 的职业，能够帮助家庭较快地积累财富。而一份 “&lt;strong&gt;推石头型&lt;/strong&gt;” 的职业，则会延缓财富的积累，这种职业往往也是创造价值增速低、折旧率高的，因此在未来很可能会被机器所取代，面临失业的尴尬。&lt;/p&gt;
 &lt;p&gt;那什么职业容易被机器和人工智能取代呢？就是那些可编码的工作，即需要重复劳动的工作，而且在这方面机器可能做得比人还好。比如普工 / 操作工、电话销售员、保险理赔师、出纳员、收银员、新闻编辑等。与此相反，那些需要创新、需要个性化服务的领域，比如软件工程师、医生、教师、律师、理发师等职业，则较难被替代。&lt;/p&gt;
 &lt;p&gt;职业选择通常与所受教育相关，学历的提升可以直接作用于收入水平。相对来说，高学历会更容易找到 “滚雪球型” 的职业赛道，并且会带来 “学历溢价”。那学历不高的人是不是没有机会呢？也不是，随着中国进入 “万元美金社会”，“怕死、爱美、孤独” 等社会新常态将激活一些新的职业赛道，比如康复治疗师、美容师、健身教练、心理咨询师、宠物驯导师等。只要找到恰当的职业赛道，也会带来 “年资溢价”。&lt;/p&gt;
-&lt;div class=&#34;note default&#34;&gt;
-    &lt;p&gt;学历溢价 —— 随着学历要求上升，招聘工资随之上升。&lt;/p&gt;
-    &lt;p&gt;年资溢价 —— 随着工作经验要求上升，招聘薪酬上涨。&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/static/book_money-come_003.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;div class=&#34;note info&#34;&gt;&lt;p&gt;小结：要尽量选择职业坡道长、能快速成长、折旧率低、收入高的职业。&lt;/p&gt;&lt;/div&gt;
-&lt;h2 id=&#34;城市选择&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#城市选择&#34;&gt;#&lt;/a&gt; 城市选择&lt;/h2&gt;
+&lt;p&gt;&amp;lt;div class=&amp;quot;note default&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt; 学历溢价 —— 随着学历要求上升，招聘工资随之上升。&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt; 年资溢价 —— 随着工作经验要求上升，招聘薪酬上涨。&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/book_money-come_003.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;div class=&amp;quot;note info&amp;quot;&amp;gt;&amp;lt;p &amp;gt; 小结：要尽量选择职业坡道长、能快速成长、折旧率低、收入高的职业。&amp;lt;/p&amp;gt;&amp;lt;/div&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;城市选择&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#城市选择&#34;&gt;#&lt;/a&gt; 城市选择&lt;/h2&gt;
 &lt;p&gt;然后是&lt;strong&gt;城市选择&lt;/strong&gt;。自从改革开放以来，城市化进程不断推进，然而不同的城市拥有不同的财富创造力。可以说，城市决定着你财富的上限，也决定着你财富的下限。&lt;/p&gt;
 &lt;p&gt;在城市的选择上，通常遵循 “就近聚集” 的原则，即选择离家最近的经济发达的城市。由于规模越大的城市，学历和工作经验的溢价越高，因此 “北上广深” 拥有着超强的人口吸附能力。大城市支付给我们的高薪酬，不是因为房价和生活成本更高，而是因为我们的人力资本成长更快。城市规模带来的了许多好处，比如 “知识外溢效应” 和 “专业化溢价”，这也让越来越多人不愿意离开大城市。&lt;/p&gt;
-&lt;div class=&#34;note default&#34;&gt;
-    &lt;p&gt;知识外溢效应 —— 人口越集聚，我们越有机会和更有经验的人在一起，向更优秀的人学习。&lt;/p&gt;
-    &lt;p&gt;专业化溢价 —— 随着人们收入的提高，自己完成很多工作的机会成本越来越高，于是大城市对专业化从业人员的数量需求越来越大，愿意支付的溢价也越来越高。&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;&amp;lt;div class=&amp;quot;note default&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt; 知识外溢效应 —— 人口越集聚，我们越有机会和更有经验的人在一起，向更优秀的人学习。&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;p&amp;gt; 专业化溢价 —— 随着人们收入的提高，自己完成很多工作的机会成本越来越高，于是大城市对专业化从业人员的数量需求越来越大，愿意支付的溢价也越来越高。&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;/p&gt;
 &lt;p&gt;那小城镇是不是就此没落？也不一定，大城市发展带来规模溢出效应，实际上就是城市规模在进一步扩张。生长在大城市周边的小城镇会夺得先机，形成具备生产能力、产业聚集、劳动力充足的小城镇。而不在大城市群周边的城镇，比如鄂尔多斯依靠便宜的电价、土地以及得天独厚的气候，吸引了众多云计算厂商；甘孜藏族自治州丹巴县八科村依靠新零售物流体系，使得特色农产品进入大城市的市场。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/static/book_money-come_004.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;div class=&#34;note info&#34;&gt;&lt;p&gt;小结：大城市基础设施好、创新能力强、市场发育完善，有助于个人成长和财富积累。&lt;/p&gt;&lt;/div&gt;
-&lt;h2 id=&#34;资产配置&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#资产配置&#34;&gt;#&lt;/a&gt; 资产配置&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/book_money-come_004.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;div class=&amp;quot;note info&amp;quot;&amp;gt;&amp;lt;p &amp;gt; 小结：大城市基础设施好、创新能力强、市场发育完善，有助于个人成长和财富积累。&amp;lt;/p&amp;gt;&amp;lt;/div&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;资产配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#资产配置&#34;&gt;#&lt;/a&gt; 资产配置&lt;/h2&gt;
 &lt;p&gt;最后是&lt;strong&gt;资产配置&lt;/strong&gt;。无论国内还是国外，房地产都占了普通居民总财富中的大头。自 2000 年以来，中国的平均房价大约上涨了 2 倍，一线城市核心区域的房价涨幅甚至达到 10 倍以上，如果同样的资金存在银行，很可能连通货膨胀都抵不过。&lt;/p&gt;
 &lt;p&gt;由于房价上涨过快，各地政府加强了房地产调控，目的在于控制贫富差距，避免炒房，让还没买房的年轻人有机会买房，享受城市的福利。&lt;/p&gt;
 &lt;p&gt;地理位置是稀缺资源，房价反映的是房子所在土地的价值，即这片土地上的经济增长潜力。未来中国的房价仍然会继续上升，但房价的分化程度也会不断加剧。因此只有买到真正有价值的房子，才能保证投资的回报。&lt;/p&gt;
 &lt;p&gt;至于其他金融资产，比如股票、基金、债券等，先配置低风险的再配置高风险的。受国际经济形势影响，更要理性投资、适当投资。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/static/book_money-come_005.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;div class=&#34;note info&#34;&gt;&lt;p&gt;小结：中国的经济增速放缓，但不必过度悲观，作为个人要理性投资，作为企业要增强核心竞争力。&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/book_money-come_005.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;div class=&amp;quot;note info&amp;quot;&amp;gt;&amp;lt;p &amp;gt; 小结：中国的经济增速放缓，但不必过度悲观，作为个人要理性投资，作为企业要增强核心竞争力。&amp;lt;/p&amp;gt;&amp;lt;/div&amp;gt;&lt;/p&gt;
 &lt;p&gt;由于 2020 年开局不利，建议各位：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;努力工作&lt;/li&gt;
@@ -146,9 +146,9 @@
 &lt;li&gt;接受教育&lt;/li&gt;
 &lt;li&gt;继续努力&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/static/book_money-come_006.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/book_money-come_006.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;购买链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly91bmlvbi1jbGljay5qZC5jb20vamRjP2U9JmFtcDtwPUF5SUdaUnByRlFFVUFWMGNXeHd5VmxnTlJRUWxXMWRDRkZsUUN4eEtRZ0ZIUkU1WERWVUxSMFVWQVJRQlhSeGJIQjFMUWdsR2F4UktVeDBUSHlOZ1luRlhJR2tDWmx3VFhnZE1MME1PSGpkVUsxc1VBeEFDVlI5ZUZ3UWlOMVVjYTBOc0VnWlVHbG9VQnhFRlVTdGFKUUlWQjFBZlV4MExGZ05WSFZzbEJSSU9aVVlmUjFoYVVnVllDVjB5SWpkV0syc2xBaUlFWlZrMUVsWVZCZ0pPWEJBQlFnRUdIZ3RCVUVKU1Vrc1BGbEVRVTFNU1V4d0NHZzlsR1ZvVUJocyUzRA==&#34;&gt;京东&lt;/span&gt;、&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zLmNsaWNrLnRhb2Jhby5jb20vdD9lPW0lM0QyJTI2cyUzRHlaTGRQeTA2RndZY1FpcEt3UXplUE9lRURyWVZWYTY0SzdWYzd0Rmd3aUhqZjJ2bE5JVjY3aE5aNnRQS1dlJTJGOFBMTnpJdCUyRno1NmluRmkzd0ZCWHZZVXRZSVh5UTUlMkJkYUdYOTNYNElGVHdQeCUyRlZuY3lYTmlXWFcwQnNjQ1IlMkZCamRacjdSQm5MbUpvbVhPMzV5eHNhY1Z1JTJGQXVnNW1DWmN0YVNWaGd3a1JrQ3dUZlZySmlPMVQyUnNTc1hQQVVaMCZhbXA7c2NtPW51bGwmYW1wO3B2aWQ9bnVsbCZhbXA7YXBwX3B2aWQ9NTk1OTBfMzMuNS42Mi4xN182MzNfMTYxNDU5OTk2ODU2NyZhbXA7cHRsPWZsb29ySWQlM0ExNzc0MSZhbXA7b3JpZ2luYWxGbG9vcklkJTNBMTc3NDEmYW1wO2FwcF9wdmlkJTNBNTk1OTBfMzMuNS42Mi4xN182MzNfMTYxNDU5OTk2ODU2NyZhbXA7dW5pb25fbGVucz1sZW5zSWQlM0FQVUIlNDAxNjE0NTk5OTQ4JTQwMGIxYTI1MTdfMGU3MV8xNzdlZGE4MDhkOF8zMDhmJTQwMDI2SHp3bTFXYUI1TXE3NVpzTVdLSkpo&#34;&gt;淘宝&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;购买链接：&lt;a href=&#34;https://union-click.jd.com/jdc?e=&amp;amp;p=AyIGZRprFQEUAV0cWxwyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVARQBXRxbHB1LQglGaxRKUx0THyNgYnFXIGkCZlwTXgdML0MOHjdUK1sUAxACVR9eFwQiN1Uca0NsEgZUGloUBxEFUStaJQIVB1AfUx0LFgNVHVslBRIOZUYfR1haUgVYCV0yIjdWK2slAiIEZVk1ElYVBgJOXBABQgEGHgtBUEJSUksPFlEQU1MSUxwCGg9lGVoUBhs%3D&#34;&gt;京东&lt;/a&gt;、&lt;a href=&#34;https://s.click.taobao.com/t?e=m%3D2%26s%3DyZLdPy06FwYcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67hNZ6tPKWe%2F8PLNzIt%2Fz56inFi3wFBXvYUtYIXyQ5%2BdaGX93X4IFTwPx%2FVncyXNiWXW0BscCR%2FBjdZr7RBnLmJomXO35yxsacVu%2FAug5mCZctaSVhgwkRkCwTfVrJiO1T2RsSsXPAUZ0&amp;amp;scm=null&amp;amp;pvid=null&amp;amp;app_pvid=59590_33.5.62.17_633_1614599968567&amp;amp;ptl=floorId%3A17741&amp;amp;originalFloorId%3A17741&amp;amp;app_pvid%3A59590_33.5.62.17_633_1614599968567&amp;amp;union_lens=lensId%3APUB%401614599948%400b1a2517_0e71_177eda808d8_308f%40026Hzwm1WaB5Mq75ZsMWKJJh&#34;&gt;淘宝&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
  ]]></description>
         </item>
@@ -179,7 +179,7 @@
 &lt;p&gt;因为一生的支出规律是基本可以模拟的，我们可以发现：第一个支出高峰期是 30 岁～35 岁，这一阶段的主要指出是成家立室；第二个高峰期是 50 岁左右，上有老下有小，年幼的孩子长大外出求学、父母进入老年；第三个高峰是漫长的养老考验。&lt;/p&gt;
 &lt;p&gt;对于普通人来说，花钱有一些避不开的羁绊：年轻的时候没收入，求学和生活的钱由父母出，年纪大了也必然要把钱花在子女身上；60 岁以后，收入来源减少，如果没存购三十年的养老金，就需要子女的支持，相反如果我们老了还能养活自己，那子女在中年时的压力就会小很多。&lt;/p&gt;
 &lt;p&gt;以你这一代人为参照标准，上下各一代人，共三代人的收支情况互为因果，决定了你能花多少钱。如果上一代的积累很多，30 岁的人买房、买车的消费压力就会小；如果下一代的收入高，退休后 30 年的生命质量就会高。反之，上一代的压力也可能会传导到第三代。不是只考虑时间或者只考虑自己就可以放心花钱的。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/money/money-intergenerational-transmission.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/money-intergenerational-transmission.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;在各种排列组合中：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;蓝色的组合对你这一代最有利；而黄色的组合对你最不利。&lt;/li&gt;

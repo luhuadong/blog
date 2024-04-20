@@ -7,43 +7,39 @@
         <language>zh-CN</language>
         <pubDate>Tue, 06 Feb 2024 14:26:15 +0800</pubDate>
         <lastBuildDate>Tue, 06 Feb 2024 14:26:15 +0800</lastBuildDate>
-        <category>商业</category>
-        <category>成长</category>
-        <category>日记</category>
-        <category>创业</category>
-        <category>家居</category>
-        <category>互联网</category>
-        <category>读书笔记</category>
-        <category>工程师</category>
-        <category>爱</category>
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
+        <category>商业</category>
+        <category>创业</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
+        <category>种植</category>
         <category>英语</category>
+        <category>成长</category>
         <category>英语短文</category>
         <category>学习</category>
-        <category>种植</category>
         <category>健身</category>
         <category>气象爱好者</category>
         <category>指南</category>
         <category>自律</category>
+        <category>思维模型</category>
         <category>健康</category>
         <category>Hexo</category>
         <category>徒步</category>
+        <category>家居</category>
         <category>科普</category>
         <category>环保</category>
         <category>可持续</category>
@@ -51,12 +47,17 @@
         <category>社会现象</category>
         <category>独立开发者</category>
         <category>碳中和</category>
+        <category>互联网</category>
+        <category>工程师</category>
+        <category>AI</category>
+        <category>开发者</category>
         <category>职业</category>
         <category>时间管理</category>
         <category>milestone</category>
         <category>总结</category>
         <category>年终总结</category>
         <category>慈济</category>
+        <category>爱</category>
         <category>生活</category>
         <category>RT-Thread</category>
         <category>开源</category>
@@ -65,7 +66,9 @@
         <category>思考</category>
         <category>幸福</category>
         <category>猫</category>
+        <category>日记</category>
         <category>月报</category>
+        <category>读书笔记</category>
         <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
@@ -84,6 +87,7 @@
         <category>亲密关系</category>
         <category>农业</category>
         <category>素食</category>
+        <category>性格测试</category>
         <category>报告</category>
         <category>TED</category>
         <category>演讲</category>
@@ -96,10 +100,6 @@
         <category>垃圾分类</category>
         <category>零废弃</category>
         <category>低碳</category>
-        <category>思维模型</category>
-        <category>开发者</category>
-        <category>性格测试</category>
-        <category>AI</category>
         <item>
             <guid isPermalink="true">https://luhuadong.com/inchina/the-one-person-unicorn-startup.html</guid>
             <title>一人独角兽</title>
@@ -112,10 +112,10 @@
 &lt;p&gt;我们知道，创业公司的最大特点就是快速行动，而 AI 将会把这种能力急剧放大，因为 AI 可以自动化许多过去需要更多人来操作的过程。试想一下，如果你能减少员工数量，每一项业务操作都会变得更简单。人数较少意味着创始人会有更少的会议、更少的分歧、更少的政治斗争、更快的决策制定，以及更快的实验；更少的人意味着更少的招聘、面试、雇佣、入职培训、指导、绩效评估、文化建设、戏剧性的离职和解雇；越少的人意味着花费在薪资上的开支越少，花费在融资上的时间越少，从风险投资公司筹集的资金越少，对创始人的稀释也越少。&lt;/p&gt;
 &lt;p&gt;我认为，创业团队人少而精才是正解。但人少，并不意味着做的事情小。反而由于不需要招那么多人，可以不拿融资，也就没有那么大的销售压力，可以慢慢打磨产品，坚持初心，做自己喜欢且有意义的事。&lt;/p&gt;
 &lt;p&gt;AI 时代，也许我们不应该再问孩子：你长大后想当什么？，而是问：你长大后想解决什么问题？&lt;/p&gt;
-&lt;h2 id=&#34;参考&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#参考&#34;&gt;#&lt;/a&gt; 参考&lt;/h2&gt;
+&lt;h2 id=&#34;参考&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#参考&#34;&gt;#&lt;/a&gt; 参考&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9uZXdzL2NvdWxkLWFpLWNyZWF0ZS1vbmUtcGVyc29uLTEyMDAwMDcyMi5odG1s&#34;&gt;Could AI create a one-person unicorn? &lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYWl4aW56aGlqaWUuY29tL2FydGljbGUvNjg0NDc3NA==&#34;&gt;Sam Altman: AI 时代，1 个人的独角兽公司即将成为可能&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://finance.yahoo.com/news/could-ai-create-one-person-120000722.html&#34;&gt;Could AI create a one-person unicorn? &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.aixinzhijie.com/article/6844774&#34;&gt;Sam Altman: AI 时代，1 个人的独角兽公司即将成为可能&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -128,7 +128,7 @@
             <description><![CDATA[ &lt;p&gt;&lt;strong&gt;数字游民&lt;/strong&gt;（Digital Nomads）是指那些没有办公室等固定工作场所，利用互联网从事远程工作，在全球范围内移动生活的人群。这个概念并不算新，“数字游民” 这个词最早出现在 1997 年前日立公司的 CEO 牧本次雄出版的著作中，在经历新冠疫情后，远程办公的方式被越来越多人接受，也有越来越多的年轻人开始尝试数字游民的生活方式。&lt;/p&gt;
 &lt;p&gt;数字游民作为一种被数字信息技术赋能的全新生活方式，吸引人的地方在于它打破了工作与工作地点间的强关系，达成地理位置自由和时间自由。数字游民们可以在不同的城市，甚至在不同的国家进行远程工作，咖啡店、图书馆、共享办公空间甚至露营车，都可以成为他们的工作场所。&lt;/p&gt;
 &lt;p&gt;想要成为一名成功的数字游民，通常需要具有对应各种紧急状态的财务缓冲能力，同时也需要具有较好的自力更生和自律能力。&lt;/p&gt;
-&lt;p&gt;根据 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ub21hZGxpc3QuY29t&#34;&gt;nomadlist.com&lt;/span&gt; 的排名（2023 年 2 月），最适合数字游民的前十大城市分别是：&lt;/p&gt;
+&lt;p&gt;根据 &lt;a href=&#34;https://nomadlist.com&#34;&gt;nomadlist.com&lt;/a&gt; 的排名（2023 年 2 月），最适合数字游民的前十大城市分别是：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;泰国曼谷&lt;/li&gt;
 &lt;li&gt;阿根廷布宜诺斯艾利斯&lt;/li&gt;
@@ -144,12 +144,12 @@
 &lt;p&gt;而在国内，受到数字游民青睐的城市主要有云南大理、浙江安吉、海南文昌等。&lt;/p&gt;
 &lt;p&gt;推荐书籍：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ib29rLmRvdWJhbi5jb20vc3ViamVjdC8yNzA2NTYwNy8=&#34;&gt;《每周工作 4 小时》&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ib29rLmRvdWJhbi5jb20vc3ViamVjdC8zODg5MTc4Lw==&#34;&gt;《Rework》&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ib29rLmRvdWJhbi5jb20vc3ViamVjdC8yMTM2MjYyNy8=&#34;&gt;《Remote》&lt;/span&gt;、&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ib29rLmRvdWJhbi5jb20vc3ViamVjdC8yNTg2MTc5NS8=&#34;&gt;《重来 2》&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ib29rLmRvdWJhbi5jb20vc3ViamVjdC8yNzE5ODAyNS8=&#34;&gt;《零工经济：推动社会变革的引擎》&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ib29rLmRvdWJhbi5jb20vc3ViamVjdC81MzY0Mzc2Lw==&#34;&gt;《自由职业设计师工作手册》&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ib29rLmRvdWJhbi5jb20vc3ViamVjdC8yNjY3MTQ4OC8=&#34;&gt;《游牧东京》&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/27065607/&#34;&gt;《每周工作 4 小时》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/3889178/&#34;&gt;《Rework》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/21362627/&#34;&gt;《Remote》&lt;/a&gt;、&lt;a href=&#34;https://book.douban.com/subject/25861795/&#34;&gt;《重来 2》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/27198025/&#34;&gt;《零工经济：推动社会变革的引擎》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/5364376/&#34;&gt;《自由职业设计师工作手册》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/26671488/&#34;&gt;《游牧东京》&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -159,7 +159,7 @@
             <link>https://luhuadong.com/inchina/fan-duan-she-li.html</link>
             <category>社会现象</category>
             <pubDate>Sun, 23 Jul 2023 17:54:24 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/inchina/fan-duan-she-li.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/inchina/fan-duan-she-li.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;“反断舍离” 和 “断舍离” 相反，是指现在一些年轻人反对扔掉废旧多余之物，将其保留，或改造出其他用途，竭尽全力挖掘剩余价值，从而节省花销的现象。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“现在最重要的是省钱，什么断舍离，那不是浪费吗？” —— 网友&lt;/p&gt;
@@ -172,7 +172,7 @@
             <link>https://luhuadong.com/inchina/du-li-chu-jia-ren.html</link>
             <category>社会现象</category>
             <pubDate>Tue, 11 Jul 2023 22:27:29 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/inchina/du-li-chu-jia-ren.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/inchina/du-li-chu-jia-ren.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;我们知道，独立音乐人指没有和任何唱片公司签约的音乐人，自己录歌，自己宣传。独立制片人是指不依赖于专业商业公司或制片厂，拍摄制作相对比较自由的电影制片人。&lt;/p&gt;
 &lt;p&gt;“独立出家人” 是指不依赖于任何道观或寺院，不需要成为名义上的和尚、尼姑，以比较自由和灵活的方式隐居、吃斋、修道的人。他们通常选择定期离开亲人、家庭、事业这些世俗世界，关注自我的身心灵成长，提升悟性。&lt;/p&gt;
 &lt;p&gt;注：不依赖于任何道观或寺院的原因是条件太高了，按照宗教政策，寺庙和道观分别归佛教协会和道教协会管理，也就是说，在庙里上班的和尚可能是有事业编制的。&lt;/p&gt;
@@ -184,7 +184,7 @@
             <link>https://luhuadong.com/inchina/si-bu-qing-nian.html</link>
             <category>社会现象</category>
             <pubDate>Tue, 11 Jul 2023 22:27:16 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/inchina/si-bu-qing-nian.png&#34; alt=&#34;四不青年&#34;&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/inchina/si-bu-qing-nian.png&#34; alt=&#34;四不青年&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;香港《星岛日报》报导，受冠病疫情长达三年影响，中国经济不景气，当地青年失业率超过 20%。从今年三月起，“四不青年” 这个词汇开始在网络流行起来。&lt;/p&gt;
 &lt;p&gt;四不指的是：不恋爱、不结婚、不买房和不生子。官方呼吁通过多方力量，把 “四不” 现象转为 “四要” （要谈恋爱、要结婚、要买房、要孩子）。&lt;/p&gt;
 &lt;p&gt;众多网友表示，并非自己不想找对象、买房、结婚、生子，而是根本没能力实现这些目标。&lt;/p&gt;
@@ -197,7 +197,7 @@
             <link>https://luhuadong.com/inchina/kong-qian-jue-hou.html</link>
             <category>社会现象</category>
             <pubDate>Tue, 11 Jul 2023 22:27:05 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/inchina/kong-qian-jue-hou.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/inchina/kong-qian-jue-hou.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;“空前绝后” 是指掏空上一代积蓄，透支未来而来买房，最后还落得不敢结婚、不敢生子的结局。&lt;/p&gt;
 &lt;p&gt;只能说，我们这一届没有背景的青年人太难了。&lt;/p&gt;
  ]]></description>

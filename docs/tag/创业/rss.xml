@@ -7,43 +7,39 @@
         <language>zh-CN</language>
         <pubDate>Sat, 06 Apr 2024 11:52:14 +0800</pubDate>
         <lastBuildDate>Sat, 06 Apr 2024 11:52:14 +0800</lastBuildDate>
-        <category>商业</category>
-        <category>成长</category>
-        <category>日记</category>
-        <category>创业</category>
-        <category>家居</category>
-        <category>互联网</category>
-        <category>读书笔记</category>
-        <category>工程师</category>
-        <category>爱</category>
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
+        <category>商业</category>
+        <category>创业</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
+        <category>种植</category>
         <category>英语</category>
+        <category>成长</category>
         <category>英语短文</category>
         <category>学习</category>
-        <category>种植</category>
         <category>健身</category>
         <category>气象爱好者</category>
         <category>指南</category>
         <category>自律</category>
+        <category>思维模型</category>
         <category>健康</category>
         <category>Hexo</category>
         <category>徒步</category>
+        <category>家居</category>
         <category>科普</category>
         <category>环保</category>
         <category>可持续</category>
@@ -51,12 +47,17 @@
         <category>社会现象</category>
         <category>独立开发者</category>
         <category>碳中和</category>
+        <category>互联网</category>
+        <category>工程师</category>
+        <category>AI</category>
+        <category>开发者</category>
         <category>职业</category>
         <category>时间管理</category>
         <category>milestone</category>
         <category>总结</category>
         <category>年终总结</category>
         <category>慈济</category>
+        <category>爱</category>
         <category>生活</category>
         <category>RT-Thread</category>
         <category>开源</category>
@@ -65,7 +66,9 @@
         <category>思考</category>
         <category>幸福</category>
         <category>猫</category>
+        <category>日记</category>
         <category>月报</category>
+        <category>读书笔记</category>
         <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
@@ -84,6 +87,7 @@
         <category>亲密关系</category>
         <category>农业</category>
         <category>素食</category>
+        <category>性格测试</category>
         <category>报告</category>
         <category>TED</category>
         <category>演讲</category>
@@ -96,10 +100,6 @@
         <category>垃圾分类</category>
         <category>零废弃</category>
         <category>低碳</category>
-        <category>思维模型</category>
-        <category>开发者</category>
-        <category>性格测试</category>
-        <category>AI</category>
         <item>
             <guid isPermalink="true">https://luhuadong.com/business/xiaoyuzhoufm.html</guid>
             <title>「小宇宙」的发展历程与启发</title>
@@ -107,28 +107,28 @@
             <category>商业</category>
             <category>创业</category>
             <pubDate>Sat, 06 Apr 2024 11:52:14 +0800</pubDate>
-            <description><![CDATA[ &lt;img data-src=&#34;/images/business/xiaoyuzhoufm-logo.png&#34; width=&#34;300&#34; /&gt;
-&lt;h2 id=&#34;产品简介&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#产品简介&#34;&gt;#&lt;/a&gt; 产品简介&lt;/h2&gt;
+            <description><![CDATA[ &lt;p&gt;&amp;lt;img src=&amp;quot;/images/business/xiaoyuzhoufm-logo.png&amp;quot; width=&amp;quot;300&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;产品简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#产品简介&#34;&gt;#&lt;/a&gt; 产品简介&lt;/h2&gt;
 &lt;p&gt;「小宇宙」是即刻团队推出一款中文播客 App，于 2020 年 3 月正式上线。有网友评价：“小宇宙是国内目前最轻量化、最纯粹、最便捷的播客播放 App，没有之一”。&lt;/p&gt;
 &lt;p&gt;播客是一种数字媒体，指一系列的音频、影片、电子电台或文字档以列表形式经互联网发布，然后听众经由电子设备订阅该列表以下载或流当中的电子文件，从而接收内容。&lt;/p&gt;
 &lt;p&gt;相对于图文和视频，播客具有低信息密度、高情感密度的属性。但它可以提供长期陪伴、信任的价值，提供慢下来而温暖的内容，因此在年轻一代中流行起来。就我个人使用习惯而言，开车、居家、睡前是我收听播客的三大场景，甚至戏称它为 “交通大学”，因为我可以一边开车，一边学到知识、拓宽认知。&lt;/p&gt;
 &lt;p&gt;实际上，在小宇宙推出之前，国内都没有一款专门针对播客的产品。播客更多只是作为各大音频类 App 的一个板块，如网易云音乐、喜马拉雅 App 中的一个功能。由于这些平台的播客内容不够丰富，且用户也无法触达更多感兴趣的内容，所以用户体验并不好，播客爱好者只能使用国外的播客产品，如苹果 podcast，overcast，pocket cast 等。因此，小宇宙推出之后，很快就收获了一大批用户。&lt;/p&gt;
-&lt;h2 id=&#34;产品特点&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#产品特点&#34;&gt;#&lt;/a&gt; 产品特点&lt;/h2&gt;
+&lt;h2 id=&#34;产品特点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#产品特点&#34;&gt;#&lt;/a&gt; 产品特点&lt;/h2&gt;
 &lt;p&gt;小宇宙作为即刻产品矩阵中的一员，继承了即刻的 RSS 订阅模式，是一款泛用型播客。而相对应的则是以喜马拉雅为代表的平台型播客。下面简单介绍一下两者的区别：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;平台型播客：播客制作者需要将内容上传到平台服务器，然后经过审核和编辑发布后用户才能收听。&lt;/li&gt;
 &lt;li&gt;泛用型播客：用户只需添加播客制作方的 RSS 地址，就可以直接和制作方建立端对端的订阅关系。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;在不同平台型播客订阅的节目需要来回切换，而使用泛用型播客，则可以把所有的播客地址收纳到一个客户端来收听，更加方便省心。并且使用 RSS 订阅模式可以减少平台对内容的干涉，因此用户选择更加丰富，管理播客更加方便。&lt;/p&gt;
-&lt;h2 id=&#34;创始故事&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#创始故事&#34;&gt;#&lt;/a&gt; 创始故事&lt;/h2&gt;
+&lt;h2 id=&#34;创始故事&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#创始故事&#34;&gt;#&lt;/a&gt; 创始故事&lt;/h2&gt;
 &lt;p&gt;小宇宙播客是即刻旗下的一款产品，小宇宙的 CEO 是 Kyth，你可以在即刻 App 上找到他，里面有一些 Kyth 关于小宇宙播客这个产品的思考。&lt;/p&gt;
-&lt;h2 id=&#34;演讲视频&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#演讲视频&#34;&gt;#&lt;/a&gt; 演讲视频&lt;/h2&gt;
+&lt;h2 id=&#34;演讲视频&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#演讲视频&#34;&gt;#&lt;/a&gt; 演讲视频&lt;/h2&gt;
 &lt;p&gt;发布日期：2022 年 1 月&lt;/p&gt;
-&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=508248294&amp;bvid=BV17u411m7Sf&amp;cid=483562681&amp;p=1&amp;high_quality=1&amp;danmaku=0&amp;autoplay=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
-&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;p&gt;&amp;lt;iframe src=&amp;quot;&lt;a href=&#34;//player.bilibili.com/player.html?aid=508248294&amp;amp;bvid=BV17u411m7Sf&amp;amp;cid=483562681&amp;amp;p=1&amp;amp;high_quality=1&amp;amp;danmaku=0&amp;amp;autoplay=0&#34;&gt;//player.bilibili.com/player.html?aid=508248294&amp;amp;bvid=BV17u411m7Sf&amp;amp;cid=483562681&amp;amp;p=1&amp;amp;high_quality=1&amp;amp;danmaku=0&amp;amp;autoplay=0&lt;/a&gt;&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot; width=&amp;quot;100%&amp;quot; height=&amp;quot;500&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLnhpYW95dXpob3VmbS5jb20veGlhby15dS16aG91LWt5dGgtZmVuLXhpYW5nLXlpLXhpZS13by1tZW4td2VpLWJvLWtlLXp1by1kZS14aWFvLXdhbi1qdS8=&#34;&gt;小宇宙 kyth：分享一些我们为播客做的小玩具&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cud29zaGlwbS5jb20vZXZhbHVhdGluZy80MDYxNzg0Lmh0bWw=&#34;&gt;产品分析 | 小宇宙 —— 为播客而生&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.xiaoyuzhoufm.com/xiao-yu-zhou-kyth-fen-xiang-yi-xie-wo-men-wei-bo-ke-zuo-de-xiao-wan-ju/&#34;&gt;小宇宙 kyth：分享一些我们为播客做的小玩具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.woshipm.com/evaluating/4061784.html&#34;&gt;产品分析 | 小宇宙 —— 为播客而生&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -139,31 +139,31 @@
             <category>商业</category>
             <category>创业</category>
             <pubDate>Sat, 06 Apr 2024 10:32:14 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/business/dejavu-banner.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;简介&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h2&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/business/dejavu-banner.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h2&gt;
 &lt;p&gt;「多抓鱼」是一个主营图书和耐用消费品二手循环服务的平台，年销售额已经过亿元。在循环经济快速发展的当下，成为一个亮眼的二手物品交易平台。&lt;/p&gt;
 &lt;p&gt;slogan：&lt;strong&gt;真正的好东西值得买两次&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;商业模式&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#商业模式&#34;&gt;#&lt;/a&gt; 商业模式&lt;/h2&gt;
+&lt;h2 id=&#34;商业模式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#商业模式&#34;&gt;#&lt;/a&gt; 商业模式&lt;/h2&gt;
 &lt;p&gt;随着二手市场愈发火热，入局者也在增多。近年来，线上二手书交易平台层出不穷，孔夫子旧书网、闲鱼以用户之间相互交易为主的 C2C 模式进入大众视野，多抓鱼则以由平台把书买走再卖出的 C2B2C 买断模式为主。&lt;/p&gt;
 &lt;p&gt;据悉，多抓鱼采用的 C2B2C 买断模式通过自建运营回收系统、标准化定价体制，让二手书籍的交易更具标准化。&lt;/p&gt;
 &lt;p&gt;消费者若想出售书籍，直接打开多抓鱼 App 点击卖东西页面即可，卖家通过扫描书籍背后的 ISBN 码可查看书籍是否可出售，售价也会显示在页面中。当卖家决定销售商品后，多抓鱼将安排快递免费上门取货，系统审核书籍通过后将对卖家付款。&lt;/p&gt;
-&lt;h2 id=&#34;创始人故事&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#创始人故事&#34;&gt;#&lt;/a&gt; 创始人故事&lt;/h2&gt;
+&lt;h2 id=&#34;创始人故事&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#创始人故事&#34;&gt;#&lt;/a&gt; 创始人故事&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;魏颖，多抓鱼创始人、CEO。前知乎市场总监，负责知乎旗下产品线的品牌建设与推广策略。熟悉魏颖的人称她为 “猫助”。&lt;/li&gt;
 &lt;li&gt;陈拓，多抓鱼 CTO。前知乎商业产品负责人、豆瓣社区开发负责人。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;演讲视频&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#演讲视频&#34;&gt;#&lt;/a&gt; 演讲视频&lt;/h2&gt;
-&lt;h3 id=&#34;在中国开一家二手书店&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#在中国开一家二手书店&#34;&gt;#&lt;/a&gt; 在中国开一家二手书店&lt;/h3&gt;
+&lt;h2 id=&#34;演讲视频&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#演讲视频&#34;&gt;#&lt;/a&gt; 演讲视频&lt;/h2&gt;
+&lt;h3 id=&#34;在中国开一家二手书店&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#在中国开一家二手书店&#34;&gt;#&lt;/a&gt; 在中国开一家二手书店&lt;/h3&gt;
 &lt;p&gt;发布日期：2018 年 10 月&lt;/p&gt;
-&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=34440102&amp;bvid=BV19t411R7FR&amp;cid=60328869&amp;page=1&amp;high_quality=1&amp;danmaku=0&amp;autoplay=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
-&lt;h3 id=&#34;如何通过软硬件开发捡破烂&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#如何通过软硬件开发捡破烂&#34;&gt;#&lt;/a&gt; 如何通过软硬件开发捡破烂&lt;/h3&gt;
+&lt;p&gt;&amp;lt;iframe src=&amp;quot;&lt;a href=&#34;//player.bilibili.com/player.html?aid=34440102&amp;amp;bvid=BV19t411R7FR&amp;amp;cid=60328869&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&amp;amp;autoplay=0&#34;&gt;//player.bilibili.com/player.html?aid=34440102&amp;amp;bvid=BV19t411R7FR&amp;amp;cid=60328869&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&amp;amp;autoplay=0&lt;/a&gt;&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot; width=&amp;quot;100%&amp;quot; height=&amp;quot;500&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+&lt;h3 id=&#34;如何通过软硬件开发捡破烂&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#如何通过软硬件开发捡破烂&#34;&gt;#&lt;/a&gt; 如何通过软硬件开发捡破烂&lt;/h3&gt;
 &lt;p&gt;发布日期：2022 年 1 月&lt;/p&gt;
-&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=635718224&amp;bvid=BV1Gb4y1J78D&amp;cid=483562386&amp;p=1&amp;high_quality=1&amp;danmaku=0&amp;autoplay=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
-&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;p&gt;&amp;lt;iframe src=&amp;quot;&lt;a href=&#34;//player.bilibili.com/player.html?aid=635718224&amp;amp;bvid=BV1Gb4y1J78D&amp;amp;cid=483562386&amp;amp;p=1&amp;amp;high_quality=1&amp;amp;danmaku=0&amp;amp;autoplay=0&#34;&gt;//player.bilibili.com/player.html?aid=635718224&amp;amp;bvid=BV1Gb4y1J78D&amp;amp;cid=483562386&amp;amp;p=1&amp;amp;high_quality=1&amp;amp;danmaku=0&amp;amp;autoplay=0&lt;/a&gt;&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot; width=&amp;quot;100%&amp;quot; height=&amp;quot;500&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuemdzd2NuLmNvbS9hcnRpY2xlLzIwMjEwOS8yMDIxMDkyNjE1MjYyOTEyMjYuaHRtbA==&#34;&gt;多抓鱼线下限时店受追捧 是真火爆还是昙花一现&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudG10cG9zdC5jb20vNTAzOTgwNS5odG1s&#34;&gt;当多抓鱼卖起二手衣，还有 “豆瓣” 内味儿吗？&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly8zNmtyLmNvbS9wLzE3MzY3MDE0NjM0NzcyNTY=&#34;&gt;5 周岁的多抓鱼，会成为下一个豆瓣吗？&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zgswcn.com/article/202109/202109261526291226.html&#34;&gt;多抓鱼线下限时店受追捧 是真火爆还是昙花一现&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tmtpost.com/5039805.html&#34;&gt;当多抓鱼卖起二手衣，还有 “豆瓣” 内味儿吗？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://36kr.com/p/1736701463477256&#34;&gt;5 周岁的多抓鱼，会成为下一个豆瓣吗？&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -178,7 +178,7 @@
 &lt;p&gt;如何在自家的桌子上成功经营一家企业？&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;这是一本居家创业实用指南，用全球实践案例展示在家创业的灵活性、自由度和成本效益。&lt;/p&gt;
-&lt;h2 id=&#34;在家创业的优势和劣势&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#在家创业的优势和劣势&#34;&gt;#&lt;/a&gt; 在家创业的优势和劣势&lt;/h2&gt;
+&lt;h2 id=&#34;在家创业的优势和劣势&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#在家创业的优势和劣势&#34;&gt;#&lt;/a&gt; 在家创业的优势和劣势&lt;/h2&gt;
 &lt;details class=&#34;success&#34;&gt;&lt;summary&gt;在家创业的优势：&lt;/summary&gt;&lt;div&gt;
 &lt;ul&gt;
 &lt;li&gt;成本更低&lt;/li&gt;
@@ -211,7 +211,7 @@
 &lt;p&gt;&lt;strong&gt;更小的压力 + 更多的时间 = 更高的效率&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;如果你能在一天中找到额外的时间来做让自己真正感觉舒服的事情，那么你每一天都可以完成更多工作。你做的工作越有价值，你的效率就越高，相应地，你就能创造更多的收入。&lt;/p&gt;
 &lt;p&gt;这个世界要么充满了商业机会，要么所有值得做的事情都已经被别人做得很好了，而这取决于你是一个什么样的人。&lt;/p&gt;
-&lt;h2 id=&#34;经典商业模式&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#经典商业模式&#34;&gt;#&lt;/a&gt; 经典商业模式&lt;/h2&gt;
+&lt;h2 id=&#34;经典商业模式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#经典商业模式&#34;&gt;#&lt;/a&gt; 经典商业模式&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;发现需求&lt;/li&gt;
 &lt;li&gt;填补市场缺口&lt;/li&gt;
@@ -232,28 +232,28 @@
             <link>https://luhuadong.com/startup/innovation-entrepreneurship-competition.html</link>
             <category>创业</category>
             <pubDate>Sat, 04 Dec 2021 15:14:42 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;hackaday-prize&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hackaday-prize&#34;&gt;#&lt;/a&gt; HACKADAY PRIZE&lt;/h2&gt;
+            <description><![CDATA[ &lt;h2 id=&#34;hackaday-prize&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hackaday-prize&#34;&gt;#&lt;/a&gt; HACKADAY PRIZE&lt;/h2&gt;
 &lt;p&gt;Hackaday Prize 是一个全球性的硬件设计挑战，聚焦于广泛和有影响力的创新。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wcml6ZS5zdXBwbHlmcmFtZS5jb20v&#34;&gt;HACKADAY PRIZE 2021&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://prize.supplyframe.com/&#34;&gt;HACKADAY PRIZE 2021&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;中国硬件创新创客大赛&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#中国硬件创新创客大赛&#34;&gt;#&lt;/a&gt; 中国硬件创新创客大赛&lt;/h2&gt;
+&lt;h2 id=&#34;中国硬件创新创客大赛&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#中国硬件创新创客大赛&#34;&gt;#&lt;/a&gt; 中国硬件创新创客大赛&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;主办单位：深圳华秋电子有限公司&lt;/li&gt;
 &lt;li&gt;相关渠道：硬声 App&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
-&lt;p&gt;陈遂伯，现任华秋电子董事长兼 CEO。曾打造 “长沙聚丰网络（恒大高新 002591 已收购）、电子发烧友网、PC6 下载站、亲亲宝贝、纳九物联” 多个百万级流量互联网及产业互联网平台。主导战略投资 “物联网操作系统 RT-Thread”、“聚洵半导体”、国产 EDA 软件等知名产业生态项目。&lt;br&gt;
-曾海银，电子发烧友网 - 联合创始人，拥有 16 年以上的互联网运营管理经验，曾参与主导深圳市 11 届运动会智能场馆系统集成项目，并荣获国家建设部 “华夏科技进步奖”。 自 2005 年加入 eetimes 中国至创立电子发烧友网电子工程师社区以来，已从事电子科技媒体行业 15 余年，在数字媒体领域有丰富的经验，孜孜不倦地推动硬科技的发展。&lt;br&gt;
-「华秋」最早是由 2009 年成立的电子工程师社区 “电子发烧友网” 演变而来，36 氪曾进行过报道。创始人陈遂伯是电子工程师出身，因此公司业务布局思路最初也来自创始人陈遂伯在工作中遇到的问题，比如缺少好的交流平台、找货难、假货多、中小需求不被重视、中小企业服务不标准化、服务效率低且体验不好等。与此同时，电子产品的 70% 的决策权来源于研发工程师，华秋也将工程师当成核心用户群体，电子发烧友网目前已经拥有 400 多万注册用户，其中 200 多万为工程师人群。&lt;br&gt;
+&lt;p&gt;陈遂伯，现任华秋电子董事长兼 CEO。曾打造 “长沙聚丰网络（恒大高新 002591 已收购）、电子发烧友网、PC6 下载站、亲亲宝贝、纳九物联” 多个百万级流量互联网及产业互联网平台。主导战略投资 “物联网操作系统 RT-Thread”、“聚洵半导体”、国产 EDA 软件等知名产业生态项目。&lt;br /&gt;
+曾海银，电子发烧友网 - 联合创始人，拥有 16 年以上的互联网运营管理经验，曾参与主导深圳市 11 届运动会智能场馆系统集成项目，并荣获国家建设部 “华夏科技进步奖”。 自 2005 年加入 eetimes 中国至创立电子发烧友网电子工程师社区以来，已从事电子科技媒体行业 15 余年，在数字媒体领域有丰富的经验，孜孜不倦地推动硬科技的发展。&lt;br /&gt;
+「华秋」最早是由 2009 年成立的电子工程师社区 “电子发烧友网” 演变而来，36 氪曾进行过报道。创始人陈遂伯是电子工程师出身，因此公司业务布局思路最初也来自创始人陈遂伯在工作中遇到的问题，比如缺少好的交流平台、找货难、假货多、中小需求不被重视、中小企业服务不标准化、服务效率低且体验不好等。与此同时，电子产品的 70% 的决策权来源于研发工程师，华秋也将工程师当成核心用户群体，电子发烧友网目前已经拥有 400 多万注册用户，其中 200 多万为工程师人群。&lt;br /&gt;
 「华秋」希望利用信息化与大数据技术来变革电子行业。公司已经围绕电子工程师的各类需求形成了包括电子工程师社区、方案开发、高多层 PCB 线路板制造、电子元器件电商、SMT 贴片、PCBA 加工等在内的一站式电子产业链解决方案。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&#34;slush-asia-科技创新大赛&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#slush-asia-科技创新大赛&#34;&gt;#&lt;/a&gt; Slush Asia 科技创新大赛&lt;/h2&gt;
+&lt;h2 id=&#34;slush-asia-科技创新大赛&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#slush-asia-科技创新大赛&#34;&gt;#&lt;/a&gt; Slush Asia 科技创新大赛&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;合作伙伴：社会价值投资联盟 CASVI&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;sdgs-创业挑战赛&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#sdgs-创业挑战赛&#34;&gt;#&lt;/a&gt; SDGs 创业挑战赛&lt;/h2&gt;
-&lt;h2 id=&#34;ygt-青年环保创新计划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#ygt-青年环保创新计划&#34;&gt;#&lt;/a&gt; YGT 青年环保创新计划&lt;/h2&gt;
+&lt;h2 id=&#34;sdgs-创业挑战赛&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sdgs-创业挑战赛&#34;&gt;#&lt;/a&gt; SDGs 创业挑战赛&lt;/h2&gt;
+&lt;h2 id=&#34;ygt-青年环保创新计划&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ygt-青年环保创新计划&#34;&gt;#&lt;/a&gt; YGT 青年环保创新计划&lt;/h2&gt;
  ]]></description>
         </item>
         <item>
@@ -263,20 +263,20 @@
             <category>创业</category>
             <category>碳中和</category>
             <pubDate>Tue, 02 Nov 2021 16:33:37 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/zerowaste/towards-zero-carbon.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;怎么理解碳中和&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#怎么理解碳中和&#34;&gt;#&lt;/a&gt; 怎么理解 “碳中和”？&lt;/h2&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/zerowaste/towards-zero-carbon.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;怎么理解碳中和&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#怎么理解碳中和&#34;&gt;#&lt;/a&gt; 怎么理解 “碳中和”？&lt;/h2&gt;
 &lt;p&gt;我们可以把 30・60 目标（2030 年实现碳达峰，2060 年实现碳中和）看做一场社会运动，当然不单只是中国，全世界都在为碳中和的目标努力。只是由于发展阶段不同，各个国家所制定的计划不一样而已。&lt;/p&gt;
 &lt;p&gt;而这场社会运动牵涉地球上的所有生物，因此我们必须有 “人类命运共同体” 的意识，尽快从以化石燃料能源时代全面迈入绿色能源时代。你可以把它理解为要&lt;strong&gt;将整个人类社会的底座替换掉&lt;/strong&gt;，时间紧任务重，各行各业都会受到影响。&lt;/p&gt;
 &lt;p&gt;因此，“碳中和” 也是一条创业的绝佳赛道，一方面国家和企业都需要创新的技术和方式，以低成本平稳实现 “零碳”；另一方面也会相继出现政策调控、资金流动，以及许多行业标准的重新制定，充满了机遇与挑战。&lt;/p&gt;
-&lt;h2 id=&#34;以后家家户户都会有碳排放表吗&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#以后家家户户都会有碳排放表吗&#34;&gt;#&lt;/a&gt; 以后家家户户都会有 “碳排放表” 吗？&lt;/h2&gt;
+&lt;h2 id=&#34;以后家家户户都会有碳排放表吗&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#以后家家户户都会有碳排放表吗&#34;&gt;#&lt;/a&gt; 以后家家户户都会有 “碳排放表” 吗？&lt;/h2&gt;
 &lt;p&gt;我并不认为未来每个家庭都需要 “碳排放表” 这样的监测设备。&lt;/p&gt;
 &lt;p&gt;一来难以实时监测所有的碳排放量。目前需要监测碳排放量的主要是高耗能企业，例如电力、煤炭、钢铁、水泥等行业。这种监测相对容易，同时也是 CCUS 的主要应用场合。对于家庭、个人的碳排放监测，因为体量太小、监测面太分散，所以很难采集到准确数据。并且，采集数据是需要仪器的，传感器、设备的生产制造也会造成碳排放和额外的成本。&lt;/p&gt;
 &lt;p&gt;二来没有太大意义。由于个人或家庭的碳排放数据难以准确采集，所以就失去了安装 “碳排放表” 的意义。&lt;/p&gt;
 &lt;p&gt;那是不是就不能衡量一个家庭或个人的碳排放了？&lt;/p&gt;
 &lt;p&gt;我觉得不。首先，每个家庭的电表其实就可以作为 “碳排放表”。通过采集每天消耗多少度电，电力的来源是化石燃料还是清洁能源，占比是多少等因素，可以大致衡量其碳排放量，这一部分由电力部门来统计即可。另外，对于其他日常消费行为，例如今天在交通上消耗了多少能源，购买了多少食物，它们的碳足迹怎么样？则可以单独拎出来计算。所以，实际上它应该是一个统计问题，而不是安装一个 “碳排放表” 就能采集出来的。&lt;/p&gt;
-&lt;h2 id=&#34;可以把碳中和当作互联网吗&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#可以把碳中和当作互联网吗&#34;&gt;#&lt;/a&gt; 可以把碳中和当作互联网吗？&lt;/h2&gt;
+&lt;h2 id=&#34;可以把碳中和当作互联网吗&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#可以把碳中和当作互联网吗&#34;&gt;#&lt;/a&gt; 可以把碳中和当作互联网吗？&lt;/h2&gt;
 &lt;p&gt;我的答案是 “可以”，也 “不可以”。&lt;/p&gt;
-&lt;p&gt;知乎上有一个问题「&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuemhpaHUuY29tL3F1ZXN0aW9uLzQ4MDY2NDI3OQ==&#34;&gt;碳中和 作为年轻人如何切入这个行业的工作呢？&lt;/span&gt;」，回答里面就有人说 “把碳中和当作互联网就好了…”。&lt;/p&gt;
+&lt;p&gt;知乎上有一个问题「&lt;a href=&#34;https://www.zhihu.com/question/480664279&#34;&gt;碳中和 作为年轻人如何切入这个行业的工作呢？&lt;/a&gt;」，回答里面就有人说 “把碳中和当作互联网就好了...”。&lt;/p&gt;
 &lt;p&gt;我在一定层度上认同，就像我前面说的，碳中和就是要把驱动人类社会发展的底座给替换掉，这可是一件大事。所以可以像互联网的发展一样，和各行各业重新整合，将其融入到生活的每个角落的，从而实现 “零碳城市”。&lt;/p&gt;
 &lt;p&gt;但又不能完全把它当作互联网。因为碳中和只是一个目标，不是一种方法。而实现碳中和这个目标，就要许多创新的方法，互联网本身就是一种帮助实现碳中和的方式。比如远程办公可以减少交通碳排放、物联网和人工智能可以提高资源利用效率等等。&lt;/p&gt;
 &lt;p&gt;所以我觉得，从思维上是可以把碳中和当作互联网，去思考各个行业的未来。但从实际行动上来看，互联网只是一种帮助实现碳中和的手段，两者是有本质区别的。&lt;/p&gt;
@@ -288,13 +288,13 @@
             <link>https://luhuadong.com/startup/how-to-be-a-successful-founder.html</link>
             <category>创业</category>
             <pubDate>Sat, 30 Oct 2021 23:49:14 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;早期能力&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#早期能力&#34;&gt;#&lt;/a&gt; 早期能力&lt;/h2&gt;
+            <description><![CDATA[ &lt;h2 id=&#34;早期能力&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#早期能力&#34;&gt;#&lt;/a&gt; 早期能力&lt;/h2&gt;
 &lt;p&gt;创始人在创业早期最重要的两个能力：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;对市场的洞察力&lt;/li&gt;
 &lt;li&gt;对客户的影响力&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;需要具备的优秀精神品质&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#需要具备的优秀精神品质&#34;&gt;#&lt;/a&gt; 需要具备的优秀精神品质&lt;/h2&gt;
+&lt;h2 id=&#34;需要具备的优秀精神品质&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#需要具备的优秀精神品质&#34;&gt;#&lt;/a&gt; 需要具备的优秀精神品质&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;富有同情心（Have Empathy）&lt;/li&gt;
 &lt;li&gt;努力工作（Work hard）&lt;/li&gt;
@@ -304,7 +304,7 @@
 &lt;li&gt;与客户沟通（Talk to customers）&lt;/li&gt;
 &lt;li&gt;从错误中学习（Learn from mistakes）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;公司创始人的主要工作是什么&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#公司创始人的主要工作是什么&#34;&gt;#&lt;/a&gt; 公司创始人的主要工作是什么？&lt;/h2&gt;
+&lt;h2 id=&#34;公司创始人的主要工作是什么&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#公司创始人的主要工作是什么&#34;&gt;#&lt;/a&gt; 公司创始人的主要工作是什么？&lt;/h2&gt;
 &lt;p&gt;他的主要工作很可能是讲故事。向员工讲故事，向投资人讲故事，向媒体讲故事，向用户讲故事。这样可以团结团队、获得投资和报道，完成用户营销。&lt;/p&gt;
 &lt;p&gt;每个人都喜欢听到一个好故事，你的故事越吸引人，就越容易成功。&lt;/p&gt;
 &lt;p&gt;可是，大多数人都不具备讲故事的能力，所以我们应该向那些善于讲故事的人学习。&lt;/p&gt;
@@ -317,11 +317,11 @@
 &lt;li&gt;&lt;strong&gt;由于这件事&lt;/strong&gt;：主人公下定决心，展开新的冒险，找到出路。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;最终&lt;/strong&gt;：问题解决了，主人公过上了美好生活。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy53b3NoaXBtLmNvbS9pdC82MTIxLmh0bWw=&#34;&gt;成为优秀创始人的必要条件&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9sYW54dWV6aGFvLzIwMTkvMTIvMTcvd2hhdC1tYWtlcy1hLXN1Y2Nlc3NmdWwtZm91bmRlci8/c2g9MTEzMTNiNzI1ZWE5&#34;&gt;What Makes a Successful Founder&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucmVzaWxpZW5jZS1pbnN0aXR1dGUtZXVyb3BlLmNvbS9ob3ctdG8tYmUtYS1zdWNjZXNzZnVsLWZvdW5kZXIv&#34;&gt;How to Be a Successful Founder&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.woshipm.com/it/6121.html&#34;&gt;成为优秀创始人的必要条件&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.forbes.com/sites/lanxuezhao/2019/12/17/what-makes-a-successful-founder/?sh=11313b725ea9&#34;&gt;What Makes a Successful Founder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.resilience-institute-europe.com/how-to-be-a-successful-founder/&#34;&gt;How to Be a Successful Founder&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -334,99 +334,99 @@
             <category>碳中和</category>
             <pubDate>Tue, 26 Oct 2021 16:55:50 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;您想在创业的同时保护环境吗？ 本文介绍的这些绿色商业理念可以帮助您做到这一点。&lt;/p&gt;
-&lt;p&gt;如今，消费者对&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYnVzaW5lc3NuZXdzZGFpbHkuY29tLzQ2NzktY29ycG9yYXRlLXNvY2lhbC1yZXNwb25zaWJpbGl0eS5odG1s&#34;&gt;企业社会责任&lt;/span&gt; （CSR）的兴趣与他们对公司的产品和服务一样感兴趣。这对有环保意识的企业家来说尤其是个好消息。&lt;/p&gt;
+&lt;p&gt;如今，消费者对&lt;a href=&#34;https://www.businessnewsdaily.com/4679-corporate-social-responsibility.html&#34;&gt;企业社会责任&lt;/a&gt; （CSR）的兴趣与他们对公司的产品和服务一样感兴趣。这对有环保意识的企业家来说尤其是个好消息。&lt;/p&gt;
 &lt;p&gt;因此，我们概述了 23 种环保、绿色产业的商业理念，既可以赚钱同时又可以拯救地球。&lt;/p&gt;
-&lt;h2 id=&#34;什么是绿色产业业务&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#什么是绿色产业业务&#34;&gt;#&lt;/a&gt; 什么是绿色产业业务？&lt;/h2&gt;
-&lt;p&gt;绿色工业企业是使用&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cud3JpLm9yZy9ibG9nLzIwMTEvMDgvZW5jb3VhZ2luZy1ncmVlbi1pbmR1c3RyeS1pbm5vdmF0aW9u&#34;&gt;可持续材料&lt;/span&gt; 制造其产品的企业。绿色工业企业的目标是在减少碳排放的同时尽可能少地使用水、能源和原材料，或者寻找以可再生和生态友好的方式利用这些材料的方法。这种商业方法最大限度地减少了公司对自然资源的压力和对气候变化的贡献。在某些情况下，如果产生废物，则将其作为能源或原材料进行再利用。&lt;/p&gt;
-&lt;h2 id=&#34;什么是绿色商业模式&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#什么是绿色商业模式&#34;&gt;#&lt;/a&gt; 什么是绿色商业模式？&lt;/h2&gt;
-&lt;p&gt;在&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oYnIub3JnLzIwMTUvMDEvd2hhdC1pcy1hLWJ1c2luZXNzLW1vZGVs&#34;&gt;传统商业模式&lt;/span&gt;下，公司会列出原材料预算、设计流程、服务交付或产品分销方法。而绿色商业模式则在确保充足收入的同时，优先考虑将公司对环境的影响降至最低，而不是将利润最大化。它可能涉及限制使用化石燃料，同时强调由太阳能电池板提供的电力和其他大幅降低能源消耗的方法。&lt;/p&gt;
-&lt;h2 id=&#34;如何开展绿色业务&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#如何开展绿色业务&#34;&gt;#&lt;/a&gt; 如何开展绿色业务？&lt;/h2&gt;
+&lt;h2 id=&#34;什么是绿色产业业务&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么是绿色产业业务&#34;&gt;#&lt;/a&gt; 什么是绿色产业业务？&lt;/h2&gt;
+&lt;p&gt;绿色工业企业是使用&lt;a href=&#34;https://www.wri.org/blog/2011/08/encouaging-green-industry-innovation&#34;&gt;可持续材料&lt;/a&gt; 制造其产品的企业。绿色工业企业的目标是在减少碳排放的同时尽可能少地使用水、能源和原材料，或者寻找以可再生和生态友好的方式利用这些材料的方法。这种商业方法最大限度地减少了公司对自然资源的压力和对气候变化的贡献。在某些情况下，如果产生废物，则将其作为能源或原材料进行再利用。&lt;/p&gt;
+&lt;h2 id=&#34;什么是绿色商业模式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么是绿色商业模式&#34;&gt;#&lt;/a&gt; 什么是绿色商业模式？&lt;/h2&gt;
+&lt;p&gt;在&lt;a href=&#34;https://hbr.org/2015/01/what-is-a-business-model&#34;&gt;传统商业模式&lt;/a&gt;下，公司会列出原材料预算、设计流程、服务交付或产品分销方法。而绿色商业模式则在确保充足收入的同时，优先考虑将公司对环境的影响降至最低，而不是将利润最大化。它可能涉及限制使用化石燃料，同时强调由太阳能电池板提供的电力和其他大幅降低能源消耗的方法。&lt;/p&gt;
+&lt;h2 id=&#34;如何开展绿色业务&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#如何开展绿色业务&#34;&gt;#&lt;/a&gt; 如何开展绿色业务？&lt;/h2&gt;
 &lt;p&gt;随着消费者开始关注企业社会责任（CSR），更多的绿色企业应运而生，但气候变化带来的问题需要许多解决方案。因此，要开展绿色业务，首先要看看您所在市场中目前有哪些还没有人提供的环保服务。然后想想你认识的同样具有环保意识的人，你可以邀请他们加入你的团队。&lt;/p&gt;
 &lt;p&gt;当您开展绿色业务时，请改变您的生活方式以反映您的业务价值和服务。&lt;/p&gt;
-&lt;h2 id=&#34;哪些公司是环保的&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#哪些公司是环保的&#34;&gt;#&lt;/a&gt; 哪些公司是环保的？&lt;/h2&gt;
+&lt;h2 id=&#34;哪些公司是环保的&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#哪些公司是环保的&#34;&gt;#&lt;/a&gt; 哪些公司是环保的？&lt;/h2&gt;
 &lt;p&gt;环保（eco-friendly）公司可能包括户外服装品牌、制造可重复使用塑料瓶的企业、环保清洁公司、安装太阳能电池板的企业、当地回收企业以及许多其他潜在企业。如果您想开始自己的环保、绿色产业业务，请考虑以下 23 个想法中的任何一个。&lt;/p&gt;
-&lt;h2 id=&#34;1-墨水补充业务&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-墨水补充业务&#34;&gt;#&lt;/a&gt; 1、墨水补充业务&lt;/h2&gt;
+&lt;h2 id=&#34;1-墨水补充业务&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-墨水补充业务&#34;&gt;#&lt;/a&gt; 1、墨水补充业务&lt;/h2&gt;
 &lt;p&gt;开始墨水笔芯和墨水补充（ink-refill）业务不仅是一个高利润的决定，它也可以是一个具有环保意识的决定。考虑到每年浪费的纸张数量，您可能会质疑重新填充墨盒是否真的有助于保护环境。但是，通过重复使用旧墨盒，垃圾填埋场中积累的不可生物降解的废物会减少。在商业世界中，纸张仍然是必需的，但空墨盒不是。&lt;/p&gt;
-&lt;img data-src=&#34;/images/startup/ink-refill-station.jpg&#34; width=&#34;600&#34;&gt;
-&lt;h2 id=&#34;2-环保刊物&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2-环保刊物&#34;&gt;#&lt;/a&gt; 2、环保刊物&lt;/h2&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/startup/ink-refill-station.jpg&amp;quot; width=&amp;quot;600&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;2-环保刊物&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-环保刊物&#34;&gt;#&lt;/a&gt; 2、环保刊物&lt;/h2&gt;
 &lt;p&gt;如果您喜欢写作，请开始自己的环保出版物。您的行为可以对世界产生重大影响。通过揭穿流行的神话并分享我们生活的世界的真相，您可以帮助消费者重新思考他们的行为如何影响地球。&lt;/p&gt;
-&lt;img data-src=&#34;/images/startup/ec_covers.jpg&#34; width=&#34;600&#34;&gt;
-&lt;h2 id=&#34;3-绿色金融&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#3-绿色金融&#34;&gt;#&lt;/a&gt; 3、绿色金融&lt;/h2&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/startup/ec_covers.jpg&amp;quot; width=&amp;quot;600&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;3-绿色金融&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-绿色金融&#34;&gt;#&lt;/a&gt; 3、绿色金融&lt;/h2&gt;
 &lt;p&gt;绿色金融侧重于支持地方、社区层面的项目，重点是可持续、生态友好的农业。绿色金融通常还涉及提供教育机会、为艺术创作和支持当地生态的项目提供资金。&lt;/p&gt;
 &lt;p&gt;绿色金融专注于社会盈利能力。虽然货币利润仍然很重要，但绿色金融的目标是支持为当地社区和生态提供价值的有益项目。&lt;/p&gt;
-&lt;h2 id=&#34;4-环保零售&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#4-环保零售&#34;&gt;#&lt;/a&gt; 4、环保零售&lt;/h2&gt;
-&lt;p&gt;消费者奖励计划深受零售商欢迎，电子商务网站 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9wLmVjb3BsdW0uY29tLw==&#34;&gt;EcoPlum&lt;/span&gt; 也不例外。每次购买，客户都会获得 EcoChipz，可兑换奖励或捐赠给各种环境事业。售出的每件产品还带有第三方绿色认证或等效的生态标签。&lt;/p&gt;
+&lt;h2 id=&#34;4-环保零售&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-环保零售&#34;&gt;#&lt;/a&gt; 4、环保零售&lt;/h2&gt;
+&lt;p&gt;消费者奖励计划深受零售商欢迎，电子商务网站 &lt;a href=&#34;https://shop.ecoplum.com/&#34;&gt;EcoPlum&lt;/a&gt; 也不例外。每次购买，客户都会获得 EcoChipz，可兑换奖励或捐赠给各种环境事业。售出的每件产品还带有第三方绿色认证或等效的生态标签。&lt;/p&gt;
 &lt;p&gt;除了销售可持续采购的产品外，EcoPlum 还制作教育内容，包括行业专家的每月专栏、当地绿色企业列表、回收信息、生态提示以及书籍和视频推荐。如果您正在考虑开设一家零售店，请考虑与一家与您和您的客户有着相似动机和价值观的公司合作。&lt;/p&gt;
-&lt;img data-src=&#34;/images/startup/ecoplum.png&#34; width=&#34;600&#34;&gt;
-&lt;h2 id=&#34;5-可持续建筑材料&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#5-可持续建筑材料&#34;&gt;#&lt;/a&gt; 5、可持续建筑材料&lt;/h2&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/startup/ecoplum.png&amp;quot; width=&amp;quot;600&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;5-可持续建筑材料&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5-可持续建筑材料&#34;&gt;#&lt;/a&gt; 5、可持续建筑材料&lt;/h2&gt;
 &lt;p&gt;您可能不认为建筑是可持续的，但一些公司现在提供可回收材料用于基础设施维修等项目。&lt;/p&gt;
-&lt;p&gt;例如，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5heGloLmNvbS8=&#34;&gt;Axion&lt;/span&gt; 凭借其环保产品，希望改变公司对重建美国基础设施的思考方式。该公司的铁路枕木和桩由消费和工业用途的再生塑料制成，而不是钢铁和混凝土等不可持续的材料。Axion 目前正与长岛铁路等主要合作伙伴合作，以安全、可持续地改善美国的基础设施。&lt;/p&gt;
-&lt;h2 id=&#34;6-有机餐饮&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#6-有机餐饮&#34;&gt;#&lt;/a&gt; 6、有机餐饮&lt;/h2&gt;
+&lt;p&gt;例如，&lt;a href=&#34;http://www.axih.com/&#34;&gt;Axion&lt;/a&gt; 凭借其环保产品，希望改变公司对重建美国基础设施的思考方式。该公司的铁路枕木和桩由消费和工业用途的再生塑料制成，而不是钢铁和混凝土等不可持续的材料。Axion 目前正与长岛铁路等主要合作伙伴合作，以安全、可持续地改善美国的基础设施。&lt;/p&gt;
+&lt;h2 id=&#34;6-有机餐饮&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#6-有机餐饮&#34;&gt;#&lt;/a&gt; 6、有机餐饮&lt;/h2&gt;
 &lt;p&gt;让环保美食家分享他们对食物和环境的热情的一个好方法是创办一家有机餐饮公司。通过为当地活动和商务午餐提供包含有机和当地种植食材的食物、自由放养的肉类以及纯素、无麸质和古餐选择，您将吸引大自然爱好者和健康爱好者。&lt;/p&gt;
 &lt;p&gt;但是，请务必通过尽可能避免使用塑料和纸制品以及将厨余垃圾堆肥来尽量减少对环境的影响。&lt;/p&gt;
-&lt;img data-src=&#34;/images/startup/OrganicCateringServicesFT.jpg&#34; width=&#34;600&#34;&gt;
-&lt;h2 id=&#34;7-环保美容院&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#7-环保美容院&#34;&gt;#&lt;/a&gt; 7、环保美容院&lt;/h2&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/startup/OrganicCateringServicesFT.jpg&amp;quot; width=&amp;quot;600&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;7-环保美容院&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#7-环保美容院&#34;&gt;#&lt;/a&gt; 7、环保美容院&lt;/h2&gt;
 &lt;p&gt;如果美容是您的激情所在，那就开始一项获得大自然认可的美容业务。有机和纯素护发和美容产品随处可见。使这种趋势为您服务的一种方法是开设一家环保美容院。您可以开设一家使用全天然洗发水和护发素的美发沙龙，或者开设一家使用环保和纯素抛光剂和水疗护理的美甲沙龙。&lt;/p&gt;
-&lt;img data-src=&#34;/images/startup/vegan-cruelty-free-beauty-john-masters-organics.png&#34; width=&#34;600&#34;&gt;
-&lt;h2 id=&#34;8-生态环境美化&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#8-生态环境美化&#34;&gt;#&lt;/a&gt; 8、生态环境美化&lt;/h2&gt;
-&lt;p&gt;专业的景观美化可能会使您的草坪和花园看起来不错，但所有这些维护工作并不一定对环境有益。通过一些环保建议和专业知识，您可以帮助房主从字面上和比喻上使他们的院子更环保。&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5zaGVrbm93cy5jb20vaG9tZS1hbmQtZ2FyZGVuaW5nL2FydGljbGVzLzgzMDkwNy82LWVjby1mcmllbmRseS1sYW5kc2NhcGluZy10aXBz&#34;&gt;SheKnows&lt;/span&gt; 推荐人造草皮、抗旱植物和战略性放置的树木作为草坪 节省水、能源和金钱。&lt;/p&gt;
-&lt;h2 id=&#34;9-可持续的活动策划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#9-可持续的活动策划&#34;&gt;#&lt;/a&gt; 9、可持续的活动策划&lt;/h2&gt;
-&lt;p&gt;无论大小，会议和活动都会产生大量废物并消耗宝贵的资源。Green &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYnVzaW5lc3NuZXdzZGFpbHkuY29tLzQxNTktYnVzaW5lc3MtaWRlYS1ldmVudC1wbGFubmVyLmh0bWw=&#34;&gt;活动策划者&lt;/span&gt;利用他们的专业知识和活动策划技巧来寻找环保的场地、材料和住宿。&lt;/p&gt;
-&lt;p&gt;可持续的事件管理不仅对地球有益。根据 [可持续活动指南](&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZ3JlZW5pbmd0aGVibHVlLm9yZy9zaXRlcy9kZWZhdWx0L2ZpbGVzL1N1c3RhaW5hYmxl&#34;&gt;https://www.greeningtheblue.org/sites/default/files/Sustainable&lt;/span&gt; Events Guide May 30 2012 FINAL.pdf)，还有成本优势，而且它为活动组织者创造了积极的形象、供应商和利益相关者，同时提高意识并激发社区的变革。&lt;/p&gt;
-&lt;img data-src=&#34;/images/startup/zerowaste-event-guide-book.png&#34; width=&#34;600&#34;&gt;
-&lt;h2 id=&#34;10-自行车修理和翻新&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#10-自行车修理和翻新&#34;&gt;#&lt;/a&gt; 10、自行车修理和翻新&lt;/h2&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/startup/vegan-cruelty-free-beauty-john-masters-organics.png&amp;quot; width=&amp;quot;600&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;8-生态环境美化&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#8-生态环境美化&#34;&gt;#&lt;/a&gt; 8、生态环境美化&lt;/h2&gt;
+&lt;p&gt;专业的景观美化可能会使您的草坪和花园看起来不错，但所有这些维护工作并不一定对环境有益。通过一些环保建议和专业知识，您可以帮助房主从字面上和比喻上使他们的院子更环保。&lt;a href=&#34;http://www.sheknows.com/home-and-gardening/articles/830907/6-eco-friendly-landscaping-tips&#34;&gt;SheKnows&lt;/a&gt; 推荐人造草皮、抗旱植物和战略性放置的树木作为草坪 节省水、能源和金钱。&lt;/p&gt;
+&lt;h2 id=&#34;9-可持续的活动策划&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#9-可持续的活动策划&#34;&gt;#&lt;/a&gt; 9、可持续的活动策划&lt;/h2&gt;
+&lt;p&gt;无论大小，会议和活动都会产生大量废物并消耗宝贵的资源。Green &lt;a href=&#34;https://www.businessnewsdaily.com/4159-business-idea-event-planner.html&#34;&gt;活动策划者&lt;/a&gt;利用他们的专业知识和活动策划技巧来寻找环保的场地、材料和住宿。&lt;/p&gt;
+&lt;p&gt;可持续的事件管理不仅对地球有益。根据 [可持续活动指南](&lt;a href=&#34;https://www.greeningtheblue.org/sites/default/files/Sustainable&#34;&gt;https://www.greeningtheblue.org/sites/default/files/Sustainable&lt;/a&gt; Events Guide May 30 2012 FINAL.pdf)，还有成本优势，而且它为活动组织者创造了积极的形象、供应商和利益相关者，同时提高意识并激发社区的变革。&lt;/p&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/startup/zerowaste-event-guide-book.png&amp;quot; width=&amp;quot;600&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;10-自行车修理和翻新&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#10-自行车修理和翻新&#34;&gt;#&lt;/a&gt; 10、自行车修理和翻新&lt;/h2&gt;
 &lt;p&gt;短距离骑自行车而不是开车更有利于环境和健康。像大多数交通方式一样，自行车偶尔需要调整。&lt;/p&gt;
 &lt;p&gt;当他们的自行车需要维修或保养时，您可以成为专业的自行车手。如果您有一些额外的空间，您可以购买便宜的旧自行车，修理它们并出售以获取利润。&lt;/p&gt;
-&lt;h2 id=&#34;11-手工制作的全天然有机产品&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#11-手工制作的全天然有机产品&#34;&gt;#&lt;/a&gt; 11、手工制作的全天然 / 有机产品&lt;/h2&gt;
+&lt;h2 id=&#34;11-手工制作的全天然有机产品&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#11-手工制作的全天然有机产品&#34;&gt;#&lt;/a&gt; 11、手工制作的全天然 / 有机产品&lt;/h2&gt;
 &lt;p&gt;肥皂、化妆品和清洁产品只是一些可以使用普通有机材料制成的家用产品。&lt;/p&gt;
-&lt;p&gt;当然，任何人都可以找到糖磨砂膏（sugar scrub）或醋基（vinegar-based）清洁剂的配方并自己动手，但如果您成套包装和销售它们，您的客户就可以方便地获得这些全天然产品。当地市场和活动是销售的好地方，或者您可以开设 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYnVzaW5lc3NuZXdzZGFpbHkuY29tLzQ3MDctZWNvbW1lcmNlLXdlYnNpdGUtZ3VpZGUuaHRtbA==&#34;&gt;在线商店&lt;/span&gt;。&lt;/p&gt;
-&lt;img data-src=&#34;/images/startup/handmade-soap-delivery.jpg&#34; width=&#34;600&#34;&gt;
-&lt;h2 id=&#34;12-生态咨询&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#12-生态咨询&#34;&gt;#&lt;/a&gt; 12、生态咨询&lt;/h2&gt;
+&lt;p&gt;当然，任何人都可以找到糖磨砂膏（sugar scrub）或醋基（vinegar-based）清洁剂的配方并自己动手，但如果您成套包装和销售它们，您的客户就可以方便地获得这些全天然产品。当地市场和活动是销售的好地方，或者您可以开设 &lt;a href=&#34;https://www.businessnewsdaily.com/4707-ecommerce-website-guide.html&#34;&gt;在线商店&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/startup/handmade-soap-delivery.jpg&amp;quot; width=&amp;quot;600&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;12-生态咨询&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#12-生态咨询&#34;&gt;#&lt;/a&gt; 12、生态咨询&lt;/h2&gt;
 &lt;p&gt;您是绿色生活专家吗？开始生态咨询服务。顾问评估家庭和办公室，并提供解决方案，使它们更环保。&lt;/p&gt;
-&lt;p&gt;您可以建议客户将家用电器改用更节能的机器或实施回收计划。为了进一步提高您的可信度，请成为认证的 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jc2UtbmV0Lm9yZy9hZmZpbGlhdGUtY29uc3VsdGFudC8=&#34;&gt;eco-consultant&lt;/span&gt;。&lt;/p&gt;
-&lt;img data-src=&#34;/images/startup/what-is-eco-consulting1.jpg&#34; width=&#34;600&#34;&gt;
-&lt;h2 id=&#34;13-农贸市场小贩&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#13-农贸市场小贩&#34;&gt;#&lt;/a&gt; 13、农贸市场小贩&lt;/h2&gt;
+&lt;p&gt;您可以建议客户将家用电器改用更节能的机器或实施回收计划。为了进一步提高您的可信度，请成为认证的 &lt;a href=&#34;https://cse-net.org/affiliate-consultant/&#34;&gt;eco-consultant&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/startup/what-is-eco-consulting1.jpg&amp;quot; width=&amp;quot;600&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;13-农贸市场小贩&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#13-农贸市场小贩&#34;&gt;#&lt;/a&gt; 13、农贸市场小贩&lt;/h2&gt;
 &lt;p&gt;由于有机运动（the organic movement），那些拥有绿色拇指的人有一个通过在当地农贸市场销售非转基因、无农药产品来赚钱的黄金机会。&lt;/p&gt;
 &lt;p&gt;与使用传统耕作方法（包括杀虫剂）的竞争种植者相比，销售天然种植的水果和蔬菜为您提供了明显的优势。在开始销售之前，您可能必须先获得当地卫生委员会的批准和 / 或认证。&lt;/p&gt;
-&lt;img data-src=&#34;/images/startup/farmers-market-vendor.jpg&#34; width=&#34;600&#34;&gt;
-&lt;h2 id=&#34;14-绿色家政服务&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#14-绿色家政服务&#34;&gt;#&lt;/a&gt; 14、绿色家政服务&lt;/h2&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/startup/farmers-market-vendor.jpg&amp;quot; width=&amp;quot;600&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;14-绿色家政服务&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#14-绿色家政服务&#34;&gt;#&lt;/a&gt; 14、绿色家政服务&lt;/h2&gt;
 &lt;p&gt;对于在职父母来说，打扫房子可能是待办事项清单的底部。通过提供从轻度除尘到繁重杂务（例如清洁厨房和浴室）的服务，仅使用经过批准的全天然和环保清洁产品，将自己推销为解决家政问题的绿色解决方案。&lt;/p&gt;
 &lt;p&gt;按小时收费或以固定费用创建您自己的服务包。请记住，您的客户让您可以进入他们的家。在向陌生人做广告之前，先与您认识的人建立可信赖的声誉。&lt;/p&gt;
-&lt;img data-src=&#34;/images/startup/Green-housekeeping-services.jpg&#34; width=&#34;600&#34;&gt;
-&lt;h2 id=&#34;15-升级家具&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#15-升级家具&#34;&gt;#&lt;/a&gt; 15、“升级” 家具&lt;/h2&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/startup/Green-housekeeping-services.jpg&amp;quot; width=&amp;quot;600&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;15-升级家具&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#15-升级家具&#34;&gt;#&lt;/a&gt; 15、“升级” 家具&lt;/h2&gt;
 &lt;p&gt;不要扔掉旧的、破损的家具。借助基本模板和电动工具，您可以将椅子、桌子和梳妆台分解并重新组装成可以绘画和出售的新作品。搁架和存储单元很容易用木屑制成，根据物品的不同，您甚至可以完全修复一件独特而有价值的家具。&lt;/p&gt;
 &lt;p&gt;或者，您可以重新装饰旧椅子和沙发，赋予它们新的生命。购买二手不仅可以省钱，还有助于保护环境。&lt;/p&gt;
-&lt;img data-src=&#34;/images/startup/upcycle-furniture.jpg&#34; width=&#34;600&#34;&gt;
-&lt;h2 id=&#34;16-绿色特许经营权&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#16-绿色特许经营权&#34;&gt;#&lt;/a&gt; 16、绿色特许经营权&lt;/h2&gt;
-&lt;p&gt;想要经营一家拥有稳固品牌和客户群的企业吗？投资 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYnVzaW5lc3NuZXdzZGFpbHkuY29tLzQ2MjgtZnJhbmNoaXNpbmcuaHRtbA==&#34;&gt;特许经营&lt;/span&gt; 可能是答案。虽然特许经营可能会让人想起快餐店和连锁酒店，但有许多环保的特许经营企业。访问此 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudGhlZnJhbmNoaXNla2luZy5jb20vZ3JlZW4tZnJhbmNoaXNpbmctaW5mb2dyYXBoaWM=&#34;&gt;绿色特许经营目录&lt;/span&gt; 以获取机会列表。&lt;/p&gt;
-&lt;h2 id=&#34;17-二手店&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#17-二手店&#34;&gt;#&lt;/a&gt; 17、二手店&lt;/h2&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/startup/upcycle-furniture.jpg&amp;quot; width=&amp;quot;600&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;16-绿色特许经营权&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#16-绿色特许经营权&#34;&gt;#&lt;/a&gt; 16、绿色特许经营权&lt;/h2&gt;
+&lt;p&gt;想要经营一家拥有稳固品牌和客户群的企业吗？投资 &lt;a href=&#34;https://www.businessnewsdaily.com/4628-franchising.html&#34;&gt;特许经营&lt;/a&gt; 可能是答案。虽然特许经营可能会让人想起快餐店和连锁酒店，但有许多环保的特许经营企业。访问此 &lt;a href=&#34;https://www.thefranchiseking.com/green-franchising-infographic&#34;&gt;绿色特许经营目录&lt;/a&gt; 以获取机会列表。&lt;/p&gt;
+&lt;h2 id=&#34;17-二手店&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#17-二手店&#34;&gt;#&lt;/a&gt; 17、二手店&lt;/h2&gt;
 &lt;p&gt;新事物通常很昂贵，而且很快，这些成本就会加起来。例如，一本新书可能要花费 15 到 30 美元，而一本旧书通常只需几美元。&lt;/p&gt;
 &lt;p&gt;开一家二手店不仅可以为您的客户省钱，而且对环境也有好处。与其将完美的物品扔进垃圾桶，不如鼓励消费者将他们用过的物品捐赠给您，这样其他人就可以从该物品中获得价值。您可以出售旧衣服、外套、书籍、厨房用具和家具。&lt;/p&gt;
-&lt;img data-src=&#34;/images/startup/goodwill.jpeg&#34; width=&#34;600&#34;&gt;
-&lt;h2 id=&#34;18-绿色咨询&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#18-绿色咨询&#34;&gt;#&lt;/a&gt; 18、绿色咨询&lt;/h2&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/startup/goodwill.jpeg&amp;quot; width=&amp;quot;600&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;18-绿色咨询&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#18-绿色咨询&#34;&gt;#&lt;/a&gt; 18、绿色咨询&lt;/h2&gt;
 &lt;p&gt;无论是削减能源成本还是减少碳足迹，企业采用绿色实践的压力很大，而且只会增长。&lt;/p&gt;
-&lt;p&gt;企业可持续发展顾问 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2JhcmJhcmEtZW5nbGVoYXJ0LTU4YjE2OTE5&#34;&gt;Barbara Englehart&lt;/span&gt; 表示，绿色公司有很多好处，包括降低成本、风险和负债，以及提高员工保留率和 生产率。&lt;/p&gt;
+&lt;p&gt;企业可持续发展顾问 &lt;a href=&#34;https://www.linkedin.com/in/barbara-englehart-58b16919&#34;&gt;Barbara Englehart&lt;/a&gt; 表示，绿色公司有很多好处，包括降低成本、风险和负债，以及提高员工保留率和 生产率。&lt;/p&gt;
 &lt;p&gt;“这在商业世界中都是全新的，公司需要帮助，”Englehart 告诉《商业新闻日报》。“五年或十年前，他们并没有在商学院教授可持续性。”&lt;/p&gt;
-&lt;h2 id=&#34;19-太阳能电池板安装&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#19-太阳能电池板安装&#34;&gt;#&lt;/a&gt; 19、太阳能电池板安装&lt;/h2&gt;
+&lt;h2 id=&#34;19-太阳能电池板安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#19-太阳能电池板安装&#34;&gt;#&lt;/a&gt; 19、太阳能电池板安装&lt;/h2&gt;
 &lt;p&gt;许多有环保意识的房主已经在他们的家中安装了太阳能电池板，还有更多人愿意。如果您知道如何执行此操作，请在您所在的地区提供此服务。&lt;/p&gt;
-&lt;img data-src=&#34;/images/startup/solar-panel-installation.jpeg&#34; width=&#34;600&#34;&gt;
-&lt;h2 id=&#34;20-环保清洁&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20-环保清洁&#34;&gt;#&lt;/a&gt; 20、环保清洁&lt;/h2&gt;
-&lt;p&gt;常见的清洁产品含有 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudG9kYXkuY29tL3Nob3AvYmVzdC1lY28tZnJpZW5kbHktY2xlYW5pbmctcHJvZHVjdHMtZ3JlZW4tY2xlYW5pbmctcHJvZHVjdHMtdDExNDk0Mg==&#34;&gt;导致污染&lt;/span&gt; 的化学物质，并伤害来访的人和宠物 与他们接触。开展环保清洁业务可以解决这个问题。您的环保清洁企业可以只使用无毒产品或使用尽量减少使用一次性塑料的品牌。您可以通过尽可能重复使用中水来进一步降低公司对环境的影响。&lt;/p&gt;
-&lt;h2 id=&#34;21-可重复使用的塑料瓶&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#21-可重复使用的塑料瓶&#34;&gt;#&lt;/a&gt; 21、可重复使用的塑料瓶&lt;/h2&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/startup/solar-panel-installation.jpeg&amp;quot; width=&amp;quot;600&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;20-环保清洁&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#20-环保清洁&#34;&gt;#&lt;/a&gt; 20、环保清洁&lt;/h2&gt;
+&lt;p&gt;常见的清洁产品含有 &lt;a href=&#34;https://www.today.com/shop/best-eco-friendly-cleaning-products-green-cleaning-products-t114942&#34;&gt;导致污染&lt;/a&gt; 的化学物质，并伤害来访的人和宠物 与他们接触。开展环保清洁业务可以解决这个问题。您的环保清洁企业可以只使用无毒产品或使用尽量减少使用一次性塑料的品牌。您可以通过尽可能重复使用中水来进一步降低公司对环境的影响。&lt;/p&gt;
+&lt;h2 id=&#34;21-可重复使用的塑料瓶&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#21-可重复使用的塑料瓶&#34;&gt;#&lt;/a&gt; 21、可重复使用的塑料瓶&lt;/h2&gt;
 &lt;p&gt;一次性塑料无疑是引起环保人士关注的主要原因。通过推出设计、生产和销售可重复使用的塑料瓶的绿色工业企业，为人们提供一种随时随地喝水的方式，而不会造成塑料污染。探索使用替代材料，如金属或玻璃、由回收塑料制成的瓶子或由玉米淀粉或锯末等材料制成的可再生塑料。&lt;/p&gt;
-&lt;h2 id=&#34;22-环境影响和碳排放课程&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#22-环境影响和碳排放课程&#34;&gt;#&lt;/a&gt; 22、环境影响和碳排放课程&lt;/h2&gt;
+&lt;h2 id=&#34;22-环境影响和碳排放课程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#22-环境影响和碳排放课程&#34;&gt;#&lt;/a&gt; 22、环境影响和碳排放课程&lt;/h2&gt;
 &lt;p&gt;许多人不知道他们的日常活动产生了多少碳排放以及这些活动对环境的影响。开设课程，教育公众驾驶、夏季使用空调、不必要地开灯、飞行和其他活动如何导致碳排放。您还可以教人们如何减少这些活动对环境的影响。&lt;/p&gt;
-&lt;h2 id=&#34;23-当地环保回收事业&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#23-当地环保回收事业&#34;&gt;#&lt;/a&gt; 23、当地环保回收事业&lt;/h2&gt;
+&lt;h2 id=&#34;23-当地环保回收事业&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#23-当地环保回收事业&#34;&gt;#&lt;/a&gt; 23、当地环保回收事业&lt;/h2&gt;
 &lt;p&gt;很有可能您所在城镇的公共工程部门负责监督公共回收计划，但许多专家表示，您放入回收箱的物品并不总是能被回收。一些市政当局不接受所有类型的可回收容器，而另一些市政当局可能不会对收集的回收物进行彻底分类。开设环保的本地回收业务，以保证您的社区回收他们的商品。&lt;/p&gt;
-&lt;h2 id=&#34;更多经营理念&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#更多经营理念&#34;&gt;#&lt;/a&gt; 更多经营理念&lt;/h2&gt;
-&lt;p&gt;想寻找更多商业创意？ 查看我们的合作伙伴在 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudXNjaGFtYmVyLmNvbS9jby9zdGFydC9zdHJhdGVneS9zZWNyZXRzLWZyb20tc3VjY2Vzc2Z1bC1zdGFydHVwcz91dG1fc291cmNlPUJEQyZhbXA7dXRtX21lZGl1bT1hcnRpY2xlJmFtcDt1dG1fY2FtcGFpZ249QkRDX3NoYXJl&#34;&gt; CO— by the US Chamber of Commerce&lt;/span&gt; 提供的这些提示，或深入研究这些其他 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYnVzaW5lc3NuZXdzZGFpbHkuY29tLzI3NDctZ3JlYXQtYnVzaW5lc3MtaWRlYXMuaHRtbA==&#34;&gt;伟大的商业创意&lt;/span&gt;。&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;h2 id=&#34;更多经营理念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#更多经营理念&#34;&gt;#&lt;/a&gt; 更多经营理念&lt;/h2&gt;
+&lt;p&gt;想寻找更多商业创意？ 查看我们的合作伙伴在 &lt;a href=&#34;https://www.uschamber.com/co/start/strategy/secrets-from-successful-startups?utm_source=BDC&amp;amp;utm_medium=article&amp;amp;utm_campaign=BDC_share&#34;&gt; CO— by the US Chamber of Commerce&lt;/a&gt; 提供的这些提示，或深入研究这些其他 &lt;a href=&#34;https://www.businessnewsdaily.com/2747-great-business-ideas.html&#34;&gt;伟大的商业创意&lt;/a&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYnVzaW5lc3NuZXdzZGFpbHkuY29tLzUxMDItZ3JlZW4tYnVzaW5lc3MtaWRlYXMuaHRtbA==&#34;&gt;23 Green Business Ideas for Eco-Minded Entrepreneurs&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zbWlyc2RlYWxlci53b3JkcHJlc3MuY29tLzIwMTQvMDkvMzAvb3Blbi1hbi1pbmstcmVmaWxsLWFuZC1jaXNzLWJ1c2luZXNzLw==&#34;&gt;Open an Ink Refill and CISS Business&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmZlZWRzcG90LmNvbS9lbnZpcm9ubWVudGFsX21hZ2F6aW5lcy8=&#34;&gt;Top 15 Environmental Magazines, Publications &amp;amp; Journals&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZ3JlZW5tYXR0ZXJzLmNvbS9wL3doYXQtaXMtZWNvLWNvbnN1bHRpbmc=&#34;&gt;How Eco Consulting Can Help Businesses Be More Sustainable&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudGhldXBjeWNsZWNvbXBhbnkuY28udWsvc2hvcC91cGN5Y2xlZC1mdXJuaXR1cmUtZm9yLXNhbGUv&#34;&gt;Upcycled Furniture For Sale&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.businessnewsdaily.com/5102-green-business-ideas.html&#34;&gt;23 Green Business Ideas for Eco-Minded Entrepreneurs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://smirsdealer.wordpress.com/2014/09/30/open-an-ink-refill-and-ciss-business/&#34;&gt;Open an Ink Refill and CISS Business&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.feedspot.com/environmental_magazines/&#34;&gt;Top 15 Environmental Magazines, Publications &amp;amp; Journals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.greenmatters.com/p/what-is-eco-consulting&#34;&gt;How Eco Consulting Can Help Businesses Be More Sustainable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.theupcyclecompany.co.uk/shop/upcycled-furniture-for-sale/&#34;&gt;Upcycled Furniture For Sale&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -436,8 +436,8 @@
             <link>https://luhuadong.com/startup/how-to-start-a-business.html</link>
             <category>创业</category>
             <pubDate>Tue, 19 Oct 2021 09:51:28 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/startup/start-my-own-business.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;开始创业&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#开始创业&#34;&gt;#&lt;/a&gt; 开始创业&lt;/h2&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/startup/start-my-own-business.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;开始创业&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#开始创业&#34;&gt;#&lt;/a&gt; 开始创业&lt;/h2&gt;
 &lt;p&gt;想要创业成功可以从以下几个方面尝试：&lt;/p&gt;
 &lt;p&gt;1、首先要有&lt;strong&gt;明确的目标&lt;/strong&gt;，目标设立后能执着追求。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -461,10 +461,10 @@
 &lt;li&gt;创业者应当将个人财务和公司财务划分开来管理；&lt;/li&gt;
 &lt;li&gt;初创公司所聘用的员工不仅要符合工作岗位的能力要求，还要能够为公司创造附加值。最关键的创业初期，有能力的创业者是不会在用人方面总考虑节约的。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudmV0ZXJhbnNuZXdzcmVwb3J0LmNvbS8yMDE5LzAzLzExL3N0YXJ0aW5nLWEtYnVzaW5lc3MtaG93LXZldGVyYW5zLWNhbi1iZWNvbWUtZW50cmVwcmVuZXVycy8=&#34;&gt;Starting A Business: How Veterans Can Become Entrepreneurs&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jYXJvbHdhaW4uY29tL2J1eWluZy1hLWpvYi8=&#34;&gt;Buying a Job – Stage 1 of the Entrepreneur’s Journey&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.veteransnewsreport.com/2019/03/11/starting-a-business-how-veterans-can-become-entrepreneurs/&#34;&gt;Starting A Business: How Veterans Can Become Entrepreneurs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://carolwain.com/buying-a-job/&#34;&gt;Buying a Job – Stage 1 of the Entrepreneur’s Journey&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -475,17 +475,17 @@
             <category>创业</category>
             <category>职场</category>
             <pubDate>Tue, 05 Oct 2021 00:49:26 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/career/T-sharp.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;引言&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#引言&#34;&gt;#&lt;/a&gt; 引言&lt;/h2&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/career/T-sharp.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;引言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#引言&#34;&gt;#&lt;/a&gt; 引言&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;以前，我们只要懂点基础知识，比如识字、会算数、会用电脑就能找到工作。&lt;/li&gt;
 &lt;li&gt;后来，社会分工更明确了，要求我们具备更深入的单一技能，例如会算数的专门做会计、会电脑的专门搞 IT，努力成为领域专家。&lt;/li&gt;
 &lt;li&gt;不久，掌握单一技能的人发现，虽然能找到工作，却无法突破天花板，抗风险能力太差了。于是，除了在单一技能上不断深耕，还不断横向涉猎许多次要领域，以便更好地理解整个系统是如何工作的。&lt;/li&gt;
 &lt;li&gt;很快，T 型人才发现，虽然在职场上站稳了脚跟，却难以有创新性的突破，解决一些系统性的问题。于是，有些 T 型人才开始探索并深耕新的领域，同时掌握多项专业技能，成为 π 型人才，迈向了新的高度。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;成为-t-型人才&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#成为-t-型人才&#34;&gt;#&lt;/a&gt; 成为 T 型人才&lt;/h2&gt;
+&lt;h2 id=&#34;成为-t-型人才&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#成为-t-型人才&#34;&gt;#&lt;/a&gt; 成为 T 型人才&lt;/h2&gt;
 &lt;p&gt;对于没有背景、没有家庭经济支撑的普通人来说，&lt;strong&gt;学习真的是最低成本的投资&lt;/strong&gt;。所以在开始职业生涯之时，就要有意识地让自己成为 “T 型人才”。掌握一技之长，才能拥有职场和生活的主动权，并在这个过程中积累原始资本，形成 “进可攻退可守” 之势。&lt;/p&gt;
-&lt;h2 id=&#34;成为-π-型人才&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#成为-π-型人才&#34;&gt;#&lt;/a&gt; 成为 π 型人才&lt;/h2&gt;
+&lt;h2 id=&#34;成为-π-型人才&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#成为-π-型人才&#34;&gt;#&lt;/a&gt; 成为 π 型人才&lt;/h2&gt;
 &lt;p&gt;如果能成为 T 型人才，那是很厉害的了。但并不意味着低风险，实际上，“独脚凳” 显然是不稳固的。虽然有一定的专业深度，但很有可能是跟行业、公司严重耦合的。也就是说，当你离开了现在的平台或位置，也许就不是 T 型人才了。&lt;/p&gt;
 &lt;p&gt;解决办法是我们要在单一专业领域之外寻找新的立足点，培养 “&lt;strong&gt;跨领域&lt;/strong&gt;”、“&lt;strong&gt;跨学科&lt;/strong&gt;” 思维，时刻保持&lt;strong&gt;探索&lt;/strong&gt;、&lt;strong&gt;发现&lt;/strong&gt;的精神。简单来说，就是 —— &lt;strong&gt;保持学习、保持成长！&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;T 型的立足点往往与我们所学的专业或初入职场所做的工作有关，这对普通人来说，是一个不错的选择。毕竟风险低，先活下来再说。而在往 π 型发展时，许多人就不知所措了。以我的经验来看，有两个方法可以帮助成为 π 型人才。&lt;/p&gt;
@@ -494,7 +494,7 @@
 &lt;li&gt;&lt;strong&gt;从个人兴趣出发，认真对待兴趣爱好，成为该领域的专业玩家。&lt;/strong&gt; 例如，我对环保和可持续生活很感兴趣，所以我在努力学习这方面的知识，尝试做个环保博主。这样我就可以很自然地将 “物联网” 和 “环保” 两个领域结合起来，做一些创新性的产品。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;从职业发展的角度来看，π 型人才往往比 T 型人才更稳，哪怕 π 的某一专业领域不及 T 的深，但由于 π 型人才的数量远小于 T 型人才，因此会有更多难得的机会。例如，找一个精通英语的人不难，找一个精通编程的也不难，但找一个同时精通英语和编程的人就比较难。&lt;/p&gt;
-&lt;h2 id=&#34;总结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h2&gt;
+&lt;h2 id=&#34;总结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h2&gt;
 &lt;p&gt;总而言之，像我们这样出身贫寒的普通人来说，突破自身思维限制已经相当不容易了，往往还要承受来自家庭的不理解。缺少鼓励，很容易导致缺乏自信，做事自然就很难放得开。所以，“稳中求胜” 未免不是一个顾全大局的好方法。毕竟，如果失败了，我们背后可没有靠山，只有悬崖。&lt;/p&gt;
 &lt;p&gt;先努力成为 T 型人才，** 但不要安于现状，要继续探索，成为最适合你自己的 π 型人才。** 这样，无论是踏踏实实完成本职工作，还是搞副业，或者创业，都更为灵活，人生就有更多可能性。&lt;/p&gt;
  ]]></description>
@@ -505,15 +505,15 @@
             <link>https://luhuadong.com/startup/y-combinator-startup.html</link>
             <category>创业</category>
             <pubDate>Thu, 16 Sep 2021 15:06:46 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/images/startup/yc-startup-school.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/startup/yc-startup-school.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Y Combinator（简称 YC）成立于 2005 年，是美国著名创业孵化器，旨在扶持初创企业并为其提供创业指南。&lt;/p&gt;
 &lt;p&gt;YC 的创始人是《黑客与画家》的作者保罗。格雷厄姆（Paul Graham）。他拥有哈佛大学应用科学（计算机方向）博士学位，并在罗德岛设计学院和佛罗伦萨绘画艺术学院学习过绘画。在编程方面以 Lisp 方面的工作而知名，也是最早的 Web 应用 Viaweb 的创办者之一，后来以近 5 千万美元价格被雅虎收购，成为 Yahoo! Store。&lt;/p&gt;
 &lt;p&gt;YC 的新主席 Sam Altman 与 Stanford 联合开了一门创业课，叫 “How to start a startup”。课程请到了许多著名的创业者和投资人作为嘉宾，旨在教授所有想创业的人该如何创业。&lt;/p&gt;
-&lt;h2 id=&#34;reference&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#reference&#34;&gt;#&lt;/a&gt; Reference&lt;/h2&gt;
+&lt;h2 id=&#34;reference&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#reference&#34;&gt;#&lt;/a&gt; Reference&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2xlaWx1eC5naXRodWIuaW8vbG91L3N0YXJ0dXAv&#34;&gt;YC 创业课&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aHVhbmxhbi56aGlodS5jb20vcC8zMDcyNDQ2NQ==&#34;&gt;黑客与画家：硅谷创业之父保罗。格雷厄姆文集&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5kaWdsb2cuY29tL3N0b3J5LzEwMzIzNzMuaHRtbA==&#34;&gt;YC 创业学校，面向尚未做好创业准备的未来创业者&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://leilux.github.io/lou/startup/&#34;&gt;YC 创业课&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/30724465&#34;&gt;黑客与画家：硅谷创业之父保罗。格雷厄姆文集&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.diglog.com/story/1032373.html&#34;&gt;YC 创业学校，面向尚未做好创业准备的未来创业者&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -552,36 +552,36 @@
             <category>创业</category>
             <pubDate>Fri, 12 May 2017 11:22:22 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;美国有很多公司诞生于车库，其中不乏一些著名的世界 500 强企业，包括谷歌、苹果、亚马逊等等。车库确实是一个不错的地方，非常适合创客们低成本创业，这就是所谓的 “车库文化” 吧。不过在中国不行，因为车库在我们这里注册不了公司，住宅也不行，而那些共享空间、孵化器也是各种坑，一波操作下来也挺累的。&lt;/p&gt;
-&lt;h2 id=&#34;苹果apple&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#苹果apple&#34;&gt;#&lt;/a&gt; 苹果（Apple）&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/startup/garage-apple.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;苹果apple&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#苹果apple&#34;&gt;#&lt;/a&gt; 苹果（Apple）&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/startup/garage-apple.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;时间：始于 1976 年&lt;/li&gt;
 &lt;li&gt;创始人：Steve Jobs、Steve Wozniack&lt;/li&gt;
 &lt;li&gt;位置：Cupertino, CA garage&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;谷歌google&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#谷歌google&#34;&gt;#&lt;/a&gt; 谷歌（Google）&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/startup/garage-google.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;谷歌google&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#谷歌google&#34;&gt;#&lt;/a&gt; 谷歌（Google）&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/startup/garage-google.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;时间：始于 1998 年&lt;/li&gt;
 &lt;li&gt;创始人：Larry Page、Sergey Brin&lt;/li&gt;
 &lt;li&gt;位置：A Menlo Park, CA garage&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;惠普hp&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#惠普hp&#34;&gt;#&lt;/a&gt; 惠普（HP）&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/startup/garage-hp.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;惠普hp&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#惠普hp&#34;&gt;#&lt;/a&gt; 惠普（HP）&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/startup/garage-hp.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;时间：始于 1939 年&lt;/li&gt;
 &lt;li&gt;创始人：Bill Hewlett、Dave Packard&lt;/li&gt;
-&lt;li&gt;位置：Packard’s garage&lt;/li&gt;
+&lt;li&gt;位置：Packard&#39;s garage&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;亚马逊amazon&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#亚马逊amazon&#34;&gt;#&lt;/a&gt; 亚马逊（Amazon）&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/startup/garage-amazon.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;亚马逊amazon&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#亚马逊amazon&#34;&gt;#&lt;/a&gt; 亚马逊（Amazon）&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/startup/garage-amazon.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;时间：始于 1994 年&lt;/li&gt;
 &lt;li&gt;创始人：Jeff Bezos&lt;/li&gt;
 &lt;li&gt;位置：Bellevue, Washington&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;迪士尼disney&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#迪士尼disney&#34;&gt;#&lt;/a&gt; 迪士尼（Disney）&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/startup/garage-disney.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;迪士尼disney&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#迪士尼disney&#34;&gt;#&lt;/a&gt; 迪士尼（Disney）&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/startup/garage-disney.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;时间：始于 1923 年&lt;/li&gt;
 &lt;li&gt;创始人：Walt Disney、Roy Disney&lt;/li&gt;

@@ -4,43 +4,39 @@
     <title>成为自由人 • Posts by &#34;人际关系研究所&#34; category</title>
     <link href="https://luhuadong.com" />
     <updated>2024-04-06T05:27:14.000Z</updated>
-    <category term="商业" />
-    <category term="成长" />
-    <category term="日记" />
-    <category term="创业" />
-    <category term="家居" />
-    <category term="互联网" />
-    <category term="读书笔记" />
-    <category term="工程师" />
-    <category term="爱" />
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
+    <category term="商业" />
+    <category term="创业" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
+    <category term="种植" />
     <category term="英语" />
+    <category term="成长" />
     <category term="英语短文" />
     <category term="学习" />
-    <category term="种植" />
     <category term="健身" />
     <category term="气象爱好者" />
     <category term="指南" />
     <category term="自律" />
+    <category term="思维模型" />
     <category term="健康" />
     <category term="Hexo" />
     <category term="徒步" />
+    <category term="家居" />
     <category term="科普" />
     <category term="环保" />
     <category term="可持续" />
@@ -48,12 +44,17 @@
     <category term="社会现象" />
     <category term="独立开发者" />
     <category term="碳中和" />
+    <category term="互联网" />
+    <category term="工程师" />
+    <category term="AI" />
+    <category term="开发者" />
     <category term="职业" />
     <category term="时间管理" />
     <category term="milestone" />
     <category term="总结" />
     <category term="年终总结" />
     <category term="慈济" />
+    <category term="爱" />
     <category term="生活" />
     <category term="RT-Thread" />
     <category term="开源" />
@@ -62,7 +63,9 @@
     <category term="思考" />
     <category term="幸福" />
     <category term="猫" />
+    <category term="日记" />
     <category term="月报" />
+    <category term="读书笔记" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -81,6 +84,7 @@
     <category term="亲密关系" />
     <category term="农业" />
     <category term="素食" />
+    <category term="性格测试" />
     <category term="报告" />
     <category term="TED" />
     <category term="演讲" />
@@ -93,77 +97,73 @@
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
-    <category term="思维模型" />
-    <category term="开发者" />
-    <category term="性格测试" />
-    <category term="AI" />
     <entry>
         <id>https://luhuadong.com/relationship/mbti-personality-test.html</id>
         <title>MBTI 性格测试与 16 型人格分析</title>
         <link rel="alternate" href="https://luhuadong.com/relationship/mbti-personality-test.html"/>
-        <content type="html">&lt;p&gt;&lt;img data-src=&#34;/images/relationship/MBTI-banner.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/relationship/MBTI-banner.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;MBTI 是一种经典的人格类型测评工具，它是基于心理分析家卡尔・荣格的书籍《心理类型》衍生而来的。通过对个体心理偏好的测试和分析，可以帮助个体理解自己和彼此的认知与决策倾向。&lt;/p&gt;
 &lt;p&gt;如今，MBTI 已经成为全球通用的一种人格分类方法，被广泛应用于商业、军事、教育等各个领域，在人们的日常社交、职业选择、情感沟通等方面起到良好的促进作用。&lt;/p&gt;
-&lt;h2 id=&#34;mbti-测试的起源&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#mbti-测试的起源&#34;&gt;#&lt;/a&gt; MBTI 测试的起源&lt;/h2&gt;
+&lt;h2 id=&#34;mbti-测试的起源&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mbti-测试的起源&#34;&gt;#&lt;/a&gt; MBTI 测试的起源&lt;/h2&gt;
 &lt;p&gt;MBTI 的全称是 Myers-Briggs Type Indicator，直译就是迈尔斯 - 布里格斯类型指标。最初由两名美国人 —— 凯瑟琳・库克・布里格斯（Katharine Cook Briggs）和她的女儿伊莎贝尔・布里格斯・迈尔斯（Isabel Briggs Myers）所建构，最早于 1944 年发表。&lt;/p&gt;
-&lt;p&gt;MBTI 指标的理论基础来自瑞士精神科医师兼精神分析师&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aC53aWtpcGVkaWEub3JnL3dpa2kvJUU1JThEJUExJUU1JUIwJTk0JUMyJUI3JUU4JThEJUEzJUU2JUEwJUJD&#34;&gt;卡尔・荣格&lt;/span&gt;（Carl Jung）的着作《心理类型》。不过，迈尔斯认为荣格的着作对大众而言过于复杂难懂，于是布里格斯母女尝试将荣格认知功能整理得更加易于理解。&lt;/p&gt;
-&lt;h2 id=&#34;mbti-的四个维度&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#mbti-的四个维度&#34;&gt;#&lt;/a&gt; MBTI 的四个维度&lt;/h2&gt;
+&lt;p&gt;MBTI 指标的理论基础来自瑞士精神科医师兼精神分析师&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E8%8D%A3%E6%A0%BC&#34;&gt;卡尔・荣格&lt;/a&gt;（Carl Jung）的着作《心理类型》。不过，迈尔斯认为荣格的着作对大众而言过于复杂难懂，于是布里格斯母女尝试将荣格认知功能整理得更加易于理解。&lt;/p&gt;
+&lt;h2 id=&#34;mbti-的四个维度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mbti-的四个维度&#34;&gt;#&lt;/a&gt; MBTI 的四个维度&lt;/h2&gt;
 &lt;p&gt;MBTI 人格理论认为，人类的人格特征可以从四个角度进行分析，包括认知功能（Attitudes）、信息获取（Perceiving）、决策方式（Judging）和生活方式（Lifestyle）。&lt;/p&gt;
 &lt;p&gt;每个角度都有两个对立的方向，共计八个方面，具体如下：&lt;/p&gt;
-&lt;h3 id=&#34;认知功能&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#认知功能&#34;&gt;#&lt;/a&gt; 认知功能&lt;/h3&gt;
+&lt;h3 id=&#34;认知功能&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#认知功能&#34;&gt;#&lt;/a&gt; 认知功能&lt;/h3&gt;
 &lt;p&gt;认知功能（Attitudes）指个体在处理信息和判断情况时的心理偏好。分为：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;内向&lt;/strong&gt;（Introversion）：更喜欢自己独处，关注自己内在的想法和感受。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;外向&lt;/strong&gt;（Extraversion）：喜欢和他人交往，通过与他人互动来获取能量和信息。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;信息获取&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#信息获取&#34;&gt;#&lt;/a&gt; 信息获取&lt;/h3&gt;
+&lt;h3 id=&#34;信息获取&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#信息获取&#34;&gt;#&lt;/a&gt; 信息获取&lt;/h3&gt;
 &lt;p&gt;信息获取（Perceiving）指个体获取信息的方式和偏好。分为：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;感性&lt;/strong&gt;（Sensing）：注重具体、现实、细节，通过感官来获取信息。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;直觉&lt;/strong&gt;（Intuition）：注重抽象、未来、整体，通过想象和联想来获取信息。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;决策方式&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#决策方式&#34;&gt;#&lt;/a&gt; 决策方式&lt;/h3&gt;
+&lt;h3 id=&#34;决策方式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#决策方式&#34;&gt;#&lt;/a&gt; 决策方式&lt;/h3&gt;
 &lt;p&gt;决策方式（Judging）指个体做出决策的方式和偏好。分为：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;思考&lt;/strong&gt;（Thinking）：注重分析、逻辑、客观，倾向于通过分析和推理来做出决策。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;情感&lt;/strong&gt;（Feeling）：注重价值观、情感、主观，倾向于通过考虑他人的感受和价值观来做出决策。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;生活方式&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#生活方式&#34;&gt;#&lt;/a&gt; 生活方式&lt;/h3&gt;
+&lt;h3 id=&#34;生活方式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活方式&#34;&gt;#&lt;/a&gt; 生活方式&lt;/h3&gt;
 &lt;p&gt;生活方式（Lifestyle）指个体在生活中表现出来的特征和偏好。分为：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;判断&lt;/strong&gt;（Judging）：注重有序、计划、控制，喜欢按照计划行动和做出决策。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;知觉&lt;/strong&gt;（Perceiving）：注重灵活、适应、自由，喜欢根据情况变化和随心所欲地行动。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;16-种人格分析&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#16-种人格分析&#34;&gt;#&lt;/a&gt; 16 种人格分析&lt;/h2&gt;
-&lt;h3 id=&#34;intj建筑师span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#intj建筑师span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;#&lt;/a&gt; INTJ（建筑师）&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/h3&gt;
+&lt;h2 id=&#34;16-种人格分析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#16-种人格分析&#34;&gt;#&lt;/a&gt; 16 种人格分析&lt;/h2&gt;
+&lt;h3 id=&#34;intj建筑师&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#intj建筑师&#34;&gt;#&lt;/a&gt; INTJ（建筑师）🤗&lt;/h3&gt;
 &lt;p&gt;INTJ 是 16 型人格比例最低的一种，只占全球人口的 2%。他们聪明、创新，且注重策略，是最有能力的人格类型之一。INTJ 的脑袋就如同超级电脑，有非常强大的思考与问题处理能力，而且渴望学习新知，但也因为傲人的聪明才智，使得 INTJ 难以与他人产生共感，他们择善固执，宁可贯彻真理也不愿当个滥好人，因此容易在社交上遇到挫折。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：优秀的问题解决者、择善固执、学习力强、良好的洞察力与观察力&lt;/li&gt;
 &lt;li&gt;缺点：不擅于沟通、较无法同理他人、个性较固执&lt;/li&gt;
 &lt;li&gt;适合职业：医师、研究员、科学家、律师、财务专家&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;intp逻辑学家&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#intp逻辑学家&#34;&gt;#&lt;/a&gt; INTP（逻辑学家）&lt;/h3&gt;
+&lt;h3 id=&#34;intp逻辑学家&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#intp逻辑学家&#34;&gt;#&lt;/a&gt; INTP（逻辑学家）&lt;/h3&gt;
 &lt;p&gt;INTP 是 16 型人格中好奇心最旺盛的类型，历史上许多具有影响力的哲学家和科学家都是 INTP。他们不仅好奇，也善于分析，总是持续不间断地进行思考，但这也使他们疲于社交，比起与他人互动，INTP 更倾向探讨自己内心深处的想法，不过若遇到能与他们的精神能量相匹配的人，他们也可以进行一场深度的思想交流！&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：反应快速、良好的逻辑与组织能力、能客观分析问题、好学&lt;/li&gt;
 &lt;li&gt;缺点：专注力不足、较没耐心、不易察觉情感&lt;/li&gt;
 &lt;li&gt;适合职业：工程师、发明家、数学家、学术研究、软件开发、金融分析师&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;entj指挥官&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#entj指挥官&#34;&gt;#&lt;/a&gt; ENTJ（指挥官）&lt;/h3&gt;
+&lt;h3 id=&#34;entj指挥官&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#entj指挥官&#34;&gt;#&lt;/a&gt; ENTJ（指挥官）&lt;/h3&gt;
 &lt;p&gt;ENTJ 能展现自信，因此非常具有领袖魅力，他们善于领导他人、处事果断又注重组织，也喜欢挑战，所以只要给他们充裕的时间和资源，他们可以精确地执行计划并且达到目标，但是他们并不善于表达情感，可能会给人居高临下、难以亲近的感觉，不过他们擅长发掘他人的才华，并带领团队成员发挥各自长处以达到目标。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：指挥能力强、善于社交、不会优柔寡断、目标导向且坚持不懈&lt;/li&gt;
 &lt;li&gt;缺点：包容力较低、过度好胜、较不近人情&lt;/li&gt;
 &lt;li&gt;适合职业：企业家、律师、法官、管理阶层、政治家&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;entp辩论家&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#entp辩论家&#34;&gt;#&lt;/a&gt; ENTP（辩论家）&lt;/h3&gt;
+&lt;h3 id=&#34;entp辩论家&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#entp辩论家&#34;&gt;#&lt;/a&gt; ENTP（辩论家）&lt;/h3&gt;
 &lt;p&gt;ENTP 喜欢与人进行观点的辩论，对于不认同的观点，他们并不会害怕反驳，聪明且好辩的特质让他们勇于突破现有框架；独特的见解则让他们具有娱乐性十足的幽默感。ENTP 擅长社交，所以很容易就能交到新朋友，但因为总是直接了当地提出质疑，可能会不小心得罪別人，使关系产生疙瘩。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：头脑思路清楚、不怕挫折、勇于打破现有框架&lt;/li&gt;
 &lt;li&gt;缺点：较没耐心、容易起冲突、过度理性、太在乎他人是否欣赏自己&lt;/li&gt;
 &lt;li&gt;适合职业：艺术家、作家、顾问、主持人、演员、摄影师、广告业&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;infj提倡者&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#infj提倡者&#34;&gt;#&lt;/a&gt; INFJ（提倡者）&lt;/h3&gt;
+&lt;h3 id=&#34;infj提倡者&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#infj提倡者&#34;&gt;#&lt;/a&gt; INFJ（提倡者）&lt;/h3&gt;
 &lt;p&gt;INFJ 是理想主义者也是利他主义者，他们有原则、做事会经过深思熟虑，并且富有同理心。INFJ 不安于现状，他们希望自己的人生可以有所成就，而且并不在于金钱地位方面，而是帮助他人，为社会造成良好的影响。INFJ 有着清楚明确的价值观，想要导正问题，因为专注于这个目标，导致他们有时很难融入人群。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -176,84 +176,84 @@
 &lt;p&gt;适合职业：老师、艺术家、设计师、社工、心理师、宗教家、非政府组织&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;infp调停者&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#infp调停者&#34;&gt;#&lt;/a&gt; INFP（调停者）&lt;/h3&gt;
+&lt;h3 id=&#34;infp调停者&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#infp调停者&#34;&gt;#&lt;/a&gt; INFP（调停者）&lt;/h3&gt;
 &lt;p&gt;INFP 是外冷内热的人格类型，外表看似平静的他们，内心其实充满热情，且能积极努力地追求目标！他们非常感性，因此对音乐，艺术，自然和周围的人都能产生深刻的情感反应，他们也是非常好的聆听者，富有同理心，能以客观的角度看待他人面临的问题，但他们也容易内化这些负面情绪，造成自己的心理负担。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：个性容易与人亲近、热爱挑战、善于表达、自我目标明确&lt;/li&gt;
 &lt;li&gt;缺点：难跳脱自己的内心世界、防备心过低、过度理想&lt;/li&gt;
 &lt;li&gt;适合职业：编辑、作家、设计师、插画家、演员、心理学家&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;enfj主人公span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#enfj主人公span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;#&lt;/a&gt; ENFJ（主人公）&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;enfj主人公&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#enfj主人公&#34;&gt;#&lt;/a&gt; ENFJ（主人公）😅&lt;/h3&gt;
 &lt;p&gt;ENFJ 是天生的领导者，他们擅长激励他人，并且具有实事求是的价值观。他们热情又具有同理心，能用最让人产生共鸣的方式敘述自己的想法，藉此帮助他人解决问题。另外他们善于观察周遭的人，并了解他们的想法与行为动机，但 ENFJ 并不会想要利用或操控他人，即使遇到想法分歧的对象，他们也能求同存异。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：同理心强、个性外向随和、优秀的领导能力、乐观正向&lt;/li&gt;
 &lt;li&gt;缺点：过度寻求他人认同、爱钻牛角尖、容易内耗自己&lt;/li&gt;
 &lt;li&gt;适合职业：公关、创业家、人资、销售、老师、心理师&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;enfp竞选者span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#enfp竞选者span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;#&lt;/a&gt; ENFP（竞选者）&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;enfp竞选者&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#enfp竞选者&#34;&gt;#&lt;/a&gt; ENFP（竞选者）😃&lt;/h3&gt;
 &lt;p&gt;ENFP 喜欢追求精神上的自由，他们热情且富有创意，总是可以用最活泼、乐观的方式过生活。他们会经常关心身边的人，善于交际且个性相当随和，通常能交到许多知心好友，除此之外，ENFP 总是能找到生活深层的意义，并且从中寻求快乐，他们也擅长表达自己的感受，甚至将正向的能量带给他人。（ENFP 也被称为 “快乐小狗”）&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：开朗活泼、热情、团体的动力来源、能以各种角度思考&lt;/li&gt;
 &lt;li&gt;缺点：较情绪化、过度理想、专注力较差、太急性子&lt;/li&gt;
 &lt;li&gt;适合职业：记者、主播、演员、艺术家、音乐家、雕塑家&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;istj物流师&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#istj物流师&#34;&gt;#&lt;/a&gt; ISTJ（物流师）&lt;/h3&gt;
+&lt;h3 id=&#34;istj物流师&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#istj物流师&#34;&gt;#&lt;/a&gt; ISTJ（物流师）&lt;/h3&gt;
 &lt;p&gt;ISTJ 讲求实事求是，有组织与负责任的精神，他们认为凡事都有正确的行事方法，因此非常注重紀律与社会结构，喜欢处在有清晰组织架构的工作或教育环境。ISTJ 很有责任感，他们总是能快速做决策并且愿意履行义务，即使犯错了也勇于承认错误并承担责任，但这样的特质也可能使他们常常在替身边的人收拾残局。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：个性沉稳内敛、能观察到细节、实事求是、脚踏实地、有责任感&lt;/li&gt;
 &lt;li&gt;缺点：过度守旧、难以跳脱舒适圈、变通能力稍差&lt;/li&gt;
 &lt;li&gt;适合职业：公务员、会计师、行政人员、军人&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;isfj守卫者&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#isfj守卫者&#34;&gt;#&lt;/a&gt; ISFJ（守卫者）&lt;/h3&gt;
+&lt;h3 id=&#34;isfj守卫者&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#isfj守卫者&#34;&gt;#&lt;/a&gt; ISFJ（守卫者）&lt;/h3&gt;
 &lt;p&gt;ISFJ 喜欢在幕后默默地付出不求回报，他们个性温和，对周围的人也具有相当的责任感，任何的任务交付于他们都会让人感到放心。他们能与人建立稳定的关系，总是拿出最大的善意和他人相处，只要身边的人遇到困难，他们绝对尽其所能地提供协助，不过这样的特质也使他们常常过度劳累。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：同理心强、富有责任感、凡事说到做到、具有奉献精神、观察能力强&lt;/li&gt;
 &lt;li&gt;缺点：容易过度压抑自己、容易被拖累、难以跳脱舒适圈、易受他人影响&lt;/li&gt;
 &lt;li&gt;适合职业：护理师、老师、社工、餐饮业、服务业&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;estj总经理&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#estj总经理&#34;&gt;#&lt;/a&gt; ESTJ（总经理）&lt;/h3&gt;
+&lt;h3 id=&#34;estj总经理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#estj总经理&#34;&gt;#&lt;/a&gt; ESTJ（总经理）&lt;/h3&gt;
 &lt;p&gt;ESTJ 人格的特別之处是对于追求「秩序」的坚持。他们常常扮演组织众人的角色，并给出明确的建议和指导，让整个团体有秩序地合作，因此常受到身边的人重视。ESTJ 也非常能以身作则，主动深入任何挑战并轻松完成复杂的任务，但是当他们遇到能力不足的队友时，也会直接地表达愤怒情绪。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：管理能力强、意志力坚强、有主见、言而有信&lt;/li&gt;
 &lt;li&gt;缺点：思想较制式、过于个人中心、不擅于表达情感&lt;/li&gt;
 &lt;li&gt;适合职业：药剂师、房地产、保险业务员、军官、警察、高层管理&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;esfj执行官&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#esfj执行官&#34;&gt;#&lt;/a&gt; ESFJ（执行官）&lt;/h3&gt;
+&lt;h3 id=&#34;esfj执行官&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#esfj执行官&#34;&gt;#&lt;/a&gt; ESFJ（执行官）&lt;/h3&gt;
 &lt;p&gt;ESFJ 非常的重视自身的责任，能在完成自身任务的同时也回馈于他人，因此 ESFJ 工作时总能为所有人带来一股正能量，但如果遇到与自己意见分歧的对象时，他们内心也容易受到打击。ESFJ 的「E」性格使得他们总是能记住亲友生活中的大小事件，并且热于参与或是举办团体动，轻松与他人建立长久的关系，若身边的人需要帮助时，他们也会主动伸出援手。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：行动力强、优秀的组织能力、擅长处理人际关系、很受人相信&lt;/li&gt;
 &lt;li&gt;缺点：易受別人影响、不懂得拒绝、不敢为自己争取权利&lt;/li&gt;
 &lt;li&gt;适合职业：老师、社工、策划、企划、幼教类、家庭医师&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;istp鉴赏家&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#istp鉴赏家&#34;&gt;#&lt;/a&gt; ISTP（鉴赏家）&lt;/h3&gt;
+&lt;h3 id=&#34;istp鉴赏家&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#istp鉴赏家&#34;&gt;#&lt;/a&gt; ISTP（鉴赏家）&lt;/h3&gt;
 &lt;p&gt;ISTP 的「S」性格特別明显，他们喜欢用来自感官的「实感」探索世界，喜欢亲自上手实作来学习技能，并从这些实际经验探索脑中的想法，因此有许多的机械师都是 ISTP 人格，ISTP 不会过度谨慎，行事不拘小节的他们喜欢朝大方向去发展，这类人格大多具备阳刚的特质，所以女性 ISTP 非常少见。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：喜欢凡事亲力亲为、勇敢的精神、乐观正向、勇于尝试&lt;/li&gt;
 &lt;li&gt;缺点：有时会稍微鲁莽、不容易向他人吐露心声、三分钟热度&lt;/li&gt;
 &lt;li&gt;适合职业：运动员、电脑工程师、机械师、游戏设计师、飞行员、消防员&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;isfp探险家&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#isfp探险家&#34;&gt;#&lt;/a&gt; ISFP（探险家）&lt;/h3&gt;
+&lt;h3 id=&#34;isfp探险家&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#isfp探险家&#34;&gt;#&lt;/a&gt; ISFP（探险家）&lt;/h3&gt;
 &lt;p&gt;ISFP 是富有艺术气息的人格，他们喜欢探索未知的事物，对新事物充满热情，这样的探索精神是他们的动力来源之一。ISFP 具有良好的适应能力，喜欢灵活与不受拘束的生活方式，这也反映在人际关系中，他们对于交友抱持开放的态度，喜欢认识各种不同性格的人并与之相处，但他们也需要独处的时间来补充精力。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：善解人意、专注于当下、有创意、懂得利用自身优势&lt;/li&gt;
 &lt;li&gt;缺点：自我中心、做事较冲动、郭華能力稍差&lt;/li&gt;
 &lt;li&gt;适合职业：艺术家、媒体、创作者、插画家、娱乐圈、摄影、杂志业&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;estp企业家&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#estp企业家&#34;&gt;#&lt;/a&gt; ESTP（企业家）&lt;/h3&gt;
+&lt;h3 id=&#34;estp企业家&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#estp企业家&#34;&gt;#&lt;/a&gt; ESTP（企业家）&lt;/h3&gt;
 &lt;p&gt;ESTP 人格具有强大的影响力，常常是人群中的焦点，他们也是彻彻底底的行动派，因此他们喜欢谈论可以付诸实行的话题，而不是抽象的概念。ESTP 的敏锐度高，他们可以从他人的脸部表情与行为察觉其想法和动机，不喜欢受规则所约束的他们，会透过自己的观察，找出可以优化的事项，并打破现有框架、提出改革。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：行动力强、良好的适应能力、说话具说服力、团队的士气来源&lt;/li&gt;
 &lt;li&gt;缺点：较没耐心、风险控管能力较差、容易钻牛角尖&lt;/li&gt;
 &lt;li&gt;适合职业：企业家、导游、旅游业、销售、议员、主持人&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;esfp表演家&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#esfp表演家&#34;&gt;#&lt;/a&gt; ESFP（表演家）&lt;/h3&gt;
+&lt;h3 id=&#34;esfp表演家&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#esfp表演家&#34;&gt;#&lt;/a&gt; ESFP（表演家）&lt;/h3&gt;
 &lt;p&gt;ESFP 天生就是镁光灯的焦点，他们总是用热情的态度在生活，无论是谈话内容或是生活空间，ESFP 都具有强烈的个人风格，但是他们并不会活在自己的世界中，反而善于察言观色，提供身边的人情感的支持与解决问题的建议，但他们并不擅长分析太复杂的资讯，因此如果自己遇到困难，他们倾向求助身边的朋友。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优点：专注于当下、乐观正向、勇于尝试、善于与人沟通相处&lt;/li&gt;
 &lt;li&gt;缺点：太重视物质享受、易受批评影响、处理问题较主观&lt;/li&gt;
 &lt;li&gt;适合职业：演员、歌手、艺术家、设计师、运动教练、活动策划、主持人、记者&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;16-种人格配对&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#16-种人格配对&#34;&gt;#&lt;/a&gt; 16 种人格配对&lt;/h2&gt;
+&lt;h2 id=&#34;16-种人格配对&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#16-种人格配对&#34;&gt;#&lt;/a&gt; 16 种人格配对&lt;/h2&gt;
 &lt;p&gt;看完以上 16 种人格介绍之后，你是不是也好奇自己的 MBTI 人格配对什么样的性格相处起来最自在呢？接下来，我们就来看看 16 型人格测验爱情与工作上都适配的对象分别有谁？&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;注意：有些配对似乎没有什么共同点，这是因为在配对时，更加注重的是性格类型是否能相互成长和学习，以及他们的优势和劣势是否很好地互补。这对于伴侣的配对非常重要。&lt;/p&gt;
@@ -349,15 +349,15 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id=&#34;测试地址&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#测试地址&#34;&gt;#&lt;/a&gt; 测试地址&lt;/h2&gt;
+&lt;h2 id=&#34;测试地址&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试地址&#34;&gt;#&lt;/a&gt; 测试地址&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93ZWxlZmVuLmNvbS9sYWIvbWJ0aS8=&#34;&gt;https://welefen.com/lab/mbti/&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tYnRpLmNkZXN6LnRvcC8=&#34;&gt;https://mbti.cdesz.top/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://welefen.com/lab/mbti/&#34;&gt;https://welefen.com/lab/mbti/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mbti.cdesz.top/&#34;&gt;https://mbti.cdesz.top/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubXllcnNicmlnZ3Mub3JnL2Fib3V0LXVzL215ZXJzLWJyaWdncy1qdW5nLWxlZ2FjeS8=&#34;&gt;Evolving the MBTI Legacy&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jbWctYWdlbmN5LmNvbS9iZW5lZml0cy1vZi1tYnRpLWluLXRoZS13b3JrcGxhY2Uv&#34;&gt;Benefits of MBTI In the Workplace&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.myersbriggs.org/about-us/myers-briggs-jung-legacy/&#34;&gt;Evolving the MBTI Legacy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cmg-agency.com/benefits-of-mbti-in-the-workplace/&#34;&gt;Benefits of MBTI In the Workplace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
         <category term="性格测试" />
@@ -367,7 +367,7 @@
         <id>https://luhuadong.com/relationship/irrelationship.html</id>
         <title>假性亲密关系</title>
         <link rel="alternate" href="https://luhuadong.com/relationship/irrelationship.html"/>
-        <content type="html">&lt;h2 id=&#34;什么是假性亲密关系&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#什么是假性亲密关系&#34;&gt;#&lt;/a&gt; 什么是假性亲密关系&lt;/h2&gt;
+        <content type="html">&lt;h2 id=&#34;什么是假性亲密关系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么是假性亲密关系&#34;&gt;#&lt;/a&gt; 什么是假性亲密关系&lt;/h2&gt;
 &lt;p&gt;假性亲密关系（Irrelationship）是指很多人在情感里的连结处于很浅层的状态，然后又处于不作为的状态。&lt;/p&gt;
 &lt;p&gt;《假性亲密关系》一书中有这样一段话：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -391,178 +391,178 @@
         <id>https://luhuadong.com/relationship/the-36-questions-that-spark-intimacy.html</id>
         <title>36个能引发亲密关系的问题</title>
         <link rel="alternate" href="https://luhuadong.com/relationship/the-36-questions-that-spark-intimacy.html"/>
-        <content type="html">&lt;h2 id=&#34;引言&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#引言&#34;&gt;#&lt;/a&gt; 引言&lt;/h2&gt;
+        <content type="html">&lt;h2 id=&#34;引言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#引言&#34;&gt;#&lt;/a&gt; 引言&lt;/h2&gt;
 &lt;p&gt;心理学家阿瑟・阿伦（Arthur Aron）曾做过一个实验：让两个陌生人轮流回答 36 个问题，回答完后互相凝视 4 分钟。据说，在完成这个实验后，2 个陌生人可以迅速相爱。&lt;/p&gt;
 &lt;p&gt;这个理论的核心是：&lt;strong&gt;深度了解能促进亲密感。双方经过真诚的倾诉后，分享的心理会把彼此带入一个相互信任、找寻共鸣的状态。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这种情况下再进行能造成生理激发（Arousal）的对视，那么就极易发生想去爱的冲动。不得不承认，很多关系之所以无法善始善终，就是因为始终缺少深度的沟通与了解，永远只浮于表面。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/psychology/penny-and-sheldon.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;36个问题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#36个问题&#34;&gt;#&lt;/a&gt; 36 个问题&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/psychology/penny-and-sheldon.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;36个问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#36个问题&#34;&gt;#&lt;/a&gt; 36 个问题&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Given the choice of anyone in the world, who would you want as a dinner guest?&lt;br&gt;
+&lt;p&gt;Given the choice of anyone in the world, who would you want as a dinner guest?&lt;br /&gt;
  在这个世界上，如果你可以随便选一个人跟你一起共进晚餐，你会选谁？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Would you like to be famous? In what way?&lt;br&gt;
+&lt;p&gt;Would you like to be famous? In what way?&lt;br /&gt;
  你想过出名吗？通过啥方式？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Before making a phone call, do you ever rehearse what you’re going to say? Why?&lt;br&gt;
+&lt;p&gt;Before making a phone call, do you ever rehearse what you&#39;re going to say? Why?&lt;br /&gt;
  在打电话前，你一般会练习怎么去表达吗？为啥？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;What would constitute a perfect day for you?&lt;br&gt;
+&lt;p&gt;What would constitute a perfect day for you?&lt;br /&gt;
  你觉得在你心里，完美的一天是怎样的？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;When did you last sing to yourself? To someone else?&lt;br&gt;
+&lt;p&gt;When did you last sing to yourself? To someone else?&lt;br /&gt;
  你上次一个人唱歌是什么时候？那对着其他人唱歌呢？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;If you were able to live to the age of 90 and retain either the mind or body of a 30-year old for the last 60 years of your life, which would you choose?&lt;br&gt;
+&lt;p&gt;If you were able to live to the age of 90 and retain either the mind or body of a 30-year old for the last 60 years of your life, which would you choose?&lt;br /&gt;
  假设你可以活到 90 岁，那么在 30 岁之后，你更倾向于保持身体的年轻，还是思想的年轻，来度过余下的 60 年？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Do you have a secret hunch about how you will die?&lt;br&gt;
+&lt;p&gt;Do you have a secret hunch about how you will die?&lt;br /&gt;
  你对你以后将怎样死去，有没有预感？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Name three things you and your partner appear to have in common.&lt;br&gt;
+&lt;p&gt;Name three things you and your partner appear to have in common.&lt;br /&gt;
  说三个我们的共同点。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;For what in your life do you feel most grateful?&lt;br&gt;
+&lt;p&gt;For what in your life do you feel most grateful?&lt;br /&gt;
  你这辈子最感激的是谁，或者什么事？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;If you could change anything about the way you were raised, what would it be?&lt;br&gt;
+&lt;p&gt;If you could change anything about the way you were raised, what would it be?&lt;br /&gt;
  如果你能改变你过去的经历，你想改变哪件事？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Take four minutes and tell your partner your life story in as much detail as possible.&lt;br&gt;
+&lt;p&gt;Take four minutes and tell your partner your life story in as much detail as possible.&lt;br /&gt;
  用四分钟，尽可能详细地讲讲你从小到大的经历。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;If you could wake up tomorrow having gained one quality or ability, what would it be?&lt;br&gt;
+&lt;p&gt;If you could wake up tomorrow having gained one quality or ability, what would it be?&lt;br /&gt;
  如果明天醒来你能获得一种新的才能，你希望是什么？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?&lt;br&gt;
+&lt;p&gt;If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?&lt;br /&gt;
  如果水晶球能告诉你关于你自己、你的生活、未来或其他任何事情的真相，你最希望知道的是什么？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Is there something that you’ve dreamt of doing for a long time? Why haven’t you done it?&lt;br&gt;
+&lt;p&gt;Is there something that you&#39;ve dreamt of doing for a long time? Why haven&#39;t you done it?&lt;br /&gt;
  有没有你长时间以来梦寐以求的事情？为什么你没有去实现？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;What is the greatest accomplishment of your life?&lt;br&gt;
+&lt;p&gt;What is the greatest accomplishment of your life?&lt;br /&gt;
  你觉得自己最成功的是什么？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;What do you value most in a friendship?&lt;br&gt;
+&lt;p&gt;What do you value most in a friendship?&lt;br /&gt;
  你觉得友谊最珍贵的地方是什么？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;What is your most treasured memory?&lt;br&gt;
+&lt;p&gt;What is your most treasured memory?&lt;br /&gt;
  你最宝贵的记忆是什么？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;What is your most terrible memory?&lt;br&gt;
+&lt;p&gt;What is your most terrible memory?&lt;br /&gt;
  你最可怕的记忆是什么？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?&lt;br&gt;
+&lt;p&gt;If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?&lt;br /&gt;
  假设一年后你会突然去世，那么你会改变现在的生活方式吗？为什么？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;What does friendship mean to you?&lt;br&gt;
+&lt;p&gt;What does friendship mean to you?&lt;br /&gt;
  友谊对你来说意味着什么？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;What roles do love and affection play in your life?&lt;br&gt;
+&lt;p&gt;What roles do love and affection play in your life?&lt;br /&gt;
  爱情和喜欢，在你生活中大概是什么样的角色？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items.&lt;br&gt;
+&lt;p&gt;Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items.&lt;br /&gt;
  说出 5 个关于我的好的特质。我也说 5 个关于你的。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;How close and warm is your family? Do you feel your childhood was happier than most other people’s?&lt;br&gt;
+&lt;p&gt;How close and warm is your family? Do you feel your childhood was happier than most other people&#39;s?&lt;br /&gt;
  你家里人之间亲密吗？你是不是觉得你的童年比其他大多数人更幸福？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;How do you feel about your relationship with your mother?&lt;br&gt;
+&lt;p&gt;How do you feel about your relationship with your mother?&lt;br /&gt;
  你觉得你和你妈妈的关系怎么样？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Make three true “we” statements each. For instance, “we are both in this room feeling…”&lt;br&gt;
- 各自做三个围绕 “我们” 的事实陈述。例如，“我们在深夜一起聊天”…&lt;/p&gt;
+&lt;p&gt;Make three true &amp;quot;we&amp;quot; statements each. For instance, &amp;quot;we are both in this room feeling...&amp;quot;&lt;br /&gt;
+ 各自做三个围绕 “我们” 的事实陈述。例如，“我们在深夜一起聊天”...&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Complete this sentence “I wish I had someone with whom I could share…”&lt;br&gt;
- 给你一句句子，你把它补全：“我希望能有人和我一起分享…”&lt;/p&gt;
+&lt;p&gt;Complete this sentence &amp;quot;I wish I had someone with whom I could share...&amp;quot;&lt;br /&gt;
+ 给你一句句子，你把它补全：“我希望能有人和我一起分享......”&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;If you were going to become a close friend with your partner, please share what would be important for him or her to know.&lt;br&gt;
+&lt;p&gt;If you were going to become a close friend with your partner, please share what would be important for him or her to know.&lt;br /&gt;
  如果你要和我成为亲密的朋友，对你来说，最需要知道关于我的事情是什么？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Tell your partner what you like about them. Be honest this time, saying things that you might not say to someone you’ve just met.&lt;br&gt;
+&lt;p&gt;Tell your partner what you like about them. Be honest this time, saying things that you might not say to someone you&#39;ve just met.&lt;br /&gt;
  告诉我你喜欢我的什么；这次要非常地诚实哦。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Share with your partner an embarrassing moment in your life.&lt;br&gt;
+&lt;p&gt;Share with your partner an embarrassing moment in your life.&lt;br /&gt;
  和我分享一件生活中令你尴尬的事情，可以是最近的事情。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;When did you last cry in front of another person? By yourself?&lt;br&gt;
+&lt;p&gt;When did you last cry in front of another person? By yourself?&lt;br /&gt;
  你上次在别人面前哭是什么事情？那独自流泪又是什么时候呢？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Tell your partner something that you like about them already.&lt;br&gt;
+&lt;p&gt;Tell your partner something that you like about them already.&lt;br /&gt;
  告诉我，我有哪些地方已经让你开始喜欢上了。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;What, if anything, is too serious to be joked about?&lt;br&gt;
+&lt;p&gt;What, if anything, is too serious to be joked about?&lt;br /&gt;
  对你来说，有没有一些事情是严肃到不能开玩笑的？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven’t you told them yet?&lt;br&gt;
+&lt;p&gt;If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven&#39;t you told them yet?&lt;br /&gt;
  假设你今晚就要死了，而你也再没有机会和其他人交流，那么你最后悔没有告诉别人的是什么事？为什么还没有告诉他们？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?&lt;br&gt;
+&lt;p&gt;Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?&lt;br /&gt;
  你的房子着火了，你的所有东西都在里面。在救出了你的亲人和宠物之后，你有时间能够最后一次冲进去安全地救出最后一样物品，那将会是什么？为什么？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Of all the people in your family, whose death would you find most disturbing? Why?&lt;br&gt;
+&lt;p&gt;Of all the people in your family, whose death would you find most disturbing? Why?&lt;br /&gt;
  在你的所有家人中，谁的离去会是最令你痛苦的？为什么？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.&lt;br&gt;
+&lt;p&gt;Share a personal problem and ask your partner&#39;s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.&lt;br /&gt;
  说一个你自己私人遇到的困扰，你说完我也说我的，然后我们互相给对方想办法。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;扩展问题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#扩展问题&#34;&gt;#&lt;/a&gt; 扩展问题&lt;/h2&gt;
+&lt;h2 id=&#34;扩展问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#扩展问题&#34;&gt;#&lt;/a&gt; 扩展问题&lt;/h2&gt;
 &lt;p&gt;当然，如果时间允许，还可以询问和回答下面一些扩展问题：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;If you could choose the sex and physical appearance of your soon-to-be-born child, would you do it?&lt;br&gt;
+&lt;p&gt;If you could choose the sex and physical appearance of your soon-to-be-born child, would you do it?&lt;br /&gt;
  如果你可以选择即将出生的孩子的性别和外貌，您会选择吗？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Would you be willing to have horrible nightmares for a year if you would be rewarded with extraordinary wealth?&lt;br&gt;
+&lt;p&gt;Would you be willing to have horrible nightmares for a year if you would be rewarded with extraordinary wealth?&lt;br /&gt;
  如果你能得到非凡的财富，你愿意做可怕的噩梦一年吗？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;While on a trip to another city, your spouse/lover meets and spends a night with an exciting stranger. Given that they will never meet again, and could never otherwise learn of the incident, would you want your partner to tell you about it?&lt;br&gt;
+&lt;p&gt;While on a trip to another city, your spouse/lover meets and spends a night with an exciting stranger. Given that they will never meet again, and could never otherwise learn of the incident, would you want your partner to tell you about it?&lt;br /&gt;
  在去另一个城市旅行时，你的配偶 / 情人遇到了一个令人兴奋的陌生人并与之共度一夜。考虑到他们再也不会见面，也永远不会知道这件事，你想让你的伴侣告诉你吗？&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9uZXdzLmJlcmtlbGV5LmVkdS8yMDE1LzAyLzEyL2xvdmUtaW4tdGhlLWxhYi8=&#34;&gt;Creating love in the lab: The 36 questions that spark intimacy&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucHN5Y2hvbG9neXRvZGF5LmNvbS91cy9ibG9nL29wZW4tZ2VudGx5LzIwMTMxMC8zNi1xdWVzdGlvbnMtYnJpbmcteW91LWNsb3Nlci10b2dldGhlcg==&#34;&gt;36 Questions to Bring You Closer Together&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://news.berkeley.edu/2015/02/12/love-in-the-lab/&#34;&gt;Creating love in the lab: The 36 questions that spark intimacy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.psychologytoday.com/us/blog/open-gently/201310/36-questions-bring-you-closer-together&#34;&gt;36 Questions to Bring You Closer Together&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
         <category term="爱" />
@@ -577,52 +577,52 @@
 &lt;blockquote&gt;
 &lt;p&gt;插画来自 IG：herta_burbe&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;img data-src=&#34;/images/love_story/a001.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/love_story/a001.jpg&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
 &lt;p&gt;父母从小培养我，把我塑造成他们想要的样子。&lt;/p&gt;
-&lt;img data-src=&#34;/images/love_story/a002.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/love_story/a002.jpg&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
 &lt;p&gt;我知道他们是为我好，所以我努力去达到他们的要求。可我还是我，没办法丢弃那些属于我的特质。我学会了伪装，甚至掩饰自己的内心，只有我才知道，真实的我是怎么样的。&lt;/p&gt;
-&lt;img data-src=&#34;/images/love_story/a003.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/love_story/a003.jpg&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
 &lt;p&gt;有时候，我害怕受伤，我抱怨没人理解我，我把脆弱的那部分锁起来不让别人看见。&lt;/p&gt;
-&lt;img data-src=&#34;/images/love_story/a004.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/love_story/a004.jpg&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
 &lt;p&gt;只有面对那浩瀚的大海，我才敢做自己，那么真实，那么自在！&lt;/p&gt;
-&lt;img data-src=&#34;/images/love_story/b001.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/love_story/b001.jpg&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
 &lt;p&gt;家人朋友都催我早点结婚，他们说生活就是平平淡淡、简简单单，想太多只会徒增烦恼。（不过，他们简单的外表底下，没准还藏着一个复杂的内心，谁知道呢。）&lt;/p&gt;
-&lt;img data-src=&#34;/images/love_story/b002.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/love_story/b002.jpg&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
 &lt;p&gt;有的人符合这个需求，有的人符合那个需求，可就是没有遇到完全契合的另一半。&lt;/p&gt;
-&lt;img data-src=&#34;/images/love_story/b003.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/love_story/b003.jpg&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
 &lt;p&gt;有的人本身就足够完美，根本没必要读懂我。&lt;/p&gt;
-&lt;img data-src=&#34;/images/love_story/b004.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/love_story/b004.jpg&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
 &lt;p&gt;有的人愿意接纳我、包容我，可又太贫瘠、太无趣。&lt;/p&gt;
-&lt;img data-src=&#34;/images/love_story/c001.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/love_story/c001.jpg&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
 &lt;p&gt;好不容易遇到契合的人，却早已成为别人对象，而且他们看起来也挺好的。&lt;/p&gt;
-&lt;img data-src=&#34;/images/love_story/c002.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/love_story/c002.jpg&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
 &lt;p&gt;我开始考虑要不要像别人一样，找个不那么契合的，慢慢磨合，说不定也挺好的。&lt;/p&gt;
 &lt;p&gt;可是当我看到他们为了配合另一方，改变自己，不惜把自己弄得遍体鳞伤。这真的值得吗？&lt;/p&gt;
-&lt;img data-src=&#34;/images/love_story/c003.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/love_story/c003.jpg&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
 &lt;p&gt;一旦不想再改变了，或者不再能够满足对方的需求了，就会被无情地抛弃。&lt;/p&gt;
-&lt;p&gt;我不想，也不敢委屈自己，我害怕那些不好的事情会发生在我身上…&lt;/p&gt;
-&lt;img data-src=&#34;/images/love_story/d001.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;我不想，也不敢委屈自己，我害怕那些不好的事情会发生在我身上......&lt;/p&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/love_story/d001.jpg&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
 &lt;p&gt;我陷入了沉思，爱情是什么？婚姻又是什么？如果大家都变得不像自己，如果大家都难受，那还有意义吗？&lt;/p&gt;
-&lt;img data-src=&#34;/images/love_story/d002.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/love_story/d002.jpg&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
 &lt;p&gt;孤单其实也没那么可怕，因为我已经能很好地和自己独处了呀～我不在乎别人的评价，那些别人看起来奇奇怪怪的特质，我知道它们一定会绽放绚丽的色彩，丰富我的生命。&lt;/p&gt;
-&lt;img data-src=&#34;/images/love_story/d003.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/love_story/d003.jpg&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
 &lt;p&gt;我许了个愿，希望能早日找到那个合适的对象。&lt;/p&gt;
-&lt;img data-src=&#34;/images/love_story/e001.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/love_story/e001.jpg&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
 &lt;p&gt;我问女神：怎么样才能像你这么完美？&lt;/p&gt;
 &lt;p&gt;女神回答：没有人生来就是完美的！完善自己，是你一生要完成的使命。&lt;/p&gt;
-&lt;img data-src=&#34;/images/love_story/e002.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/love_story/e002.jpg&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
 &lt;p&gt;是啊！我们总是习惯向外索取，希望别人能填补我们的缺口，却忘了要努力做好自己，不断完善自己。&lt;/p&gt;
-&lt;img data-src=&#34;/images/love_story/e003.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/love_story/e003.jpg&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
 &lt;p&gt;通过不断学习、培养兴趣，丰富自己的精神世界。&lt;/p&gt;
-&lt;img data-src=&#34;/images/love_story/e005.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/love_story/e005.jpg&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
 &lt;p&gt;让自己成为一个懂得付出、充满爱的人。&lt;/p&gt;
-&lt;img data-src=&#34;/images/love_story/f001.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/love_story/f001.jpg&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
 &lt;p&gt;虽然我在不断完善，但我偶尔还是会来到海边，跟真实的自己聊聊天，憧憬未来。&lt;/p&gt;
-&lt;img data-src=&#34;/images/love_story/f002.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/love_story/f002.jpg&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
 &lt;p&gt;也许，那个契合的另一半，就在某个地方。和我一样，努力地完善自己，静静地等待着。&lt;/p&gt;
-&lt;img data-src=&#34;/images/love_story/f004.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/love_story/f004.jpg&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
 &lt;p&gt;哪怕最后还是没有遇到，起码我已经在这场修行中完善了自己，不虚此行。&lt;/p&gt;
-&lt;img data-src=&#34;/images/love_story/f003.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/images/love_story/f003.jpg&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
 &lt;p&gt;爱情的意义在于帮助对方提高，同时也提高自己。希望大家都能早日找到属于你的幸福～&lt;/p&gt;
 </content>
         <category term="爱" />

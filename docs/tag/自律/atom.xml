@@ -4,43 +4,39 @@
     <title>成为自由人 • Posts by &#34;自律&#34; tag</title>
     <link href="https://luhuadong.com" />
     <updated>2023-06-30T05:00:42.000Z</updated>
-    <category term="商业" />
-    <category term="成长" />
-    <category term="日记" />
-    <category term="创业" />
-    <category term="家居" />
-    <category term="互联网" />
-    <category term="读书笔记" />
-    <category term="工程师" />
-    <category term="爱" />
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
+    <category term="商业" />
+    <category term="创业" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
+    <category term="种植" />
     <category term="英语" />
+    <category term="成长" />
     <category term="英语短文" />
     <category term="学习" />
-    <category term="种植" />
     <category term="健身" />
     <category term="气象爱好者" />
     <category term="指南" />
     <category term="自律" />
+    <category term="思维模型" />
     <category term="健康" />
     <category term="Hexo" />
     <category term="徒步" />
+    <category term="家居" />
     <category term="科普" />
     <category term="环保" />
     <category term="可持续" />
@@ -48,12 +44,17 @@
     <category term="社会现象" />
     <category term="独立开发者" />
     <category term="碳中和" />
+    <category term="互联网" />
+    <category term="工程师" />
+    <category term="AI" />
+    <category term="开发者" />
     <category term="职业" />
     <category term="时间管理" />
     <category term="milestone" />
     <category term="总结" />
     <category term="年终总结" />
     <category term="慈济" />
+    <category term="爱" />
     <category term="生活" />
     <category term="RT-Thread" />
     <category term="开源" />
@@ -62,7 +63,9 @@
     <category term="思考" />
     <category term="幸福" />
     <category term="猫" />
+    <category term="日记" />
     <category term="月报" />
+    <category term="读书笔记" />
     <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
@@ -81,6 +84,7 @@
     <category term="亲密关系" />
     <category term="农业" />
     <category term="素食" />
+    <category term="性格测试" />
     <category term="报告" />
     <category term="TED" />
     <category term="演讲" />
@@ -93,10 +97,6 @@
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
-    <category term="思维模型" />
-    <category term="开发者" />
-    <category term="性格测试" />
-    <category term="AI" />
     <entry>
         <id>https://luhuadong.com/guide/how-to-wake-up-at-5am-every-day.html</id>
         <title>如何做到每天清晨五点起床</title>
@@ -106,8 +106,8 @@
 &lt;/blockquote&gt;
 &lt;p&gt;I thought I was destined to be a night owl forever.&lt;/p&gt;
 &lt;p&gt;I’m no stranger to reading about the benefits of waking up early or having the same sleeping routine — all of us have probably read this at some point in our lives. I’m in my final semester of university, so the past few years of my life have been absolute chaos. I have classes some days, work other days, and have free time on especially rare days. Having a routine seemed impossible.&lt;/p&gt;
-&lt;p&gt;But a few months ago, I started reading &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSGFydWtpX011cmFrYW1p&#34;&gt;Haruki Murakami&lt;/span&gt;’s novels. My favorite is &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZ29vZHJlYWRzLmNvbS9ib29rL3Nob3cvMTEyOTcuTm9yd2VnaWFuX1dvb2Q=&#34;&gt;Norwegian Wood&lt;/span&gt;. Inspired by Murakami’s fascinating prose, I researched him a little.&lt;/p&gt;
-&lt;p&gt;I found this gem in a &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudGhlcGFyaXNyZXZpZXcub3JnL2ludGVydmlld3MvMi9oYXJ1a2ktbXVyYWthbWktdGhlLWFydC1vZi1maWN0aW9uLW5vLTE4Mi1oYXJ1a2ktbXVyYWthbWk=&#34;&gt;2004 interview&lt;/span&gt; he did:&lt;/p&gt;
+&lt;p&gt;But a few months ago, I started reading &lt;a href=&#34;https://en.wikipedia.org/wiki/Haruki_Murakami&#34;&gt;Haruki Murakami&lt;/a&gt;’s novels. My favorite is &lt;a href=&#34;https://www.goodreads.com/book/show/11297.Norwegian_Wood&#34;&gt;Norwegian Wood&lt;/a&gt;. Inspired by Murakami’s fascinating prose, I researched him a little.&lt;/p&gt;
+&lt;p&gt;I found this gem in a &lt;a href=&#34;https://www.theparisreview.org/interviews/2/haruki-murakami-the-art-of-fiction-no-182-haruki-murakami&#34;&gt;2004 interview&lt;/a&gt; he did:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;When I’m in writing mode for a novel, I get up at 4 a.m. and work for five to six hours. In the afternoon, I run for ten kilometers or swim for fifteen hundred meters (or do both), then I read a bit and listen to some music. I go to bed at 9 p.m.&lt;/p&gt;
 &lt;p&gt;I keep to this routine every day without variation. The repetition itself becomes the important thing; it’s a form of mesmerism. I mesmerize myself to reach a deeper state of mind.&lt;/p&gt;
@@ -121,11 +121,11 @@
 &lt;p&gt;I might continue experimenting with waking up even earlier, but I’m happy with my current routine and don’t want to put too much pressure on myself. After all, it’s healthy to get 8 hours of sleep, isn’t it?&lt;/p&gt;
 &lt;p&gt;I’ve tried to become an early bird many times in my life and this is the first time it has actually worked. Here’s what this process of “mesmerizing” myself looked like—and also a few words about what doesn’t work.&lt;/p&gt;
 &lt;p&gt;What really worked was more gentle than you might expect. Consider this, then, a compassionate guide to waking up early.&lt;/p&gt;
-&lt;h2 id=&#34;clarify-your-purpose-for-waking-up-early&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#clarify-your-purpose-for-waking-up-early&#34;&gt;#&lt;/a&gt; 🌟 Clarify Your Purpose for Waking Up Early&lt;/h2&gt;
+&lt;h2 id=&#34;clarify-your-purpose-for-waking-up-early&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#clarify-your-purpose-for-waking-up-early&#34;&gt;#&lt;/a&gt; 🌟 Clarify Your Purpose for Waking Up Early&lt;/h2&gt;
 &lt;p&gt;Waking up before everyone else is tough. If you don’t have a reason to do it, you won’t do it.&lt;/p&gt;
 &lt;p&gt;I don’t just mean purpose in the sense that you want to wake up to do something. Of course, you’re going to wake up early to do something (probably productive). But you need a purpose that extends past a basic task.&lt;/p&gt;
 &lt;p&gt;I’m about to graduate from university and I’m about to enter arguably the most important years of my life — years where I’ll have both money and freedom. If I ever want a chance at escaping at the 9–5, I have to do something now. Working in the morning is easier than working at night, so I need to set up my habits now so I can be living that life later.&lt;/p&gt;
-&lt;p&gt;You might already have a purpose, but if you don’t, try running a &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvNV9XaHlz&#34;&gt;5 Whys&lt;/span&gt; analysis (otherwise known as root cause analysis).&lt;/p&gt;
+&lt;p&gt;You might already have a purpose, but if you don’t, try running a &lt;a href=&#34;https://en.wikipedia.org/wiki/5_Whys&#34;&gt;5 Whys&lt;/a&gt; analysis (otherwise known as root cause analysis).&lt;/p&gt;
 &lt;p&gt;To do the &lt;em&gt;5 Whys&lt;/em&gt;:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Form a problem statement.&lt;/li&gt;
@@ -148,19 +148,19 @@
 &lt;/blockquote&gt;
 &lt;p&gt;Starting with a smaller problem and going deep to find the root cause helps you gain a better understanding of what you really want. It’ll help you understand if waking up is part of the solution to your problem.&lt;/p&gt;
 &lt;p&gt;Waking up early gives you a few hours every day in the morning where nobody else is going to disturb you. That’s all it is for most of us. For me, though, that’s an important part of my solution to escaping a 9–5 rut and doing work I love.&lt;/p&gt;
-&lt;h2 id=&#34;understand-what-you-gain-and-lose&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#understand-what-you-gain-and-lose&#34;&gt;#&lt;/a&gt; 💪 Understand What You Gain and Lose&lt;/h2&gt;
+&lt;h2 id=&#34;understand-what-you-gain-and-lose&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#understand-what-you-gain-and-lose&#34;&gt;#&lt;/a&gt; 💪 Understand What You Gain and Lose&lt;/h2&gt;
 &lt;p&gt;When I first tried to become an early riser, I didn’t consider what I have to give up. I failed because I wasn’t willing to give up the things I enjoyed, like my weekday social life. I would go out, say I’d wake up early despite getting home late, and ultimately wake up late.&lt;/p&gt;
 &lt;p&gt;If you accept what you lose upfront, you won’t keep trying to hold onto it when it’s gone.&lt;/p&gt;
 &lt;p&gt;But let’s be optimistic and start with what you’ll gain.&lt;/p&gt;
-&lt;h3 id=&#34;what-you-gain&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#what-you-gain&#34;&gt;#&lt;/a&gt; What you gain&lt;/h3&gt;
+&lt;h3 id=&#34;what-you-gain&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#what-you-gain&#34;&gt;#&lt;/a&gt; What you gain&lt;/h3&gt;
 &lt;p&gt;Being an early bird means you get a few hours every day to do whatever you want. It’s likely nobody else will be awake to disturb you. You can paint, start a business, write — anything you want.&lt;/p&gt;
 &lt;p&gt;Your prefrontal cortex is most active right after waking up, making it optimal for creativity. I’ve noticed I write much faster in the morning than at any other time in the day. Looking at the habits of famous writers, a lot of them have figured it out too (most authors write in the morning).&lt;/p&gt;
 &lt;p&gt;It’s a big win: a few hours of solitude with your most creative self.&lt;/p&gt;
-&lt;h3 id=&#34;what-you-lose&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#what-you-lose&#34;&gt;#&lt;/a&gt; What you lose&lt;/h3&gt;
+&lt;h3 id=&#34;what-you-lose&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#what-you-lose&#34;&gt;#&lt;/a&gt; What you lose&lt;/h3&gt;
 &lt;p&gt;There’s no free lunch. Waking up early doesn’t give you extra time. It takes off time you would otherwise have at night — unless you sleep less, which is a bad idea. If you sleep less, you either won’t be able to wake up early and become a night owl again, or you’ll be sleep-deprived and unproductive throughout the day.&lt;/p&gt;
 &lt;p&gt;In reality, I lost time since I started waking up early. I used to sleep for 6 hours and wake up from the urgency to get up and get to work. I can’t do that when I’m waking up early because there’s no urgency for me to get out of bed; I’m weak. So I sleep for 8 hours. Otherwise, the temptation to stay in bed would be too much.&lt;/p&gt;
 &lt;p&gt;I’ve lost around 2 hours every day—but I feel rested throughout the day.&lt;/p&gt;
-&lt;h3 id=&#34;running-out-of-time&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#running-out-of-time&#34;&gt;#&lt;/a&gt; Running out of time&lt;/h3&gt;
+&lt;h3 id=&#34;running-out-of-time&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#running-out-of-time&#34;&gt;#&lt;/a&gt; Running out of time&lt;/h3&gt;
 &lt;p&gt;I finish work at 5 p.m. (haha, 9–5). That means I have 4 hours after work before I sleep. But there are a few things I need to do within that time:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Commute (1 hour)&lt;/li&gt;
@@ -171,13 +171,13 @@
 &lt;p&gt;That adds up to 4 hours. There’s no time left to do anything else. Of course, these activities don’t always take an hour each, but you get the point. Winding down is especially important for me. I tried a lot of ways to get around it, but I ended up not being able to sleep.&lt;/p&gt;
 &lt;p&gt;To keep my sanity, I have dinner with friends on days I don’t exercise. Still, there’s a limited time I can spend with them (around 2 hours).&lt;/p&gt;
 &lt;p&gt;It feels like I’m living in a box, but I can’t say it’s all been bad. Being able to keep up this habit makes me feel eccentric and in some way, special.&lt;/p&gt;
-&lt;p&gt;I used to watch the &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1UUkdDTmxrNFJTMA==&#34;&gt;life of bodybuilders&lt;/span&gt; and wonder how they do it; all they do is eat, train and sleep. They don’t do anything else.&lt;/p&gt;
+&lt;p&gt;I used to watch the &lt;a href=&#34;https://www.youtube.com/watch?v=TRGCNlk4RS0&#34;&gt;life of bodybuilders&lt;/a&gt; and wonder how they do it; all they do is eat, train and sleep. They don’t do anything else.&lt;/p&gt;
 &lt;p&gt;Now I understand them. There’s a sense of purpose that comes with living in a box. You know you’re disciplining yourself for a goal.&lt;/p&gt;
-&lt;h3 id=&#34;give-yourself-one-day-off-per-week&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#give-yourself-one-day-off-per-week&#34;&gt;#&lt;/a&gt; Give yourself one day off per week&lt;/h3&gt;
+&lt;h3 id=&#34;give-yourself-one-day-off-per-week&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#give-yourself-one-day-off-per-week&#34;&gt;#&lt;/a&gt; Give yourself one day off per week&lt;/h3&gt;
 &lt;p&gt;I’ve found that if I mess up my sleep schedule one day a week, I can still maintain it throughout the week. I tried sleeping late two or three days a week — it didn’t work. But one seems to be okay.&lt;/p&gt;
 &lt;p&gt;I love going out at night, so I’ve given myself one day a week (usually Friday) to hang out with friends for longer.&lt;/p&gt;
 &lt;p&gt;If this is something you need to do to wake up early, I suggest you set rules for it, too. You’re less likely to fail with disciplined chaos than pure chaos. Give yourself one day a week where you’re allowed to break the rules to mitigate what you feel you are losing.&lt;/p&gt;
-&lt;h3 id=&#34;compare-the-benefits-with-the-cost&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#compare-the-benefits-with-the-cost&#34;&gt;#&lt;/a&gt; Compare the benefits with the cost&lt;/h3&gt;
+&lt;h3 id=&#34;compare-the-benefits-with-the-cost&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#compare-the-benefits-with-the-cost&#34;&gt;#&lt;/a&gt; Compare the benefits with the cost&lt;/h3&gt;
 &lt;p&gt;Ask yourself these two questions:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;What will I gain with the extra time in the morning?&lt;/li&gt;
@@ -185,22 +185,22 @@
 &lt;/ul&gt;
 &lt;p&gt;Then ask yourself: “Do the benefits outweigh the costs?”&lt;/p&gt;
 &lt;p&gt;If they don’t, then there’s probably no point in waking up early. If they do, there are a few things that helped me that’ll probably help you.&lt;/p&gt;
-&lt;h2 id=&#34;focus-on-sleeping-time&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#focus-on-sleeping-time&#34;&gt;#&lt;/a&gt; 😴 Focus on Sleeping Time&lt;/h2&gt;
+&lt;h2 id=&#34;focus-on-sleeping-time&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#focus-on-sleeping-time&#34;&gt;#&lt;/a&gt; 😴 Focus on Sleeping Time&lt;/h2&gt;
 &lt;p&gt;When I told myself I was going to wake up at 5 a.m. no matter what, I failed. I’d do it if I slept too late. I’d do it if I stayed out late at night. I’d do it if I stayed up studying.&lt;/p&gt;
 &lt;p&gt;This didn’t work. I don’t know what I was trying to do by trying to cheat the system, thinking my willpower was enough.&lt;/p&gt;
 &lt;p&gt;This might work for people who have this habit already. But if you’re starting out, focus on one thing: sleeping time.&lt;/p&gt;
-&lt;h3 id=&#34;get-enough-sleep&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#get-enough-sleep&#34;&gt;#&lt;/a&gt; Get enough sleep&lt;/h3&gt;
+&lt;h3 id=&#34;get-enough-sleep&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#get-enough-sleep&#34;&gt;#&lt;/a&gt; Get enough sleep&lt;/h3&gt;
 &lt;p&gt;A common mistake people make is thinking they can sleep the same amount as they usually do. For example, I only slept for 6 hours before, so I thought I could sleep for 6 hours and still wake up early. This doesn’t work because you end up sleeping in; it’s unlikely you have any willpower when it’s pitch black outside.&lt;/p&gt;
 &lt;p&gt;For the best chances at waking up early, set a goal for 8 hours of sleep. I want to wake up at 5 a.m., so my sleeping time is 9 p.m. (8 hours before).&lt;/p&gt;
-&lt;h3 id=&#34;sleep-more-than-needed-when-you-start&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#sleep-more-than-needed-when-you-start&#34;&gt;#&lt;/a&gt; Sleep more than needed (when you start)&lt;/h3&gt;
+&lt;h3 id=&#34;sleep-more-than-needed-when-you-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sleep-more-than-needed-when-you-start&#34;&gt;#&lt;/a&gt; Sleep more than needed (when you start)&lt;/h3&gt;
 &lt;p&gt;When I started, I didn’t set my alarm at 5 a.m. I set no alarm at all. With drastic changes to your sleeping schedule, you’re going to need some time to adjust. You initially need more sleep.&lt;/p&gt;
 &lt;p&gt;You have the rest of your life to wake up early. Spend some time now getting the habit into your routine. This is a marathon, not a sprint.&lt;/p&gt;
 &lt;p&gt;Waking up early means waking up when it’s still dark. Give your body some time to adjust to the darkness. It took me about a week; it might be longer or shorter for you.&lt;/p&gt;
 &lt;p&gt;I naturally woke up earlier and earlier every day. Now I can successfully wake up at 5 a.m. every day.&lt;/p&gt;
-&lt;h2 id=&#34;dont-try-to-change-everything&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#dont-try-to-change-everything&#34;&gt;#&lt;/a&gt; 🌳 Don’t Try to Change Everything&lt;/h2&gt;
+&lt;h2 id=&#34;dont-try-to-change-everything&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dont-try-to-change-everything&#34;&gt;#&lt;/a&gt; 🌳 Don’t Try to Change Everything&lt;/h2&gt;
 &lt;p&gt;You can’t introduce too much change to your life at once. Changing your sleeping pattern is a big change. I know you want to wake up and do something productive right away. You want to do all the amazing things you couldn’t do before.&lt;/p&gt;
 &lt;p&gt;Be patient. If you don’t, you’re not going to be able to do any amazing things at all.&lt;/p&gt;
-&lt;h3 id=&#34;you-cant-change-too-much-at-once&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#you-cant-change-too-much-at-once&#34;&gt;#&lt;/a&gt; You can’t change too much at once&lt;/h3&gt;
+&lt;h3 id=&#34;you-cant-change-too-much-at-once&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#you-cant-change-too-much-at-once&#34;&gt;#&lt;/a&gt; You can’t change too much at once&lt;/h3&gt;
 &lt;p&gt;If it helps to get some empathy, imagine the life of someone who seriously needs help. An archetype would be the 30-year-old man-child who still lives in his parents’ basement and plays video games all day.&lt;/p&gt;
 &lt;p&gt;If you were giving him life advice, it would be something like:&lt;/p&gt;
 &lt;ul&gt;
@@ -214,18 +214,18 @@
 &lt;p&gt;I can barely fix my diet and go to the gym at the same time, and I’d like to consider myself a healthily integrated member of society.&lt;/p&gt;
 &lt;p&gt;Similarly, you should only change one thing at a time. For now, focus on getting to sleep early. That’s all.&lt;/p&gt;
 &lt;p&gt;Slowly increase your productivity as you go. If your goal is to get work done in the morning, start by doing 30 minutes of work, then an hour, and so on.&lt;/p&gt;
-&lt;h3 id=&#34;have-fun-in-the-morning-when-you-start&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#have-fun-in-the-morning-when-you-start&#34;&gt;#&lt;/a&gt; Have fun in the morning (when you start)&lt;/h3&gt;
+&lt;h3 id=&#34;have-fun-in-the-morning-when-you-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#have-fun-in-the-morning-when-you-start&#34;&gt;#&lt;/a&gt; Have fun in the morning (when you start)&lt;/h3&gt;
 &lt;p&gt;If there’s a day you wake up feeling super motivated and ready to do work, then, by all means, do it. But if you don’t feel motivated at the start, just have fun.&lt;/p&gt;
 &lt;p&gt;I spent around two weeks waking up in the morning and watching TV shows, YouTube or Twitch streams. It was actually fun — watching stuff when nobody else was around.&lt;/p&gt;
 &lt;p&gt;Eventually, I was ready to do work. Trust me, you’ll eventually be ready to do work. There’s no way you’re going to wake up every morning to mess around for the rest of your life (if your goal is to be productive); it’ll feel like such a waste.&lt;/p&gt;
-&lt;h2 id=&#34;choose-a-morning-routine&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#choose-a-morning-routine&#34;&gt;#&lt;/a&gt; 🌅 Choose a Morning Routine&lt;/h2&gt;
+&lt;h2 id=&#34;choose-a-morning-routine&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#choose-a-morning-routine&#34;&gt;#&lt;/a&gt; 🌅 Choose a Morning Routine&lt;/h2&gt;
 &lt;p&gt;Even after waking up early for months, I still have trouble getting out of bed without my morning routine. I tried to skip it a few times, but it felt wrong — as if my morning routine is part of the process of waking up.&lt;/p&gt;
 &lt;p&gt;A morning routine not only prepares you for the day, but it mesmerizes you. Before my routine, I’m groggy and tired. After, I’m excited and awake. It’s the closest thing to magic I’ve found.&lt;/p&gt;
 &lt;p&gt;It’s like my brain is telling me: “now that you’ve completed the first task of the day, you’re ready to wake up.”&lt;/p&gt;
 &lt;p&gt;I journal for my morning routine — specifically, I do morning pages. It’s an exercise from Julia Cameron’s &lt;a href=&#34;https://www.goodreads.com/book/show/615570.The_Artist_s_Way&#34;&gt;&lt;em&gt;Artist’s Way&lt;/em&gt;&lt;/a&gt; where you write 3 longhand pages without stopping to think. It’s designed to unblock artists by teaching them that perfection isn’t necessary to create.&lt;/p&gt;
 &lt;p&gt;Instead of 3 A4 pages, I do 4 A5 pages. I don’t know if they’re the same amount, but the exact amount of words you write doesn’t matter. It’s pretty close though.&lt;/p&gt;
 &lt;p&gt;I keep a journal and pen next to my bed. They’re the first thing I touch (after turning the lights on) after waking up.&lt;/p&gt;
-&lt;h3 id=&#34;a-routine-that-suits-you&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#a-routine-that-suits-you&#34;&gt;#&lt;/a&gt; A routine that suits you&lt;/h3&gt;
+&lt;h3 id=&#34;a-routine-that-suits-you&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#a-routine-that-suits-you&#34;&gt;#&lt;/a&gt; A routine that suits you&lt;/h3&gt;
 &lt;p&gt;You might already have a morning routine or have one in mind you want to try. Or you could also do morning pages.&lt;/p&gt;
 &lt;p&gt;Here are some other practices I recommend for morning routines:&lt;/p&gt;
 &lt;ul&gt;
@@ -234,21 +234,21 @@
 &lt;li&gt;Making tea&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The actual routine doesn’t matter — at least for waking up. You’ll get different benefits from different routines but the goal is to help you wake up. You want to teach your body what to do when you wake up.&lt;/p&gt;
-&lt;h2 id=&#34;get-an-alarm-that-works-for-you&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#get-an-alarm-that-works-for-you&#34;&gt;#&lt;/a&gt; ⏰ Get an Alarm That Works for You&lt;/h2&gt;
+&lt;h2 id=&#34;get-an-alarm-that-works-for-you&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#get-an-alarm-that-works-for-you&#34;&gt;#&lt;/a&gt; ⏰ Get an Alarm That Works for You&lt;/h2&gt;
 &lt;p&gt;If there’s one piece of advice with alarms I would give, it’s this: don’t use an alarm to wake you up; instead, use it as an insurance policy.&lt;/p&gt;
 &lt;p&gt;When I first started using alarms, I used them to try to cheat sleep. When you use alarms this way, you end up waking up groggy and tired because you didn’t get enough sleep in the first place.&lt;/p&gt;
 &lt;p&gt;If you don’t want to end up hating your alarm, make sure you set the time to the time after you want to wake up. I set it 8.5 hours after my bedtime and I wake up without it.&lt;/p&gt;
-&lt;h3 id=&#34;experiment-with-alarms&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#experiment-with-alarms&#34;&gt;#&lt;/a&gt; Experiment with alarms&lt;/h3&gt;
+&lt;h3 id=&#34;experiment-with-alarms&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#experiment-with-alarms&#34;&gt;#&lt;/a&gt; Experiment with alarms&lt;/h3&gt;
 &lt;p&gt;If you haven’t experimented with alarms before, you should. Different alarms suit different people. Do a quick Google search for alarms.&lt;/p&gt;
 &lt;p&gt;There are all sorts of alarms out there. There are smart alarms, alarms that only work if you step out of your bed, and even phone apps where someone calls you to wake you up. The latter would never work for me, but I can see it working for someone very social.&lt;/p&gt;
 &lt;p&gt;If you don’t want to do your own research, I have a recommendation for you.&lt;/p&gt;
-&lt;h3 id=&#34;try-a-light-alarm&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#try-a-light-alarm&#34;&gt;#&lt;/a&gt; Try a light alarm&lt;/h3&gt;
+&lt;h3 id=&#34;try-a-light-alarm&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#try-a-light-alarm&#34;&gt;#&lt;/a&gt; Try a light alarm&lt;/h3&gt;
 &lt;p&gt;I use a light alarm. A light alarm wakes you up with light before it wakes you up with sound. It starts shining a light 30 minutes before the time you set and slowly gets brighter and brighter. This is useful for early birds because it’s dark early in the morning.&lt;/p&gt;
 &lt;p&gt;I set it at 5:30 a.m., which means it starts shining at 5 a.m. I never wake up to the sound; I always wake up to the light. It hasn’t been easy to create this habit, but since I’ve made sure I get enough sleep first, the light is enough—I never have a jarring sound wake me up.&lt;/p&gt;
-&lt;p&gt;Here’s a &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9TdW5yaXNlLU5hdHVyZS1Tb3VuZHMtQmVkc2lkZS1TaW11bGF0b3IvZHAvQjA3UDI0UkhUSy8=&#34;&gt;link to the alarm I use&lt;/span&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;sleep-without-your-phone&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#sleep-without-your-phone&#34;&gt;#&lt;/a&gt; 📵 Sleep Without Your Phone&lt;/h2&gt;
+&lt;p&gt;Here’s a &lt;a href=&#34;https://www.amazon.com/Sunrise-Nature-Sounds-Bedside-Simulator/dp/B07P24RHTK/&#34;&gt;link to the alarm I use&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;sleep-without-your-phone&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sleep-without-your-phone&#34;&gt;#&lt;/a&gt; 📵 Sleep Without Your Phone&lt;/h2&gt;
 &lt;p&gt;If you want a chance at being productive in the morning, you can’t sleep with your phone. It’s already hard to wake up before everyone else. Don’t make it harder for yourself by giving yourself easy access to addictive stimuli while you’re in bed.&lt;/p&gt;
-&lt;h3 id=&#34;a-boring-sleeping-environment&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#a-boring-sleeping-environment&#34;&gt;#&lt;/a&gt; A boring sleeping environment&lt;/h3&gt;
+&lt;h3 id=&#34;a-boring-sleeping-environment&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#a-boring-sleeping-environment&#34;&gt;#&lt;/a&gt; A boring sleeping environment&lt;/h3&gt;
 &lt;p&gt;Make your sleeping environment as boring as possible. You don’t want to have any excitement before you sleep or after you wake up.&lt;/p&gt;
 &lt;p&gt;The most common culprit of entertainment in bed is the phone. If you have something else that you love you use in bed like a tablet, I suggest you move that away too.&lt;/p&gt;
 &lt;p&gt;There are two goals this achieves:&lt;/p&gt;
@@ -256,31 +256,31 @@
 &lt;li&gt;Improves sleep&lt;/li&gt;
 &lt;li&gt;Helps with getting out of bed&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;no-way-around-it&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#no-way-around-it&#34;&gt;#&lt;/a&gt; No way around it&lt;/h3&gt;
+&lt;h3 id=&#34;no-way-around-it&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#no-way-around-it&#34;&gt;#&lt;/a&gt; No way around it&lt;/h3&gt;
 &lt;p&gt;Before I put my phone in another room, I constantly checked it in bed. I would message my friends. I would check every social media app I had. I would watch YouTube to sleep. I thought it was good because I kept doing it and I was so used to falling asleep with entertainment.&lt;/p&gt;
 &lt;p&gt;As long as your phone is within reach when you wake up, there’s an incredible temptation to use it in bed. I don’t know about you but I’ve stayed in bed for hours mucking around on my phone.&lt;/p&gt;
 &lt;p&gt;I have no self-control at all, so I control my environment.&lt;/p&gt;
-&lt;h3 id=&#34;put-your-phone-in-another-room&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#put-your-phone-in-another-room&#34;&gt;#&lt;/a&gt; Put your phone in another room&lt;/h3&gt;
+&lt;h3 id=&#34;put-your-phone-in-another-room&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#put-your-phone-in-another-room&#34;&gt;#&lt;/a&gt; Put your phone in another room&lt;/h3&gt;
 &lt;p&gt;It’s a simple idea, but not easy. It feels like you’re giving away your baby. But the resistance is good. It means you’re killing an addiction.&lt;/p&gt;
 &lt;p&gt;Choose a room with a place to charge your phone. This could be the living room, kitchen, or in my case, a study room. Leave your phone there and in the morning, check it after you’ve left your bed, not before.&lt;/p&gt;
-&lt;h2 id=&#34;use-melatonin-as-insurance&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#use-melatonin-as-insurance&#34;&gt;#&lt;/a&gt; 💊 Use Melatonin as Insurance&lt;/h2&gt;
+&lt;h2 id=&#34;use-melatonin-as-insurance&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#use-melatonin-as-insurance&#34;&gt;#&lt;/a&gt; 💊 Use Melatonin as Insurance&lt;/h2&gt;
 &lt;p&gt;I’ve left the most controversial for last. If you don’t want to take any substances, you can skip this section.&lt;/p&gt;
 &lt;p&gt;Melatonin is a natural hormone that regulates the sleep-wake cycle. Your body produces it at night to help you sleep. But you can also take it as a pill.&lt;/p&gt;
 &lt;p&gt;You can get it in the United States without a prescription. Since melatonin is found in some foods, the U.S. Dietary Supplement Health and Education Act of 1994 allows it to be sold as a dietary supplement.&lt;/p&gt;
-&lt;h3 id=&#34;dosage&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#dosage&#34;&gt;#&lt;/a&gt; Dosage&lt;/h3&gt;
-&lt;p&gt;A &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL25ld3MubWl0LmVkdS8yMDAxL21lbGF0b25pbi0xMDE3&#34;&gt;2001 study&lt;/span&gt; found that the ideal dosage is 0.3 mg. The lowest amount of a melatonin dose I’ve found is 1mg. If you can find 0.3 mg, then good for you. I use 1mg and cut it into half (0.5 mg). It’s not exactly 0.3 mg, but it works for me. I’ve tried different dosages, including up to 10 mg, and none of them worked as well as taking less.&lt;/p&gt;
-&lt;h3 id=&#34;regulate-your-sleep-schedule&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#regulate-your-sleep-schedule&#34;&gt;#&lt;/a&gt; Regulate your sleep schedule&lt;/h3&gt;
+&lt;h3 id=&#34;dosage&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dosage&#34;&gt;#&lt;/a&gt; Dosage&lt;/h3&gt;
+&lt;p&gt;A &lt;a href=&#34;http://news.mit.edu/2001/melatonin-1017&#34;&gt;2001 study&lt;/a&gt; found that the ideal dosage is 0.3 mg. The lowest amount of a melatonin dose I’ve found is 1mg. If you can find 0.3 mg, then good for you. I use 1mg and cut it into half (0.5 mg). It’s not exactly 0.3 mg, but it works for me. I’ve tried different dosages, including up to 10 mg, and none of them worked as well as taking less.&lt;/p&gt;
+&lt;h3 id=&#34;regulate-your-sleep-schedule&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#regulate-your-sleep-schedule&#34;&gt;#&lt;/a&gt; Regulate your sleep schedule&lt;/h3&gt;
 &lt;p&gt;If you don’t get to sleep on time consistently, melatonin isn’t going to save you. I tried to cheat the system. It didn’t work.&lt;/p&gt;
 &lt;p&gt;Nevertheless, you’re sometimes going to fail. You might sleep too late. You might have a coffee too late in the day. You might wake up in the afternoon and have trouble sleeping early.&lt;/p&gt;
 &lt;p&gt;I fail. I’m not a perfectly disciplined monk. When it happens, I take melatonin.&lt;/p&gt;
 &lt;p&gt;Even though melatonin isn’t considered an addictive substance, be cautious. There’s no evidence melatonin has dangerous effects, but you can build up a tolerance for it.&lt;/p&gt;
 &lt;p&gt;My recommendation is to use melatonin when you mess up your sleep schedule and can’t get to sleep at your bedtime because you’re too awake — but don’t allow that to happen too often.&lt;/p&gt;
-&lt;hr&gt;
+&lt;hr /&gt;
 &lt;p&gt;I said a lot about sleep. That’s because most of waking up early is sleeping early, and it isn’t easy to sleep early. There are sacrifices to be made. If you’re willing to make them, you can become an early bird.&lt;/p&gt;
 &lt;p&gt;There are glamorous parts to waking up early. You get to be productive. You get the feeling of accomplishing something before anybody else does. You get hours of solitude in a solitude-deprived, technology-focused world. I love it.&lt;/p&gt;
-&lt;h2 id=&#34;参考&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#参考&#34;&gt;#&lt;/a&gt; 参考&lt;/h2&gt;
+&lt;h2 id=&#34;参考&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#参考&#34;&gt;#&lt;/a&gt; 参考&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9iZXR0ZXJodW1hbnMucHViL2hvdy10by13YWtlLXVwLWF0LTUtYS1tLWV2ZXJ5LWRheS1jZWIwMmUyOWM4MDI=&#34;&gt;How To Wake Up at 5 A.M. Every Day&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://betterhumans.pub/how-to-wake-up-at-5-a-m-every-day-ceb02e29c802&#34;&gt;How To Wake Up at 5 A.M. Every Day&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
         <category term="指南" />
@@ -291,7 +291,7 @@
         <id>https://luhuadong.com/guide/change-yourself-with-a-little-restraint.html</id>
         <title>从一点小小的克制开始改变自己</title>
         <link rel="alternate" href="https://luhuadong.com/guide/change-yourself-with-a-little-restraint.html"/>
-        <content type="html">&lt;h2 id=&#34;生活习惯&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#生活习惯&#34;&gt;#&lt;/a&gt; 生活习惯&lt;/h2&gt;
+        <content type="html">&lt;h2 id=&#34;生活习惯&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活习惯&#34;&gt;#&lt;/a&gt; 生活习惯&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;戒掉熬夜，保证充足睡眠&lt;/li&gt;
 &lt;li&gt;起床后叠好被子，换好衣服，有仪式感地开启每一天&lt;/li&gt;
@@ -304,7 +304,7 @@
 &lt;li&gt;每周整理收拾一次房间，心情会变得更好&lt;/li&gt;
 &lt;li&gt;坚持理财记账的好习惯&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;自我提升&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#自我提升&#34;&gt;#&lt;/a&gt; 自我提升&lt;/h2&gt;
+&lt;h2 id=&#34;自我提升&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自我提升&#34;&gt;#&lt;/a&gt; 自我提升&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;保证每个月至少读两本书&lt;/li&gt;
 &lt;li&gt;把自己的字练好&lt;/li&gt;
@@ -316,7 +316,7 @@
 &lt;li&gt;提升工作效率，找到适合自己的方式方法&lt;/li&gt;
 &lt;li&gt;戒掉拖延症，要做的事立马去做！&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;提升内外气质&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#提升内外气质&#34;&gt;#&lt;/a&gt; 提升内外气质&lt;/h2&gt;
+&lt;h2 id=&#34;提升内外气质&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#提升内外气质&#34;&gt;#&lt;/a&gt; 提升内外气质&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;多微笑，微笑能带来自信和好运&lt;/li&gt;
 &lt;li&gt;时刻保持抬头、挺胸、不驼背&lt;/li&gt;
@@ -326,7 +326,7 @@
 &lt;li&gt;不吝啬对别人的夸奖，大方赞扬&lt;/li&gt;
 &lt;li&gt;不要悲观主义，告别负能量和抱怨&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;人际交往&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#人际交往&#34;&gt;#&lt;/a&gt; 人际交往&lt;/h2&gt;
+&lt;h2 id=&#34;人际交往&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#人际交往&#34;&gt;#&lt;/a&gt; 人际交往&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;减少无意义的社交，远离让你心生厌烦的人&lt;/li&gt;
 &lt;li&gt;提高圈子质量，多和优秀的人接触&lt;/li&gt;
@@ -334,7 +334,7 @@
 &lt;li&gt;记得伴侣、亲朋好友的生日并送上祝福&lt;/li&gt;
 &lt;li&gt;多和父母通电话，提供心灵上的陪伴&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;消费观念&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#消费观念&#34;&gt;#&lt;/a&gt; 消费观念&lt;/h2&gt;
+&lt;h2 id=&#34;消费观念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#消费观念&#34;&gt;#&lt;/a&gt; 消费观念&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;投资自己，理性消费，不盲目跟风&lt;/li&gt;
 &lt;li&gt;养成记账的好习惯，便于每月复盘&lt;/li&gt;
