@@ -262,10 +262,10 @@ Forem 提供了一个全面的 RESTful API，允许开发者通过编程方式�
 &lt;/blockquote&gt;
 &lt;p&gt;事业太大，需要慢慢做，还是先找对象结婚吧。&lt;/p&gt;
 &lt;p&gt;对另一半的需求？&lt;/p&gt;
-&lt;p&gt;&amp;lt;!--&lt;/p&gt;
-&lt;p&gt;性需求&lt;/p&gt;
-&lt;p&gt;有相同的理念&lt;/p&gt;
-&lt;p&gt;--&amp;gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;性需求&lt;/li&gt;
+&lt;li&gt;有相同的理念&lt;/li&gt;
+&lt;/ul&gt;
 </content>
         <category term="思考" />
         <category term="日记" />
@@ -2801,10 +2801,8 @@ Forem 提供了一个全面的 RESTful API，允许开发者通过编程方式�
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/images/map/China_Railway_Highspeed_2023.pdf&#34;&gt;【PDF】中国高铁线路图（高清）&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/images/map/China_Railway_Highspeed_2023.png&#34;&gt;【PNG】中国高铁线路图（高清）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://weibo.com/ttarticle/p/show?id=2309404859631611805768&#34;&gt;【微博】中国高速铁路运营线路图&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&amp;lt;!--&lt;br /&gt;
-&lt;a href=&#34;https://weibo.com/ttarticle/p/show?id=2309404859631611805768&#34;&gt;https://weibo.com/ttarticle/p/show?id=2309404859631611805768&lt;/a&gt;&lt;br /&gt;
---&amp;gt;&lt;/p&gt;
 </content>
         <category term="地理" />
         <category term="城市" />

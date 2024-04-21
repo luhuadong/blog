@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://luhuadong.com/journal/20240406.html</loc>
+    
+    <lastmod>2024-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://luhuadong.com/map/china-railway-highspeed.html</loc>
+    
+    <lastmod>2024-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://luhuadong.com/relationship/mbti-personality-test.html</loc>
     
     <lastmod>2024-04-20</lastmod>
@@ -75,15 +93,6 @@
   
   <url>
     <loc>https://luhuadong.com/me/my-life-principles.html</loc>
-    
-    <lastmod>2024-04-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://luhuadong.com/journal/20240406.html</loc>
     
     <lastmod>2024-04-14</lastmod>
     
@@ -509,15 +518,6 @@
     <loc>https://luhuadong.com/english/Which-Woman.html</loc>
     
     <lastmod>2024-02-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://luhuadong.com/map/china-railway-highspeed.html</loc>
-    
-    <lastmod>2024-01-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
