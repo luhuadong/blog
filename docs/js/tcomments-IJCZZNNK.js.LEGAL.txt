@@ -1,4 +1,0 @@
-Bundled license information:
-
-twikoo/dist/twikoo.all.min.js:
-  /*! For license information please see twikoo.all.min.js.LICENSE.txt */
