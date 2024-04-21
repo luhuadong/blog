@@ -15,19 +15,19 @@
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
+    <category term="种植" />
     <category term="英语" />
     <category term="成长" />
     <category term="英语短文" />
     <category term="学习" />
-    <category term="种植" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="健身" />
     <category term="气象爱好者" />
     <category term="指南" />
@@ -50,6 +50,8 @@
     <category term="开发者" />
     <category term="职业" />
     <category term="时间管理" />
+    <category term="地铁" />
+    <category term="Markdown" />
     <category term="milestone" />
     <category term="总结" />
     <category term="年终总结" />
@@ -66,8 +68,6 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
-    <category term="Markdown" />
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
@@ -81,9 +81,9 @@
     <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
+    <category term="素食" />
     <category term="亲密关系" />
     <category term="农业" />
-    <category term="素食" />
     <category term="性格测试" />
     <category term="报告" />
     <category term="TED" />
@@ -288,18 +288,18 @@
 &lt;p&gt;把醒好的面团放在案板上，搓成直径 2-3 厘米的圆柱状长条。把柱条揪（或切）成高 1.5 厘米左右的一个个小柱 —— 剂子。把剂子用手压扁。再用擀面杖擀成直径适度（4-7 厘米）的厚约 0.5——1 毫米的薄圆饼，中心部分稍厚些。是为饺子皮儿。擀皮时，案板上要撒些薄面，以防粘板。&lt;/p&gt;
 &lt;h3 id=&#34;包饺子&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#包饺子&#34;&gt;#&lt;/a&gt; 包饺子&lt;/h3&gt;
 &lt;p&gt;南方饺子的包法通常有下面 3 种：&lt;/p&gt;
-&lt;p&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;one&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0031-20e3.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/0031-20e3.png?v8&lt;/a&gt;&amp;quot;&amp;gt;1️⃣&amp;lt;/span&amp;gt; 【元宝状】饺子皮放入馅料后对折成半圆形，先将中间捏住，然后用左手从左边边缘开始向中间捏褶，右手从右边边缘开始向中间捏褶，饺子两半完全合上之后将边缘捏实弯曲呈元宝状。&lt;/p&gt;
-&lt;p&gt;&amp;lt;video muted autoplay loop&amp;gt;&lt;br /&gt;
-&amp;lt;source src=&amp;quot;/images/vegan/make-dumplings-01.mp4&amp;quot; type=&amp;quot;video/mp4&amp;quot;&amp;gt;&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;/p&gt;
-&lt;p&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;two&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0032-20e3.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/0032-20e3.png?v8&lt;/a&gt;&amp;quot;&amp;gt;2️⃣&amp;lt;/span&amp;gt; 【沙县小吃】饺子皮放入馅料，用右手食指和拇指托住，将饺子皮对折，然后用左手大拇指和食指把其中一边向里折起约 1-2 厘米，捏紧再向里折 1-2 厘米，再捏紧如此重复直至另一边，最后收口时把尾巴稍微向上翘捏牢至形如柳叶既可。&lt;/p&gt;
-&lt;p&gt;&amp;lt;video muted autoplay loop&amp;gt;&lt;br /&gt;
-&amp;lt;source src=&amp;quot;/images/vegan/make-dumplings-02.mp4&amp;quot; type=&amp;quot;video/mp4&amp;quot;&amp;gt;&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;/p&gt;
-&lt;p&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;three&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0033-20e3.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/0033-20e3.png?v8&lt;/a&gt;&amp;quot;&amp;gt;3️⃣&amp;lt;/span&amp;gt; 【小月牙】饺子皮放入馅料，用右手食指和拇指托住，将饺子皮对折，然后用左手大拇指和食指将左端边角捏住，左手拇指向内轻推外侧皮，左手食指将外侧皮形成褶折，拇指配合将褶折捏紧，重复步骤至右端饺边并将两端封口处捏牢。（这是我妈习惯的包法）&lt;/p&gt;
-&lt;p&gt;&amp;lt;video muted autoplay loop&amp;gt;&lt;br /&gt;
-&amp;lt;source src=&amp;quot;/images/vegan/make-dumplings-03.mp4&amp;quot; type=&amp;quot;video/mp4&amp;quot;&amp;gt;&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;one&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0031-20e3.png?v8&#34;&gt;1️⃣&lt;/span&gt; 【元宝状】饺子皮放入馅料后对折成半圆形，先将中间捏住，然后用左手从左边边缘开始向中间捏褶，右手从右边边缘开始向中间捏褶，饺子两半完全合上之后将边缘捏实弯曲呈元宝状。&lt;/p&gt;
+&lt;video muted autoplay loop&gt;
+    &lt;source src=&#34;/images/vegan/make-dumplings-01.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;p&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;two&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0032-20e3.png?v8&#34;&gt;2️⃣&lt;/span&gt; 【沙县小吃】饺子皮放入馅料，用右手食指和拇指托住，将饺子皮对折，然后用左手大拇指和食指把其中一边向里折起约 1-2 厘米，捏紧再向里折 1-2 厘米，再捏紧如此重复直至另一边，最后收口时把尾巴稍微向上翘捏牢至形如柳叶既可。&lt;/p&gt;
+&lt;video muted autoplay loop&gt;
+    &lt;source src=&#34;/images/vegan/make-dumplings-02.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;p&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;three&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0033-20e3.png?v8&#34;&gt;3️⃣&lt;/span&gt; 【小月牙】饺子皮放入馅料，用右手食指和拇指托住，将饺子皮对折，然后用左手大拇指和食指将左端边角捏住，左手拇指向内轻推外侧皮，左手食指将外侧皮形成褶折，拇指配合将褶折捏紧，重复步骤至右端饺边并将两端封口处捏牢。（这是我妈习惯的包法）&lt;/p&gt;
+&lt;video muted autoplay loop&gt;
+    &lt;source src=&#34;/images/vegan/make-dumplings-03.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
 &lt;h3 id=&#34;煮饺子&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#煮饺子&#34;&gt;#&lt;/a&gt; 煮饺子&lt;/h3&gt;
 &lt;p&gt;锅中放清水，旺火烧开后，放入生饺子，一边放一边搅动，以防粘锅。沉在锅下部的饺子层的高度与其上面的水层的厚度，以不超过 3:2 为宜。饺子过多，易破。加锅盖。整个过程保持旺火。水又开锅，此时饺子应当都漂在水面，加少许凉水，使翻滚的汤终止翻滚，搅动。水又开，再加少许凉水，搅动。水再开，即可用漏勺把饺子捞出。&lt;/p&gt;
 &lt;p&gt;判断是否煮熟的方法：用手指按一下皮儿没有破的饺子肚，离开后又鼓起，熟了。&lt;/p&gt;

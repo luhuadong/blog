@@ -15,19 +15,19 @@
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
+    <category term="种植" />
     <category term="英语" />
     <category term="成长" />
     <category term="英语短文" />
     <category term="学习" />
-    <category term="种植" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="健身" />
     <category term="气象爱好者" />
     <category term="指南" />
@@ -50,6 +50,8 @@
     <category term="开发者" />
     <category term="职业" />
     <category term="时间管理" />
+    <category term="地铁" />
+    <category term="Markdown" />
     <category term="milestone" />
     <category term="总结" />
     <category term="年终总结" />
@@ -66,8 +68,6 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
-    <category term="Markdown" />
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
@@ -81,9 +81,9 @@
     <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
+    <category term="素食" />
     <category term="亲密关系" />
     <category term="农业" />
-    <category term="素食" />
     <category term="性格测试" />
     <category term="报告" />
     <category term="TED" />
@@ -398,7 +398,7 @@
 &lt;p&gt;30 岁真是一个可怕的数字，它总在提醒你 “该成家啦，该立业啦”。而我，似乎两头都不着调。没有甜甜的爱情，没有支持我的家庭，没有一份属于自己的事业。好像做什么都觉得差点意思，买房子、买车子也没感到多开心，找到一份还不错的工作也没感到多开心。哎，我的快乐阈值可真高。可能是因为我是个有野心的人吧，也许只有当我拥有一份事业，拥有自由的生活，拥有心心相印的爱人，才会感到快乐吧。&lt;/p&gt;
 &lt;p&gt;过去几个月，时常常想写点什么，又迟迟不敢落笔，生怕不好的想法和潦草的字体玷污了纸张，我... 好像抑郁了。果然，每次测试结果都显示我可能已经患上抑郁症，建议向心理医生或专业人士寻求协助。于是，我花了一些时间阅读心理学方面的著作，以寻求帮助。好消息是，虽然总是显示有抑郁倾向，但没有一次是重度抑郁。我想，应该是我依然热爱生活，对未来还抱有希望吧！&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20220301_BDI-II_test.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;作为 30 岁的总结，我本来想给自己打个 59 分，因为很多事情并没有达到预期，我也没有成为想成为的样子，让自己失望了。不过，我的心理医生说：要多点肯定自己，相信自己的才能，并用积极进取的态度看待自己的不足，摆脱自我束缚。于是，我给自己打了 99 分。&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;smile&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😄&amp;lt;/span&amp;gt;&lt;/p&gt;
+&lt;p&gt;作为 30 岁的总结，我本来想给自己打个 59 分，因为很多事情并没有达到预期，我也没有成为想成为的样子，让自己失望了。不过，我的心理医生说：要多点肯定自己，相信自己的才能，并用积极进取的态度看待自己的不足，摆脱自我束缚。于是，我给自己打了 99 分。&lt;span class=&#34;github-emoji&#34; alias=&#34;smile&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8&#34;&gt;😄&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;人生最重要的资源是什么？是时间，是每时每刻都在流淌的时间。把时间花在什么样的事、什么样的人上，收获的结果是不一样的。于是，我离开了那些阻碍我前进的人和事，开始了一段新的探索。做小项目、写书、面试、换赛道，就是过去一年的缩影。&lt;/p&gt;
 &lt;p&gt;对于我来说，痛苦的根源在于家庭、工作和生活的割裂。好像在不同的场景和圈子，都有不同的人设，而这都不是真实、完整的我。我要扮演一个好儿子、好哥哥、好员工、好男友...... 不同场景间的切换、情绪的调整，让我感到很累。其实我没那么好，都是装出来的......&lt;/p&gt;
 &lt;p&gt;那我到底是一个什么样的人？如果一定要贴标签的话，那么「Maker」和「环保」是我最想贴的两个标签。前者偏向于科技，后者偏向于人文。虽然我的工作是软件工程师（程序员），但我认为自己是一个富含现实理想主义色彩、开源和极客精神的 Maker，享受从零到一的自造过程。在生活中，我是一个有环保洁癖的人，我会尽量少产生垃圾、严格做好垃圾分类、多吃素少吃肉、不点外卖不喝奶茶，还会在家堆肥...... 所以跟我这样的人谈恋爱应该很累吧？&lt;/p&gt;
@@ -520,10 +520,10 @@
         <title>新幸福的十大标准</title>
         <link rel="alternate" href="https://luhuadong.com/reading/ten-conditions-of-happiness.html"/>
         <content type="html">&lt;p&gt;记得小学语文课本有一篇文章 ——《幸福是什么》，当时没看懂。直到最近，感觉自己不太幸福，所以重新读了这篇文章。文章其实很短，讲三个牧羊的小孩在树林里清理一口老泉，善举感动了森林里的智慧女神，简单的对话引发了孩子们对幸福的思考。后来三个孩子选择了不同的人生道路，十年后在小井旁相遇了，他们都明白了什么是幸福 —— &lt;strong&gt;幸福要靠劳动，要靠很好地尽自己的义务，做出对人们有益的事情。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/static/what-happiness-is.jpg&amp;quot; alt=&amp;quot;幸福&amp;quot; title=&amp;quot;幸福是什么？&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/what-happiness-is.jpg&#34; alt=&#34;幸福&#34; title=&#34;幸福是什么？&#34; width=600 /&gt;
 &lt;p&gt;虽然文章给出了幸福的含义，就是脚踏实地、做个对社会有价值的人。但感觉还是比较空泛，缺少了一些深度和行动指导。毕竟只是一篇小学生课文，目的只是引发大家思考而已。&lt;/p&gt;
 &lt;p&gt;于是，我想起了《&lt;a href=&#34;https://union-click.jd.com/jdc?e=&amp;amp;p=JF8BAMkJK1olXgIAU1dYCUsfA18IGFIRWwUCVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXVpbC0sWHDZNRwYlBUF0PA0Jazx1eCcKRDxCGW9RUAc-TkcbM244G1oUXwMCUFtfDnsnA2g4TTUVXAcDVV9VCEoSM244G1wXXA4DVVZbDkkWBV8PG1IlAEJQDhYIWAhFS184K1glbTYCZF1tSiUSCm1YT1xHXQdVUQxYC0gTCzsOElNBXFQABgpZW0IWCl8KGloRVDY&#34;&gt;少即是多：北欧自由生活意见&lt;/a&gt;》这本书里面提到的 “新幸福的十大标准” 概念。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/static/new-happiness-define-01.jpeg&amp;quot; title=&amp;quot;新幸福的十大标准&amp;quot; width=480 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/new-happiness-define-01.jpeg&#34; title=&#34;新幸福的十大标准&#34; width=480 /&gt;
 &lt;p&gt;管理学大师彼得・德鲁克曾经说过 “It you can’t measure it, you can’t manage it”（你如果无法度量它，就无法管理它）。我在想 —— 我们能否对幸福进行有效管理呢？如果能对幸福进行度量，那是不是就能看到迈向幸福的光明大道？&lt;/p&gt;
 &lt;p&gt;幸福是一种主观感受，确实难以度量，而 “新幸福的十大标准” 可以理解为是一种度量幸福的方法和指标。那我们就来试试，看看能够通过逐步靠近这十个条件来获得幸福。&lt;/p&gt;
 &lt;p&gt;下面将结合书中的解释以及个人理解，详细介绍这十条幸福标准。&lt;/p&gt;
@@ -590,7 +590,7 @@
         <id>https://luhuadong.com/reading/%E8%A7%81%E8%AF%86.html</id>
         <title>《见识》读书笔记</title>
         <link rel="alternate" href="https://luhuadong.com/reading/%E8%A7%81%E8%AF%86.html"/>
-        <content type="html">&lt;p&gt;&amp;lt;div class=&amp;quot;note default&amp;quot;&amp;gt;&amp;lt;p &amp;gt; 比贫穷更可怕的是：缺乏见识、缺乏爱、缺乏规矩 &amp;lt;/p&amp;gt;&amp;lt;/div&amp;gt;&lt;/p&gt;
+        <content type="html">&lt;div class=&#34;note default&#34;&gt;&lt;p&gt;比贫穷更可怕的是：缺乏见识、缺乏爱、缺乏规矩&lt;/p&gt;&lt;/div&gt;
 &lt;p&gt;《见识》作者吴军&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;

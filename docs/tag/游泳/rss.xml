@@ -18,19 +18,19 @@
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
+        <category>种植</category>
         <category>英语</category>
         <category>成长</category>
         <category>英语短文</category>
         <category>学习</category>
-        <category>种植</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>健身</category>
         <category>气象爱好者</category>
         <category>指南</category>
@@ -53,6 +53,8 @@
         <category>开发者</category>
         <category>职业</category>
         <category>时间管理</category>
+        <category>地铁</category>
+        <category>Markdown</category>
         <category>milestone</category>
         <category>总结</category>
         <category>年终总结</category>
@@ -69,8 +71,6 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
-        <category>Markdown</category>
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
@@ -84,9 +84,9 @@
         <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>
+        <category>素食</category>
         <category>亲密关系</category>
         <category>农业</category>
-        <category>素食</category>
         <category>性格测试</category>
         <category>报告</category>
         <category>TED</category>
@@ -179,13 +179,13 @@
 &lt;li&gt;划手 + 蹬腿 + 憋气&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;动作拆解&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#动作拆解&#34;&gt;#&lt;/a&gt; 动作拆解&lt;/h3&gt;
-&lt;p&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;one&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0031-20e3.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/0031-20e3.png?v8&lt;/a&gt;&amp;quot;&amp;gt;1️⃣&amp;lt;/span&amp;gt; &lt;strong&gt;划水与蹬腿的配合&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;one&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0031-20e3.png?v8&#34;&gt;1️⃣&lt;/span&gt; &lt;strong&gt;划水与蹬腿的配合&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;先开始屈腕抓水、划水&lt;/li&gt;
 &lt;li&gt;当收手时开始收腿&lt;/li&gt;
 &lt;li&gt;手臂前伸时蹬腿&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;two&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0032-20e3.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/0032-20e3.png?v8&lt;/a&gt;&amp;quot;&amp;gt;2️⃣&amp;lt;/span&amp;gt; &lt;strong&gt;手腿与呼吸的配合&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;two&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0032-20e3.png?v8&#34;&gt;2️⃣&lt;/span&gt; &lt;strong&gt;手腿与呼吸的配合&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;当划手结束时，开始吸气&lt;/li&gt;
 &lt;li&gt;手臂前伸时呼气&lt;/li&gt;
@@ -196,7 +196,7 @@
 &lt;li&gt;小划臂蹬腿与呼吸配合练习&lt;/li&gt;
 &lt;li&gt;正常划臂与腿部配合练习&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;口诀蛙泳赋span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#口诀蛙泳赋span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;#&lt;/a&gt; 口诀（蛙泳赋）&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/h3&gt;
+&lt;h3 id=&#34;口诀蛙泳赋span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#口诀蛙泳赋span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;#&lt;/a&gt; 口诀（蛙泳赋）&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;抬头划手腿不动&lt;/li&gt;
 &lt;li&gt;伸手低头再蹬腿&lt;/li&gt;

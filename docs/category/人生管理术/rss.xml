@@ -18,19 +18,19 @@
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
+        <category>种植</category>
         <category>英语</category>
         <category>成长</category>
         <category>英语短文</category>
         <category>学习</category>
-        <category>种植</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>健身</category>
         <category>气象爱好者</category>
         <category>指南</category>
@@ -53,6 +53,8 @@
         <category>开发者</category>
         <category>职业</category>
         <category>时间管理</category>
+        <category>地铁</category>
+        <category>Markdown</category>
         <category>milestone</category>
         <category>总结</category>
         <category>年终总结</category>
@@ -69,8 +71,6 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
-        <category>Markdown</category>
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
@@ -84,9 +84,9 @@
         <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>
+        <category>素食</category>
         <category>亲密关系</category>
         <category>农业</category>
-        <category>素食</category>
         <category>性格测试</category>
         <category>报告</category>
         <category>TED</category>
@@ -184,7 +184,7 @@
             <category>时间管理</category>
             <pubDate>Thu, 28 Apr 2022 17:19:06 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;你认为引起拖延的原因是什么？据不完全统计，有 21% 的人认为引起拖延的原因是因为 “完美主义”，23% 的人则认为是因为不自信，26% 的人认为时间充足、不着急做。另外有 42% 的人纯粹是因为想偷懒，能拖就拖。你有没有中枪？&lt;/p&gt;
-&lt;p&gt;那要怎么样才能打败拖延症，提高我们的工作效率，让生活变得越来越惬意呢？下面介绍几种方法 &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;point_down&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f447.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f447.png?v8&lt;/a&gt;&amp;quot;&amp;gt;👇&amp;lt;/span&amp;gt;&lt;/p&gt;
+&lt;p&gt;那要怎么样才能打败拖延症，提高我们的工作效率，让生活变得越来越惬意呢？下面介绍几种方法 &lt;span class=&#34;github-emoji&#34; alias=&#34;point_down&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f447.png?v8&#34;&gt;👇&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&#34;1-立即执行&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-立即执行&#34;&gt;#&lt;/a&gt; 1、立即执行&lt;/h2&gt;
 &lt;p&gt;研究认为，开始着手一件事是最大的障碍！幸运的是，人们天生有一种 “万事有始有终” 的驱动力，它会迫使人们完成已经开始了的工作。当我们没有完成任务时，就会经历不适和入侵性的想法。&lt;/p&gt;
 &lt;h2 id=&#34;2-时间管理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-时间管理&#34;&gt;#&lt;/a&gt; 2、时间管理&lt;/h2&gt;
@@ -218,7 +218,7 @@
             <pubDate>Mon, 22 Nov 2021 21:26:05 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;时间管理四象限法则，是由著名管理学家史蒂芬・科维（Stephen R. Covey）提出的一个时间管理理论。&lt;/p&gt;
 &lt;p&gt;把要做的事（如工作中的事）按照重要和紧急两个方面的不同程度进行划分，可以分为四个象限：重要且紧急、重要但不紧急、不重要但紧急、不重要且不紧急。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/management/time-management-matrix-003.jpg&amp;quot; width=&amp;quot;600&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/management/time-management-matrix-003.jpg&#34; width=&#34;600&#34;&gt;
 &lt;p&gt;日常工作中往往有机会去很好地计划和完成一件事，但常常却又没有及时地去做，随着时间的推移就会造成工作质量的下降。时间管理理论的一个重要观念是&lt;strong&gt;把主要的精力和时间集中地放在处理那些重要但不紧急的工作上&lt;/strong&gt;，这样可以做到未雨绸缪，防患于未然。&lt;/p&gt;
 &lt;p&gt;要把精力主要放在重要但不紧急的事务处理上，需要很好地安排时间，一个好的方法是建立预约。建立了预约，自己的时间才不会被别人所占据，从而有效地开展工作。四象限法则改变了传统时间管理法以 “急” 为重方式，高效时间管理的核心应该：“先轻重，后缓急”。&lt;/p&gt;
 &lt;h2 id=&#34;界限&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#界限&#34;&gt;#&lt;/a&gt; 界限&lt;/h2&gt;

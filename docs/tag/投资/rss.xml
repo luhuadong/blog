@@ -18,19 +18,19 @@
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
+        <category>种植</category>
         <category>英语</category>
         <category>成长</category>
         <category>英语短文</category>
         <category>学习</category>
-        <category>种植</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>健身</category>
         <category>气象爱好者</category>
         <category>指南</category>
@@ -53,6 +53,8 @@
         <category>开发者</category>
         <category>职业</category>
         <category>时间管理</category>
+        <category>地铁</category>
+        <category>Markdown</category>
         <category>milestone</category>
         <category>总结</category>
         <category>年终总结</category>
@@ -69,8 +71,6 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
-        <category>Markdown</category>
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
@@ -84,9 +84,9 @@
         <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>
+        <category>素食</category>
         <category>亲密关系</category>
         <category>农业</category>
-        <category>素食</category>
         <category>性格测试</category>
         <category>报告</category>
         <category>TED</category>
@@ -128,10 +128,10 @@
 &lt;p&gt;21 世纪没有稳定这回事。如果你想要稳定的身份、稳定的工作、稳定的价值观，那你就落伍了。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;随机性既然无法避免，正确的做法就是拥抱随机性，与之共舞。在大部分投资者都追求稳定的平均收益时，使用杠铃策略，可以在消除亏损的同时，还最大限度获得利润。&lt;/p&gt;
-&lt;p&gt;&amp;lt;center&amp;gt;&lt;br /&gt;
- 杠铃投资组合 = 极度安全的资产 + 高风险高回报资产&lt;br /&gt;
- &amp;lt;/center&amp;gt;&lt;/p&gt;
-&lt;p&gt;&amp;lt;br/&amp;gt;&lt;/p&gt;
+&lt;center&gt;
+杠铃投资组合 = 极度安全的资产 + 高风险高回报资产
+&lt;/center&gt;
+&lt;br/&gt;
 &lt;p&gt;其中极度安全的资产占总资产比重为 90%，而高风险资产占比 10%。在保证安全的前提下，用很小一部分去搏更大的收益。这个组合损失有限，但收益是敞口的。&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/principle/barbell-approach-01.png&#34; alt=&#34;&#34; title=&#34;极度安全的资产 + 高风险高回报资产&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;杠铃策略的应用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#杠铃策略的应用&#34;&gt;#&lt;/a&gt; 杠铃策略的应用&lt;/h2&gt;

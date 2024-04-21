@@ -15,19 +15,19 @@
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
+    <category term="种植" />
     <category term="英语" />
     <category term="成长" />
     <category term="英语短文" />
     <category term="学习" />
-    <category term="种植" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="健身" />
     <category term="气象爱好者" />
     <category term="指南" />
@@ -50,6 +50,8 @@
     <category term="开发者" />
     <category term="职业" />
     <category term="时间管理" />
+    <category term="地铁" />
+    <category term="Markdown" />
     <category term="milestone" />
     <category term="总结" />
     <category term="年终总结" />
@@ -66,8 +68,6 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
-    <category term="Markdown" />
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
@@ -81,9 +81,9 @@
     <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
+    <category term="素食" />
     <category term="亲密关系" />
     <category term="农业" />
-    <category term="素食" />
     <category term="性格测试" />
     <category term="报告" />
     <category term="TED" />
@@ -110,7 +110,7 @@
 &lt;li&gt;运动一段时间后，提高运动强度，改为收缩骨盆盆底肌肉群 10 秒，然后放松 10 秒的节律。然后逐渐扩大运动场景，坐着或者步行时也可以提肛。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;凯格尔运动的效果因人而异，从大多数参与者的数据来看，通常在三个月之后能够感受到奇妙的效果。&lt;/p&gt;
-&lt;p&gt;&amp;lt;iframe src=&amp;quot;&lt;a href=&#34;//player.bilibili.com/player.html?aid=461389202&amp;amp;bvid=BV1eL411p75x&amp;amp;cid=362477140&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&#34;&gt;//player.bilibili.com/player.html?aid=461389202&amp;amp;bvid=BV1eL411p75x&amp;amp;cid=362477140&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&lt;/a&gt;&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot; width=&amp;quot;100%&amp;quot; height=&amp;quot;500&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=461389202&amp;bvid=BV1eL411p75x&amp;cid=362477140&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 </content>
         <category term="健身" />
         <updated>2020-03-28T11:00:13.000Z</updated>

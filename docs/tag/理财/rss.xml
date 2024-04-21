@@ -18,19 +18,19 @@
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
+        <category>种植</category>
         <category>英语</category>
         <category>成长</category>
         <category>英语短文</category>
         <category>学习</category>
-        <category>种植</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>健身</category>
         <category>气象爱好者</category>
         <category>指南</category>
@@ -53,6 +53,8 @@
         <category>开发者</category>
         <category>职业</category>
         <category>时间管理</category>
+        <category>地铁</category>
+        <category>Markdown</category>
         <category>milestone</category>
         <category>总结</category>
         <category>年终总结</category>
@@ -69,8 +71,6 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
-        <category>Markdown</category>
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
@@ -84,9 +84,9 @@
         <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>
+        <category>素食</category>
         <category>亲密关系</category>
         <category>农业</category>
-        <category>素食</category>
         <category>性格测试</category>
         <category>报告</category>
         <category>TED</category>
@@ -305,7 +305,7 @@
 &lt;p&gt;在日常工作生活中，我们可能会有一笔钱，一时半会不知道能做什么用。比如发了一笔年终奖，或者结婚彩礼，如果我们已经把前面 3 个池安排妥当，那么剩余的钱就可以流到我们的金鹅池当中，用于长期投资，获取更长远的财富增值。&lt;/p&gt;
 &lt;p&gt;对于金鹅池是如何投资，范围就非常广泛了：包括股票、基金、黄金等等。具体要买些什么，要结合你对理财知识的熟悉程度，以及风险承受能力等等综合评定。一般来说，由于这个池子的钱可以用作长期投资，我们就可以适当投资一些更高风险，但长期能够产生更高收益的产品，比如股票类基金。&lt;/p&gt;
 &lt;p&gt;但必须强调的是，&lt;strong&gt;不懂不投&lt;/strong&gt;是最基本的原则。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/money/ 金鹅下蛋.jpg&amp;quot; style=&amp;quot;zoom:40%;&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/金鹅下蛋.jpg&#34; style=&#34;zoom:40%;&#34; /&gt;
  ]]></description>
         </item>
         <item>

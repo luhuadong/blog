@@ -18,19 +18,19 @@
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
+        <category>种植</category>
         <category>英语</category>
         <category>成长</category>
         <category>英语短文</category>
         <category>学习</category>
-        <category>种植</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>健身</category>
         <category>气象爱好者</category>
         <category>指南</category>
@@ -53,6 +53,8 @@
         <category>开发者</category>
         <category>职业</category>
         <category>时间管理</category>
+        <category>地铁</category>
+        <category>Markdown</category>
         <category>milestone</category>
         <category>总结</category>
         <category>年终总结</category>
@@ -69,8 +71,6 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
-        <category>Markdown</category>
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
@@ -84,9 +84,9 @@
         <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>
+        <category>素食</category>
         <category>亲密关系</category>
         <category>农业</category>
-        <category>素食</category>
         <category>性格测试</category>
         <category>报告</category>
         <category>TED</category>
@@ -156,12 +156,11 @@
 &lt;h2 id=&#34;小结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小结&#34;&gt;#&lt;/a&gt; 小结&lt;/h2&gt;
 &lt;p&gt;前两周参加朋友的活动，写下了 2024 年的期望 —— 自洽自由。希望 2024 年能更加从容一点，勇气再多一点，可以更好地感受和表达爱和喜悦，做真实的自己，也可以更好地释放创造力，过一种张弛有度的生活。祝大家新年快乐～&lt;/p&gt;
 &lt;p&gt;最后，附上 2024 年的第一次投篮，希望我们都能把握住人生中的每次关键一投！&lt;/p&gt;
-&lt;p&gt;&amp;lt;video width=&amp;quot;100%&amp;quot; controls&amp;gt;&lt;br /&gt;
-&amp;lt;source type=&amp;quot;video/mp4&amp;quot; src=&amp;quot;/images/journal/video-20240107-203318.mp4&amp;quot;&amp;gt;&lt;br /&gt;
- 您的浏览器不支持 video 标签。&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;br /&gt;
-&amp;lt;br/&amp;gt;&lt;/p&gt;
- ]]></description>
+&lt;video width=&#34;100%&#34; controls&gt;
+  &lt;source type=&#34;video/mp4&#34; src=&#34;/images/journal/video-20240107-203318.mp4&#34;&gt;
+  您的浏览器不支持 video 标签。
+&lt;/video&gt;
+&lt;br/&gt; ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/journal/2022-year-end-summary.html</guid>
@@ -175,7 +174,7 @@
 &lt;p&gt;过去一年发生了很多事，我都还没来得及记录就已经被尘封在记忆里。所以我想在这篇 2022 年的总结里，花些时间好好聊聊。&lt;/p&gt;
 &lt;h2 id=&#34;暂停创业&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#暂停创业&#34;&gt;#&lt;/a&gt; 暂停创业&lt;/h2&gt;
 &lt;p&gt;2021 年我注册了一家公司，开始一个人的创业尝试，并且有半年时间全职投入，直到 2022 年 3 月份才暂停。显然，这次创业的结果是失败的，不过也收获一些经验和思考，包括创办企业的完整流程（起名、注册公司、注册品牌、银行开户、记账报税等）、企业管理、产品定位、市场营销等等。在这个阶段，虽然很享受从零到一创造一个产品的快感，但也加强了对用户需求、用户体验和市场营销的重视。最后由于种种原因，包括项目推进没有达到预期、单枪匹马创业状态不稳定、经济收入骤减的压力，决定暂停创业，继续提升自己的能力，进一步打磨产品和寻找市场机会。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/2022-summary-01.jpg&amp;quot; width=&amp;quot;400&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/2022-summary-01.jpg&#34; width=&#34;400&#34; /&gt;
 &lt;p&gt;熟悉我的朋友可能知道，我的工作是一名程序员，特别喜欢创客文化和开源文化，同时对环保和能源议题非常感兴趣。因此我的创业方向是 “STEM 教育 + 可持续生活”，这次创业虽然暂停了，不过有一个网站平台活下来了，未来将会以个人网的形式继续运营，准备充分再考虑商业化。&lt;/p&gt;
 &lt;p&gt;我对这段经历并不感到遗憾，因为越早经历失败，才能更快到达成功的彼岸。&lt;/p&gt;
 &lt;h2 id=&#34;重新工作&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#重新工作&#34;&gt;#&lt;/a&gt; 重新工作&lt;/h2&gt;
@@ -203,12 +202,12 @@
 &lt;h2 id=&#34;优秀员工&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#优秀员工&#34;&gt;#&lt;/a&gt; 优秀员工&lt;/h2&gt;
 &lt;p&gt;三月底入职的我，在新公司度过了完整的三个季度，绩效也是意料之外的惊喜，Q2 拿了 A（优秀），Q3 和 Q4 均拿了 S（卓越）。要知道，在此之前的两份工作中，我从来没拿过这个高的绩效，无论是写代码、写文档还是引进新技术，都得不到领导的认可，反而是经常被领导教做人和 PUA。这也是我对他们归属感不强的原因，促使我寻找外部的机会，包括参与开源社区、创业，以及去公益机构兼职。所以真的非常感恩，感恩遇到靠谱的公司和团队。公司和公司之间的差距真的很大，遇到不爱你的人一定要尽早离开，相信自己值得更好的对待。&lt;/p&gt;
 &lt;p&gt;过去九个月，我参与了我们产品的嵌入式软件、上位机软件、SDK 以及部分测试软件的开发，为多个项目写下了第一行代码。可能也是因为这个原因，得到了领导的重视，也得到了 2022 年度优秀员工（据说前 5% 才能评上）。你可能不信，这是我参加工作八年来，第一次获得优秀员工奖项。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20230106 - 导远优秀员工.jpeg&amp;quot; width=&amp;quot;400&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20230106-导远优秀员工.jpeg&#34; width=&#34;400&#34; /&gt;
 &lt;p&gt;凡是过往，皆为序章。常怀感恩之心、保持空杯心态，未来继续加油！&lt;/p&gt;
 &lt;h2 id=&#34;开源创客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#开源创客&#34;&gt;#&lt;/a&gt; 开源创客&lt;/h2&gt;
 &lt;p&gt;说完公司的工作，再说一下我的业余工作。上半年参加了一些柴火创客空间的活动和培训，拿了一个《创客教育与智能硬件应用》证书，也是为我的 STEM 教育事业做准备，然后基于 Wio Terminal 推出了两个物联网教程，已经上架销售了。也因此被评为 2022 柴火年度认证会员，可以大大方方说自己也是一名创客（Maker）啦！&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20230124-211956.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;link&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f517.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f517.png?v8&lt;/a&gt;&amp;quot;&amp;gt;🔗&amp;lt;/span&amp;gt; &lt;a href=&#34;https://mp.weixin.qq.com/s/cIXXssZ9nLZ-wEbtrdCYuw&#34;&gt;“2022 拾柴者”｜柴火年度认证会员大揭秘&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;link&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f517.png?v8&#34;&gt;🔗&lt;/span&gt; &lt;a href=&#34;https://mp.weixin.qq.com/s/cIXXssZ9nLZ-wEbtrdCYuw&#34;&gt;“2022 拾柴者”｜柴火年度认证会员大揭秘&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;在开源软件方面，除了在 RT-Thread 社区偶尔提交一两个 PR，还参加了腾讯的开源摘星计划（WeOpen Star），认识了一些从事开源相关工作的小伙伴，比如说 freeCodeCamp 社区和极狐 GitLab。看到别人可以快快乐乐地以做开源软件为生，其实还是蛮受激励的。我也坚信，我的下一份工作 / 创业，一定是和开源软件相关的，一定是支持远程办公的。&lt;/p&gt;
 &lt;p&gt;另外，我自己存活下来的一个教程网站也在不定期更新中，2022 年底突破了 1000 篇文章，有了稳定可观的月访问量。接下来会继续以个人网站的形式运营下去，促进面向大众的终身教育，这也是我的 SDGs 梦想之一。&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/GetIoT-for-SDGs.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -219,11 +218,11 @@
 &lt;p&gt;整个 2022 年，我当了 134 天比亚迪车主，充了 655 度电，跑了 5750 公里，去过 3 座城市、2 个农场。现在没事我就开着小海豚出去溜达，一边听着播客、一边开车。看看我所生活的城市，如果看到好看的楼盘或村庄，心里还会默默地想：什么时候也在这里搞一套房......&lt;/p&gt;
 &lt;p&gt;可能是因为自己现在也进入了汽车行业，变得非常关心智能电动汽车的发展，我还写了一个专栏《&lt;a href=&#34;https://blog.csdn.net/lu_embedded/category_11475436.html&#34;&gt;图解智能电动汽车&lt;/a&gt;》，希望可以介绍汽车的电动化、智能化、网联化相关技术，和自身的工作结合起来，并且作为一个对外的窗口。&lt;/p&gt;
 &lt;p&gt;交通领域的降碳确实是碳中和重要且首当其冲的一环，希望未来绿电越来越多，碳排放越来越低，出行效率越来越高，人们生活越来越好！这也是我的 SDGs 梦想之一。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;../../images/journal/20230124-213158.jpeg&amp;quot; width=&amp;quot;400&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/journal/20230124-213158.jpeg&#34; width=&#34;400&#34; /&gt;
 &lt;h2 id=&#34;感情生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#感情生活&#34;&gt;#&lt;/a&gt; 感情生活&lt;/h2&gt;
 &lt;p&gt;2021 年结束了一段六年的感情，对我的内心世界可以说是一个几乎毁灭性的打击，不仅生活发生了很大变化，心态上也经历了从生气、愤怒、怀念、沮丧... 不断反复，再到平静、反思的状态。我讨厌自己，讨厌自己的不勇敢、优柔寡断。为了不去想感情的事，我几乎让工作和学习填满了所有时间，经常晚上 11 点多才离开公司，有时候甚至直接在公司过夜。&lt;/p&gt;
 &lt;p&gt;五月份偶然了解到「&lt;a href=&#34;https://www.tuodan.tech&#34;&gt;二狗单身青年自救平台&lt;/a&gt;」，孤独和好奇心驱使我注册了账号，开始认真填写资料，连续发布了两周二狗日记，记录和分享自己的生活。慢慢有了一些访问和关注，还两次被推荐上墙，让我受宠若惊。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20220509 - 二狗.jpeg&amp;quot; width=&amp;quot;400&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20220509-二狗.jpeg&#34; width=&#34;400&#34; /&gt;
 &lt;p&gt;我想我应该积极主动创造机会，于是陆续和一些异性见面、吃饭、聊天，大部分吃完第一顿饭就没有联系了。有的加了微信慢慢变成朋友，一起交流脱单心得。三个月后，开始觉得二狗平台有点无聊了，看条件、相互比较的氛围浓厚，对我这种硬件条件很一般、内心世界比较丰富的人来说一点优势都没有，想要找到合适的对象无异于大海捞针。虽然我对自己的定位比较清晰，但感觉还是应该把目光放在自己感兴趣的圈子里。&lt;/p&gt;
 &lt;p&gt;就在我决定离开二狗的前夕，遇到了一位小姐姐。开始了一些故事，故事仍在进行中......&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20230124-212809.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -233,7 +232,7 @@
 &lt;p&gt;我以前从来没有思考过软件的意义，曾经面向比赛编程，也曾面向领导编程。去年经历了很多从零到一的软件项目，也经历了带新人的过程，对软件的意义有了更多理解。&lt;strong&gt;软件的核心价值是提高生产效率、减少人类的痛苦&lt;/strong&gt;。如果经常加班编写毫无用处的代码，简直是本末倒置！这一点需要时刻提醒自己。&lt;/p&gt;
 &lt;p&gt;在经历过大中小企业、国企民企之后，我开始明白自己究竟想从工作中获得什么 —— 平台、人脉、资金。打工人就要以创业的心态去工作，把公司的事当作自己的事，像老板一样思考。否则不如早点挤进国企事业单位，过岁月静好的生活。我还是有欲望的，我想创造一份伟大的事业，实现自己的人生价值，促进世界可持续发展。&lt;/p&gt;
 &lt;p&gt;至于什么时候重启创业计划，边走边看吧。虽然偶尔也会收到一些创业团队的邀请，但如果做的不是我最想做的事，条件不是很靠谱，我还是会继续在现公司工作，争取先把公司搞上市，尽可能实现财务自由。毕竟，有钱真的太爽了！&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20230124-202355.jpeg&amp;quot; width=&amp;quot;400&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20230124-202355.jpeg&#34; width=&#34;400&#34; /&gt;
 &lt;h2 id=&#34;展望未来&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#展望未来&#34;&gt;#&lt;/a&gt; 展望未来&lt;/h2&gt;
 &lt;p&gt;今年就不立 Flag 啦，就简单记录几个目前想到的小目标吧。&lt;/p&gt;
 &lt;p&gt;😛 工作中，管理方面很多地方做得不好，也犯了一些错，比如同事间的沟通不畅，出现矛盾时相互抱怨。如果觉得同事不够好，那你有没有想过办法帮助他？我想我确实应该开始重视技术管理和团队管理，减少在公司项目中的代码编写工作，增加代码审查、测试和技术预研等工作。希望在 2023 年能提升管理和沟通能力，让自己慢慢从程序员的繁忙工作中脱离出来，有更多思考的时间，承担更重要的工作。&lt;/p&gt;
@@ -260,7 +259,7 @@
 &lt;p&gt;30 岁真是一个可怕的数字，它总在提醒你 “该成家啦，该立业啦”。而我，似乎两头都不着调。没有甜甜的爱情，没有支持我的家庭，没有一份属于自己的事业。好像做什么都觉得差点意思，买房子、买车子也没感到多开心，找到一份还不错的工作也没感到多开心。哎，我的快乐阈值可真高。可能是因为我是个有野心的人吧，也许只有当我拥有一份事业，拥有自由的生活，拥有心心相印的爱人，才会感到快乐吧。&lt;/p&gt;
 &lt;p&gt;过去几个月，时常常想写点什么，又迟迟不敢落笔，生怕不好的想法和潦草的字体玷污了纸张，我... 好像抑郁了。果然，每次测试结果都显示我可能已经患上抑郁症，建议向心理医生或专业人士寻求协助。于是，我花了一些时间阅读心理学方面的著作，以寻求帮助。好消息是，虽然总是显示有抑郁倾向，但没有一次是重度抑郁。我想，应该是我依然热爱生活，对未来还抱有希望吧！&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20220301_BDI-II_test.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;作为 30 岁的总结，我本来想给自己打个 59 分，因为很多事情并没有达到预期，我也没有成为想成为的样子，让自己失望了。不过，我的心理医生说：要多点肯定自己，相信自己的才能，并用积极进取的态度看待自己的不足，摆脱自我束缚。于是，我给自己打了 99 分。&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;smile&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😄&amp;lt;/span&amp;gt;&lt;/p&gt;
+&lt;p&gt;作为 30 岁的总结，我本来想给自己打个 59 分，因为很多事情并没有达到预期，我也没有成为想成为的样子，让自己失望了。不过，我的心理医生说：要多点肯定自己，相信自己的才能，并用积极进取的态度看待自己的不足，摆脱自我束缚。于是，我给自己打了 99 分。&lt;span class=&#34;github-emoji&#34; alias=&#34;smile&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8&#34;&gt;😄&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;人生最重要的资源是什么？是时间，是每时每刻都在流淌的时间。把时间花在什么样的事、什么样的人上，收获的结果是不一样的。于是，我离开了那些阻碍我前进的人和事，开始了一段新的探索。做小项目、写书、面试、换赛道，就是过去一年的缩影。&lt;/p&gt;
 &lt;p&gt;对于我来说，痛苦的根源在于家庭、工作和生活的割裂。好像在不同的场景和圈子，都有不同的人设，而这都不是真实、完整的我。我要扮演一个好儿子、好哥哥、好员工、好男友...... 不同场景间的切换、情绪的调整，让我感到很累。其实我没那么好，都是装出来的......&lt;/p&gt;
 &lt;p&gt;那我到底是一个什么样的人？如果一定要贴标签的话，那么「Maker」和「环保」是我最想贴的两个标签。前者偏向于科技，后者偏向于人文。虽然我的工作是软件工程师（程序员），但我认为自己是一个富含现实理想主义色彩、开源和极客精神的 Maker，享受从零到一的自造过程。在生活中，我是一个有环保洁癖的人，我会尽量少产生垃圾、严格做好垃圾分类、多吃素少吃肉、不点外卖不喝奶茶，还会在家堆肥...... 所以跟我这样的人谈恋爱应该很累吧？&lt;/p&gt;
@@ -350,12 +349,12 @@
             <pubDate>Mon, 20 Sep 2021 21:59:43 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;从 2021 年 1 月 18 日入职，到 9 月 17 日离职，刚好 8 个月时间。&lt;/p&gt;
 &lt;p&gt;这是一家环保物联网公司，公司不大，但已深耕环保监测领域十多年，值得来学习一番。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20210917_bocon.jpeg&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20210917_bocon.jpeg&#34; width=600 /&gt;
 &lt;p&gt;入职的岗位是 “Linux 驱动工程师”，其实还是蛮期待的，因为可以从底层开始研究一款产品，在开发和维护 BSP 的过程中能看到许多细节。在后期还参与了几个应用模块的开发，包括设备抽象层、平台上报层、OTA 远程升级等。逐渐对环保数采仪有了深入的了解，一部分原因就得益于 “驱动 - 应用 - 平台 - 前端” 整个链路的打通。&lt;/p&gt;
 &lt;p&gt;整体来看，环保数采仪的组成结构并不复杂，其核心就是 “数据采集、存储和上报”。因此数据的准确性是至关重要的，所以我们时常调侃自己在 “面向监狱编程”，因为这些数据可作为环保执法的证据。就像现在特别火的 “碳中和” 一样，它的基础就是 “碳核算”，也就是如何计算碳排放量的问题。不同的是，环境数据采集通常是瞬时的值，例如污染物浓度，而碳数据采集的则是总的碳排放量，并且是换算成二氧化碳当量来统计的。&lt;/p&gt;
 &lt;p&gt;其实是一份蛮不错的工作，对不对？我也是这么认为的，一方面工作经验能有不错的衔接，有利于职业发展；另一方面 “环保 + 物联网” 也是我感兴趣的方向，是了解环保行业的一个很好地切入点。&lt;/p&gt;
 &lt;p&gt;不过，工作一段时间之后还是作出了辞职的决定。有很多方面的因素，包括公司地点比较偏远，生活不是很便利；前段时间分手后状态起起伏伏，有时候难以静下心来工作；半年时间其实也学习到许多东西，比如产品架构、功能、代码框架等等，但继续做下去的话，坑比较多，学习速度也会变慢。更重要的是，我时常关注环保可持续领域的动态，我认为现在是一个不错的机遇，我不想再做一名看客了，我想做一份自己的事业，对人类有益的事业，我想验证我设想的项目，而且我觉得它不比现在的许多创业项目差，关键是 —— 我已经迫不及待、摩拳擦掌、热血难凉了！与其内心百般煎熬，不如痛痛快快地去追逐梦想！&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20210918_nansha.jpeg&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20210918_nansha.jpeg&#34; width=600 /&gt;
 &lt;p&gt;这份煎熬，其实从我上一份在国企上班时就开始了，我在那里待了四年零五个月，兢兢业业地干，却实现不了我自己的价值。我有梦想，可是我没法跟身边的同事分享，每天都过得小心翼翼的，就像一台木有感情的赚钱机器一样。我意识到，我需要离开，我要做一点自己的事情！&lt;/p&gt;
 &lt;p&gt;但是我发现，我要顾虑的东西太多了。没有家庭的依靠，一切都要靠自己，还要考虑父母的养老问题。而且前几年由于在老家买了房和其他一些失败的投资，导致目前手上可用的现金不多。每每这个时候，心里总是有另一个声音，要不再坚持几年，争取更高的工资收入，多攒点钱再说......&lt;/p&gt;
 &lt;p&gt;最后，我还是听从了内心更大的一个声音 —— 勇敢地辞职、创业，体会不一样的人生。&lt;/p&gt;
@@ -377,7 +376,7 @@
 &lt;p&gt;这次回家，最大的感受是家里对我的吐槽少了，关心多了。可能是担心我这位 “大龄单身失业男青年” 吧，其实我也焦虑啊，我也想结婚，可是目前的状态来看，哪怕结婚了，依然有许多问题没解决，不能很好地照顾家庭、陪伴孩子成长。所以，也许这就是我们这种出身普通的 “普通人” 绕不过的坎吧，还是要勇敢面对。这些年起起落落，经历的失败多了，我终于承认了我就是一个普通人。国泰民安的时候，做一份小而美的事业，国家需要的时候，能挺身而出。不也挺好的吗？&lt;/p&gt;
 &lt;p&gt;我会不会继续写代码？—— 会的。一方面，软件程序是非常有用的工具，低成本创业就要善用工具；另一方面，我也需要保持编写代码的能力，以防创业失败后还能找一份不错的工作养家糊口。7 年的开发经历，能够给我底气的是这些年培养起来的学习能力和解决问题的能力，还有非常重要的创客精神和开源精神。所以，不管我是否从事软件工作，我也会一直以开源极客的心态写代码，直到这个世界不需要我。&lt;/p&gt;
 &lt;p&gt;我会不会重新找工作？—— 我想也是会的，除非我自己的公司短期内得到快速发展。因为目前还在探索阶段，还没有稳定的商业模式，因此我会在把相关项目跑起来之后重新找工作，同时兼职运营项目。一方面，如果我的资金消耗过快而仍未盈利，我还需要继续积累原始资本；另一方面，我还想去包括小米、极飞、远景、奥北、多抓鱼等一些值得去学习的企业看看，接触真实的需求才能设计出好的产品。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20210916_basketball.jpeg&amp;quot; width=480 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20210916_basketball.jpeg&#34; width=480 /&gt;
  ]]></description>
         </item>
         <item>
@@ -541,9 +540,9 @@
 &lt;p&gt;好啦！给自己挖的坑汇报完了，接下来讲讲其他事。&lt;/p&gt;
 &lt;p&gt;先说工作吧，今年在公司维护几套老旧代码，改得也是没脾气，然后参与了基于 RK3399 的通信终端，整合了一套 Linux 系统，增加了软件包管理和升级功能，还把 RT-Thread 引入到公司产品中，然后终于在 2020 年最后一个月离职了。。。&lt;/p&gt;
 &lt;p&gt;因为各方面都遇到了瓶颈，也学不到新的东西了，对我来说这真是太可怕了。所以决定换个环境，给自己一个短 gap，希望未来的路走得更坚实。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20201224181213523.png&amp;quot; alt=&amp;quot;在这里插入图片描述&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20201224181213523.png&#34; alt=&#34;在这里插入图片描述&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;另外，今年参加了两个比赛，一个是 &lt;a href=&#34;https://huodong.21ic.com/rt-thread&#34;&gt;RT-Thread 应用创新设计大赛&lt;/a&gt;，基于国产 AT32 芯片做了个空气质量监测系统，拿了个三等奖；另一个是 &lt;a href=&#34;https://www.bilibili.com/video/BV1XZ4y1K7aH&#34;&gt;STM32 创客秀&lt;/a&gt;，基于 STM32 NUCLEO 板做了几个节点，组成了一个分布式空气质量监测系统（&lt;a href=&#34;http://www.fctc-air.cn&#34;&gt;fctc-air.cn&lt;/a&gt;），拿了个二等奖。可以看到，两个参赛作品其实是基于不同硬件平台的同一套系统，所以业余时间参加两个比赛也可以应付过来。这个项目的初衷，是因为我本人对空气质量非常敏感，环境湿度太高、粉尘太多、二氧化碳浓度过高都会影响我的状态，所以我想做一个设备来实时监测环境中的空气质量，帮助我改善空气。后来觉得这个项目其实还是蛮有用的，就把它开源出来，搭建了后台服务器和微信小程序，希望可以变成一个民间的空气质量监测系统，帮助每一个了解当地的空气质量，提醒大家要保护环境。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20201224181258322.png&amp;quot; alt=&amp;quot;在这里插入图片描述&amp;quot; style=&amp;quot;zoom:60%;&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20201224181258322.png&#34; alt=&#34;在这里插入图片描述&#34; style=&#34;zoom:60%;&#34; /&gt;
 &lt;h3 id=&#34;rt-thread&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#rt-thread&#34;&gt;#&lt;/a&gt; RT-Thread&lt;/h3&gt;
 &lt;p&gt;今年在 RT-Thread 社区留下了浓重的一笔，首先是因为参加比赛嘛，用的系统平台就是 RT-Thread。以前做产品是基于某个 release 版本来增加自己的业务代码，改完就作为公司内部的代码来管理了，并不会与 RT-Thread 社区有过多接触。但是作为个人项目，我想着开发者还是应该用 master 分支跟社区保持同步，也在这个过程中慢慢地把自己修改的 BSP、组件和软件包提交给 RT-Thread 社区。当然在这个过程中会遇到很多问题，所以为了更方便与 RT-Thread 开发团队沟通，五月份的时候我就申请加入了 RT-Thread 社区工作小组。&lt;/p&gt;
 &lt;p&gt;后来因为贡献值较高，受邀参加了九月份 RT-Thread 的团建，在三亚浪了几天，体验了一直心心念念的潜水运动。同时也认识了 RT-Thread 的创始团队（熊大、邱祎、aozima、Leo、龙哥）和许多优秀的 RT-Thread 小伙伴，近距离了解到 RT-Thread 的团队氛围、社区运营、商业模式和发展规划。还是挺让人激动的！&lt;/p&gt;
@@ -598,7 +597,7 @@
             <pubDate>Tue, 22 Dec 2020 22:34:49 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;成长故事&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#成长故事&#34;&gt;#&lt;/a&gt; 成长故事&lt;/h2&gt;
 &lt;p&gt;Hello，大家好，我是 Rudy（&lt;a href=&#34;https://github.com/luhuadong&#34;&gt;卢华东&lt;/a&gt;）。我刚拿了 2020 年 RT-Thread 社区杰出贡献奖，现在还沉浸在喜悦之中。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20201222222649519.jpeg&amp;quot; width=&amp;quot;400&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20201222222649519.jpeg&#34; width=&#34;400&#34; /&gt;
 &lt;p&gt;我在 CSDN 上的名字是「阿基米东」，因为我希望自己也能像那个举得起地球的巨人 —— 阿基米德一样充满智慧。因为在 CSDN 上的简介写了 “以前运动员，现在程序员”，所以有些小伙伴就问我咋回事？我高中的时候练长跑，拿过一些小奖，后来练过排球和橄榄球，大学在球队待过几年。后来因为伤病、成绩和对未来的规划等原因离开了，大三下学期开始好好学习计算机编程。因为读的是电气工程及其自动化专业，所以还是有点基础，而且信息化技术是长期存在，觉得应该在年轻的时候尽早加入，就这样进入了程序员行列。这几年在工业控制和通信领域摸爬滚打，业余关注物联网相关技术和行业发展。&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/2020122222291729.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -640,7 +639,7 @@
             <category>年终总结</category>
             <pubDate>Sat, 25 Jan 2020 17:55:53 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;今年回老家过年，G1128 列车途经武汉，在新型冠状病毒的阴影笼罩下，整个旅程多了一份严肃感，我也开始整理过去一年经历的事情与所思所感。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20200125174446341.jpeg&amp;quot; width=&amp;quot;300&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20200125174446341.jpeg&#34; width=&#34;300&#34; /&gt;
 &lt;p&gt;2019 年有很多伤心的事。比如：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;年初买了个房子，然后房价就降了；&lt;/li&gt;
@@ -842,7 +841,7 @@
 &lt;p&gt;报了一些在线的英语课程，坚持了大半年了，也不知道到底有多大提升，只是感觉比以前更敢说英语了，继续坚持吧，没有量变哪来质变呢。感谢互联网时代，现在有很多不错的英语学习平台，有兴趣了解的可以私信我，这里就不打广告了。&lt;/p&gt;
 &lt;p&gt;另外也不定期学习一些网络课程，比如 CSDN、实验楼、极客学院等等，还有慕课网、中国大学慕课、网易云课堂等等，实在太多了，所以质量也参差不齐，想学习某些技术的小伙伴一定要仔细研究挑选才行，特别是对于收费较高的。&lt;/p&gt;
 &lt;p&gt;此外，2017 年参加了两次软考，并且都顺利通过了，分别是 2017 上半年的【软件设计师】和 2017 下半年的【嵌入式系统设计师】。虽然分数不是很高，但毕竟也是妥妥地通过了，这对于半路出家并且第一次参加软考的程序员来说，还是蛮有鼓励的。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20180217211802537.jpeg&amp;quot; width=&amp;quot;600&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20180217211802537.jpeg&#34; width=&#34;600&#34;&gt;
 &lt;p&gt;那软考证书能干啥呢？听说对涨工资、办户口、考公务员都有用，而且现在有些证书类别是中日韩 + 印度相互认证的。而且备考的过程也是一次系统学习的过程，可以查漏补缺，可以学习一下项目管理方面的知识，反正能考就考了呗，说不定啥时候就能用上呢。&lt;/p&gt;
 &lt;p&gt;还有就是，有事没事就参加各种线上线下的沙龙，比如 ST、融创芯城、AWS、Linuxer 等等组织的，向各位前辈和业界大牛学习，确实让人感受到行业的变化。&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/2772fa3a37d48258204746d25f03caf9.png&#34; alt=&#34;这里写图片描述&#34; /&gt;&lt;/p&gt;
@@ -868,7 +867,7 @@
 &lt;p&gt;有时候我会问自己：“人为什么活着？人生的意义是什么？人终有一死，我该做点什么才对得起这唯一的一生，才算没有白活过？” 这些问题存在于我心中已久，也许是因为工作几年之后暂时摆脱了贫困，使得我又重新思考起这些问题来了。&lt;/p&gt;
 &lt;p&gt;2017 年我参加了挺多线上线下的环保公益活动，也对针对一些环保问题进行过分析和研究，算得上是半个在一线摸爬滚打的环保工作者（志工）吧，所以经常遇到有人问我：“你做软件开发的，怎么对环保这么感兴趣？” 一开始我并没去想这个问题，不过问的人多了，也就开始思考起来了。&lt;/p&gt;
 &lt;p&gt;大概从初中开始，自从我知道了如何用淀粉制作酒精，知道了塑料制品、化纤衣服是石油制成的，接受了 “垃圾是放错地方的资源” 这个观点之后，我就有了环保意识，开始关注 “资源、环境、人口” 等问题。而我也曾一度以为所有人都和我一样有环保意识，所以垃圾污染的问题应该不是太大的问题，后来当我亲身实践去做点事情的时候才发现，原来我错了 —— 现在我认为环保是一个教育和管理的问题。好，那所以如果一定要为我为什么做环保找一个原因的话，我想马斯洛需求理论就可以很好地回答这个问题了。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20180218025113431.jpeg&amp;quot; width=&amp;quot;480&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20180218025113431.jpeg&#34; width=&#34;480&#34;&gt;
 &lt;p&gt;我想起了 Richard Stallman 说的一句话 —— &lt;strong&gt;我可以找份工作赚钱，并沉浸在编码的快乐中，但在职业生涯结束后，回首目睹自己筑就的高墙将人与人分隔开，我会觉得我耗尽毕生精力只换来了一个更糟糕的世界。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在我看来，30 多年前的 “开源软件运动” 与我现在所参与的 “零废弃运动” 本质上是一样的，都是为了创建、维护一个更好的世界。&lt;/p&gt;
 &lt;p&gt;假如构建幸福生活的基本要素都不复存在，没有了从前的蓝天和灿烂阳光，没有了清新的空气，没有了洁净的水源，没有了安全的食品。那何谈幸福生活？&lt;/p&gt;

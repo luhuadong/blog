@@ -18,19 +18,19 @@
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
+        <category>种植</category>
         <category>英语</category>
         <category>成长</category>
         <category>英语短文</category>
         <category>学习</category>
-        <category>种植</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>健身</category>
         <category>气象爱好者</category>
         <category>指南</category>
@@ -53,6 +53,8 @@
         <category>开发者</category>
         <category>职业</category>
         <category>时间管理</category>
+        <category>地铁</category>
+        <category>Markdown</category>
         <category>milestone</category>
         <category>总结</category>
         <category>年终总结</category>
@@ -69,8 +71,6 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
-        <category>Markdown</category>
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
@@ -84,9 +84,9 @@
         <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>
+        <category>素食</category>
         <category>亲密关系</category>
         <category>农业</category>
-        <category>素食</category>
         <category>性格测试</category>
         <category>报告</category>
         <category>TED</category>
@@ -106,7 +106,7 @@
             <link>https://luhuadong.com/movies/who-killed-the-electric-car.html</link>
             <category>纪录片</category>
             <pubDate>Mon, 01 Nov 2021 12:52:47 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&amp;lt;iframe src=&amp;quot;&lt;a href=&#34;//player.bilibili.com/player.html?aid=289405784&amp;amp;bvid=BV1Wf4y167N8&amp;amp;cid=304238328&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&#34;&gt;//player.bilibili.com/player.html?aid=289405784&amp;amp;bvid=BV1Wf4y167N8&amp;amp;cid=304238328&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&lt;/a&gt;&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot; width=&amp;quot;100%&amp;quot; height=&amp;quot;500&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=289405784&amp;bvid=BV1Wf4y167N8&amp;cid=304238328&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;这是一部 2006 年上映的纪录片，该片探讨了电池电动车，特别是通用汽车的 EV1 电动车的产生、有限商业化及随后的消亡。剖析电动汽车在该时代死去的原因，将责任不仅归咎于消费者和汽车生产商，还归咎于布什政府和石油业。&lt;/p&gt;
  ]]></description>
         </item>
@@ -116,7 +116,7 @@
             <link>https://luhuadong.com/movies/revenge-of-the-electric-car.html</link>
             <category>纪录片</category>
             <pubDate>Mon, 01 Nov 2021 11:41:36 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&amp;lt;iframe src=&amp;quot;&lt;a href=&#34;//player.bilibili.com/player.html?aid=414110662&amp;amp;bvid=BV1aV411z7VL&amp;amp;cid=218525092&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&#34;&gt;//player.bilibili.com/player.html?aid=414110662&amp;amp;bvid=BV1aV411z7VL&amp;amp;cid=218525092&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&lt;/a&gt;&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot; width=&amp;quot;100%&amp;quot; height=&amp;quot;500&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=414110662&amp;bvid=BV1aV411z7VL&amp;cid=218525092&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;这部 2011 年拍摄的纪录片讲述了特斯拉（Tesla Motors）如何历尽艰辛挺过金融危机，深入探讨全球电动汽车复苏的景象。&lt;/p&gt;
  ]]></description>
         </item>
@@ -128,7 +128,7 @@
             <category>纪录片</category>
             <category>自由</category>
             <pubDate>Sat, 06 Mar 2021 01:43:41 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&amp;lt;iframe src=&amp;quot;&lt;a href=&#34;//player.bilibili.com/player.html?aid=16549975&amp;amp;bvid=BV1rx411V75r&amp;amp;cid=26994578&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&#34;&gt;//player.bilibili.com/player.html?aid=16549975&amp;amp;bvid=BV1rx411V75r&amp;amp;cid=26994578&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&lt;/a&gt;&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot; width=&amp;quot;100%&amp;quot; height=&amp;quot;500&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=16549975&amp;bvid=BV1rx411V75r&amp;cid=26994578&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
  ]]></description>
         </item>
         <item>
@@ -139,7 +139,7 @@
             <category>纪录片</category>
             <category>自由</category>
             <pubDate>Wed, 17 Jun 2020 14:43:59 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&amp;lt;iframe src=&amp;quot;&lt;a href=&#34;//player.bilibili.com/player.html?aid=796140504&amp;amp;bvid=BV1iC4y187nT&amp;amp;cid=235560964&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&#34;&gt;//player.bilibili.com/player.html?aid=796140504&amp;amp;bvid=BV1iC4y187nT&amp;amp;cid=235560964&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&lt;/a&gt;&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot; width=&amp;quot;100%&amp;quot; height=&amp;quot;500&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=796140504&amp;bvid=BV1iC4y187nT&amp;cid=235560964&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;非常经典的有关自由软件运动的纪录片&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.revolution-os.com&#34;&gt;http://www.revolution-os.com&lt;/a&gt;&lt;/p&gt;
  ]]></description>
@@ -152,7 +152,7 @@
             <category>纪录片</category>
             <category>自由</category>
             <pubDate>Sun, 05 Apr 2020 14:36:34 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&amp;lt;iframe src=&amp;quot;&lt;a href=&#34;//player.bilibili.com/player.html?aid=15221360&amp;amp;bvid=BV1sx411u7qy&amp;amp;cid=24774214&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&#34;&gt;//player.bilibili.com/player.html?aid=15221360&amp;amp;bvid=BV1sx411u7qy&amp;amp;cid=24774214&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&lt;/a&gt;&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot; width=&amp;quot;100%&amp;quot; height=&amp;quot;500&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=15221360&amp;bvid=BV1sx411u7qy&amp;cid=24774214&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;官网：&lt;a href=&#34;http://patentabsurdity.com/watch.html&#34;&gt;http://patentabsurdity.com/watch.html&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;导演、拍摄、编辑：Luca Lucarini&lt;/li&gt;
@@ -175,7 +175,7 @@
             <category>纪录片</category>
             <pubDate>Mon, 03 Feb 2020 14:45:49 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;《Code Rush》是 David Winton 导演于 1998 年至 2000 年间拍摄的纪录片，记录了硅谷的 Netscape 工程师们将浏览器源代码开源，成立 Mozilla 项目的经历；同时 Netscape 也正经历被 AOL 并购的过程。本片描绘了 Netscape 的工程师们，牺牲日常生活与家庭，努力防止他们的公司倒闭的经历。&lt;/p&gt;
-&lt;p&gt;&amp;lt;iframe src=&amp;quot;&lt;a href=&#34;//player.bilibili.com/player.html?aid=15989846&amp;amp;bvid=BV1rx411E7oW&amp;amp;cid=26090372&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&#34;&gt;//player.bilibili.com/player.html?aid=15989846&amp;amp;bvid=BV1rx411E7oW&amp;amp;cid=26090372&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&lt;/a&gt;&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot; width=&amp;quot;100%&amp;quot; height=&amp;quot;500&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=15989846&amp;bvid=BV1rx411E7oW&amp;cid=26090372&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;blockquote&gt;
 &lt;p&gt;从 1998 年 3 月到 1999 年 4 月，一个独立纪录片摄制组跟随着网景公司的一个软件工程师团队，记录了他们公司和互联网历史上的分水岭。&lt;/p&gt;
 &lt;/blockquote&gt;

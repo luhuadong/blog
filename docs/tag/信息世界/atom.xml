@@ -15,19 +15,19 @@
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
+    <category term="种植" />
     <category term="英语" />
     <category term="成长" />
     <category term="英语短文" />
     <category term="学习" />
-    <category term="种植" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="健身" />
     <category term="气象爱好者" />
     <category term="指南" />
@@ -50,6 +50,8 @@
     <category term="开发者" />
     <category term="职业" />
     <category term="时间管理" />
+    <category term="地铁" />
+    <category term="Markdown" />
     <category term="milestone" />
     <category term="总结" />
     <category term="年终总结" />
@@ -66,8 +68,6 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
-    <category term="Markdown" />
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
@@ -81,9 +81,9 @@
     <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
+    <category term="素食" />
     <category term="亲密关系" />
     <category term="农业" />
-    <category term="素食" />
     <category term="性格测试" />
     <category term="报告" />
     <category term="TED" />
@@ -118,7 +118,7 @@
 &lt;li&gt;&lt;a href=&#34;https://www.arduino.cn&#34;&gt;Arduino 中文社区&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.dfrobot.com.cn&#34;&gt;DFROBOT&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt; 创客导航：&lt;a href=&#34;https://mc.dfrobot.com.cn/links/&#34;&gt;https://mc.dfrobot.com.cn/links/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; 创客导航：&lt;a href=&#34;https://mc.dfrobot.com.cn/links/&#34;&gt;https://mc.dfrobot.com.cn/links/&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;open-source&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#open-source&#34;&gt;#&lt;/a&gt; OPEN SOURCE&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://itsfoss.com&#34;&gt;It&#39;s FOSS&lt;/a&gt;&lt;/li&gt;
@@ -141,7 +141,7 @@
 &lt;h2 id=&#34;iot&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#iot&#34;&gt;#&lt;/a&gt; IoT&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://iottechnews.com&#34;&gt;IoTnews&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.iotforall.com&#34;&gt;IoT for all&lt;/a&gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.iotforall.com&#34;&gt;IoT for all&lt;/a&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;community&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#community&#34;&gt;#&lt;/a&gt; COMMUNITY&lt;/h2&gt;
 &lt;ul&gt;
@@ -182,8 +182,8 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.drawdown.org&#34;&gt;DRAW DOWN&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://cn.weforum.org&#34;&gt;世界经济论坛&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://chinadialogue.net&#34;&gt;中外对话&lt;/a&gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.reei.org.cn&#34;&gt;磐之石环境与能源研究中心&lt;/a&gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://chinadialogue.net&#34;&gt;中外对话&lt;/a&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.reei.org.cn&#34;&gt;磐之石环境与能源研究中心&lt;/a&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.wri.org.cn&#34;&gt;世界资源研究所&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.sdg-china.net&#34;&gt;可持续发展经济导刊&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://huanbao.bjx.com.cn&#34;&gt;北极星环保网&lt;/a&gt;&lt;/li&gt;
@@ -195,7 +195,7 @@
 &lt;li&gt;&lt;a href=&#34;https://allafrica.com&#34;&gt;allAfrica&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.treehugger.com&#34;&gt;Treehugger | Sustainability for All&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.shiwuzq.com/portal.php&#34;&gt;人民食物主权&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://e-info.org.tw&#34;&gt;环境资讯中心（台湾）&lt;/a&gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://e-info.org.tw&#34;&gt;环境资讯中心（台湾）&lt;/a&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.tanpaifang.com/&#34;&gt;碳排放交易&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://gz.cma.gov.cn/qxkp/&#34;&gt;气象科普 | 贵州省气象局&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;

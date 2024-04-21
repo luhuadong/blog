@@ -18,19 +18,19 @@
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
+        <category>种植</category>
         <category>英语</category>
         <category>成长</category>
         <category>英语短文</category>
         <category>学习</category>
-        <category>种植</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>健身</category>
         <category>气象爱好者</category>
         <category>指南</category>
@@ -53,6 +53,8 @@
         <category>开发者</category>
         <category>职业</category>
         <category>时间管理</category>
+        <category>地铁</category>
+        <category>Markdown</category>
         <category>milestone</category>
         <category>总结</category>
         <category>年终总结</category>
@@ -69,8 +71,6 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
-        <category>Markdown</category>
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
@@ -84,9 +84,9 @@
         <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>
+        <category>素食</category>
         <category>亲密关系</category>
         <category>农业</category>
-        <category>素食</category>
         <category>性格测试</category>
         <category>报告</category>
         <category>TED</category>
@@ -124,10 +124,13 @@
 &lt;/blockquote&gt;
 &lt;p&gt;事业太大，需要慢慢做，还是先找对象结婚吧。&lt;/p&gt;
 &lt;p&gt;对另一半的需求？&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;性需求&lt;/li&gt;
-&lt;li&gt;有相同的理念&lt;/li&gt;
-&lt;/ul&gt;
+&lt;!--
+
+性需求
+
+有相同的理念
+
+--&gt;
  ]]></description>
         </item>
         <item>
@@ -191,14 +194,14 @@
 &lt;p&gt;下面是这个春节假期计划要做的几件大事：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;更新博客文章，移除一些乱七八糟的文章，补充修改 2023 年的月报。&lt;/li&gt;
-&lt;li&gt;更新「人人都懂物联网」网站的教程，每个类别至少 5 篇文章，移除所有字数少于 200 的文章。&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/li&gt;
+&lt;li&gt;更新「人人都懂物联网」网站的教程，每个类别至少 5 篇文章，移除所有字数少于 200 的文章。&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;重新整理「零废弃部落」上的指南和气象服务，网站备案，优化 SEO。&lt;/li&gt;
 &lt;li&gt;整理《从端到云构建物联网原型》专栏，更新所有实验代码，完善云端章节内容。&lt;/li&gt;
 &lt;li&gt;整理《基于树莓派的 Yocto 学习指南》专栏。&lt;/li&gt;
-&lt;li&gt;分析一些商业案例：自媒体、AI 产品、零售（环保商店）、回收等。&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/li&gt;
+&lt;li&gt;分析一些商业案例：自媒体、AI 产品、零售（环保商店）、回收等。&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;筹备 RT-Thread 兴趣小组。&lt;/li&gt;
-&lt;li&gt;练习普通话，录制有声书《什么样的爱值得勇敢一次》和《碳中和时代》。&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/li&gt;
-&lt;li&gt;阅读亲密关系、婚恋、个人成长相关书籍，包括《亲密关系》、《假性亲密关系》、《爱的五种语言》、《幸福关系的 7 段旅程》、《男人来自火星，女人来自金星》、《突破型谈判》、《精神健康讲记》、《人生只有一件事》、《素食、跑步、修行》、《女性主义》、《厌女》、《始于极限》，梳理自己对亲密关系的需求，争取将自己调整到适合谈恋爱和结婚的状态。&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/li&gt;
+&lt;li&gt;练习普通话，录制有声书《什么样的爱值得勇敢一次》和《碳中和时代》。&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;阅读亲密关系、婚恋、个人成长相关书籍，包括《亲密关系》、《假性亲密关系》、《爱的五种语言》、《幸福关系的 7 段旅程》、《男人来自火星，女人来自金星》、《突破型谈判》、《精神健康讲记》、《人生只有一件事》、《素食、跑步、修行》、《女性主义》、《厌女》、《始于极限》，梳理自己对亲密关系的需求，争取将自己调整到适合谈恋爱和结婚的状态。&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;重读《穷查理宝典》、《纳瓦尔宝典》、《百万富翁快车道》、《原则》等书籍，对接下来的工作做一个大致的规划。&lt;/li&gt;
 &lt;li&gt;整理闲置物品，挂闲鱼出售。&lt;/li&gt;
 &lt;/ul&gt;
@@ -289,12 +292,11 @@
 &lt;h2 id=&#34;小结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小结&#34;&gt;#&lt;/a&gt; 小结&lt;/h2&gt;
 &lt;p&gt;前两周参加朋友的活动，写下了 2024 年的期望 —— 自洽自由。希望 2024 年能更加从容一点，勇气再多一点，可以更好地感受和表达爱和喜悦，做真实的自己，也可以更好地释放创造力，过一种张弛有度的生活。祝大家新年快乐～&lt;/p&gt;
 &lt;p&gt;最后，附上 2024 年的第一次投篮，希望我们都能把握住人生中的每次关键一投！&lt;/p&gt;
-&lt;p&gt;&amp;lt;video width=&amp;quot;100%&amp;quot; controls&amp;gt;&lt;br /&gt;
-&amp;lt;source type=&amp;quot;video/mp4&amp;quot; src=&amp;quot;/images/journal/video-20240107-203318.mp4&amp;quot;&amp;gt;&lt;br /&gt;
- 您的浏览器不支持 video 标签。&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;br /&gt;
-&amp;lt;br/&amp;gt;&lt;/p&gt;
- ]]></description>
+&lt;video width=&#34;100%&#34; controls&gt;
+  &lt;source type=&#34;video/mp4&#34; src=&#34;/images/journal/video-20240107-203318.mp4&#34;&gt;
+  您的浏览器不支持 video 标签。
+&lt;/video&gt;
+&lt;br/&gt; ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/journal/monthly-2023-12.html</guid>
@@ -348,7 +350,7 @@
 &lt;p&gt;加入 Theme ShokaX 项目&lt;/p&gt;
 &lt;h2 id=&#34;实务学堂月捐人&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实务学堂月捐人&#34;&gt;#&lt;/a&gt; 实务学堂月捐人&lt;/h2&gt;
 &lt;p&gt;10 月 12 日开始参与实务学堂的月捐，&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/shi-wu-xue-tang-20231012.png&amp;quot; width=&amp;quot;400px&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/shi-wu-xue-tang-20231012.png&#34; width=&#34;400px&#34; /&gt;
 &lt;h2 id=&#34;可持续生活创变营&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#可持续生活创变营&#34;&gt;#&lt;/a&gt; 可持续生活创变营&lt;/h2&gt;
 &lt;h2 id=&#34;更新网站&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#更新网站&#34;&gt;#&lt;/a&gt; 更新网站&lt;/h2&gt;
 &lt;h2 id=&#34;封闭开发&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#封闭开发&#34;&gt;#&lt;/a&gt; 封闭开发&lt;/h2&gt;
@@ -458,11 +460,11 @@
 &lt;h2 id=&#34;上班为什么会这么累&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#上班为什么会这么累&#34;&gt;#&lt;/a&gt; 上班为什么会这么累？&lt;/h2&gt;
 &lt;p&gt;在我的字典里，“上班” 和 “工作” 的含义是不一样的。“工作” 就是做事，是一个人安身立命或实现自我价值的手段之一，无论赚不赚钱，强调的是意义和价值。而 “上班” 是一种个人与公司之间的 “商业交易行为”，公司付费购买员工的劳动时间，员工就必须按照公司的规章制度，在规定时间去到规定地点做规定的事情，无论是否有意义，以及你是否喜欢，带有约束性和强制性。&lt;/p&gt;
 &lt;p&gt;对于敏感、多虑、容易内耗的人来说，上班其实是一件挺痛苦的事！而我刚好就是这样的人。每天上班路上都在想：为什么我会在这里？为什么每天都走一样的路，去一样的地方，和一群那样的人，做那样的事情？似乎上班的兴致还比不过早上一缕阳光透过树叶洒落在脸上所带来的快乐。&lt;/p&gt;
-&lt;p&gt;&amp;lt;video width=&amp;quot;600&amp;quot; controls&amp;gt;&lt;br /&gt;
-&amp;lt;source type=&amp;quot;video/mp4&amp;quot; src=&amp;quot;/images/journal/video-20231207-174948.mp4&amp;quot;&amp;gt;&lt;br /&gt;
- 您的浏览器不支持 video 标签。&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;br /&gt;
-&amp;lt;br/&amp;gt;&lt;/p&gt;
+&lt;video width=&#34;600&#34; controls&gt;
+  &lt;source type=&#34;video/mp4&#34; src=&#34;/images/journal/video-20231207-174948.mp4&#34;&gt;
+  您的浏览器不支持 video 标签。
+&lt;/video&gt;
+&lt;br/&gt;
 &lt;p&gt;每天都要理解并按照别人的思维模式和行为方式做事，是一件非常糟心的事。如果不是为了那份工资，很难说服自己忍气吞声地干活。为了摆脱这种局面，一定要学会掌握主动权。比如要经常和别人争辩、要向上管理、要拒绝职责范围外的工作，但在职场中又会带来新的问题，比如不小心就被裁员了。&lt;/p&gt;
 &lt;p&gt;反正这不会是我们的终点，也不应该成为终点，少加班，多留点时间发展自己的兴趣爱好和副业吧。&lt;/p&gt;
 &lt;p&gt;我十分认同 Jeff Bezos 关于 “工作生活平衡” 的观点：我们不应该追求工作和私人生活的平衡，因为平衡意味着在工作和私人生活中进行取舍。相反，工作和生活之间应该有更全面的关系，它们是互助的关系。如果你在家里很开心，那么当你去办公室工作的时候就会精神满满；如果你在工作的地方很开心，你回家的时候也会精神满满。&lt;/p&gt;
@@ -472,7 +474,7 @@
 &lt;p&gt;于是，我向公司提出了离职。领导没同意，不过他答应我以后尽量不让我加班。&lt;/p&gt;
 &lt;h2 id=&#34;和朋友喝茶聊天&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#和朋友喝茶聊天&#34;&gt;#&lt;/a&gt; 和朋友喝茶聊天&lt;/h2&gt;
 &lt;p&gt;素创文企的朋友知道我有烦心事，约我每个周末过去喝茶聊聊人生。于是我这段时间去了几趟，也学到了一些茶艺知识。茶盘、茶漏、茶夹、茶宠、茶罐、公道杯、闻香杯、品茗杯...... 名词太多了。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20230611-185538.jpeg&amp;quot; width=&amp;quot;600&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20230611-185538.jpeg&#34; width=&#34;600&#34; /&gt;
 &lt;p&gt;这段时间，我问了芳姐和伟权兄很多问题，关于人生、工作、感情方面。他们给我讲了一些故事和人生哲理，还给我推荐了《盔甲骑士：为自己出征》这本书。&lt;/p&gt;
 &lt;p&gt;书中讲述了一个穿着亮闪闪的盔甲的骑士，由于他太喜欢他的盔甲，以至于无论吃饭还是睡觉他都从来不脱下盔甲，他的妻子和儿子都忘记了他的长相了。有一天，妻子很伤心地和他要决裂，他为了不失去妻子儿子，想要脱下盔甲，但却发现怎么都脱不下来。于是，他找到能够帮助他脱下盔甲的魔法师，魔法师告诉骑士，要脱下盔甲，他必须要通过三个城堡。这时，一直很痛苦低落闷闷不乐的骑士，开心地叫了起来：我知道！！每个城堡里都有一个公主在等我拯救！！然而魔法师却告诉他，你不要再去想救什么公主了，你必须首先想想怎么拯救自己。从此，骑士开始了解脱盔甲、寻找自我的征程。&lt;/p&gt;
 &lt;p&gt;这个故事很有代入感，我看完之后受到一些启发 —— 其实有时候，我何尝不是一个戴着盔甲的骑士，如果我不爱自己，那么我也无法爱别人。&lt;/p&gt;
@@ -524,7 +526,7 @@
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20230611-000001.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;你知道吗？今年 5 月 18 日是广州首个高温日，而往年平均首个高温日出现在 6 月 17 日，也就是说，今年的高温天气早来了一个月！不只是广州，全国多个城市也在五月纷纷打破了原先的高温纪录，真是太疯狂了！&lt;/p&gt;
 &lt;p&gt;当然，让我焦虑的不只是空调电费，还有全球气候变暖和生物多样性减少。根据《地球物理研究通讯》的研究显示，目前地球上的夏季的平均时间增加，而春季、冬季与秋季的平均时间均有减少，按此趋势，未来夏季将有可能长达半年。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/seasonal-rhythm-have-changed.jpg&amp;quot; width=&amp;quot;480&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/seasonal-rhythm-have-changed.jpg&#34; width=&#34;480&#34; /&gt;
 &lt;p&gt;这份研究收集北半球 1952 年至 2011 年的温度数据，计算春、夏、秋、冬四季的平均时间，发现夏季平均时间，在 59 年内从原本的 78 天增加为 95 天，另外三个季节则分别减少 9 天。我在想，以后生活在广东的小朋友，会不会感觉不到冬天的存在？&lt;/p&gt;
 &lt;p&gt;然而，危机可不仅如此。由于夏天的延长，人类的健康也会受到负面的影响，其中包括病毒的存活时间增长、蚊子的数量也会增加、花期延长从而使人类长时间暴露在大量的花粉等过敏原中，等等。&lt;/p&gt;
 &lt;p&gt;说到生物多样性，众所周知，5 月 22 日是国际生物多样性日嘛。我去特意去参观了一个「番茄宇宙拯救计划」展览，这是一个由 SeeD 策划的生物多样性的展览，它以番茄为出发点，通过品种历史区、种子实验区、艺术品区和共创交互活动的四大版块呈现，引发大家对食物多样性的思考。同时也呼吁大家关注自然，关心食物，选择对环境更为友好的生活方式。活动从 5 月 22 日一直持续到 7 月 20 日，地点位于广州市越秀区华侨新村爱国路 11 号（广州 SeeD 空间），感兴趣的朋友可以去看看哈！&lt;/p&gt;
@@ -535,9 +537,9 @@
 &lt;p&gt;事情大概是这样的：我们公司是自动驾驶传感器供应商嘛，前几年发展非常迅速，在惯导技术方面取得领先地位，为了争强企业竞争力，两年前开始筹备二次创业（我正是在此背景下加入的）。可是好景不长，2022 年底自动驾驶行业迎来了倒闭潮，曾经辉煌的自动驾驶公司、激光雷达公司宣布破产，亦或市值暴跌。相比海外自动驾驶行业的一片哀嚎，国内企业仍然坚挺（看起来），直到我们公司也开始撑不住了...... 撑不住的具体原因据说是部分投资人停止了投资，而企业本身的现金流不足以支撑一家千人级别的企业，迫不得已决定裁员，以应对动荡的市场。至于投资人为什么跳票，可以说和大环境息息相关，这里就不展开说了。&lt;/p&gt;
 &lt;p&gt;在裁员通知发出后的两三天里，我找领导、领导的领导沟通，询问裁员的事情。我问领导：有没有可能把裁员的名额给我，把 XX 留下？领导说，每个部门都有裁员指标，不得不裁员，让我安心工作，别想那么多。反正最后沟通无果，我还跟领导们吐露了很多心声，包括内部研发、管理的问题。至于后面怎么样，下个月再分享吧。&lt;/p&gt;
 &lt;p&gt;这段时间几乎每天都在散伙饭，酒入愁肠，化作一句：江湖再见！&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20230611-231045.webp&amp;quot; width=&amp;quot;600&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20230611-231045.webp&#34; width=&#34;600&#34; /&gt;
 &lt;p&gt;有些同事的感情真的挺深的，比如包工最后一天上班，说我还没结婚，特意给我发了两个红包；璐姐趁六一儿童节特意买了一个小挂饰送我，这样我的书包就不会显得太单调。而我也给他们准备了一些小礼物，给年长的同事送我们家乡特产「英红九号」茶叶，给年轻的同事送了一本《原则》。很多同事也是在离开之前纷纷互加微信，好像只有离职了，同事才能升级为真正的朋友。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20230603-015244.jpeg&amp;quot; width=&amp;quot;600&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20230603-015244.jpeg&#34; width=&#34;600&#34; /&gt;
 &lt;h2 id=&#34;职业倦怠&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#职业倦怠&#34;&gt;#&lt;/a&gt; 职业倦怠&lt;/h2&gt;
 &lt;p&gt;裁员风波暂告一段落，内心也逐渐恢复平静，看着那干净整洁的办公桌，仿佛他们从来都没有来过一样。没有被裁的人，可能比被裁的人更加焦虑。干活的人少了，我的工作量多了，更加没办法平衡工作和生活，这也是我想离开的直接原因。他们说，这叫 “能者多劳”，但我并不十分认同。&lt;/p&gt;
 &lt;p&gt;其实，就算没有这次裁员风波，我也计划今年下半年离开。因为我又进入了职业倦怠期，已经很长时间没有感受到编程的快乐了，也不喜欢开会。有时候我真的想不明白，为什么公司的制度总是无法释放每个人的创造力呢？为什么需要那么多管理岗来管理干活的员工呢？为什么有些员工明明不适合某个岗位却一直不做改变呢？为什么已经变成中华田园敏捷开发却依然坚守呢？为什么有的员工不称职却没有被发现，或者发现了也没被裁呢？&lt;/p&gt;
@@ -547,11 +549,11 @@
 &lt;h2 id=&#34;运动的快乐&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#运动的快乐&#34;&gt;#&lt;/a&gt; 运动的快乐&lt;/h2&gt;
 &lt;p&gt;好像从高三开始就变得焦虑了，总是要和别人竞争对比，其实是一件很折磨人的事情。以前担任体育委员，我一直这样告诉自己和身边的朋友：“不要给自己太大压力呀，每天都要运动一下，只要保持健康的身体，慢慢努力就会变好的！”&lt;/p&gt;
 &lt;p&gt;这几周开始，每周四晚上都和几个合得来的同事一起打羽毛球，他们说运动可以产生多巴胺，让人更快乐。我的车里也总是放着篮球和羽毛球，可以提醒我要多点运动。现在每次给我的车充电时，我也会在旁边练习篮球，会有一种很踏实、快乐的感觉。&lt;/p&gt;
-&lt;p&gt;&amp;lt;video width=&amp;quot;600&amp;quot; controls&amp;gt;&lt;br /&gt;
-&amp;lt;source type=&amp;quot;video/mp4&amp;quot; src=&amp;quot;/images/journal/video-20230528-230033.mp4&amp;quot;&amp;gt;&lt;br /&gt;
- 您的浏览器不支持 video 标签。&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;br /&gt;
-&amp;lt;br/&amp;gt;&lt;/p&gt;
+&lt;video width=&#34;600&#34; controls&gt;
+  &lt;source type=&#34;video/mp4&#34; src=&#34;/images/journal/video-20230528-230033.mp4&#34;&gt;
+  您的浏览器不支持 video 标签。
+&lt;/video&gt;
+&lt;br/&gt;
 &lt;p&gt;过去一年，逐渐变得焦虑，睡眠质量也差了好多。每次看到有人因为工作而猝死，就会想：我们上辈子到底造了什么孽？这辈子要天天拼命上班，拼命加班！Fuck，老子不干了！&lt;/p&gt;
 &lt;p&gt;一辈子很短，要多运动、多休息，专注地去做你觉得有趣的事情，一定会是一个丰富而生动的人生！&lt;/p&gt;
  ]]></description>
@@ -601,7 +603,7 @@
 &lt;p&gt;过去一年发生了很多事，我都还没来得及记录就已经被尘封在记忆里。所以我想在这篇 2022 年的总结里，花些时间好好聊聊。&lt;/p&gt;
 &lt;h2 id=&#34;暂停创业&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#暂停创业&#34;&gt;#&lt;/a&gt; 暂停创业&lt;/h2&gt;
 &lt;p&gt;2021 年我注册了一家公司，开始一个人的创业尝试，并且有半年时间全职投入，直到 2022 年 3 月份才暂停。显然，这次创业的结果是失败的，不过也收获一些经验和思考，包括创办企业的完整流程（起名、注册公司、注册品牌、银行开户、记账报税等）、企业管理、产品定位、市场营销等等。在这个阶段，虽然很享受从零到一创造一个产品的快感，但也加强了对用户需求、用户体验和市场营销的重视。最后由于种种原因，包括项目推进没有达到预期、单枪匹马创业状态不稳定、经济收入骤减的压力，决定暂停创业，继续提升自己的能力，进一步打磨产品和寻找市场机会。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/2022-summary-01.jpg&amp;quot; width=&amp;quot;400&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/2022-summary-01.jpg&#34; width=&#34;400&#34; /&gt;
 &lt;p&gt;熟悉我的朋友可能知道，我的工作是一名程序员，特别喜欢创客文化和开源文化，同时对环保和能源议题非常感兴趣。因此我的创业方向是 “STEM 教育 + 可持续生活”，这次创业虽然暂停了，不过有一个网站平台活下来了，未来将会以个人网的形式继续运营，准备充分再考虑商业化。&lt;/p&gt;
 &lt;p&gt;我对这段经历并不感到遗憾，因为越早经历失败，才能更快到达成功的彼岸。&lt;/p&gt;
 &lt;h2 id=&#34;重新工作&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#重新工作&#34;&gt;#&lt;/a&gt; 重新工作&lt;/h2&gt;
@@ -629,12 +631,12 @@
 &lt;h2 id=&#34;优秀员工&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#优秀员工&#34;&gt;#&lt;/a&gt; 优秀员工&lt;/h2&gt;
 &lt;p&gt;三月底入职的我，在新公司度过了完整的三个季度，绩效也是意料之外的惊喜，Q2 拿了 A（优秀），Q3 和 Q4 均拿了 S（卓越）。要知道，在此之前的两份工作中，我从来没拿过这个高的绩效，无论是写代码、写文档还是引进新技术，都得不到领导的认可，反而是经常被领导教做人和 PUA。这也是我对他们归属感不强的原因，促使我寻找外部的机会，包括参与开源社区、创业，以及去公益机构兼职。所以真的非常感恩，感恩遇到靠谱的公司和团队。公司和公司之间的差距真的很大，遇到不爱你的人一定要尽早离开，相信自己值得更好的对待。&lt;/p&gt;
 &lt;p&gt;过去九个月，我参与了我们产品的嵌入式软件、上位机软件、SDK 以及部分测试软件的开发，为多个项目写下了第一行代码。可能也是因为这个原因，得到了领导的重视，也得到了 2022 年度优秀员工（据说前 5% 才能评上）。你可能不信，这是我参加工作八年来，第一次获得优秀员工奖项。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20230106 - 导远优秀员工.jpeg&amp;quot; width=&amp;quot;400&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20230106-导远优秀员工.jpeg&#34; width=&#34;400&#34; /&gt;
 &lt;p&gt;凡是过往，皆为序章。常怀感恩之心、保持空杯心态，未来继续加油！&lt;/p&gt;
 &lt;h2 id=&#34;开源创客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#开源创客&#34;&gt;#&lt;/a&gt; 开源创客&lt;/h2&gt;
 &lt;p&gt;说完公司的工作，再说一下我的业余工作。上半年参加了一些柴火创客空间的活动和培训，拿了一个《创客教育与智能硬件应用》证书，也是为我的 STEM 教育事业做准备，然后基于 Wio Terminal 推出了两个物联网教程，已经上架销售了。也因此被评为 2022 柴火年度认证会员，可以大大方方说自己也是一名创客（Maker）啦！&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20230124-211956.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;link&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f517.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f517.png?v8&lt;/a&gt;&amp;quot;&amp;gt;🔗&amp;lt;/span&amp;gt; &lt;a href=&#34;https://mp.weixin.qq.com/s/cIXXssZ9nLZ-wEbtrdCYuw&#34;&gt;“2022 拾柴者”｜柴火年度认证会员大揭秘&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;link&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f517.png?v8&#34;&gt;🔗&lt;/span&gt; &lt;a href=&#34;https://mp.weixin.qq.com/s/cIXXssZ9nLZ-wEbtrdCYuw&#34;&gt;“2022 拾柴者”｜柴火年度认证会员大揭秘&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;在开源软件方面，除了在 RT-Thread 社区偶尔提交一两个 PR，还参加了腾讯的开源摘星计划（WeOpen Star），认识了一些从事开源相关工作的小伙伴，比如说 freeCodeCamp 社区和极狐 GitLab。看到别人可以快快乐乐地以做开源软件为生，其实还是蛮受激励的。我也坚信，我的下一份工作 / 创业，一定是和开源软件相关的，一定是支持远程办公的。&lt;/p&gt;
 &lt;p&gt;另外，我自己存活下来的一个教程网站也在不定期更新中，2022 年底突破了 1000 篇文章，有了稳定可观的月访问量。接下来会继续以个人网站的形式运营下去，促进面向大众的终身教育，这也是我的 SDGs 梦想之一。&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/GetIoT-for-SDGs.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -645,11 +647,11 @@
 &lt;p&gt;整个 2022 年，我当了 134 天比亚迪车主，充了 655 度电，跑了 5750 公里，去过 3 座城市、2 个农场。现在没事我就开着小海豚出去溜达，一边听着播客、一边开车。看看我所生活的城市，如果看到好看的楼盘或村庄，心里还会默默地想：什么时候也在这里搞一套房......&lt;/p&gt;
 &lt;p&gt;可能是因为自己现在也进入了汽车行业，变得非常关心智能电动汽车的发展，我还写了一个专栏《&lt;a href=&#34;https://blog.csdn.net/lu_embedded/category_11475436.html&#34;&gt;图解智能电动汽车&lt;/a&gt;》，希望可以介绍汽车的电动化、智能化、网联化相关技术，和自身的工作结合起来，并且作为一个对外的窗口。&lt;/p&gt;
 &lt;p&gt;交通领域的降碳确实是碳中和重要且首当其冲的一环，希望未来绿电越来越多，碳排放越来越低，出行效率越来越高，人们生活越来越好！这也是我的 SDGs 梦想之一。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;../../images/journal/20230124-213158.jpeg&amp;quot; width=&amp;quot;400&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/journal/20230124-213158.jpeg&#34; width=&#34;400&#34; /&gt;
 &lt;h2 id=&#34;感情生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#感情生活&#34;&gt;#&lt;/a&gt; 感情生活&lt;/h2&gt;
 &lt;p&gt;2021 年结束了一段六年的感情，对我的内心世界可以说是一个几乎毁灭性的打击，不仅生活发生了很大变化，心态上也经历了从生气、愤怒、怀念、沮丧... 不断反复，再到平静、反思的状态。我讨厌自己，讨厌自己的不勇敢、优柔寡断。为了不去想感情的事，我几乎让工作和学习填满了所有时间，经常晚上 11 点多才离开公司，有时候甚至直接在公司过夜。&lt;/p&gt;
 &lt;p&gt;五月份偶然了解到「&lt;a href=&#34;https://www.tuodan.tech&#34;&gt;二狗单身青年自救平台&lt;/a&gt;」，孤独和好奇心驱使我注册了账号，开始认真填写资料，连续发布了两周二狗日记，记录和分享自己的生活。慢慢有了一些访问和关注，还两次被推荐上墙，让我受宠若惊。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20220509 - 二狗.jpeg&amp;quot; width=&amp;quot;400&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20220509-二狗.jpeg&#34; width=&#34;400&#34; /&gt;
 &lt;p&gt;我想我应该积极主动创造机会，于是陆续和一些异性见面、吃饭、聊天，大部分吃完第一顿饭就没有联系了。有的加了微信慢慢变成朋友，一起交流脱单心得。三个月后，开始觉得二狗平台有点无聊了，看条件、相互比较的氛围浓厚，对我这种硬件条件很一般、内心世界比较丰富的人来说一点优势都没有，想要找到合适的对象无异于大海捞针。虽然我对自己的定位比较清晰，但感觉还是应该把目光放在自己感兴趣的圈子里。&lt;/p&gt;
 &lt;p&gt;就在我决定离开二狗的前夕，遇到了一位小姐姐。开始了一些故事，故事仍在进行中......&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20230124-212809.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -659,7 +661,7 @@
 &lt;p&gt;我以前从来没有思考过软件的意义，曾经面向比赛编程，也曾面向领导编程。去年经历了很多从零到一的软件项目，也经历了带新人的过程，对软件的意义有了更多理解。&lt;strong&gt;软件的核心价值是提高生产效率、减少人类的痛苦&lt;/strong&gt;。如果经常加班编写毫无用处的代码，简直是本末倒置！这一点需要时刻提醒自己。&lt;/p&gt;
 &lt;p&gt;在经历过大中小企业、国企民企之后，我开始明白自己究竟想从工作中获得什么 —— 平台、人脉、资金。打工人就要以创业的心态去工作，把公司的事当作自己的事，像老板一样思考。否则不如早点挤进国企事业单位，过岁月静好的生活。我还是有欲望的，我想创造一份伟大的事业，实现自己的人生价值，促进世界可持续发展。&lt;/p&gt;
 &lt;p&gt;至于什么时候重启创业计划，边走边看吧。虽然偶尔也会收到一些创业团队的邀请，但如果做的不是我最想做的事，条件不是很靠谱，我还是会继续在现公司工作，争取先把公司搞上市，尽可能实现财务自由。毕竟，有钱真的太爽了！&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20230124-202355.jpeg&amp;quot; width=&amp;quot;400&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20230124-202355.jpeg&#34; width=&#34;400&#34; /&gt;
 &lt;h2 id=&#34;展望未来&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#展望未来&#34;&gt;#&lt;/a&gt; 展望未来&lt;/h2&gt;
 &lt;p&gt;今年就不立 Flag 啦，就简单记录几个目前想到的小目标吧。&lt;/p&gt;
 &lt;p&gt;😛 工作中，管理方面很多地方做得不好，也犯了一些错，比如同事间的沟通不畅，出现矛盾时相互抱怨。如果觉得同事不够好，那你有没有想过办法帮助他？我想我确实应该开始重视技术管理和团队管理，减少在公司项目中的代码编写工作，增加代码审查、测试和技术预研等工作。希望在 2023 年能提升管理和沟通能力，让自己慢慢从程序员的繁忙工作中脱离出来，有更多思考的时间，承担更重要的工作。&lt;/p&gt;
@@ -731,7 +733,7 @@
             <pubDate>Tue, 12 Jul 2022 19:33:50 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;今天在折腾&lt;a href=&#34;https://www.nuvoton.com&#34;&gt;新唐科技&lt;/a&gt;（nuvoTon）提供的 &lt;a href=&#34;https://getiot.tech/numaker/numaker-hmi-n9h30-intro.html&#34;&gt;NuMaker-HMI-N9H30&lt;/a&gt; 开发板时，准备编译 RT-Thread 的 BSP 包，添加了 LVGL 软件包，下载了交叉编译工具链...... 一顿操作猛如虎，结果出现了好一些 Bug！比如下面这个：&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;命令行&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;CC packages/LVGL-latest/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.o&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;packages/LVGL-latest/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c:5:10: fatal error: lvgl/lvgl.h: No such &lt;span class=&#34;token function&#34;&gt;file&lt;/span&gt; or directory&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; &lt;span class=&#34;token comment&#34;&gt;#include &#34;lvgl/lvgl.h&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;          ^~~~~~~~~~~~~&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;compilation terminated.&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;跟着查了代码，发现头文件确实没处理好，于是顺手修复了 Bug 并且提交了合并请求（&lt;a href=&#34;https://github.com/lvgl/lvgl/pull/3477&#34;&gt;PR #3477&lt;/a&gt;）。几个小时后，&lt;a href=&#34;https://github.com/lvgl/lvgl&#34;&gt;LVGL&lt;/a&gt; 项目的创始人 &lt;a href=&#34;https://github.com/kisvegabor&#34;&gt;Gabor Kiss-Vamosi&lt;/a&gt; 合并了我的提交，开心！就这样，我成为了 LVGL 开源项目的第 263 位贡献者。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20220712_lvgl_contributor.png&amp;quot; width=800 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20220712_lvgl_contributor.png&#34; width=800 /&gt;
 &lt;p&gt;后来，我又发现了 RT-Thread 软件包中的一个 Bug，居然隐藏了 LVGL 的版本选择，导致 NuMaker-HMI-N9H30 没法使用 BSP 包中要求的 v8.2.0 版本。于是，我又顺手修复了 Bug 并且向 RT-Thread 的 &lt;a href=&#34;https://github.com/RT-Thread/packages&#34;&gt;packages&lt;/a&gt; 仓库提交了合并请求（&lt;a href=&#34;https://github.com/RT-Thread/packages/pull/1300&#34;&gt;PR #1300&lt;/a&gt;）。&lt;/p&gt;
 &lt;p&gt;软件工程是一项很细致的工作，稍不注意或者考虑不周，很容易就产生 Bug。虽然这两个 Bug 都是小问题，但是如果初学者碰到了，就会很疑惑 —— 开源软件怎么这么多 bug？也不知道怎么解决，然后可能就不用了。&lt;/p&gt;
 &lt;p&gt;看到 Bug 尽量修复，是一名开源软件工程师的基本修养！希望开源生态越来越好啦～&lt;/p&gt;
@@ -749,19 +751,19 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
             <category>成长</category>
             <pubDate>Sun, 03 Jul 2022 06:11:45 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/zerowaste/20220702-vloveit-03.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;周六，我参加了&lt;a href=&#34;http://www.vloveit.net&#34;&gt;微辣青年&lt;/a&gt;（vloveit）举办的 2022 可持续生活创变营，一共有 7 个项目，具体可以关注微辣青年公众号进行了解。&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;point_right&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f449.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f449.png?v8&lt;/a&gt;&amp;quot;&amp;gt;👉&amp;lt;/span&amp;gt;&lt;/p&gt;
+&lt;p&gt;周六，我参加了&lt;a href=&#34;http://www.vloveit.net&#34;&gt;微辣青年&lt;/a&gt;（vloveit）举办的 2022 可持续生活创变营，一共有 7 个项目，具体可以关注微辣青年公众号进行了解。&lt;span class=&#34;github-emoji&#34; alias=&#34;point_right&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f449.png?v8&#34;&gt;👉&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/zerowaste/20220702-vloveit-04.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;按照惯例，营会的结尾，我们每个人抽一张卡片，卡片上写着一句话。你可以根据卡片的内容是否与自己的目前的状态相吻合，决定保留卡片或者和其他人交换卡片。下面是我抽到的卡片内容：&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/zerowaste/20220702-vloveit-01.jpeg&amp;quot; width=480 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/zerowaste/20220702-vloveit-01.jpeg&#34; width=480 /&gt;
 &lt;p&gt;这句话放在两三年前，是很符合我的状态，但是现在我已经不害怕了，所以我想把它交换出去，送给更需要鼓励的小伙伴。最后我换到了下面这张卡片：&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/zerowaste/20220702-vloveit-02.jpeg&amp;quot; width=480 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/zerowaste/20220702-vloveit-02.jpeg&#34; width=480 /&gt;
 &lt;blockquote&gt;
 &lt;p&gt;做一个世界的水手，奔赴所有的码头。&lt;br /&gt;
 做一个世界的水手，游遍每一个港口。&lt;br /&gt;
 To be a sailor of the world, bound for all ports.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;这句话我花了好一些时间才开始理解，究其原因，我觉得是理科生（工程师）和文科生（诗人）的思维差异。比如说我，看到这句话的第一反应是 —— 为什么要做水手？为什么要奔赴所有码头？（多累，多没效率啊）如果做水手是为了奔赴码头（完成工作），那么奔赴所有码头并不是一个好的选择，因为社会讲究分工合作嘛，让水手奔赴最合适自己的码头才是最高效的。而如果要让一个水手奔赴完所有码头以后才找到最适合自己的码头，那一定是这个算法（策略）设计得不对！&lt;/p&gt;
-&lt;p&gt;OMG，我在想什么... &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;joy&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f602.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f602.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😂&amp;lt;/span&amp;gt;&lt;/p&gt;
+&lt;p&gt;OMG，我在想什么... &lt;span class=&#34;github-emoji&#34; alias=&#34;joy&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f602.png?v8&#34;&gt;😂&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;实际上，这句诗出自惠特曼（Walt Whitman）的作品《欢乐之歌》，全诗充满着自由的气息。他想表达的是：也许我们不需要把生活过得一板一眼，在规定的时间到达规定的地点适用于精确的比赛，而不是充满机会和变数的生活本身。所有的 “港口”，不管大小，都值得有心人前去一探。可以随时开始，也能随时放下，那才是真正的自由。&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/%E5%A4%A7%E7%A8%BB%E5%9F%95%E7%A0%81%E5%A4%B4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;做一个即使一无所有，也不缺从头再来的勇气的人，永远追寻内心的声音，永不妥协。这其实挺符合我现在的状态，也很符合我们栏目的主旨 —— 实现人的自由全面发展，成为自由人！&lt;/p&gt;
@@ -870,11 +872,11 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
             <category>日记</category>
             <pubDate>Sat, 11 Jun 2022 18:46:35 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;有朋友问我对 &lt;a href=&#34;https://s.weibo.com/weibo/%23%E5%94%90%E5%B1%B1%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6%23&#34;&gt;唐山打人事件&lt;/a&gt; 怎么看？其实我没看完一个视频，因为这种事情太让人气愤了！我怕我看完久久不能平复心情。所以只是在微博上点赞转发，提高热度和社会关注。&lt;/p&gt;
-&lt;p&gt;记得两年前，有一天晚上和家人逛超市，刚好看到有一个小偷在偷前面那个女孩的手机。其实不止我一个人看到，小偷可能也发现不妙，于是放弃了偷盗行为，然后跑开了。我见状马上追了上去，把他逼到二楼一个墙角，准备开干，结果他从二楼直接跳下去了…… 我妈后面追上我，说她腿都软了 &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;joy&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f602.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f602.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😂&amp;lt;/span&amp;gt; 我跟她说：别害怕，我比他大一号，单挑我肯定能赢！我妈说：要是他有刀怎么办？……&lt;/p&gt;
+&lt;p&gt;记得两年前，有一天晚上和家人逛超市，刚好看到有一个小偷在偷前面那个女孩的手机。其实不止我一个人看到，小偷可能也发现不妙，于是放弃了偷盗行为，然后跑开了。我见状马上追了上去，把他逼到二楼一个墙角，准备开干，结果他从二楼直接跳下去了…… 我妈后面追上我，说她腿都软了 &lt;span class=&#34;github-emoji&#34; alias=&#34;joy&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f602.png?v8&#34;&gt;😂&lt;/span&gt; 我跟她说：别害怕，我比他大一号，单挑我肯定能赢！我妈说：要是他有刀怎么办？……&lt;/p&gt;
 &lt;p&gt;其实我的成长环境也充满了暴力，贫穷落后地区嘛，经常发生打架斗殴、吸毒…… 我记得我在镇上读初中那几年，每周五下午放学，路口都会有警车驻守，因为总是有各个学校的不同帮派约架。我的一个同桌就是别人打到退学的，听说手都被打断了。还有一个同学也是小混混，他爸是当地教育局的官员，老师拿他没办法，他还经常给我讲他们的犯罪计划…… 还说他会罩着我，这样就不会有人欺负我，不过后来他也因为一起打人事件转校了。因为我那时候的成绩特别好（基本上都是全校第一名），所以平安地度过了那段黑暗时光。我还为此写过一本小说《正义大冒险》。&lt;/p&gt;
-&lt;p&gt;正义从来都不是轻易得到的，我们要在斗争中学会斗争，敢于斗争，善于斗争！于我而言，我能做的就是不断提高自己的学识，掌握法律武器，强身健体。当身边发生不好的事情时，尽我所能地行动，保护好身边的人。比如说，下次在餐厅吃饭看到有人抽烟，就要大声地跟他们说：请不要在这里抽烟！我们真的很介意！&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;no_smoking&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f6ad.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f6ad.png?v8&lt;/a&gt;&amp;quot;&amp;gt;🚭&amp;lt;/span&amp;gt;&lt;/p&gt;
-&lt;p&gt;最后，希望国家司法机关能对唐山打人事件的施暴者及其背后的保护伞从重处罚，那是我们国家可可爱爱的女孩们啊！&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;angry&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😠&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;angry&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😠&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;angry&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😠&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;angry&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😠&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;angry&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😠&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;angry&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😠&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;angry&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😠&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;angry&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😠&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;angry&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😠&amp;lt;/span&amp;gt;&lt;/p&gt;
-&lt;p&gt;被气到了，今天加 200 个俯卧撑 &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;muscle&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png?v8&lt;/a&gt;&amp;quot;&amp;gt;💪&amp;lt;/span&amp;gt;&lt;/p&gt;
+&lt;p&gt;正义从来都不是轻易得到的，我们要在斗争中学会斗争，敢于斗争，善于斗争！于我而言，我能做的就是不断提高自己的学识，掌握法律武器，强身健体。当身边发生不好的事情时，尽我所能地行动，保护好身边的人。比如说，下次在餐厅吃饭看到有人抽烟，就要大声地跟他们说：请不要在这里抽烟！我们真的很介意！&lt;span class=&#34;github-emoji&#34; alias=&#34;no_smoking&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f6ad.png?v8&#34;&gt;🚭&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;最后，希望国家司法机关能对唐山打人事件的施暴者及其背后的保护伞从重处罚，那是我们国家可可爱爱的女孩们啊！&lt;span class=&#34;github-emoji&#34; alias=&#34;angry&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;😠&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;angry&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;😠&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;angry&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;😠&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;angry&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;😠&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;angry&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;😠&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;angry&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;😠&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;angry&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;😠&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;angry&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;😠&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;angry&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;😠&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;被气到了，今天加 200 个俯卧撑 &lt;span class=&#34;github-emoji&#34; alias=&#34;muscle&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png?v8&#34;&gt;💪&lt;/span&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
@@ -884,7 +886,7 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
             <category>成长</category>
             <category>日记</category>
             <pubDate>Fri, 10 Jun 2022 22:22:09 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;继成为开源主义者、环保主义者之后，今天又立志成为一名女权主义者（Feminist） &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;muscle&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png?v8&lt;/a&gt;&amp;quot;&amp;gt;💪&amp;lt;/span&amp;gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;继成为开源主义者、环保主义者之后，今天又立志成为一名女权主义者（Feminist） &lt;span class=&#34;github-emoji&#34; alias=&#34;muscle&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png?v8&#34;&gt;💪&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;XX 主义听起来有点严肃，但其实就真的是很严肃的问题！&lt;/p&gt;
 &lt;p&gt;我也很好奇为什么那么多人对恶意软件熟视无睹？为什么那么多人对每天产生的大量垃圾熟视无睹？为什么那么多人对弱势群体遭受的不公熟视无睹？&lt;/p&gt;
 &lt;p&gt;开源、环保、女权这三者看起来完全不搭边，但其实它们的核心诉求都是一致的 —— 自由、平等、正义。从广义上来说，它们都是可持续生活的一部分。&lt;/p&gt;
@@ -922,10 +924,10 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
 &lt;li&gt;和平、正义和强大机构&lt;/li&gt;
 &lt;li&gt;促进目标实现的伙伴关系&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;SDG 目标看起来很宏大，离我们很远，但其实离我们很近。比如说我现在从事的智能电动汽车研发工作，研究汽车无人驾驶，看起来只是一份普通的工程技术类工作，但其实它和 SDG 第 9 个目标非常紧密！&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;eyes&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f440.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f440.png?v8&lt;/a&gt;&amp;quot;&amp;gt;👀&amp;lt;/span&amp;gt;&lt;/p&gt;
+&lt;p&gt;SDG 目标看起来很宏大，离我们很远，但其实离我们很近。比如说我现在从事的智能电动汽车研发工作，研究汽车无人驾驶，看起来只是一份普通的工程技术类工作，但其实它和 SDG 第 9 个目标非常紧密！&lt;span class=&#34;github-emoji&#34; alias=&#34;eyes&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f440.png?v8&#34;&gt;👀&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;产业、创新和基础设施&lt;/strong&gt;：修建可靠的基础设施，促进包容、可持续的工业化发展，促进创新。&lt;/p&gt;
 &lt;p&gt;生产一辆汽车需要消耗很多资源，使用过程中还需要不断消耗化石燃料或者电能。除此之外，为了停车，城市必须拿出大量的土地用作停车场！从这一角度来看，发展并且早日实现汽车的电动化、智能化，实现无人驾驶和大规模的按需运输，实际上就能帮助我们摆脱这种巨大的浪费。&lt;/p&gt;
-&lt;p&gt;每当想到这里，我就会对现在的工作充满了动力！我在为实现 SDG、实现碳中和努力工作，这真的太酷了！&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;fist_oncoming&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png?v8&lt;/a&gt;&amp;quot;&amp;gt;👊&amp;lt;/span&amp;gt;&lt;/p&gt;
+&lt;p&gt;每当想到这里，我就会对现在的工作充满了动力！我在为实现 SDG、实现碳中和努力工作，这真的太酷了！&lt;span class=&#34;github-emoji&#34; alias=&#34;fist_oncoming&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png?v8&#34;&gt;👊&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/zerowaste/SDGs-poster-768x456.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
  ]]></description>
         </item>
@@ -953,7 +955,7 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
 &lt;li&gt;精彩继续......&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;嗯！很强对不对？感动中国年度人物实至名归！下面是央视新闻推出的 &lt;a href=&#34;https://weibo.com/2656274875/Lrh3Sc98I?refer_flag=1001030103_&#34;&gt;#读唇语考清华女孩原型微电影#&lt;/a&gt;《我的赛道》&lt;/p&gt;
-&lt;p&gt;&amp;lt;iframe src=&amp;quot;&lt;a href=&#34;//player.bilibili.com/player.html?aid=638729719&amp;amp;bvid=BV1oY4y1k7zG&amp;amp;cid=710628187&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&#34;&gt;//player.bilibili.com/player.html?aid=638729719&amp;amp;bvid=BV1oY4y1k7zG&amp;amp;cid=710628187&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&lt;/a&gt;&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot; width=&amp;quot;100%&amp;quot; height=&amp;quot;500&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=638729719&amp;bvid=BV1oY4y1k7zG&amp;cid=710628187&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;说来也巧，我和江梦南是同年出生的，也是同年读高中，她小时候生活在湖南最南端的郴州市宜章县，我小时候生活在广东最北端的清远市。虽然我不是瑶族，不过清远有两个瑶族自治县，离宜章县很近，我也有一些瑶族的同学。&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/jmn-hometown.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;而且看她的介绍，我们现在应该还是同行 —— 程序员，在三维图像识别方面会有一些交集。于是，我在 GitHub 上盲猜她的 ID，但是没找到。。。不过，微博账号倒是很容易就找到了，内容不多，但正能量满满！果断添加特别关注！&lt;/p&gt;
@@ -963,8 +965,8 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
 &lt;p&gt;让我印象最深刻的一句话是，江梦南说：“我从来没有因为听不见，就把自己放在一个弱者的位置上。我经常跟别人说，千万不要因为我听不见就放低对我的要求和标准。我可能取得了一点点较小的成绩，我怕他们会因为我听不见，而觉得我取得的这个成绩特别大，放大好几倍，我不太希望他们这样，我更希望他们以一个健全人的标准要求我。解决生命健康的难题，生命科学领域如果有一个难题能够被解决被攻克，那肯定造福的不只是一个人，而是造福所有人。如果我能够做一些什么让别人不再那么辛苦那么艰难，我觉得是一件很有意义的事情，如果每一个人都能够付出一点点努力，这个世界肯定是非常美好的。”&lt;/p&gt;
 &lt;p&gt;另外有一点其实感触很深，就是江梦南 26 岁时成功植入人工耳蜗重获听力之后，需要重新感受、适应、训练声音。对于从小读唇语的她来说，听别人讲话就如同学习一门外语一般，需要经历很长的语训阶段才能不再依赖唇语，凭声音去和别人交流。我也有类似的经历，由于小学和初中阶段生活都比较封闭和落后，所以我说话带有很浓的口音，记得刚去市区读高中的时候，就因为口音问题被同桌排挤。我也是从那时候开始才注意到 —— 原来听力对说话的影响那么重要！然后慢慢地去调整、训练自己的口腔和舌头，才学会了比较正常的普通话和粤语。难度真的不亚于重新学一门外语！因此让我更加佩服江梦南同学，这一路走来真的很不容易！&lt;/p&gt;
 &lt;p&gt;幸运的是，江梦南终于走到了这里，感恩她的父母耐心教导，感恩她的不懈努力！越努力，越幸运！祝福江梦南同学，期待未来有一天能认识你呀！&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/jmn-03.jpeg&amp;quot; width=&amp;quot;600&amp;quot; /&amp;gt;&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/jmn-02.jpg&amp;quot; width=&amp;quot;600&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/jmn-03.jpeg&#34; width=&#34;600&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/jmn-02.jpg&#34; width=&#34;600&#34; /&gt;
  ]]></description>
         </item>
         <item>
@@ -979,7 +981,7 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
 &lt;p&gt;30 岁真是一个可怕的数字，它总在提醒你 “该成家啦，该立业啦”。而我，似乎两头都不着调。没有甜甜的爱情，没有支持我的家庭，没有一份属于自己的事业。好像做什么都觉得差点意思，买房子、买车子也没感到多开心，找到一份还不错的工作也没感到多开心。哎，我的快乐阈值可真高。可能是因为我是个有野心的人吧，也许只有当我拥有一份事业，拥有自由的生活，拥有心心相印的爱人，才会感到快乐吧。&lt;/p&gt;
 &lt;p&gt;过去几个月，时常常想写点什么，又迟迟不敢落笔，生怕不好的想法和潦草的字体玷污了纸张，我... 好像抑郁了。果然，每次测试结果都显示我可能已经患上抑郁症，建议向心理医生或专业人士寻求协助。于是，我花了一些时间阅读心理学方面的著作，以寻求帮助。好消息是，虽然总是显示有抑郁倾向，但没有一次是重度抑郁。我想，应该是我依然热爱生活，对未来还抱有希望吧！&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20220301_BDI-II_test.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;作为 30 岁的总结，我本来想给自己打个 59 分，因为很多事情并没有达到预期，我也没有成为想成为的样子，让自己失望了。不过，我的心理医生说：要多点肯定自己，相信自己的才能，并用积极进取的态度看待自己的不足，摆脱自我束缚。于是，我给自己打了 99 分。&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;smile&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😄&amp;lt;/span&amp;gt;&lt;/p&gt;
+&lt;p&gt;作为 30 岁的总结，我本来想给自己打个 59 分，因为很多事情并没有达到预期，我也没有成为想成为的样子，让自己失望了。不过，我的心理医生说：要多点肯定自己，相信自己的才能，并用积极进取的态度看待自己的不足，摆脱自我束缚。于是，我给自己打了 99 分。&lt;span class=&#34;github-emoji&#34; alias=&#34;smile&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8&#34;&gt;😄&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;人生最重要的资源是什么？是时间，是每时每刻都在流淌的时间。把时间花在什么样的事、什么样的人上，收获的结果是不一样的。于是，我离开了那些阻碍我前进的人和事，开始了一段新的探索。做小项目、写书、面试、换赛道，就是过去一年的缩影。&lt;/p&gt;
 &lt;p&gt;对于我来说，痛苦的根源在于家庭、工作和生活的割裂。好像在不同的场景和圈子，都有不同的人设，而这都不是真实、完整的我。我要扮演一个好儿子、好哥哥、好员工、好男友...... 不同场景间的切换、情绪的调整，让我感到很累。其实我没那么好，都是装出来的......&lt;/p&gt;
 &lt;p&gt;那我到底是一个什么样的人？如果一定要贴标签的话，那么「Maker」和「环保」是我最想贴的两个标签。前者偏向于科技，后者偏向于人文。虽然我的工作是软件工程师（程序员），但我认为自己是一个富含现实理想主义色彩、开源和极客精神的 Maker，享受从零到一的自造过程。在生活中，我是一个有环保洁癖的人，我会尽量少产生垃圾、严格做好垃圾分类、多吃素少吃肉、不点外卖不喝奶茶，还会在家堆肥...... 所以跟我这样的人谈恋爱应该很累吧？&lt;/p&gt;
@@ -1070,7 +1072,7 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
 &lt;p&gt;这是加拿大多伦多大学心理学教师乔丹・彼得森（Jordan Peterson）提出的问题，这个问题不好回答，因为需要直面人生。尤其是对于没有充分发挥天赋的人来说，把不成功的理由归咎到自己身上，是一件很难的事情。&lt;/p&gt;
 &lt;p&gt;上大学已经是十年前的事情了，所以这个问题我也很尴尬。曾经的天马行空，曾经的初生牛犊不怕虎，在这十年间一点点消磨，庆幸的是还好没有殆尽。我依然有很多想法，我依然热爱学习，依然热爱生活，但显然我的执行力出现了问题。究其原因，这十年间，我还是浪费了太多时间，没有足够努力，没有把握机会。&lt;/p&gt;
 &lt;p&gt;OK，我们来看看 Jordan Peterson 教授的一个演讲片段：&lt;/p&gt;
-&lt;p&gt;&amp;lt;iframe src=&amp;quot;&lt;a href=&#34;//player.bilibili.com/player.html?aid=77560997&amp;amp;bvid=BV1mJ411Q7aF&amp;amp;cid=132686191&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&#34;&gt;//player.bilibili.com/player.html?aid=77560997&amp;amp;bvid=BV1mJ411Q7aF&amp;amp;cid=132686191&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&lt;/a&gt;&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot; width=&amp;quot;100%&amp;quot; height=&amp;quot;500&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=77560997&amp;bvid=BV1mJ411Q7aF&amp;cid=132686191&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;So，在我的世界里，我很重要！珍惜时间，提高效率，把握机会，去成为那个你想成为的人！&lt;/p&gt;
  ]]></description>
         </item>
@@ -1126,7 +1128,7 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
 &lt;p&gt;首先来看&lt;strong&gt;无风险&lt;/strong&gt;的选择，它们通常是我们每天都要面对的生活细节，可是却永远没有正确答案，甚至很快就会忘记。例如，晚餐吃什么？周末加班还是看电影？窗帘选择什么色彩搭配？... 其实都不会造成什么后果的，最多就是爽不爽的问题而已。所以面对这类选择，完全可以听从内心的第一感觉，或者&lt;strong&gt;听天由命&lt;/strong&gt;。实在不行，就将选项精简为两种，然后通过抛硬币来帮你做决定，不要徘徊不前。&lt;/p&gt;
 &lt;p&gt;接着是&lt;strong&gt;低风险&lt;/strong&gt;的选择，这些决定会有后果，但后果并不严重。我这次装修过程中的大部分选择都可以归为此类，比如定制家具的材料选择、家具的设计与布局、家电的品牌和型号选择等等。其实这些选项的结果大多是可以接受的，无非就是价格、视觉体验、使用便捷性、后续维护性方面的差别，哪怕做错决定了，也可以更换或者忍一下。如果还是难以选择，可以再玩一次 “听天由命”，但我还是想要认真思考一番，因为毕竟还是存在风险。所以面对低风险选项，更推荐&lt;strong&gt;听 “人” 由命&lt;/strong&gt;。可以先设下一些基本标准，然后请他人提出建议，并听从这些建议。&lt;/p&gt;
 &lt;p&gt;例如我在选择空调的时候，我把健康、低碳环保作为首要标准，把价格、智能家居作为次要标准。假设同一功率的各个品牌的空调机的&lt;strong&gt;隐含碳&lt;/strong&gt;成本相同（也就是在生产时的碳排放是一样的），那么显然我应该选择匹数合适的、一级能耗的、无风感的变频空调。不过，这里还有一个陷阱，就是&lt;strong&gt;碳效率&lt;/strong&gt;是否更高。也就是说，这台空调的质量是否足够好？在质保期内的平均维修次数是多少？超出质保期后还能延长工作多久？简单来说，硬件的使用寿命越长，碳效率就越高。经过一番研究与计算、咨询厂商客服，同时考虑价格等次要因素之后，我再作出决定就不难了。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/household/china-energy-label-5.jpg&amp;quot; width=&amp;quot;400&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/household/china-energy-label-5.jpg&#34; width=&#34;400&#34;&gt;
 &lt;p&gt;最后是&lt;strong&gt;高风险&lt;/strong&gt;的选择。实际上，整个装修过程的选择我都划分为 “无风险” 和 “低风险” 了，而恰恰 “在哪里买房” 是一个高风险的决定。我也承认这个决定做得并不够好，虽然无法重新选择，不过亡羊补牢，为时未晚，依然值得反思。因为以后还会面对许多高风险的选项，例如 “选择哪份工作”、“选择哪个赛道”、“选择哪个合作伙伴”、“选择哪种生活方式” 等等。&lt;/p&gt;
 &lt;p&gt;正是因为风险高，所以我们必定想做出正确决定。首先，你可以先&lt;strong&gt;凭直觉选出一个最佳选项&lt;/strong&gt;，然后将其他选项与该最佳选择进行&lt;strong&gt;逐一比较&lt;/strong&gt;，从两个选项中选出一个并淘汰另一个。具体操作可以采用我之前介绍的 &lt;a href=&#34;https://luhuadong.com/journal/two-decision-method-wcca-and-wadm.html&#34;&gt;WADM 加权平均决策矩阵&lt;/a&gt; 方法。&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/guide/fobo-high-stakes.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -1134,8 +1136,7 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
 &lt;p&gt;随身带把尺子，面对选择时先度量一下，一步步拆解下来，选择困难症就能得到治愈，人生也变得简单多了。&lt;/p&gt;
 &lt;p&gt;人生虽然难以预料，但不代表我们就要随风飘摇。哪怕结果永远都 “对不齐”，我们也要认真对待每一次有风险的选择。努力不一定成功，尝试也可能失败，但起码我们的心是 “对齐” 的，不负韶华，不留遗憾。&lt;/p&gt;
 &lt;p&gt;时间过得好快，看回四年前写的&lt;a href=&#34;https://luhuadong.com/zerowaste/travel-frog-eco-life.html&#34;&gt;《旅行青蛙》其实在讲环保故事&lt;/a&gt;，心情居然还是一样一样的。不同的是，今年冬天来得特别早，而我也有了属于自己的窝。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/zerowaste/travel-frog-02.webp&amp;quot; width=&amp;quot;600&amp;quot;&amp;gt;&lt;/p&gt;
- ]]></description>
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/zerowaste/travel-frog-02.webp&#34; width=&#34;600&#34;&gt; ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/journal/20211006.html</guid>
@@ -1154,41 +1155,40 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
             <category>生活</category>
             <category>猫</category>
             <pubDate>Sat, 25 Sep 2021 23:23:50 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20210926-02.jpeg&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20210926-02.jpeg&#34; width=600 /&gt;
 &lt;p&gt;为了体验不同的生活，周五晚上参加了一场万晓利的 LiveHouse 演出。事实上，在报名之前，我甚至都不知道万晓利是谁。好像我那低调的生活里，从来没有出现过民谣音乐一样。而我对音乐的理解也只有好听和不好听的区别，正如我对生活的理解一样肤浅。&lt;/p&gt;
 &lt;p&gt;虽然我不太懂音乐，不过还是可以看懂歌词，带着一股浓郁的孤独气息。现场的男男女女虽然在跟着音乐的律动而摆动，但大部分也都是孤独的。对于内心富足的人而言，孤独其实没有什么不好的，只是有时候需要一个像 LiveHouse 的场景，让向内和向外的心得以融合。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20210926-03.jpeg&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20210926-03.jpeg&#34; width=600 /&gt;
 &lt;p&gt;演出结束之后，佳贝带我去了酒吧。我很少去酒吧，但佳贝不一样，她可能是我印象中第一个说 “喝酒找她” 的女孩。不过，虽然她很喜欢喝酒，但她和我一样，是个好孩子。或者说，习惯了假装成好孩子。好孩子也好，坏孩子也罢，都无法逃离工作、婚姻、理想这些庸俗的话题。&lt;/p&gt;
 &lt;p&gt;其实我也不懂酒，只是一口下肚更容易吐露心声。听着佳贝讲述她和男朋友之间的爱情故事，竟有点似曾相识，年轻时候的我也带着许多相似的观点，也有着那样般的浪漫主义色彩，又或者我的并不是浪漫，只是无知者的纯粹罢了。&lt;/p&gt;
 &lt;p&gt;以前，我觉得我也可以不结婚，不生小孩，过着自由浪漫的生活。许多年以后，我终于承认了，我其实没那么强大，我是不完整的。我确实需要一个家，或者 “家的感觉”，这种肤浅的结婚理由，总免不了一顿嘲讽。&lt;/p&gt;
 &lt;p&gt;这还不算什么，毕竟每个想结婚的人，都在拼命地想一个结婚的理由。更多的嘲讽，是我那对伴侣的那一串长长的需求列表，她们说我找的不是对象，而是找队友、保姆、秘书、情人...... 被吐槽多了，我自然也划掉了许多条目，只留下了两条 —— 相似的生活方式，以及聊得来。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20210926-04.jpeg&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20210926-04.jpeg&#34; width=600 /&gt;
 &lt;p&gt;年纪大了就特别喜欢聊天，我以前是能自己处理就不麻烦别人的人，现在开始喜欢找点小事麻烦别人，顺便聊聊天，看看不一样的生活。所以周六去 Echo 的朋友家做客，Echo 和她男朋友在市区租了一栋老房子，一楼留出一块叫做 “朋友家” 的小空间，方便朋友过来聊天。&lt;/p&gt;
 &lt;p&gt;我过去的时候，刚好邻居家的大金毛也在 “朋友家” 做客，大金毛也是个乖宝宝，很快就跟我玩耍起来了，抱着我舔了又舔，原来 “舔狗” 是这样的哈。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20210926-05.jpeg&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20210926-05.jpeg&#34; width=600 /&gt;
 &lt;p&gt;Echo 最近在看社会心理学和婚姻制度的书，我向她请教了一些问题。为什么现在那么多单身男女青年不愿意结婚，两个成长经历不同的人如何找到一致的生活方式，我们如何在现有的婚姻制度下过上幸福的生活？这些问题，好像有答案，又没有答案，好像很简单，又很复杂。&lt;/p&gt;
 &lt;p&gt;自我意识的觉醒之后，“妥协” 好像变成了一件很难的事情。不像以前，男人和女人结婚、组建家庭，一个主外，一个主内，刚刚好。而现在，大家都能学习、工作、赚钱、追逐梦想...... 谁先为家庭做出妥协，好像就成了被动的一方，影响以后的家庭地位。自我意识和大局意识是相辅相成的，重要的是，我们需要在两者之间找到一个平衡点。比如说，自我意识里那个 “内在的我” 是坏孩子，而大局意识里那个 “外在的我” 是好孩子，而平衡点就是 LiveHouse 和酒吧。诚然，每个人都有他与自己的相处之道，对我而言，我希望自己是一个有弹性的人。&lt;/p&gt;
 &lt;p&gt;不知道是不是学过社会心理学的原因，Echo 和佳贝都是善于反思和自省的人，在感情中也特别坦率，愿意沟通。我开始相信 “沟通能解决大部分问题” 这个观点，无论是职场上还是感情上。不同的是，感情上的沟通更强调平等，平等地交流，建立适合双方的沟通机制相当重要。不过，说这些就显得很不浪漫。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20210926-11.jpeg&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20210926-11.jpeg&#34; width=600 /&gt;
 &lt;p&gt;午饭过后，我就准备回家了。随着列车远离都市，内心也变得简单纯粹了。我想我应该学着放下，比如不要抱着结婚的目的找对象，而是用心感受爱情的美好，活在当下。我想我应该学会课题分离，做好自己的事，剩下的交给沟通。有些人喜欢 “不确定性”，有些不喜欢 “不确定性”，我就是后者，而这种 “不确定性” 会带来焦虑感，促使我用 “确定的方法” 去消除这种难以忍耐的 “不确定性”。&lt;/p&gt;
 &lt;p&gt;还是简单点好，我为什么要把稀松平常的日常生活搞得像战场一样？把找伴侣搞得像找战友一样？感情和职场的区别真的很大，找工作可以很直白地谈条件，而找伴侣谈条件就很不浪漫；换工作的理由如果是想追求更好的发展、想换个城市、想做更喜欢的项目、想得到更多成长等等，会显得很有雄心壮志且合理，但如果是分手的理由则显得相当自私且不浪漫。工作上要看着需求来实现效果，感情上却要看着效果来调整需求。&lt;/p&gt;
 &lt;p&gt;问题还没想明白，又发生了意外 —— 在路边捡到一只受伤的小橘猫。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20210926-07.jpeg&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20210926-10.jpeg&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20210926-07.jpeg&#34; width=600 /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20210926-10.jpeg&#34; width=600 /&gt;
 &lt;p&gt;我以前也救助过小猫，不过一直下不了决心养一只猫，照顾它一辈子，毕竟我是特别怕麻烦和不确定性的一个人。不过，这次我却认真地考虑要不要领养它。一来它受伤了，在马路边上随时可能会被碾成一坨肉饼；二来我的独居生活似乎也可以接受一只小动物的陪伴。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20210926-08.jpeg&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20210925-cat-x-ray-02a.jpeg&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20210926-08.jpeg&#34; width=600 /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20210925-cat-x-ray-02a.jpeg&#34; width=600 /&gt;
 &lt;p&gt;所以我决定先把它带回家。可我知道，对于养猫或者动物救助这件事情，我一直有个心结。如果我是个爱护动物的好孩子，为什么我还能接受自己吃肉？为什么有些动物是宠物，有些动物却是食物？这种有差别的爱，让我感到矛盾，觉得自己很虚伪。这才是我从来不养小动物的真正原因，不养，不救助，在这件事情上我就是一个坏孩子，起码不会有内心的煎熬。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20210926-09.jpeg&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20210926-09.jpeg&#34; width=600 /&gt;
 &lt;p&gt;但是我还是领养了小橘猫，所以我决定正式转素。我希望我对生活的爱，对世界的爱，对自然的爱，是无差别的爱。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20210926-01.jpeg&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20210926-01.jpeg&#34; width=600 /&gt;
 &lt;p&gt;人总是习惯为过去发生的事情找个合理的解释，以此来减轻内心的痛苦。&lt;/p&gt;
 &lt;hr /&gt;
 &lt;blockquote&gt;
 &lt;p&gt;万晓利「呼吸 2021」LiveHouse 巡演（广州站）30 分钟现场版&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&amp;lt;iframe src=&amp;quot;&lt;a href=&#34;//player.bilibili.com/player.html?aid=718434550&amp;amp;bvid=BV1VQ4y1X7Sc&amp;amp;cid=420014246&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&#34;&gt;//player.bilibili.com/player.html?aid=718434550&amp;amp;bvid=BV1VQ4y1X7Sc&amp;amp;cid=420014246&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&lt;/a&gt;&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot; width=&amp;quot;100%&amp;quot; height=&amp;quot;500&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
- ]]></description>
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=718434550&amp;bvid=BV1VQ4y1X7Sc&amp;cid=420014246&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt; ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/journal/20210923.html</guid>
@@ -1200,11 +1200,11 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
             <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20191207-cats.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;我曾经有过两次救助小猫的经历，加上帮小苏养了一周「多多」，让我从一个怕猫的人，转变成了一个爱猫的人。&lt;/p&gt;
 &lt;p&gt;但是，每次想起那两次救助小猫的经历，心里总是有一道坎过不去，因为救助的过程充满了无奈，结局也不完美。也正是因为这两段经历，让我了解到动物救助、动物保护、动物福利的现状，深切体会到其中的艰辛。也因为我最后没来得及帮小猫找到合适的主人，没有保护好小猫而深深自责。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/keeping-cats-01.jpg&amp;quot; width=&amp;quot;600&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/keeping-cats-01.jpg&#34; width=&#34;600&#34; /&gt;
 &lt;blockquote&gt;
 &lt;p&gt;第一次救助的三只刚出生不久的小猫&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/keeping-cats-02.jpeg&amp;quot; width=&amp;quot;600&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/keeping-cats-02.jpeg&#34; width=&#34;600&#34; /&gt;
 &lt;blockquote&gt;
 &lt;p&gt;第二次救助的五只小猫（其中四只）&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1221,12 +1221,12 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
             <pubDate>Mon, 20 Sep 2021 21:59:43 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;从 2021 年 1 月 18 日入职，到 9 月 17 日离职，刚好 8 个月时间。&lt;/p&gt;
 &lt;p&gt;这是一家环保物联网公司，公司不大，但已深耕环保监测领域十多年，值得来学习一番。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20210917_bocon.jpeg&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20210917_bocon.jpeg&#34; width=600 /&gt;
 &lt;p&gt;入职的岗位是 “Linux 驱动工程师”，其实还是蛮期待的，因为可以从底层开始研究一款产品，在开发和维护 BSP 的过程中能看到许多细节。在后期还参与了几个应用模块的开发，包括设备抽象层、平台上报层、OTA 远程升级等。逐渐对环保数采仪有了深入的了解，一部分原因就得益于 “驱动 - 应用 - 平台 - 前端” 整个链路的打通。&lt;/p&gt;
 &lt;p&gt;整体来看，环保数采仪的组成结构并不复杂，其核心就是 “数据采集、存储和上报”。因此数据的准确性是至关重要的，所以我们时常调侃自己在 “面向监狱编程”，因为这些数据可作为环保执法的证据。就像现在特别火的 “碳中和” 一样，它的基础就是 “碳核算”，也就是如何计算碳排放量的问题。不同的是，环境数据采集通常是瞬时的值，例如污染物浓度，而碳数据采集的则是总的碳排放量，并且是换算成二氧化碳当量来统计的。&lt;/p&gt;
 &lt;p&gt;其实是一份蛮不错的工作，对不对？我也是这么认为的，一方面工作经验能有不错的衔接，有利于职业发展；另一方面 “环保 + 物联网” 也是我感兴趣的方向，是了解环保行业的一个很好地切入点。&lt;/p&gt;
 &lt;p&gt;不过，工作一段时间之后还是作出了辞职的决定。有很多方面的因素，包括公司地点比较偏远，生活不是很便利；前段时间分手后状态起起伏伏，有时候难以静下心来工作；半年时间其实也学习到许多东西，比如产品架构、功能、代码框架等等，但继续做下去的话，坑比较多，学习速度也会变慢。更重要的是，我时常关注环保可持续领域的动态，我认为现在是一个不错的机遇，我不想再做一名看客了，我想做一份自己的事业，对人类有益的事业，我想验证我设想的项目，而且我觉得它不比现在的许多创业项目差，关键是 —— 我已经迫不及待、摩拳擦掌、热血难凉了！与其内心百般煎熬，不如痛痛快快地去追逐梦想！&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20210918_nansha.jpeg&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20210918_nansha.jpeg&#34; width=600 /&gt;
 &lt;p&gt;这份煎熬，其实从我上一份在国企上班时就开始了，我在那里待了四年零五个月，兢兢业业地干，却实现不了我自己的价值。我有梦想，可是我没法跟身边的同事分享，每天都过得小心翼翼的，就像一台木有感情的赚钱机器一样。我意识到，我需要离开，我要做一点自己的事情！&lt;/p&gt;
 &lt;p&gt;但是我发现，我要顾虑的东西太多了。没有家庭的依靠，一切都要靠自己，还要考虑父母的养老问题。而且前几年由于在老家买了房和其他一些失败的投资，导致目前手上可用的现金不多。每每这个时候，心里总是有另一个声音，要不再坚持几年，争取更高的工资收入，多攒点钱再说......&lt;/p&gt;
 &lt;p&gt;最后，我还是听从了内心更大的一个声音 —— 勇敢地辞职、创业，体会不一样的人生。&lt;/p&gt;
@@ -1248,7 +1248,7 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
 &lt;p&gt;这次回家，最大的感受是家里对我的吐槽少了，关心多了。可能是担心我这位 “大龄单身失业男青年” 吧，其实我也焦虑啊，我也想结婚，可是目前的状态来看，哪怕结婚了，依然有许多问题没解决，不能很好地照顾家庭、陪伴孩子成长。所以，也许这就是我们这种出身普通的 “普通人” 绕不过的坎吧，还是要勇敢面对。这些年起起落落，经历的失败多了，我终于承认了我就是一个普通人。国泰民安的时候，做一份小而美的事业，国家需要的时候，能挺身而出。不也挺好的吗？&lt;/p&gt;
 &lt;p&gt;我会不会继续写代码？—— 会的。一方面，软件程序是非常有用的工具，低成本创业就要善用工具；另一方面，我也需要保持编写代码的能力，以防创业失败后还能找一份不错的工作养家糊口。7 年的开发经历，能够给我底气的是这些年培养起来的学习能力和解决问题的能力，还有非常重要的创客精神和开源精神。所以，不管我是否从事软件工作，我也会一直以开源极客的心态写代码，直到这个世界不需要我。&lt;/p&gt;
 &lt;p&gt;我会不会重新找工作？—— 我想也是会的，除非我自己的公司短期内得到快速发展。因为目前还在探索阶段，还没有稳定的商业模式，因此我会在把相关项目跑起来之后重新找工作，同时兼职运营项目。一方面，如果我的资金消耗过快而仍未盈利，我还需要继续积累原始资本；另一方面，我还想去包括小米、极飞、远景、奥北、多抓鱼等一些值得去学习的企业看看，接触真实的需求才能设计出好的产品。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20210916_basketball.jpeg&amp;quot; width=480 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20210916_basketball.jpeg&#34; width=480 /&gt;
  ]]></description>
         </item>
         <item>
@@ -1259,32 +1259,32 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
             <category>幸福</category>
             <pubDate>Mon, 30 Aug 2021 21:17:54 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;最近在尝试双城生活，因为听说北欧民众幸福感强的一个原因是他们普遍拥有双城生活，工作时在较为方便的繁华都市，休闲时则远离城市喧嚣。在两种截然不同的环境中切换，能够让自己的世界变得开阔，要是总在一个地方待着，生活难免会变得枯燥。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/diary/2021-08-30_road.jpeg&amp;quot; style=&amp;quot;zoom:30%;&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/2021-08-30_road.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
 &lt;p&gt;周一，虽然前一晚又晚睡了，但早上还是早早醒来，简单地吃了个早饭，然后准备前往高铁站。高铁站离我住的地方很近，十分钟车程就到了。嘻嘻～没有迟到，这是一次优雅的乘车体验。明媚的阳光透过玻璃洒满了整个车厢，让人变得温暖起来，让我不禁想说一句：“早上好”！&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/diary/2021-08-30_railway.jpeg&amp;quot; style=&amp;quot;zoom:30%;&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/2021-08-30_railway.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
 &lt;p&gt;很快，就到了广州。不过，今天的目的地不是公司，而是诊所，因为今天要做一次术后半年的复诊。得益于诊疗技术的提升和这半年来的呵护，康复情况不错。医生说：“你还很年轻，术后恢复较快，血流改道很成功，大隐静脉保住了！” 自己的身体自己最了解，虽然复诊结果是意料之中的，但还是按耐不住内心的激动 —— Yeah，我还可以为祖国健康工作五十年。虽然这些年饱受静脉曲张和神经性皮炎的困扰，但还是要感谢它们，让我对痛苦有了超强的忍耐力，这是成长路上重要的一环。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/diary/2021-08-30_clinic.jpeg&amp;quot; style=&amp;quot;zoom:30%;&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/2021-08-30_clinic.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
 &lt;p&gt;短暂的欢愉背后，是漫长一生的步步为营。人活一世，最后拼的都是健康，而好好吃饭，是人生最低成本的保险。于是，临近中午时分，我来到了附近一家蔬食餐厅。餐厅的特色是纯素的煲仔饭，“煲仔饭是广州的特色名菜，而纯素煲仔饭仅此一家” 老板自豪地说道。老板师从出家师父，潜心修炼，功夫不负有心人，经过多年研发，终于制作出一系列口感、味道极佳的纯素煲仔饭。我个人还是蛮喜欢的，尤其周末看了《The Game Changers》之后，vegan 的念头又在我心中重燃起来了，所以我现在正在学习素食营养搭配的知识。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/diary/2021-08-30_lunch.jpeg&amp;quot; style=&amp;quot;zoom:30%;&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/2021-08-30_lunch.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
 &lt;p&gt;最近这半年，我搬到了广州的最南端生活，因为我想每天都能看见大海，海阔天空能让人的心变宽，星辰大海能让人静下心来思考。偶尔站在窗边远眺，望着码头繁忙的景象，生活也燃起了熊熊斗志。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/diary/2021-08-30_sea-02.jpeg&amp;quot; style=&amp;quot;zoom:30%;&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/2021-08-30_sea-02.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
 &lt;p&gt;小区有一个篮球场，不过人超少，刚搬过来的时候，哪怕是周末，通常也只有我一个人在练球。为了促进腿部血流改道，我把每天打球半小时列入了康复训练列表。这半年打球的天数可能比我过去五年还多，也重燃了我心中的体育梦。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/diary/2021-08-30_basketball-01.jpeg&amp;quot; style=&amp;quot;zoom:30%;&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/2021-08-30_basketball-01.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
 &lt;p&gt;后来慢慢地，找到了一起打球的小伙伴，甚至有了约定俗成的比赛日，而我也成了临时队长。如果说体育是生活的调节剂，能促进身心健康发展；那么篮球对我来说就是一种社交方式，能帮助融入当地社区，建立良好的人际关系。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/diary/2021-08-30_basketball-03.jpeg&amp;quot; style=&amp;quot;zoom:30%;&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/2021-08-30_basketball-03.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
 &lt;p&gt;由于地处南亚热带季风性海洋气候，加上小区地广人稀，到了夏天，果树就纷纷结出果实来，有莲雾、芒果、荔枝、李子、龙眼、菠萝蜜...... 惊喜之余，让人感受到大自然的神奇。这些水果不需要花钱买，只要你能摘到就可以吃，仿佛回到了原始社会。让人不禁思考：消费社会带给我们的便利，而为了维持这种便利，我们每天都要忙碌工作，这真的值得吗？&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/diary/2021-08-30_tree.jpeg&amp;quot; style=&amp;quot;zoom:30%;&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/2021-08-30_tree.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
 &lt;p&gt;说到工作，这半年在一家环保科技公司上班，参与了一款智能环保数采仪的设计，下个月就要在深圳宝安部署落地了。这是一个很经典的物联网应用场景，对我来说，能参与底层系统驱动和部分应用程序开发，不仅提升了物联网智能设备的设计能力，也加深了对环境监测领域的了解，从不同视角看待环保这件事。虽然本质上来说，它只是一家科技企业，恰巧从事环保设备研发而已，但却是我迈向身心对齐的重要一步。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/diary/k37-device-framework.png&amp;quot; style=&amp;quot;zoom:70%;&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/k37-device-framework.png&#34; style=&#34;zoom:70%;&#34; /&gt;
 &lt;p&gt;不可否认，“环保” 已经成为我生命中不可磨灭的一部分。作为一名重度环保强迫症患者，我平常会尽量控制自己，不流露出来。可又觉得很痛苦，美好的事情没有办法和身边的朋友分享，会带来一种强烈的挫败感和孤独感，这也是我接下来要着力解决的。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/diary/2021-08-30_fruits.jpeg&amp;quot; style=&amp;quot;zoom:30%;&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/2021-08-30_fruits.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
 &lt;p&gt;篮球场上经常被迫打 4、5 号位，时间一长，球风就变得比较硬朗，有一天晚上在练习投篮，可能是被我投篮时的压腕动作迷住了，队友竟和我说：“没想到 Captain 卢也有温柔的一面啊！？” 想想也是挺神奇的，不同阶段认识的朋友，对我的印象和评价会有十分巨大的差别。&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/Shoot-a-Basketball-Step-11.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;有的说我太瘦，有的说我强壮，有的说我文静，有的说我话痨，有的说我直爽，有的说我磨叽，有的说我内向，有的说我外向，有的说我随和，有的说我强势，还有的说我长得像女孩...... 想想也合理，人的成长是一个动态变化的过程，哪能用一两个标签所限定，只是力求在不同场合找到一种最适合自己的生存方式罢了。标签往往是是非善恶分明的，可世上的许多事却不是非黑即白的。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/diary/2021-08-30_street.jpeg&amp;quot; style=&amp;quot;zoom:40%;&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/2021-08-30_street.jpeg&#34; style=&#34;zoom:40%;&#34; /&gt;
 &lt;p&gt;小时候总是很在意别人对自己的看法，后来又变得不在乎甚至我行我素了，其实这两种方式都不太好。不过，这也许是成长的必经过程吧，最近在学习接收别人的意见，学习更好地与人相处。希望自己不随波逐流、也不妄自菲薄，能够找到一种和自己、和他人相处都舒适的方式。更重要的是，达到身心对齐、内外一致，这样才能拥有一颗强大的内心去迎接未来的挑战。&lt;/p&gt;
 &lt;p&gt;人们常说，三十而立。可这只是孔夫子对自己人生的一段总结，并不足以证明三十立或不立对未来发展的必然影响。只要我们保持善良、保持学习、保持成长，年龄只是一个数字而已。每个人都有他的时区，用适合自己的方式认真做事就可以了，Great things take time！幸运的是，我找到了自己喜欢的事情，每天做一点点，慢一点，再慢一点。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/diary/2021-08-30_sea-03.jpeg&amp;quot; style=&amp;quot;zoom:30%;&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/2021-08-30_sea-03.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
 &lt;p&gt;夏季的海风夹杂着淡淡的咸味，正如平淡的生活里也充满了琐碎的幸福。每一个小的善举，每一句鼓励的话语，都使我们坚定不移地走下去，让生活变得幸福一点，让世界变得美好一点。&lt;/p&gt;
  ]]></description>
         </item>
@@ -1424,10 +1424,10 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
             <link>https://luhuadong.com/journal/20210315.html</link>
             <category>思考</category>
             <pubDate>Mon, 15 Mar 2021 00:47:09 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&amp;lt;img src=&amp;quot;/images/diary/ugly-apple-01.jpeg&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/ugly-apple-01.jpeg&#34; width=600 /&gt;
 &lt;p&gt;35 块买了一箱丑苹果，为了放苹果，收拾了一下，终于腾出了小餐桌。苹果虽然丑了点，却包裹着一颗超甜的冰糖心，突然有点心疼丑果。好像人类社会也一样，不仅要有实力，还要懂得自我营销才行。&lt;/p&gt;
 &lt;p&gt;以前租房子只会整理两次，第一次是搬进去那天，第二次是搬走那天，现在才发现原来整理东西真的会解压，整理物品的同时也在整理人生。周末删了几十个群、几千张照片和躺在硬盘里的那堆过期代码...... 那些曾经以为是资产的东西，原来是负债。嗯，还是简单一点好。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/diary/ugly-apple-02.jpeg&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/ugly-apple-02.jpeg&#34; width=600 /&gt;
  ]]></description>
         </item>
         <item>
@@ -1439,11 +1439,11 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
             <category>修身</category>
             <pubDate>Sun, 14 Mar 2021 00:57:47 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/rethink.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&amp;lt;center&amp;gt; 你今天过得怎么样？&amp;lt;/center&amp;gt;&lt;/p&gt;
-&lt;p&gt;&amp;lt;center&amp;gt; 你最近过得怎么样？&amp;lt;/center&amp;gt;&lt;/p&gt;
-&lt;p&gt;&amp;lt;center&amp;gt; 你这一生过得怎么样？&amp;lt;/center&amp;gt;&lt;/p&gt;
-&lt;p&gt;&amp;lt;center&amp;gt; 还行？&amp;lt;/center&amp;gt;&lt;/p&gt;
-&lt;p&gt;&amp;lt;center&amp;gt; 不，我想听到我说：“真棒，干得漂亮！”&amp;lt;/center&amp;gt;&lt;/p&gt;
+&lt;center&gt;你今天过得怎么样？&lt;/center&gt;
+&lt;center&gt;你最近过得怎么样？&lt;/center&gt;
+&lt;center&gt;你这一生过得怎么样？&lt;/center&gt;
+&lt;center&gt;还行？&lt;/center&gt;
+&lt;center&gt;不，我想听到我说：“真棒，干得漂亮！”&lt;/center&gt;
  ]]></description>
         </item>
         <item>
@@ -1457,21 +1457,21 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;【开源指北 1.0 发布】和你做过最酷的事，就是一起「写书」&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;去年参加的《&lt;a href=&#34;https://gitee.com/opensource-guide&#34;&gt;开源指北&lt;/a&gt;》编写计划最近正式发布啦！&lt;/p&gt;
 &lt;p&gt;我大概是最早加入该项目的非官方成员之一，因为我几乎每天都会登陆 Gitee 网站，在去年十月中旬就看到该项目的招募计划，然后就领取了第一章第一节的编写任务 —— &lt;a href=&#34;https://gitee.com/gitee-community/opensource-guide/issues/I1TTMC&#34;&gt;初识开源： 什么是开源？&lt;/a&gt;，接下来两个月里又陆陆续续补充了其他章节的内容。（文章末尾看到「阿基米东」的就是啦～）&lt;/p&gt;
-&lt;p&gt;&amp;lt;iframe src=&amp;quot;&lt;a href=&#34;//player.bilibili.com/player.html?aid=671252058&amp;amp;bvid=BV1pU4y147Fu&amp;amp;cid=288508137&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&#34;&gt;//player.bilibili.com/player.html?aid=671252058&amp;amp;bvid=BV1pU4y147Fu&amp;amp;cid=288508137&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&lt;/a&gt;&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot; width=&amp;quot;100%&amp;quot; height=&amp;quot;500&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=671252058&amp;bvid=BV1pU4y147Fu&amp;cid=288508137&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;可以说，如果不是因为开源，我是不会选择成为一名程序员的。&lt;/p&gt;
 &lt;p&gt;我接触计算机非常晚，高考之后家里才有了第一台电脑，也是那时候我才开始学习怎么上网、怎么下载、怎么搜索......（所以真的很羡慕现在的小朋友呢）。但也正是因为接触电脑太晚了，所以我没有时间玩游戏，也没有受 Windows 闭源思想和盗版软件的毒害。&lt;/p&gt;
 &lt;p&gt;大二接触 Linux 之后就被开源思想吸引了，开始了解自由软件运动和开源软件的发展史。甚至有一段时间成了 Richard Stallman 的狂热粉丝，捉住机会就给别人讲这段历史和我对自由的理解和追求，以及抛弃所有不自由的软件工具。&lt;/p&gt;
 &lt;p&gt;后来我发现这对我来说是不对的，不是不再认同 Richard Stallman 的理念，而是当下作为一个普通人，更多需要考虑的是如何在理想与现实中找到一个平衡点，让自己尽快成长起来。当你变得更强大了，你才能得到真正的自由，才能帮助别人也走向自由。&lt;/p&gt;
 &lt;p&gt;Richard Stallman 不仅是一名杰出的程序员，还是一名伟大的思想家。从这一角度来说，Richard Stallman 和我另一位偶像 —— Nikola Tesla 还挺像的。我当然也希望自己也能成为这样的人，只不过从实践的角度出发，我可能会更倾向于 Linus Torvalds 和 Thomas Edison 的做法。&lt;/p&gt;
-&lt;p&gt;&amp;lt;iframe src=&amp;quot;&lt;a href=&#34;//player.bilibili.com/player.html?aid=76947870&amp;amp;bvid=BV1VJ411R7h2&amp;amp;cid=131611138&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&#34;&gt;//player.bilibili.com/player.html?aid=76947870&amp;amp;bvid=BV1VJ411R7h2&amp;amp;cid=131611138&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&lt;/a&gt;&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot; width=&amp;quot;100%&amp;quot; height=&amp;quot;500&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=76947870&amp;bvid=BV1VJ411R7h2&amp;cid=131611138&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;说回这个《开源指北》，是一个不错的项目！项目背景是在动荡的国际形势通过开源软件的方式增强中国基础软件的实力，因此在开源中国和开放原子基金会的支持下，以开源的形式编写一份给开源新手的保姆级开源百科，并以在线文档的形式对外开放阅读和持续迭代。&lt;/p&gt;
 &lt;p&gt;虽说我早已是自由和开源软件的忠实拥趸，但真的写书的时候才感到压力，于是我又重新阅读相关书籍和网络资料，希望写出来的东西是正确、严谨，并且有趣的。&lt;/p&gt;
 &lt;p&gt;说实话，教比学更难，也更有趣！我在这个过程中，学到了不少东西，比如加深了对开源软件概念、开源社区治理、组织架构、开源软件商业化的理解，也认识到了一些有趣的贡献者、扩充了知识面。更有趣的是，《开源指北》项目本身就是以这种形式在进行，还在上大学的时候，我就曾无数次想象用开源方式写书这件事情。我觉得教科书是最应该采用开源形式持续维护的，以集体贡献、公开的评审的方式决定教科书的内容，教给孩子们正确的知识、培养孩子们独立思考、合作分享的能力。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20210129193115151.jpg&amp;quot; width=&amp;quot;600&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20210129193115151.jpg&#34; width=&#34;600&#34; /&gt;
 &lt;p&gt;前面说了，我接触电脑很晚，学习编程更晚。不过我觉得幸运的是，我接触电脑不久就进入了 Linux 的世界，学习编程不久就学会了 Git 魔法工具。最近 5 年，我已经将 Ubuntu 变成了我的主力系统，将 Git 相关工具变成的我的资料库，加上各种 SaaS 云服务，能帮助我在不断成长的同时保持轻装上阵，而不是处处受限。这也是我常常建议大家，无论是否是开发者，都应该了解开源软件和开源协作方式的原因。&lt;/p&gt;
 &lt;p&gt;世界上有两种知识，一种是你知道的，一种是你知道在哪里能找到的。在现代分工如此精细的社会框架下，许多时候我们都是站在前人的肩膀上前进，这时候你知道在哪里能找到你想要的东西的能力就变得很重要了！而这恰恰是 Linux 哲学和开源协作模式能给我们带来的。懂的人，将会变得越来越厉害。&lt;/p&gt;
 &lt;p&gt;希望这份保姆级的《&lt;a href=&#34;https://gitee.com/opensource-guide&#34;&gt;开源指北&lt;/a&gt;》能带你进入一个新的世界！释放你的创造力～&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20210129193133537.png&amp;quot; width=&amp;quot;400&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20210129193133537.png&#34; width=&#34;400&#34; /&gt;
  ]]></description>
         </item>
         <item>
@@ -1505,9 +1505,9 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
 &lt;p&gt;好啦！给自己挖的坑汇报完了，接下来讲讲其他事。&lt;/p&gt;
 &lt;p&gt;先说工作吧，今年在公司维护几套老旧代码，改得也是没脾气，然后参与了基于 RK3399 的通信终端，整合了一套 Linux 系统，增加了软件包管理和升级功能，还把 RT-Thread 引入到公司产品中，然后终于在 2020 年最后一个月离职了。。。&lt;/p&gt;
 &lt;p&gt;因为各方面都遇到了瓶颈，也学不到新的东西了，对我来说这真是太可怕了。所以决定换个环境，给自己一个短 gap，希望未来的路走得更坚实。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20201224181213523.png&amp;quot; alt=&amp;quot;在这里插入图片描述&amp;quot; style=&amp;quot;zoom:50%;&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20201224181213523.png&#34; alt=&#34;在这里插入图片描述&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;另外，今年参加了两个比赛，一个是 &lt;a href=&#34;https://huodong.21ic.com/rt-thread&#34;&gt;RT-Thread 应用创新设计大赛&lt;/a&gt;，基于国产 AT32 芯片做了个空气质量监测系统，拿了个三等奖；另一个是 &lt;a href=&#34;https://www.bilibili.com/video/BV1XZ4y1K7aH&#34;&gt;STM32 创客秀&lt;/a&gt;，基于 STM32 NUCLEO 板做了几个节点，组成了一个分布式空气质量监测系统（&lt;a href=&#34;http://www.fctc-air.cn&#34;&gt;fctc-air.cn&lt;/a&gt;），拿了个二等奖。可以看到，两个参赛作品其实是基于不同硬件平台的同一套系统，所以业余时间参加两个比赛也可以应付过来。这个项目的初衷，是因为我本人对空气质量非常敏感，环境湿度太高、粉尘太多、二氧化碳浓度过高都会影响我的状态，所以我想做一个设备来实时监测环境中的空气质量，帮助我改善空气。后来觉得这个项目其实还是蛮有用的，就把它开源出来，搭建了后台服务器和微信小程序，希望可以变成一个民间的空气质量监测系统，帮助每一个了解当地的空气质量，提醒大家要保护环境。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20201224181258322.png&amp;quot; alt=&amp;quot;在这里插入图片描述&amp;quot; style=&amp;quot;zoom:60%;&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20201224181258322.png&#34; alt=&#34;在这里插入图片描述&#34; style=&#34;zoom:60%;&#34; /&gt;
 &lt;h3 id=&#34;rt-thread&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#rt-thread&#34;&gt;#&lt;/a&gt; RT-Thread&lt;/h3&gt;
 &lt;p&gt;今年在 RT-Thread 社区留下了浓重的一笔，首先是因为参加比赛嘛，用的系统平台就是 RT-Thread。以前做产品是基于某个 release 版本来增加自己的业务代码，改完就作为公司内部的代码来管理了，并不会与 RT-Thread 社区有过多接触。但是作为个人项目，我想着开发者还是应该用 master 分支跟社区保持同步，也在这个过程中慢慢地把自己修改的 BSP、组件和软件包提交给 RT-Thread 社区。当然在这个过程中会遇到很多问题，所以为了更方便与 RT-Thread 开发团队沟通，五月份的时候我就申请加入了 RT-Thread 社区工作小组。&lt;/p&gt;
 &lt;p&gt;后来因为贡献值较高，受邀参加了九月份 RT-Thread 的团建，在三亚浪了几天，体验了一直心心念念的潜水运动。同时也认识了 RT-Thread 的创始团队（熊大、邱祎、aozima、Leo、龙哥）和许多优秀的 RT-Thread 小伙伴，近距离了解到 RT-Thread 的团队氛围、社区运营、商业模式和发展规划。还是挺让人激动的！&lt;/p&gt;
@@ -1562,7 +1562,7 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
             <pubDate>Tue, 22 Dec 2020 22:34:49 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;成长故事&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#成长故事&#34;&gt;#&lt;/a&gt; 成长故事&lt;/h2&gt;
 &lt;p&gt;Hello，大家好，我是 Rudy（&lt;a href=&#34;https://github.com/luhuadong&#34;&gt;卢华东&lt;/a&gt;）。我刚拿了 2020 年 RT-Thread 社区杰出贡献奖，现在还沉浸在喜悦之中。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20201222222649519.jpeg&amp;quot; width=&amp;quot;400&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20201222222649519.jpeg&#34; width=&#34;400&#34; /&gt;
 &lt;p&gt;我在 CSDN 上的名字是「阿基米东」，因为我希望自己也能像那个举得起地球的巨人 —— 阿基米德一样充满智慧。因为在 CSDN 上的简介写了 “以前运动员，现在程序员”，所以有些小伙伴就问我咋回事？我高中的时候练长跑，拿过一些小奖，后来练过排球和橄榄球，大学在球队待过几年。后来因为伤病、成绩和对未来的规划等原因离开了，大三下学期开始好好学习计算机编程。因为读的是电气工程及其自动化专业，所以还是有点基础，而且信息化技术是长期存在，觉得应该在年轻的时候尽早加入，就这样进入了程序员行列。这几年在工业控制和通信领域摸爬滚打，业余关注物联网相关技术和行业发展。&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/2020122222291729.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1603,10 +1603,10 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
             <category>管理</category>
             <pubDate>Sun, 15 Nov 2020 01:30:52 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;昨天是单位团建第二天，在上午的徒步出发前，教练给我们每支队伍一盒《T 字之谜》拼图，先完成的队伍先出发。要求拼出一个大写字母 T，且四周必须是直角。很不幸，我们成了十支队伍里面，最后拼出 T 字的队伍。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/static/GYT-T1.jpg&amp;quot; alt=&amp;quot;T 字之谜&amp;quot; width=400 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/GYT-T1.jpg&#34; alt=&#34;T字之谜&#34; width=400 /&gt;
 &lt;p&gt;此后一段时间，我一直在反思，尤其是当听到有人说：“你们小组很多聪明人呀，怎么垫底了呢？”&lt;/p&gt;
 &lt;p&gt;虽然只有区区四块拼图，看似简单，却隐藏着大智慧。我们花了不少时间摆弄来、摆弄去，怎么试都失败了。不是缺一个角，就是多一个边。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/static/GYT-T2.jpeg&amp;quot; alt=&amp;quot;绞尽脑汁想呀想&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/GYT-T2.jpeg&#34; alt=&#34;绞尽脑汁想呀想&#34; width=600 /&gt;
 &lt;p&gt;我们在这里犯了几个错误：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;最长边一定是外沿；&lt;/li&gt;
@@ -1699,9 +1699,8 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
 &lt;p&gt;而 WADM 则更适用于重大事件的决策分析，根据你的预期和承受范围，权衡分析，得出更优解。与 WCCA 不同，WADM 的使用频率较低，一年可能也用不了几次，但在关键时刻能够很好地帮你分析问题、作出决策。&lt;/p&gt;
 &lt;p&gt;使用 WADM 方法的难点在于需要你列出最主要的考量因素，根据你的情况设置权重，并为每个选项给出合理的分数。因此需要你对自己以及问题所处的情况有一个良好的认知，才能得出更客观的答案。&lt;/p&gt;
 &lt;p&gt;最后，想要灵活运用 WCCA 和 WADM 决策方法，还需要你在日常生活中多加训练，不断总结，形成一套适合自己的决策思维模型。加油哦！&lt;/p&gt;
-&lt;p&gt;&amp;lt;br&amp;gt;&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/static/ 我决定去上班.jpg&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
- ]]></description>
+&lt;br&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/我决定去上班.jpg&#34; width=600 /&gt; ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/journal/20201007.html</guid>
@@ -1786,7 +1785,7 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
             <category>年终总结</category>
             <pubDate>Sat, 25 Jan 2020 17:55:53 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;今年回老家过年，G1128 列车途经武汉，在新型冠状病毒的阴影笼罩下，整个旅程多了一份严肃感，我也开始整理过去一年经历的事情与所思所感。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20200125174446341.jpeg&amp;quot; width=&amp;quot;300&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20200125174446341.jpeg&#34; width=&#34;300&#34; /&gt;
 &lt;p&gt;2019 年有很多伤心的事。比如：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;年初买了个房子，然后房价就降了；&lt;/li&gt;
@@ -2032,7 +2031,7 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
 &lt;p&gt;报了一些在线的英语课程，坚持了大半年了，也不知道到底有多大提升，只是感觉比以前更敢说英语了，继续坚持吧，没有量变哪来质变呢。感谢互联网时代，现在有很多不错的英语学习平台，有兴趣了解的可以私信我，这里就不打广告了。&lt;/p&gt;
 &lt;p&gt;另外也不定期学习一些网络课程，比如 CSDN、实验楼、极客学院等等，还有慕课网、中国大学慕课、网易云课堂等等，实在太多了，所以质量也参差不齐，想学习某些技术的小伙伴一定要仔细研究挑选才行，特别是对于收费较高的。&lt;/p&gt;
 &lt;p&gt;此外，2017 年参加了两次软考，并且都顺利通过了，分别是 2017 上半年的【软件设计师】和 2017 下半年的【嵌入式系统设计师】。虽然分数不是很高，但毕竟也是妥妥地通过了，这对于半路出家并且第一次参加软考的程序员来说，还是蛮有鼓励的。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20180217211802537.jpeg&amp;quot; width=&amp;quot;600&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20180217211802537.jpeg&#34; width=&#34;600&#34;&gt;
 &lt;p&gt;那软考证书能干啥呢？听说对涨工资、办户口、考公务员都有用，而且现在有些证书类别是中日韩 + 印度相互认证的。而且备考的过程也是一次系统学习的过程，可以查漏补缺，可以学习一下项目管理方面的知识，反正能考就考了呗，说不定啥时候就能用上呢。&lt;/p&gt;
 &lt;p&gt;还有就是，有事没事就参加各种线上线下的沙龙，比如 ST、融创芯城、AWS、Linuxer 等等组织的，向各位前辈和业界大牛学习，确实让人感受到行业的变化。&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/2772fa3a37d48258204746d25f03caf9.png&#34; alt=&#34;这里写图片描述&#34; /&gt;&lt;/p&gt;
@@ -2058,7 +2057,7 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
 &lt;p&gt;有时候我会问自己：“人为什么活着？人生的意义是什么？人终有一死，我该做点什么才对得起这唯一的一生，才算没有白活过？” 这些问题存在于我心中已久，也许是因为工作几年之后暂时摆脱了贫困，使得我又重新思考起这些问题来了。&lt;/p&gt;
 &lt;p&gt;2017 年我参加了挺多线上线下的环保公益活动，也对针对一些环保问题进行过分析和研究，算得上是半个在一线摸爬滚打的环保工作者（志工）吧，所以经常遇到有人问我：“你做软件开发的，怎么对环保这么感兴趣？” 一开始我并没去想这个问题，不过问的人多了，也就开始思考起来了。&lt;/p&gt;
 &lt;p&gt;大概从初中开始，自从我知道了如何用淀粉制作酒精，知道了塑料制品、化纤衣服是石油制成的，接受了 “垃圾是放错地方的资源” 这个观点之后，我就有了环保意识，开始关注 “资源、环境、人口” 等问题。而我也曾一度以为所有人都和我一样有环保意识，所以垃圾污染的问题应该不是太大的问题，后来当我亲身实践去做点事情的时候才发现，原来我错了 —— 现在我认为环保是一个教育和管理的问题。好，那所以如果一定要为我为什么做环保找一个原因的话，我想马斯洛需求理论就可以很好地回答这个问题了。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20180218025113431.jpeg&amp;quot; width=&amp;quot;480&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20180218025113431.jpeg&#34; width=&#34;480&#34;&gt;
 &lt;p&gt;我想起了 Richard Stallman 说的一句话 —— &lt;strong&gt;我可以找份工作赚钱，并沉浸在编码的快乐中，但在职业生涯结束后，回首目睹自己筑就的高墙将人与人分隔开，我会觉得我耗尽毕生精力只换来了一个更糟糕的世界。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在我看来，30 多年前的 “开源软件运动” 与我现在所参与的 “零废弃运动” 本质上是一样的，都是为了创建、维护一个更好的世界。&lt;/p&gt;
 &lt;p&gt;假如构建幸福生活的基本要素都不复存在，没有了从前的蓝天和灿烂阳光，没有了清新的空气，没有了洁净的水源，没有了安全的食品。那何谈幸福生活？&lt;/p&gt;
@@ -2081,13 +2080,13 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
             <description><![CDATA[ &lt;p&gt;📍2018 年 1 月 14 日，清远龙颈&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/tzuchi-20180114-1.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;这是我第一次参加慈济的冬令发放活动，从活动的筹备、发放过程、节目安排、素食午餐等细节中都可以感受到慈济人的用心，付出无所求。虽然披星戴月，但累并快乐着，温暖他人的同时也在温暖自己。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/tzuchi-20180114-2.jpeg&amp;quot; width=&amp;quot;480&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/tzuchi-20180114-2.jpeg&#34; width=&#34;480&#34; /&gt;
 &lt;blockquote&gt;
 &lt;p&gt;慈济慈善基金会的循环餐具&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;在下午的爱洒茶会，学习了很多有趣的手语舞蹈，还有学伟师兄很棒的环保演讲，之后我也被师姐邀请上去分享环保心得了，即兴乱说了一通，但是师兄师姐们说我讲得挺好的（感谢大家的鼓励），于是整理成文字，在这里分享一下吧～&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&amp;lt;center&amp;gt;❤️&amp;lt;/center&amp;gt;&lt;/p&gt;
+&lt;center&gt;❤️&lt;/center&gt;
 &lt;p&gt;很高兴能有机会与慈济的师兄师姐们结缘，参与这次 2017 清远冬令发放活动。首先，因为我本身也是清远人，所以我在这里要先感谢慈济，感谢各位师兄师姐的付出，感恩！&lt;/p&gt;
 &lt;p&gt;前面学伟师兄分享的环保知识很棒，有像 “瓶瓶罐罐纸电衣三五七” 这样的垃圾分类十字口诀，也有很多像 “要想环境好，出门带五宝” 这样的环保口令，一下子把垃圾这个严肃的话题变得活泼起来。&lt;/p&gt;
 &lt;p&gt;那我也借此机会谈一下环保。&lt;/p&gt;

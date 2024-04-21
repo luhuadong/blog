@@ -15,19 +15,19 @@
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
+    <category term="种植" />
     <category term="英语" />
     <category term="成长" />
     <category term="英语短文" />
     <category term="学习" />
-    <category term="种植" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="健身" />
     <category term="气象爱好者" />
     <category term="指南" />
@@ -50,6 +50,8 @@
     <category term="开发者" />
     <category term="职业" />
     <category term="时间管理" />
+    <category term="地铁" />
+    <category term="Markdown" />
     <category term="milestone" />
     <category term="总结" />
     <category term="年终总结" />
@@ -66,8 +68,6 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
-    <category term="Markdown" />
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
@@ -81,9 +81,9 @@
     <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
+    <category term="素食" />
     <category term="亲密关系" />
     <category term="农业" />
-    <category term="素食" />
     <category term="性格测试" />
     <category term="报告" />
     <category term="TED" />
@@ -245,13 +245,13 @@
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/coding/pyecharts-2019%E5%B9%B42%E6%9C%88%E5%90%84%E5%8E%BF%E5%8C%BA%E6%88%BF%E4%BB%B7%E7%83%AD%E5%8A%9B%E5%9B%BE.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;既然说到房子，顺便打个广告吧～&lt;/p&gt;
 &lt;p&gt;买房置业，定制家具的可以找我大姐！&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/coding/ 广告 - 大姐.jpeg&amp;quot; width=&amp;quot;200&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/coding/广告-大姐.jpeg&#34; width=&#34;200&#34; /&gt;
 &lt;p&gt;新房、二手房交易，家居装修的可以找我二姐！&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/coding/ 广告 - 二姐.jpeg&amp;quot; width=&amp;quot;200&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/coding/广告-二姐.jpeg&#34; width=&#34;200&#34; /&gt;
 &lt;p&gt;学编程、聊人生、谈理想、做环保、哈哈哈的可以找我！&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/coding/ 广告 - 大哥.jpeg&amp;quot; width=&amp;quot;200&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/coding/广告-大哥.jpeg&#34; width=&#34;200&#34; /&gt;
 &lt;p&gt;划红色圈圈的地方都是我们的业务范围！&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/coding/ 广告 - 业务范围.jpeg&amp;quot; width=&amp;quot;200&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/coding/广告-业务范围.jpeg&#34; width=&#34;200&#34; /&gt;
 &lt;p&gt;唔。。。&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/coding/%E5%8F%91%E7%8E%B0%E4%BD%9C%E4%B8%9A%E8%BF%98%E6%B2%A1%E5%86%99.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;作业&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#作业&#34;&gt;#&lt;/a&gt; 作业&lt;/h2&gt;
@@ -331,7 +331,7 @@
 &lt;li&gt;第四行代码设置窗口可见，否则我们啥都看不见。&lt;/li&gt;
 &lt;li&gt;第五行代码是让应用程序进入事件循环，这样应用程序就会等待我们操作，比如点击关闭按钮。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;../../images/coding/ 一只大象.jpeg&amp;quot; title=&amp;quot;面向对象？&amp;quot; width=&amp;quot;400&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/coding/一只大象.jpeg&#34; title=&#34;面向对象？&#34; width=&#34;400&#34; /&gt;
 &lt;p&gt;保存为 &lt;a href=&#34;http://lottery.py&#34;&gt;lottery.py&lt;/a&gt; 文件，然后在终端执行  &lt;code&gt;python3 lottery.py&lt;/code&gt; 。如无意外，你应该可以看到一个空白窗口（在不同系统看到的窗口会有点不同）。其中最上方的一栏称为标题栏，通常包含最小化、最大化和关闭按钮。&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/coding/wxPython-%E7%A9%BA%E7%99%BD%E7%AA%97%E5%8F%A3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;几个概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#几个概念&#34;&gt;#&lt;/a&gt; 几个概念&lt;/h2&gt;
@@ -566,10 +566,10 @@
 &lt;h3 id=&#34;单项分支&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#单项分支&#34;&gt;#&lt;/a&gt; 单项分支&lt;/h3&gt;
 &lt;figure class=&#34;highlight python&#34;&gt;&lt;figcaption data-lang=&#34;python&#34;&gt;&lt;span&gt;代码&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; 条件&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;#执行的内容...&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h3 id=&#34;双项分支&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#双项分支&#34;&gt;#&lt;/a&gt; 双项分支&lt;/h3&gt;
 &lt;figure class=&#34;highlight python&#34;&gt;&lt;figcaption data-lang=&#34;python&#34;&gt;&lt;span&gt;代码&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; 条件&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;#执行的内容...&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;else&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;#执行的内容...&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;单项分支和双项分支就像开关一样，要么开，要么关。只不过单项分支只关心其中一种情况，双项分支两种情况都关心。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;../../images/coding/ 开关 2.jpg&amp;quot; width=&amp;quot;400&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/coding/开关2.jpg&#34; width=&#34;400&#34; /&gt;
 &lt;h3 id=&#34;多项分支&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#多项分支&#34;&gt;#&lt;/a&gt; 多项分支&lt;/h3&gt;
 &lt;figure class=&#34;highlight python&#34;&gt;&lt;figcaption data-lang=&#34;python&#34;&gt;&lt;span&gt;代码&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; 条件&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;#执行的内容...&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;elif&lt;/span&gt; 条件&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;#执行的内容...&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;else&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;#执行的内容...&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;多项分支中可以有很多个  &lt;code&gt;elif&lt;/code&gt;  分支。就像风扇开关那样，有不同的档位，每个档位都有不同的处理方式。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;../../images/coding/ 风扇开关.jpg&amp;quot; width=&amp;quot;400&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/coding/风扇开关.jpg&#34; width=&#34;400&#34; /&gt;
 &lt;p&gt;说明：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;分支结构的条件判断顺序是自上而下逐个分支进行判断的；&lt;/li&gt;
@@ -741,7 +741,7 @@
         <link rel="alternate" href="https://luhuadong.com/coding/PyTK-2019-Day04.html"/>
         <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/coding/%E8%B6%85%E8%B6%8A%E6%A2%A6%E6%83%B3%E4%B8%80%E8%B5%B7%E9%A3%9E.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;今天的任务比较简单，主要就是熟悉一些简单的英文单词。同时，为了在后面的编程学习中更容易理解，我还会引入两个基础概念 —— 与或非和二进制。这些概念虽然基础，但很重要。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/coding/ 我爱单词.jpeg&amp;quot; width=&amp;quot;200&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/coding/我爱单词.jpeg&#34; width=&#34;200&#34; /&gt;
 &lt;h2 id=&#34;单词列表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#单词列表&#34;&gt;#&lt;/a&gt; 单词列表&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1055,7 +1055,7 @@
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;61&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;python&lt;/td&gt;
-&lt;td&gt;我们准备学的编程语言就是 python，&amp;lt;br&amp;gt; 原意是蟒蛇&lt;/td&gt;
+&lt;td&gt;我们准备学的编程语言就是 python，&lt;br&gt;原意是蟒蛇&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;62&lt;/td&gt;
@@ -1264,9 +1264,9 @@
 &lt;tr&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;p&lt;/th&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;q&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;p ∧ q&amp;lt;br&amp;gt;p and q&amp;lt;br&amp;gt;p &amp;amp; q&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;p ∨ q&amp;lt;br&amp;gt;p or q&amp;lt;br&amp;gt;p | q&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;﹁ p&amp;lt;br&amp;gt;not p&amp;lt;br&amp;gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;p ∧ q&lt;br&gt;p and q&lt;br&gt;p &amp;amp; q&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;p ∨ q&lt;br&gt;p or q&lt;br&gt;p | q&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;﹁ p&lt;br&gt;not p&lt;br&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -1788,10 +1788,10 @@
 &lt;p&gt;于是，趁着春节假期，我厚着脸皮地开展了【小卢老师的 Python 春节特训营】系列十天入门教程，每天学习一小时即可。事不宜迟，开片～&lt;/p&gt;
 &lt;h2 id=&#34;认识我们的新朋友&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#认识我们的新朋友&#34;&gt;#&lt;/a&gt; 认识我们的新朋友&lt;/h2&gt;
 &lt;p&gt;学编程只需要一台电脑就够了，相信很多 00 后都已经用过电脑，可能是玩游戏、看视频或者挂 QQ（听说 00 后又用回 QQ 了）。如果没有也没关系，从现在开始，你要和你的电脑做朋友！&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/coding/ 开学交朋友.jpeg&amp;quot; width=&amp;quot;400&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/coding/开学交朋友.jpeg&#34; width=&#34;400&#34; /&gt;
 &lt;p&gt;好好看看你的新朋友，她将是你未来的好搭档。&lt;/p&gt;
 &lt;p&gt;当你认识一个新朋友，你会观察她的五官、衣着、谈吐、发型、有没有戴眼镜等等。看下面的图，顺便背一下单词～&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/coding/ 身体部位 - 柯南.jpeg&amp;quot; width=&amp;quot;600&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/coding/身体部位-柯南.jpeg&#34; width=&#34;600&#34; /&gt;
 &lt;p&gt;电脑现在是你的新朋友，同样，首先你也要去观察她，看看一台电脑的硬件系统包括哪些部件？&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/coding/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6%E7%BB%84%E6%88%90.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;你的新朋友叫 “电脑”，正式名称叫 “计算机”，英文是 “Computer”，简称 “PC”。&lt;/p&gt;
@@ -1801,13 +1801,13 @@
 &lt;h2 id=&#34;电脑能做什么&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#电脑能做什么&#34;&gt;#&lt;/a&gt; 电脑能做什么&lt;/h2&gt;
 &lt;p&gt;通过前面的观察，我们了解了电脑的基本组成情况。那电脑能为我们些什么，以及她是如何做到的呢？毕竟现在看起来电脑只是一台冰冷的机器。&lt;/p&gt;
 &lt;p&gt;除了硬件系统之外，还搭配软件系统，才能组成一个完成的计算机系统。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/coding/ 计算机系统.png&amp;quot; width=&amp;quot;600&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/coding/计算机系统.png&#34; width=&#34;600&#34; /&gt;
 &lt;p&gt;在计算机系统中，软件和硬件是一个整体，任何一个计算机系统的运行都是系统中软硬件协作的结果。没有软件的硬件只是一堆废铁，而没有硬件的软件也只不过是空中楼阁。&lt;/p&gt;
 &lt;p&gt;那么，我们能使用电脑做什么？&lt;/p&gt;
 &lt;p&gt;没错，我们可以上网购物，可以搜索学习资料，可以向别人提问，可以看看外界的事物，可以听音乐看视频，可以画画 P 图，可以玩游戏等等。可以做的事情实在太多了，别忘了，还可以自己编程！&lt;/p&gt;
 &lt;p&gt;但是事物都有两面性。正如很多大人总是认为，小孩子使用电脑就会沉迷游戏、沉迷网络视频。也确实，在信息时代，很多人也做不到自律、不能明辨是非，更何况是孩子。不加控制、过度使用很容易就会导致近视、影响学习成绩，甚至影响孩子们的正常生活。&lt;/p&gt;
 &lt;h2 id=&#34;电脑的优缺点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#电脑的优缺点&#34;&gt;#&lt;/a&gt; 电脑的优缺点&lt;/h2&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/coding/ 天使和魔鬼.jpeg&amp;quot; width=&amp;quot;400&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/coding/天使和魔鬼.jpeg&#34; width=&#34;400&#34; /&gt;
 &lt;p&gt;在正式使用电脑之前，我们必须再提及这个话题 —— 正确对待电脑的优缺点。我列举一些暂时想到的点：&lt;/p&gt;
 &lt;p&gt;优点&lt;/p&gt;
 &lt;ul&gt;

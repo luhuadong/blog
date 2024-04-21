@@ -18,19 +18,19 @@
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
+        <category>种植</category>
         <category>英语</category>
         <category>成长</category>
         <category>英语短文</category>
         <category>学习</category>
-        <category>种植</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>健身</category>
         <category>气象爱好者</category>
         <category>指南</category>
@@ -53,6 +53,8 @@
         <category>开发者</category>
         <category>职业</category>
         <category>时间管理</category>
+        <category>地铁</category>
+        <category>Markdown</category>
         <category>milestone</category>
         <category>总结</category>
         <category>年终总结</category>
@@ -69,8 +71,6 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
-        <category>Markdown</category>
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
@@ -84,9 +84,9 @@
         <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>
+        <category>素食</category>
         <category>亲密关系</category>
         <category>农业</category>
-        <category>素食</category>
         <category>性格测试</category>
         <category>报告</category>
         <category>TED</category>
@@ -122,9 +122,10 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/images/map/China_Railway_Highspeed_2023.pdf&#34;&gt;【PDF】中国高铁线路图（高清）&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/images/map/China_Railway_Highspeed_2023.png&#34;&gt;【PNG】中国高铁线路图（高清）&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://weibo.com/ttarticle/p/show?id=2309404859631611805768&#34;&gt;【微博】中国高速铁路运营线路图&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
- ]]></description>
+&lt;!--
+https://weibo.com/ttarticle/p/show?id=2309404859631611805768
+--&gt; ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/map/metro-urumqi.html</guid>
@@ -213,11 +214,11 @@
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/%E7%8F%A0%E6%B1%9F%E4%B8%89%E8%A7%92%E6%B4%B2%E5%9C%B0%E5%8C%BA%E5%9C%B0%E5%9B%BE.jpg&#34; alt=&#34;珠江三角洲地区地图&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;战略定位&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#战略定位&#34;&gt;#&lt;/a&gt; 战略定位&lt;/h2&gt;
 &lt;p&gt;五个定位：&lt;/p&gt;
-&lt;p&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;one&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0031-20e3.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/0031-20e3.png?v8&lt;/a&gt;&amp;quot;&amp;gt;1️⃣&amp;lt;/span&amp;gt; ** 充满活力的世界级城市群。** 依托香港、澳门作为自由开放经济体和广东作为改革开放排头兵的优势，继续深化改革、扩大开放，在构建经济高质量发展的体制机制方面走在全国前列、发挥示范引领作用，加快制度创新和先行先试，建设现代化经济体系，更好融入全球市场体系，建成世界新兴产业、先进制造业和现代服务业基地，建设世界级城市群。&lt;/p&gt;
-&lt;p&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;two&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0032-20e3.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/0032-20e3.png?v8&lt;/a&gt;&amp;quot;&amp;gt;2️⃣&amp;lt;/span&amp;gt; ** 具有全球影响力的国际科技创新中心。** 瞄准世界科技和产业发展前沿，加强创新平台建设，大力发展新技术、新产业、新业态、新模式，加快形成以创新为主要动力和支撑的经济体系；扎实推进全面创新改革试验，充分发挥粤港澳科技研发与产业创新优势，破除影响创新要素自由流动的瓶颈和制约，进一步激发各类创新主体活力，建成全球科技创新高地和新兴产业重要策源地。&lt;/p&gt;
-&lt;p&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;three&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0033-20e3.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/0033-20e3.png?v8&lt;/a&gt;&amp;quot;&amp;gt;3️⃣&amp;lt;/span&amp;gt; **“一带一路” 建设的重要支撑。** 更好发挥港澳在国家对外开放中的功能和作用，提高珠三角九市开放型经济发展水平，促进国际国内两个市场、两种资源有效对接，在更高层次参与国际经济合作和竞争，建设具有重要影响力的国际交通物流枢纽和国际文化交往中心。&lt;/p&gt;
-&lt;p&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;four&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0034-20e3.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/0034-20e3.png?v8&lt;/a&gt;&amp;quot;&amp;gt;4️⃣&amp;lt;/span&amp;gt; ** 内地与港澳深度合作示范区。** 依托粤港澳良好合作基础，充分发挥深圳前海、广州南沙、珠海横琴等重大合作平台作用，探索协调协同发展新模式，深化珠三角九市与港澳全面务实合作，促进人员、物资、资金、信息便捷有序流动，为粤港澳发展提供新动能，为内地与港澳更紧密合作提供示范。&lt;/p&gt;
-&lt;p&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;five&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0035-20e3.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/0035-20e3.png?v8&lt;/a&gt;&amp;quot;&amp;gt;5️⃣&amp;lt;/span&amp;gt; ** 宜居宜业宜游的优质生活圈。** 坚持以人民为中心的发展思想，践行生态文明理念，充分利用现代信息技术，实现城市群智能管理，优先发展民生工程，提高大湾区民众生活便利水平，提升居民生活质量，为港澳居民在内地学习、就业、创业、生活提供更加便利的条件，加强多元文化交流融合，建设生态安全、环境优美、社会安定、文化繁荣的美丽湾区。&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;one&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0031-20e3.png?v8&#34;&gt;1️⃣&lt;/span&gt; ** 充满活力的世界级城市群。** 依托香港、澳门作为自由开放经济体和广东作为改革开放排头兵的优势，继续深化改革、扩大开放，在构建经济高质量发展的体制机制方面走在全国前列、发挥示范引领作用，加快制度创新和先行先试，建设现代化经济体系，更好融入全球市场体系，建成世界新兴产业、先进制造业和现代服务业基地，建设世界级城市群。&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;two&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0032-20e3.png?v8&#34;&gt;2️⃣&lt;/span&gt; ** 具有全球影响力的国际科技创新中心。** 瞄准世界科技和产业发展前沿，加强创新平台建设，大力发展新技术、新产业、新业态、新模式，加快形成以创新为主要动力和支撑的经济体系；扎实推进全面创新改革试验，充分发挥粤港澳科技研发与产业创新优势，破除影响创新要素自由流动的瓶颈和制约，进一步激发各类创新主体活力，建成全球科技创新高地和新兴产业重要策源地。&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;three&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0033-20e3.png?v8&#34;&gt;3️⃣&lt;/span&gt; **“一带一路” 建设的重要支撑。** 更好发挥港澳在国家对外开放中的功能和作用，提高珠三角九市开放型经济发展水平，促进国际国内两个市场、两种资源有效对接，在更高层次参与国际经济合作和竞争，建设具有重要影响力的国际交通物流枢纽和国际文化交往中心。&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;four&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0034-20e3.png?v8&#34;&gt;4️⃣&lt;/span&gt; ** 内地与港澳深度合作示范区。** 依托粤港澳良好合作基础，充分发挥深圳前海、广州南沙、珠海横琴等重大合作平台作用，探索协调协同发展新模式，深化珠三角九市与港澳全面务实合作，促进人员、物资、资金、信息便捷有序流动，为粤港澳发展提供新动能，为内地与港澳更紧密合作提供示范。&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;five&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0035-20e3.png?v8&#34;&gt;5️⃣&lt;/span&gt; ** 宜居宜业宜游的优质生活圈。** 坚持以人民为中心的发展思想，践行生态文明理念，充分利用现代信息技术，实现城市群智能管理，优先发展民生工程，提高大湾区民众生活便利水平，提升居民生活质量，为港澳居民在内地学习、就业、创业、生活提供更加便利的条件，加强多元文化交流融合，建设生态安全、环境优美、社会安定、文化繁荣的美丽湾区。&lt;/p&gt;
 &lt;h2 id=&#34;城市定位&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#城市定位&#34;&gt;#&lt;/a&gt; 城市定位&lt;/h2&gt;
 &lt;p&gt;经过这些年的发展，形成了三个不同发展特色的城市圈，深、莞、惠基本上形成以 IT 产业和高科技产业为特色的发展格局；广、佛、肇则是以装备制造业和互联网经济发展为主；珠、江、中则是以传统制造业和文化旅游经济发展为主。&lt;/p&gt;
 &lt;ul&gt;

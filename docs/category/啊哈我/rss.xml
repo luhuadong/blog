@@ -18,19 +18,19 @@
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
+        <category>种植</category>
         <category>英语</category>
         <category>成长</category>
         <category>英语短文</category>
         <category>学习</category>
-        <category>种植</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>健身</category>
         <category>气象爱好者</category>
         <category>指南</category>
@@ -53,6 +53,8 @@
         <category>开发者</category>
         <category>职业</category>
         <category>时间管理</category>
+        <category>地铁</category>
+        <category>Markdown</category>
         <category>milestone</category>
         <category>总结</category>
         <category>年终总结</category>
@@ -69,8 +71,6 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
-        <category>Markdown</category>
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
@@ -84,9 +84,9 @@
         <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>
+        <category>素食</category>
         <category>亲密关系</category>
         <category>农业</category>
-        <category>素食</category>
         <category>性格测试</category>
         <category>报告</category>
         <category>TED</category>
@@ -231,109 +231,109 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://gitee.com/luhuadong/FCTC-Air&#34;&gt;FCTC&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;从端到云构建物联网原型（基于 RT-Thread）&lt;/td&gt;
-&lt;td&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;即将出版&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://gitee.com/luhuadong/YRPI&#34;&gt;YRPI&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;基于树莓派的 Yocto 学习指南（reTerminal 树莓派 CM4）&lt;/td&gt;
-&lt;td&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;进行中&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://gitee.com/luhuadong/Master-C&#34;&gt;Master-C&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;C 语言大师之路（深入掌握 C 语言编程）&lt;/td&gt;
-&lt;td&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;进行中&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://gitee.com/luhuadong/python-efficient-office&#34;&gt;PyEO&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Python 高效办公（Python 办公自动化）&lt;/td&gt;
-&lt;td&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;进行中&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;OEEB&lt;/td&gt;
 &lt;td&gt;openEuler Embedded 系统构建与应用实战（ROS 机器人）&lt;/td&gt;
-&lt;td&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;准备中&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Zephyr-Book&lt;/td&gt;
 &lt;td&gt;Zephyr 嵌入式实时操作系统&lt;/td&gt;
-&lt;td&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;准备中&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;OpenEmber&lt;/td&gt;
 &lt;td&gt;OpenEmber 嵌入式应用框架开发详解&lt;/td&gt;
-&lt;td&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;准备中&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;SmartEV&lt;/td&gt;
 &lt;td&gt;图解智能电动汽车&lt;/td&gt;
-&lt;td&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;准备中&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://gitee.com/luhuadong/ReChat&#34;&gt;ReChat&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;React + Node.js 全栈开发最佳实践&lt;/td&gt;
-&lt;td&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;未开始&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://gitee.com/luhuadong/LCBP&#34;&gt;LCBP&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Linux C 学习笔记 / Linux C 最佳实践&lt;/td&gt;
-&lt;td&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;未开始&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://gitee.com/luhuadong/WPTD&#34;&gt;WPTD&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;WordPress 主题开发指南&lt;/td&gt;
-&lt;td&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;未开始&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://gitee.com/luhuadong/7W7OS&#34;&gt;7W7OS&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;七周七操作系统&lt;/td&gt;
-&lt;td&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;未开始&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;CMBP&lt;/td&gt;
 &lt;td&gt;CMake 最佳实践&lt;/td&gt;
-&lt;td&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;未开始&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://gitee.com/luhuadong/LACP&#34;&gt;LACP&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Linux 高级组件编程&lt;/td&gt;
-&lt;td&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;进行中&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://gitee.com/luhuadong/QTBP&#34;&gt;QTBP&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Qt 跨平台开发最佳实践&lt;/td&gt;
-&lt;td&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;未开始&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://gitee.com/luhuadong/PyFS&#34;&gt;PyFS&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Python 全栈开发&lt;/td&gt;
-&lt;td&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;进行中&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/luhuadong/Eco-Handbook&#34;&gt;Eco-Handbook&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;可持续生活手册&lt;/td&gt;
-&lt;td&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;进行中&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://gitee.com/luhuadong/BYKB&#34;&gt;BYKB&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;构建你的知识库（Build your knowledge base）&lt;/td&gt;
-&lt;td&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/td&gt;
 &lt;td&gt;未开始&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -348,8 +348,7 @@
             <pubDate>Thu, 30 Jun 2022 01:09:11 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;会员编号：CHSZ2022061387&lt;/p&gt;
 &lt;p&gt;自我介绍：2014 年毕业于广东工业大学电气工程及其自动化专业，在校期间曾任广工猎鹰橄榄球队队长。毕业后先后参与过工业机器人、通信终端、物联网等相关产品的研发工作，目前在广州从事汽车智能驾驶方面的研究。热爱开源文化，曾参与编写《&lt;a href=&#34;https://oschina.gitee.io/opensource-guide/&#34;&gt;开源指北&lt;/a&gt;》电子书，熟悉 Arduino、树莓派等各类开源硬件，曾为 Linux、RT-Thread、LVGL 等多个开源软件项目贡献代码，并荣获 2020 年度 RT-Thread 开源社区杰出贡献奖。CSDN 博主「&lt;a href=&#34;https://blog.csdn.net/lu_embedded&#34;&gt;阿基米东&lt;/a&gt;」，总阅读量超过 300 万，同时也是「&lt;a href=&#34;https://getiot.tech/&#34;&gt;人人都懂物联网&lt;/a&gt;」网站站长，旨在促进公平教育和终身学习。生活中是一名环保主义者，也是零废弃联盟等多家 NGO 机构的核心志愿者，致力于推动 SDGs 可持续发展目标的实现。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/lu_202205.jpeg&amp;quot; width=&amp;quot;200&amp;quot; /&amp;gt;&lt;/p&gt;
- ]]></description>
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/lu_202205.jpeg&#34; width=&#34;200&#34; /&gt; ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/me/my-career.html</guid>

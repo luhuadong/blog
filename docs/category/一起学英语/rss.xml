@@ -18,19 +18,19 @@
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
+        <category>种植</category>
         <category>英语</category>
         <category>成长</category>
         <category>英语短文</category>
         <category>学习</category>
-        <category>种植</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>健身</category>
         <category>气象爱好者</category>
         <category>指南</category>
@@ -53,6 +53,8 @@
         <category>开发者</category>
         <category>职业</category>
         <category>时间管理</category>
+        <category>地铁</category>
+        <category>Markdown</category>
         <category>milestone</category>
         <category>总结</category>
         <category>年终总结</category>
@@ -69,8 +71,6 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
-        <category>Markdown</category>
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
@@ -84,9 +84,9 @@
         <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>
+        <category>素食</category>
         <category>亲密关系</category>
         <category>农业</category>
-        <category>素食</category>
         <category>性格测试</category>
         <category>报告</category>
         <category>TED</category>
@@ -152,12 +152,11 @@
 &lt;p&gt;你不能永远拥有它，但可以让每一秒过得更有意义。&lt;/p&gt;
 &lt;p&gt;因为它一旦消失，就再也找不回来了。&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;&amp;lt;video width=&amp;quot;50%&amp;quot; controls muted autoplay=&amp;quot;autoplay&amp;quot; loop=&amp;quot;loop&amp;quot;&amp;gt;&lt;br /&gt;
-&amp;lt;source type=&amp;quot;video/mp4&amp;quot; src=&amp;quot;/video/20231014-225700.mp4&amp;quot;&amp;gt;&lt;br /&gt;
- 您的浏览器不支持 video 标签。&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;br /&gt;
-&amp;lt;br/&amp;gt;&lt;/p&gt;
- ]]></description>
+&lt;video width=&#34;50%&#34; controls muted autoplay=&#34;autoplay&#34; loop=&#34;loop&#34;&gt;
+  &lt;source type=&#34;video/mp4&#34; src=&#34;/video/20231014-225700.mp4&#34;&gt;
+  您的浏览器不支持 video 标签。
+&lt;/video&gt;
+&lt;br/&gt; ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/english/how-do-people-get-destroyed.html</guid>
@@ -561,7 +560,7 @@
             <category>英语</category>
             <category>学习</category>
             <pubDate>Tue, 25 Jan 2022 14:10:14 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&amp;lt;iframe src=&amp;quot;&lt;a href=&#34;//player.bilibili.com/player.html?aid=210791238&amp;amp;bvid=BV1ka41127xo&amp;amp;cid=488524939&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&#34;&gt;//player.bilibili.com/player.html?aid=210791238&amp;amp;bvid=BV1ka41127xo&amp;amp;cid=488524939&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&lt;/a&gt;&amp;quot; allowfullscreen=&amp;quot;true&amp;quot; width=&amp;quot;100%&amp;quot; height=&amp;quot;500&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=210791238&amp;bvid=BV1ka41127xo&amp;cid=488524939&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;true&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
  ]]></description>
         </item>
         <item>

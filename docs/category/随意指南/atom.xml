@@ -15,19 +15,19 @@
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
+    <category term="种植" />
     <category term="英语" />
     <category term="成长" />
     <category term="英语短文" />
     <category term="学习" />
-    <category term="种植" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="健身" />
     <category term="气象爱好者" />
     <category term="指南" />
@@ -50,6 +50,8 @@
     <category term="开发者" />
     <category term="职业" />
     <category term="时间管理" />
+    <category term="地铁" />
+    <category term="Markdown" />
     <category term="milestone" />
     <category term="总结" />
     <category term="年终总结" />
@@ -66,8 +68,6 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
-    <category term="Markdown" />
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
@@ -81,9 +81,9 @@
     <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
+    <category term="素食" />
     <category term="亲密关系" />
     <category term="农业" />
-    <category term="素食" />
     <category term="性格测试" />
     <category term="报告" />
     <category term="TED" />
@@ -496,8 +496,8 @@
 &lt;/ul&gt;
 &lt;p&gt;一波操作下来，不用半小时即可完成。不过由于这个办理点的自助拍照终端机没有启用，所以需要另外找照相馆（也许就是为了照顾附近照相馆的生意吧）。&lt;/p&gt;
 &lt;p&gt;费用的话，包括拍照的费用 25 元，办证工本费 20 元，以及邮政快递费 18 元（可选，默认到付），支持微信支付。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/guide/renew-id-card-02.jpeg&amp;quot; width=&amp;quot;400&amp;quot; /&amp;gt;&lt;/p&gt;
-&lt;p&gt;除了拍照环节不太满意，整个过程还是挺便捷的，毕竟早已进入数字化时代了。相信下一个十年一定会更便捷！加油 &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;running&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f3c3.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f3c3.png?v8&lt;/a&gt;&amp;quot;&amp;gt;🏃&amp;lt;/span&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/guide/renew-id-card-02.jpeg&#34; width=&#34;400&#34; /&gt;
+&lt;p&gt;除了拍照环节不太满意，整个过程还是挺便捷的，毕竟早已进入数字化时代了。相信下一个十年一定会更便捷！加油 &lt;span class=&#34;github-emoji&#34; alias=&#34;running&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f3c3.png?v8&#34;&gt;🏃&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;对了，广东的小伙伴可以在 “粤省事” 查看办理进度。&lt;/p&gt;
 </content>
         <category term="指南" />
@@ -514,10 +514,10 @@
 &lt;p&gt;归结起来，你只要面临三类决定 —— 高风险、低风险、无风险。&lt;/p&gt;
 &lt;h2 id=&#34;无风险选项&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#无风险选项&#34;&gt;#&lt;/a&gt; 无风险选项&lt;/h2&gt;
 &lt;p&gt;首先来看无风险（No Stakes）选项，生活中有些细节，永远没有正确答案，几小时后你甚至不会记得你做出了这个决定。一个很好的例子就是选择看什么节目，电视节目成千上万，足以让你迷失其中，但不管你选择哪个节目，都不会有什么后果。无风险决定的关键在于&lt;strong&gt;听天由命&lt;/strong&gt;，比如说，你可以将选择精简为两种，然后通过掷硬币来帮你做决定。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/guide/fobo-no-stakes.jpg&amp;quot; width=&amp;quot;600&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/guide/fobo-no-stakes.jpg&#34; width=&#34;600&#34;&gt;
 &lt;h2 id=&#34;低风险选项&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#低风险选项&#34;&gt;#&lt;/a&gt; 低风险选项&lt;/h2&gt;
 &lt;p&gt;然后来看看低风险（Low Stakes）选项，这些决定会有后果，但后果不严重。这些选项的结果大多可以接受，很多生活中的日常，比如买哪台打印机、订哪家酒店，这些在本质上都是低风险决定。这些决定需要你做出思考，但就算做错也没啥大不了，你过几周可能就会忘记此事。你也可以再玩一次 “听天由命”，但你会想要认真思考一番，因为毕竟还是存在风险。这一次你可以&lt;strong&gt;听 “人” 由命&lt;/strong&gt;，先设下一些基本标准，然后请他人提出建议，并听从这些建议。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/guide/fobo-low-stakes.jpeg&amp;quot; width=&amp;quot;600&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/guide/fobo-low-stakes.jpeg&#34; width=&#34;600&#34;&gt;
 &lt;h2 id=&#34;高风险选项&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#高风险选项&#34;&gt;#&lt;/a&gt; 高风险选项&lt;/h2&gt;
 &lt;p&gt;现在你把无风险和低风险选项都解决了，你已经把时间和空间都腾给了高风险（High Stakes）选项。例如 “在哪里买房”、“找哪份工作” 等问题，因为风险高，你必定想做出正确决定。首先&lt;strong&gt;凭直觉选出一个最佳选项&lt;/strong&gt;，然后将其他选项与该最佳选择进行&lt;strong&gt;逐一比较&lt;/strong&gt;，从两个选项中选出一个并淘汰另一个。&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/guide/fobo-high-stakes.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;

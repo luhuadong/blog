@@ -15,19 +15,19 @@
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
+    <category term="种植" />
     <category term="英语" />
     <category term="成长" />
     <category term="英语短文" />
     <category term="学习" />
-    <category term="种植" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="健身" />
     <category term="气象爱好者" />
     <category term="指南" />
@@ -50,6 +50,8 @@
     <category term="开发者" />
     <category term="职业" />
     <category term="时间管理" />
+    <category term="地铁" />
+    <category term="Markdown" />
     <category term="milestone" />
     <category term="总结" />
     <category term="年终总结" />
@@ -66,8 +68,6 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
-    <category term="Markdown" />
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
@@ -81,9 +81,9 @@
     <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
+    <category term="素食" />
     <category term="亲密关系" />
     <category term="农业" />
-    <category term="素食" />
     <category term="性格测试" />
     <category term="报告" />
     <category term="TED" />
@@ -103,10 +103,10 @@
         <link rel="alternate" href="https://luhuadong.com/sports/pilates-exercises-on-the-mat.html"/>
         <content type="html">&lt;h2 id=&#34;corkscrew-空中螺旋&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#corkscrew-空中螺旋&#34;&gt;#&lt;/a&gt; Corkscrew 空中螺旋&lt;/h2&gt;
 &lt;p&gt;Corkscrew 是一项具有挑战性的普拉提运动，可以锻炼核心肌群、提高灵活性并增强对身体的控制。它非常适合想要加强核心锻炼的中级到高级健身爱好者。Corkscrew 注重稳定性和精确度，不仅有助于发展强大的核心肌群，还有助于改善姿势和平衡，使其成为任何健身方案的理想补充。&lt;/p&gt;
-&lt;p&gt;&amp;lt;video muted autoplay loop&amp;gt;&lt;br /&gt;
-&amp;lt;source src=&amp;quot;/images/sports/Pilates-Corkscrew.webm&amp;quot; type=&amp;quot;video/webm&amp;quot;&amp;gt;&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;br /&gt;
- 练习步骤：&lt;/p&gt;
+&lt;video muted autoplay loop&gt;
+    &lt;source src=&#34;/images/sports/Pilates-Corkscrew.webm&#34; type=&#34;video/webm&#34;&gt;
+&lt;/video&gt;
+练习步骤：
 &lt;ol&gt;
 &lt;li&gt;仰卧，将双腿抬离地面并将它们并拢，笔直向上朝向天花板，尽可能保持伸直。&lt;/li&gt;
 &lt;li&gt;慢慢地将双腿降低到右侧，做半圆周运动，直到到达地面。&lt;/li&gt;
@@ -119,10 +119,10 @@
 &lt;/div&gt;
 &lt;h2 id=&#34;swan-dive-天鹅潜水&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#swan-dive-天鹅潜水&#34;&gt;#&lt;/a&gt; Swan Dive 天鹅潜水&lt;/h2&gt;
 &lt;p&gt;Swan Dive 是一项具有挑战性的普拉提运动，可以增强背部力量、改善姿势并增强灵活性。对于具有中级到高级健身水平、想要进一步挑战其核心稳定性和脊柱力量的个人来说，它是理想的选择。这项练习不仅对寻求提高表现的运动员有益，而且对任何寻求增强整体身体力量和平衡能力的人都有好处。&lt;/p&gt;
-&lt;p&gt;&amp;lt;video muted autoplay loop&amp;gt;&lt;br /&gt;
-&amp;lt;source src=&amp;quot;/images/sports/Pilates-SwanDive.webm&amp;quot; type=&amp;quot;video/webm&amp;quot;&amp;gt;&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;br /&gt;
- 练习步骤：&lt;/p&gt;
+&lt;video muted autoplay loop&gt;
+    &lt;source src=&#34;/images/sports/Pilates-SwanDive.webm&#34; type=&#34;video/webm&#34;&gt;
+&lt;/video&gt;
+练习步骤：
 &lt;ol&gt;
 &lt;li&gt;使用背部肌肉同时将头部、上半身和双腿抬离地面，同时保持手臂伸直并与地板平行。&lt;/li&gt;
 &lt;li&gt;当你抬起上半身时，将手臂向下摆动到身体两侧，然后在身后，保持伸直。&lt;/li&gt;
@@ -134,10 +134,10 @@
 &lt;/div&gt;
 &lt;h2 id=&#34;neck-pull-引颈前伸&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#neck-pull-引颈前伸&#34;&gt;#&lt;/a&gt; Neck Pull 引颈前伸&lt;/h2&gt;
 &lt;p&gt;Neck Pull 是一项有益的运动，主要针对颈部肌肉，有助于增强颈部肌肉并提高灵活性。它适合任何人，尤其是那些参加需要强健颈部的运动或活动的人，或因长时间伏案工作而感到颈部紧张的人。人们希望通过这项练习来缓解颈部疼痛、改善姿势或增强涉及颈部的活动中的身体表现。&lt;/p&gt;
-&lt;p&gt;&amp;lt;video muted autoplay loop&amp;gt;&lt;br /&gt;
-&amp;lt;source src=&amp;quot;/images/sports/Pilates-NeckPull.webm&amp;quot; type=&amp;quot;video/webm&amp;quot;&amp;gt;&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;br /&gt;
- 练习步骤：&lt;/p&gt;
+&lt;video muted autoplay loop&gt;
+    &lt;source src=&#34;/images/sports/Pilates-NeckPull.webm&#34; type=&#34;video/webm&#34;&gt;
+&lt;/video&gt;
+练习步骤：
 &lt;ol&gt;
 &lt;li&gt;将双手放在脑后，手指交叉并保持肘部打开，拇指放在耳朵后面。&lt;/li&gt;
 &lt;li&gt;慢慢地将头和脖子抬离地板，用手轻轻地将头拉向胸部，同时保持背部平放在地板上。&lt;/li&gt;
@@ -151,10 +151,10 @@
 &lt;/div&gt;
 &lt;h2 id=&#34;scissors-空中剪刀&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#scissors-空中剪刀&#34;&gt;#&lt;/a&gt; Scissors 空中剪刀&lt;/h2&gt;
 &lt;p&gt;剪刀运动是一种非常有效的锻炼方式，主要针对你的核心肌肉，尤其是下腹肌，但也可以锻炼你的臀肌和大腿。它适合所有健身水平的个人，因为可以对其进行修改以匹配个人的力量和灵活性。人们会想做剪刀练习，因为它不仅有助于增强和调节腹部肌肉，还有助于提高平衡性、灵活性和整体身体协调性。&lt;/p&gt;
-&lt;p&gt;&amp;lt;video muted autoplay loop&amp;gt;&lt;br /&gt;
-&amp;lt;source src=&amp;quot;/images/sports/Pilates-Scissors.webm&amp;quot; type=&amp;quot;video/webm&amp;quot;&amp;gt;&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;br /&gt;
- 练习步骤：&lt;/p&gt;
+&lt;video muted autoplay loop&gt;
+    &lt;source src=&#34;/images/sports/Pilates-Scissors.webm&#34; type=&#34;video/webm&#34;&gt;
+&lt;/video&gt;
+练习步骤：
 &lt;ol&gt;
 &lt;li&gt;将双腿向天花板伸直，尽可能保持伸直。&lt;/li&gt;
 &lt;li&gt;降低右腿直到离地约六英寸，同时保持左腿伸直。&lt;/li&gt;
@@ -167,10 +167,10 @@
 &lt;/div&gt;
 &lt;h2 id=&#34;bicycle-倒踩单车&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#bicycle-倒踩单车&#34;&gt;#&lt;/a&gt; Bicycle 倒踩单车&lt;/h2&gt;
 &lt;p&gt;倒踩单车是一种全身锻炼，主要针对核心肌群，特别是腹肌，但也锻炼腿部和上半身。由于其适应性和低影响性，对于从初学者到高级运动员的所有健身水平的人来说，它都是一项出色的运动。人们可能会选择这项运动，因为它能有效增强肌肉、增强心血管健康和促进减肥，同时对关节也很轻松。&lt;/p&gt;
-&lt;p&gt;&amp;lt;video muted autoplay loop&amp;gt;&lt;br /&gt;
-&amp;lt;source src=&amp;quot;/images/sports/Pilates-Bicycle.webm&amp;quot; type=&amp;quot;video/webm&amp;quot;&amp;gt;&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;br /&gt;
- 练习步骤：&lt;/p&gt;
+&lt;video muted autoplay loop&gt;
+    &lt;source src=&#34;/images/sports/Pilates-Bicycle.webm&#34; type=&#34;video/webm&#34;&gt;
+&lt;/video&gt;
+练习步骤：
 &lt;ol&gt;
 &lt;li&gt;将膝盖拉至胸部，同时将肩胛骨抬离地面，但不要拉扯脖子。&lt;/li&gt;
 &lt;li&gt;接下来，伸直左腿，同时将上半身转向右侧，将左肘移向右膝盖。&lt;/li&gt;
@@ -183,10 +183,10 @@
 &lt;/div&gt;
 &lt;h2 id=&#34;shoulder-bridge-with-kick-肩桥踢腿&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#shoulder-bridge-with-kick-肩桥踢腿&#34;&gt;#&lt;/a&gt; Shoulder Bridge With Kick 肩桥踢腿&lt;/h2&gt;
 &lt;p&gt;肩桥是一项有益的运动，针对核心肌群、下背部和臀肌，有助于增强整体身体力量和稳定性。它非常适合所有健身水平的人，特别是那些寻求改善姿势、灵活性和平衡性的人。将这项运动纳入你的日常锻炼可以增强肌肉张力，支持脊柱排列，并有助于预防伤害，使其成为健康和健身爱好者的绝佳选择。&lt;/p&gt;
-&lt;p&gt;&amp;lt;video muted autoplay loop&amp;gt;&lt;br /&gt;
-&amp;lt;source src=&amp;quot;/images/sports/Pilates-Shoulder-Bridge-With-Kick.webm&amp;quot; type=&amp;quot;video/webm&amp;quot;&amp;gt;&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;br /&gt;
- 练习步骤：&lt;/p&gt;
+&lt;video muted autoplay loop&gt;
+    &lt;source src=&#34;/images/sports/Pilates-Shoulder-Bridge-With-Kick.webm&#34; type=&#34;video/webm&#34;&gt;
+&lt;/video&gt;
+练习步骤：
 &lt;ol&gt;
 &lt;li&gt;将手臂放在身体两侧，手掌朝下，确保双脚距离指尖足够近，刚好可以碰到脚后跟。&lt;/li&gt;
 &lt;li&gt;开始练习时，将脚压入地板，然后将臀部和下背部抬离地面，从肩膀到膝盖形成一条直线。&lt;/li&gt;
@@ -200,10 +200,10 @@
 &lt;/div&gt;
 &lt;h2 id=&#34;jack-knife-空中折刀&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#jack-knife-空中折刀&#34;&gt;#&lt;/a&gt; Jack Knife 空中折刀&lt;/h2&gt;
 &lt;p&gt;杰克刀是一项动态练习，旨在增强你的核心肌群，尤其是腹肌、斜肌和髋屈肌，同时还能提高你的平衡性和灵活性。它适合所有健身水平、旨在增强腹部力量和整体健康的个人。人们想要进行这项练习，因为它不仅有助于实现健美的腹部，还可以改善姿势，减轻背部疼痛，并有助于需要弯腰和举重的日常活动。&lt;/p&gt;
-&lt;p&gt;&amp;lt;video muted autoplay loop&amp;gt;&lt;br /&gt;
-&amp;lt;source src=&amp;quot;/images/sports/Pilates-JackKnife.webm&amp;quot; type=&amp;quot;video/webm&amp;quot;&amp;gt;&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;br /&gt;
- 练习步骤：&lt;/p&gt;
+&lt;video muted autoplay loop&gt;
+    &lt;source src=&#34;/images/sports/Pilates-JackKnife.webm&#34; type=&#34;video/webm&#34;&gt;
+&lt;/video&gt;
+练习步骤：
 &lt;ol&gt;
 &lt;li&gt;以平稳、受控的动作，抬起双腿，如果需要，稍微弯曲膝盖。&lt;/li&gt;
 &lt;li&gt;继续折叠身体，使双腿与身体形成 “V” 形，这就是折刀姿势。&lt;/li&gt;
@@ -216,10 +216,10 @@
 &lt;/div&gt;
 &lt;h2 id=&#34;hip-twist-髋部扭转&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hip-twist-髋部扭转&#34;&gt;#&lt;/a&gt; Hip Twist 髋部扭转&lt;/h2&gt;
 &lt;p&gt;髋部扭转支撑手臂练习是一种动态核心强化锻炼，针对腹肌、斜肌和下背部，增强整体身体稳定性和平衡。它非常适合希望提高核心力量和灵活性的各个级别的健身爱好者，从初学者到高级人士。人们希望通过这项练习来增强核心力量、改善姿势、提高运动表现并降低背痛风险。&lt;/p&gt;
-&lt;p&gt;&amp;lt;video muted autoplay loop&amp;gt;&lt;br /&gt;
-&amp;lt;source src=&amp;quot;/images/sports/Pilates-HipTwist.webm&amp;quot; type=&amp;quot;video/webm&amp;quot;&amp;gt;&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;br /&gt;
- 练习步骤：&lt;/p&gt;
+&lt;video muted autoplay loop&gt;
+    &lt;source src=&#34;/images/sports/Pilates-HipTwist.webm&#34; type=&#34;video/webm&#34;&gt;
+&lt;/video&gt;
+练习步骤：
 &lt;ol&gt;
 &lt;li&gt;双手放在身后，手掌平放在地板上，手指指向脚部，然后将上半身向上推，使手臂完全伸展，身体从头到膝盖形成一条直线。&lt;/li&gt;
 &lt;li&gt;收紧核心肌群，慢慢向右扭转臀部，保持上半身稳定，手臂伸直。&lt;/li&gt;
@@ -231,10 +231,10 @@
 &lt;/div&gt;
 &lt;h2 id=&#34;kneeling-side-kick-跪姿侧踢&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#kneeling-side-kick-跪姿侧踢&#34;&gt;#&lt;/a&gt; Kneeling Side Kick 跪姿侧踢&lt;/h2&gt;
 &lt;p&gt;跪姿侧踢是一项动态练习，主要针对臀肌、臀部和大腿，从而提高下半身的力量和稳定性。对于所有健身水平的人来说，这都是一种有效的锻炼方法，尤其是那些想要增强下半身或增强平衡性和协调性的人。人们可能希望将这项练习纳入日常锻炼中，因为它不仅可以增强肌肉力量和耐力，还有助于改善姿势和灵活性。&lt;/p&gt;
-&lt;p&gt;&amp;lt;video muted autoplay loop&amp;gt;&lt;br /&gt;
-&amp;lt;source src=&amp;quot;/images/sports/Pilates-KneelingSideKick.webm&amp;quot; type=&amp;quot;video/webm&amp;quot;&amp;gt;&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;br /&gt;
- 练习步骤：&lt;/p&gt;
+&lt;video muted autoplay loop&gt;
+    &lt;source src=&#34;/images/sports/Pilates-KneelingSideKick.webm&#34; type=&#34;video/webm&#34;&gt;
+&lt;/video&gt;
+练习步骤：
 &lt;ol&gt;
 &lt;li&gt;将重心转移到右脚上，抬起左膝，直到与臀部同高，并弯曲成 90 度角。&lt;/li&gt;
 &lt;li&gt;保持膝盖弯曲，在不影响平衡的情况下，将左腿尽可能向一侧伸展，进行侧踢。&lt;/li&gt;
@@ -248,10 +248,10 @@
 &lt;/div&gt;
 &lt;h2 id=&#34;side-bend-侧弯&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#side-bend-侧弯&#34;&gt;#&lt;/a&gt; Side Bend 侧弯&lt;/h2&gt;
 &lt;p&gt;侧弯是一项简单而有效的练习，主要针对斜肌，提高核心力量并增强灵活性。它适合所有健身水平的个人，从初学者到高级，因为它可以轻松修改以匹配个人的能力。将侧弯纳入您的日常锻炼中可以帮助改善姿势、减轻背部疼痛并促进更好的平衡和稳定性。&lt;/p&gt;
-&lt;p&gt;&amp;lt;video muted autoplay loop&amp;gt;&lt;br /&gt;
-&amp;lt;source src=&amp;quot;/images/sports/Pilates-SideBend.webm&amp;quot; type=&amp;quot;video/webm&amp;quot;&amp;gt;&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;br /&gt;
- 练习步骤：&lt;/p&gt;
+&lt;video muted autoplay loop&gt;
+    &lt;source src=&#34;/images/sports/Pilates-SideBend.webm&#34; type=&#34;video/webm&#34;&gt;
+&lt;/video&gt;
+练习步骤：
 &lt;ol&gt;
 &lt;li&gt;将右手举过头顶，手掌朝左，身体向左侧伸展，形成侧弯。&lt;/li&gt;
 &lt;li&gt;保持这个姿势几秒钟，确保你感觉到身体右侧有拉伸感。&lt;/li&gt;
@@ -264,10 +264,10 @@
 &lt;/div&gt;
 &lt;h2 id=&#34;boomerang-回旋镖式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#boomerang-回旋镖式&#34;&gt;#&lt;/a&gt; Boomerang 回旋镖式&lt;/h2&gt;
 &lt;p&gt;Boomerang 运动是一种动态的全身锻炼，主要针对核心部位、改善平衡并增强协调性。这是一项先进的普拉提动作，非常适合寻求具有挑战性的日常活动以增强力量和灵活性的健身爱好者。将这项练习纳入您的日常锻炼可以帮助您塑造健美体格、改善姿势并更好地控制身体动作。&lt;/p&gt;
-&lt;p&gt;&amp;lt;video muted autoplay loop&amp;gt;&lt;br /&gt;
-&amp;lt;source src=&amp;quot;/images/sports/Pilates-Boomerang.webm&amp;quot; type=&amp;quot;video/webm&amp;quot;&amp;gt;&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;br /&gt;
- 练习步骤：&lt;/p&gt;
+&lt;video muted autoplay loop&gt;
+    &lt;source src=&#34;/images/sports/Pilates-Boomerang.webm&#34; type=&#34;video/webm&#34;&gt;
+&lt;/video&gt;
+练习步骤：
 &lt;ol&gt;
 &lt;li&gt;吸气，同时将下背部卷曲到垫子上，然后将双腿抬离地板，使膝盖靠近胸部。&lt;/li&gt;
 &lt;li&gt;呼气时，将双腿伸展至 45 度角，将手臂伸到身后，然后翻转到上背部，保持双腿伸直。&lt;/li&gt;
@@ -281,10 +281,10 @@
 &lt;/div&gt;
 &lt;h2 id=&#34;crab-螃蟹式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#crab-螃蟹式&#34;&gt;#&lt;/a&gt; Crab 螃蟹式&lt;/h2&gt;
 &lt;p&gt;螃蟹运动是一种全身锻炼，可以增强核心力量、灵活性和协调性，对所有健身水平的人都有益。它主要针对手臂、肩膀、腹肌、背部和臀部的肌肉。人们想要进行这项运动，因为它不仅可以提高体力和敏捷性，还可以增强平衡性和身体控制力，有助于在各种运动和日常活动中取得更好的表现。&lt;/p&gt;
-&lt;p&gt;&amp;lt;video muted autoplay loop&amp;gt;&lt;br /&gt;
-&amp;lt;source src=&amp;quot;/images/sports/Pilates-Crab.webm&amp;quot; type=&amp;quot;video/webm&amp;quot;&amp;gt;&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;br /&gt;
- 练习步骤：&lt;/p&gt;
+&lt;video muted autoplay loop&gt;
+    &lt;source src=&#34;/images/sports/Pilates-Crab.webm&#34; type=&#34;video/webm&#34;&gt;
+&lt;/video&gt;
+练习步骤：
 &lt;ol&gt;
 &lt;li&gt;手掌用力，将臀部抬离地板，直到身体形成桌面位置，躯干和大腿与地板平行。&lt;/li&gt;
 &lt;li&gt;保持颈部放松，凝视天花板。&lt;/li&gt;
@@ -297,10 +297,10 @@
 &lt;/div&gt;
 &lt;h2 id=&#34;rocking-摇摆式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#rocking-摇摆式&#34;&gt;#&lt;/a&gt; Rocking 摇摆式&lt;/h2&gt;
 &lt;p&gt;摇摆是一项多功能运动，可以增强核心力量、改善平衡并增强身体协调性。它适合初学者到高级健身爱好者，因为它可以轻松调整到不同的健身水平。人们希望将摇摆纳入他们的日常生活中，因为它不仅可以增强身体健康，还可以促进正念和减轻压力。&lt;/p&gt;
-&lt;p&gt;&amp;lt;video muted autoplay loop&amp;gt;&lt;br /&gt;
-&amp;lt;source src=&amp;quot;/images/sports/Pilates-Rocking.webm&amp;quot; type=&amp;quot;video/webm&amp;quot;&amp;gt;&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;br /&gt;
- 练习步骤：&lt;/p&gt;
+&lt;video muted autoplay loop&gt;
+    &lt;source src=&#34;/images/sports/Pilates-Rocking.webm&#34; type=&#34;video/webm&#34;&gt;
+&lt;/video&gt;
+练习步骤：
 &lt;ol&gt;
 &lt;li&gt;将脚趾放在下方并激活核心肌肉以稳定脊柱，使头部和颈部保持中立位置。&lt;/li&gt;
 &lt;li&gt;将臀部向后推向脚后跟，慢慢向后摇动身体，保持脊柱伸直并保持手脚静止。&lt;/li&gt;
@@ -313,10 +313,10 @@
 &lt;/div&gt;
 &lt;h2 id=&#34;control-balance-控制平衡&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#control-balance-控制平衡&#34;&gt;#&lt;/a&gt; Control Balance 控制平衡&lt;/h2&gt;
 &lt;p&gt;控制平衡是一项具有挑战性的普拉提运动，重点是加强核心、改善平衡和增强整体身体协调性。它非常适合希望增强体力和灵活性的中级到高级健身爱好者。通过进行这项练习，人们可以增强身体控制力，改善姿势，并塑造苗条健美的体格。&lt;/p&gt;
-&lt;p&gt;&amp;lt;video muted autoplay loop&amp;gt;&lt;br /&gt;
-&amp;lt;source src=&amp;quot;/images/sports/Pilates-ControlBalance.webm&amp;quot; type=&amp;quot;video/webm&amp;quot;&amp;gt;&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;br /&gt;
- 练习步骤：&lt;/p&gt;
+&lt;video muted autoplay loop&gt;
+    &lt;source src=&#34;/images/sports/Pilates-ControlBalance.webm&#34; type=&#34;video/webm&#34;&gt;
+&lt;/video&gt;
+练习步骤：
 &lt;ol&gt;
 &lt;li&gt;启动核心肌群，将臀部抬离地板，将双腿举过头顶，同时保持双腿伸直并拢。&lt;/li&gt;
 &lt;li&gt;将手臂伸直向上伸向天花板，同时在上背部和肩膀上平衡体重。&lt;/li&gt;
@@ -347,7 +347,7 @@
 &lt;h2 id=&#34;普拉提的起源和发展&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#普拉提的起源和发展&#34;&gt;#&lt;/a&gt; 普拉提的起源和发展&lt;/h2&gt;
 &lt;p&gt;「普拉提」是以德国人约瑟夫・普拉提（&lt;a href=&#34;https://en.wikipedia.org/wiki/Joseph_Pilates&#34;&gt;Joseph Pilates&lt;/a&gt;）姓氏命名的一种运动方式和技能，兴起于 20 世纪 20 年代。&lt;/p&gt;
 &lt;p&gt;约瑟夫・普拉提自小体弱多病，为了摆脱自己健康的各种问题，他下决心开始用各种锻炼方法来强化自己的意志和身体。1912 年，32 岁的约瑟夫・普拉提移居英国，并在世界大战期间利用普拉提（pilates）的运动疗法，帮助大批囚犯康复身体。于是他得到了在一所军营当实习医生的工作，带领他负责 30 位病人每天做各种康复性的训练，医院实习医生的工作促使普拉提发明了他的第一个器材，这样第一架 Cadillac 诞生了。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/sports/pilates-cadillac-reformer.jpg&amp;quot; title=&amp;quot;Cadillac 器材&amp;quot; width=&amp;quot;400&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/sports/pilates-cadillac-reformer.jpg&#34; title=&#34;Cadillac 器材&#34; width=&#34;400&#34; /&gt;
 &lt;p&gt;1926 年，普拉提来到美国纽约，并设立了世界上第一个普拉提训练工作室。专门为著名的舞蹈家、演员、运动员提供针对性的运动疗法训练。由于效果显著，从此誉满美国，后来更逐步获得世界各国及各界的认同和肯定。&lt;/p&gt;
 &lt;p&gt;在 20 世纪三四十年代，普拉提训练法被美国 “舞蹈协会” 接受并认可。随后，普拉提相继被体操、跳水、田径等运动列为特殊的训练项目。20 世纪 90 年代，很多理疗师将普拉提运用于理疗的各个领域，其中包括外科、老年医学、治疗慢性疼痛。到了 20 世纪末，普拉提更广泛地被运用于医疗康复机构。&lt;/p&gt;
 &lt;p&gt;普拉提在 2003 年传入中国，首先出现在我国的健身行业 。2004 年 ，以第一届北京国际健身大会为平台，国外专业的导师对来自全国各地的教练进行短期培训 ，这是普拉提的身影首先出现在我国社会体育领域中。&lt;/p&gt;
@@ -452,13 +452,13 @@
 &lt;li&gt;划手 + 蹬腿 + 憋气&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;动作拆解&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#动作拆解&#34;&gt;#&lt;/a&gt; 动作拆解&lt;/h3&gt;
-&lt;p&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;one&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0031-20e3.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/0031-20e3.png?v8&lt;/a&gt;&amp;quot;&amp;gt;1️⃣&amp;lt;/span&amp;gt; &lt;strong&gt;划水与蹬腿的配合&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;one&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0031-20e3.png?v8&#34;&gt;1️⃣&lt;/span&gt; &lt;strong&gt;划水与蹬腿的配合&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;先开始屈腕抓水、划水&lt;/li&gt;
 &lt;li&gt;当收手时开始收腿&lt;/li&gt;
 &lt;li&gt;手臂前伸时蹬腿&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;two&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0032-20e3.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/0032-20e3.png?v8&lt;/a&gt;&amp;quot;&amp;gt;2️⃣&amp;lt;/span&amp;gt; &lt;strong&gt;手腿与呼吸的配合&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;two&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0032-20e3.png?v8&#34;&gt;2️⃣&lt;/span&gt; &lt;strong&gt;手腿与呼吸的配合&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;当划手结束时，开始吸气&lt;/li&gt;
 &lt;li&gt;手臂前伸时呼气&lt;/li&gt;
@@ -469,7 +469,7 @@
 &lt;li&gt;小划臂蹬腿与呼吸配合练习&lt;/li&gt;
 &lt;li&gt;正常划臂与腿部配合练习&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;口诀蛙泳赋span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#口诀蛙泳赋span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;#&lt;/a&gt; 口诀（蛙泳赋）&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/h3&gt;
+&lt;h3 id=&#34;口诀蛙泳赋span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#口诀蛙泳赋span-classgithub-emoji-aliasstar-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode2b50pngv8span&#34;&gt;#&lt;/a&gt; 口诀（蛙泳赋）&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;抬头划手腿不动&lt;/li&gt;
 &lt;li&gt;伸手低头再蹬腿&lt;/li&gt;

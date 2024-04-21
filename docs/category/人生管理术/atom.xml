@@ -15,19 +15,19 @@
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
+    <category term="种植" />
     <category term="英语" />
     <category term="成长" />
     <category term="英语短文" />
     <category term="学习" />
-    <category term="种植" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="健身" />
     <category term="气象爱好者" />
     <category term="指南" />
@@ -50,6 +50,8 @@
     <category term="开发者" />
     <category term="职业" />
     <category term="时间管理" />
+    <category term="地铁" />
+    <category term="Markdown" />
     <category term="milestone" />
     <category term="总结" />
     <category term="年终总结" />
@@ -66,8 +68,6 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
-    <category term="Markdown" />
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
@@ -81,9 +81,9 @@
     <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
+    <category term="素食" />
     <category term="亲密关系" />
     <category term="农业" />
-    <category term="素食" />
     <category term="性格测试" />
     <category term="报告" />
     <category term="TED" />
@@ -179,7 +179,7 @@
         <title>如何克服拖延症？</title>
         <link rel="alternate" href="https://luhuadong.com/management/how-to-stop-procrastinating.html"/>
         <content type="html">&lt;p&gt;你认为引起拖延的原因是什么？据不完全统计，有 21% 的人认为引起拖延的原因是因为 “完美主义”，23% 的人则认为是因为不自信，26% 的人认为时间充足、不着急做。另外有 42% 的人纯粹是因为想偷懒，能拖就拖。你有没有中枪？&lt;/p&gt;
-&lt;p&gt;那要怎么样才能打败拖延症，提高我们的工作效率，让生活变得越来越惬意呢？下面介绍几种方法 &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;point_down&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f447.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f447.png?v8&lt;/a&gt;&amp;quot;&amp;gt;👇&amp;lt;/span&amp;gt;&lt;/p&gt;
+&lt;p&gt;那要怎么样才能打败拖延症，提高我们的工作效率，让生活变得越来越惬意呢？下面介绍几种方法 &lt;span class=&#34;github-emoji&#34; alias=&#34;point_down&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f447.png?v8&#34;&gt;👇&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&#34;1-立即执行&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-立即执行&#34;&gt;#&lt;/a&gt; 1、立即执行&lt;/h2&gt;
 &lt;p&gt;研究认为，开始着手一件事是最大的障碍！幸运的是，人们天生有一种 “万事有始有终” 的驱动力，它会迫使人们完成已经开始了的工作。当我们没有完成任务时，就会经历不适和入侵性的想法。&lt;/p&gt;
 &lt;h2 id=&#34;2-时间管理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-时间管理&#34;&gt;#&lt;/a&gt; 2、时间管理&lt;/h2&gt;
@@ -213,7 +213,7 @@
         <link rel="alternate" href="https://luhuadong.com/management/stephen-covey-4-quadrants.html"/>
         <content type="html">&lt;p&gt;时间管理四象限法则，是由著名管理学家史蒂芬・科维（Stephen R. Covey）提出的一个时间管理理论。&lt;/p&gt;
 &lt;p&gt;把要做的事（如工作中的事）按照重要和紧急两个方面的不同程度进行划分，可以分为四个象限：重要且紧急、重要但不紧急、不重要但紧急、不重要且不紧急。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/management/time-management-matrix-003.jpg&amp;quot; width=&amp;quot;600&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/management/time-management-matrix-003.jpg&#34; width=&#34;600&#34;&gt;
 &lt;p&gt;日常工作中往往有机会去很好地计划和完成一件事，但常常却又没有及时地去做，随着时间的推移就会造成工作质量的下降。时间管理理论的一个重要观念是&lt;strong&gt;把主要的精力和时间集中地放在处理那些重要但不紧急的工作上&lt;/strong&gt;，这样可以做到未雨绸缪，防患于未然。&lt;/p&gt;
 &lt;p&gt;要把精力主要放在重要但不紧急的事务处理上，需要很好地安排时间，一个好的方法是建立预约。建立了预约，自己的时间才不会被别人所占据，从而有效地开展工作。四象限法则改变了传统时间管理法以 “急” 为重方式，高效时间管理的核心应该：“先轻重，后缓急”。&lt;/p&gt;
 &lt;h2 id=&#34;界限&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#界限&#34;&gt;#&lt;/a&gt; 界限&lt;/h2&gt;

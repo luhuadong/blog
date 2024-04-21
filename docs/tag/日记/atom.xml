@@ -15,19 +15,19 @@
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
+    <category term="种植" />
     <category term="英语" />
     <category term="成长" />
     <category term="英语短文" />
     <category term="学习" />
-    <category term="种植" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="健身" />
     <category term="气象爱好者" />
     <category term="指南" />
@@ -50,6 +50,8 @@
     <category term="开发者" />
     <category term="职业" />
     <category term="时间管理" />
+    <category term="地铁" />
+    <category term="Markdown" />
     <category term="milestone" />
     <category term="总结" />
     <category term="年终总结" />
@@ -66,8 +68,6 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
-    <category term="Markdown" />
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
@@ -81,9 +81,9 @@
     <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
+    <category term="素食" />
     <category term="亲密关系" />
     <category term="农业" />
-    <category term="素食" />
     <category term="性格测试" />
     <category term="报告" />
     <category term="TED" />
@@ -118,10 +118,13 @@
 &lt;/blockquote&gt;
 &lt;p&gt;事业太大，需要慢慢做，还是先找对象结婚吧。&lt;/p&gt;
 &lt;p&gt;对另一半的需求？&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;性需求&lt;/li&gt;
-&lt;li&gt;有相同的理念&lt;/li&gt;
-&lt;/ul&gt;
+&lt;!--
+
+性需求
+
+有相同的理念
+
+--&gt;
 </content>
         <category term="思考" />
         <category term="日记" />
@@ -185,14 +188,14 @@
 &lt;p&gt;下面是这个春节假期计划要做的几件大事：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;更新博客文章，移除一些乱七八糟的文章，补充修改 2023 年的月报。&lt;/li&gt;
-&lt;li&gt;更新「人人都懂物联网」网站的教程，每个类别至少 5 篇文章，移除所有字数少于 200 的文章。&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/li&gt;
+&lt;li&gt;更新「人人都懂物联网」网站的教程，每个类别至少 5 篇文章，移除所有字数少于 200 的文章。&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;重新整理「零废弃部落」上的指南和气象服务，网站备案，优化 SEO。&lt;/li&gt;
 &lt;li&gt;整理《从端到云构建物联网原型》专栏，更新所有实验代码，完善云端章节内容。&lt;/li&gt;
 &lt;li&gt;整理《基于树莓派的 Yocto 学习指南》专栏。&lt;/li&gt;
-&lt;li&gt;分析一些商业案例：自媒体、AI 产品、零售（环保商店）、回收等。&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/li&gt;
+&lt;li&gt;分析一些商业案例：自媒体、AI 产品、零售（环保商店）、回收等。&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;筹备 RT-Thread 兴趣小组。&lt;/li&gt;
-&lt;li&gt;练习普通话，录制有声书《什么样的爱值得勇敢一次》和《碳中和时代》。&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/li&gt;
-&lt;li&gt;阅读亲密关系、婚恋、个人成长相关书籍，包括《亲密关系》、《假性亲密关系》、《爱的五种语言》、《幸福关系的 7 段旅程》、《男人来自火星，女人来自金星》、《突破型谈判》、《精神健康讲记》、《人生只有一件事》、《素食、跑步、修行》、《女性主义》、《厌女》、《始于极限》，梳理自己对亲密关系的需求，争取将自己调整到适合谈恋爱和结婚的状态。&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/li&gt;
+&lt;li&gt;练习普通话，录制有声书《什么样的爱值得勇敢一次》和《碳中和时代》。&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;阅读亲密关系、婚恋、个人成长相关书籍，包括《亲密关系》、《假性亲密关系》、《爱的五种语言》、《幸福关系的 7 段旅程》、《男人来自火星，女人来自金星》、《突破型谈判》、《精神健康讲记》、《人生只有一件事》、《素食、跑步、修行》、《女性主义》、《厌女》、《始于极限》，梳理自己对亲密关系的需求，争取将自己调整到适合谈恋爱和结婚的状态。&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;重读《穷查理宝典》、《纳瓦尔宝典》、《百万富翁快车道》、《原则》等书籍，对接下来的工作做一个大致的规划。&lt;/li&gt;
 &lt;li&gt;整理闲置物品，挂闲鱼出售。&lt;/li&gt;
 &lt;/ul&gt;
@@ -279,7 +282,7 @@
 &lt;p&gt;加入 Theme ShokaX 项目&lt;/p&gt;
 &lt;h2 id=&#34;实务学堂月捐人&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实务学堂月捐人&#34;&gt;#&lt;/a&gt; 实务学堂月捐人&lt;/h2&gt;
 &lt;p&gt;10 月 12 日开始参与实务学堂的月捐，&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/shi-wu-xue-tang-20231012.png&amp;quot; width=&amp;quot;400px&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/shi-wu-xue-tang-20231012.png&#34; width=&#34;400px&#34; /&gt;
 &lt;h2 id=&#34;可持续生活创变营&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#可持续生活创变营&#34;&gt;#&lt;/a&gt; 可持续生活创变营&lt;/h2&gt;
 &lt;h2 id=&#34;更新网站&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#更新网站&#34;&gt;#&lt;/a&gt; 更新网站&lt;/h2&gt;
 &lt;h2 id=&#34;封闭开发&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#封闭开发&#34;&gt;#&lt;/a&gt; 封闭开发&lt;/h2&gt;
@@ -389,11 +392,11 @@
 &lt;h2 id=&#34;上班为什么会这么累&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#上班为什么会这么累&#34;&gt;#&lt;/a&gt; 上班为什么会这么累？&lt;/h2&gt;
 &lt;p&gt;在我的字典里，“上班” 和 “工作” 的含义是不一样的。“工作” 就是做事，是一个人安身立命或实现自我价值的手段之一，无论赚不赚钱，强调的是意义和价值。而 “上班” 是一种个人与公司之间的 “商业交易行为”，公司付费购买员工的劳动时间，员工就必须按照公司的规章制度，在规定时间去到规定地点做规定的事情，无论是否有意义，以及你是否喜欢，带有约束性和强制性。&lt;/p&gt;
 &lt;p&gt;对于敏感、多虑、容易内耗的人来说，上班其实是一件挺痛苦的事！而我刚好就是这样的人。每天上班路上都在想：为什么我会在这里？为什么每天都走一样的路，去一样的地方，和一群那样的人，做那样的事情？似乎上班的兴致还比不过早上一缕阳光透过树叶洒落在脸上所带来的快乐。&lt;/p&gt;
-&lt;p&gt;&amp;lt;video width=&amp;quot;600&amp;quot; controls&amp;gt;&lt;br /&gt;
-&amp;lt;source type=&amp;quot;video/mp4&amp;quot; src=&amp;quot;/images/journal/video-20231207-174948.mp4&amp;quot;&amp;gt;&lt;br /&gt;
- 您的浏览器不支持 video 标签。&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;br /&gt;
-&amp;lt;br/&amp;gt;&lt;/p&gt;
+&lt;video width=&#34;600&#34; controls&gt;
+  &lt;source type=&#34;video/mp4&#34; src=&#34;/images/journal/video-20231207-174948.mp4&#34;&gt;
+  您的浏览器不支持 video 标签。
+&lt;/video&gt;
+&lt;br/&gt;
 &lt;p&gt;每天都要理解并按照别人的思维模式和行为方式做事，是一件非常糟心的事。如果不是为了那份工资，很难说服自己忍气吞声地干活。为了摆脱这种局面，一定要学会掌握主动权。比如要经常和别人争辩、要向上管理、要拒绝职责范围外的工作，但在职场中又会带来新的问题，比如不小心就被裁员了。&lt;/p&gt;
 &lt;p&gt;反正这不会是我们的终点，也不应该成为终点，少加班，多留点时间发展自己的兴趣爱好和副业吧。&lt;/p&gt;
 &lt;p&gt;我十分认同 Jeff Bezos 关于 “工作生活平衡” 的观点：我们不应该追求工作和私人生活的平衡，因为平衡意味着在工作和私人生活中进行取舍。相反，工作和生活之间应该有更全面的关系，它们是互助的关系。如果你在家里很开心，那么当你去办公室工作的时候就会精神满满；如果你在工作的地方很开心，你回家的时候也会精神满满。&lt;/p&gt;
@@ -403,7 +406,7 @@
 &lt;p&gt;于是，我向公司提出了离职。领导没同意，不过他答应我以后尽量不让我加班。&lt;/p&gt;
 &lt;h2 id=&#34;和朋友喝茶聊天&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#和朋友喝茶聊天&#34;&gt;#&lt;/a&gt; 和朋友喝茶聊天&lt;/h2&gt;
 &lt;p&gt;素创文企的朋友知道我有烦心事，约我每个周末过去喝茶聊聊人生。于是我这段时间去了几趟，也学到了一些茶艺知识。茶盘、茶漏、茶夹、茶宠、茶罐、公道杯、闻香杯、品茗杯...... 名词太多了。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20230611-185538.jpeg&amp;quot; width=&amp;quot;600&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20230611-185538.jpeg&#34; width=&#34;600&#34; /&gt;
 &lt;p&gt;这段时间，我问了芳姐和伟权兄很多问题，关于人生、工作、感情方面。他们给我讲了一些故事和人生哲理，还给我推荐了《盔甲骑士：为自己出征》这本书。&lt;/p&gt;
 &lt;p&gt;书中讲述了一个穿着亮闪闪的盔甲的骑士，由于他太喜欢他的盔甲，以至于无论吃饭还是睡觉他都从来不脱下盔甲，他的妻子和儿子都忘记了他的长相了。有一天，妻子很伤心地和他要决裂，他为了不失去妻子儿子，想要脱下盔甲，但却发现怎么都脱不下来。于是，他找到能够帮助他脱下盔甲的魔法师，魔法师告诉骑士，要脱下盔甲，他必须要通过三个城堡。这时，一直很痛苦低落闷闷不乐的骑士，开心地叫了起来：我知道！！每个城堡里都有一个公主在等我拯救！！然而魔法师却告诉他，你不要再去想救什么公主了，你必须首先想想怎么拯救自己。从此，骑士开始了解脱盔甲、寻找自我的征程。&lt;/p&gt;
 &lt;p&gt;这个故事很有代入感，我看完之后受到一些启发 —— 其实有时候，我何尝不是一个戴着盔甲的骑士，如果我不爱自己，那么我也无法爱别人。&lt;/p&gt;
@@ -455,7 +458,7 @@
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20230611-000001.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;你知道吗？今年 5 月 18 日是广州首个高温日，而往年平均首个高温日出现在 6 月 17 日，也就是说，今年的高温天气早来了一个月！不只是广州，全国多个城市也在五月纷纷打破了原先的高温纪录，真是太疯狂了！&lt;/p&gt;
 &lt;p&gt;当然，让我焦虑的不只是空调电费，还有全球气候变暖和生物多样性减少。根据《地球物理研究通讯》的研究显示，目前地球上的夏季的平均时间增加，而春季、冬季与秋季的平均时间均有减少，按此趋势，未来夏季将有可能长达半年。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/seasonal-rhythm-have-changed.jpg&amp;quot; width=&amp;quot;480&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/seasonal-rhythm-have-changed.jpg&#34; width=&#34;480&#34; /&gt;
 &lt;p&gt;这份研究收集北半球 1952 年至 2011 年的温度数据，计算春、夏、秋、冬四季的平均时间，发现夏季平均时间，在 59 年内从原本的 78 天增加为 95 天，另外三个季节则分别减少 9 天。我在想，以后生活在广东的小朋友，会不会感觉不到冬天的存在？&lt;/p&gt;
 &lt;p&gt;然而，危机可不仅如此。由于夏天的延长，人类的健康也会受到负面的影响，其中包括病毒的存活时间增长、蚊子的数量也会增加、花期延长从而使人类长时间暴露在大量的花粉等过敏原中，等等。&lt;/p&gt;
 &lt;p&gt;说到生物多样性，众所周知，5 月 22 日是国际生物多样性日嘛。我去特意去参观了一个「番茄宇宙拯救计划」展览，这是一个由 SeeD 策划的生物多样性的展览，它以番茄为出发点，通过品种历史区、种子实验区、艺术品区和共创交互活动的四大版块呈现，引发大家对食物多样性的思考。同时也呼吁大家关注自然，关心食物，选择对环境更为友好的生活方式。活动从 5 月 22 日一直持续到 7 月 20 日，地点位于广州市越秀区华侨新村爱国路 11 号（广州 SeeD 空间），感兴趣的朋友可以去看看哈！&lt;/p&gt;
@@ -466,9 +469,9 @@
 &lt;p&gt;事情大概是这样的：我们公司是自动驾驶传感器供应商嘛，前几年发展非常迅速，在惯导技术方面取得领先地位，为了争强企业竞争力，两年前开始筹备二次创业（我正是在此背景下加入的）。可是好景不长，2022 年底自动驾驶行业迎来了倒闭潮，曾经辉煌的自动驾驶公司、激光雷达公司宣布破产，亦或市值暴跌。相比海外自动驾驶行业的一片哀嚎，国内企业仍然坚挺（看起来），直到我们公司也开始撑不住了...... 撑不住的具体原因据说是部分投资人停止了投资，而企业本身的现金流不足以支撑一家千人级别的企业，迫不得已决定裁员，以应对动荡的市场。至于投资人为什么跳票，可以说和大环境息息相关，这里就不展开说了。&lt;/p&gt;
 &lt;p&gt;在裁员通知发出后的两三天里，我找领导、领导的领导沟通，询问裁员的事情。我问领导：有没有可能把裁员的名额给我，把 XX 留下？领导说，每个部门都有裁员指标，不得不裁员，让我安心工作，别想那么多。反正最后沟通无果，我还跟领导们吐露了很多心声，包括内部研发、管理的问题。至于后面怎么样，下个月再分享吧。&lt;/p&gt;
 &lt;p&gt;这段时间几乎每天都在散伙饭，酒入愁肠，化作一句：江湖再见！&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20230611-231045.webp&amp;quot; width=&amp;quot;600&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20230611-231045.webp&#34; width=&#34;600&#34; /&gt;
 &lt;p&gt;有些同事的感情真的挺深的，比如包工最后一天上班，说我还没结婚，特意给我发了两个红包；璐姐趁六一儿童节特意买了一个小挂饰送我，这样我的书包就不会显得太单调。而我也给他们准备了一些小礼物，给年长的同事送我们家乡特产「英红九号」茶叶，给年轻的同事送了一本《原则》。很多同事也是在离开之前纷纷互加微信，好像只有离职了，同事才能升级为真正的朋友。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20230603-015244.jpeg&amp;quot; width=&amp;quot;600&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20230603-015244.jpeg&#34; width=&#34;600&#34; /&gt;
 &lt;h2 id=&#34;职业倦怠&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#职业倦怠&#34;&gt;#&lt;/a&gt; 职业倦怠&lt;/h2&gt;
 &lt;p&gt;裁员风波暂告一段落，内心也逐渐恢复平静，看着那干净整洁的办公桌，仿佛他们从来都没有来过一样。没有被裁的人，可能比被裁的人更加焦虑。干活的人少了，我的工作量多了，更加没办法平衡工作和生活，这也是我想离开的直接原因。他们说，这叫 “能者多劳”，但我并不十分认同。&lt;/p&gt;
 &lt;p&gt;其实，就算没有这次裁员风波，我也计划今年下半年离开。因为我又进入了职业倦怠期，已经很长时间没有感受到编程的快乐了，也不喜欢开会。有时候我真的想不明白，为什么公司的制度总是无法释放每个人的创造力呢？为什么需要那么多管理岗来管理干活的员工呢？为什么有些员工明明不适合某个岗位却一直不做改变呢？为什么已经变成中华田园敏捷开发却依然坚守呢？为什么有的员工不称职却没有被发现，或者发现了也没被裁呢？&lt;/p&gt;
@@ -478,11 +481,11 @@
 &lt;h2 id=&#34;运动的快乐&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#运动的快乐&#34;&gt;#&lt;/a&gt; 运动的快乐&lt;/h2&gt;
 &lt;p&gt;好像从高三开始就变得焦虑了，总是要和别人竞争对比，其实是一件很折磨人的事情。以前担任体育委员，我一直这样告诉自己和身边的朋友：“不要给自己太大压力呀，每天都要运动一下，只要保持健康的身体，慢慢努力就会变好的！”&lt;/p&gt;
 &lt;p&gt;这几周开始，每周四晚上都和几个合得来的同事一起打羽毛球，他们说运动可以产生多巴胺，让人更快乐。我的车里也总是放着篮球和羽毛球，可以提醒我要多点运动。现在每次给我的车充电时，我也会在旁边练习篮球，会有一种很踏实、快乐的感觉。&lt;/p&gt;
-&lt;p&gt;&amp;lt;video width=&amp;quot;600&amp;quot; controls&amp;gt;&lt;br /&gt;
-&amp;lt;source type=&amp;quot;video/mp4&amp;quot; src=&amp;quot;/images/journal/video-20230528-230033.mp4&amp;quot;&amp;gt;&lt;br /&gt;
- 您的浏览器不支持 video 标签。&lt;br /&gt;
-&amp;lt;/video&amp;gt;&lt;br /&gt;
-&amp;lt;br/&amp;gt;&lt;/p&gt;
+&lt;video width=&#34;600&#34; controls&gt;
+  &lt;source type=&#34;video/mp4&#34; src=&#34;/images/journal/video-20230528-230033.mp4&#34;&gt;
+  您的浏览器不支持 video 标签。
+&lt;/video&gt;
+&lt;br/&gt;
 &lt;p&gt;过去一年，逐渐变得焦虑，睡眠质量也差了好多。每次看到有人因为工作而猝死，就会想：我们上辈子到底造了什么孽？这辈子要天天拼命上班，拼命加班！Fuck，老子不干了！&lt;/p&gt;
 &lt;p&gt;一辈子很短，要多运动、多休息，专注地去做你觉得有趣的事情，一定会是一个丰富而生动的人生！&lt;/p&gt;
 </content>
@@ -546,7 +549,7 @@
         <link rel="alternate" href="https://luhuadong.com/journal/20220712.html"/>
         <content type="html">&lt;p&gt;今天在折腾&lt;a href=&#34;https://www.nuvoton.com&#34;&gt;新唐科技&lt;/a&gt;（nuvoTon）提供的 &lt;a href=&#34;https://getiot.tech/numaker/numaker-hmi-n9h30-intro.html&#34;&gt;NuMaker-HMI-N9H30&lt;/a&gt; 开发板时，准备编译 RT-Thread 的 BSP 包，添加了 LVGL 软件包，下载了交叉编译工具链...... 一顿操作猛如虎，结果出现了好一些 Bug！比如下面这个：&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;命令行&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;CC packages/LVGL-latest/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.o&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;packages/LVGL-latest/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c:5:10: fatal error: lvgl/lvgl.h: No such &lt;span class=&#34;token function&#34;&gt;file&lt;/span&gt; or directory&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; &lt;span class=&#34;token comment&#34;&gt;#include &#34;lvgl/lvgl.h&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;          ^~~~~~~~~~~~~&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;compilation terminated.&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;跟着查了代码，发现头文件确实没处理好，于是顺手修复了 Bug 并且提交了合并请求（&lt;a href=&#34;https://github.com/lvgl/lvgl/pull/3477&#34;&gt;PR #3477&lt;/a&gt;）。几个小时后，&lt;a href=&#34;https://github.com/lvgl/lvgl&#34;&gt;LVGL&lt;/a&gt; 项目的创始人 &lt;a href=&#34;https://github.com/kisvegabor&#34;&gt;Gabor Kiss-Vamosi&lt;/a&gt; 合并了我的提交，开心！就这样，我成为了 LVGL 开源项目的第 263 位贡献者。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/journal/20220712_lvgl_contributor.png&amp;quot; width=800 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20220712_lvgl_contributor.png&#34; width=800 /&gt;
 &lt;p&gt;后来，我又发现了 RT-Thread 软件包中的一个 Bug，居然隐藏了 LVGL 的版本选择，导致 NuMaker-HMI-N9H30 没法使用 BSP 包中要求的 v8.2.0 版本。于是，我又顺手修复了 Bug 并且向 RT-Thread 的 &lt;a href=&#34;https://github.com/RT-Thread/packages&#34;&gt;packages&lt;/a&gt; 仓库提交了合并请求（&lt;a href=&#34;https://github.com/RT-Thread/packages/pull/1300&#34;&gt;PR #1300&lt;/a&gt;）。&lt;/p&gt;
 &lt;p&gt;软件工程是一项很细致的工作，稍不注意或者考虑不周，很容易就产生 Bug。虽然这两个 Bug 都是小问题，但是如果初学者碰到了，就会很疑惑 —— 开源软件怎么这么多 bug？也不知道怎么解决，然后可能就不用了。&lt;/p&gt;
 &lt;p&gt;看到 Bug 尽量修复，是一名开源软件工程师的基本修养！希望开源生态越来越好啦～&lt;/p&gt;
@@ -660,11 +663,11 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
         <title>唐山烧烤店打人事件太让人气愤了！</title>
         <link rel="alternate" href="https://luhuadong.com/journal/20220611.html"/>
         <content type="html">&lt;p&gt;有朋友问我对 &lt;a href=&#34;https://s.weibo.com/weibo/%23%E5%94%90%E5%B1%B1%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6%23&#34;&gt;唐山打人事件&lt;/a&gt; 怎么看？其实我没看完一个视频，因为这种事情太让人气愤了！我怕我看完久久不能平复心情。所以只是在微博上点赞转发，提高热度和社会关注。&lt;/p&gt;
-&lt;p&gt;记得两年前，有一天晚上和家人逛超市，刚好看到有一个小偷在偷前面那个女孩的手机。其实不止我一个人看到，小偷可能也发现不妙，于是放弃了偷盗行为，然后跑开了。我见状马上追了上去，把他逼到二楼一个墙角，准备开干，结果他从二楼直接跳下去了…… 我妈后面追上我，说她腿都软了 &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;joy&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f602.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f602.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😂&amp;lt;/span&amp;gt; 我跟她说：别害怕，我比他大一号，单挑我肯定能赢！我妈说：要是他有刀怎么办？……&lt;/p&gt;
+&lt;p&gt;记得两年前，有一天晚上和家人逛超市，刚好看到有一个小偷在偷前面那个女孩的手机。其实不止我一个人看到，小偷可能也发现不妙，于是放弃了偷盗行为，然后跑开了。我见状马上追了上去，把他逼到二楼一个墙角，准备开干，结果他从二楼直接跳下去了…… 我妈后面追上我，说她腿都软了 &lt;span class=&#34;github-emoji&#34; alias=&#34;joy&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f602.png?v8&#34;&gt;😂&lt;/span&gt; 我跟她说：别害怕，我比他大一号，单挑我肯定能赢！我妈说：要是他有刀怎么办？……&lt;/p&gt;
 &lt;p&gt;其实我的成长环境也充满了暴力，贫穷落后地区嘛，经常发生打架斗殴、吸毒…… 我记得我在镇上读初中那几年，每周五下午放学，路口都会有警车驻守，因为总是有各个学校的不同帮派约架。我的一个同桌就是别人打到退学的，听说手都被打断了。还有一个同学也是小混混，他爸是当地教育局的官员，老师拿他没办法，他还经常给我讲他们的犯罪计划…… 还说他会罩着我，这样就不会有人欺负我，不过后来他也因为一起打人事件转校了。因为我那时候的成绩特别好（基本上都是全校第一名），所以平安地度过了那段黑暗时光。我还为此写过一本小说《正义大冒险》。&lt;/p&gt;
-&lt;p&gt;正义从来都不是轻易得到的，我们要在斗争中学会斗争，敢于斗争，善于斗争！于我而言，我能做的就是不断提高自己的学识，掌握法律武器，强身健体。当身边发生不好的事情时，尽我所能地行动，保护好身边的人。比如说，下次在餐厅吃饭看到有人抽烟，就要大声地跟他们说：请不要在这里抽烟！我们真的很介意！&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;no_smoking&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f6ad.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f6ad.png?v8&lt;/a&gt;&amp;quot;&amp;gt;🚭&amp;lt;/span&amp;gt;&lt;/p&gt;
-&lt;p&gt;最后，希望国家司法机关能对唐山打人事件的施暴者及其背后的保护伞从重处罚，那是我们国家可可爱爱的女孩们啊！&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;angry&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😠&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;angry&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😠&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;angry&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😠&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;angry&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😠&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;angry&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😠&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;angry&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😠&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;angry&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😠&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;angry&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😠&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;angry&amp;quot; style=&amp;quot;&amp;quot; fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&lt;/a&gt;&amp;quot;&amp;gt;😠&amp;lt;/span&amp;gt;&lt;/p&gt;
-&lt;p&gt;被气到了，今天加 200 个俯卧撑 &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;muscle&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png?v8&lt;/a&gt;&amp;quot;&amp;gt;💪&amp;lt;/span&amp;gt;&lt;/p&gt;
+&lt;p&gt;正义从来都不是轻易得到的，我们要在斗争中学会斗争，敢于斗争，善于斗争！于我而言，我能做的就是不断提高自己的学识，掌握法律武器，强身健体。当身边发生不好的事情时，尽我所能地行动，保护好身边的人。比如说，下次在餐厅吃饭看到有人抽烟，就要大声地跟他们说：请不要在这里抽烟！我们真的很介意！&lt;span class=&#34;github-emoji&#34; alias=&#34;no_smoking&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f6ad.png?v8&#34;&gt;🚭&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;最后，希望国家司法机关能对唐山打人事件的施暴者及其背后的保护伞从重处罚，那是我们国家可可爱爱的女孩们啊！&lt;span class=&#34;github-emoji&#34; alias=&#34;angry&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;😠&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;angry&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;😠&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;angry&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;😠&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;angry&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;😠&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;angry&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;😠&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;angry&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;😠&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;angry&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;😠&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;angry&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;😠&lt;/span&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;angry&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f620.png?v8&#34;&gt;😠&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;被气到了，今天加 200 个俯卧撑 &lt;span class=&#34;github-emoji&#34; alias=&#34;muscle&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png?v8&#34;&gt;💪&lt;/span&gt;&lt;/p&gt;
 </content>
         <category term="日记" />
         <updated>2022-06-11T10:46:35.000Z</updated>
@@ -673,7 +676,7 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
         <id>https://luhuadong.com/journal/20220610.html</id>
         <title>成为一名女权主义者</title>
         <link rel="alternate" href="https://luhuadong.com/journal/20220610.html"/>
-        <content type="html">&lt;p&gt;继成为开源主义者、环保主义者之后，今天又立志成为一名女权主义者（Feminist） &amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;muscle&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png?v8&lt;/a&gt;&amp;quot;&amp;gt;💪&amp;lt;/span&amp;gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;继成为开源主义者、环保主义者之后，今天又立志成为一名女权主义者（Feminist） &lt;span class=&#34;github-emoji&#34; alias=&#34;muscle&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png?v8&#34;&gt;💪&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;XX 主义听起来有点严肃，但其实就真的是很严肃的问题！&lt;/p&gt;
 &lt;p&gt;我也很好奇为什么那么多人对恶意软件熟视无睹？为什么那么多人对每天产生的大量垃圾熟视无睹？为什么那么多人对弱势群体遭受的不公熟视无睹？&lt;/p&gt;
 &lt;p&gt;开源、环保、女权这三者看起来完全不搭边，但其实它们的核心诉求都是一致的 —— 自由、平等、正义。从广义上来说，它们都是可持续生活的一部分。&lt;/p&gt;
@@ -711,10 +714,10 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
 &lt;li&gt;和平、正义和强大机构&lt;/li&gt;
 &lt;li&gt;促进目标实现的伙伴关系&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;SDG 目标看起来很宏大，离我们很远，但其实离我们很近。比如说我现在从事的智能电动汽车研发工作，研究汽车无人驾驶，看起来只是一份普通的工程技术类工作，但其实它和 SDG 第 9 个目标非常紧密！&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;eyes&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f440.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f440.png?v8&lt;/a&gt;&amp;quot;&amp;gt;👀&amp;lt;/span&amp;gt;&lt;/p&gt;
+&lt;p&gt;SDG 目标看起来很宏大，离我们很远，但其实离我们很近。比如说我现在从事的智能电动汽车研发工作，研究汽车无人驾驶，看起来只是一份普通的工程技术类工作，但其实它和 SDG 第 9 个目标非常紧密！&lt;span class=&#34;github-emoji&#34; alias=&#34;eyes&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f440.png?v8&#34;&gt;👀&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;产业、创新和基础设施&lt;/strong&gt;：修建可靠的基础设施，促进包容、可持续的工业化发展，促进创新。&lt;/p&gt;
 &lt;p&gt;生产一辆汽车需要消耗很多资源，使用过程中还需要不断消耗化石燃料或者电能。除此之外，为了停车，城市必须拿出大量的土地用作停车场！从这一角度来看，发展并且早日实现汽车的电动化、智能化，实现无人驾驶和大规模的按需运输，实际上就能帮助我们摆脱这种巨大的浪费。&lt;/p&gt;
-&lt;p&gt;每当想到这里，我就会对现在的工作充满了动力！我在为实现 SDG、实现碳中和努力工作，这真的太酷了！&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;fist_oncoming&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png?v8&lt;/a&gt;&amp;quot;&amp;gt;👊&amp;lt;/span&amp;gt;&lt;/p&gt;
+&lt;p&gt;每当想到这里，我就会对现在的工作充满了动力！我在为实现 SDG、实现碳中和努力工作，这真的太酷了！&lt;span class=&#34;github-emoji&#34; alias=&#34;fist_oncoming&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png?v8&#34;&gt;👊&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/zerowaste/SDGs-poster-768x456.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="可持续" />
@@ -729,7 +732,7 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
 &lt;p&gt;这是加拿大多伦多大学心理学教师乔丹・彼得森（Jordan Peterson）提出的问题，这个问题不好回答，因为需要直面人生。尤其是对于没有充分发挥天赋的人来说，把不成功的理由归咎到自己身上，是一件很难的事情。&lt;/p&gt;
 &lt;p&gt;上大学已经是十年前的事情了，所以这个问题我也很尴尬。曾经的天马行空，曾经的初生牛犊不怕虎，在这十年间一点点消磨，庆幸的是还好没有殆尽。我依然有很多想法，我依然热爱学习，依然热爱生活，但显然我的执行力出现了问题。究其原因，这十年间，我还是浪费了太多时间，没有足够努力，没有把握机会。&lt;/p&gt;
 &lt;p&gt;OK，我们来看看 Jordan Peterson 教授的一个演讲片段：&lt;/p&gt;
-&lt;p&gt;&amp;lt;iframe src=&amp;quot;&lt;a href=&#34;//player.bilibili.com/player.html?aid=77560997&amp;amp;bvid=BV1mJ411Q7aF&amp;amp;cid=132686191&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&#34;&gt;//player.bilibili.com/player.html?aid=77560997&amp;amp;bvid=BV1mJ411Q7aF&amp;amp;cid=132686191&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&lt;/a&gt;&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot; width=&amp;quot;100%&amp;quot; height=&amp;quot;500&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=77560997&amp;bvid=BV1mJ411Q7aF&amp;cid=132686191&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;So，在我的世界里，我很重要！珍惜时间，提高效率，把握机会，去成为那个你想成为的人！&lt;/p&gt;
 </content>
         <category term="日记" />

@@ -15,19 +15,19 @@
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
+    <category term="种植" />
     <category term="英语" />
     <category term="成长" />
     <category term="英语短文" />
     <category term="学习" />
-    <category term="种植" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="健身" />
     <category term="气象爱好者" />
     <category term="指南" />
@@ -50,6 +50,8 @@
     <category term="开发者" />
     <category term="职业" />
     <category term="时间管理" />
+    <category term="地铁" />
+    <category term="Markdown" />
     <category term="milestone" />
     <category term="总结" />
     <category term="年终总结" />
@@ -66,8 +68,6 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
-    <category term="Markdown" />
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
@@ -81,9 +81,9 @@
     <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
+    <category term="素食" />
     <category term="亲密关系" />
     <category term="农业" />
-    <category term="素食" />
     <category term="性格测试" />
     <category term="报告" />
     <category term="TED" />
@@ -106,10 +106,13 @@
 &lt;/blockquote&gt;
 &lt;p&gt;事业太大，需要慢慢做，还是先找对象结婚吧。&lt;/p&gt;
 &lt;p&gt;对另一半的需求？&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;性需求&lt;/li&gt;
-&lt;li&gt;有相同的理念&lt;/li&gt;
-&lt;/ul&gt;
+&lt;!--
+
+性需求
+
+有相同的理念
+
+--&gt;
 </content>
         <category term="思考" />
         <category term="日记" />
@@ -413,10 +416,10 @@
         <id>https://luhuadong.com/journal/20210315.html</id>
         <title>丑苹果</title>
         <link rel="alternate" href="https://luhuadong.com/journal/20210315.html"/>
-        <content type="html">&lt;p&gt;&amp;lt;img src=&amp;quot;/images/diary/ugly-apple-01.jpeg&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
+        <content type="html">&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/ugly-apple-01.jpeg&#34; width=600 /&gt;
 &lt;p&gt;35 块买了一箱丑苹果，为了放苹果，收拾了一下，终于腾出了小餐桌。苹果虽然丑了点，却包裹着一颗超甜的冰糖心，突然有点心疼丑果。好像人类社会也一样，不仅要有实力，还要懂得自我营销才行。&lt;/p&gt;
 &lt;p&gt;以前租房子只会整理两次，第一次是搬进去那天，第二次是搬走那天，现在才发现原来整理东西真的会解压，整理物品的同时也在整理人生。周末删了几十个群、几千张照片和躺在硬盘里的那堆过期代码...... 那些曾经以为是资产的东西，原来是负债。嗯，还是简单一点好。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/diary/ugly-apple-02.jpeg&amp;quot; width=600 /&amp;gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/ugly-apple-02.jpeg&#34; width=600 /&gt;
 </content>
         <category term="思考" />
         <updated>2021-03-14T16:47:09.000Z</updated>

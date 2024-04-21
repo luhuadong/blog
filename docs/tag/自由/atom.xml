@@ -15,19 +15,19 @@
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
+    <category term="种植" />
     <category term="英语" />
     <category term="成长" />
     <category term="英语短文" />
     <category term="学习" />
-    <category term="种植" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="健身" />
     <category term="气象爱好者" />
     <category term="指南" />
@@ -50,6 +50,8 @@
     <category term="开发者" />
     <category term="职业" />
     <category term="时间管理" />
+    <category term="地铁" />
+    <category term="Markdown" />
     <category term="milestone" />
     <category term="总结" />
     <category term="年终总结" />
@@ -66,8 +68,6 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
-    <category term="Markdown" />
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
@@ -81,9 +81,9 @@
     <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
+    <category term="素食" />
     <category term="亲密关系" />
     <category term="农业" />
-    <category term="素食" />
     <category term="性格测试" />
     <category term="报告" />
     <category term="TED" />
@@ -101,7 +101,7 @@
         <id>https://luhuadong.com/movies/The-Story-of-Aaron-Swartz.html</id>
         <title>【纪录片】互联网之子（Aaron Swartz）</title>
         <link rel="alternate" href="https://luhuadong.com/movies/The-Story-of-Aaron-Swartz.html"/>
-        <content type="html">&lt;p&gt;&amp;lt;iframe src=&amp;quot;&lt;a href=&#34;//player.bilibili.com/player.html?aid=16549975&amp;amp;bvid=BV1rx411V75r&amp;amp;cid=26994578&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&#34;&gt;//player.bilibili.com/player.html?aid=16549975&amp;amp;bvid=BV1rx411V75r&amp;amp;cid=26994578&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&lt;/a&gt;&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot; width=&amp;quot;100%&amp;quot; height=&amp;quot;500&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+        <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=16549975&amp;bvid=BV1rx411V75r&amp;cid=26994578&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 </content>
         <category term="互联网" />
         <category term="纪录片" />
@@ -112,7 +112,7 @@
         <id>https://luhuadong.com/movies/revolution-os.html</id>
         <title>【纪录片】操作系统革命（Revolution OS）</title>
         <link rel="alternate" href="https://luhuadong.com/movies/revolution-os.html"/>
-        <content type="html">&lt;p&gt;&amp;lt;iframe src=&amp;quot;&lt;a href=&#34;//player.bilibili.com/player.html?aid=796140504&amp;amp;bvid=BV1iC4y187nT&amp;amp;cid=235560964&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&#34;&gt;//player.bilibili.com/player.html?aid=796140504&amp;amp;bvid=BV1iC4y187nT&amp;amp;cid=235560964&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&lt;/a&gt;&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot; width=&amp;quot;100%&amp;quot; height=&amp;quot;500&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+        <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=796140504&amp;bvid=BV1iC4y187nT&amp;cid=235560964&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;非常经典的有关自由软件运动的纪录片&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.revolution-os.com&#34;&gt;http://www.revolution-os.com&lt;/a&gt;&lt;/p&gt;
 </content>
@@ -125,7 +125,7 @@
         <id>https://luhuadong.com/movies/patent-absurdity.html</id>
         <title>【纪录片】软件专利的荒谬性（Patent Absurdity）</title>
         <link rel="alternate" href="https://luhuadong.com/movies/patent-absurdity.html"/>
-        <content type="html">&lt;p&gt;&amp;lt;iframe src=&amp;quot;&lt;a href=&#34;//player.bilibili.com/player.html?aid=15221360&amp;amp;bvid=BV1sx411u7qy&amp;amp;cid=24774214&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&#34;&gt;//player.bilibili.com/player.html?aid=15221360&amp;amp;bvid=BV1sx411u7qy&amp;amp;cid=24774214&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&lt;/a&gt;&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot; width=&amp;quot;100%&amp;quot; height=&amp;quot;500&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+        <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=15221360&amp;bvid=BV1sx411u7qy&amp;cid=24774214&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;官网：&lt;a href=&#34;http://patentabsurdity.com/watch.html&#34;&gt;http://patentabsurdity.com/watch.html&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;导演、拍摄、编辑：Luca Lucarini&lt;/li&gt;
@@ -150,7 +150,7 @@
         <link rel="alternate" href="https://luhuadong.com/movies/dead-poets-society.html"/>
         <content type="html">&lt;h2 id=&#34;电影简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#电影简介&#34;&gt;#&lt;/a&gt; 电影简介&lt;/h2&gt;
 &lt;p&gt;《死亡诗社》是美国 1989 年上映的一部剧情电影，影片展示了关于守旧与创新、现实与浪漫、新人与老人两股势力的较量。每次看都会勾起我心中的波澜，反思现在的生活，变得有力量。&lt;/p&gt;
-&lt;p&gt;&amp;lt;iframe src=&amp;quot;&lt;a href=&#34;//player.bilibili.com/player.html?aid=10112142&amp;amp;bvid=BV1rx411U7xi&amp;amp;cid=16708703&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&#34;&gt;//player.bilibili.com/player.html?aid=10112142&amp;amp;bvid=BV1rx411U7xi&amp;amp;cid=16708703&amp;amp;page=1&amp;amp;high_quality=1&amp;amp;danmaku=0&lt;/a&gt;&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot; width=&amp;quot;100%&amp;quot; height=&amp;quot;500&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=10112142&amp;bvid=BV1rx411U7xi&amp;cid=16708703&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;经典语录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#经典语录&#34;&gt;#&lt;/a&gt; 经典语录&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;I went to the woods because I wanted to live deliberately... I wanted to live deep and suck out all the marrow of life! To put to rout all that was not life... And not when I came to die, discover that I had not lived...&lt;br /&gt;
@@ -158,7 +158,7 @@
 &lt;li&gt;We don&#39;t read and write poetry because it&#39;s cute.We read and write poetry because we are members of the human race.And the human race is filled with passion.And medicine,law,business,engineering,these are noble pursuits and necessary to sustain life.But poetry,beauty,romance,love,these are what we stay alive for.&lt;br /&gt;
  我们读诗写诗，非为它的灵巧。我们读诗写诗，因为我们是人类的一员。而人类充满了热情。医药，法律，商业，工程，这些都是高贵的理想，并且是维生的必需条件。但是诗，美，浪漫，爱，这些才是我们生存的原因。&lt;/li&gt;
 &lt;li&gt;Gather ye rosebuds while ye may, Old time is still a-flying, And this same flower that smiles today, Tomorrow will be dying.&lt;br /&gt;
- 及时采撷你的花蕾，旧时光一去不回，今天尚在微笑的花朵，明日便在风中枯萎。&amp;lt;span class=&amp;quot;github-emoji&amp;quot; alias=&amp;quot;star&amp;quot; style=&amp;quot;&amp;quot;fallback-src=&amp;quot;&lt;a href=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&lt;/a&gt;&amp;quot;&amp;gt;⭐&amp;lt;/span&amp;gt;&lt;/li&gt;
+ 及时采撷你的花蕾，旧时光一去不回，今天尚在微笑的花朵，明日便在风中枯萎。&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;Carpe diem, seize the day. Boys, &lt;strong&gt;make your lives extraordinary.&lt;/strong&gt;&lt;br /&gt;
  人生就应该是快乐的，要抓住每一天。孩子们，让你们的生活变得非凡起来。&lt;/li&gt;
 &lt;li&gt;I want you to find your own walk right now. Your own way of striding, pacing. Any direction. Anything you want. Whether it&#39;s proud, whether it&#39;s silly, anything.&lt;br /&gt;
