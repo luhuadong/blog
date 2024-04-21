@@ -7,22 +7,22 @@
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
-    <category term="商业" />
-    <category term="创业" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="创业" />
+    <category term="商业" />
     <category term="城市规划" />
     <category term="地理" />
     <category term="城市" />
-    <category term="Python" />
-    <category term="教孩子学编程" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
     <category term="种植" />
     <category term="英语" />
     <category term="成长" />
@@ -50,8 +50,6 @@
     <category term="开发者" />
     <category term="职业" />
     <category term="时间管理" />
-    <category term="地铁" />
-    <category term="Markdown" />
     <category term="milestone" />
     <category term="总结" />
     <category term="年终总结" />
@@ -68,6 +66,8 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
+    <category term="地铁" />
+    <category term="Markdown" />
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
@@ -81,9 +81,9 @@
     <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
-    <category term="素食" />
     <category term="亲密关系" />
     <category term="农业" />
+    <category term="素食" />
     <category term="性格测试" />
     <category term="报告" />
     <category term="TED" />
@@ -450,8 +450,8 @@
 &lt;p&gt;总而言之，像我们这样出身贫寒的普通人来说，突破自身思维限制已经相当不容易了，往往还要承受来自家庭的不理解。缺少鼓励，很容易导致缺乏自信，做事自然就很难放得开。所以，“稳中求胜” 未免不是一个顾全大局的好方法。毕竟，如果失败了，我们背后可没有靠山，只有悬崖。&lt;/p&gt;
 &lt;p&gt;先努力成为 T 型人才，** 但不要安于现状，要继续探索，成为最适合你自己的 π 型人才。** 这样，无论是踏踏实实完成本职工作，还是搞副业，或者创业，都更为灵活，人生就有更多可能性。&lt;/p&gt;
 </content>
-        <category term="创业" />
         <category term="职场" />
+        <category term="创业" />
         <updated>2021-10-04T16:49:26.000Z</updated>
     </entry>
     <entry>

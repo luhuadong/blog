@@ -10,22 +10,22 @@
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
-        <category>商业</category>
-        <category>创业</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>创业</category>
+        <category>商业</category>
         <category>城市规划</category>
         <category>地理</category>
         <category>城市</category>
-        <category>Python</category>
-        <category>教孩子学编程</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
+        <category>Python</category>
+        <category>教孩子学编程</category>
         <category>种植</category>
         <category>英语</category>
         <category>成长</category>
@@ -53,8 +53,6 @@
         <category>开发者</category>
         <category>职业</category>
         <category>时间管理</category>
-        <category>地铁</category>
-        <category>Markdown</category>
         <category>milestone</category>
         <category>总结</category>
         <category>年终总结</category>
@@ -71,6 +69,8 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
+        <category>地铁</category>
+        <category>Markdown</category>
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
@@ -84,9 +84,9 @@
         <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>
-        <category>素食</category>
         <category>亲密关系</category>
         <category>农业</category>
+        <category>素食</category>
         <category>性格测试</category>
         <category>报告</category>
         <category>TED</category>
@@ -545,27 +545,67 @@ Forem 提供了一个全面的 RESTful API，允许开发者通过编程方式�
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/journal/monthly-2024-03.html</guid>
-            <title>2024年3月碎碎念：懂很多道理，却依然过不好这一生？</title>
+            <title>2024年3月碎碎念：懂很多道理却依然过不好</title>
             <link>https://luhuadong.com/journal/monthly-2024-03.html</link>
             <category>日记</category>
             <category>月报</category>
             <pubDate>Sat, 06 Apr 2024 12:46:59 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;懂很多道理，却依然过不好这一生？&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;三月思考：为什么好像懂很多道理，却依然过不好这一生？&lt;/p&gt;
+&lt;p&gt;那一定是我自己其实没有真正懂得，我没有对自己诚实，没有对知识诚实。&lt;/p&gt;
+&lt;h2 id=&#34;吃汤圆&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#吃汤圆&#34;&gt;#&lt;/a&gt; 吃汤圆&lt;/h2&gt;
+&lt;p&gt;二月底元宵节回老家和我妈、外公、外婆吃了汤圆，印象中还是参加工作之后第一次和外公外婆吃汤圆。其实也是临时起意想回家吃顿饭的，所以有点匆忙。带上了冰箱里那两包过年的时候买的汤圆，路过商场的时候闻到很香的汤圆馅料的味道，所以又买了一盒现场制作的汤圆。买好汤圆之后，我就给我妈打电话，约她晚上一起去外公外婆家吃饭。所以我得先去接我妈下班，和她一起回去。&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/2024/20240224_201900.jpg&#34; width=&#34;600&#34; /&gt;
+&lt;p&gt;吃完晚饭之后，我妈就开始煮汤圆了。材料很简单，就是清水加白糖，再加汤圆。先煮了现场包的汤圆，每人一碗，香香甜甜的。吃完之后，我们又煮了一包广州酒家的汤圆。结果你猜怎么着，外公外婆一致认为广州酒家的冷藏汤圆比较好吃，口感更加细腻！&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/2024/20240224_201945.jpg&#34; width=&#34;400&#34; /&gt;
+&lt;p&gt;外婆不喜欢外公抽烟，但外公戒不掉，我偷偷拍了几张外公在门外抽烟的照片，哈哈哈～&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/2024/20240224_202035.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;感情失败&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#感情失败&#34;&gt;#&lt;/a&gt; 感情失败&lt;/h2&gt;
-&lt;p&gt;我突然发现，她爱我不是因为我很好，而是因为她很好，因为她有爱人的能力。这就意味着，换了一个人差不多的人，她依然可以像爱我一样爱他。&lt;/p&gt;
+&lt;p&gt;整个三月份其实都挺煎熬的，主要是因为感情问题。其实一二月份就开始煎熬了，问题在于我，我没有百分百投入，没有想清楚，磨磨蹭蹭的，错失了挽回的机会，也伤了她的心。&lt;/p&gt;
+&lt;p&gt;也就是在失去的时候，我才突然发现，原来她爱我不是因为我很好，而是因为她很好，因为她有爱人的能力。这就意味着，换了一个人差不多的人，她依然可以像爱我一样爱他。&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/2024/20240101_chunping.jpg&#34; alt=&#34;她在听陈奕迅的演唱会，我没有陪她&#34; width=&#34;400&#34; /&gt;
+&lt;p&gt;跨年的时候，她去听陈奕迅演唱会了，我没有陪她，而是一个人跑到上海去了。我想，她那时候应该挺失落的吧。&lt;/p&gt;
+&lt;p&gt;这真的是一次深刻的教训，我需要好好反思和总结！&lt;/p&gt;
+&lt;h2 id=&#34;又搬家了&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#又搬家了&#34;&gt;#&lt;/a&gt; 又搬家了&lt;/h2&gt;
+&lt;p&gt;三月份我又搬家了，这是两年来的第五次搬家。因为没有在工作的城市买房，我现在的东西也不多，所以可以经常搬来搬去。在一个地方住久了，就会有一个很茫然的感觉，因为它没有家的感觉，也没有一个人在等我，而我却每天都要回去。可能也是要上班的原因，所以每个工作日从住所出发去公司都要思考一会 —— 我怎么又从这里去那里了？有什么意义呢？&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/2024/20240303_183101.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这次搬家的主要原因是可以省钱，因为公司不是裁员嘛，就有一些人才房腾出来了，刚好公寓的租期快到了，所以我就申请了一个。这个房子的面积和我之前的公寓差不多，但是房租只要一半，还是挺香的。不过嘛，这个房子来得有点晚，都已经进入职场倦怠期了啊！&lt;/p&gt;
+&lt;p&gt;本着能省就省的原则，花了几天时间收拾收拾就搬过去了。然后去宜家采购了新的床上用品和一些小物品，在淘宝买了一张一米八的大桌子，在闲鱼捡了两把椅子、一个冰箱置物架。就这样，又开始了一个人孤独的生活。&lt;/p&gt;
+&lt;h2 id=&#34;恢复运动&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#恢复运动&#34;&gt;#&lt;/a&gt; 恢复运动&lt;/h2&gt;
+&lt;p&gt;因为最近身体能量有点低，所以开始尝试恢复运动。晚上也不加班了，有时候傍晚去公园跑步、打篮球，有时候和同事去打羽毛球，有时候一个人去健身房撸铁。&lt;/p&gt;
+&lt;p&gt;其实公司每周都有组织羽毛球运动，只不过之前工作比较忙一直没怎么去，三月份开始全勤，每次羽毛球活动都去了。暂时还是赢少输多，很多细节做得不好，握拍、发力、转肘、转腕...... 还有脚步移动，都要好好练习。每次被虐完，回去就会刷小红书，在上面看羽毛球教学视频，有感觉到自己在一点点进步啦。&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/2024/20240401_231940.jpg&#34; alt=&#34;开始认真练习打羽毛球&#34; width=&#34;400&#34; /&gt;
+&lt;h2 id=&#34;高速被骗&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#高速被骗&#34;&gt;#&lt;/a&gt; 高速被骗&lt;/h2&gt;
+&lt;p&gt;三月份还发生了一件恶心的事情，就是 24 号那天在高速路上经过花山北立交匝道的时候，遇到一个大姐在招手。我以为她的车子出故障需要帮忙，所以就停下来了。然后她说她从深圳往湖南走，发现忘带手机了，想借点钱交高速费回深圳拿手机。。。好家伙，我当时还真信了，从钱包里面搜了一张 100、一张 50、一张 20、三张 10 元，凑齐 200 元给她了。&lt;/p&gt;
+&lt;p&gt;当时还留了手机号码，说回去一定会把钱还我，说我是好人，别人都不停车就只有我停下车帮忙，非常感谢之类的。前前后后大概 5 分钟吧，后来我就走了。回家吃完晚饭后，我想她应该回到家了吧，怎么还没有电话或者微信联系我呢？于是我把行车记录仪的数据导出来，在网络上搜了一下，100% 确定是骗局了！而且以前就经常发生，当时真想抽自己两巴掌，我怎么这么容易被骗？！&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/2024/20240324-highway-04.png&#34; alt=&#34;高速匝道诈骗&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;其实当天晚上我就报警了，但是因为不在案发地管辖区，所以建议我回广州再报案。第二天我回广州上班，在公司附近的派出所报案了，他们也不管，因为也不在管辖范围内，而且因为不联网，所以没法跨区调取监控信息。反正也就被骗了 200 块，警察可能也不想管吧，这犯罪成本太低了，难怪经常发生！没办法，我一气之下，驱车五十多公里，接近晚上 9 点去到案发地的派出所报案，做笔录、现场勘察，折腾完已经凌晨 1 点了。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/2024/20240325_235121.jpg&#34; alt=&#34;第一次坐警车&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这个过程情绪起伏挺大的，首先是发现被别人利用我的好心的愤怒，然后是连续三四次报案终于才有警察受理，部分警察的态度也比较傲慢，从而进一步激发了我对这件事情一定要追究下去的决心。情绪的转折是在和两名警察去现场勘察的过程，因为那时候已经凌晨了，我们在高速路上饶了两圈才找到案发地。看着他们戴着前照灯，拿着相机和仪器拍照，我突然在想我的行为是不是有点浪费警力？因为我愚昧的善良，导致两名警察和我一起大晚上的在这里，这个过程浪费了多少人力物力，又造成了多少碳排放？&lt;/p&gt;
+&lt;p&gt;两名警察的年纪和我也差不多，勘察完回去路上我们聊了一会，其实他们工作也不容易，要上夜班，一整年都很少休息时间。其中一名警察还问我有没有好工作介绍，哈哈。&lt;/p&gt;
+&lt;p&gt;总之呢，报案之后心态基本恢复正常了。我后来也从另一个角度去思考 —— 也许那个女人目前确实遇到了困难，所以才冒险在高速上骗钱呢？也希望这 200 块能帮助到她吧。（不建议大家也这么想哈）&lt;/p&gt;
+&lt;p&gt;我也把这件事情发在了&lt;a href=&#34;https://www.zhihu.com/question/649992695&#34;&gt;知乎&lt;/a&gt;，希望能被更多人看到，避免上当受骗。因为这类高速诈骗案的犯罪成本实在太低了，所以只能提高警惕，尤其是像我这样的新手车主。知乎上很多网友也给出了很好的建议，包括：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;保持冷静；&lt;/li&gt;
+&lt;li&gt;高速路上不要随意停车；&lt;/li&gt;
+&lt;li&gt;遇到困难直接报警找警察；&lt;/li&gt;
+&lt;li&gt;听到借钱就不要理会，直接走开。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;人心险恶，不要给自己惹麻烦。既浪费自己的时间，又浪费公共资源。这是我这次被骗 200 块得到的教训。&lt;/p&gt;
 &lt;h2 id=&#34;开源峰会&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#开源峰会&#34;&gt;#&lt;/a&gt; 开源峰会&lt;/h2&gt;
-&lt;p&gt;OSPO Summit 和 Dev.Together&lt;/p&gt;
+&lt;p&gt;三月份最后一件值得记录的事，是参加了 28-30 日在深圳举办的第二届 OSPO Summit 和 Dev.Together 开发者大会。不过我是 29 日才去深圳的，所以有很多演讲和分享都没有参与到。OSPO Summit 的中文是 “开源管理办公室年度峰会”，虽然我只参与了一小部分，但收获满满，学习了很多开源治理、安全审查相关知识，也认识了一些新朋友。&lt;/p&gt;
+&lt;p&gt;恰巧的是，前不久我们公司收到了来自 Qt 公司的律师函，说我们没有遵守协议使用 Qt 软件。因此我也算是以个人名义参加活动，同时替公司排忧解难了，而且我还是休自己的年假来参会的，我真是个好员工！&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/2024/20240329_OSPO_01.jpeg&#34; alt=&#34;OSPO Summit 分组讨论&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;30 日的 Dev.Together 更多的是讲开发者关系，还有 AI 大模型相关的一些内容。我突然发现自己不懂的东西好多好多，尤其是 AI 大模型方面，以后要多用 AI 工具，因为 AI 时代真的到来了！&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/2024/20240330_dev_together_001.jpeg&#34; alt=&#34;Dev.Together 2024&#34; /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;羽毛球运动&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#羽毛球运动&#34;&gt;#&lt;/a&gt; 羽毛球运动&lt;/h2&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/2024/20240401_231940.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;值得一提的是，我是因为在小宇宙 App 听「津津乐道」播客才知道最近要举办 OSPO Summit 和 Dev.Together 开发者大会的，而且他们还送了我一张门票。我在会上和新认识的小伙伴聊这件事情的时候，大家都觉得挺神奇的。&lt;/p&gt;
  ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/business/xiaoyuzhoufm.html</guid>
             <title>「小宇宙」的发展历程与启发</title>
             <link>https://luhuadong.com/business/xiaoyuzhoufm.html</link>
-            <category>商业</category>
             <category>创业</category>
+            <category>商业</category>
             <pubDate>Sat, 06 Apr 2024 11:52:14 +0800</pubDate>
             <description><![CDATA[ &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/business/xiaoyuzhoufm-logo.png&#34; width=&#34;300&#34; /&gt;
 &lt;h2 id=&#34;产品简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#产品简介&#34;&gt;#&lt;/a&gt; 产品简介&lt;/h2&gt;
@@ -596,8 +636,8 @@ Forem 提供了一个全面的 RESTful API，允许开发者通过编程方式�
             <guid isPermalink="true">https://luhuadong.com/business/dejavu.html</guid>
             <title>多抓鱼（dejavu）发展历程与启发</title>
             <link>https://luhuadong.com/business/dejavu.html</link>
-            <category>商业</category>
             <category>创业</category>
+            <category>商业</category>
             <pubDate>Sat, 06 Apr 2024 10:32:14 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/business/dejavu-banner.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h2&gt;
@@ -7034,6 +7074,7 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
             <description><![CDATA[ &lt;h2 id=&#34;创始人故事&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#创始人故事&#34;&gt;#&lt;/a&gt; 创始人故事&lt;/h2&gt;
 &lt;p&gt;李想出生于 1981 年，土生土长的石家庄人。李想幼时在河北省石家庄跟着奶奶长大，高中没念完就辍学了。他一直对科技充满兴趣，也喜爱尝试新产品。20 世纪 90 年代，十几岁的李想开始为科技网站撰写产品测评文章，18 岁时便创办了自己的网站泡泡网（&lt;a href=&#34;http://m.pcpop.com/&#34;&gt;PCpop.com&lt;/a&gt;）。这个新网站很快就收到了访问，但没有得到回报，因为在石家庄没有收入机会。2001 年底，李想决定搬到北京。后来这家公司取得了成功，成为中国知名度最高的电子产品测评网站之一，年收入达到数百万美元。&lt;/p&gt;
 &lt;p&gt;但李想的志向不限于此。23 岁时，他剥离了泡泡网的汽车业务并创立了汽车信息门户网站&lt;a href=&#34;https://www.autohome.com.cn/&#34;&gt;汽车之家&lt;/a&gt;。汽车之家一开始只是与 &lt;a href=&#34;http://Edmunds.com&#34;&gt;Edmunds.com&lt;/a&gt; 类似的测评网站，但后来发展成为综合性的网上交易平台，既独立发布新闻和测评报告，也为经销商和生产商建立了可获取大量消费者数据的渠道。汽车之家很快便成为中国最受信赖的汽车资讯平台，并发展成为一家利润丰厚的企业。2013 年 12 月，汽车之家在纽约证交所上市，通过 IPO 筹得 1.33 亿美元，公司估值达 32 亿美元，为李想带来巨大的财富。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/business/lixiang-banner.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;和马斯克一样，李想也是位亲力亲为的 CEO。在汽车之家，他亲自试驾并测评了许多款汽车。他是一位硅谷式的商业巨头，首先是极客，其次才是商人。中国千禧一代对李想仰慕不已，在他们眼中，李想是一位白手起家的成功者，敢于违背中国的教育制度去追求他的梦想。和中国许多其他知名商人不同，李想穿着休闲，行事低调，有意规避贾跃亭或周鸿祎等人的自我推销路数。&lt;/p&gt;
 &lt;h2 id=&#34;理想汽车&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#理想汽车&#34;&gt;#&lt;/a&gt; 理想汽车&lt;/h2&gt;
 &lt;p&gt;车和家正式成立于 2015 年 7 月，由汽车之家创始人李想创立，后更名为理想汽车。&lt;/p&gt;
@@ -7042,6 +7083,7 @@ To be a sailor of the world, bound for all ports.&lt;/p&gt;
 &lt;p&gt;车和家希望针对这些痛点，为用户提供智能电动车解决方案。&lt;/p&gt;
 &lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://m.huxiu.com/article/120298.html&#34;&gt;李想用十六年的创业经验告诉你，如何将一个垂直媒体做到第一名&lt;/a&gt; ⭐&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/56407861&#34;&gt;李想回顾创业 20 年经历的 5 个层次：18 岁前也曾被亲戚认为没有出息&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.laonanren.com/news/2016-10/133100.htm&#34;&gt;车和家 CEO 李想个人资料家庭背景揭秘&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://auto-time.36kr.com/p/1012972850846337&#34;&gt;理想汽车简史&lt;/a&gt;&lt;/li&gt;
@@ -8696,8 +8738,8 @@ STEM 是科学（Science）、技术（Technology）、工程（Engineering）�
             <guid isPermalink="true">https://luhuadong.com/career/win-in-stability-for-ordinary-people.html</guid>
             <title>普通人如何稳中求胜？</title>
             <link>https://luhuadong.com/career/win-in-stability-for-ordinary-people.html</link>
-            <category>创业</category>
             <category>职场</category>
+            <category>创业</category>
             <pubDate>Tue, 05 Oct 2021 00:49:26 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/career/T-sharp.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;引言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#引言&#34;&gt;#&lt;/a&gt; 引言&lt;/h2&gt;
