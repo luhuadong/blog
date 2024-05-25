@@ -5,6 +5,16 @@
     "home_page_url": "https://luhuadong.com",
     "items": [
         {
+            "id": "https://luhuadong.com/map/guangdong-intercity-system-map.html",
+            "url": "https://luhuadong.com/map/guangdong-intercity-system-map.html",
+            "title": "广东城际线路图（2024年最新）",
+            "date_published": "2024-05-25T08:34:39.000Z",
+            "content_html": "<p><img loading=\"lazy\" data-src=\"/images/map/Guangdong-Intercity-System-Map-2024.jpg\" alt=\"\" /></p>\n<p>2024 年 5 月 26 日 12 时，广佛南环、佛莞城际正式开通运营。并与已开通的佛肇城际、莞惠城际首尾相连，实现 “四线” 贯通运营，形成一条全长 258 公里，横跨广州、佛山、肇庆、东莞、惠州 5 座城市。由于采用 “地铁化” 运营，因此也被广大网友称为 “广东地铁”。也就是说，你只需要刷广州地铁羊城通卡，就可以在一天内领略 5 座城市的风光和美食！</p>\n<p>广东城际 “四线” 开通后，以番禺站为中心，向西为广肇城际，向东为广惠城际，全线设 39 座车站。其中，广州 5 座车站、佛山 9 座车站、肇庆 6 座车站、东莞 12 座车站、惠州 7 座车站，列车最高运行时速为 200 公里。</p>\n",
+            "tags": [
+                "城市"
+            ]
+        },
+        {
             "id": "https://luhuadong.com/map/china-railway-highspeed.html",
             "url": "https://luhuadong.com/map/china-railway-highspeed.html",
             "title": "中国高铁线路图（2024年最新）",
