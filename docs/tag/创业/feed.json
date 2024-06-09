@@ -5,6 +5,17 @@
     "home_page_url": "https://luhuadong.com",
     "items": [
         {
+            "id": "https://luhuadong.com/reading/company-of-one.html",
+            "url": "https://luhuadong.com/reading/company-of-one.html",
+            "title": "《一人企业》读书笔记，每个人都应该成为一人企业",
+            "date_published": "2024-06-08T08:45:33.000Z",
+            "content_html": "<blockquote>\n<p>每 5000 个员工中就有至少 250 人是真正的创造者，其中 25 人将成为伟大的内部创业者（或者 “一人企业”）。</p>\n<p>很多大企业中都藏着 “一人企业”。如果企业能够有效培养员工创新和自主工作的技术和热情，将使整个企业受益匪浅。但如果员工的创造性和自由思考的能力被扼杀，他们会迅速转向其他企业或其他企业家。能够激励这样的员工的往往不是金钱或工资待遇，他们更倾向于以一种最适合自己的方式重新打造自己的工作和角色定位。</p>\n</blockquote>\n<blockquote>\n<p>作为一个企业的所有者，他的工作目标不是不断增加收益或者打败竞争对手，而是创造越来越好的产品和服务，让其消费者在生活和工作中收益。</p>\n</blockquote>\n<blockquote>\n<p>对 “一人企业” 来说，要回答的问题永远是 “我要怎样做才能让我的企业变得更好”，而不是 “我要怎样做才能让我的企业变大”。</p>\n</blockquote>\n",
+            "tags": [
+                "创业",
+                "读书笔记"
+            ]
+        },
+        {
             "id": "https://luhuadong.com/startup/register-company.html",
             "url": "https://luhuadong.com/startup/register-company.html",
             "title": "如何注册一家新公司？",
