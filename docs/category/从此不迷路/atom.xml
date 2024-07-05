@@ -140,7 +140,52 @@ https://weibo.com/ttarticle/p/show?id=2309404859631611805768
         <id>https://luhuadong.com/map/metro-urumqi.html</id>
         <title>乌鲁木齐地铁线路图（2024年最新）</title>
         <link rel="alternate" href="https://luhuadong.com/map/metro-urumqi.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-urumqi.png&#34; alt=&#34;乌鲁木齐地铁线路图&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;乌鲁木齐是西北地区第二个开通运营地铁的城市。目前运营线路共有 1 条，即乌鲁木齐地铁 1 号线，线路长度 27.615 公里，共设 21 座车站。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-urumqi.png&#34; alt=&#34;乌鲁木齐地铁线路图&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="城市" />
+        <category term="地铁" />
+        <updated>2023-04-28T19:50:14.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/map/metro-changchun.html</id>
+        <title>长春地铁线路图（2024年最新）</title>
+        <link rel="alternate" href="https://luhuadong.com/map/metro-changchun.html"/>
+        <content type="html">&lt;p&gt;长春是中国内地第五座开通城市轨道交通的城市，首条线路于 2002 年 10 月 30 日开通试运营。目前，长春轨道交通运营线路共有 6 条，分别为长春轨道交通 1 号线、2 号线、3 号线、4 号线、6 号线、8 号线，运营里程 140.8 公里，共设车站 111 座。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-changchun.png&#34; alt=&#34;长春地铁线路图&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="城市" />
+        <category term="地铁" />
+        <updated>2023-04-28T19:50:14.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/map/metro-shenyang.html</id>
+        <title>沈阳地铁线路图（2024年最新）</title>
+        <link rel="alternate" href="https://luhuadong.com/map/metro-shenyang.html"/>
+        <content type="html">&lt;p&gt;沈阳是中国内地第十一座开通轨道交通的城市，首条线路于 2010 年 9 月 27 日开通试运营。目前，沈阳地铁运营线路共有五条，分别为 1 号线、2 号线、4 号线、9 号线、10 号线，运营里程 165 公里，共设车站 111 座。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-shenyang.jpg&#34; alt=&#34;沈阳地铁线路图&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="城市" />
+        <category term="地铁" />
+        <updated>2023-04-28T19:50:14.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/map/metro-harbin.html</id>
+        <title>哈尔滨地铁线路图（2024年最新）</title>
+        <link rel="alternate" href="https://luhuadong.com/map/metro-harbin.html"/>
+        <content type="html">&lt;p&gt;哈尔滨是中国首个建有高寒地铁系统的城市，其首条线路于 2013 年 9 月 26 日开通试运营。目前，哈尔滨地铁开通运营线路共有 3 条，分别为 1 号线、2 号线、3 号线，里程长度共计 82.91 公里，共设车站 66 座。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-harbin.png&#34; alt=&#34;哈尔滨地铁线路图&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="城市" />
+        <category term="地铁" />
+        <updated>2023-04-28T19:50:14.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/map/metro-dalian.html</id>
+        <title>大连地铁线路图（2024年最新）</title>
+        <link rel="alternate" href="https://luhuadong.com/map/metro-dalian.html"/>
+        <content type="html">&lt;p&gt;大连是中国内地第六座、辽宁省首座开通轨道交通的城市，首条大连地铁 3 号线于 2003 年 5 月 1 日正式开通运营。目前，大连地铁运营线路共有 6 条，运营里程共计 237.07 公里，共设车站 99 座。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-dalian.png&#34; alt=&#34;大连地铁线路图&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="城市" />
         <category term="地铁" />
@@ -297,7 +342,9 @@ https://weibo.com/ttarticle/p/show?id=2309404859631611805768
         <id>https://luhuadong.com/map/metro-singapore.html</id>
         <title>新加坡地铁线路图（2024年最新）</title>
         <link rel="alternate" href="https://luhuadong.com/map/metro-singapore.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-singapore-2022.png&#34; alt=&#34;新加坡地铁线路图&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;新加坡地铁又叫大众捷运系统（Mass Rapid Transport，简称 MRT），于 1987 年正式开通运营。目前设有 113 个地铁车站，总共 148.9 公里的标准轨距线路，分为 6 条路线：东西线（绿线）、南北线（红线）、东北线（紫线）、环线（橘黄）、滨海市区线（蓝线）、汤申 - 东海岸线（棕线）。&lt;/p&gt;
+&lt;p&gt;新加坡地铁从早上 5 点 30 起至凌晨 1 点结束，班次约 1 到 5 分钟一次，是世界上最为繁忙的公共交通系统之一。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-singapore-2022.png&#34; alt=&#34;新加坡地铁线路图&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="城市" />
         <category term="地铁" />
@@ -307,7 +354,8 @@ https://weibo.com/ttarticle/p/show?id=2309404859631611805768
         <id>https://luhuadong.com/map/metro-paris.html</id>
         <title>巴黎地铁线路图（2024年最新）</title>
         <link rel="alternate" href="https://luhuadong.com/map/metro-paris.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-paris.gif&#34; alt=&#34;巴黎地铁线路图&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;巴黎地铁历史悠久，于 1900 年起运行至今，目前总长度为 226.9 公里，包含 14 条主线和 2 条支线，共 16 条线路，合计 308 个车站。巴黎地铁主要行走在巴黎市区和近郊的小范围都会圈，车站平均站距仅 548 米，这决定了列车只能以中低时速行走较短的路程。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-paris.gif&#34; alt=&#34;巴黎地铁线路图&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="城市" />
         <category term="地铁" />
@@ -317,7 +365,8 @@ https://weibo.com/ttarticle/p/show?id=2309404859631611805768
         <id>https://luhuadong.com/map/metro-taichung.html</id>
         <title>台中地铁线路图（2024年最新）</title>
         <link rel="alternate" href="https://luhuadong.com/map/metro-taichung.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-taichung.png&#34; alt=&#34;台中地铁线路图&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;台中捷运（Taichung Mass Rapid Transit，TMRT）全称台中都会区大众捷运系统，简称 “中捷”。首条线路台中捷运绿线于 2021 年 4 月 25 日开通运营。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-taichung.png&#34; alt=&#34;台中地铁线路图&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="城市" />
         <category term="地铁" />
@@ -327,7 +376,8 @@ https://weibo.com/ttarticle/p/show?id=2309404859631611805768
         <id>https://luhuadong.com/map/metro-taipei.html</id>
         <title>台北地铁线路图（2024年最新）</title>
         <link rel="alternate" href="https://luhuadong.com/map/metro-taipei.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-taipei.jpg&#34; alt=&#34;台北地铁线路图&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;台北是台湾省第一座开通地铁运营的城市，台北地铁也称为 “台北捷运”（Metro Taipei），全称台北都会区大众捷运系统（Taipei Rapid Transit System），第一条线路于 1996 年 3 月 28 日开通试运营。目前，台北捷运运营线路共有 8 条（6 条主线 + 2 条支线），即 BR 文湖线、R 淡水信义线、G 松山新店线、O 中和新芦线、BL 板南线、Y 环状线、新北投支线、小碧潭支线。台北捷运总里程为 151.9 公里，共设车站 117 座。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-taipei.jpg&#34; alt=&#34;台北地铁线路图&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="城市" />
         <category term="地铁" />
@@ -337,7 +387,8 @@ https://weibo.com/ttarticle/p/show?id=2309404859631611805768
         <id>https://luhuadong.com/map/metro-chongqing.html</id>
         <title>重庆地铁线路图（2024年最新）</title>
         <link rel="alternate" href="https://luhuadong.com/map/metro-chongqing.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-chongqing-2023.png&#34; alt=&#34;重庆地铁线路图&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;重庆是中国内地第九座、西部地区第一座开通城市轨道交通的城市，第一条线路于 2005 年 6 月 18 日开通试运营。截至 2023 年 12 月，重庆轨道交通已开通 12 条线路，包括重庆轨道交通环线、1 号线、2 号线、3 号线、4 号线、5 号线、6 号线、国博线、9 号线、10 号线、18 号线、市郊铁路江跳线，运营里程 538 千米，共设车站 256 座。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-chongqing-2023.png&#34; alt=&#34;重庆地铁线路图&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="城市" />
         <category term="地铁" />
@@ -345,9 +396,44 @@ https://weibo.com/ttarticle/p/show?id=2309404859631611805768
     </entry>
     <entry>
         <id>https://luhuadong.com/map/metro-beijing.html</id>
-        <title>北京地铁线路图（2023年最新）</title>
+        <title>北京地铁线路图（2024年最新）</title>
         <link rel="alternate" href="https://luhuadong.com/map/metro-beijing.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-beijing-2023.png&#34; alt=&#34;北京地铁线路图&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;北京地铁的规划始于 1953 年，始建于 1965 年，最早的线路竣工于 1969 年，是大中华地区首个地铁系统。截至 2023 年 12 月，北京地铁已开通的线路包括 1 号线、2 号线、4 号线、5 号线、6 号线、7 号线、8 号线、9 号线、10 号线、11 号线、13 号线、14 号线、15 号线、16 号线、17 号线、19 号线、八通线、大兴线、昌平线、亦庄线、房山线、燕房线、S1 线、首都机场线、大兴机场线、西郊线和亦庄 T1 线，运营线路总里程 836 公里，共有 494 座运营车站。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-beijing-2023.png&#34; alt=&#34;北京地铁线路图&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;注：北京地铁 3 号线预计于 2024 年 9 月开通运营一期。&lt;/p&gt;
+</content>
+        <category term="城市" />
+        <category term="地铁" />
+        <updated>2017-09-16T07:37:28.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/map/metro-tianjin.html</id>
+        <title>天津地铁线路图（2024年最新）</title>
+        <link rel="alternate" href="https://luhuadong.com/map/metro-tianjin.html"/>
+        <content type="html">&lt;p&gt;天津是中国内地第二座开通城市轨道交通的城市，首条线路于 1984 年 12 月 28 日开通运营。截至 2023 年 12 月，天津轨道交通运营线路共 10 条，分别为天津轨道交通 1 号线、2 号线、3 号线、4 号线、5 号线、6 号线、6 号线二期、9 号线、10 号线、11 号线，运营里程 309.94 千米，车站 192 座。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-tianjin.jpg&#34; alt=&#34;天津地铁线路图&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="城市" />
+        <category term="地铁" />
+        <updated>2017-09-16T07:37:28.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/map/metro-xiamen.html</id>
+        <title>厦门地铁线路图（2024年最新）</title>
+        <link rel="alternate" href="https://luhuadong.com/map/metro-xiamen.html"/>
+        <content type="html">&lt;p&gt;厦门地铁于 2017 年 12 月 31 日开通运营，厦门也成为了中国第 35 个、福建省第 2 个开通地铁的城市。截至 2024 年 5 月，厦门地铁开通运营线路共有 3 条，包括 1 号线、2 号线、3 号线，里程总长 98.4 千米，共设车站 77 座。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-xiamen.png&#34; alt=&#34;厦门地铁线路图&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="城市" />
+        <category term="地铁" />
+        <updated>2017-09-16T07:37:28.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/map/metro-fuzhou.html</id>
+        <title>福州地铁线路图（2024年最新）</title>
+        <link rel="alternate" href="https://luhuadong.com/map/metro-fuzhou.html"/>
+        <content type="html">&lt;p&gt;福州地铁于 2016 年 5 月 18 日开通运营，福州也成为了中国第 25 个、福建省首个开通地铁的城市。截至 2023 年 8 月，福州地铁运营线路共有 5 条，包括 1 号线、2 号线、4 号线、5 号线和 6 号线，里程总长 140 千米，共设车站 92 座。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-fuzhou.png&#34; alt=&#34;福州地铁线路图&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="城市" />
         <category term="地铁" />
@@ -357,7 +443,8 @@ https://weibo.com/ttarticle/p/show?id=2309404859631611805768
         <id>https://luhuadong.com/map/metro-nanjing.html</id>
         <title>南京地铁线路图（2024年最新）</title>
         <link rel="alternate" href="https://luhuadong.com/map/metro-nanjing.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-nanjing-2024.gif&#34; alt=&#34;南京地铁线路图&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;南京地铁于 2005 年 5 月 15 日开通运营，截至 2024 年 3 月，南京地铁已开通运营线路共有 13 条，包括 1、2、3、4、5、7、10、S1、S3、S6、S7、S8 及 S9 号线，共 226 座车站，地铁线路总长 473 千米。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-nanjing-2024.gif&#34; alt=&#34;南京地铁线路图&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="城市" />
         <category term="地铁" />
@@ -367,7 +454,8 @@ https://weibo.com/ttarticle/p/show?id=2309404859631611805768
         <id>https://luhuadong.com/map/metro-suzhou.html</id>
         <title>苏州地铁线路图（2024年最新）</title>
         <link rel="alternate" href="https://luhuadong.com/map/metro-suzhou.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-suzhou-2024.gif&#34; alt=&#34;苏州地铁线路图&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;苏州是中国内地第十五座、江苏省第二座开通城市轨道交通的城市。截至 2024 年 6 月，苏州轨道交通运营线路共 7 条，分别为 1 号线、2 号线、3 号线、4 号线及支线、5 号线、6 号线、11 号线，运营里程 287 公里，共有 228 座车站。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-suzhou-2024.gif&#34; alt=&#34;苏州地铁线路图&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="城市" />
         <category term="地铁" />
@@ -377,7 +465,8 @@ https://weibo.com/ttarticle/p/show?id=2309404859631611805768
         <id>https://luhuadong.com/map/metro-hangzhou.html</id>
         <title>杭州地铁线路图（2024年最新）</title>
         <link rel="alternate" href="https://luhuadong.com/map/metro-hangzhou.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-hangzhou-2023.gif&#34; alt=&#34;杭州地铁线路图&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;杭州是华东地区第四个、浙江省首个开通地铁的城市，杭州地铁 1 号线于 2012 年 11 月 24 日正式开通。截至 2023 年 11 月，杭州地铁运营线路共 12 条，共设车站 260 座，运营里程共计约 516 千米。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-hangzhou-2023.gif&#34; alt=&#34;杭州地铁线路图&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="城市" />
         <category term="地铁" />
@@ -387,7 +476,8 @@ https://weibo.com/ttarticle/p/show?id=2309404859631611805768
         <id>https://luhuadong.com/map/metro-shanghai.html</id>
         <title>上海地铁线路图（2024年最新）</title>
         <link rel="alternate" href="https://luhuadong.com/map/metro-shanghai.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-shanghai-2024.gif&#34; alt=&#34;上海地铁线路图&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;上海是中国内地第三座、南方地区首座开通城市轨道交通的城市，首条线路上海地铁 1 号线于 1993 年 5 月 28 日正式运营。目前，上海地铁运营线路共 20 条，共设车站 508 座，运营里程共 831 千米（含磁浮线，不含金山铁路）。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-shanghai-2024.gif&#34; alt=&#34;上海地铁线路图&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="城市" />
         <category term="地铁" />
@@ -397,7 +487,8 @@ https://weibo.com/ttarticle/p/show?id=2309404859631611805768
         <id>https://luhuadong.com/map/metro-chengdu.html</id>
         <title>成都地铁线路图（2024年最新）</title>
         <link rel="alternate" href="https://luhuadong.com/map/metro-chengdu.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-chengdu.gif&#34; alt=&#34;成都地铁线路图&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;成都是中国内地第十二座开通城市轨道交通的城市，首条线路成都地铁 1 号线于 2010 年 9 月 27 日正式开通。截至 2024 年 4 月，成都地铁共开通 13 条线路，线路总长 562.13 千米，共计 335 座车站投入运营。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-chengdu.gif&#34; alt=&#34;成都地铁线路图&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="城市" />
         <category term="地铁" />
@@ -407,7 +498,8 @@ https://weibo.com/ttarticle/p/show?id=2309404859631611805768
         <id>https://luhuadong.com/map/metro-macau.html</id>
         <title>澳门地铁线路图（2024年最新）</title>
         <link rel="alternate" href="https://luhuadong.com/map/metro-macau.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-macau-2024.jpg&#34; alt=&#34;澳门地铁线路图&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;目前，澳门轻轨运营线路共有 1 条，即澳门轻轨氹仔线，于 2019 年 12 月 10 日开通运营，运营里程为 12.5 千米，共设 12 座车站，均为高架站。因此，我们通常不叫它澳门地铁，而是澳门轻轨。另外，澳门在建线路有 3 条，分别是澳门轻轨石排湾线、澳门轻轨横琴线、澳门轻轨东线。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-macau-2024.jpg&#34; alt=&#34;澳门地铁线路图&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="城市" />
         <category term="地铁" />
@@ -417,7 +509,9 @@ https://weibo.com/ttarticle/p/show?id=2309404859631611805768
         <id>https://luhuadong.com/map/metro-hongkong.html</id>
         <title>香港地铁线路图（2024年最新）</title>
         <link rel="alternate" href="https://luhuadong.com/map/metro-hongkong.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-hongkong.jpg&#34; alt=&#34;香港地铁线路图&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;香港轨道交通系统由九广铁路与香港地铁合并而成，简称 “港铁”。港铁历史悠久，其第一条线路东铁线于清宣统二年（1910 年）10 月 1 日正式运营。&lt;/p&gt;
+&lt;p&gt;目前，港铁运营线路共 10 条，其中包括铁路线路及地铁线路 9 条、机场快线 1 条。截至 2022 年，港铁运营里程共 245.3 千米（包括市区线、机场快线和轻铁线路）；其中，市区线（不含机场快线）共设车站 96 座，运营里程共 201.8 千米；机场快线共设车站 5 座（其中 3 座与港铁东涌线共用），运营里程 35.2 千米；轻铁线路共设车站 68 座，运营里程共 36.2 千米。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-hongkong.jpg&#34; alt=&#34;香港地铁线路图&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="城市" />
         <category term="地铁" />
@@ -427,7 +521,8 @@ https://weibo.com/ttarticle/p/show?id=2309404859631611805768
         <id>https://luhuadong.com/map/metro-shenzhen.html</id>
         <title>深圳地铁线路图（2024年最新）</title>
         <link rel="alternate" href="https://luhuadong.com/map/metro-shenzhen.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-shenzhen-2024.gif&#34; alt=&#34;深圳地铁线路图&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;深圳是中国内地第八座开通轨道交通的城市，首条线路于 2004 年 12 月 28 日开通运营。目前，深圳地铁已开通运营线路共 16 条，全市地铁运营线路总长 555.568 公里，共有 306 座车站。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-shenzhen-2024.gif&#34; alt=&#34;深圳地铁线路图&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="城市" />
         <category term="地铁" />
@@ -437,7 +532,52 @@ https://weibo.com/ttarticle/p/show?id=2309404859631611805768
         <id>https://luhuadong.com/map/metro-guangzhou.html</id>
         <title>广州地铁线路图（2024年最新）</title>
         <link rel="alternate" href="https://luhuadong.com/map/metro-guangzhou.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-guangzhou-2023.png&#34; alt=&#34;广州地铁线路图&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;广州是中国内地第四座、华南地区首座开通地铁的城市，广州地铁 1 号线早在 1997 年 6 月 28 日就开通运营。截至 2023 年 12 月 28 日，广州地铁运营线路共 16 条，共设车站 313 座，换乘站 45 座，运营里程 653 公里，位列中国第三名。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-guangzhou-2023.png&#34; alt=&#34;广州地铁线路图&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="城市" />
+        <category term="地铁" />
+        <updated>2017-09-16T06:02:04.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/map/metro-foshan.html</id>
+        <title>佛山地铁线路图（2024年最新）</title>
+        <link rel="alternate" href="https://luhuadong.com/map/metro-foshan.html"/>
+        <content type="html">&lt;p&gt;佛山是中国内地第 13 座开通轨道交通的城市，于 2010 年 11 月 3 日正式开通运营。佛山地铁共运营地铁线路 4 条，即广佛地铁（佛山地铁 1 号线）、佛山地铁 2 号线、佛山地铁 3 号线、广州地铁 7 号线（西延段）。里程总长为 124.49 千米，共设车站 72 座。另有在建线路共有 2 条（段）。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-foshan.jpg&#34; alt=&#34;佛山地铁线路图&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="城市" />
+        <category term="地铁" />
+        <updated>2017-09-16T06:02:04.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/map/metro-dongguan.html</id>
+        <title>东莞地铁线路图（2024年最新）</title>
+        <link rel="alternate" href="https://luhuadong.com/map/metro-dongguan.html"/>
+        <content type="html">&lt;p&gt;东莞是广东省第 4 个开通运营轨道交通的城市，首条运营线路是东莞 2 号线（东莞火车站 - 虎门火车站），于 2016 年 5 月 27 日开通运营。另外还有在建的东莞 1 号线和 2 号线三期，其中东莞 1 号线有望在 2024 年底开通。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-dongguan.jpg&#34; alt=&#34;东莞地铁线路图&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="城市" />
+        <category term="地铁" />
+        <updated>2017-09-16T06:02:04.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/map/metro-changsha.html</id>
+        <title>长沙地铁线路图（2024年最新）</title>
+        <link rel="alternate" href="https://luhuadong.com/map/metro-changsha.html"/>
+        <content type="html">&lt;p&gt;截至 2024 年 6 月，长沙轨道交通运营线路共 8 条：长沙轨道交通 1 号线、长沙轨道交通 2 号线、长沙轨道交通 3 号线、长沙轨道交通 4 号线、长沙轨道交通 5 号线、长沙轨道交通 6 号线、长株潭城际轨道交通西环线、长沙磁浮快线，线网覆盖长沙主城区全域和长沙县，共设车站 161 座、其中换乘站 19 个， 运营里程 236.47 千米。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-changsha.jpg&#34; alt=&#34;长沙地铁线路图&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="城市" />
+        <category term="地铁" />
+        <updated>2017-09-16T06:02:04.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/map/metro-wuhan.html</id>
+        <title>武汉地铁线路图（2024年最新）</title>
+        <link rel="alternate" href="https://luhuadong.com/map/metro-wuhan.html"/>
+        <content type="html">&lt;p&gt;武汉地铁于 2004 年 9 月 28 日正式运营，武汉也是中国内地第七座开通城市轨道交通的城市。截至 2023 年 12 月，武汉地铁运营线路共 12 条，包括 1 号线、2 号线、3 号线、4 号线、5 号线、6 号线、7 号线、8 号线、11 号线、16 号线、19 号线、阳逻线，运营总里程数达到 487.77 公里，车站总数 300 座。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/map/metro-wuhan.gif&#34; alt=&#34;武汉地铁线路图&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="城市" />
         <category term="地铁" />

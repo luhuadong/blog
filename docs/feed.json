@@ -5,6 +5,16 @@
     "home_page_url": "https://luhuadong.com",
     "items": [
         {
+            "id": "https://luhuadong.com/journal/20240605.html",
+            "url": "https://luhuadong.com/journal/20240605.html",
+            "title": "一次有点突然又有点兴奋的裁员经历",
+            "date_published": "2024-06-10T03:55:16.000Z",
+            "content_html": "<h2 id=\"为什么突然裁员\"><a class=\"anchor\" href=\"#为什么突然裁员\">#</a> 为什么突然裁员</h2>\n<p>800 天前，来到这里参与公司内部二次创业项目，从 0 到 1 打造了 2 款激光雷达，开了 500 多次会议，面试了 37 位候选人，创建了 28 个代码仓库，写了很多仓库的第 1 行代码，也搭建了 3 个大项目的代码框架，连续 2 年被评为优秀员工。</p>\n<p>这期间，见证了公司从 300 多人扩张到 1000 人，也见证了 1 年 4 次裁员，最后又变回了 300 多人。把同事送走了，把领导也送走了，曾经热闹的软件部没了，斗志昂扬的产品线也没了。这一次虽略有遗憾，但我可以笑着离开。</p>\n<img loading=\"lazy\" data-src=\"../../images/journal/20240605_224323103.jpg\" width=\"600\" />\n<p>临走前，我给老板写了 7 条建议，老板送了我 1 台笔记本电脑。不能继续奋斗，不能帮助公司上市，深感遗憾，但我们都有着光明的未来！</p>\n<img loading=\"lazy\" data-src=\"../../images/journal/20240605_225054019.jpg\" width=\"600\" />\n<p>6 月 5 号刚好是世界环境日，而我也将投身到开源和环保领域，做自己热爱的事业，继续发光发热。</p>\n<h2 id=\"我的心态怎么样\"><a class=\"anchor\" href=\"#我的心态怎么样\">#</a> 我的心态怎么样</h2>\n<h2 id=\"后面怎么计划\"><a class=\"anchor\" href=\"#后面怎么计划\">#</a> 后面怎么计划</h2>\n<p>先把身上的 “班味” 去掉。</p>\n",
+            "tags": [
+                "日记"
+            ]
+        },
+        {
             "id": "https://luhuadong.com/reading/the-millionaire-next-door.html",
             "url": "https://luhuadong.com/reading/the-millionaire-next-door.html",
             "title": "《邻家的百万富翁》读书笔记",
@@ -20,7 +30,7 @@
             "url": "https://luhuadong.com/reading/company-of-one.html",
             "title": "《一人企业》读书笔记，每个人都应该成为一人企业",
             "date_published": "2024-06-08T08:45:33.000Z",
-            "content_html": "<blockquote>\n<p>每 5000 个员工中就有至少 250 人是真正的创造者，其中 25 人将成为伟大的内部创业者（或者 “一人企业”）。</p>\n<p>很多大企业中都藏着 “一人企业”。如果企业能够有效培养员工创新和自主工作的技术和热情，将使整个企业受益匪浅。但如果员工的创造性和自由思考的能力被扼杀，他们会迅速转向其他企业或其他企业家。能够激励这样的员工的往往不是金钱或工资待遇，他们更倾向于以一种最适合自己的方式重新打造自己的工作和角色定位。</p>\n</blockquote>\n<blockquote>\n<p>作为一个企业的所有者，他的工作目标不是不断增加收益或者打败竞争对手，而是创造越来越好的产品和服务，让其消费者在生活和工作中收益。</p>\n</blockquote>\n<blockquote>\n<p>对 “一人企业” 来说，要回答的问题永远是 “我要怎样做才能让我的企业变得更好”，而不是 “我要怎样做才能让我的企业变大”。</p>\n</blockquote>\n",
+            "content_html": "<h2 id=\"初识一人企业\"><a class=\"anchor\" href=\"#初识一人企业\">#</a> 初识 “一人企业”</h2>\n<blockquote>\n<p>每 5000 个员工中就有至少 250 人是真正的创造者，其中 25 人将成为伟大的内部创业者（或者 “一人企业”）。</p>\n<p>很多大企业中都藏着 “一人企业”。如果企业能够有效培养员工创新和自主工作的技术和热情，将使整个企业受益匪浅。但如果员工的创造性和自由思考的能力被扼杀，他们会迅速转向其他企业或其他企业家。能够激励这样的员工的往往不是金钱或工资待遇，他们更倾向于以一种最适合自己的方式重新打造自己的工作和角色定位。</p>\n</blockquote>\n<h2 id=\"更多-更好\"><a class=\"anchor\" href=\"#更多-更好\">#</a> 更多 ≠ 更好</h2>\n<blockquote>\n<p>作为一个企业的所有者，他的工作目标不是不断增加收益或者打败竞争对手，而是创造越来越好的产品和服务，让其消费者在生活和工作中收益。</p>\n</blockquote>\n<blockquote>\n<p>对 “一人企业” 来说，要回答的问题永远是 “我要怎样做才能让我的企业变得更好”，而不是 “我要怎样做才能让我的企业变大”。</p>\n</blockquote>\n<blockquote>\n<p>“一人企业” 追求的是更好地工作而不是更多的工作。花时间和精力去掌握一项技能是有好处的，但是还是要讲究平衡。当匆忙工作、不眠不休变成一种荣耀，健康、家庭和朋友要给工作让位的时候，我们就需要时间休息一下了。</p>\n</blockquote>\n<h2 id=\"领导者需要具备的能力\"><a class=\"anchor\" href=\"#领导者需要具备的能力\">#</a> 领导者需要具备的能力</h2>\n<blockquote>\n<p>“一人企业” 的领导者也需要领导力。如果你为自己打工，你就必须有能力去成功地宣传自己的服务或产品并且维持好与客户的关系。</p>\n</blockquote>\n<blockquote>\n<p>感召力 —— 领导者必须具备的所谓的 X 因素 —— 可以激发紧迫感、鼓励合作，这不是一种天生的能力。每个人都可以通过使用故事、比喻，提出高期望甚至是通过面部表情来获得感召力，从而激发别人。</p>\n</blockquote>\n<blockquote>\n<p>领导者所应具备的另一种能力是为自己和他人设定极高的目标。</p>\n</blockquote>\n<blockquote>\n<p>内向型领导尤其是那些管理者技术高超、充满活力的团队的内向型领导非常容易成功，这是因为一个更安静、更冷静的领导更容易认真倾听、聚精会神，不畏惧、不间断地工作很长时间，他们也能够领导和他们一样的人。</p>\n</blockquote>\n<blockquote>\n<p>拥有为别人服务的愿望并能够激励他人成长是成为领导并保持领导地位的重要因素。</p>\n</blockquote>\n<blockquote>\n<p>“一人企业” 常常是那些外表安静、内心有清晰的方向、能够不动声色地做出一些成绩的人。</p>\n<p>我找到了适合自己的个性和技能的领导方式：避免在人群中发言，更多地选择一对一交流。我的内向的天性是我选择在线教学而不是做演讲的主要原因，对我来说，在线教学是一种可以有效沟通并与客户建立联系的有效渠道。</p>\n</blockquote>\n<blockquote>\n<p>在服务提出特殊要求的客户或者对产品要求很高的客户时，一个领导越注重流程、系统和可重复使用的要素（从编码到营销语言再到视觉效果），他的工作效率就越高，效果就越好，需要的工作时间就越短，需要雇佣的员工就越少，而他的收益、完成的工作和客户都会增多。</p>\n</blockquote>\n<blockquote>\n<p>“一人企业” 需要你知道并理解各种专业和技能，从而掌控自己的工作。你必须理解你获得收益或生产产品所需的技能，同时还必须了解一些关键的技能，如营销、会计记账和销售。</p>\n<p>多面手 “什么都知道一点儿”，他们的价值会越来越高，将在商业领域继续施展拳脚。掌握的技能多少是你作为 “一人企业” 能否持续发展的重要因素。</p>\n<p>“一人企业” 的全才领导需要了解工作中所需的方方面面的知识，他不仅要掌握核心技能，还需要了解商业运作的方法。</p>\n</blockquote>\n<blockquote>\n<p>“一人企业” 的领导要学会巧妙地说 “不”。你可以把拒绝作为一种可实现的战略，因为机会、任务、让你分心的事、计划、会议等会经常出现。拒绝那些对你的企业或团队毫无益处的事，你就可以有更多时间去为企业创造更好的机会。你必须学会如何快速评估每件事，然后找出那些必要的事和需要拒绝的事。</p>\n</blockquote>\n",
             "tags": [
                 "创业",
                 "读书笔记"
@@ -231,7 +241,7 @@
             "url": "https://luhuadong.com/guide/how-to-start-a-podcast.html",
             "title": "如何开始创建一个播客节目",
             "date_published": "2024-03-17T06:46:12.000Z",
-            "content_html": "<h2 id=\"硬件设备\"><a class=\"anchor\" href=\"#硬件设备\">#</a> 硬件设备</h2>\n<h2 id=\"播客平台\"><a class=\"anchor\" href=\"#播客平台\">#</a> 播客平台</h2>\n<ul>\n<li>YouTube</li>\n<li><a href=\"https://www.apple.com/apple-podcasts/\">Apple Podcasts</a></li>\n<li><a href=\"https://podcasters.spotify.com/\">Spotify for Podcasters</a></li>\n<li>小宇宙</li>\n<li>喜马拉雅</li>\n<li>网易云音乐</li>\n<li>豆瓣</li>\n</ul>\n<p>苹果播客 | 小宇宙 App | 汽水儿 App | Spotify | 喜马拉雅 | 网易云音乐 | QQ 音乐 | 微信听书 | 荔枝 FM | 央广云听 | 听听 FM | Sure 竖耳 App | Bilibili | YouTube</p>\n<h2 id=\"参考\"><a class=\"anchor\" href=\"#参考\">#</a> 参考</h2>\n<ul>\n<li><a href=\"https://zh.wikihow.com/%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E6%92%AD%E5%AE%A2%EF%BC%88Podcast%EF%BC%89\">如何创建自己的播客（Podcast）</a></li>\n<li><a href=\"https://blog.native-instruments.com/zh/?p=14168\">流媒体时代，如何从无到有经营自己的播客电台？</a></li>\n<li><a href=\"https://www.buzzsprout.com/blog/how-to-start-a-podcast\">How to Start a Podcast: Complete Step-by-Step Guide [2024]</a></li>\n</ul>\n",
+            "content_html": "<h2 id=\"硬件设备\"><a class=\"anchor\" href=\"#硬件设备\">#</a> 硬件设备</h2>\n<h2 id=\"播客平台\"><a class=\"anchor\" href=\"#播客平台\">#</a> 播客平台</h2>\n<p>国外</p>\n<ul>\n<li><a href=\"https://www.apple.com/apple-podcasts/\">Apple Podcasts</a></li>\n<li><a href=\"https://podcasters.spotify.com/\">Spotify for Podcasters</a></li>\n<li>YouTube</li>\n<li>sound on</li>\n<li>Google podcasts</li>\n<li>Overcast</li>\n<li>CastBox</li>\n<li>pocket Casts</li>\n</ul>\n<p>国内</p>\n<ul>\n<li>小宇宙</li>\n<li>喜马拉雅</li>\n<li>网易云音乐</li>\n<li>QQ 音乐</li>\n<li>豆瓣</li>\n<li>蜻蜓 FM</li>\n<li>荔枝 FM</li>\n<li>微信听书</li>\n<li>央广云听</li>\n<li>听听 FM</li>\n<li>汽水儿 App（停止运营）</li>\n<li>Sure 竖耳 App</li>\n<li>Bilibili</li>\n<li>懒人畅听</li>\n</ul>\n<h2 id=\"参考\"><a class=\"anchor\" href=\"#参考\">#</a> 参考</h2>\n<ul>\n<li><a href=\"https://zh.wikihow.com/%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E6%92%AD%E5%AE%A2%EF%BC%88Podcast%EF%BC%89\">如何创建自己的播客（Podcast）</a></li>\n<li><a href=\"https://blog.native-instruments.com/zh/?p=14168\">流媒体时代，如何从无到有经营自己的播客电台？</a></li>\n<li><a href=\"https://www.buzzsprout.com/blog/how-to-start-a-podcast\">How to Start a Podcast: Complete Step-by-Step Guide [2024]</a></li>\n</ul>\n",
             "tags": [
                 "指南"
             ]
@@ -935,7 +945,51 @@
             "url": "https://luhuadong.com/map/metro-urumqi.html",
             "title": "乌鲁木齐地铁线路图（2024年最新）",
             "date_published": "2023-04-28T19:50:14.000Z",
-            "content_html": "<p><img loading=\"lazy\" data-src=\"/images/map/metro-urumqi.png\" alt=\"乌鲁木齐地铁线路图\" /></p>\n",
+            "content_html": "<p>乌鲁木齐是西北地区第二个开通运营地铁的城市。目前运营线路共有 1 条，即乌鲁木齐地铁 1 号线，线路长度 27.615 公里，共设 21 座车站。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-urumqi.png\" alt=\"乌鲁木齐地铁线路图\" /></p>\n",
+            "tags": [
+                "城市",
+                "地铁"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/map/metro-changchun.html",
+            "url": "https://luhuadong.com/map/metro-changchun.html",
+            "title": "长春地铁线路图（2024年最新）",
+            "date_published": "2023-04-28T19:50:14.000Z",
+            "content_html": "<p>长春是中国内地第五座开通城市轨道交通的城市，首条线路于 2002 年 10 月 30 日开通试运营。目前，长春轨道交通运营线路共有 6 条，分别为长春轨道交通 1 号线、2 号线、3 号线、4 号线、6 号线、8 号线，运营里程 140.8 公里，共设车站 111 座。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-changchun.png\" alt=\"长春地铁线路图\" /></p>\n",
+            "tags": [
+                "城市",
+                "地铁"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/map/metro-shenyang.html",
+            "url": "https://luhuadong.com/map/metro-shenyang.html",
+            "title": "沈阳地铁线路图（2024年最新）",
+            "date_published": "2023-04-28T19:50:14.000Z",
+            "content_html": "<p>沈阳是中国内地第十一座开通轨道交通的城市，首条线路于 2010 年 9 月 27 日开通试运营。目前，沈阳地铁运营线路共有五条，分别为 1 号线、2 号线、4 号线、9 号线、10 号线，运营里程 165 公里，共设车站 111 座。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-shenyang.jpg\" alt=\"沈阳地铁线路图\" /></p>\n",
+            "tags": [
+                "城市",
+                "地铁"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/map/metro-harbin.html",
+            "url": "https://luhuadong.com/map/metro-harbin.html",
+            "title": "哈尔滨地铁线路图（2024年最新）",
+            "date_published": "2023-04-28T19:50:14.000Z",
+            "content_html": "<p>哈尔滨是中国首个建有高寒地铁系统的城市，其首条线路于 2013 年 9 月 26 日开通试运营。目前，哈尔滨地铁开通运营线路共有 3 条，分别为 1 号线、2 号线、3 号线，里程长度共计 82.91 公里，共设车站 66 座。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-harbin.png\" alt=\"哈尔滨地铁线路图\" /></p>\n",
+            "tags": [
+                "城市",
+                "地铁"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/map/metro-dalian.html",
+            "url": "https://luhuadong.com/map/metro-dalian.html",
+            "title": "大连地铁线路图（2024年最新）",
+            "date_published": "2023-04-28T19:50:14.000Z",
+            "content_html": "<p>大连是中国内地第六座、辽宁省首座开通轨道交通的城市，首条大连地铁 3 号线于 2003 年 5 月 1 日正式开通运营。目前，大连地铁运营线路共有 6 条，运营里程共计 237.07 公里，共设车站 99 座。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-dalian.png\" alt=\"大连地铁线路图\" /></p>\n",
             "tags": [
                 "城市",
                 "地铁"
@@ -3725,7 +3779,7 @@
             "url": "https://luhuadong.com/map/metro-singapore.html",
             "title": "新加坡地铁线路图（2024年最新）",
             "date_published": "2017-09-16T07:39:08.000Z",
-            "content_html": "<p><img loading=\"lazy\" data-src=\"/images/map/metro-singapore-2022.png\" alt=\"新加坡地铁线路图\" /></p>\n",
+            "content_html": "<p>新加坡地铁又叫大众捷运系统（Mass Rapid Transport，简称 MRT），于 1987 年正式开通运营。目前设有 113 个地铁车站，总共 148.9 公里的标准轨距线路，分为 6 条路线：东西线（绿线）、南北线（红线）、东北线（紫线）、环线（橘黄）、滨海市区线（蓝线）、汤申 - 东海岸线（棕线）。</p>\n<p>新加坡地铁从早上 5 点 30 起至凌晨 1 点结束，班次约 1 到 5 分钟一次，是世界上最为繁忙的公共交通系统之一。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-singapore-2022.png\" alt=\"新加坡地铁线路图\" /></p>\n",
             "tags": [
                 "城市",
                 "地铁"
@@ -3736,7 +3790,7 @@
             "url": "https://luhuadong.com/map/metro-paris.html",
             "title": "巴黎地铁线路图（2024年最新）",
             "date_published": "2017-09-16T07:38:46.000Z",
-            "content_html": "<p><img loading=\"lazy\" data-src=\"/images/map/metro-paris.gif\" alt=\"巴黎地铁线路图\" /></p>\n",
+            "content_html": "<p>巴黎地铁历史悠久，于 1900 年起运行至今，目前总长度为 226.9 公里，包含 14 条主线和 2 条支线，共 16 条线路，合计 308 个车站。巴黎地铁主要行走在巴黎市区和近郊的小范围都会圈，车站平均站距仅 548 米，这决定了列车只能以中低时速行走较短的路程。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-paris.gif\" alt=\"巴黎地铁线路图\" /></p>\n",
             "tags": [
                 "城市",
                 "地铁"
@@ -3747,7 +3801,7 @@
             "url": "https://luhuadong.com/map/metro-taichung.html",
             "title": "台中地铁线路图（2024年最新）",
             "date_published": "2017-09-16T07:38:17.000Z",
-            "content_html": "<p><img loading=\"lazy\" data-src=\"/images/map/metro-taichung.png\" alt=\"台中地铁线路图\" /></p>\n",
+            "content_html": "<p>台中捷运（Taichung Mass Rapid Transit，TMRT）全称台中都会区大众捷运系统，简称 “中捷”。首条线路台中捷运绿线于 2021 年 4 月 25 日开通运营。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-taichung.png\" alt=\"台中地铁线路图\" /></p>\n",
             "tags": [
                 "城市",
                 "地铁"
@@ -3758,7 +3812,7 @@
             "url": "https://luhuadong.com/map/metro-taipei.html",
             "title": "台北地铁线路图（2024年最新）",
             "date_published": "2017-09-16T07:38:07.000Z",
-            "content_html": "<p><img loading=\"lazy\" data-src=\"/images/map/metro-taipei.jpg\" alt=\"台北地铁线路图\" /></p>\n",
+            "content_html": "<p>台北是台湾省第一座开通地铁运营的城市，台北地铁也称为 “台北捷运”（Metro Taipei），全称台北都会区大众捷运系统（Taipei Rapid Transit System），第一条线路于 1996 年 3 月 28 日开通试运营。目前，台北捷运运营线路共有 8 条（6 条主线 + 2 条支线），即 BR 文湖线、R 淡水信义线、G 松山新店线、O 中和新芦线、BL 板南线、Y 环状线、新北投支线、小碧潭支线。台北捷运总里程为 151.9 公里，共设车站 117 座。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-taipei.jpg\" alt=\"台北地铁线路图\" /></p>\n",
             "tags": [
                 "城市",
                 "地铁"
@@ -3769,7 +3823,7 @@
             "url": "https://luhuadong.com/map/metro-chongqing.html",
             "title": "重庆地铁线路图（2024年最新）",
             "date_published": "2017-09-16T07:37:38.000Z",
-            "content_html": "<p><img loading=\"lazy\" data-src=\"/images/map/metro-chongqing-2023.png\" alt=\"重庆地铁线路图\" /></p>\n",
+            "content_html": "<p>重庆是中国内地第九座、西部地区第一座开通城市轨道交通的城市，第一条线路于 2005 年 6 月 18 日开通试运营。截至 2023 年 12 月，重庆轨道交通已开通 12 条线路，包括重庆轨道交通环线、1 号线、2 号线、3 号线、4 号线、5 号线、6 号线、国博线、9 号线、10 号线、18 号线、市郊铁路江跳线，运营里程 538 千米，共设车站 256 座。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-chongqing-2023.png\" alt=\"重庆地铁线路图\" /></p>\n",
             "tags": [
                 "城市",
                 "地铁"
@@ -3778,9 +3832,42 @@
         {
             "id": "https://luhuadong.com/map/metro-beijing.html",
             "url": "https://luhuadong.com/map/metro-beijing.html",
-            "title": "北京地铁线路图（2023年最新）",
+            "title": "北京地铁线路图（2024年最新）",
             "date_published": "2017-09-16T07:37:28.000Z",
-            "content_html": "<p><img loading=\"lazy\" data-src=\"/images/map/metro-beijing-2023.png\" alt=\"北京地铁线路图\" /></p>\n",
+            "content_html": "<p>北京地铁的规划始于 1953 年，始建于 1965 年，最早的线路竣工于 1969 年，是大中华地区首个地铁系统。截至 2023 年 12 月，北京地铁已开通的线路包括 1 号线、2 号线、4 号线、5 号线、6 号线、7 号线、8 号线、9 号线、10 号线、11 号线、13 号线、14 号线、15 号线、16 号线、17 号线、19 号线、八通线、大兴线、昌平线、亦庄线、房山线、燕房线、S1 线、首都机场线、大兴机场线、西郊线和亦庄 T1 线，运营线路总里程 836 公里，共有 494 座运营车站。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-beijing-2023.png\" alt=\"北京地铁线路图\" /></p>\n<p>注：北京地铁 3 号线预计于 2024 年 9 月开通运营一期。</p>\n",
+            "tags": [
+                "城市",
+                "地铁"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/map/metro-tianjin.html",
+            "url": "https://luhuadong.com/map/metro-tianjin.html",
+            "title": "天津地铁线路图（2024年最新）",
+            "date_published": "2017-09-16T07:37:28.000Z",
+            "content_html": "<p>天津是中国内地第二座开通城市轨道交通的城市，首条线路于 1984 年 12 月 28 日开通运营。截至 2023 年 12 月，天津轨道交通运营线路共 10 条，分别为天津轨道交通 1 号线、2 号线、3 号线、4 号线、5 号线、6 号线、6 号线二期、9 号线、10 号线、11 号线，运营里程 309.94 千米，车站 192 座。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-tianjin.jpg\" alt=\"天津地铁线路图\" /></p>\n",
+            "tags": [
+                "城市",
+                "地铁"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/map/metro-xiamen.html",
+            "url": "https://luhuadong.com/map/metro-xiamen.html",
+            "title": "厦门地铁线路图（2024年最新）",
+            "date_published": "2017-09-16T07:37:28.000Z",
+            "content_html": "<p>厦门地铁于 2017 年 12 月 31 日开通运营，厦门也成为了中国第 35 个、福建省第 2 个开通地铁的城市。截至 2024 年 5 月，厦门地铁开通运营线路共有 3 条，包括 1 号线、2 号线、3 号线，里程总长 98.4 千米，共设车站 77 座。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-xiamen.png\" alt=\"厦门地铁线路图\" /></p>\n",
+            "tags": [
+                "城市",
+                "地铁"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/map/metro-fuzhou.html",
+            "url": "https://luhuadong.com/map/metro-fuzhou.html",
+            "title": "福州地铁线路图（2024年最新）",
+            "date_published": "2017-09-16T07:37:28.000Z",
+            "content_html": "<p>福州地铁于 2016 年 5 月 18 日开通运营，福州也成为了中国第 25 个、福建省首个开通地铁的城市。截至 2023 年 8 月，福州地铁运营线路共有 5 条，包括 1 号线、2 号线、4 号线、5 号线和 6 号线，里程总长 140 千米，共设车站 92 座。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-fuzhou.png\" alt=\"福州地铁线路图\" /></p>\n",
             "tags": [
                 "城市",
                 "地铁"
@@ -3791,7 +3878,7 @@
             "url": "https://luhuadong.com/map/metro-nanjing.html",
             "title": "南京地铁线路图（2024年最新）",
             "date_published": "2017-09-16T07:37:20.000Z",
-            "content_html": "<p><img loading=\"lazy\" data-src=\"/images/map/metro-nanjing-2024.gif\" alt=\"南京地铁线路图\" /></p>\n",
+            "content_html": "<p>南京地铁于 2005 年 5 月 15 日开通运营，截至 2024 年 3 月，南京地铁已开通运营线路共有 13 条，包括 1、2、3、4、5、7、10、S1、S3、S6、S7、S8 及 S9 号线，共 226 座车站，地铁线路总长 473 千米。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-nanjing-2024.gif\" alt=\"南京地铁线路图\" /></p>\n",
             "tags": [
                 "城市",
                 "地铁"
@@ -3802,7 +3889,7 @@
             "url": "https://luhuadong.com/map/metro-suzhou.html",
             "title": "苏州地铁线路图（2024年最新）",
             "date_published": "2017-09-16T07:37:00.000Z",
-            "content_html": "<p><img loading=\"lazy\" data-src=\"/images/map/metro-suzhou-2024.gif\" alt=\"苏州地铁线路图\" /></p>\n",
+            "content_html": "<p>苏州是中国内地第十五座、江苏省第二座开通城市轨道交通的城市。截至 2024 年 6 月，苏州轨道交通运营线路共 7 条，分别为 1 号线、2 号线、3 号线、4 号线及支线、5 号线、6 号线、11 号线，运营里程 287 公里，共有 228 座车站。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-suzhou-2024.gif\" alt=\"苏州地铁线路图\" /></p>\n",
             "tags": [
                 "城市",
                 "地铁"
@@ -3813,7 +3900,7 @@
             "url": "https://luhuadong.com/map/metro-hangzhou.html",
             "title": "杭州地铁线路图（2024年最新）",
             "date_published": "2017-09-16T07:36:53.000Z",
-            "content_html": "<p><img loading=\"lazy\" data-src=\"/images/map/metro-hangzhou-2023.gif\" alt=\"杭州地铁线路图\" /></p>\n",
+            "content_html": "<p>杭州是华东地区第四个、浙江省首个开通地铁的城市，杭州地铁 1 号线于 2012 年 11 月 24 日正式开通。截至 2023 年 11 月，杭州地铁运营线路共 12 条，共设车站 260 座，运营里程共计约 516 千米。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-hangzhou-2023.gif\" alt=\"杭州地铁线路图\" /></p>\n",
             "tags": [
                 "城市",
                 "地铁"
@@ -3824,7 +3911,7 @@
             "url": "https://luhuadong.com/map/metro-shanghai.html",
             "title": "上海地铁线路图（2024年最新）",
             "date_published": "2017-09-16T07:36:44.000Z",
-            "content_html": "<p><img loading=\"lazy\" data-src=\"/images/map/metro-shanghai-2024.gif\" alt=\"上海地铁线路图\" /></p>\n",
+            "content_html": "<p>上海是中国内地第三座、南方地区首座开通城市轨道交通的城市，首条线路上海地铁 1 号线于 1993 年 5 月 28 日正式运营。目前，上海地铁运营线路共 20 条，共设车站 508 座，运营里程共 831 千米（含磁浮线，不含金山铁路）。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-shanghai-2024.gif\" alt=\"上海地铁线路图\" /></p>\n",
             "tags": [
                 "城市",
                 "地铁"
@@ -3835,7 +3922,7 @@
             "url": "https://luhuadong.com/map/metro-chengdu.html",
             "title": "成都地铁线路图（2024年最新）",
             "date_published": "2017-09-16T07:36:36.000Z",
-            "content_html": "<p><img loading=\"lazy\" data-src=\"/images/map/metro-chengdu.gif\" alt=\"成都地铁线路图\" /></p>\n",
+            "content_html": "<p>成都是中国内地第十二座开通城市轨道交通的城市，首条线路成都地铁 1 号线于 2010 年 9 月 27 日正式开通。截至 2024 年 4 月，成都地铁共开通 13 条线路，线路总长 562.13 千米，共计 335 座车站投入运营。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-chengdu.gif\" alt=\"成都地铁线路图\" /></p>\n",
             "tags": [
                 "城市",
                 "地铁"
@@ -3846,7 +3933,7 @@
             "url": "https://luhuadong.com/map/metro-macau.html",
             "title": "澳门地铁线路图（2024年最新）",
             "date_published": "2017-09-16T07:36:12.000Z",
-            "content_html": "<p><img loading=\"lazy\" data-src=\"/images/map/metro-macau-2024.jpg\" alt=\"澳门地铁线路图\" /></p>\n",
+            "content_html": "<p>目前，澳门轻轨运营线路共有 1 条，即澳门轻轨氹仔线，于 2019 年 12 月 10 日开通运营，运营里程为 12.5 千米，共设 12 座车站，均为高架站。因此，我们通常不叫它澳门地铁，而是澳门轻轨。另外，澳门在建线路有 3 条，分别是澳门轻轨石排湾线、澳门轻轨横琴线、澳门轻轨东线。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-macau-2024.jpg\" alt=\"澳门地铁线路图\" /></p>\n",
             "tags": [
                 "城市",
                 "地铁"
@@ -3857,7 +3944,7 @@
             "url": "https://luhuadong.com/map/metro-hongkong.html",
             "title": "香港地铁线路图（2024年最新）",
             "date_published": "2017-09-16T07:35:59.000Z",
-            "content_html": "<p><img loading=\"lazy\" data-src=\"/images/map/metro-hongkong.jpg\" alt=\"香港地铁线路图\" /></p>\n",
+            "content_html": "<p>香港轨道交通系统由九广铁路与香港地铁合并而成，简称 “港铁”。港铁历史悠久，其第一条线路东铁线于清宣统二年（1910 年）10 月 1 日正式运营。</p>\n<p>目前，港铁运营线路共 10 条，其中包括铁路线路及地铁线路 9 条、机场快线 1 条。截至 2022 年，港铁运营里程共 245.3 千米（包括市区线、机场快线和轻铁线路）；其中，市区线（不含机场快线）共设车站 96 座，运营里程共 201.8 千米；机场快线共设车站 5 座（其中 3 座与港铁东涌线共用），运营里程 35.2 千米；轻铁线路共设车站 68 座，运营里程共 36.2 千米。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-hongkong.jpg\" alt=\"香港地铁线路图\" /></p>\n",
             "tags": [
                 "城市",
                 "地铁"
@@ -3868,7 +3955,7 @@
             "url": "https://luhuadong.com/map/metro-shenzhen.html",
             "title": "深圳地铁线路图（2024年最新）",
             "date_published": "2017-09-16T07:35:23.000Z",
-            "content_html": "<p><img loading=\"lazy\" data-src=\"/images/map/metro-shenzhen-2024.gif\" alt=\"深圳地铁线路图\" /></p>\n",
+            "content_html": "<p>深圳是中国内地第八座开通轨道交通的城市，首条线路于 2004 年 12 月 28 日开通运营。目前，深圳地铁已开通运营线路共 16 条，全市地铁运营线路总长 555.568 公里，共有 306 座车站。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-shenzhen-2024.gif\" alt=\"深圳地铁线路图\" /></p>\n",
             "tags": [
                 "城市",
                 "地铁"
@@ -3879,7 +3966,51 @@
             "url": "https://luhuadong.com/map/metro-guangzhou.html",
             "title": "广州地铁线路图（2024年最新）",
             "date_published": "2017-09-16T06:02:04.000Z",
-            "content_html": "<p><img loading=\"lazy\" data-src=\"/images/map/metro-guangzhou-2023.png\" alt=\"广州地铁线路图\" /></p>\n",
+            "content_html": "<p>广州是中国内地第四座、华南地区首座开通地铁的城市，广州地铁 1 号线早在 1997 年 6 月 28 日就开通运营。截至 2023 年 12 月 28 日，广州地铁运营线路共 16 条，共设车站 313 座，换乘站 45 座，运营里程 653 公里，位列中国第三名。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-guangzhou-2023.png\" alt=\"广州地铁线路图\" /></p>\n",
+            "tags": [
+                "城市",
+                "地铁"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/map/metro-foshan.html",
+            "url": "https://luhuadong.com/map/metro-foshan.html",
+            "title": "佛山地铁线路图（2024年最新）",
+            "date_published": "2017-09-16T06:02:04.000Z",
+            "content_html": "<p>佛山是中国内地第 13 座开通轨道交通的城市，于 2010 年 11 月 3 日正式开通运营。佛山地铁共运营地铁线路 4 条，即广佛地铁（佛山地铁 1 号线）、佛山地铁 2 号线、佛山地铁 3 号线、广州地铁 7 号线（西延段）。里程总长为 124.49 千米，共设车站 72 座。另有在建线路共有 2 条（段）。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-foshan.jpg\" alt=\"佛山地铁线路图\" /></p>\n",
+            "tags": [
+                "城市",
+                "地铁"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/map/metro-dongguan.html",
+            "url": "https://luhuadong.com/map/metro-dongguan.html",
+            "title": "东莞地铁线路图（2024年最新）",
+            "date_published": "2017-09-16T06:02:04.000Z",
+            "content_html": "<p>东莞是广东省第 4 个开通运营轨道交通的城市，首条运营线路是东莞 2 号线（东莞火车站 - 虎门火车站），于 2016 年 5 月 27 日开通运营。另外还有在建的东莞 1 号线和 2 号线三期，其中东莞 1 号线有望在 2024 年底开通。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-dongguan.jpg\" alt=\"东莞地铁线路图\" /></p>\n",
+            "tags": [
+                "城市",
+                "地铁"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/map/metro-changsha.html",
+            "url": "https://luhuadong.com/map/metro-changsha.html",
+            "title": "长沙地铁线路图（2024年最新）",
+            "date_published": "2017-09-16T06:02:04.000Z",
+            "content_html": "<p>截至 2024 年 6 月，长沙轨道交通运营线路共 8 条：长沙轨道交通 1 号线、长沙轨道交通 2 号线、长沙轨道交通 3 号线、长沙轨道交通 4 号线、长沙轨道交通 5 号线、长沙轨道交通 6 号线、长株潭城际轨道交通西环线、长沙磁浮快线，线网覆盖长沙主城区全域和长沙县，共设车站 161 座、其中换乘站 19 个， 运营里程 236.47 千米。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-changsha.jpg\" alt=\"长沙地铁线路图\" /></p>\n",
+            "tags": [
+                "城市",
+                "地铁"
+            ]
+        },
+        {
+            "id": "https://luhuadong.com/map/metro-wuhan.html",
+            "url": "https://luhuadong.com/map/metro-wuhan.html",
+            "title": "武汉地铁线路图（2024年最新）",
+            "date_published": "2017-09-16T06:02:04.000Z",
+            "content_html": "<p>武汉地铁于 2004 年 9 月 28 日正式运营，武汉也是中国内地第七座开通城市轨道交通的城市。截至 2023 年 12 月，武汉地铁运营线路共 12 条，包括 1 号线、2 号线、3 号线、4 号线、5 号线、6 号线、7 号线、8 号线、11 号线、16 号线、19 号线、阳逻线，运营总里程数达到 487.77 公里，车站总数 300 座。</p>\n<p><img loading=\"lazy\" data-src=\"/images/map/metro-wuhan.gif\" alt=\"武汉地铁线路图\" /></p>\n",
             "tags": [
                 "城市",
                 "地铁"
