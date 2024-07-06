@@ -5,6 +5,16 @@
     "home_page_url": "https://luhuadong.com",
     "items": [
         {
+            "id": "https://luhuadong.com/business/metroman.html",
+            "url": "https://luhuadong.com/business/metroman.html",
+            "title": "地铁通（MetroMan）商业案例分析",
+            "date_published": "2024-07-05T16:23:27.000Z",
+            "content_html": "<p><img loading=\"lazy\" data-src=\"/images/business/metroman-banner.png\" alt=\"中国地铁通（MetroMan）\" /></p>\n<p>我在买车之前经常乘坐地铁出行，去到不同城市，如果有地铁也会以地铁出行作为优先选择。因此在我的博客中收集了许多城市的地铁线路图，也是在这个过程中，我发现各城市地铁官方的线路图居然不容易找到（也许是有意为之），反而找到了许多个人或组织独立绘制的地铁线路图，其中一个就是 MetroMan 地铁通。</p>\n<h2 id=\"metroman-简介\"><a class=\"anchor\" href=\"#metroman-简介\">#</a> MetroMan 简介</h2>\n<p>MetroMan 是一个来自中国的地铁线路图分享平台，中文名字为 “地铁通”。该平台的公司主体是北京迈特曼科技有限公司，</p>\n",
+            "tags": [
+                "商业"
+            ]
+        },
+        {
             "id": "https://luhuadong.com/business/xiaoyuzhoufm.html",
             "url": "https://luhuadong.com/business/xiaoyuzhoufm.html",
             "title": "「小宇宙」的发展历程与启发",

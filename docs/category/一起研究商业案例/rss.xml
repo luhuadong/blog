@@ -5,8 +5,8 @@
         <link>https://luhuadong.com</link>
         <description>阿基米东的生活笔记</description>
         <language>zh-CN</language>
-        <pubDate>Sat, 13 Nov 2021 16:18:03 +0800</pubDate>
-        <lastBuildDate>Sat, 13 Nov 2021 16:18:03 +0800</lastBuildDate>
+        <pubDate>Sat, 06 Jul 2024 00:23:27 +0800</pubDate>
+        <lastBuildDate>Sat, 06 Jul 2024 00:23:27 +0800</lastBuildDate>
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
@@ -101,6 +101,18 @@
         <category>零废弃</category>
         <category>低碳</category>
         <category>音乐</category>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/business/metroman.html</guid>
+            <title>地铁通（MetroMan）商业案例分析</title>
+            <link>https://luhuadong.com/business/metroman.html</link>
+            <category>商业</category>
+            <pubDate>Sat, 06 Jul 2024 00:23:27 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/business/metroman-banner.png&#34; alt=&#34;中国地铁通（MetroMan）&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;我在买车之前经常乘坐地铁出行，去到不同城市，如果有地铁也会以地铁出行作为优先选择。因此在我的博客中收集了许多城市的地铁线路图，也是在这个过程中，我发现各城市地铁官方的线路图居然不容易找到（也许是有意为之），反而找到了许多个人或组织独立绘制的地铁线路图，其中一个就是 MetroMan 地铁通。&lt;/p&gt;
+&lt;h2 id=&#34;metroman-简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#metroman-简介&#34;&gt;#&lt;/a&gt; MetroMan 简介&lt;/h2&gt;
+&lt;p&gt;MetroMan 是一个来自中国的地铁线路图分享平台，中文名字为 “地铁通”。该平台的公司主体是北京迈特曼科技有限公司，&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/business/foxit-software.html</guid>
             <title>福昕 PDF 发展历程与启发</title>
