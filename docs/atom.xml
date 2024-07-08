@@ -3,7 +3,7 @@
     <id>https://luhuadong.com</id>
     <title>成为自由人</title>
     <link href="https://luhuadong.com" />
-    <updated>2024-07-05T16:23:27.000Z</updated>
+    <updated>2024-07-08T07:13:41.000Z</updated>
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
@@ -98,6 +98,75 @@
     <category term="零废弃" />
     <category term="低碳" />
     <category term="音乐" />
+    <entry>
+        <id>https://luhuadong.com/startup/the-three-financial-tables.html</id>
+        <title>财务的“三张表”是什么？怎么看？</title>
+        <link rel="alternate" href="https://luhuadong.com/startup/the-three-financial-tables.html"/>
+        <content type="html">&lt;h2 id=&#34;财务三张表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#财务三张表&#34;&gt;#&lt;/a&gt; 财务 “三张表”&lt;/h2&gt;
+&lt;p&gt;创业者需要关注企业的财务状况，因为财务直接反映了企业的经营状况。而在这方面，我们最常听到的就是财务 “三张表”，分别是资产负债表、利润表、现金流量表。&lt;/p&gt;
+&lt;p&gt;财务 “三张表” 是世界通行的企业评价工具，无论你是企业高管还是一线打工人，看懂 “三张表” 都可以帮助你更好地了解公司的经营情况。&lt;/p&gt;
+&lt;h3 id=&#34;资产负债表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#资产负债表&#34;&gt;#&lt;/a&gt; 资产负债表&lt;/h3&gt;
+&lt;p&gt;资产负债表（Balance Sheet）报告企业在某一个时间点的所有资产和负债项的余额，它直观地反映了该企业的 “家底” 情况。资产负债表由资产、负债、所有者权益三部分组成。&lt;/p&gt;
+&lt;p&gt;核心公式：&lt;strong&gt;资产 = 负债 + 所有者权益&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;其中，&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;资产&lt;/strong&gt;是公司所掌握的经济资源，包括银行存款、应收账款、固定资产、无形资产，如专利权、土地使用权等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;负债&lt;/strong&gt;是公司所负担的债务，包括应付账款、应付职工薪酬、长短期借款、应付债券等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;所有者权益&lt;/strong&gt;是公司所有者应享有的权益，包括实收资本、资本公积、留存收益（盈余公积、未分配利润）等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;利润表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#利润表&#34;&gt;#&lt;/a&gt; 利润表&lt;/h3&gt;
+&lt;p&gt;利润表（Income Statement）也叫损益表（Profit and Loss Statement），它能告诉大家企业在一定的时期内，比如（一个月、一个季度、一年）赚了多少钱。&lt;/p&gt;
+&lt;p&gt;若收入大于支出，那么利润为正，公司盈利。若支出大于收入，那么利润为负，公司亏损。&lt;/p&gt;
+&lt;p&gt;核心公式：&lt;strong&gt;利润 = 收入 - 成本费用&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;其中，&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;收入&lt;/strong&gt;包括营业收入、投资收益、营业外收入等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;成本费用&lt;/strong&gt;包括营业成本、期间费用、税金及附加等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;现金流量表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#现金流量表&#34;&gt;#&lt;/a&gt; 现金流量表&lt;/h3&gt;
+&lt;p&gt;现金流量表（Cash Flow Statement）报告所有的账目（收入 / 支出，资产 / 负债）的余额改变，以确定公司在一段时间内（年、月是最常见的）收入或支出多少现金。&lt;/p&gt;
+&lt;p&gt;现金流是企业生命的血脉，一旦现金流断，哪怕是再大的企业也会摇摇欲坠。&lt;/p&gt;
+&lt;p&gt;核心公式：&lt;strong&gt;现金流 = 现金流入 - 现金流出&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;现金流大于零，是正向现金流，意味着现金流入企业。反之，现金流小于零，是负向现金流，意味着现金流出企业。&lt;/p&gt;
+&lt;p&gt;现金流根据其用途划分为经营、投资及筹资三个活动。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;流入&lt;/th&gt;
+&lt;th&gt;流出&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;经营现金流&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;销售产品收到的现金&lt;/td&gt;
+&lt;td&gt;采购、发放薪酬和缴纳税金等支付的现金&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;投资现金流&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;分红或退出投资收到的现金&lt;/td&gt;
+&lt;td&gt;投资子公司和固定资产支付的现金&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;筹资现金流&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;向银行借款或获得股东增资收到的现金&lt;/td&gt;
+&lt;td&gt;分红和归还借款本息支付的现金&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;三张表的关系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#三张表的关系&#34;&gt;#&lt;/a&gt; 三张表的关系&lt;/h2&gt;
+&lt;p&gt;财务 “三张表” 可以说是企业的三维体检报告，在分析过程中需要把 “三张表” 作为一个有机的整体来加以分析研究。资产负债表是基础，反映的是企业 “底子”；利润表是 “面子”，反映企业当期利润的多少和构成情况，体现了企业管理者的当期经营业绩；现金流量表是 “里子”，是企业平稳有序可持续发展的晴雨表。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/startup/the-three-financial-tables-01.png&#34; alt=&#34;&#34; title=&#34;图片来源：九数云&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;在会计术语中，通常使用 “勾稽关系” 一词来描述三张表之间的关系。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;勾稽关系是会计在编制会计报表时常用的一个术语，它是指某个会计报表和另一个会计报表之间以及本会计报表项目的内在逻辑对应关系，如果不相等或不对应，这说明会计报表编制的有问题。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;首先是资产负债表与现金流量表，这两种表之间的勾稽关系主要体现在现金上，资产负债表中的现金、银行存款以及其他货币资金等项目的期末数减去期初数，应该等于现金流量表最后的现金以及现金等价物的净流量。其次是利润表与现金流量表，这两张表的相同之处在于它们都是时期报表，反映是一段时期内的会计数据；不同之处在于损益表与现金流量表编制的基础是不同的，一个遵循权责发生制，而另一个则遵循收付实现制。最后是资产负债表与利润表，这两表的勾稽关系主要体现在资产负债表中的未分配利润的期末数减去期初数，应该等于利润表中的未分配利润，除该科目外，其他科目关系一般都体现在表内关系上，而非表间。以上即为财务三大报表的勾稽关系。&lt;/p&gt;
+</content>
+        <category term="创业" />
+        <updated>2024-07-08T07:13:41.000Z</updated>
+    </entry>
     <entry>
         <id>https://luhuadong.com/business/metroman.html</id>
         <title>地铁通（MetroMan）商业案例分析</title>
