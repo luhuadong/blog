@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://luhuadong.com</id>
+    <title>成为自由人 • Posts by &#34;课程学习笔记&#34; category</title>
+    <link href="https://luhuadong.com" />
+    <updated>2024-07-14T08:10:40.000Z</updated>
+    <category term="名言" />
+    <category term="奋斗" />
+    <category term="信息世界" />
+    <category term="商业" />
+    <category term="创业" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
+    <category term="程序员" />
+    <category term="职场" />
+    <category term="管理" />
+    <category term="人生" />
+    <category term="工作" />
+    <category term="物联网" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
+    <category term="创客" />
+    <category term="比赛" />
+    <category term="科技向善" />
+    <category term="英语" />
+    <category term="成长" />
+    <category term="英语短文" />
+    <category term="学习" />
+    <category term="种植" />
+    <category term="健身" />
+    <category term="气象爱好者" />
+    <category term="指南" />
+    <category term="自律" />
+    <category term="思维模型" />
+    <category term="健康" />
+    <category term="Hexo" />
+    <category term="徒步" />
+    <category term="家居" />
+    <category term="科普" />
+    <category term="环保" />
+    <category term="可持续" />
+    <category term="能源" />
+    <category term="社会现象" />
+    <category term="独立开发者" />
+    <category term="碳中和" />
+    <category term="互联网" />
+    <category term="工程师" />
+    <category term="AI" />
+    <category term="开发者" />
+    <category term="职业" />
+    <category term="时间管理" />
+    <category term="milestone" />
+    <category term="总结" />
+    <category term="年终总结" />
+    <category term="慈济" />
+    <category term="爱" />
+    <category term="生活" />
+    <category term="RT-Thread" />
+    <category term="开源" />
+    <category term="写书" />
+    <category term="修身" />
+    <category term="思考" />
+    <category term="幸福" />
+    <category term="猫" />
+    <category term="日记" />
+    <category term="月报" />
+    <category term="读书笔记" />
+    <category term="地铁" />
+    <category term="Markdown" />
+    <category term="计划" />
+    <category term="股票" />
+    <category term="理财" />
+    <category term="投资" />
+    <category term="财富" />
+    <category term="保险" />
+    <category term="纪录片" />
+    <category term="自由" />
+    <category term="电影" />
+    <category term="策略" />
+    <category term="定律" />
+    <category term="心理学" />
+    <category term="无线电爱好者" />
+    <category term="亲密关系" />
+    <category term="农业" />
+    <category term="素食" />
+    <category term="性格测试" />
+    <category term="报告" />
+    <category term="TED" />
+    <category term="演讲" />
+    <category term="励志" />
+    <category term="时间" />
+    <category term="普拉提" />
+    <category term="游泳" />
+    <category term="声音训练" />
+    <category term="WordPress" />
+    <category term="垃圾分类" />
+    <category term="零废弃" />
+    <category term="低碳" />
+    <category term="音乐" />
+    <category term="课程笔记" />
+    <category term="摄影" />
+    <entry>
+        <id>https://luhuadong.com/notes/2024-we-documentary-courses.html</id>
+        <title>2024 WE 纪录创作培训营课程笔记</title>
+        <link rel="alternate" href="https://luhuadong.com/notes/2024-we-documentary-courses.html"/>
+        <content type="html">&lt;h2 id=&#34;课程背景&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程背景&#34;&gt;#&lt;/a&gt; 课程背景&lt;/h2&gt;
+&lt;p&gt;广州图书馆请来纪录片领域的大咖线上授课，从纪录片拍摄的理论到实践，面向公众提供 6 次免费纪录片专业公益课程，助力没有基础的 &amp;quot;小白&amp;quot; 进入纪录片创作领域。&lt;/p&gt;
+&lt;h2 id=&#34;课程安排&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程安排&#34;&gt;#&lt;/a&gt; 课程安排&lt;/h2&gt;
+&lt;h3 id=&#34;线上理论课&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#线上理论课&#34;&gt;#&lt;/a&gt; 线上理论课&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;日期&lt;/th&gt;
+&lt;th&gt;时间&lt;/th&gt;
+&lt;th&gt;培训课程&lt;/th&gt;
+&lt;th&gt;导师&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;07 月 14 日&lt;/td&gt;
+&lt;td&gt;14:00 - 16:30&lt;/td&gt;
+&lt;td&gt;自然纪录片如何讲好故事&lt;/td&gt;
+&lt;td&gt;陈熠之&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;07 月 21 日&lt;/td&gt;
+&lt;td&gt;14:00 - 16:30&lt;/td&gt;
+&lt;td&gt;从纪实摄影到记录电影的成功之路&lt;br/&gt;—— 从《俺爹俺娘》到《乡村里的中国》&lt;/td&gt;
+&lt;td&gt;焦波&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;07 月 28 日&lt;/td&gt;
+&lt;td&gt;14:00 - 16:30&lt;/td&gt;
+&lt;td&gt;记录有道 —— 纪录片拍摄 ABC&lt;/td&gt;
+&lt;td&gt;彭颖斌&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;08 月 04 日&lt;/td&gt;
+&lt;td&gt;14:00 - 16:30&lt;/td&gt;
+&lt;td&gt;讲故事不是剧情片的专属 —— 纪录片方法论&lt;/td&gt;
+&lt;td&gt;张琳&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;08 月 11 日&lt;/td&gt;
+&lt;td&gt;14:00 - 16:30&lt;/td&gt;
+&lt;td&gt;纪实观察类纪录片如何提案&lt;/td&gt;
+&lt;td&gt;韩蕾&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;08 月 25 日&lt;/td&gt;
+&lt;td&gt;14:00 - 16:30&lt;/td&gt;
+&lt;td&gt;纪录片制作与传播中的法律问题&lt;/td&gt;
+&lt;td&gt;冯世锋&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;课堂链接：&lt;a href=&#34;https://qpmln.xetslk.com/s/3fIT8y&#34;&gt;https://qpmln.xetslk.com/s/3fIT8y&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;线上课程结束后，符合结业条件的学员可申请结业证书，由广州图书馆审核通过后发放电子版证书。&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;作品征集&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#作品征集&#34;&gt;#&lt;/a&gt; 作品征集&lt;/h3&gt;
+&lt;p&gt;“2024WE 纪录” 的第二阶段，我们将向各位学员和广大的纪录片创作者征集以 “&lt;strong&gt;家园&lt;/strong&gt;” 为主题的原创纪录片作品，时长为 10-50 分钟。自拟题目、自主拍摄、自主剪辑制作。成片作品请于 8 月 31 日晚上 23 点 59 分之前提交至指定邮箱 &lt;a href=&#34;mailto:jilupian@gzlib.org.cn&#34;&gt;jilupian@gzlib.org.cn&lt;/a&gt; 。&lt;/p&gt;
+&lt;h2 id=&#34;行业名词&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#行业名词&#34;&gt;#&lt;/a&gt; 行业名词&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;拉片&lt;/strong&gt;：一个镜头一个镜头，一帧一帧地观看一部视频作品，根据需求去分析每一帧的光影、色彩、音效、构图、调度、运动、景别、机位等等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;相关链接&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#相关链接&#34;&gt;#&lt;/a&gt; 相关链接&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/gZKcJts_o-qo3PhWO1f51w&#34;&gt;“2024 WE 纪录” 创作培训营 | 与你共赴山海&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/8TfGyABc2dDO9Hj-xf7wvA&#34;&gt;专访｜纪录片《与象同行》导演陈熠之：于自然之境，探寻人与自然的共存之道&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="课程笔记" />
+        <category term="摄影" />
+        <updated>2024-07-14T08:10:40.000Z</updated>
+    </entry>
+</feed>

@@ -5,8 +5,8 @@
         <link>https://luhuadong.com</link>
         <description>阿基米东的生活笔记</description>
         <language>zh-CN</language>
-        <pubDate>Thu, 18 Apr 2024 13:56:56 +0800</pubDate>
-        <lastBuildDate>Thu, 18 Apr 2024 13:56:56 +0800</lastBuildDate>
+        <pubDate>Fri, 12 Jul 2024 13:51:04 +0800</pubDate>
+        <lastBuildDate>Fri, 12 Jul 2024 13:51:04 +0800</lastBuildDate>
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
@@ -101,6 +101,119 @@
         <category>零废弃</category>
         <category>低碳</category>
         <category>音乐</category>
+        <category>课程笔记</category>
+        <category>摄影</category>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/it/comparative-analysis-of-chinese-online-community-platforms.html</guid>
+            <title>中国主流社区型网络平台对比分析：小红书、知乎、豆瓣...</title>
+            <link>https://luhuadong.com/it/comparative-analysis-of-chinese-online-community-platforms.html</link>
+            <category>互联网</category>
+            <category>开发者</category>
+            <pubDate>Fri, 12 Jul 2024 13:51:04 +0800</pubDate>
+            <description><![CDATA[ &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;小红书&lt;/th&gt;
+&lt;th&gt;知乎&lt;/th&gt;
+&lt;th&gt;豆瓣&lt;/th&gt;
+&lt;th&gt;B 站&lt;/th&gt;
+&lt;th&gt;即刻&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;创立时间&lt;/td&gt;
+&lt;td&gt;2013 年 6 月&lt;/td&gt;
+&lt;td&gt;2011 年 1 月&lt;/td&gt;
+&lt;td&gt;2005 年 3 月&lt;/td&gt;
+&lt;td&gt;2009 年 6 月&lt;/td&gt;
+&lt;td&gt;2015 年 3 月&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;社区定位&lt;/td&gt;
+&lt;td&gt;网络购物和社交平台&lt;/td&gt;
+&lt;td&gt;中文问答社区网站&lt;/td&gt;
+&lt;td&gt;以书影音起家&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;一款基于兴趣的极简信息推送工具&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;国外类似平台&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Quora&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Slogan&lt;/td&gt;
+&lt;td&gt;你的生活指南&lt;/td&gt;
+&lt;td&gt;发现更大的世界&lt;/td&gt;
+&lt;td&gt;和有趣的人做有趣的事&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;日活用户&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/it/forem.html</guid>
             <title>Forem 开源的社区论坛软件框架</title>
