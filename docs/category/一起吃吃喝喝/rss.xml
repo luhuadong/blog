@@ -5,8 +5,8 @@
         <link>https://luhuadong.com</link>
         <description>阿基米东的生活笔记</description>
         <language>zh-CN</language>
-        <pubDate>Sat, 19 Aug 2023 18:51:15 +0800</pubDate>
-        <lastBuildDate>Sat, 19 Aug 2023 18:51:15 +0800</lastBuildDate>
+        <pubDate>Wed, 10 Jul 2024 12:42:47 +0800</pubDate>
+        <lastBuildDate>Wed, 10 Jul 2024 12:42:47 +0800</lastBuildDate>
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
@@ -103,6 +103,15 @@
         <category>音乐</category>
         <category>课程笔记</category>
         <category>摄影</category>
+        <item>
+            <guid isPermalink="true">https://luhuadong.com/recipes/kombucha.html</guid>
+            <title>康普茶（Kombucha）制作方法详解</title>
+            <link>https://luhuadong.com/recipes/kombucha.html</link>
+            <category>素食</category>
+            <pubDate>Wed, 10 Jul 2024 12:42:47 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;康普茶（Kombucha）起源于中国渤海湾附近，是一种古老的发酵茶饮料。因为富含益生菌，能够促进消化，因此在民间又被称为 “胃宝” 或者 “海宝”。虽然自 80 年代改革开放以来，碳酸饮料的盛行导致康普茶一度被遗忘，但如今这款风味独特，酸甜可口，低糖无酒精的健康饮料又重新被人们发现，成为了时下欧美国家风靡的酒精替代饮料。随着科学界对肠道菌群研究的深入，肠道是第二大脑的理念日益普及，康普茶也逐渐成为了每日餐桌上不可或缺的佐餐饮料。&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/recipes/curry-potatoes.html</guid>
             <title>【素食菜谱】咖喱蔬菜大杂烩</title>
