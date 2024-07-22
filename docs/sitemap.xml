@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://luhuadong.com/reading/company-of-one.html</loc>
+    
+    <lastmod>2024-07-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://luhuadong.com/movies/free-solo.html</loc>
+    
+    <lastmod>2024-07-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://luhuadong.com/movies/steve-jobs-the-lost-interview.html</loc>
     
     <lastmod>2024-07-22</lastmod>
@@ -59,15 +77,6 @@
     <loc>https://luhuadong.com/it/comparative-analysis-of-chinese-online-community-platforms.html</loc>
     
     <lastmod>2024-07-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://luhuadong.com/reading/company-of-one.html</loc>
-    
-    <lastmod>2024-07-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
