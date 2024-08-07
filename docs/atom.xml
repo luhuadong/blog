@@ -8227,7 +8227,8 @@ Forem 提供了一个全面的 RESTful API，允许开发者通过编程方式�
         <id>https://luhuadong.com/me/focus-open-source-projects.html</id>
         <title>我重点关注和参与的开源项目</title>
         <link rel="alternate" href="https://luhuadong.com/me/focus-open-source-projects.html"/>
-        <content type="html">&lt;p&gt;这里记录我本人平常比较关注的或者正在参与的一些开源软件（Open Source Software）项目。&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/me/opensource-banner.jpg&#34; alt=&#34;开源软件项目&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这里记录我本人平常比较关注的或者正在参与的一些开源软件（Open Source Software）项目。&lt;/p&gt;
 &lt;p&gt;我本人的 GitHub 地址是 &lt;a href=&#34;https://github.com/luhuadong&#34;&gt;https://github.com/luhuadong&lt;/a&gt;。&lt;/p&gt;
 &lt;h2 id=&#34;操作系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#操作系统&#34;&gt;#&lt;/a&gt; 操作系统&lt;/h2&gt;
 &lt;ul&gt;
