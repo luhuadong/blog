@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://luhuadong.com/me/my-big-five-for-life.html</loc>
+    
+    <lastmod>2024-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://luhuadong.com/reading/the-big-five-for-life.html</loc>
+    
+    <lastmod>2024-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://luhuadong.com/sports/baduanjin-exercise.html</loc>
     
     <lastmod>2024-09-15</lastmod>
@@ -41,15 +59,6 @@
     <loc>https://luhuadong.com/reading/nonviolent-communication.html</loc>
     
     <lastmod>2024-09-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://luhuadong.com/reading/the-big-five-for-life.html</loc>
-    
-    <lastmod>2024-08-07</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

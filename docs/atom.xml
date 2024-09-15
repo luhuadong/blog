@@ -3,7 +3,7 @@
     <id>https://luhuadong.com</id>
     <title>成为自由人</title>
     <link href="https://luhuadong.com" />
-    <updated>2024-09-15T04:03:16.000Z</updated>
+    <updated>2024-09-15T09:17:35.000Z</updated>
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
@@ -101,6 +101,19 @@
     <category term="课程笔记" />
     <category term="摄影" />
     <category term="运动" />
+    <entry>
+        <id>https://luhuadong.com/me/my-big-five-for-life.html</id>
+        <title>我的 PFE 和人生五事</title>
+        <link rel="alternate" href="https://luhuadong.com/me/my-big-five-for-life.html"/>
+        <content type="html">&lt;p&gt;2024 年 9 月 12 日下午，我在给自己和女友制作电子名片，我决定在名片背面写下我的 PFE 和人生五事。为此，我思考了一个下午，写下了第一版本的人生五事。我不确定这个版本以后会不会改动，也许会有一些微调吧，但大方向应该不变，因为我已经比较确定自己想成为什么样的人，想要什么样的生活了。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/me/my-big-five-for-life-2024.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;提示：PFE 是 Purpose For Existing 的缩写，即 “自己存在意义”。&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="人生" />
+        <updated>2024-09-15T09:17:35.000Z</updated>
+    </entry>
     <entry>
         <id>https://luhuadong.com/sports/baduanjin-exercise.html</id>
         <title>八段锦教学、口诀和动作要领</title>
@@ -394,6 +407,8 @@
 &lt;li&gt;&lt;strong&gt;持续学习和成长&lt;/strong&gt;：书中的哲理鼓励读者不断学习和成长，提升自己，以更好地实现人生目标。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;总之，本书通过一个感人的故事，传递了关于人生目标和意义的深刻智慧，对个人和职业发展都具有重要的启示和指导意义。尤其是处于迷茫期的朋友，特别推荐阅读！&lt;/p&gt;
+&lt;h2 id=&#34;彩蛋&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#彩蛋&#34;&gt;#&lt;/a&gt; 彩蛋&lt;/h2&gt;
+&lt;p&gt;👉️ &lt;a href=&#34;/me/my-big-five-for-life.html&#34;&gt;我的人生五事&lt;/a&gt;&lt;/p&gt;
 </content>
         <category term="修身" />
         <category term="读书笔记" />
