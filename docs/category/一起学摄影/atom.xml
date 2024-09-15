@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://luhuadong.com</id>
+    <title>成为自由人 • Posts by &#34;一起学摄影&#34; category</title>
+    <link href="https://luhuadong.com" />
+    <updated>2024-09-13T06:51:47.000Z</updated>
+    <category term="名言" />
+    <category term="奋斗" />
+    <category term="信息世界" />
+    <category term="商业" />
+    <category term="创业" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
+    <category term="程序员" />
+    <category term="职场" />
+    <category term="管理" />
+    <category term="人生" />
+    <category term="工作" />
+    <category term="物联网" />
+    <category term="Python" />
+    <category term="教孩子学编程" />
+    <category term="创客" />
+    <category term="比赛" />
+    <category term="科技向善" />
+    <category term="英语" />
+    <category term="成长" />
+    <category term="英语短文" />
+    <category term="学习" />
+    <category term="种植" />
+    <category term="健身" />
+    <category term="气象爱好者" />
+    <category term="指南" />
+    <category term="自律" />
+    <category term="思维模型" />
+    <category term="健康" />
+    <category term="Hexo" />
+    <category term="徒步" />
+    <category term="家居" />
+    <category term="科普" />
+    <category term="环保" />
+    <category term="可持续" />
+    <category term="能源" />
+    <category term="社会现象" />
+    <category term="独立开发者" />
+    <category term="碳中和" />
+    <category term="互联网" />
+    <category term="工程师" />
+    <category term="AI" />
+    <category term="开发者" />
+    <category term="职业" />
+    <category term="时间管理" />
+    <category term="milestone" />
+    <category term="总结" />
+    <category term="年终总结" />
+    <category term="慈济" />
+    <category term="爱" />
+    <category term="生活" />
+    <category term="RT-Thread" />
+    <category term="开源" />
+    <category term="写书" />
+    <category term="修身" />
+    <category term="思考" />
+    <category term="幸福" />
+    <category term="猫" />
+    <category term="日记" />
+    <category term="月报" />
+    <category term="读书笔记" />
+    <category term="地铁" />
+    <category term="Markdown" />
+    <category term="计划" />
+    <category term="股票" />
+    <category term="理财" />
+    <category term="投资" />
+    <category term="财富" />
+    <category term="保险" />
+    <category term="纪录片" />
+    <category term="自由" />
+    <category term="电影" />
+    <category term="策略" />
+    <category term="定律" />
+    <category term="心理学" />
+    <category term="无线电爱好者" />
+    <category term="亲密关系" />
+    <category term="农业" />
+    <category term="素食" />
+    <category term="性格测试" />
+    <category term="报告" />
+    <category term="TED" />
+    <category term="演讲" />
+    <category term="励志" />
+    <category term="时间" />
+    <category term="普拉提" />
+    <category term="游泳" />
+    <category term="声音训练" />
+    <category term="WordPress" />
+    <category term="垃圾分类" />
+    <category term="零废弃" />
+    <category term="低碳" />
+    <category term="音乐" />
+    <category term="课程笔记" />
+    <category term="摄影" />
+    <category term="运动" />
+    <entry>
+        <id>https://luhuadong.com/camera/photography-glossary.html</id>
+        <title>摄影术语入门（摄影名词解释）</title>
+        <link rel="alternate" href="https://luhuadong.com/camera/photography-glossary.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/camera/photography-banner-01.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;拍摄模式camera-modes&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#拍摄模式camera-modes&#34;&gt;#&lt;/a&gt; 拍摄模式（Camera Modes）&lt;/h2&gt;
+&lt;p&gt;相机通常预设多种拍摄模式用于控制光圈、快门和 ISO 感光度，例如全自动、光圈优先、快门优先、程序模式和手动模式等。建议新手学习并掌握光圈优先、快门优先和手动模式，它们可以覆盖大部分的拍摄场景。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;光圈优先&lt;/strong&gt;（Aperture Priority Mode）：由你来控制相机的光圈和感光度，而快门速度会由相机根据测光表来决定。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;快门优先&lt;/strong&gt;（Shutter Priority Mode）：由你来控制快门速度和感光度，而光圈则由相机根据测光表来决定。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;程序模式&lt;/strong&gt;（Program Mode）：由你来控制感光度，而光圈和快门则由相机决定。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;手动模式&lt;/strong&gt;（Manual Mode）：你可以完全控制相机的光圈、快门和感光度，相片的曝光和动态完全由你决定，这是最自由的拍摄模式。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;曝光三要素&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#曝光三要素&#34;&gt;#&lt;/a&gt; 曝光三要素&lt;/h2&gt;
+&lt;p&gt;曝光三要素：光圈、快门、ISO。&lt;/p&gt;
+&lt;h3 id=&#34;光圈aperture&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#光圈aperture&#34;&gt;#&lt;/a&gt; 光圈（Aperture）&lt;/h3&gt;
+&lt;p&gt;光圈位于镜头内，由光圈叶片控制大小。通常由  &lt;code&gt;f&lt;/code&gt;  数值表示，例如 f2.8 /f4 /f8 等。光圈大小会对进入相机的光线有所影响。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;光圈的大小影响了曝光和景深。&lt;/li&gt;
+&lt;li&gt;光圈越大，进光量越多，图片越亮。这就是光圈对曝光的影响。&lt;/li&gt;
+&lt;li&gt;大光圈可以创造很浅的景深，也就是前景和背景的模糊程度，在人像摄影，或者花卉，静物拍摄时，常常用到。而在风光摄影中，比较常用到小光圈。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;快门shutter&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#快门shutter&#34;&gt;#&lt;/a&gt; 快门（Shutter）&lt;/h3&gt;
+&lt;p&gt;快门速度是指相机内的快门打开的时间。快门越快，越可以凝固高速移动的物件；而慢快门则可以记录物体移动的时间。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;快门用来控制进光的时间，可以凝固动作或者创造模糊效果。&lt;/li&gt;
+&lt;li&gt;利用不同的快门速度，我们可以把高速移动的物体凝结住，例如飞行的鸟类，飞溅的水花等等，也可以拍出丝绢流水的效果，利用慢快门，我们甚至还可以拍出星轨。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;下面是常用的快门速度，可供大家参考使用。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;快门速度&lt;/th&gt;
+&lt;th&gt;通常运用场景&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1/4000&lt;/td&gt;
+&lt;td&gt;冻结极快运动。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1/2000&lt;/td&gt;
+&lt;td&gt;冻结飞行中的鸟类。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1/1000&lt;/td&gt;
+&lt;td&gt;冻结摩托车、汽车等高速行驶的车辆。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1/500&lt;/td&gt;
+&lt;td&gt;冻结骑行中的自行车、跑步者，或者运动员。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1/250&lt;/td&gt;
+&lt;td&gt;冻结慢速移动的人或者动物。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1/125&lt;/td&gt;
+&lt;td&gt;摇拍摩托车、汽车等高速行驶的汽车。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1/60&lt;/td&gt;
+&lt;td&gt;摇拍近处的山地自行车。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1/30&lt;/td&gt;
+&lt;td&gt;摇拍快速移动的自行车，并且有一定距离。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1/15&lt;/td&gt;
+&lt;td&gt;摇拍跑步者，移动的孩子或者动物。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1/8&lt;/td&gt;
+&lt;td&gt;近处快速流动的溪水拍出模糊的效果。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1/4&lt;/td&gt;
+&lt;td&gt;模糊拍摄人物的步行。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1/2&lt;/td&gt;
+&lt;td&gt;模糊低速流淌的水。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1 秒或更慢&lt;/td&gt;
+&lt;td&gt;丝绢流水的效果。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;iso感光度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#iso感光度&#34;&gt;#&lt;/a&gt; ISO（感光度）&lt;/h3&gt;
+&lt;p&gt;ISO 也就是感光度，是相机对光线的敏感度。感光度越高，要正常曝光所需的光线就越少，但噪点也会相对增加，清晰度下降。所以我们应该使用合适的感光值，不要用非必要的高感光度。&lt;/p&gt;
+&lt;p&gt;ISO 越高，照片越亮。但是过高的 ISO 会产生噪点，让图片画面质量变差。如果你的相机不够好，或者你的照片需要放大来看，那么建议你还是用低 ISO 来拍摄。因为提升亮度并不一定要提高 ISO，可以用大光圈，慢快门，调整 EV 等等。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在摄影中，ISO 等同于「感光度」的意思，它代表了底片（感光元件）对于光线的敏感程度。ISO 的英文全称是 International Standardization Organization，即国际标准化组织。因为是 ISO 组织把感光度做了量化的规定，所以大家也就把 ISO 叫做感光度了。&lt;/p&gt;
+&lt;p&gt;不过，最早的 ISO 感光度标准是针对胶片相机的，在数码相机时代，则把感光元件对于光线的灵敏度等效为传统胶片的感光度值。因此，数码相机 ISO 的严谨的叫法应该是「相对感光度」或者「相当感光度」。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;曝光exposure&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#曝光exposure&#34;&gt;#&lt;/a&gt; 曝光（Exposure）&lt;/h2&gt;
+&lt;p&gt;曝光分为曝光不足，曝光过度和曝光正确三种情况。&lt;/p&gt;
+&lt;p&gt;数码相机中有一个标有 -2~+2 的曝光计，在相机自动测光的基础上，“-” 表示曝光不足，“+” 则表示曝光过度，0 表示适当曝光。在通常情况下，以相机自动测光后得到的数值为基准，来判断是否曝光不足，适当曝光及曝光过度。&lt;/p&gt;
+&lt;h2 id=&#34;白平衡white-balance&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#白平衡white-balance&#34;&gt;#&lt;/a&gt; 白平衡（White Balance）&lt;/h2&gt;
+&lt;p&gt;白平衡就是相机的 AWB，用来调整相机捕捉的色彩。&lt;/p&gt;
+&lt;p&gt;一张照片的组成部分除了曝光（光圈、快门、感光度），颜色也是非常重要的一环。而要控制颜色，就需要设定相机的白平衡。现代数码相机一般有很多预设的白平衡模式，例如日光、阴影、阴天、白炽灯、荧光灯、日光、闪光灯等。当然，你也可以自定义白平衡的值。&lt;/p&gt;
+&lt;p&gt;简单来说，白平衡会影响照片的色温，通过调节白平衡，同一张照片我们可以产生完全不同的视觉效果。不过，白平衡虽然重要，但是我们完全可以在后期进行调整，在转瞬即逝的拍摄瞬间，建议大家不要把注意力放到白平衡上。&lt;/p&gt;
+&lt;h2 id=&#34;画幅&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#画幅&#34;&gt;#&lt;/a&gt; 画幅&lt;/h2&gt;
+&lt;p&gt;画幅，在胶片时代指的是胶片的尺寸规格，现在指的就是相机传感器（感光元件，CCD/CMOS）的尺寸。 全画幅相机的感光元件相当于一个胶片的大小（36×24 mm），而半画幅只有胶片的一半大小。相对来说，全画幅相机的画质更好、细节也更丰富。&lt;/p&gt;
+&lt;h3 id=&#34;全画幅full-frame&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#全画幅full-frame&#34;&gt;#&lt;/a&gt; 全画幅（Full-frame）&lt;/h3&gt;
+&lt;p&gt;全画幅相机是针对传统 135 胶卷的尺寸来说的。以前大部分的数码单反相机 CCD 尺寸都比 135 胶卷的尺寸小，而全画幅数码单反的 CCD（或 CMOS 的感光成像的元件）尺寸和 135 胶卷的尺寸相同，保持 36×24mm 规格为 135 格式的胶片大小。&lt;/p&gt;
+&lt;h3 id=&#34;半画幅half-frame&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#半画幅half-frame&#34;&gt;#&lt;/a&gt; 半画幅（Half-frame）&lt;/h3&gt;
+&lt;p&gt;半画幅也叫 APS-C 画幅（全称 Advanced Photo System type-C），其感光元件尺寸为 23.5×15.6mm 左右，全画幅的感光元件尺寸大约是半画幅相机的 2.3 倍。&lt;/p&gt;
+&lt;h2 id=&#34;参考资料&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#参考资料&#34;&gt;#&lt;/a&gt; 参考资料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fotobeginner.com/23283/photography-terms/&#34;&gt;攝影常見詞彙詳盡指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="摄影" />
+        <updated>2024-09-13T06:51:47.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://luhuadong.com/camera/sony-zv-1-m2-manual.html</id>
+        <title>索尼 Sony ZV-1 M2 相机使用指南</title>
+        <link rel="alternate" href="https://luhuadong.com/camera/sony-zv-1-m2-manual.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/camera/sony-zv-1-m2-banner.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;照相模式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#照相模式&#34;&gt;#&lt;/a&gt; 照相模式&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;智能自动（ &lt;code&gt;i&lt;/code&gt; ）&lt;/strong&gt;：自动识别场景的特点并拍摄静态影像。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;程序自动（ &lt;code&gt;P&lt;/code&gt; ）&lt;/strong&gt;：自动设定光圈和快门速度。在此自动静态影像拍摄模式，可根据需要设定其他设置。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;光圈优先（ &lt;code&gt;A&lt;/code&gt; ）&lt;/strong&gt;：调节光圈以改变对焦范围和背景模糊程度，然后拍摄静态影像。光圈值小可使前景和背景模糊，光圈值大可使背景清晰。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;快门优先（ &lt;code&gt;S&lt;/code&gt; ）&lt;/strong&gt;：手动调节快门速度以实现移动被摄体的不同效果，然后拍摄静态影像。较快速度可产生定格效果，较慢速度可拍摄到运动轨迹。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;手动曝光（ &lt;code&gt;M&lt;/code&gt; ）&lt;/strong&gt;：手动调节光圈和快门速度，然后拍摄静态影像。可使用长时间曝光拍摄具有拖曳效果的影像。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;夜景肖像&lt;/strong&gt;：自动启动闪光灯照亮前景被摄体，并使用慢速快门捕捉背景夜景。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="摄影" />
+        <updated>2024-09-12T14:06:18.000Z</updated>
+    </entry>
+</feed>
