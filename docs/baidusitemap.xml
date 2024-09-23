@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://luhuadong.com/thinking/sam-altman-36-life-lessons-before-age-30.html</loc>
+    <lastmod>2024-09-23</lastmod>
+  </url>
+  <url>
     <loc>https://luhuadong.com/me/my-big-five-for-life.html</loc>
-    <lastmod>2024-09-15</lastmod>
+    <lastmod>2024-09-23</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/reading/the-habits-of-hightly-effective-people.html</loc>
+    <lastmod>2024-09-23</lastmod>
   </url>
   <url>
     <loc>https://luhuadong.com/reading/the-big-five-for-life.html</loc>
@@ -162,7 +170,7 @@
   </url>
   <url>
     <loc>https://luhuadong.com/map/metro-kunming.html</loc>
-    <lastmod>2024-07-06</lastmod>
+    <lastmod>2024-07-07</lastmod>
   </url>
   <url>
     <loc>https://luhuadong.com/map/metro-kaohsiung.html</loc>
@@ -201,15 +209,19 @@
     <lastmod>2024-07-05</lastmod>
   </url>
   <url>
-    <loc>https://luhuadong.com/map/metro-xiamen.html</loc>
-    <lastmod>2024-07-05</lastmod>
-  </url>
-  <url>
     <loc>https://luhuadong.com/map/metro-changchun.html</loc>
     <lastmod>2024-07-05</lastmod>
   </url>
   <url>
+    <loc>https://luhuadong.com/map/metro-xiamen.html</loc>
+    <lastmod>2024-07-05</lastmod>
+  </url>
+  <url>
     <loc>https://luhuadong.com/map/guangdong-hongkong-macao-greater-bay-area.html</loc>
+    <lastmod>2024-07-05</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/map/guangdong-intercity-system-map.html</loc>
     <lastmod>2024-07-05</lastmod>
   </url>
   <url>
@@ -225,7 +237,23 @@
     <lastmod>2024-07-05</lastmod>
   </url>
   <url>
+    <loc>https://luhuadong.com/map/metro-changsha.html</loc>
+    <lastmod>2024-07-05</lastmod>
+  </url>
+  <url>
     <loc>https://luhuadong.com/map/metro-chengdu.html</loc>
+    <lastmod>2024-07-05</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/map/metro-dalian.html</loc>
+    <lastmod>2024-07-05</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/map/metro-foshan.html</loc>
+    <lastmod>2024-07-05</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/map/metro-fuzhou.html</loc>
     <lastmod>2024-07-05</lastmod>
   </url>
   <url>
@@ -234,6 +262,10 @@
   </url>
   <url>
     <loc>https://luhuadong.com/map/metro-hangzhou.html</loc>
+    <lastmod>2024-07-05</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/map/metro-harbin.html</loc>
     <lastmod>2024-07-05</lastmod>
   </url>
   <url>
@@ -253,23 +285,7 @@
     <lastmod>2024-07-05</lastmod>
   </url>
   <url>
-    <loc>https://luhuadong.com/map/guangdong-intercity-system-map.html</loc>
-    <lastmod>2024-07-05</lastmod>
-  </url>
-  <url>
     <loc>https://luhuadong.com/map/metro-tianjin.html</loc>
-    <lastmod>2024-07-05</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/map/metro-fuzhou.html</loc>
-    <lastmod>2024-07-05</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/map/metro-foshan.html</loc>
-    <lastmod>2024-07-05</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/map/metro-changsha.html</loc>
     <lastmod>2024-07-05</lastmod>
   </url>
   <url>
@@ -277,11 +293,7 @@
     <lastmod>2024-07-05</lastmod>
   </url>
   <url>
-    <loc>https://luhuadong.com/map/metro-harbin.html</loc>
-    <lastmod>2024-07-05</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/map/metro-dalian.html</loc>
+    <loc>https://luhuadong.com/map/metro-dongguan.html</loc>
     <lastmod>2024-07-05</lastmod>
   </url>
   <url>
@@ -298,10 +310,6 @@
   </url>
   <url>
     <loc>https://luhuadong.com/map/metro-singapore.html</loc>
-    <lastmod>2024-07-05</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/map/metro-dongguan.html</loc>
     <lastmod>2024-07-05</lastmod>
   </url>
   <url>
@@ -749,11 +757,11 @@
     <lastmod>2023-11-04</lastmod>
   </url>
   <url>
-    <loc>https://luhuadong.com/speech/ted-you-dont-need-more-than-two-years.html</loc>
+    <loc>https://luhuadong.com/speech/ted-why-30-is-not-the-new-20.html</loc>
     <lastmod>2023-11-04</lastmod>
   </url>
   <url>
-    <loc>https://luhuadong.com/speech/ted-why-30-is-not-the-new-20.html</loc>
+    <loc>https://luhuadong.com/speech/ted-you-dont-need-more-than-two-years.html</loc>
     <lastmod>2023-11-04</lastmod>
   </url>
   <url>
@@ -1349,10 +1357,6 @@
     <lastmod>2023-10-18</lastmod>
   </url>
   <url>
-    <loc>https://luhuadong.com/reading/the-habits-of-hightly-effective-people.html</loc>
-    <lastmod>2023-10-18</lastmod>
-  </url>
-  <url>
     <loc>https://luhuadong.com/reading/the-middle-passage.html</loc>
     <lastmod>2023-10-18</lastmod>
   </url>
@@ -1409,11 +1413,11 @@
     <lastmod>2023-10-18</lastmod>
   </url>
   <url>
-    <loc>https://luhuadong.com/management/stephen-covey-4-quadrants.html</loc>
+    <loc>https://luhuadong.com/management/pomodoro-technique.html</loc>
     <lastmod>2023-10-18</lastmod>
   </url>
   <url>
-    <loc>https://luhuadong.com/management/pomodoro-technique.html</loc>
+    <loc>https://luhuadong.com/management/stephen-covey-4-quadrants.html</loc>
     <lastmod>2023-10-18</lastmod>
   </url>
   <url>
@@ -1581,6 +1585,10 @@
     <lastmod>2023-10-18</lastmod>
   </url>
   <url>
+    <loc>https://luhuadong.com/career/programmers-law-of-survival.html</loc>
+    <lastmod>2023-10-18</lastmod>
+  </url>
+  <url>
     <loc>https://luhuadong.com/career/the-transformation-of-embedded-engineers-under-iot.html</loc>
     <lastmod>2023-10-18</lastmod>
   </url>
@@ -1590,10 +1598,6 @@
   </url>
   <url>
     <loc>https://luhuadong.com/coding/PyTK-2019-Day02.html</loc>
-    <lastmod>2023-10-18</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/career/programmers-law-of-survival.html</loc>
     <lastmod>2023-10-18</lastmod>
   </url>
   <url>
@@ -1661,11 +1665,11 @@
     <lastmod>2023-10-18</lastmod>
   </url>
   <url>
-    <loc>https://luhuadong.com/english/quick-spoken-english-travel-ticket.html</loc>
+    <loc>https://luhuadong.com/english/quick-spoken-english-travel-stay.html</loc>
     <lastmod>2023-10-18</lastmod>
   </url>
   <url>
-    <loc>https://luhuadong.com/english/quick-spoken-english-travel-stay.html</loc>
+    <loc>https://luhuadong.com/english/quick-spoken-english-travel-ticket.html</loc>
     <lastmod>2023-10-18</lastmod>
   </url>
   <url>

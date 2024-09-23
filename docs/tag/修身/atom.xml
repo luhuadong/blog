@@ -20,14 +20,15 @@
     <category term="物联网" />
     <category term="Python" />
     <category term="教孩子学编程" />
+    <category term="摄影" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
+    <category term="种植" />
     <category term="英语" />
     <category term="成长" />
     <category term="英语短文" />
     <category term="学习" />
-    <category term="种植" />
     <category term="健身" />
     <category term="气象爱好者" />
     <category term="指南" />
@@ -71,25 +72,28 @@
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
+    <category term="保险" />
     <category term="投资" />
     <category term="财富" />
-    <category term="保险" />
     <category term="纪录片" />
     <category term="自由" />
     <category term="电影" />
+    <category term="励志" />
+    <category term="音乐" />
+    <category term="课程笔记" />
     <category term="策略" />
     <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
+    <category term="素食" />
     <category term="亲密关系" />
     <category term="农业" />
-    <category term="素食" />
     <category term="性格测试" />
     <category term="报告" />
     <category term="TED" />
     <category term="演讲" />
-    <category term="励志" />
     <category term="时间" />
+    <category term="运动" />
     <category term="普拉提" />
     <category term="游泳" />
     <category term="声音训练" />
@@ -97,10 +101,6 @@
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
-    <category term="音乐" />
-    <category term="课程笔记" />
-    <category term="摄影" />
-    <category term="运动" />
     <entry>
         <id>https://luhuadong.com/reading/the-big-five-for-life.html</id>
         <title>《人生五事》读书笔记</title>
@@ -245,23 +245,25 @@
     </entry>
     <entry>
         <id>https://luhuadong.com/reading/the-habits-of-hightly-effective-people.html</id>
-        <title>《高效能人士的七个习惯》</title>
+        <title>《高效能人士的七个习惯》读书笔记</title>
         <link rel="alternate" href="https://luhuadong.com/reading/the-habits-of-hightly-effective-people.html"/>
-        <content type="html">&lt;h2 id=&#34;作者介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#作者介绍&#34;&gt;#&lt;/a&gt; 作者介绍&lt;/h2&gt;
+        <content type="html">&lt;p&gt;《高效能人士的七个习惯》是一本久负盛名的著作。在它的封皮上，写着 “在美国，此书影响力仅次于《圣经》”。&lt;/p&gt;
+&lt;h2 id=&#34;作者介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#作者介绍&#34;&gt;#&lt;/a&gt; 作者介绍&lt;/h2&gt;
 &lt;p&gt;本书作者史蒂芬・科维（Stephen R. Covey）是美国著名管理学大师，入选美《时代周刊》“影响美国历史进程的 25 位人物之一”，是美国家喻户晓的启蒙家。&lt;/p&gt;
 &lt;h2 id=&#34;七个习惯&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#七个习惯&#34;&gt;#&lt;/a&gt; 七个习惯&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;积极主动&lt;/li&gt;
-&lt;li&gt;以终为始&lt;/li&gt;
-&lt;li&gt;要事第一&lt;/li&gt;
-&lt;li&gt;双赢思维&lt;/li&gt;
-&lt;li&gt;知彼解己&lt;/li&gt;
-&lt;li&gt;统合综效&lt;/li&gt;
-&lt;li&gt;不断更新&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;积极主动&lt;/strong&gt;：个人愿景的原则&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;以终为始&lt;/strong&gt;：自我领导的原则&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;要事第一&lt;/strong&gt;：自我管理的原则&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;双赢思维&lt;/strong&gt;：人际领导的原则&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;知彼解己&lt;/strong&gt;：移情沟通的原则&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;统合综效&lt;/strong&gt;：创造性合作的原则&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不断更新&lt;/strong&gt;：平衡的自我提升原则&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;参考&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#参考&#34;&gt;#&lt;/a&gt; 参考&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://wklken.me/posts/2014/03/30/highly-effective-and-execution.html&#34;&gt;读书笔记 -- 高效能人士的七个习惯 + 执行 4 原则&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sspai.com/post/62405&#34;&gt;高效能人士的 2 个习惯：以终为始与要事第一&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
         <category term="修身" />

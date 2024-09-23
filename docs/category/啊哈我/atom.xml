@@ -20,14 +20,15 @@
     <category term="物联网" />
     <category term="Python" />
     <category term="教孩子学编程" />
+    <category term="摄影" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
+    <category term="种植" />
     <category term="英语" />
     <category term="成长" />
     <category term="英语短文" />
     <category term="学习" />
-    <category term="种植" />
     <category term="健身" />
     <category term="气象爱好者" />
     <category term="指南" />
@@ -71,25 +72,28 @@
     <category term="计划" />
     <category term="股票" />
     <category term="理财" />
+    <category term="保险" />
     <category term="投资" />
     <category term="财富" />
-    <category term="保险" />
     <category term="纪录片" />
     <category term="自由" />
     <category term="电影" />
+    <category term="励志" />
+    <category term="音乐" />
+    <category term="课程笔记" />
     <category term="策略" />
     <category term="定律" />
     <category term="心理学" />
     <category term="无线电爱好者" />
+    <category term="素食" />
     <category term="亲密关系" />
     <category term="农业" />
-    <category term="素食" />
     <category term="性格测试" />
     <category term="报告" />
     <category term="TED" />
     <category term="演讲" />
-    <category term="励志" />
     <category term="时间" />
+    <category term="运动" />
     <category term="普拉提" />
     <category term="游泳" />
     <category term="声音训练" />
@@ -97,10 +101,6 @@
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
-    <category term="音乐" />
-    <category term="课程笔记" />
-    <category term="摄影" />
-    <category term="运动" />
     <entry>
         <id>https://luhuadong.com/me/my-big-five-for-life.html</id>
         <title>我的 PFE 和人生五事</title>
@@ -108,8 +108,9 @@
         <content type="html">&lt;p&gt;2024 年 9 月 12 日下午，我在给自己和女友制作电子名片，我决定在名片背面写下我的 PFE 和人生五事。为此，我思考了一个下午，写下了第一版本的人生五事。我不确定这个版本以后会不会改动，也许会有一些微调吧，但大方向应该不变，因为我已经比较确定自己想成为什么样的人，想要什么样的生活了。&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/me/my-big-five-for-life-2024.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;提示：PFE 是 Purpose For Existing 的缩写，即 “自己存在意义”。&lt;/p&gt;
+&lt;p&gt;提示：PFE 是 Purpose For Existing 的缩写，即 “我为什么而活？”、“我存在的意义是什么？”。&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;当然，每个人对活着的意义有不同的看法，有的人没那么在意（不外乎吃喝玩乐）；而有的人很在乎意义感，找不到意义会让他们很痛苦。如果你相信自己是带着使命来到这个世界的，无论是为了自己、为了家庭、为了社会，还是为了国家，请你多了解自己，多思考、多观察自己内心真正渴望的目标。建立个人 PFE 之后，你就没那么容易迷茫、痛苦，因为 PFE 会为你建立一种深层的信仰和价值观，指引你前进的方向。&lt;/p&gt;
 </content>
         <category term="人生" />
         <updated>2024-09-15T09:17:35.000Z</updated>

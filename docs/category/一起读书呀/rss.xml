@@ -23,14 +23,15 @@
         <category>物联网</category>
         <category>Python</category>
         <category>教孩子学编程</category>
+        <category>摄影</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
+        <category>种植</category>
         <category>英语</category>
         <category>成长</category>
         <category>英语短文</category>
         <category>学习</category>
-        <category>种植</category>
         <category>健身</category>
         <category>气象爱好者</category>
         <category>指南</category>
@@ -74,25 +75,28 @@
         <category>计划</category>
         <category>股票</category>
         <category>理财</category>
+        <category>保险</category>
         <category>投资</category>
         <category>财富</category>
-        <category>保险</category>
         <category>纪录片</category>
         <category>自由</category>
         <category>电影</category>
+        <category>励志</category>
+        <category>音乐</category>
+        <category>课程笔记</category>
         <category>策略</category>
         <category>定律</category>
         <category>心理学</category>
         <category>无线电爱好者</category>
+        <category>素食</category>
         <category>亲密关系</category>
         <category>农业</category>
-        <category>素食</category>
         <category>性格测试</category>
         <category>报告</category>
         <category>TED</category>
         <category>演讲</category>
-        <category>励志</category>
         <category>时间</category>
+        <category>运动</category>
         <category>普拉提</category>
         <category>游泳</category>
         <category>声音训练</category>
@@ -100,10 +104,6 @@
         <category>垃圾分类</category>
         <category>零废弃</category>
         <category>低碳</category>
-        <category>音乐</category>
-        <category>课程笔记</category>
-        <category>摄影</category>
-        <category>运动</category>
         <item>
             <guid isPermalink="true">https://luhuadong.com/reading/the-minimalist-entrepreneur.html</guid>
             <title>《小而美：持续盈利的经营法则》读书笔记</title>
@@ -1409,26 +1409,28 @@
         </item>
         <item>
             <guid isPermalink="true">https://luhuadong.com/reading/the-habits-of-hightly-effective-people.html</guid>
-            <title>《高效能人士的七个习惯》</title>
+            <title>《高效能人士的七个习惯》读书笔记</title>
             <link>https://luhuadong.com/reading/the-habits-of-hightly-effective-people.html</link>
             <category>修身</category>
             <category>读书笔记</category>
             <pubDate>Mon, 22 Nov 2021 18:32:38 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;作者介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#作者介绍&#34;&gt;#&lt;/a&gt; 作者介绍&lt;/h2&gt;
+            <description><![CDATA[ &lt;p&gt;《高效能人士的七个习惯》是一本久负盛名的著作。在它的封皮上，写着 “在美国，此书影响力仅次于《圣经》”。&lt;/p&gt;
+&lt;h2 id=&#34;作者介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#作者介绍&#34;&gt;#&lt;/a&gt; 作者介绍&lt;/h2&gt;
 &lt;p&gt;本书作者史蒂芬・科维（Stephen R. Covey）是美国著名管理学大师，入选美《时代周刊》“影响美国历史进程的 25 位人物之一”，是美国家喻户晓的启蒙家。&lt;/p&gt;
 &lt;h2 id=&#34;七个习惯&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#七个习惯&#34;&gt;#&lt;/a&gt; 七个习惯&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;积极主动&lt;/li&gt;
-&lt;li&gt;以终为始&lt;/li&gt;
-&lt;li&gt;要事第一&lt;/li&gt;
-&lt;li&gt;双赢思维&lt;/li&gt;
-&lt;li&gt;知彼解己&lt;/li&gt;
-&lt;li&gt;统合综效&lt;/li&gt;
-&lt;li&gt;不断更新&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;积极主动&lt;/strong&gt;：个人愿景的原则&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;以终为始&lt;/strong&gt;：自我领导的原则&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;要事第一&lt;/strong&gt;：自我管理的原则&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;双赢思维&lt;/strong&gt;：人际领导的原则&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;知彼解己&lt;/strong&gt;：移情沟通的原则&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;统合综效&lt;/strong&gt;：创造性合作的原则&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不断更新&lt;/strong&gt;：平衡的自我提升原则&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;参考&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#参考&#34;&gt;#&lt;/a&gt; 参考&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://wklken.me/posts/2014/03/30/highly-effective-and-execution.html&#34;&gt;读书笔记 -- 高效能人士的七个习惯 + 执行 4 原则&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sspai.com/post/62405&#34;&gt;高效能人士的 2 个习惯：以终为始与要事第一&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
