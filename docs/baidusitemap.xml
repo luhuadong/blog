@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://luhuadong.com/thinking/sam-altman-36-life-lessons-before-age-30.html</loc>
-    <lastmod>2024-09-23</lastmod>
+    <loc>https://luhuadong.com/hexo/hexo-search.html</loc>
+    <lastmod>2024-09-27</lastmod>
   </url>
   <url>
     <loc>https://luhuadong.com/me/my-big-five-for-life.html</loc>
+    <lastmod>2024-09-25</lastmod>
+  </url>
+  <url>
+    <loc>https://luhuadong.com/thinking/sam-altman-36-life-lessons-before-age-30.html</loc>
     <lastmod>2024-09-23</lastmod>
   </url>
   <url>
@@ -618,10 +622,6 @@
   </url>
   <url>
     <loc>https://luhuadong.com/hexo/hexo-permalink.html</loc>
-    <lastmod>2024-01-22</lastmod>
-  </url>
-  <url>
-    <loc>https://luhuadong.com/hexo/hexo-search.html</loc>
     <lastmod>2024-01-22</lastmod>
   </url>
   <url>
