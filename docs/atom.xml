@@ -3,7 +3,7 @@
     <id>https://luhuadong.com</id>
     <title>成为自由人</title>
     <link href="https://luhuadong.com" />
-    <updated>2024-09-23T09:24:19.000Z</updated>
+    <updated>2024-10-15T16:12:33.000Z</updated>
     <category term="名言" />
     <category term="奋斗" />
     <category term="信息世界" />
@@ -101,6 +101,18 @@
     <category term="垃圾分类" />
     <category term="零废弃" />
     <category term="低碳" />
+    <entry>
+        <id>https://luhuadong.com/reading/best-selling-relationships-books.html</id>
+        <title>亲密关系推荐书单</title>
+        <link rel="alternate" href="https://luhuadong.com/reading/best-selling-relationships-books.html"/>
+        <content type="html">&lt;p&gt;亲密关系（Intimate relationship）指的是人与人之间的一种深层次的情感连接，这种关系通常建立在信任、互相理解、情感支持和亲密感的基础上。狭义上的亲密关系是指情侣或夫妻之间的关系，但更宽泛来说，亲密关系也可以存在于朋友、家庭成员等人际关系中。&lt;/p&gt;
+&lt;p&gt;亲密关系在人的生活中扮演着至关重要的角色，它不仅对个人的心理健康有深远影响，还能够促进个人成长和社会联系。但随着城市化和技术的进步，人与人之间的面对面互动逐渐减少，越来越多的人感到孤独、焦虑和抑郁。人们更加意识到与他人建立深厚情感联系对心理健康的积极影响，同时也愈发重视高质量亲密关系的构建。&lt;/p&gt;
+&lt;p&gt;因此本文分享一些有助于改善亲密关系的书籍，也是我自己读过之后感觉挺有收获的。&lt;/p&gt;
+</content>
+        <category term="读书笔记" />
+        <category term="亲密关系" />
+        <updated>2024-10-15T16:12:33.000Z</updated>
+    </entry>
     <entry>
         <id>https://luhuadong.com/thinking/sam-altman-36-life-lessons-before-age-30.html</id>
         <title>Sam Altman 的 36 条人生建议</title>
@@ -7799,9 +7811,9 @@ Forem 提供了一个全面的 RESTful API，允许开发者通过编程方式�
         <updated>2024-02-07T12:31:24.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/inchina/the-one-person-unicorn-startup.html</id>
+        <id>https://luhuadong.com/in/the-one-person-unicorn-startup.html</id>
         <title>一人独角兽</title>
-        <link rel="alternate" href="https://luhuadong.com/inchina/the-one-person-unicorn-startup.html"/>
+        <link rel="alternate" href="https://luhuadong.com/in/the-one-person-unicorn-startup.html"/>
         <content type="html">&lt;p&gt;“独角兽公司” 是投资界的一个术语，是指那些成立不超过 10 年但估值超过 10 亿美元（$1 billion），且未在股票市场上市的科技创业公司。&lt;/p&gt;
 &lt;p&gt;按照以往的认知，这种体量的公司至少要有几百名员工才能撑起来。但在 AI 时代，这种认知被颠覆了，我们可能很快就会看到一种全新的创业公司，即&lt;strong&gt;一个人的独角兽公司&lt;/strong&gt;。2024 年 2 月，OpenAI CEO Sam Altman 在接受 Reddit 联合创始人 Alexis Ohanian 的采访时表示：“因为 AI，人类历史上将首次出现一个人的公司就能市值过十亿没有，如果没有 AI，这是不可想象的，但未来可能会成为常态。”&lt;/p&gt;
 &lt;p&gt;当然，一人独角兽的定义并没有限制公司必须只有一个人，那些小团队高估值（高收入）的公司也都属于这个行列。比如 Instagram 以 10 亿美元的价格卖给 Facebook 时，员工只有 13 人；WhatsApp 在只有 35 名工程师的情况下支持了全球 4.5 亿用户，并以 190 亿美元被 Facebook 收购；还有当下的 AI 绘图软件 Midjourney，只有 11 名全职员工，在零融资的情况下，一年时间积累了 1300 万用户和一亿美金的营收。&lt;/p&gt;
@@ -8617,9 +8629,9 @@ Forem 提供了一个全面的 RESTful API，允许开发者通过编程方式�
         <updated>2023-10-31T12:30:22.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/inchina/digital-nomads.html</id>
+        <id>https://luhuadong.com/in/digital-nomads.html</id>
         <title>数字游民</title>
-        <link rel="alternate" href="https://luhuadong.com/inchina/digital-nomads.html"/>
+        <link rel="alternate" href="https://luhuadong.com/in/digital-nomads.html"/>
         <content type="html">&lt;p&gt;&lt;strong&gt;数字游民&lt;/strong&gt;（Digital Nomads）是指那些没有办公室等固定工作场所，利用互联网从事远程工作，在全球范围内移动生活的人群。这个概念并不算新，“数字游民” 这个词最早出现在 1997 年前日立公司的 CEO 牧本次雄出版的著作中，在经历新冠疫情后，远程办公的方式被越来越多人接受，也有越来越多的年轻人开始尝试数字游民的生活方式。&lt;/p&gt;
 &lt;p&gt;数字游民作为一种被数字信息技术赋能的全新生活方式，吸引人的地方在于它打破了工作与工作地点间的强关系，达成地理位置自由和时间自由。数字游民们可以在不同的城市，甚至在不同的国家进行远程工作，咖啡店、图书馆、共享办公空间甚至露营车，都可以成为他们的工作场所。&lt;/p&gt;
 &lt;p&gt;想要成为一名成功的数字游民，通常需要具有对应各种紧急状态的财务缓冲能力，同时也需要具有较好的自力更生和自律能力。&lt;/p&gt;
@@ -9140,10 +9152,10 @@ Forem 提供了一个全面的 RESTful API，允许开发者通过编程方式�
         <updated>2023-07-30T11:08:10.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/inchina/fan-duan-she-li.html</id>
+        <id>https://luhuadong.com/in/fan-duan-she-li.html</id>
         <title>反断舍离</title>
-        <link rel="alternate" href="https://luhuadong.com/inchina/fan-duan-she-li.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/inchina/fan-duan-she-li.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://luhuadong.com/in/fan-duan-she-li.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/in/fan-duan-she-li.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;“反断舍离” 和 “断舍离” 相反，是指现在一些年轻人反对扔掉废旧多余之物，将其保留，或改造出其他用途，竭尽全力挖掘剩余价值，从而节省花销的现象。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“现在最重要的是省钱，什么断舍离，那不是浪费吗？” —— 网友&lt;/p&gt;
@@ -9183,10 +9195,10 @@ Forem 提供了一个全面的 RESTful API，允许开发者通过编程方式�
         <updated>2023-07-17T17:04:07.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/inchina/du-li-chu-jia-ren.html</id>
+        <id>https://luhuadong.com/in/du-li-chu-jia-ren.html</id>
         <title>独立出家人</title>
-        <link rel="alternate" href="https://luhuadong.com/inchina/du-li-chu-jia-ren.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/inchina/du-li-chu-jia-ren.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://luhuadong.com/in/du-li-chu-jia-ren.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/in/du-li-chu-jia-ren.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;我们知道，独立音乐人指没有和任何唱片公司签约的音乐人，自己录歌，自己宣传。独立制片人是指不依赖于专业商业公司或制片厂，拍摄制作相对比较自由的电影制片人。&lt;/p&gt;
 &lt;p&gt;“独立出家人” 是指不依赖于任何道观或寺院，不需要成为名义上的和尚、尼姑，以比较自由和灵活的方式隐居、吃斋、修道的人。他们通常选择定期离开亲人、家庭、事业这些世俗世界，关注自我的身心灵成长，提升悟性。&lt;/p&gt;
 &lt;p&gt;注：不依赖于任何道观或寺院的原因是条件太高了，按照宗教政策，寺庙和道观分别归佛教协会和道教协会管理，也就是说，在庙里上班的和尚可能是有事业编制的。&lt;/p&gt;
@@ -9195,10 +9207,10 @@ Forem 提供了一个全面的 RESTful API，允许开发者通过编程方式�
         <updated>2023-07-11T14:27:29.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/inchina/si-bu-qing-nian.html</id>
+        <id>https://luhuadong.com/in/si-bu-qing-nian.html</id>
         <title>四不青年</title>
-        <link rel="alternate" href="https://luhuadong.com/inchina/si-bu-qing-nian.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/inchina/si-bu-qing-nian.png&#34; alt=&#34;四不青年&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://luhuadong.com/in/si-bu-qing-nian.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/in/si-bu-qing-nian.png&#34; alt=&#34;四不青年&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;香港《星岛日报》报导，受冠病疫情长达三年影响，中国经济不景气，当地青年失业率超过 20%。从今年三月起，“四不青年” 这个词汇开始在网络流行起来。&lt;/p&gt;
 &lt;p&gt;四不指的是：不恋爱、不结婚、不买房和不生子。官方呼吁通过多方力量，把 “四不” 现象转为 “四要” （要谈恋爱、要结婚、要买房、要孩子）。&lt;/p&gt;
 &lt;p&gt;众多网友表示，并非自己不想找对象、买房、结婚、生子，而是根本没能力实现这些目标。&lt;/p&gt;
@@ -9208,10 +9220,10 @@ Forem 提供了一个全面的 RESTful API，允许开发者通过编程方式�
         <updated>2023-07-11T14:27:16.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/inchina/kong-qian-jue-hou.html</id>
+        <id>https://luhuadong.com/in/kong-qian-jue-hou.html</id>
         <title>空前绝后</title>
-        <link rel="alternate" href="https://luhuadong.com/inchina/kong-qian-jue-hou.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/inchina/kong-qian-jue-hou.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://luhuadong.com/in/kong-qian-jue-hou.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/in/kong-qian-jue-hou.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;“空前绝后” 是指掏空上一代积蓄，透支未来而来买房，最后还落得不敢结婚、不敢生子的结局。&lt;/p&gt;
 &lt;p&gt;只能说，我们这一届没有背景的青年人太难了。&lt;/p&gt;
 </content>
