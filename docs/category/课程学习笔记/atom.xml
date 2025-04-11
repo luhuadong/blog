@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://luhuadong.com</id>
+    <id>https://blog.luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;课程学习笔记&#34; category</title>
-    <link href="https://luhuadong.com" />
+    <link href="https://blog.luhuadong.com" />
     <updated>2024-07-14T08:10:40.000Z</updated>
     <category term="名言" />
     <category term="奋斗" />
@@ -10,15 +10,15 @@
     <category term="商业" />
     <category term="创业" />
     <category term="摄影" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
@@ -35,8 +35,8 @@
     <category term="自律" />
     <category term="思维模型" />
     <category term="健康" />
-    <category term="Hexo" />
     <category term="徒步" />
+    <category term="Hexo" />
     <category term="家居" />
     <category term="科普" />
     <category term="环保" />
@@ -67,9 +67,9 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
+    <category term="地铁" />
     <category term="股票" />
     <category term="理财" />
     <category term="保险" />
@@ -102,9 +102,9 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/notes/2024-we-documentary-courses.html</id>
+        <id>https://blog.luhuadong.com/notes/2024-we-documentary-courses.html</id>
         <title>2024 WE 纪录创作培训营课程笔记</title>
-        <link rel="alternate" href="https://luhuadong.com/notes/2024-we-documentary-courses.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/notes/2024-we-documentary-courses.html"/>
         <content type="html">&lt;h2 id=&#34;课程背景&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程背景&#34;&gt;#&lt;/a&gt; 课程背景&lt;/h2&gt;
 &lt;p&gt;广州图书馆请来纪录片领域的大咖线上授课，从纪录片拍摄的理论到实践，面向公众提供 6 次免费纪录片专业公益课程，助力没有基础的 &amp;quot;小白&amp;quot; 进入纪录片创作领域。&lt;/p&gt;
 &lt;h2 id=&#34;课程安排&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程安排&#34;&gt;#&lt;/a&gt; 课程安排&lt;/h2&gt;

@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://luhuadong.com</id>
+    <id>https://blog.luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;人际关系研究所&#34; category</title>
-    <link href="https://luhuadong.com" />
+    <link href="https://blog.luhuadong.com" />
     <updated>2024-04-06T05:27:14.000Z</updated>
     <category term="名言" />
     <category term="奋斗" />
@@ -10,15 +10,15 @@
     <category term="商业" />
     <category term="创业" />
     <category term="摄影" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
@@ -35,8 +35,8 @@
     <category term="自律" />
     <category term="思维模型" />
     <category term="健康" />
-    <category term="Hexo" />
     <category term="徒步" />
+    <category term="Hexo" />
     <category term="家居" />
     <category term="科普" />
     <category term="环保" />
@@ -67,9 +67,9 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
+    <category term="地铁" />
     <category term="股票" />
     <category term="理财" />
     <category term="保险" />
@@ -102,10 +102,10 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/relationship/mbti-personality-test.html</id>
+        <id>https://blog.luhuadong.com/relationship/mbti-personality-test.html</id>
         <title>MBTI 性格测试与 16 型人格分析</title>
-        <link rel="alternate" href="https://luhuadong.com/relationship/mbti-personality-test.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/relationship/MBTI-banner.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/relationship/mbti-personality-test.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/relationship/MBTI-banner.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;MBTI 是一种经典的人格类型测评工具，它是基于心理分析家卡尔・荣格的书籍《心理类型》衍生而来的。通过对个体心理偏好的测试和分析，可以帮助个体理解自己和彼此的认知与决策倾向。&lt;/p&gt;
 &lt;p&gt;如今，MBTI 已经成为全球通用的一种人格分类方法，被广泛应用于商业、军事、教育等各个领域，在人们的日常社交、职业选择、情感沟通等方面起到良好的促进作用。&lt;/p&gt;
 &lt;h2 id=&#34;mbti-测试的起源&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mbti-测试的起源&#34;&gt;#&lt;/a&gt; MBTI 测试的起源&lt;/h2&gt;
@@ -368,9 +368,9 @@
         <updated>2024-04-06T05:27:14.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/relationship/irrelationship.html</id>
+        <id>https://blog.luhuadong.com/relationship/irrelationship.html</id>
         <title>假性亲密关系</title>
-        <link rel="alternate" href="https://luhuadong.com/relationship/irrelationship.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/relationship/irrelationship.html"/>
         <content type="html">&lt;h2 id=&#34;什么是假性亲密关系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么是假性亲密关系&#34;&gt;#&lt;/a&gt; 什么是假性亲密关系&lt;/h2&gt;
 &lt;p&gt;假性亲密关系（Irrelationship）是指很多人在情感里的连结处于很浅层的状态，然后又处于不作为的状态。&lt;/p&gt;
 &lt;p&gt;《假性亲密关系》一书中有这样一段话：&lt;/p&gt;
@@ -383,23 +383,23 @@
         <updated>2023-01-25T06:29:51.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/relationship/emotional-bank-account.html</id>
+        <id>https://blog.luhuadong.com/relationship/emotional-bank-account.html</id>
         <title>情感账户</title>
-        <link rel="alternate" href="https://luhuadong.com/relationship/emotional-bank-account.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/relationship/emotional-bank-account.html"/>
         <content type="html">&lt;p&gt;情感账户，是人际关系的一种比喻，这个账户里存的是信任，价值，情感。情商中所谓的 “人际关系处理”，本质上就是在情感账户里存款和取款的行为。&lt;/p&gt;
 </content>
         <category term="爱" />
         <updated>2021-11-22T10:16:46.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/relationship/the-36-questions-that-spark-intimacy.html</id>
+        <id>https://blog.luhuadong.com/relationship/the-36-questions-that-spark-intimacy.html</id>
         <title>36个能引发亲密关系的问题</title>
-        <link rel="alternate" href="https://luhuadong.com/relationship/the-36-questions-that-spark-intimacy.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/relationship/the-36-questions-that-spark-intimacy.html"/>
         <content type="html">&lt;h2 id=&#34;引言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#引言&#34;&gt;#&lt;/a&gt; 引言&lt;/h2&gt;
 &lt;p&gt;心理学家阿瑟・阿伦（Arthur Aron）曾做过一个实验：让两个陌生人轮流回答 36 个问题，回答完后互相凝视 4 分钟。据说，在完成这个实验后，2 个陌生人可以迅速相爱。&lt;/p&gt;
 &lt;p&gt;这个理论的核心是：&lt;strong&gt;深度了解能促进亲密感。双方经过真诚的倾诉后，分享的心理会把彼此带入一个相互信任、找寻共鸣的状态。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这种情况下再进行能造成生理激发（Arousal）的对视，那么就极易发生想去爱的冲动。不得不承认，很多关系之所以无法善始善终，就是因为始终缺少深度的沟通与了解，永远只浮于表面。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/psychology/penny-and-sheldon.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/psychology/penny-and-sheldon.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;36个问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#36个问题&#34;&gt;#&lt;/a&gt; 36 个问题&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -574,59 +574,59 @@
         <updated>2021-03-27T05:54:58.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/relationship/have-not-found-a-soulmate-yet.html</id>
+        <id>https://blog.luhuadong.com/relationship/have-not-found-a-soulmate-yet.html</id>
         <title>为什么找不到灵魂伴侣</title>
-        <link rel="alternate" href="https://luhuadong.com/relationship/have-not-found-a-soulmate-yet.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/relationship/have-not-found-a-soulmate-yet.html"/>
         <content type="html">&lt;p&gt;今天是大年初三，也是 2.14 情人节，希望有情人终成眷属～&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;插画来自 IG：herta_burbe&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;img src=&#34;/images/love_story/a001.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/love_story/a001.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;父母从小培养我，把我塑造成他们想要的样子。&lt;/p&gt;
-&lt;img src=&#34;/images/love_story/a002.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/love_story/a002.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;我知道他们是为我好，所以我努力去达到他们的要求。可我还是我，没办法丢弃那些属于我的特质。我学会了伪装，甚至掩饰自己的内心，只有我才知道，真实的我是怎么样的。&lt;/p&gt;
-&lt;img src=&#34;/images/love_story/a003.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/love_story/a003.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;有时候，我害怕受伤，我抱怨没人理解我，我把脆弱的那部分锁起来不让别人看见。&lt;/p&gt;
-&lt;img src=&#34;/images/love_story/a004.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/love_story/a004.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;只有面对那浩瀚的大海，我才敢做自己，那么真实，那么自在！&lt;/p&gt;
-&lt;img src=&#34;/images/love_story/b001.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/love_story/b001.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;家人朋友都催我早点结婚，他们说生活就是平平淡淡、简简单单，想太多只会徒增烦恼。（不过，他们简单的外表底下，没准还藏着一个复杂的内心，谁知道呢。）&lt;/p&gt;
-&lt;img src=&#34;/images/love_story/b002.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/love_story/b002.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;有的人符合这个需求，有的人符合那个需求，可就是没有遇到完全契合的另一半。&lt;/p&gt;
-&lt;img src=&#34;/images/love_story/b003.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/love_story/b003.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;有的人本身就足够完美，根本没必要读懂我。&lt;/p&gt;
-&lt;img src=&#34;/images/love_story/b004.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/love_story/b004.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;有的人愿意接纳我、包容我，可又太贫瘠、太无趣。&lt;/p&gt;
-&lt;img src=&#34;/images/love_story/c001.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/love_story/c001.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;好不容易遇到契合的人，却早已成为别人对象，而且他们看起来也挺好的。&lt;/p&gt;
-&lt;img src=&#34;/images/love_story/c002.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/love_story/c002.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;我开始考虑要不要像别人一样，找个不那么契合的，慢慢磨合，说不定也挺好的。&lt;/p&gt;
 &lt;p&gt;可是当我看到他们为了配合另一方，改变自己，不惜把自己弄得遍体鳞伤。这真的值得吗？&lt;/p&gt;
-&lt;img src=&#34;/images/love_story/c003.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/love_story/c003.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;一旦不想再改变了，或者不再能够满足对方的需求了，就会被无情地抛弃。&lt;/p&gt;
 &lt;p&gt;我不想，也不敢委屈自己，我害怕那些不好的事情会发生在我身上......&lt;/p&gt;
-&lt;img src=&#34;/images/love_story/d001.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/love_story/d001.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;我陷入了沉思，爱情是什么？婚姻又是什么？如果大家都变得不像自己，如果大家都难受，那还有意义吗？&lt;/p&gt;
-&lt;img src=&#34;/images/love_story/d002.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/love_story/d002.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;孤单其实也没那么可怕，因为我已经能很好地和自己独处了呀～我不在乎别人的评价，那些别人看起来奇奇怪怪的特质，我知道它们一定会绽放绚丽的色彩，丰富我的生命。&lt;/p&gt;
-&lt;img src=&#34;/images/love_story/d003.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/love_story/d003.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;我许了个愿，希望能早日找到那个合适的对象。&lt;/p&gt;
-&lt;img src=&#34;/images/love_story/e001.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/love_story/e001.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;我问女神：怎么样才能像你这么完美？&lt;/p&gt;
 &lt;p&gt;女神回答：没有人生来就是完美的！完善自己，是你一生要完成的使命。&lt;/p&gt;
-&lt;img src=&#34;/images/love_story/e002.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/love_story/e002.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;是啊！我们总是习惯向外索取，希望别人能填补我们的缺口，却忘了要努力做好自己，不断完善自己。&lt;/p&gt;
-&lt;img src=&#34;/images/love_story/e003.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/love_story/e003.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;通过不断学习、培养兴趣，丰富自己的精神世界。&lt;/p&gt;
-&lt;img src=&#34;/images/love_story/e005.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/love_story/e005.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;让自己成为一个懂得付出、充满爱的人。&lt;/p&gt;
-&lt;img src=&#34;/images/love_story/f001.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/love_story/f001.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;虽然我在不断完善，但我偶尔还是会来到海边，跟真实的自己聊聊天，憧憬未来。&lt;/p&gt;
-&lt;img src=&#34;/images/love_story/f002.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/love_story/f002.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;也许，那个契合的另一半，就在某个地方。和我一样，努力地完善自己，静静地等待着。&lt;/p&gt;
-&lt;img src=&#34;/images/love_story/f004.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/love_story/f004.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;哪怕最后还是没有遇到，起码我已经在这场修行中完善了自己，不虚此行。&lt;/p&gt;
-&lt;img src=&#34;/images/love_story/f003.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/love_story/f003.jpg&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;爱情的意义在于帮助对方提高，同时也提高自己。希望大家都能早日找到属于你的幸福～&lt;/p&gt;
 </content>
         <category term="爱" />

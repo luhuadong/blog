@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://luhuadong.com</id>
+    <id>https://blog.luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;哲思学堂&#34; category</title>
-    <link href="https://luhuadong.com" />
+    <link href="https://blog.luhuadong.com" />
     <updated>2023-07-02T03:53:47.000Z</updated>
     <category term="名言" />
     <category term="奋斗" />
@@ -10,15 +10,15 @@
     <category term="商业" />
     <category term="创业" />
     <category term="摄影" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
@@ -35,8 +35,8 @@
     <category term="自律" />
     <category term="思维模型" />
     <category term="健康" />
-    <category term="Hexo" />
     <category term="徒步" />
+    <category term="Hexo" />
     <category term="家居" />
     <category term="科普" />
     <category term="环保" />
@@ -67,9 +67,9 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
+    <category term="地铁" />
     <category term="股票" />
     <category term="理财" />
     <category term="保险" />
@@ -102,9 +102,9 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/wisdom/five-chapters-of-life.html</id>
+        <id>https://blog.luhuadong.com/wisdom/five-chapters-of-life.html</id>
         <title>人生五章</title>
-        <link rel="alternate" href="https://luhuadong.com/wisdom/five-chapters-of-life.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/wisdom/five-chapters-of-life.html"/>
         <content type="html">&lt;p&gt;《人生五章》是波歇。尼尔森的一首很治愈的诗，却也很写实，描述了我们遇到问题的反应以及最终如何去解决这个问题的心理过程。如果你正好在困境中，希望这首诗能给你一些启发！&lt;/p&gt;
 &lt;h2 id=&#34;第一章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章&#34;&gt;#&lt;/a&gt; 第一章&lt;/h2&gt;
 &lt;p&gt;我走上街，&lt;br /&gt;
@@ -143,9 +143,9 @@
         <updated>2023-07-02T03:53:47.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/wisdom/the-bride-price-of-nine-cows.html</id>
+        <id>https://blog.luhuadong.com/wisdom/the-bride-price-of-nine-cows.html</id>
         <title>九头牛的故事</title>
-        <link rel="alternate" href="https://luhuadong.com/wisdom/the-bride-price-of-nine-cows.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/wisdom/the-bride-price-of-nine-cows.html"/>
         <content type="html">&lt;h2 id=&#34;故事&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#故事&#34;&gt;#&lt;/a&gt; 故事&lt;/h2&gt;
 &lt;p&gt;从前有两个兄弟，他们发现村子里没有称心如意的姑娘，于是决定一起到外面寻找心仪的姑娘。&lt;/p&gt;
 &lt;p&gt;在离开家乡之后，他们走了很多地方，有一天他们来到一个渔村，在村头碰到了一个姑娘，弟弟觉得那位姑娘正是自己的心目中人，或许这就是一见钟情，所以他决定留下来。&lt;/p&gt;
@@ -154,7 +154,7 @@
 &lt;p&gt;可弟弟执意留下。哥哥就对弟弟说 “既然你喜欢，就留下好了，我还要去找我喜欢的人。”&lt;/p&gt;
 &lt;p&gt;于是弟弟就辞别了哥哥，到当地打听求婚的习俗。当地人告诉他求婚要送牛的，普通的女孩只需要送一两头牛，贤惠漂亮的女孩要送多些，也就是说四五头。最多的是送九头牛，这样的女孩是非常优秀的，很少见这里，根本就没有人送过九头牛。&lt;/p&gt;
 &lt;p&gt;结果弟弟买了九头牛，浩浩荡荡地赶着牛群去求婚了。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/wisdom/nine-cows.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/wisdom/nine-cows.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;敲开女孩家的门时，女孩的父亲出来了，扶着门框吃惊的问：“年轻人有什么事？”&lt;/p&gt;
 &lt;p&gt;弟弟说：“老伯伯，我看上了你家的女儿，我赶着牛来是求婚的。”&lt;/p&gt;
 &lt;p&gt;老人说：“你求婚也用不着赶这么多牛来，我家女儿只是一个普通人，最多只要三四头牛就行了。你送这么多牛来是不对的，如果我收下了，邻居会笑话的。”&lt;/p&gt;

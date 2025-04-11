@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>成为自由人 • Posts by &#34;职场&#34; tag</title>
-        <link>https://luhuadong.com</link>
+        <link>https://blog.luhuadong.com</link>
         <description>阿基米东的成长笔记</description>
         <language>zh-CN</language>
         <pubDate>Tue, 18 Jul 2023 01:04:07 +0800</pubDate>
@@ -13,15 +13,15 @@
         <category>商业</category>
         <category>创业</category>
         <category>摄影</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
@@ -38,8 +38,8 @@
         <category>自律</category>
         <category>思维模型</category>
         <category>健康</category>
-        <category>Hexo</category>
         <category>徒步</category>
+        <category>Hexo</category>
         <category>家居</category>
         <category>科普</category>
         <category>环保</category>
@@ -70,9 +70,9 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
+        <category>地铁</category>
         <category>股票</category>
         <category>理财</category>
         <category>保险</category>
@@ -105,9 +105,9 @@
         <category>零废弃</category>
         <category>低碳</category>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/career-path-dependence.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/career-path-dependence.html</guid>
             <title>摆脱职业路径依赖</title>
-            <link>https://luhuadong.com/career/career-path-dependence.html</link>
+            <link>https://blog.luhuadong.com/career/career-path-dependence.html</link>
             <category>职场</category>
             <pubDate>Tue, 18 Jul 2023 01:04:07 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;什么是职业路径依赖&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么是职业路径依赖&#34;&gt;#&lt;/a&gt; 什么是职业路径依赖&lt;/h2&gt;
@@ -135,9 +135,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/interviewer-s-trouble.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/interviewer-s-trouble.html</guid>
             <title>面试官的烦恼：可持续的优秀团队</title>
-            <link>https://luhuadong.com/career/interviewer-s-trouble.html</link>
+            <link>https://blog.luhuadong.com/career/interviewer-s-trouble.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Fri, 28 Oct 2022 15:26:07 +0800</pubDate>
@@ -166,20 +166,20 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/how-to-be-a-good-mentor.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/how-to-be-a-good-mentor.html</guid>
             <title>如何做好职场导师，帮助新人成长</title>
-            <link>https://luhuadong.com/career/how-to-be-a-good-mentor.html</link>
+            <link>https://blog.luhuadong.com/career/how-to-be-a-good-mentor.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Sat, 09 Jul 2022 08:18:25 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/career/mentor-cover-01.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/career/mentor-cover-01.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;故事背景&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#故事背景&#34;&gt;#&lt;/a&gt; 故事背景&lt;/h2&gt;
 &lt;p&gt;最近我在职场上的角色有些变化，以前都是作为最底层的程序员，完成别人指派的工作（被摁在地上摩擦）。现在其实也是程序员，也要写代码，不过多了其他一些任务和职责。其中一个任务就是作为新人（应届生）的导师，制定培养计划，帮助他们顺利进入职场，为公司发光发热。一开始我是拒绝的，因为最近真的有点忙，而且我社恐。。。其实吧，在以前的公司也带过应届生，不过是平级的关系，也不用制定培养计划，跟着做项目就行了，做不好就骂。但是现在变成了上下级的关系，其实我内心挺忐忑的，要是把人家小朋友骂跑了或者带坏了怎么办？而且这事又很难体现在我的绩效上面，毕竟赚钱要紧呀。&lt;/p&gt;
 &lt;p&gt;后来跟我的上级聊，跟我的朋友聊，我才开始慢慢接受了这个任务。在过去很长一段时间里，我一直处于成长和学习的状态，我感觉自己还需要别人赋能帮助我实现我的想法，而不是我为别人赋能。不过上周五项目阶段性复盘的时候，看到大家把我写在了 “最感谢的人” 一栏，还是挺意外的，原来我也能这么轻易地为别人赋能，帮助大家更高效地完成工作。我的朋友说：“很多优秀的架构师、优秀的 Team Leader、优秀的 Mentor 差不多就是 30 岁这个年纪冒出来的，你要勇敢地接受这个挑战！”&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/career/mentor-cover-02.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/career/mentor-cover-02.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;故事发展&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#故事发展&#34;&gt;#&lt;/a&gt; 故事发展&lt;/h2&gt;
 &lt;p&gt;现在，应届生已经入职一周了。上周公司举办了一个简单的拜师仪式，还要导师们为他们每个人选一本书，手写一张卡片作为见面礼，老尴尬了。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/career/Asensing_20220705.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/career/Asensing_20220705.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;新人来到部门的第一天，我组织了一个会议，介绍了我们事业部的情况以及现在做的产品，系统的架构以及用到的一些技术。同时了解了一下他们的基本情况，以便于制定未来六个月试用期的工作目标和培养计划。然后临时给了一些资料和学习任务，让新同学这几天先学习一下。&lt;/p&gt;
 &lt;p&gt;其实我现在还有点不适应，一方面感觉新人还是有点拘谨，我还要想办法搞好关系，这并不是我擅长的。另一方面感觉学校培养的毕业生水平还是暂时无法满足企业的用人需求，所以要非常认真地去对待他们的培养计划。可能是因为在开源社区和创客圈混久了，看到很多优秀的 95 后甚至 00 后，我以为现在的年轻人应该都很有想法、有目标、有强劲的学习动力，现在看来应该还是少数吧。&lt;/p&gt;
 &lt;p&gt;如果在 20 多岁的时候就能找到了自己热爱的事物，其实已经领先一大步了。&lt;/p&gt;
@@ -220,13 +220,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/20220702.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/journal/20220702.html</guid>
             <title>我好像升职了，又好像没有</title>
-            <link>https://luhuadong.com/journal/20220702.html</link>
+            <link>https://blog.luhuadong.com/journal/20220702.html</link>
             <category>职场</category>
             <category>日记</category>
             <pubDate>Sat, 02 Jul 2022 22:43:40 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/journal/photo-1543269664-56d93c1b41a6.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/photo-1543269664-56d93c1b41a6.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;上个月 28 号，在新公司工作刚好满三个月了，进行了一场转正答辩。评委包括我们事业部的总裁、软件部部长、硬件部部长，以及我们部门的专属 HR。为了准备这次答辩，我很早就开始写 PPT 了，沿用了敏捷开发的思路，一边写一边改，写稿件、画图表，最后一共做了 19 页 PPT，详细地描述了我在这三个月里做了些什么，取得了哪些成果，以及未来的职业规划。&lt;/p&gt;
 &lt;p&gt;转正答辩的时长通常在半小时内，其中包括 10 分钟的个人讲演，以及 20 分钟的专家提问和点评。因为最近负责的软件进入了敏捷开发的冲刺阶段，其实并没有太多时间准备这次答辩，所以也没有提前预演。不过凭借着我过往的经验，我感觉还是能 Hold 得住场面的，就这样开始了我的个人 Show。&lt;/p&gt;
 &lt;p&gt;四位专家和评委中，对我的工作最了解的是我们软件部部长，不过由于他常驻北京，偶尔来广州出差的缘故，所以在这三个月里，我们真正接触的时间大概只有一个月。加上我们事业部处于集团发展战略中的第二曲线（相当于内部的二次创业），因此我很早就意识到，这次转正答辩其实也是一次述职 / 晋升答辩，所以还是想尽可能地展示自己的能力。&lt;/p&gt;
@@ -271,13 +271,13 @@
 &lt;p&gt;在工作中大家可能会觉得我是一个外向的人，但其实我的性格是内向的。很多东西就是在经历的过程中，一点一点地磨炼出来的。比如我的演讲能力，几年前我连自我介绍都紧张到打寒颤，现在却可以随时来一段即兴演讲（仅限于我熟悉的领域），这也许得益于过去几年在环保圈参加各种工作坊和研学活动。偶尔展现出来的技术领导力和管理能力，则得益于在开源社区参与项目，以及过去在球队当队长的经历。而文档输出能力，则得益于过去不断阅读各类书籍、写博客、写电子书、出版图书等经历。甚至说，在沟通过程中展现出来的同理心和共情能力，也是从过去那段让我非常痛苦的恋爱中获得的。好像真的应了那一句 —— 人生没有白走的路，每一步都算数。&lt;/p&gt;
 &lt;p&gt;好啦，就写到这里吧，祝大家一切顺利～&lt;/p&gt;
 &lt;p&gt;附上猎头小姐姐送我的小礼物 —— 事事如意纳福猫&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/journal/%E4%BA%8B%E4%BA%8B%E5%A6%82%E6%84%8F%E7%BA%B3%E7%A6%8F%E7%8C%AB01.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/%E4%BA%8B%E4%BA%8B%E5%A6%82%E6%84%8F%E7%BA%B3%E7%A6%8F%E7%8C%AB01.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/remote-companies.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/remote-companies.html</guid>
             <title>支持远程办公的公司</title>
-            <link>https://luhuadong.com/career/remote-companies.html</link>
+            <link>https://blog.luhuadong.com/career/remote-companies.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Thu, 09 Jun 2022 14:13:12 +0800</pubDate>
@@ -386,9 +386,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/career-and-life-admonish.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/career-and-life-admonish.html</guid>
             <title>职场与人生告诫</title>
-            <link>https://luhuadong.com/career/career-and-life-admonish.html</link>
+            <link>https://blog.luhuadong.com/career/career-and-life-admonish.html</link>
             <category>名言</category>
             <category>职场</category>
             <category>人生</category>
@@ -468,13 +468,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/win-in-stability-for-ordinary-people.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/win-in-stability-for-ordinary-people.html</guid>
             <title>普通人如何稳中求胜？</title>
-            <link>https://luhuadong.com/career/win-in-stability-for-ordinary-people.html</link>
+            <link>https://blog.luhuadong.com/career/win-in-stability-for-ordinary-people.html</link>
             <category>创业</category>
             <category>职场</category>
             <pubDate>Tue, 05 Oct 2021 00:49:26 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/career/T-sharp.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/career/T-sharp.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;引言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#引言&#34;&gt;#&lt;/a&gt; 引言&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;以前，我们只要懂点基础知识，比如识字、会算数、会用电脑就能找到工作。&lt;/li&gt;
@@ -499,17 +499,17 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/20201115.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/journal/20201115.html</guid>
             <title>从拼T字中重新理解团队合作</title>
-            <link>https://luhuadong.com/journal/20201115.html</link>
+            <link>https://blog.luhuadong.com/journal/20201115.html</link>
             <category>职场</category>
             <category>管理</category>
             <pubDate>Sun, 15 Nov 2020 01:30:52 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;昨天是单位团建第二天，在上午的徒步出发前，教练给我们每支队伍一盒《T 字之谜》拼图，先完成的队伍先出发。要求拼出一个大写字母 T，且四周必须是直角。很不幸，我们成了十支队伍里面，最后拼出 T 字的队伍。&lt;/p&gt;
-&lt;img src=&#34;/images/static/GYT-T1.jpg&#34; alt=&#34;T字之谜&#34; width=400 /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/GYT-T1.jpg&#34; alt=&#34;T字之谜&#34; width=400 /&gt;
 &lt;p&gt;此后一段时间，我一直在反思，尤其是当听到有人说：“你们小组很多聪明人呀，怎么垫底了呢？”&lt;/p&gt;
 &lt;p&gt;虽然只有区区四块拼图，看似简单，却隐藏着大智慧。我们花了不少时间摆弄来、摆弄去，怎么试都失败了。不是缺一个角，就是多一个边。&lt;/p&gt;
-&lt;img src=&#34;/images/static/GYT-T2.jpeg&#34; alt=&#34;绞尽脑汁想呀想&#34; width=600 /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/GYT-T2.jpeg&#34; alt=&#34;绞尽脑汁想呀想&#34; width=600 /&gt;
 &lt;p&gt;我们在这里犯了几个错误：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;最长边一定是外沿；&lt;/li&gt;
@@ -519,7 +519,7 @@
 &lt;p&gt;虽然教练多次提醒需要突破思维，但是思维有那么容易突破吗？经过多年的学习和工作，我们早已建立起了一套思维框架，使得我们总是习惯于用自己的角度和方式去看待这个世界。&lt;/p&gt;
 &lt;p&gt;就这样，我们一遍遍尝试，一遍遍接近，又一遍遍失败。我们很想突破思维，但又无意识地被固化的思维拉回去。比如前面提到的错误，其实它们都是未经验证的假设。因为长边长，所以理所当然地作为外沿；因为边水平，所以理所当然地让它继续保持水平；因为有缺口，所以一定要想方设法把它补齐。我们受这些思维影响，不断越陷越深，毫无进展。&lt;/p&gt;
 &lt;p&gt;最后我们发现，其实长边不一定要做外沿，两条甚至三条短边组合也是可以的；水平线转个角度可以变成斜线，斜线转个角度同样可以变成水平线；缺口也不是非得要填补的，有些缺口只是看起来像缺口而已。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/static/GYT-T3.jpg&#34; alt=&#34;终于拼好了&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/GYT-T3.jpg&#34; alt=&#34;终于拼好了&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;不知道是凑巧还是我想多了，我在反思的过程中突然意识到，字母 T 也许是 Team 的意思，背后的思维也非常值得在团队建设和团队协作中学习。比如说：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;企业里面能力强的团队或个人是否都要做向外的主营业务？虽然说主营业务能带来现金流，应该重兵把守。但从长远来看，建立核心团队专注内部流程的优化、基础软件的开发、先进技术的预研也不容忽视。健康的企业、团队和个人应该是内外兼修的，而不是外强中干。&lt;/li&gt;
@@ -527,20 +527,20 @@
 &lt;li&gt;团队需要不同技能的人，而每个成员又有不同的知识背景、专业技能、工作习惯，甚至兴趣爱好。这些差异在不同人看来，可能是优点，也可能是缺点。然而，优点和缺点、优势和劣势都是可以转换的。我们以为的缺点，也许恰恰就是团队发展的重点；我们以为的劣势，也许恰恰就是团队成功的关键。重要的不是想方设法填补缺点，而是正确地辨别出团队当下真正的优缺点，扬长避短。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;一个能够长久发展下去的好企业、好团队，一定需要多元文化，也一定需要保持开放包容。重视人的成长，才能实现共赢！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/static/GYT-T4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/GYT-T4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;这么想想，其实还是蛮有趣的。垫底虽然很难受，但也让我深深地记住了这个 T，帮助我在以后的工作生活中，提醒我要从不同角度看问题。我想这不仅适用于团队工作，在日常生活、为人处世方面也可以灵活运用。当然啦，我们还是要不断学习、不断成长，建立一套更加完善的思维。同时，也要保持纯粹，学会放下包袱，打破常规，做一个童心未泯的大人。&lt;/p&gt;
 &lt;p&gt;成长是一件美好的事，但愿你我都能成为自己想要的样子！&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/mbti.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/mbti.html</guid>
             <title>做了两次 MBTI 性格测试</title>
-            <link>https://luhuadong.com/career/mbti.html</link>
+            <link>https://blog.luhuadong.com/career/mbti.html</link>
             <category>职场</category>
             <pubDate>Fri, 03 Jul 2020 23:45:30 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;今晚做了两次 MBTI 测试，一次是 28 题版的，结果是 INTP，另一次是 93 题版的 INTJ。&lt;/p&gt;
 &lt;p&gt;测试地址：&lt;a href=&#34;https://welefen.com/lab/mbti/&#34;&gt;https://welefen.com/lab/mbti/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/career/MBTI-01.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/career/MBTI-01.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;MBTI 通过四个维度来描述人格类型，每个维度都包含两个相对的极端特征。以下是这四个维度及其对应的特征：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;外向（ &lt;code&gt;E&lt;/code&gt; ）与内向（ &lt;code&gt;I&lt;/code&gt; ）：外向者从外部世界获得能量，喜欢社交和交流；内向者则从内部世界获得能量，更倾向于独处和思考。&lt;/li&gt;
@@ -550,7 +550,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;intp-学者型聪颖机智的解决问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#intp-学者型聪颖机智的解决问题&#34;&gt;#&lt;/a&gt; INTP 学者型–聪颖机智的解决问题&lt;/h2&gt;
 &lt;h3 id=&#34;荣格理论图形&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#荣格理论图形&#34;&gt;#&lt;/a&gt; 荣格理论图形&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;/images/career/INTP%E8%8D%A3%E6%A0%BC%E7%90%86%E8%AE%BA%E5%9B%BE%E5%BD%A2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/career/INTP%E8%8D%A3%E6%A0%BC%E7%90%86%E8%AE%BA%E5%9B%BE%E5%BD%A2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;基本描述&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基本描述&#34;&gt;#&lt;/a&gt; 基本描述&lt;/h3&gt;
 &lt;p&gt;才储分析：您的性格类型倾向为 “INTP”(内向 直觉 思维 知觉 &lt;strong&gt;倾向度：&lt;/strong&gt; I71 N71 T71 P57 不假思索指数：2)&lt;/p&gt;
 &lt;p&gt;对任何感兴趣的事物，都要探索一个合理的解释。喜欢理论和抽象的事情，喜欢理念思维多于社交活动。沉静，满足，有弹性，适应力强。在他们感兴趣的范畴内，有非凡的能力去专注而深入地解决问题。有怀疑精神，有 时喜欢批判，常常善于分析。&lt;/p&gt;
@@ -642,7 +642,7 @@
 &lt;p&gt;—— 乔伯拉&lt;/p&gt;
 &lt;h2 id=&#34;intj-专家型追求能力与独立&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#intj-专家型追求能力与独立&#34;&gt;#&lt;/a&gt; INTJ 专家型 —— 追求能力与独立&lt;/h2&gt;
 &lt;h3 id=&#34;荣格理论图形-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#荣格理论图形-2&#34;&gt;#&lt;/a&gt; 荣格理论图形&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;/images/career/INTJ%E8%8D%A3%E6%A0%BC%E7%90%86%E8%AE%BA%E5%9B%BE%E5%BD%A2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/career/INTJ%E8%8D%A3%E6%A0%BC%E7%90%86%E8%AE%BA%E5%9B%BE%E5%BD%A2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;基本描述-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基本描述-2&#34;&gt;#&lt;/a&gt; 基本描述&lt;/h3&gt;
 &lt;p&gt;才储分析：您的性格类型倾向为 “INTJ”(内向 直觉 思维 判断 &lt;strong&gt;倾向度：&lt;/strong&gt; I85 N96 T83 J60 不假思索指数：4)&lt;/p&gt;
 &lt;p&gt;在实现自己的想法和达成自己的目标时有创新的想法和非凡的动力。能很快洞察到外界事物间的规律并形成长期的远景计划。一旦决定做一件事就会开始规划并直到完成为止。多疑、独立，对于自己和他人能力和表现的要 求都非常高。&lt;/p&gt;
@@ -735,7 +735,7 @@
 &lt;p&gt;—— 罗尔&lt;/p&gt;
 &lt;h2 id=&#34;infj-博爱型基于博爱的理想设身处地的关怀他人&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#infj-博爱型基于博爱的理想设身处地的关怀他人&#34;&gt;#&lt;/a&gt; INFJ 博爱型 —— 基于博爱的理想，设身处地的关怀他人&lt;/h2&gt;
 &lt;h3 id=&#34;荣格理论图形-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#荣格理论图形-3&#34;&gt;#&lt;/a&gt; 荣格理论图形&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;/images/career/INFJ%E8%8D%A3%E6%A0%BC%E7%90%86%E8%AE%BA%E5%9B%BE%E5%BD%A2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/career/INFJ%E8%8D%A3%E6%A0%BC%E7%90%86%E8%AE%BA%E5%9B%BE%E5%BD%A2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;基本描述-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基本描述-3&#34;&gt;#&lt;/a&gt; 基本描述&lt;/h3&gt;
 &lt;p&gt;才储分析：您的性格类型倾向为 “INFJ”(内向 直觉 情感 判断 &lt;strong&gt;倾向度：&lt;/strong&gt; I86 N57 F86 J71 不假思索指数：12)&lt;/p&gt;
 &lt;p&gt;寻求思想、关系、物质等之间的意义和联系。希望了解什么能够激励人，对人有很强的洞察力。有责任心，坚持自己的价值观。对于怎样更好的服务大众有清晰的远景。在对于目标的实现过程中有计划而且果断坚定。&lt;/p&gt;
@@ -824,15 +824,15 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/the-three-most-dangerous-concepts-of-career.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/the-three-most-dangerous-concepts-of-career.html</guid>
             <title>最危害程序员职业生涯的三大观念</title>
-            <link>https://luhuadong.com/career/the-three-most-dangerous-concepts-of-career.html</link>
+            <link>https://blog.luhuadong.com/career/the-three-most-dangerous-concepts-of-career.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Mon, 23 Mar 2020 18:48:08 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;蓦然回首自己做软件开发这个行业已经十年了，这十年中我获得了很多，技术能力、培训、出国、大公司的经历，还有很多很好的朋友。但再仔细一想，这十年中我至少浪费了五年时间，这五年可以足够让自己成长为一个优秀的程序员，可惜我错过了，我用这五年时间和很多程序员一样在困惑和迷茫中找不到出路！&lt;/p&gt;
 &lt;p&gt;路其实一直都在那里，只是我们看不到而已！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/career/20200323184559651.jpg&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/career/20200323184559651.jpg&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;以前我一直被公司和技术牵着走，并不是自己在选择技术，而是不自觉地被推到了这个位置上。想想有多少人对于自己将来要从事的职业和技术类型进行过深入思考和比较呢？当我跳出编码后，我开始思考和程序及程序员职业生涯相关的问题，最后发现，影响我们走入今天的困局的竟然是一些我们常常挂在嘴边的话（观念）。今天，就为大家指出这几个重要的可能是你已经习以为常的观念，希望大家深入的思考一下这些观念对你的危害。如果你还年轻，刚从事软件开发这行没多久，也希望指出这些问题能让你跳过一些误区，不要像我一样多浪费五年时间。&lt;/p&gt;
 &lt;h2 id=&#34;观念一-别管我我只想一个人安静地写代码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#观念一-别管我我只想一个人安静地写代码&#34;&gt;#&lt;/a&gt; 观念一： “别管我，我只想一个人安静地写代码！”&lt;/h2&gt;
 &lt;p&gt;是不是每天想安安静静地写代码时，IM 窗口或者 Email 总会不合时宜地弹出各种提示，一会要开会啦一会要讨论需求了，再一会测试又来和你理论 Bug 了。世界这么喧嚣，还让不让人安静地写代码了？“别管我，我只想一个人安静地写代码”，这句话道出了多少程序员的心声啊，我们都想 “静静”！不过今天我要告诉你，这种想法是多么的错误，并且严重影响了你职来生涯的发展。&lt;/p&gt;
@@ -873,13 +873,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/programmers-law-of-survival.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/programmers-law-of-survival.html</guid>
             <title>程序员生存定律</title>
-            <link>https://luhuadong.com/career/programmers-law-of-survival.html</link>
+            <link>https://blog.luhuadong.com/career/programmers-law-of-survival.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Tue, 22 Oct 2019 18:23:45 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/career/hello-world.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/career/hello-world.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;声明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#声明&#34;&gt;#&lt;/a&gt; 声明&lt;/h2&gt;
 &lt;p&gt;本文由「理想流」原创，本人整理后重新发布，版权归原作者所有。另外，我已把完整的 PDF 文档放在百度网盘，有需要的小伙伴可以下载。&lt;/p&gt;
 &lt;p&gt;链接: &lt;a href=&#34;https://pan.baidu.com/s/1n8cEXY3UuNeNMlxhhCdNiA&#34;&gt;https://pan.baidu.com/s/1n8cEXY3UuNeNMlxhhCdNiA&lt;/a&gt; 提取码:  &lt;code&gt;8mry&lt;/code&gt;&lt;/p&gt;
@@ -2846,7 +2846,7 @@
 &lt;p&gt;我比较真诚的希望要入行或者入行不久的人用点心思读读这书，绝对会赚回你读它的时间，我自己一边写也常一边感叹，这事要早点明白就好了。&lt;/p&gt;
 &lt;p&gt;对于程序员而言，过去这二十年其实是好几代人，求伯君他们是一代，任正非的华为等是一代，马云、马化腾、李彦宏的 BAT 是一代，移动互联网又是一代。之所以说他们是一代是因为他们都分别的经历了自己的高速成长期，对程序员而言赶上没赶上这个高速成长期，结果完全不同。而我碰到的人里面有华为前一百号员工，但早早离开的，有莫名其妙从比较牛的外企出来加入了一个叫百度的鸟公司，接下来百度上市，一下子拉开和辛苦奋斗的群众的距离的。这人生还真是很奇妙的，而要想增加抓住这类机会的几率，无疑的要解决好内功和选择的问题，谁能说这问题不重要呢？&lt;/p&gt;
 &lt;p&gt;再接下来会把这个书做个 pdf 版出来，方便大家阅读，请稍后。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/career/come-on.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/career/come-on.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;hr class=&#34;footnotes-sep&#34; /&gt;
 &lt;section class=&#34;footnotes&#34;&gt;
 &lt;ol class=&#34;footnotes-list&#34;&gt;
@@ -2859,9 +2859,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/2019-new-it-careers.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/2019-new-it-careers.html</guid>
             <title>2019年新增13个新型工程技术人员职业</title>
-            <link>https://luhuadong.com/career/2019-new-it-careers.html</link>
+            <link>https://blog.luhuadong.com/career/2019-new-it-careers.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Mon, 13 May 2019 22:35:42 +0800</pubDate>
@@ -3015,9 +3015,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/dont-kill-self-career.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/dont-kill-self-career.html</guid>
             <title>大龄码农是如何把自己逼死的</title>
-            <link>https://luhuadong.com/career/dont-kill-self-career.html</link>
+            <link>https://blog.luhuadong.com/career/dont-kill-self-career.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Thu, 10 Jan 2019 18:11:46 +0800</pubDate>
@@ -3055,9 +3055,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/how-to-prevent-programmers-from-getting-bored-with-work.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/how-to-prevent-programmers-from-getting-bored-with-work.html</guid>
             <title>如何让你的程序员不要厌倦工作</title>
-            <link>https://luhuadong.com/career/how-to-prevent-programmers-from-getting-bored-with-work.html</link>
+            <link>https://blog.luhuadong.com/career/how-to-prevent-programmers-from-getting-bored-with-work.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Wed, 10 Oct 2018 15:09:01 +0800</pubDate>
@@ -3125,9 +3125,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/workplace-notes-for-programmers.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/workplace-notes-for-programmers.html</guid>
             <title>程序员职场须知</title>
-            <link>https://luhuadong.com/career/workplace-notes-for-programmers.html</link>
+            <link>https://blog.luhuadong.com/career/workplace-notes-for-programmers.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Sat, 22 Sep 2018 18:12:55 +0800</pubDate>
@@ -3148,9 +3148,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/the-right-way-to-take-it-training.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/the-right-way-to-take-it-training.html</guid>
             <title>参加IT培训的正确心态</title>
-            <link>https://luhuadong.com/career/the-right-way-to-take-it-training.html</link>
+            <link>https://blog.luhuadong.com/career/the-right-way-to-take-it-training.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Wed, 17 Jan 2018 15:46:22 +0800</pubDate>
@@ -3189,13 +3189,13 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;后记&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#后记&#34;&gt;#&lt;/a&gt; 后记&lt;/h2&gt;
 &lt;p&gt;与其整天考虑该不该参加 IT 培训，该不该当程序员，不如好好了解自己，想想怎么提升自己的能力，提升自己的认知水平，努力完善自己，创造美好的东西。否则，当了程序员又怎么样？&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../images/career/coding.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../images/career/coding.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/be-a-successful-embedded-system-engineer.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/be-a-successful-embedded-system-engineer.html</guid>
             <title>做个成功的嵌入式系统工程师</title>
-            <link>https://luhuadong.com/career/be-a-successful-embedded-system-engineer.html</link>
+            <link>https://blog.luhuadong.com/career/be-a-successful-embedded-system-engineer.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Thu, 12 Oct 2017 17:11:33 +0800</pubDate>
@@ -3234,9 +3234,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/my-open-source-journey.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/my-open-source-journey.html</guid>
             <title>我的开源之旅</title>
-            <link>https://luhuadong.com/career/my-open-source-journey.html</link>
+            <link>https://blog.luhuadong.com/career/my-open-source-journey.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Thu, 27 Oct 2016 18:58:00 +0800</pubDate>
@@ -3257,9 +3257,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/the-transformation-of-embedded-engineers-under-iot.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/the-transformation-of-embedded-engineers-under-iot.html</guid>
             <title>论物联网浪潮下嵌入式工程师的转型</title>
-            <link>https://luhuadong.com/career/the-transformation-of-embedded-engineers-under-iot.html</link>
+            <link>https://blog.luhuadong.com/career/the-transformation-of-embedded-engineers-under-iot.html</link>
             <category>程序员</category>
             <category>职场</category>
             <category>物联网</category>
@@ -3277,9 +3277,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/the-importance-of-knowledge-management.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/the-importance-of-knowledge-management.html</guid>
             <title>知识管理的重要性</title>
-            <link>https://luhuadong.com/career/the-importance-of-knowledge-management.html</link>
+            <link>https://blog.luhuadong.com/career/the-importance-of-knowledge-management.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Sun, 25 Sep 2016 00:14:03 +0800</pubDate>

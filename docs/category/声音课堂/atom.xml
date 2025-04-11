@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://luhuadong.com</id>
+    <id>https://blog.luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;声音课堂&#34; category</title>
-    <link href="https://luhuadong.com" />
+    <link href="https://blog.luhuadong.com" />
     <updated>2022-05-03T02:59:57.000Z</updated>
     <category term="名言" />
     <category term="奋斗" />
@@ -10,15 +10,15 @@
     <category term="商业" />
     <category term="创业" />
     <category term="摄影" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
@@ -35,8 +35,8 @@
     <category term="自律" />
     <category term="思维模型" />
     <category term="健康" />
-    <category term="Hexo" />
     <category term="徒步" />
+    <category term="Hexo" />
     <category term="家居" />
     <category term="科普" />
     <category term="环保" />
@@ -67,9 +67,9 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
+    <category term="地铁" />
     <category term="股票" />
     <category term="理财" />
     <category term="保险" />
@@ -102,9 +102,9 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/vocal-exercise/speech-eloquence-training.html</id>
+        <id>https://blog.luhuadong.com/vocal-exercise/speech-eloquence-training.html</id>
         <title>演讲口才技巧训练</title>
-        <link rel="alternate" href="https://luhuadong.com/vocal-exercise/speech-eloquence-training.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/vocal-exercise/speech-eloquence-training.html"/>
         <content type="html">&lt;h2 id=&#34;当众说话十六字方针&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#当众说话十六字方针&#34;&gt;#&lt;/a&gt; 当众说话十六字方针&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;字正腔圆&lt;/li&gt;
@@ -128,9 +128,9 @@
         <updated>2022-05-03T02:59:57.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/vocal-exercise/tongue-twister.html</id>
+        <id>https://blog.luhuadong.com/vocal-exercise/tongue-twister.html</id>
         <title>声音训练：绕口令</title>
-        <link rel="alternate" href="https://luhuadong.com/vocal-exercise/tongue-twister.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/vocal-exercise/tongue-twister.html"/>
         <content type="html">&lt;h2 id=&#34;〇四是四十是十&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#〇四是四十是十&#34;&gt;#&lt;/a&gt; （〇）四是四，十是十&lt;/h2&gt;
 &lt;p&gt;四是四，十是十，&lt;/p&gt;
 &lt;p&gt;十四是十四，四十是四十。&lt;/p&gt;
@@ -180,9 +180,9 @@
         <updated>2022-04-23T03:39:33.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/vocal-exercise/tongue-exercise.html</id>
+        <id>https://blog.luhuadong.com/vocal-exercise/tongue-exercise.html</id>
         <title>声音训练：舌部操</title>
-        <link rel="alternate" href="https://luhuadong.com/vocal-exercise/tongue-exercise.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/vocal-exercise/tongue-exercise.html"/>
         <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=934111483&amp;bvid=BV1eT4y197Lz&amp;cid=440310559&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;划重点：&lt;/p&gt;
 &lt;ol&gt;
@@ -196,9 +196,9 @@
         <updated>2022-04-21T11:21:08.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/vocal-exercise/common-voice-problems.html</id>
+        <id>https://blog.luhuadong.com/vocal-exercise/common-voice-problems.html</id>
         <title>常见发声问题（普通话）</title>
-        <link rel="alternate" href="https://luhuadong.com/vocal-exercise/common-voice-problems.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/vocal-exercise/common-voice-problems.html"/>
         <content type="html">&lt;h2 id=&#34;说话时总感觉嘴里有口水&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#说话时总感觉嘴里有口水&#34;&gt;#&lt;/a&gt; 说话时总感觉嘴里有口水&lt;/h2&gt;
 &lt;p&gt;这可能是个不太健康的症状，中医有个说法叫 “舌大满口”，就是舌头在嘴里占据的位置太多，导致说话不利索。调理方法是，补阳气、化湿气、瘦舌头。&lt;/p&gt;
 &lt;p&gt;在日常生活中要注意是否有以下问题，尤其是说话的时候：&lt;/p&gt;
@@ -226,9 +226,9 @@
         <updated>2021-11-27T12:04:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/vocal-exercise/pinyin-correct-pronunciation.html</id>
+        <id>https://blog.luhuadong.com/vocal-exercise/pinyin-correct-pronunciation.html</id>
         <title>汉语拼音如何正确发音</title>
-        <link rel="alternate" href="https://luhuadong.com/vocal-exercise/pinyin-correct-pronunciation.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/vocal-exercise/pinyin-correct-pronunciation.html"/>
         <content type="html">&lt;p&gt;小时候学拼音都是老师读一遍然后跟着读一遍，虽然音是发出来了，但是因为老师并没有说这些音的舌位应该怎么摆。慢慢地发现自己有些音总是发不准确，一开始以为自己是 “痴利筋”，后来发现原来是自己牙齿不整齐，并且有几个音的舌位不对！比如 z/c/s/x、zh/ch/sh、n/l 等，但是说话的方式习惯了之后真的很难改正过来啊！所以在这里先记下来吧。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;a&lt;/code&gt;  嘴张大，舌位最低，舌面中部微微隆起。&lt;/li&gt;

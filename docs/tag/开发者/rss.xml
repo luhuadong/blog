@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>成为自由人 • Posts by &#34;开发者&#34; tag</title>
-        <link>https://luhuadong.com</link>
+        <link>https://blog.luhuadong.com</link>
         <description>阿基米东的成长笔记</description>
         <language>zh-CN</language>
         <pubDate>Fri, 12 Jul 2024 13:51:04 +0800</pubDate>
@@ -13,15 +13,15 @@
         <category>商业</category>
         <category>创业</category>
         <category>摄影</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
@@ -38,8 +38,8 @@
         <category>自律</category>
         <category>思维模型</category>
         <category>健康</category>
-        <category>Hexo</category>
         <category>徒步</category>
+        <category>Hexo</category>
         <category>家居</category>
         <category>科普</category>
         <category>环保</category>
@@ -70,9 +70,9 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
+        <category>地铁</category>
         <category>股票</category>
         <category>理财</category>
         <category>保险</category>
@@ -105,9 +105,9 @@
         <category>零废弃</category>
         <category>低碳</category>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/it/comparative-analysis-of-chinese-online-community-platforms.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/it/comparative-analysis-of-chinese-online-community-platforms.html</guid>
             <title>中国主流社区型网络平台对比分析：小红书、知乎、豆瓣...</title>
-            <link>https://luhuadong.com/it/comparative-analysis-of-chinese-online-community-platforms.html</link>
+            <link>https://blog.luhuadong.com/it/comparative-analysis-of-chinese-online-community-platforms.html</link>
             <category>互联网</category>
             <category>开发者</category>
             <pubDate>Fri, 12 Jul 2024 13:51:04 +0800</pubDate>
@@ -216,13 +216,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/it/forem.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/it/forem.html</guid>
             <title>Forem 开源的社区论坛软件框架</title>
-            <link>https://luhuadong.com/it/forem.html</link>
+            <link>https://blog.luhuadong.com/it/forem.html</link>
             <category>互联网</category>
             <category>开发者</category>
             <pubDate>Thu, 18 Apr 2024 13:56:56 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/it/forem-banner.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/it/forem-banner.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Forem&lt;/strong&gt; 是一款强大的、完全开源的论坛软件，使用 Ruby on Rails 语言开发。它的设计目标是让创建和管理社区变得简单而高效，无论是用于大型企业还是个人项目，Forem 都可以提供丰富的功能和自定义选项。&lt;/p&gt;
 &lt;p&gt;著名的开发者社区 &lt;a href=&#34;https://dev.to&#34;&gt;DEV&lt;/a&gt; 就是基于 Forem 打造而成的。&lt;/p&gt;
 &lt;h2 id=&#34;主要特点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#主要特点&#34;&gt;#&lt;/a&gt; 主要特点&lt;/h2&gt;
@@ -267,13 +267,13 @@ Forem 提供了一个全面的 RESTful API，允许开发者通过编程方式�
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/it/apache-answer.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/it/apache-answer.html</guid>
             <title>Apache Answer 开源问答平台软件</title>
-            <link>https://luhuadong.com/it/apache-answer.html</link>
+            <link>https://blog.luhuadong.com/it/apache-answer.html</link>
             <category>互联网</category>
             <category>开发者</category>
             <pubDate>Thu, 18 Apr 2024 13:55:40 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/it/answer-banner.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/it/answer-banner.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Answer&lt;/strong&gt; 是由 SegmentFault 思否团队打造的一款问答平台软件，后端使用 Go 语言编写，于 2022 年 10 月 24 日（程序员节）正式开源。你可以免费使用 Answer 高效地搭建一个问答社区，并用于产品技术问答、客户支持、用户交流等场景。&lt;/p&gt;
 &lt;p&gt;2023 年 10 月 9 日，Answer 顺利通过投票，以全票通过的优秀表现正式进入 Apache 软件基金会（ASF）孵化器。10 月 18 日，Answer 项目正式移交到 Apache 软件基金会名下，从此改名为 Apache Answer。&lt;/p&gt;
 &lt;h2 id=&#34;主要功能&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#主要功能&#34;&gt;#&lt;/a&gt; 主要功能&lt;/h2&gt;
@@ -293,9 +293,9 @@ Forem 提供了一个全面的 RESTful API，允许开发者通过编程方式�
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; clone git@github.com:apache/incubator-answer.git&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;切换到 incubator-answer 目录，再执行  &lt;code&gt;docker-compose&lt;/code&gt;  命令：&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token builtin class-name&#34;&gt;cd&lt;/span&gt; incubator-answer&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token builtin class-name&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;&lt;span class=&#34;token variable&#34;&gt;&lt;span class=&#34;token variable&#34;&gt;$(&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;cat&lt;/span&gt; docker-compose.yaml&lt;span class=&#34;token variable&#34;&gt;)&lt;/span&gt;&lt;/span&gt;&#34;&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;docker-compose&lt;/span&gt; &lt;span class=&#34;token parameter variable&#34;&gt;-p&lt;/span&gt; answer &lt;span class=&#34;token parameter variable&#34;&gt;-f&lt;/span&gt; - up&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;此时终端会打印如下内容：&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;WARN&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;0000&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; -: &lt;span class=&#34;token variable&#34;&gt;&lt;span class=&#34;token variable&#34;&gt;`&lt;/span&gt;version&lt;span class=&#34;token variable&#34;&gt;`&lt;/span&gt;&lt;/span&gt; is obsolete                     &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;+&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; Running &lt;span class=&#34;token number&#34;&gt;7&lt;/span&gt;/7&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; ✔ answer Pulled                                                            &lt;span class=&#34;token number&#34;&gt;23&lt;/span&gt;.3s &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   ✔ 4abcf2066143 Pull complete                                             &lt;span class=&#34;token number&#34;&gt;17&lt;/span&gt;.7s &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   ✔ c61465cefb8e Pull complete                                             &lt;span class=&#34;token number&#34;&gt;11&lt;/span&gt;.1s &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   ✔ ac109b4ee423 Pull complete                                             &lt;span class=&#34;token number&#34;&gt;16&lt;/span&gt;.0s &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   ✔ 0373f8f02f03 Pull complete                                             &lt;span class=&#34;token number&#34;&gt;14&lt;/span&gt;.4s &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   ✔ d907b44088ea Pull complete                                             &lt;span class=&#34;token number&#34;&gt;16&lt;/span&gt;.6s &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   ✔ 4f4fb700ef54 Pull complete                                             &lt;span class=&#34;token number&#34;&gt;18&lt;/span&gt;.3s &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;+&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; Running &lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;/3&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; ✔ Network answer_default       Created                                     &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;.0s &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; ✔ Volume &lt;span class=&#34;token string&#34;&gt;&#34;answer_answer-data&#34;&lt;/span&gt;  Created                                     &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;.0s &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; ⠴ Container answer-answer-1    Created                                     &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;.4s &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Attaching to answer-1&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;answer-1  &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;upload-dir&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; try to install&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;.&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;answer-1  &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;upload-dir&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; success, upload directory is /data/uploads&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;answer-1  &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;i18n&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; try to &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; i18n bundle&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;.&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;answer-1  &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;i18n&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;find&lt;/span&gt; i18n bundle &lt;span class=&#34;token number&#34;&gt;44&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;answer-1  &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; all initial environment &lt;span class=&#34;token keyword&#34;&gt;done&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;answer-1  &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;SUCCESS&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; answer installation &lt;span class=&#34;token function&#34;&gt;service&lt;/span&gt; will run at: http://localhost:80/install/&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;Answer 默认使用  &lt;code&gt;9080&lt;/code&gt;  端口，在浏览器输入 &lt;a href=&#34;http://localhost:9080/&#34;&gt;http://localhost:9080&lt;/a&gt; 即可访问。第一次访问会进入安装页面，如下：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/it/answer-install-01.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/it/answer-install-01.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;按照提示选择语言、配置数据库、填写基本信息就可以了。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/it/answer-install-02.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/it/answer-install-02.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Answer 支持 MySQL、PostgreSQL 和 SQLite 作为数据库后端。最小的环境是 SQLite，不需要任何额外的配置，建议使用 SQLite3 完成你的第一次体验。&lt;/p&gt;
 &lt;h2 id=&#34;资源链接&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#资源链接&#34;&gt;#&lt;/a&gt; 资源链接&lt;/h2&gt;
 &lt;ul&gt;
@@ -316,9 +316,9 @@ Forem 提供了一个全面的 RESTful API，允许开发者通过编程方式�
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/it/developer-communities.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/it/developer-communities.html</guid>
             <title>盘点国内外的开发者社区</title>
-            <link>https://luhuadong.com/it/developer-communities.html</link>
+            <link>https://blog.luhuadong.com/it/developer-communities.html</link>
             <category>互联网</category>
             <category>开发者</category>
             <pubDate>Mon, 01 Apr 2024 13:22:03 +0800</pubDate>
@@ -328,13 +328,13 @@ Forem 提供了一个全面的 RESTful API，允许开发者通过编程方式�
 &lt;p&gt;CSDN（Chinese Software Developer Network，中国开发者网络）创立于 1999 年，是全球知名中文开发者网站。致力于为中国软件开发者提供知识传播、在线学习、职业发展等全生命周期服务。&lt;/p&gt;
 &lt;p&gt;CSDN 目前在全球编程类网站排名第 10 左右，注册用户超过 3500 万，覆盖 90% 的中文开发者，拥有超过 1000 家企业客户和合作伙伴。&lt;/p&gt;
 &lt;p&gt;网址：&lt;a href=&#34;https://www.csdn.net&#34;&gt;https://www.csdn.net&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/it/website_csdn.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/it/website_csdn.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;oschina&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#oschina&#34;&gt;#&lt;/a&gt; OSCHINA&lt;/h3&gt;
 &lt;p&gt;OSCHINA（开源中国，全称 Open Source China，简称 OSC）成立于 2008 年，是国内知名的开源技术社区。目前已建立了相当完善的开源软件分类数据库，收录全球知名开源项目近 10 万款，涉及几百个不同的分类。围绕这些开源项目，OSCHINA 为中国开发者提供了最新开源资讯、软件更新资讯、技术分享和交流的技术平台。&lt;/p&gt;
 &lt;p&gt;2013 年，OSCHINA 建立了代码托管与 DevOps 平台 “码云 Gitee”，为广大开发者提供团队协作、源码托管、代码质量分析、代码评审、测试、CI/CD 与代码演示等功能。&lt;/p&gt;
 &lt;p&gt;OSCHINA 目前社区有 500 万开发者活跃，长期致力于推动国内开源软件的应用和发展，提升本土开源能力，以及为开源生态环境的优化提供支持。&lt;/p&gt;
 &lt;p&gt;网址：&lt;a href=&#34;https://www.oschina.net&#34;&gt;https://www.oschina.net&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/it/website_oschina.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/it/website_oschina.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;infoq&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#infoq&#34;&gt;#&lt;/a&gt; InfoQ&lt;/h3&gt;
 &lt;p&gt;InfoQ 成立于 2006 年（InfoQ 全球于 2006 年上线，InfoQ 中国于 2007 年上线），最早为促进软件开发领域知识与创新的传播而创建。如今，InfoQ 发展为一个实践驱动、以社区为中心的技术媒体平台，致力于促进软件开发及相关领域知识与创新的传播，并提供架构、云计算、AI、前端、大数据等与软件开发相关的最新技术资讯、解读及技术会议。&lt;/p&gt;
 &lt;p&gt;InfoQ 作为一个面向技术人员的垂直社区，其主要的盈利模式为广告发布和技术会议。2016 年，&lt;a href=&#34;https://www.geekbang.org&#34;&gt;极客邦科技&lt;/a&gt;正式签署合约，实现对 InfoQ 大中华区业务的整体收购。&lt;/p&gt;
@@ -342,47 +342,47 @@ Forem 提供了一个全面的 RESTful API，允许开发者通过编程方式�
 &lt;p&gt;极客邦是首批将 Node.js、HTML5、Docker 等技术全面引入中国的技术媒体之一。每月超过 100 万技术人在网站上学习相关内容，近百位社区专家与编辑团队合作生产优质的内容，涵盖资讯、深度文章、专家访谈、精品栏目和演讲视频，每周的总计产出量超过 100 篇。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;网址：&lt;a href=&#34;https://www.infoq.cn&#34;&gt;https://www.infoq.cn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/it/website_infoq.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/it/website_infoq.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;segmentfault&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#segmentfault&#34;&gt;#&lt;/a&gt; SegmentFault&lt;/h3&gt;
 &lt;p&gt;SegmentFault（中文：思否）成立于 2012 年，是领先的中文技术问答社区，也是中国名列前茅的新一代开发者社区和专业的技术媒体。为中文开发者提供纯粹、高质的技术交流平台以及最前沿的技术行业动态，帮助更多的开发者获得认知和能力的提升。&lt;/p&gt;
 &lt;p&gt;SegmentFault 以技术问答、技术专栏、技术课程、技术资讯为核心的产品形态，目前已经覆盖和服务了超过 1000 万开发者，同时，SegmentFault 思否团队也是中国区最大的黑客马拉松 Hackathon 创新力赛事组织者。腾讯、阿里、百度、美团、京东、滴滴、360 等上千个技术团队已经入驻思否社区。&lt;/p&gt;
 &lt;p&gt;2022 年 5 月，专注于企业级研发管理的 ONES 公司宣布收购 SegmentFault；2022 年 12 月，SegmentFault 思否团队正式对外开源其问答社区软件 &lt;a href=&#34;https://github.com/apache/incubator-answer&#34;&gt;Answer&lt;/a&gt;，这是被收购后的首次公开发布大动态。&lt;/p&gt;
 &lt;p&gt;网址：&lt;a href=&#34;https://segmentfault.com&#34;&gt;https://segmentfault.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/it/website_segmentfault.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/it/website_segmentfault.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;掘金&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#掘金&#34;&gt;#&lt;/a&gt; 掘金&lt;/h3&gt;
 &lt;p&gt;掘金（稀土掘金）成立于 2015 年，是一个帮助开发者成长的社区。官方的定位是给开发者用的 Hacker News，给设计师用的 Designer News，和给产品经理用的 Medium。从内容来看，掘金平台上前端内容偏多，这和创始人最早从事前端开发有关。&lt;/p&gt;
 &lt;p&gt;网址：&lt;a href=&#34;https://juejin.cn&#34;&gt;https://juejin.cn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/it/website_juejin.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/it/website_juejin.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;v2ex&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#v2ex&#34;&gt;#&lt;/a&gt; V2EX&lt;/h3&gt;
 &lt;p&gt;V2EX 是创意工作者们的社区。这里目前汇聚了超过 40 万名主要来自互联网行业、游戏行业和媒体行业的创意工作者。V2EX 希望能够成为创意工作者们的生活和事业的一部分。&lt;/p&gt;
 &lt;p&gt;网址：&lt;a href=&#34;https://www.v2ex.com&#34;&gt;https://www.v2ex.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/it/website_v2ex.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/it/website_v2ex.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;其他&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#其他&#34;&gt;#&lt;/a&gt; 其他&lt;/h3&gt;
 &lt;p&gt;当然，还有很多平台没有介绍，例如创立于 2004 年的 &lt;a href=&#34;https://www.cnblogs.com&#34;&gt;博客园&lt;/a&gt;、创立于 2005 年的 &lt;a href=&#34;https://www.51cto.com&#34;&gt;51CTO&lt;/a&gt;，以及似乎已经不更新的 &lt;a href=&#34;https://www.iteye.com&#34;&gt;ITeye&lt;/a&gt;。除此之外，还有一些大厂运营的开发者社区，例如 &lt;a href=&#34;https://developer.huaweicloud.com&#34;&gt;华为云开发者社区&lt;/a&gt;、&lt;a href=&#34;https://developer.aliyun.com&#34;&gt;阿里云开发者社区&lt;/a&gt;、&lt;a href=&#34;https://cloud.tencent.com/developer&#34;&gt;腾讯开发者社区&lt;/a&gt; 等等。最后，还有一些开源项目的开发者社区，例如 &lt;a href=&#34;https://club.rt-thread.org&#34;&gt;RT-Thread 问答社区&lt;/a&gt;。&lt;/p&gt;
 &lt;h2 id=&#34;国外社区&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#国外社区&#34;&gt;#&lt;/a&gt; 国外社区&lt;/h2&gt;
 &lt;h3 id=&#34;stackoverflow&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#stackoverflow&#34;&gt;#&lt;/a&gt; StackOverFlow&lt;/h3&gt;
 &lt;p&gt;StackOverFlow 是一个全球最大的技术问答网站，和国内知乎比较相似。但与知乎不同的是，StackOverFlow 更垂直于技术，不像知乎内容比较杂。在 StackOverFlow，每月有超过 1 亿人访问该平台提出编程问题、学习和分享技术知识。&lt;/p&gt;
 &lt;p&gt;网址：&lt;a href=&#34;https://stackoverflow.com&#34;&gt;https://stackoverflow.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/it/website_stackoverflow.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/it/website_stackoverflow.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;github&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#github&#34;&gt;#&lt;/a&gt; GitHub&lt;/h3&gt;
 &lt;p&gt;GitHub 是世界上最大的代码托管平台，超 1 亿开发者正在使用。GitHub 于 2008 年 4 月 10 日正式上线，除了 Git 代码仓库托管及基本的 Web 管理界面以外，还提供了订阅、讨论组、文本渲染、在线文件编辑器、协作图谱（报表）、代码片段分享（Gist）等功能。&lt;/p&gt;
 &lt;p&gt;虽然 GitHub 更多是一个代码托管平台，但也确实有一定社交属性，因此被戏称为「全球最大的同性交友网站」。&lt;/p&gt;
 &lt;p&gt;网址：&lt;a href=&#34;https://github.com&#34;&gt;https://github.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/it/website_.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/it/website_.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;freecodecamp&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#freecodecamp&#34;&gt;#&lt;/a&gt; freeCodeCamp&lt;/h3&gt;
 &lt;p&gt;非营利组织 freeCodeCamp（简称 FCC）成立于 2014 年，是全球最大的开源公益编程教育社区，以 “帮助人们免费学习编程” 为使命，在成千上万名志愿贡献者的帮助下，创建了大量优质的编程教程，包括交互式课程、视频课程、文章等，内容涵盖 JavaScript、Python、SQL、数据科学等等 —— 所有内容向公众免费开放。&lt;/p&gt;
 &lt;p&gt;网址：&lt;a href=&#34;https://www.freecodecamp.org&#34;&gt;https://www.freecodecamp.org&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/it/website_fcc.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/it/website_fcc.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;dev-community&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dev-community&#34;&gt;#&lt;/a&gt; Dev Community&lt;/h3&gt;
 &lt;p&gt;DEV 是一个软件开发人员社区，他们聚在一起互相帮助。软件行业依赖于协作和网络学习，而 DEV 为这种情况提供了一个场所。DEV 构建在 &lt;a href=&#34;https://github.com/forem/forem&#34;&gt;Forem&lt;/a&gt; 之上，Forem 是一款强大的、完全开源的论坛软件，由 Ruby on Rails 编程语言开发而成。&lt;/p&gt;
 &lt;p&gt;DEV 社区和国内的掘金社区很相似，技术分类也比较多，像 Java、Python、js、分布式等应有尽有，文章质量普遍都还不错，其实如果平时多留意不难发现，掘金上有一些文章是翻译自 DEV 社区。&lt;/p&gt;
 &lt;p&gt;网址：&lt;a href=&#34;https://dev.to&#34;&gt;https://dev.to&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/it/website_dev.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/it/website_dev.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;hackernews&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hackernews&#34;&gt;#&lt;/a&gt; HackerNews&lt;/h3&gt;
 &lt;p&gt;Hacker News 是 Y Combinator 旗下的一个新闻提交社区，它的界面比较保守，但是社区用户质量、评论质量非常高。其定位是一个专注于计算机科学和创业的社交新闻网站，和其他新闻媒体不同，你可以在 HackerNews 上提交你的技术内容链接，将你的内容推广给全球的观众，并从其他技术极客那里找到各种有意思的内容。&lt;/p&gt;
 &lt;p&gt;如果你是科技行业从业者，无论是程序员、产品经理、PR、运营，这个网站值得每天泡，它基本上代表了当今世界最高的科技圈人群。&lt;/p&gt;
 &lt;p&gt;网址：&lt;a href=&#34;https://news.ycombinator.com&#34;&gt;https://news.ycombinator.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/it/website_hackernews.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/it/website_hackernews.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;hackaday&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hackaday&#34;&gt;#&lt;/a&gt; Hackaday&lt;/h3&gt;
 &lt;p&gt;Hackaday 是一个技术社区和博客网站，主要关注电子设备、计算机、硬件和创客等方面的技术内容。该平台发布了大量有关电子制作、创客项目、开源硬件、编程和创新的文章、教程和新闻。用户可以在该网站上浏览和学习各种电子技术和硬件制作的知识，并与其他技术爱好者进行交流和讨论。&lt;/p&gt;
 &lt;p&gt;Hackaday 有两个网址，其中 &lt;a href=&#34;http://hackaday.com&#34;&gt;hackaday.com&lt;/a&gt; 主要提供技术文章和新闻，而 &lt;a href=&#34;http://hackaday.io&#34;&gt;hackaday.io&lt;/a&gt; 则是一个面向创客和技术爱好者的项目托管平台和社交网络，旨在促进项目的分享、交流和合作。两者共同构成了 Hackaday 的整个生态系统，为技术创新和社区互动提供了丰富的资源和平台。&lt;/p&gt;
@@ -397,9 +397,9 @@ Forem 提供了一个全面的 RESTful API，允许开发者通过编程方式�
 &lt;p&gt;除了上面提到的网站，还有很多开发者相关的网站平台，例如 &lt;a href=&#34;https://www.codeproject.com&#34;&gt;Code Project&lt;/a&gt;、&lt;a href=&#34;https://simpleprogrammer.com&#34;&gt;simpleprogrammer&lt;/a&gt;，以及 &lt;a href=&#34;https://medium.com&#34;&gt;Medium&lt;/a&gt;、&lt;a href=&#34;https://www.linkedin.com&#34;&gt;Linkedin&lt;/a&gt;、&lt;a href=&#34;https://www.reddit.com&#34;&gt;Reddit&lt;/a&gt;、&lt;a href=&#34;https://www.forbes.com&#34;&gt;Forbes&lt;/a&gt; 等平台（虽然不是垂直类的开发者社区，但也经常看到优质的科技类文章或信息）。&lt;/p&gt;
 &lt;h2 id=&#34;网站排名&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网站排名&#34;&gt;#&lt;/a&gt; 网站排名&lt;/h2&gt;
 &lt;p&gt;这里以撰写文章时最新的 2024 年 3 月数据为例，对比一下 OSCHINA、InfoQ、思否、掘金、V2EX 的访问数据（CSDN 流量远大于它们，就不放一起对比了）。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/it/dev-communities-compare-01_202403.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/it/dev-communities-compare-01_202403.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;在对比一下 CSDN、StackOverFlow、freeCodeCamp、DEV 以及 GitHub，确实是流量非常惊人的开发者平台！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/it/dev-communities-compare-02_202403.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/it/dev-communities-compare-02_202403.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
  ]]></description>
         </item>
     </channel>

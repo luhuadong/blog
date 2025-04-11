@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://luhuadong.com</id>
+    <id>https://blog.luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;人生&#34; tag</title>
-    <link href="https://luhuadong.com" />
+    <link href="https://blog.luhuadong.com" />
     <updated>2024-09-15T09:17:35.000Z</updated>
     <category term="名言" />
     <category term="奋斗" />
@@ -10,15 +10,15 @@
     <category term="商业" />
     <category term="创业" />
     <category term="摄影" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
@@ -35,8 +35,8 @@
     <category term="自律" />
     <category term="思维模型" />
     <category term="健康" />
-    <category term="Hexo" />
     <category term="徒步" />
+    <category term="Hexo" />
     <category term="家居" />
     <category term="科普" />
     <category term="环保" />
@@ -67,9 +67,9 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
+    <category term="地铁" />
     <category term="股票" />
     <category term="理财" />
     <category term="保险" />
@@ -102,11 +102,11 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/me/my-big-five-for-life.html</id>
+        <id>https://blog.luhuadong.com/me/my-big-five-for-life.html</id>
         <title>我的 PFE 和人生五事</title>
-        <link rel="alternate" href="https://luhuadong.com/me/my-big-five-for-life.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/me/my-big-five-for-life.html"/>
         <content type="html">&lt;p&gt;2024 年 9 月 12 日下午，我在给自己和女友制作电子名片，我决定在名片背面写下我的 PFE 和人生五事。为此，我思考了一个下午，写下了第一版本的人生五事。我不确定这个版本以后会不会改动，也许会有一些微调吧，但大方向应该不变，因为我已经比较确定自己想成为什么样的人，想要什么样的生活了。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../images/me/my-big-five-for-life-2024.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/me/my-big-five-for-life-2024.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;提示：PFE 是 Purpose For Existing 的缩写，即 “我为什么而活？”、“我存在的意义是什么？”。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -116,9 +116,9 @@
         <updated>2024-09-15T09:17:35.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/me/my-life-principles.html</id>
+        <id>https://blog.luhuadong.com/me/my-life-principles.html</id>
         <title>人生之书·我的原则</title>
-        <link rel="alternate" href="https://luhuadong.com/me/my-life-principles.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/me/my-life-principles.html"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;自我评价体系&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -205,9 +205,9 @@
         <updated>2024-03-31T05:27:59.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/wisdom/five-chapters-of-life.html</id>
+        <id>https://blog.luhuadong.com/wisdom/five-chapters-of-life.html</id>
         <title>人生五章</title>
-        <link rel="alternate" href="https://luhuadong.com/wisdom/five-chapters-of-life.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/wisdom/five-chapters-of-life.html"/>
         <content type="html">&lt;p&gt;《人生五章》是波歇。尼尔森的一首很治愈的诗，却也很写实，描述了我们遇到问题的反应以及最终如何去解决这个问题的心理过程。如果你正好在困境中，希望这首诗能给你一些启发！&lt;/p&gt;
 &lt;h2 id=&#34;第一章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章&#34;&gt;#&lt;/a&gt; 第一章&lt;/h2&gt;
 &lt;p&gt;我走上街，&lt;br /&gt;
@@ -246,9 +246,9 @@
         <updated>2023-07-02T03:53:47.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/wisdom/the-bride-price-of-nine-cows.html</id>
+        <id>https://blog.luhuadong.com/wisdom/the-bride-price-of-nine-cows.html</id>
         <title>九头牛的故事</title>
-        <link rel="alternate" href="https://luhuadong.com/wisdom/the-bride-price-of-nine-cows.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/wisdom/the-bride-price-of-nine-cows.html"/>
         <content type="html">&lt;h2 id=&#34;故事&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#故事&#34;&gt;#&lt;/a&gt; 故事&lt;/h2&gt;
 &lt;p&gt;从前有两个兄弟，他们发现村子里没有称心如意的姑娘，于是决定一起到外面寻找心仪的姑娘。&lt;/p&gt;
 &lt;p&gt;在离开家乡之后，他们走了很多地方，有一天他们来到一个渔村，在村头碰到了一个姑娘，弟弟觉得那位姑娘正是自己的心目中人，或许这就是一见钟情，所以他决定留下来。&lt;/p&gt;
@@ -257,7 +257,7 @@
 &lt;p&gt;可弟弟执意留下。哥哥就对弟弟说 “既然你喜欢，就留下好了，我还要去找我喜欢的人。”&lt;/p&gt;
 &lt;p&gt;于是弟弟就辞别了哥哥，到当地打听求婚的习俗。当地人告诉他求婚要送牛的，普通的女孩只需要送一两头牛，贤惠漂亮的女孩要送多些，也就是说四五头。最多的是送九头牛，这样的女孩是非常优秀的，很少见这里，根本就没有人送过九头牛。&lt;/p&gt;
 &lt;p&gt;结果弟弟买了九头牛，浩浩荡荡地赶着牛群去求婚了。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/wisdom/nine-cows.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/wisdom/nine-cows.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;敲开女孩家的门时，女孩的父亲出来了，扶着门框吃惊的问：“年轻人有什么事？”&lt;/p&gt;
 &lt;p&gt;弟弟说：“老伯伯，我看上了你家的女儿，我赶着牛来是求婚的。”&lt;/p&gt;
 &lt;p&gt;老人说：“你求婚也用不着赶这么多牛来，我家女儿只是一个普通人，最多只要三四头牛就行了。你送这么多牛来是不对的，如果我收下了，邻居会笑话的。”&lt;/p&gt;
@@ -281,24 +281,24 @@
         <updated>2023-06-12T12:52:21.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/20230430.html</id>
+        <id>https://blog.luhuadong.com/journal/20230430.html</id>
         <title>当我不再寻找人生的意义，生活才刚刚开始</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/20230430.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/journal/20230430.html"/>
         <content type="html">&lt;p&gt;这几年活得很痛苦，其实也不是这几年啦，是这三十年好像都活得很痛苦，一直在寻找人生的意义。逃离原生家庭、追寻情感寄托、忙碌到让人麻木的工作、内心对名利的欲望...... 以及那好像永远都达不到的理想生活。&lt;/p&gt;
 &lt;p&gt;别人总觉得我很好，就连我妈也是这么认为的，似乎他们无法理解我的痛苦，而我又只能不断地压抑自己，把痛苦和伤疤掩埋起来，对大家笑一个 ･◡･&lt;/p&gt;
 &lt;p&gt;从大三开始，抑郁就伴随着我，我曾以为我好了，可这几年持续性的心情低落，越来越频繁了。我好像失去了勇气，失去了自信，却依然要在大家面前展示最好的一面。累，真的累了。我想要的 “内外一致” 的状态，找不到了。&lt;/p&gt;
 &lt;p&gt;可能是被 996 工作所异化，可能是我太固执，无法从原生家庭和失败的感情经历中走出来，总是一昧地回避，摆脱不了受害者心态。&lt;/p&gt;
 &lt;p&gt;但我今天，31 岁的我，决定要重新夺回生活的主导权，不再寻找人生的意义。因为人生本来就没有意义，对于浩瀚的宇宙而言，我只不过是一粒尘埃，很多事情已经发生了，我并不能改变什么，唯一能改变的就是我自己。看淡人生吧，活在当下，享受生活，随遇而安，花更多时间去做自己想做的事，快快乐乐地度过每一天。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/journal/life-meaning.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/life-meaning.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="人生" />
         <category term="成长" />
         <updated>2023-04-30T07:41:16.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/guide/change-yourself-with-a-little-restraint.html</id>
+        <id>https://blog.luhuadong.com/guide/change-yourself-with-a-little-restraint.html</id>
         <title>从一点小小的克制开始改变自己</title>
-        <link rel="alternate" href="https://luhuadong.com/guide/change-yourself-with-a-little-restraint.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/guide/change-yourself-with-a-little-restraint.html"/>
         <content type="html">&lt;h2 id=&#34;生活习惯&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活习惯&#34;&gt;#&lt;/a&gt; 生活习惯&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;戒掉熬夜，保证充足睡眠&lt;/li&gt;
@@ -357,9 +357,9 @@
         <updated>2022-10-07T04:21:35.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/guide/10-things-help-you-start-new-life.html</id>
+        <id>https://blog.luhuadong.com/guide/10-things-help-you-start-new-life.html</id>
         <title>有助于开启全新人生的十件小事</title>
-        <link rel="alternate" href="https://luhuadong.com/guide/10-things-help-you-start-new-life.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/guide/10-things-help-you-start-new-life.html"/>
         <content type="html">&lt;p&gt;通过下面这些小练习，你就会明白如何为自己创造想要的人生。&lt;/p&gt;
 &lt;h2 id=&#34;1-找到人生大方向&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-找到人生大方向&#34;&gt;#&lt;/a&gt; 1. 找到人生大方向&lt;/h2&gt;
 &lt;ul&gt;
@@ -417,14 +417,14 @@
         <updated>2022-10-03T08:37:17.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/20220406.html</id>
+        <id>https://blog.luhuadong.com/journal/20220406.html</id>
         <title>一觉醒来，喜提我的30岁</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/20220406.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/journal/your-30s-are-just-like-20s.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/journal/20220406.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/your-30s-are-just-like-20s.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;最近比较忙，其实也不是很忙，主要是过去很长一段时间，情绪低迷，进入了一种间歇性自律、持续性懒惰的状态，导致工作效率有点低。时常感到焦虑和孤独，唯一让我感到内心平静，居然是在图书馆学习的时候。生活总是平平淡淡，工作总是忙忙碌碌，还没来得及感叹，一不小心，就已经达成了 30 岁的里程碑。&lt;/p&gt;
 &lt;p&gt;30 岁真是一个可怕的数字，它总在提醒你 “该成家啦，该立业啦”。而我，似乎两头都不着调。没有甜甜的爱情，没有支持我的家庭，没有一份属于自己的事业。好像做什么都觉得差点意思，买房子、买车子也没感到多开心，找到一份还不错的工作也没感到多开心。哎，我的快乐阈值可真高。可能是因为我是个有野心的人吧，也许只有当我拥有一份事业，拥有自由的生活，拥有心心相印的爱人，才会感到快乐吧。&lt;/p&gt;
 &lt;p&gt;过去几个月，时常常想写点什么，又迟迟不敢落笔，生怕不好的想法和潦草的字体玷污了纸张，我... 好像抑郁了。果然，每次测试结果都显示我可能已经患上抑郁症，建议向心理医生或专业人士寻求协助。于是，我花了一些时间阅读心理学方面的著作，以寻求帮助。好消息是，虽然总是显示有抑郁倾向，但没有一次是重度抑郁。我想，应该是我依然热爱生活，对未来还抱有希望吧！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/journal/20220301_BDI-II_test.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20220301_BDI-II_test.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;作为 30 岁的总结，我本来想给自己打个 59 分，因为很多事情并没有达到预期，我也没有成为想成为的样子，让自己失望了。不过，我的心理医生说：要多点肯定自己，相信自己的才能，并用积极进取的态度看待自己的不足，摆脱自我束缚。于是，我给自己打了 99 分。&lt;span class=&#34;github-emoji&#34; alias=&#34;smile&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8&#34;&gt;😄&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;人生最重要的资源是什么？是时间，是每时每刻都在流淌的时间。把时间花在什么样的事、什么样的人上，收获的结果是不一样的。于是，我离开了那些阻碍我前进的人和事，开始了一段新的探索。做小项目、写书、面试、换赛道，就是过去一年的缩影。&lt;/p&gt;
 &lt;p&gt;对于我来说，痛苦的根源在于家庭、工作和生活的割裂。好像在不同的场景和圈子，都有不同的人设，而这都不是真实、完整的我。我要扮演一个好儿子、好哥哥、好员工、好男友...... 不同场景间的切换、情绪的调整，让我感到很累。其实我没那么好，都是装出来的......&lt;/p&gt;
@@ -452,9 +452,9 @@
         <updated>2022-04-05T16:47:47.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/career/career-and-life-admonish.html</id>
+        <id>https://blog.luhuadong.com/career/career-and-life-admonish.html</id>
         <title>职场与人生告诫</title>
-        <link rel="alternate" href="https://luhuadong.com/career/career-and-life-admonish.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/career/career-and-life-admonish.html"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;不要把自己当回事，而要把自己的要做的事当回事。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -534,23 +534,23 @@
         <updated>2021-10-09T13:40:02.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/me/my-career.html</id>
+        <id>https://blog.luhuadong.com/me/my-career.html</id>
         <title>职业地图</title>
-        <link rel="alternate" href="https://luhuadong.com/me/my-career.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/my-career-map.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/me/my-career.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/my-career-map.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="人生" />
         <updated>2021-09-24T03:21:45.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/reading/ten-conditions-of-happiness.html</id>
+        <id>https://blog.luhuadong.com/reading/ten-conditions-of-happiness.html</id>
         <title>新幸福的十大标准</title>
-        <link rel="alternate" href="https://luhuadong.com/reading/ten-conditions-of-happiness.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/reading/ten-conditions-of-happiness.html"/>
         <content type="html">&lt;p&gt;记得小学语文课本有一篇文章 ——《幸福是什么》，当时没看懂。直到最近，感觉自己不太幸福，所以重新读了这篇文章。文章其实很短，讲三个牧羊的小孩在树林里清理一口老泉，善举感动了森林里的智慧女神，简单的对话引发了孩子们对幸福的思考。后来三个孩子选择了不同的人生道路，十年后在小井旁相遇了，他们都明白了什么是幸福 —— &lt;strong&gt;幸福要靠劳动，要靠很好地尽自己的义务，做出对人们有益的事情。&lt;/strong&gt;&lt;/p&gt;
-&lt;img src=&#34;/images/static/what-happiness-is.jpg&#34; alt=&#34;幸福&#34; title=&#34;幸福是什么？&#34; width=600 /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/what-happiness-is.jpg&#34; alt=&#34;幸福&#34; title=&#34;幸福是什么？&#34; width=600 /&gt;
 &lt;p&gt;虽然文章给出了幸福的含义，就是脚踏实地、做个对社会有价值的人。但感觉还是比较空泛，缺少了一些深度和行动指导。毕竟只是一篇小学生课文，目的只是引发大家思考而已。&lt;/p&gt;
 &lt;p&gt;于是，我想起了《&lt;a href=&#34;https://union-click.jd.com/jdc?e=&amp;amp;p=JF8BAMkJK1olXgIAU1dYCUsfA18IGFIRWwUCVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXVpbC0sWHDZNRwYlBUF0PA0Jazx1eCcKRDxCGW9RUAc-TkcbM244G1oUXwMCUFtfDnsnA2g4TTUVXAcDVV9VCEoSM244G1wXXA4DVVZbDkkWBV8PG1IlAEJQDhYIWAhFS184K1glbTYCZF1tSiUSCm1YT1xHXQdVUQxYC0gTCzsOElNBXFQABgpZW0IWCl8KGloRVDY&#34;&gt;少即是多：北欧自由生活意见&lt;/a&gt;》这本书里面提到的 “新幸福的十大标准” 概念。&lt;/p&gt;
-&lt;img src=&#34;/images/static/new-happiness-define-01.jpeg&#34; title=&#34;新幸福的十大标准&#34; width=480 /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/new-happiness-define-01.jpeg&#34; title=&#34;新幸福的十大标准&#34; width=480 /&gt;
 &lt;p&gt;管理学大师彼得・德鲁克曾经说过 “It you can’t measure it, you can’t manage it”（你如果无法度量它，就无法管理它）。我在想 —— 我们能否对幸福进行有效管理呢？如果能对幸福进行度量，那是不是就能看到迈向幸福的光明大道？&lt;/p&gt;
 &lt;p&gt;幸福是一种主观感受，确实难以度量，而 “新幸福的十大标准” 可以理解为是一种度量幸福的方法和指标。那我们就来试试，看看能够通过逐步靠近这十个条件来获得幸福。&lt;/p&gt;
 &lt;p&gt;下面将结合书中的解释以及个人理解，详细介绍这十条幸福标准。&lt;/p&gt;
@@ -614,9 +614,9 @@
         <updated>2021-09-04T03:48:17.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/reading/%E8%A7%81%E8%AF%86.html</id>
+        <id>https://blog.luhuadong.com/reading/%E8%A7%81%E8%AF%86.html</id>
         <title>《见识》读书笔记</title>
-        <link rel="alternate" href="https://luhuadong.com/reading/%E8%A7%81%E8%AF%86.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/reading/%E8%A7%81%E8%AF%86.html"/>
         <content type="html">&lt;div class=&#34;note default&#34;&gt;&lt;p&gt;比贫穷更可怕的是：缺乏见识、缺乏爱、缺乏规矩&lt;/p&gt;&lt;/div&gt;
 &lt;p&gt;《见识》作者吴军&lt;/p&gt;
 &lt;ul&gt;
@@ -912,10 +912,10 @@
         <updated>2021-02-28T12:28:09.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/me/my-keyword.html</id>
+        <id>https://blog.luhuadong.com/me/my-keyword.html</id>
         <title>人生关键字</title>
-        <link rel="alternate" href="https://luhuadong.com/me/my-keyword.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/my-keyword.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/me/my-keyword.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/my-keyword.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="人生" />
         <updated>2020-06-24T03:21:01.000Z</updated>

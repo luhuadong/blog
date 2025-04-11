@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>成为自由人 • Posts by &#34;能源&#34; tag</title>
-        <link>https://luhuadong.com</link>
+        <link>https://blog.luhuadong.com</link>
         <description>阿基米东的成长笔记</description>
         <language>zh-CN</language>
         <pubDate>Tue, 28 Sep 2021 00:47:37 +0800</pubDate>
@@ -13,15 +13,15 @@
         <category>商业</category>
         <category>创业</category>
         <category>摄影</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
@@ -38,8 +38,8 @@
         <category>自律</category>
         <category>思维模型</category>
         <category>健康</category>
-        <category>Hexo</category>
         <category>徒步</category>
+        <category>Hexo</category>
         <category>家居</category>
         <category>科普</category>
         <category>环保</category>
@@ -70,9 +70,9 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
+        <category>地铁</category>
         <category>股票</category>
         <category>理财</category>
         <category>保险</category>
@@ -105,9 +105,9 @@
         <category>零废弃</category>
         <category>低碳</category>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/household/%E5%AE%B6%E7%94%B5%E8%83%BD%E6%95%88%E7%AD%89%E7%BA%A7.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/household/%E5%AE%B6%E7%94%B5%E8%83%BD%E6%95%88%E7%AD%89%E7%BA%A7.html</guid>
             <title>【科普】家电能效等级</title>
-            <link>https://luhuadong.com/household/%E5%AE%B6%E7%94%B5%E8%83%BD%E6%95%88%E7%AD%89%E7%BA%A7.html</link>
+            <link>https://blog.luhuadong.com/household/%E5%AE%B6%E7%94%B5%E8%83%BD%E6%95%88%E7%AD%89%E7%BA%A7.html</link>
             <category>家居</category>
             <category>能源</category>
             <pubDate>Tue, 28 Sep 2021 00:47:37 +0800</pubDate>
@@ -122,7 +122,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;能效标识&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#能效标识&#34;&gt;#&lt;/a&gt; 能效标识&lt;/h2&gt;
 &lt;p&gt;常见的家电（例如空调、冰箱、洗衣机）的能效等级是用 “中国能效标识”（China Energy Label）来标示的。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/household/china-energy-label-5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/household/china-energy-label-5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;不同家电的能效比是不一样的。以空调为例，空调的能效比实际上就是 “制冷（热）量与输出功率” 的比值，数值越大意味着同等制冷气量，消耗的功率越小即越省电。通俗地说，空调能效就是消耗同样多的电所产生的冷气 / 暖气有多少，能效越高的空调越省电。所以，在选购空调时，除了关注功率和匹数，空调能效也是衡量空调性能优劣的重要参数。&lt;/p&gt;
 &lt;p&gt;空调能效等级和能效比的关系如下：&lt;/p&gt;
 &lt;ul&gt;

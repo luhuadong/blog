@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>成为自由人 • Posts by &#34;游泳&#34; tag</title>
-        <link>https://luhuadong.com</link>
+        <link>https://blog.luhuadong.com</link>
         <description>阿基米东的成长笔记</description>
         <language>zh-CN</language>
         <pubDate>Sat, 03 Aug 2019 20:16:40 +0800</pubDate>
@@ -13,15 +13,15 @@
         <category>商业</category>
         <category>创业</category>
         <category>摄影</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
@@ -38,8 +38,8 @@
         <category>自律</category>
         <category>思维模型</category>
         <category>健康</category>
-        <category>Hexo</category>
         <category>徒步</category>
+        <category>Hexo</category>
         <category>家居</category>
         <category>科普</category>
         <category>环保</category>
@@ -70,9 +70,9 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
+        <category>地铁</category>
         <category>股票</category>
         <category>理财</category>
         <category>保险</category>
@@ -105,33 +105,33 @@
         <category>零废弃</category>
         <category>低碳</category>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/sports/swimming-technique-backstroke.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/sports/swimming-technique-backstroke.html</guid>
             <title>【游泳】仰泳教学与技巧</title>
-            <link>https://luhuadong.com/sports/swimming-technique-backstroke.html</link>
+            <link>https://blog.luhuadong.com/sports/swimming-technique-backstroke.html</link>
             <category>游泳</category>
             <pubDate>Sat, 03 Aug 2019 20:16:40 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E4%BB%B0%E6%B3%B3%E5%8A%A8%E7%94%BB.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E4%BB%B0%E6%B3%B3%E8%82%8C%E8%82%89%E5%8F%91%E5%8A%9B.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E4%BB%B0%E6%B3%B3%E5%8A%A8%E7%94%BB.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E4%BB%B0%E6%B3%B3%E8%82%8C%E8%82%89%E5%8F%91%E5%8A%9B.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/sports/swimming-technique-butterfly-stroke.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/sports/swimming-technique-butterfly-stroke.html</guid>
             <title>【游泳】蝶泳教学与技巧</title>
-            <link>https://luhuadong.com/sports/swimming-technique-butterfly-stroke.html</link>
+            <link>https://blog.luhuadong.com/sports/swimming-technique-butterfly-stroke.html</link>
             <category>游泳</category>
             <pubDate>Sat, 03 Aug 2019 20:16:20 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E8%9D%B6%E6%B3%B3%E5%8A%A8%E7%94%BB.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E8%9D%B6%E6%B3%B3%E8%82%8C%E8%82%89%E5%8F%91%E5%8A%9B.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E8%9D%B6%E6%B3%B3%E5%8A%A8%E7%94%BB.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E8%9D%B6%E6%B3%B3%E8%82%8C%E8%82%89%E5%8F%91%E5%8A%9B.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/sports/swimming-technique-freestyle.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/sports/swimming-technique-freestyle.html</guid>
             <title>【游泳】自由泳教学与技巧</title>
-            <link>https://luhuadong.com/sports/swimming-technique-freestyle.html</link>
+            <link>https://blog.luhuadong.com/sports/swimming-technique-freestyle.html</link>
             <category>游泳</category>
             <pubDate>Sat, 03 Aug 2019 20:15:38 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E8%87%AA%E7%94%B1%E6%B3%B3%E5%8A%A8%E7%94%BB.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E8%87%AA%E7%94%B1%E6%B3%B3%E8%82%8C%E8%82%89%E5%8F%91%E5%8A%9B.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E8%87%AA%E7%94%B1%E6%B3%B3%E5%8A%A8%E7%94%BB.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E8%87%AA%E7%94%B1%E6%B3%B3%E8%82%8C%E8%82%89%E5%8F%91%E5%8A%9B.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;技术要点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#技术要点&#34;&gt;#&lt;/a&gt; 技术要点&lt;/h2&gt;
 &lt;h3 id=&#34;下肢练习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#下肢练习&#34;&gt;#&lt;/a&gt; 下肢练习&lt;/h3&gt;
 &lt;ul&gt;
@@ -159,20 +159,20 @@
 &lt;li&gt;自由泳的标准配合动作为两次划臂六次打腿&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;转身&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#转身&#34;&gt;#&lt;/a&gt; 转身&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E8%87%AA%E7%94%B1%E6%B3%B3%E8%BD%AC%E8%BA%AB.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E8%87%AA%E7%94%B1%E6%B3%B3%E8%BD%AC%E8%BA%AB.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;出发&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#出发&#34;&gt;#&lt;/a&gt; 出发&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E5%87%BA%E5%8F%91.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E5%87%BA%E5%8F%91.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/sports/swimming-technique-breaststroke.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/sports/swimming-technique-breaststroke.html</guid>
             <title>【游泳】蛙泳教学与技巧</title>
-            <link>https://luhuadong.com/sports/swimming-technique-breaststroke.html</link>
+            <link>https://blog.luhuadong.com/sports/swimming-technique-breaststroke.html</link>
             <category>游泳</category>
             <pubDate>Sat, 03 Aug 2019 20:15:12 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;蛙泳是最常见的一种泳姿，非常实用也比较容易掌握，因此很多初学者都是从蛙泳开始学习游泳的。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E8%9B%99%E6%B3%B3%E5%8A%A8%E7%94%BB.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E8%9B%99%E6%B3%B3%E8%82%8C%E8%82%89%E5%8F%91%E5%8A%9B.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E8%9B%99%E6%B3%B3%E5%8A%A8%E7%94%BB.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/sports/Arena_%E6%B8%B8%E6%B3%B3_%E8%9B%99%E6%B3%B3%E8%82%8C%E8%82%89%E5%8F%91%E5%8A%9B.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;技术要点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#技术要点&#34;&gt;#&lt;/a&gt; 技术要点&lt;/h2&gt;
 &lt;h3 id=&#34;学习蛙泳-5-步骤&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习蛙泳-5-步骤&#34;&gt;#&lt;/a&gt; 学习蛙泳 5 步骤&lt;/h3&gt;
 &lt;ol&gt;
@@ -207,8 +207,8 @@
 &lt;li&gt;手腿伸直飘一会&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;示范动作&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#示范动作&#34;&gt;#&lt;/a&gt; 示范动作&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;/images/sports/%E8%9B%99%E6%B3%B3_%E5%A5%B3%E7%94%9F%E7%A4%BA%E8%8C%831.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/sports/%E8%9B%99%E6%B3%B3_%E5%A5%B3%E7%94%9F%E7%A4%BA%E8%8C%832.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/sports/%E8%9B%99%E6%B3%B3_%E5%A5%B3%E7%94%9F%E7%A4%BA%E8%8C%831.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/sports/%E8%9B%99%E6%B3%B3_%E5%A5%B3%E7%94%9F%E7%A4%BA%E8%8C%832.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;常见问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#常见问题&#34;&gt;#&lt;/a&gt; 常见问题&lt;/h2&gt;
 &lt;h3 id=&#34;蛙泳换气之后腿部下沉怎么办&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#蛙泳换气之后腿部下沉怎么办&#34;&gt;#&lt;/a&gt; 蛙泳换气之后，腿部下沉怎么办？&lt;/h3&gt;
 &lt;p&gt;主要原因是腰、腿没有保持滑行姿态，腿沉底了。&lt;/p&gt;

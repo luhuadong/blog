@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://luhuadong.com</id>
+    <id>https://blog.luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;运动&#34; tag</title>
-    <link href="https://luhuadong.com" />
+    <link href="https://blog.luhuadong.com" />
     <updated>2024-09-15T04:03:16.000Z</updated>
     <category term="名言" />
     <category term="奋斗" />
@@ -10,15 +10,15 @@
     <category term="商业" />
     <category term="创业" />
     <category term="摄影" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
@@ -35,8 +35,8 @@
     <category term="自律" />
     <category term="思维模型" />
     <category term="健康" />
-    <category term="Hexo" />
     <category term="徒步" />
+    <category term="Hexo" />
     <category term="家居" />
     <category term="科普" />
     <category term="环保" />
@@ -67,9 +67,9 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
+    <category term="地铁" />
     <category term="股票" />
     <category term="理财" />
     <category term="保险" />
@@ -102,9 +102,9 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/sports/baduanjin-exercise.html</id>
+        <id>https://blog.luhuadong.com/sports/baduanjin-exercise.html</id>
         <title>八段锦教学、口诀和动作要领</title>
-        <link rel="alternate" href="https://luhuadong.com/sports/baduanjin-exercise.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/sports/baduanjin-exercise.html"/>
         <content type="html">&lt;h2 id=&#34;八段锦简史&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#八段锦简史&#34;&gt;#&lt;/a&gt; 八段锦简史&lt;/h2&gt;
 &lt;p&gt;八段锦是中国古代传统功法，据研究，起源于北宋，距今已有近千年的历史。有学者考证，八段锦在古代流行于各个社会阶层，北宋时期老少妇孺几乎人人会做，称得上是当时的国民 “广播体操”。八段锦以人体脊柱为中心，通过左右对称、前后协调、上下协同的操作技巧，实现运行全身气血、强身健体的养生康复作用。&lt;/p&gt;
 &lt;p&gt;“八段锦” 这个名字，最早出现在南宋洪迈所著《夷坚志》中 —— “政和七年，李似矩为起居郎…… 尝以夜半时起坐，嘘吸按摩，行所谓八段锦者。” 说明八段锦在北宋已流传于世，并有坐势和立势之分。&lt;/p&gt;
@@ -163,23 +163,23 @@
 &lt;li&gt;身体伸展时吸气，弯曲时吐气。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;八段锦动画演示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#八段锦动画演示&#34;&gt;#&lt;/a&gt; 八段锦动画演示&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;../../images/sports/%E5%85%AB%E6%AE%B5%E9%94%A6-%E5%8D%A1%E9%80%9A%E5%8A%A8%E7%94%BB.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/sports/%E5%85%AB%E6%AE%B5%E9%94%A6-%E5%8D%A1%E9%80%9A%E5%8A%A8%E7%94%BB.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第一式：两手托天理三焦&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../images/sports/%E5%85%AB%E6%AE%B5%E9%94%A6-%E5%8D%A1%E9%80%9A%E5%8A%A8%E7%94%BB-1.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/sports/%E5%85%AB%E6%AE%B5%E9%94%A6-%E5%8D%A1%E9%80%9A%E5%8A%A8%E7%94%BB-1.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第二式：左右开弓似射雕&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../images/sports/%E5%85%AB%E6%AE%B5%E9%94%A6-%E5%8D%A1%E9%80%9A%E5%8A%A8%E7%94%BB-2.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/sports/%E5%85%AB%E6%AE%B5%E9%94%A6-%E5%8D%A1%E9%80%9A%E5%8A%A8%E7%94%BB-2.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第三式：调理脾胃须单举&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../images/sports/%E5%85%AB%E6%AE%B5%E9%94%A6-%E5%8D%A1%E9%80%9A%E5%8A%A8%E7%94%BB-3.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/sports/%E5%85%AB%E6%AE%B5%E9%94%A6-%E5%8D%A1%E9%80%9A%E5%8A%A8%E7%94%BB-3.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第四式：五劳七伤往后瞧&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../images/sports/%E5%85%AB%E6%AE%B5%E9%94%A6-%E5%8D%A1%E9%80%9A%E5%8A%A8%E7%94%BB-4.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/sports/%E5%85%AB%E6%AE%B5%E9%94%A6-%E5%8D%A1%E9%80%9A%E5%8A%A8%E7%94%BB-4.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第五式：摇头摆尾去心火&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../images/sports/%E5%85%AB%E6%AE%B5%E9%94%A6-%E5%8D%A1%E9%80%9A%E5%8A%A8%E7%94%BB-5.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/sports/%E5%85%AB%E6%AE%B5%E9%94%A6-%E5%8D%A1%E9%80%9A%E5%8A%A8%E7%94%BB-5.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第六式：两手攀足固肾腰&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../images/sports/%E5%85%AB%E6%AE%B5%E9%94%A6-%E5%8D%A1%E9%80%9A%E5%8A%A8%E7%94%BB-6.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/sports/%E5%85%AB%E6%AE%B5%E9%94%A6-%E5%8D%A1%E9%80%9A%E5%8A%A8%E7%94%BB-6.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第七式：攒拳怒目增气力&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../images/sports/%E5%85%AB%E6%AE%B5%E9%94%A6-%E5%8D%A1%E9%80%9A%E5%8A%A8%E7%94%BB-7.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/sports/%E5%85%AB%E6%AE%B5%E9%94%A6-%E5%8D%A1%E9%80%9A%E5%8A%A8%E7%94%BB-7.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第八式：背后七颠百病消&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../images/sports/%E5%85%AB%E6%AE%B5%E9%94%A6-%E5%8D%A1%E9%80%9A%E5%8A%A8%E7%94%BB-8.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/sports/%E5%85%AB%E6%AE%B5%E9%94%A6-%E5%8D%A1%E9%80%9A%E5%8A%A8%E7%94%BB-8.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="运动" />
         <updated>2024-09-15T04:03:16.000Z</updated>

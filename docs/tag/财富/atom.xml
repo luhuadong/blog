@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://luhuadong.com</id>
+    <id>https://blog.luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;财富&#34; tag</title>
-    <link href="https://luhuadong.com" />
+    <link href="https://blog.luhuadong.com" />
     <updated>2024-06-09T01:42:48.000Z</updated>
     <category term="名言" />
     <category term="奋斗" />
@@ -10,15 +10,15 @@
     <category term="商业" />
     <category term="创业" />
     <category term="摄影" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
@@ -35,8 +35,8 @@
     <category term="自律" />
     <category term="思维模型" />
     <category term="健康" />
-    <category term="Hexo" />
     <category term="徒步" />
+    <category term="Hexo" />
     <category term="家居" />
     <category term="科普" />
     <category term="环保" />
@@ -67,9 +67,9 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
+    <category term="地铁" />
     <category term="股票" />
     <category term="理财" />
     <category term="保险" />
@@ -102,9 +102,9 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/reading/the-millionaire-next-door.html</id>
+        <id>https://blog.luhuadong.com/reading/the-millionaire-next-door.html</id>
         <title>《邻家的百万富翁》读书笔记</title>
-        <link rel="alternate" href="https://luhuadong.com/reading/the-millionaire-next-door.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/reading/the-millionaire-next-door.html"/>
         <content type="html">&lt;p&gt;《邻家的百万富翁》英文书名《The Millionaire Next Door》，这本书的第一版在 1996 年 10 月出版，虽然距离现在已经快 30 年了，但依然具有参考价值。因为它不是教会我们如何投资赚钱，而是为我们指出了一条如何积累财富的路。&lt;/p&gt;
 &lt;p&gt;简单来说，这本书通过调查了超过一万名美国的百万富翁之后得出结论：大多数的百万富翁，有七个共同特点：&lt;/p&gt;
 &lt;ol&gt;
@@ -126,14 +126,14 @@
         <updated>2024-06-09T01:42:48.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/reading/where-does-the-money-come-from.html</id>
+        <id>https://blog.luhuadong.com/reading/where-does-the-money-come-from.html</id>
         <title>《钱从哪里来——中国家庭的财富方案》</title>
-        <link rel="alternate" href="https://luhuadong.com/reading/where-does-the-money-come-from.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/static/book_money-come_001.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/reading/where-does-the-money-come-from.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/book_money-come_001.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;香帅老师的这本书，讲的是中国家庭财富积累的底层逻辑。不是理财、投资的具体策略，而是分析在当代社会，一个普通家庭该如何积累财富，也就是 —— 钱从哪里来？&lt;/p&gt;
 &lt;p&gt;本书结合许多普通人的案例进行论述，从不同的例子当中多少让人看到自己的影子。抛开宏观经济因素，影响一个人或一个家庭财富水平的，主要有三个方面：职业方向、城市选择、资产配置。&lt;/p&gt;
 &lt;h2 id=&#34;职业方向&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#职业方向&#34;&gt;#&lt;/a&gt; 职业方向&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;/images/static/book_money-come_002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/book_money-come_002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;首先是&lt;strong&gt;职业方向&lt;/strong&gt;。普通家庭的主要收入来源其实还是工资收入，一份 “&lt;strong&gt;滚雪球型&lt;/strong&gt;” 的职业，能够帮助家庭较快地积累财富。而一份 “&lt;strong&gt;推石头型&lt;/strong&gt;” 的职业，则会延缓财富的积累，这种职业往往也是创造价值增速低、折旧率高的，因此在未来很可能会被机器所取代，面临失业的尴尬。&lt;/p&gt;
 &lt;p&gt;那什么职业容易被机器和人工智能取代呢？就是那些可编码的工作，即需要重复劳动的工作，而且在这方面机器可能做得比人还好。比如普工 / 操作工、电话销售员、保险理赔师、出纳员、收银员、新闻编辑等。与此相反，那些需要创新、需要个性化服务的领域，比如软件工程师、医生、教师、律师、理发师等职业，则较难被替代。&lt;/p&gt;
 &lt;p&gt;职业选择通常与所受教育相关，学历的提升可以直接作用于收入水平。相对来说，高学历会更容易找到 “滚雪球型” 的职业赛道，并且会带来 “学历溢价”。那学历不高的人是不是没有机会呢？也不是，随着中国进入 “万元美金社会”，“怕死、爱美、孤独” 等社会新常态将激活一些新的职业赛道，比如康复治疗师、美容师、健身教练、心理咨询师、宠物驯导师等。只要找到恰当的职业赛道，也会带来 “年资溢价”。&lt;/p&gt;
@@ -141,7 +141,7 @@
     &lt;p&gt;学历溢价 —— 随着学历要求上升，招聘工资随之上升。&lt;/p&gt;
     &lt;p&gt;年资溢价 —— 随着工作经验要求上升，招聘薪酬上涨。&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;img src=&#34;/images/static/book_money-come_003.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/book_money-come_003.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;div class=&#34;note info&#34;&gt;&lt;p&gt;小结：要尽量选择职业坡道长、能快速成长、折旧率低、收入高的职业。&lt;/p&gt;&lt;/div&gt;
 &lt;h2 id=&#34;城市选择&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#城市选择&#34;&gt;#&lt;/a&gt; 城市选择&lt;/h2&gt;
 &lt;p&gt;然后是&lt;strong&gt;城市选择&lt;/strong&gt;。自从改革开放以来，城市化进程不断推进，然而不同的城市拥有不同的财富创造力。可以说，城市决定着你财富的上限，也决定着你财富的下限。&lt;/p&gt;
@@ -151,14 +151,14 @@
     &lt;p&gt;专业化溢价 —— 随着人们收入的提高，自己完成很多工作的机会成本越来越高，于是大城市对专业化从业人员的数量需求越来越大，愿意支付的溢价也越来越高。&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;那小城镇是不是就此没落？也不一定，大城市发展带来规模溢出效应，实际上就是城市规模在进一步扩张。生长在大城市周边的小城镇会夺得先机，形成具备生产能力、产业聚集、劳动力充足的小城镇。而不在大城市群周边的城镇，比如鄂尔多斯依靠便宜的电价、土地以及得天独厚的气候，吸引了众多云计算厂商；甘孜藏族自治州丹巴县八科村依靠新零售物流体系，使得特色农产品进入大城市的市场。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/static/book_money-come_004.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/book_money-come_004.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;div class=&#34;note info&#34;&gt;&lt;p&gt;小结：大城市基础设施好、创新能力强、市场发育完善，有助于个人成长和财富积累。&lt;/p&gt;&lt;/div&gt;
 &lt;h2 id=&#34;资产配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#资产配置&#34;&gt;#&lt;/a&gt; 资产配置&lt;/h2&gt;
 &lt;p&gt;最后是&lt;strong&gt;资产配置&lt;/strong&gt;。无论国内还是国外，房地产都占了普通居民总财富中的大头。自 2000 年以来，中国的平均房价大约上涨了 2 倍，一线城市核心区域的房价涨幅甚至达到 10 倍以上，如果同样的资金存在银行，很可能连通货膨胀都抵不过。&lt;/p&gt;
 &lt;p&gt;由于房价上涨过快，各地政府加强了房地产调控，目的在于控制贫富差距，避免炒房，让还没买房的年轻人有机会买房，享受城市的福利。&lt;/p&gt;
 &lt;p&gt;地理位置是稀缺资源，房价反映的是房子所在土地的价值，即这片土地上的经济增长潜力。未来中国的房价仍然会继续上升，但房价的分化程度也会不断加剧。因此只有买到真正有价值的房子，才能保证投资的回报。&lt;/p&gt;
 &lt;p&gt;至于其他金融资产，比如股票、基金、债券等，先配置低风险的再配置高风险的。受国际经济形势影响，更要理性投资、适当投资。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/static/book_money-come_005.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/book_money-come_005.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;div class=&#34;note info&#34;&gt;&lt;p&gt;小结：中国的经济增速放缓，但不必过度悲观，作为个人要理性投资，作为企业要增强核心竞争力。&lt;/p&gt;&lt;/div&gt;
 &lt;p&gt;由于 2020 年开局不利，建议各位：&lt;/p&gt;
 &lt;ul&gt;
@@ -167,7 +167,7 @@
 &lt;li&gt;接受教育&lt;/li&gt;
 &lt;li&gt;继续努力&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;/images/static/book_money-come_006.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/book_money-come_006.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;购买链接：&lt;a href=&#34;https://union-click.jd.com/jdc?e=&amp;amp;p=AyIGZRprFQEUAV0cWxwyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVARQBXRxbHB1LQglGaxRKUx0THyNgYnFXIGkCZlwTXgdML0MOHjdUK1sUAxACVR9eFwQiN1Uca0NsEgZUGloUBxEFUStaJQIVB1AfUx0LFgNVHVslBRIOZUYfR1haUgVYCV0yIjdWK2slAiIEZVk1ElYVBgJOXBABQgEGHgtBUEJSUksPFlEQU1MSUxwCGg9lGVoUBhs%3D&#34;&gt;京东&lt;/a&gt;、&lt;a href=&#34;https://s.click.taobao.com/t?e=m%3D2%26s%3DyZLdPy06FwYcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67hNZ6tPKWe%2F8PLNzIt%2Fz56inFi3wFBXvYUtYIXyQ5%2BdaGX93X4IFTwPx%2FVncyXNiWXW0BscCR%2FBjdZr7RBnLmJomXO35yxsacVu%2FAug5mCZctaSVhgwkRkCwTfVrJiO1T2RsSsXPAUZ0&amp;amp;scm=null&amp;amp;pvid=null&amp;amp;app_pvid=59590_33.5.62.17_633_1614599968567&amp;amp;ptl=floorId%3A17741&amp;amp;originalFloorId%3A17741&amp;amp;app_pvid%3A59590_33.5.62.17_633_1614599968567&amp;amp;union_lens=lensId%3APUB%401614599948%400b1a2517_0e71_177eda808d8_308f%40026Hzwm1WaB5Mq75ZsMWKJJh&#34;&gt;淘宝&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -178,9 +178,9 @@
         <updated>2020-03-08T11:18:15.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/money/the-best-financial-plan-for-the-moonlight-clan.html</id>
+        <id>https://blog.luhuadong.com/money/the-best-financial-plan-for-the-moonlight-clan.html</id>
         <title>月光族的最佳财务规划</title>
-        <link rel="alternate" href="https://luhuadong.com/money/the-best-financial-plan-for-the-moonlight-clan.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/money/the-best-financial-plan-for-the-moonlight-clan.html"/>
         <content type="html">&lt;p&gt;刚出校门的 90 后，挣得不多，如果没理财观念，便有可能存不下钱。90 后年轻人攒不下钱的原因无非下面几种：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -202,7 +202,7 @@
 &lt;p&gt;因为一生的支出规律是基本可以模拟的，我们可以发现：第一个支出高峰期是 30 岁～35 岁，这一阶段的主要指出是成家立室；第二个高峰期是 50 岁左右，上有老下有小，年幼的孩子长大外出求学、父母进入老年；第三个高峰是漫长的养老考验。&lt;/p&gt;
 &lt;p&gt;对于普通人来说，花钱有一些避不开的羁绊：年轻的时候没收入，求学和生活的钱由父母出，年纪大了也必然要把钱花在子女身上；60 岁以后，收入来源减少，如果没存购三十年的养老金，就需要子女的支持，相反如果我们老了还能养活自己，那子女在中年时的压力就会小很多。&lt;/p&gt;
 &lt;p&gt;以你这一代人为参照标准，上下各一代人，共三代人的收支情况互为因果，决定了你能花多少钱。如果上一代的积累很多，30 岁的人买房、买车的消费压力就会小；如果下一代的收入高，退休后 30 年的生命质量就会高。反之，上一代的压力也可能会传导到第三代。不是只考虑时间或者只考虑自己就可以放心花钱的。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/money/money-intergenerational-transmission.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/money-intergenerational-transmission.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;在各种排列组合中：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;蓝色的组合对你这一代最有利；而黄色的组合对你最不利。&lt;/li&gt;

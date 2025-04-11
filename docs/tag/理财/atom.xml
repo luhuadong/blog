@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://luhuadong.com</id>
+    <id>https://blog.luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;理财&#34; tag</title>
-    <link href="https://luhuadong.com" />
+    <link href="https://blog.luhuadong.com" />
     <updated>2024-11-11T15:52:48.000Z</updated>
     <category term="名言" />
     <category term="奋斗" />
@@ -10,15 +10,15 @@
     <category term="商业" />
     <category term="创业" />
     <category term="摄影" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
@@ -35,8 +35,8 @@
     <category term="自律" />
     <category term="思维模型" />
     <category term="健康" />
-    <category term="Hexo" />
     <category term="徒步" />
+    <category term="Hexo" />
     <category term="家居" />
     <category term="科普" />
     <category term="环保" />
@@ -67,9 +67,9 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
+    <category term="地铁" />
     <category term="股票" />
     <category term="理财" />
     <category term="保险" />
@@ -102,9 +102,9 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/money/stock-investment-strategy-swing-trading.html</id>
+        <id>https://blog.luhuadong.com/money/stock-investment-strategy-swing-trading.html</id>
         <title>股票交易策略：做T</title>
-        <link rel="alternate" href="https://luhuadong.com/money/stock-investment-strategy-swing-trading.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/money/stock-investment-strategy-swing-trading.html"/>
         <content type="html">&lt;p&gt;&lt;strong&gt;在 A 股市场中，做 T 是一种常见的交易策略。&lt;/strong&gt; 做 T 指的是在一个交易日内，对同一只股票进行先买后卖或先卖后买的操作，以赚取差价。下面我们来详细了解一下 A 股做 T 的操作方法、技巧以及风险。&lt;/p&gt;
 &lt;h2 id=&#34;操作方法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#操作方法&#34;&gt;#&lt;/a&gt; 操作方法&lt;/h2&gt;
 &lt;ol&gt;
@@ -136,10 +136,10 @@
 &lt;p&gt;做 T 时不宜投入过多资金，以免因判断失误造成较大损失。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;:::tip&lt;/p&gt;
+&lt;div class=&#34;note default&#34;&gt;
 &lt;p&gt;MACD（指数平滑异同移动平均线）是由 Gerald Appel 在 1979 年提出的一种趋势跟踪的动量指标。&lt;/p&gt;
 &lt;p&gt;KDJ（随机指标）是一个用于分析市场短期趋势的技术指标。KDJ 反映了价格变化的强度，超买和超卖的信号。但在剧烈波动的市场中，KDJ 不一定有效。&lt;/p&gt;
-&lt;p&gt;:::&lt;/p&gt;
+&lt;/div&gt;
 &lt;h2 id=&#34;做-t-的风险&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#做-t-的风险&#34;&gt;#&lt;/a&gt; 做 T 的风险&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -188,10 +188,10 @@
         <updated>2024-11-11T15:52:48.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/money/exchange-or-over-the-counter.html</id>
+        <id>https://blog.luhuadong.com/money/exchange-or-over-the-counter.html</id>
         <title>场内交易和场外交易是什么意思？有什么区别？</title>
-        <link rel="alternate" href="https://luhuadong.com/money/exchange-or-over-the-counter.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/money/exchange-or-over-the-counter-banner.png&#34; alt=&#34;场内交易和场外交易&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/money/exchange-or-over-the-counter.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/exchange-or-over-the-counter-banner.png&#34; alt=&#34;场内交易和场外交易&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;最近有朋友问我，在支付宝上买入基金和通过证券账户买入基金有什么不一样？在支付宝上操作就挺方便的，为什么还要这么麻烦开通证券账户呢？&lt;/p&gt;
 &lt;p&gt;这其实呀，就是场内交易和场外交易的区别。&lt;/p&gt;
 &lt;h2 id=&#34;场内交易&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#场内交易&#34;&gt;#&lt;/a&gt; 场内交易&lt;/h2&gt;
@@ -249,10 +249,10 @@
         <updated>2024-07-23T10:31:35.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/money/primary-and-secondary-market.html</id>
+        <id>https://blog.luhuadong.com/money/primary-and-secondary-market.html</id>
         <title>一级市场和二级市场是什么意思？有什么区别？</title>
-        <link rel="alternate" href="https://luhuadong.com/money/primary-and-secondary-market.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/money/primary-market-and-secondary-market.png&#34; alt=&#34;一级市场和二级市场&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/money/primary-and-secondary-market.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/primary-market-and-secondary-market.png&#34; alt=&#34;一级市场和二级市场&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;基本概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基本概念&#34;&gt;#&lt;/a&gt; 基本概念&lt;/h2&gt;
 &lt;p&gt;首先，我们要先明确一下 “市场” 的概念。一般来说，市场就是发生交易的地方，比如说菜市场就是可以买卖蔬果肉蛋奶的地方。那我们这里讲的 “市场” 其实就是指金融市场，金融市场是一个总称，它包括了经营货币资金借款、外汇买卖、有价证券交易、债券和股票的发行、黄金等贵金属买卖场所。&lt;/p&gt;
 &lt;p&gt;我们还经常听到 “股票市场”、“证券交易市场” 等名称，但这些都不够准确，它们是一个更狭窄的概念。除此之外，还有外汇市场、黄金市场、债权市场等等。实际上，股票交易的市场已经是二级市场了，因为它是发生在投资人和投资人之间的交易。下面我们详细介绍一级市场和二级市场的概念和区别。&lt;/p&gt;
@@ -284,9 +284,9 @@
         <updated>2024-07-18T08:10:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/money/bank-loan-repayment-methods.html</id>
+        <id>https://blog.luhuadong.com/money/bank-loan-repayment-methods.html</id>
         <title>银行贷款还款的两种方式</title>
-        <link rel="alternate" href="https://luhuadong.com/money/bank-loan-repayment-methods.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/money/bank-loan-repayment-methods.html"/>
         <content type="html">&lt;p&gt;按揭购买住房时，需要向银行申请贷款，无论是住房公积金贷款还是商业贷款，都有两种还款方式。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;一种是&lt;strong&gt;等额本息还款&lt;/strong&gt;。即把住房抵押贷款的本金总额与利息总额相加，然后平均分摊到还款期限的每个月中。还款人每个月还给银行固定金额，但每月还款额中的本金比重逐月递增，利息比重逐月递减。&lt;/li&gt;
@@ -344,9 +344,9 @@
         <updated>2023-01-26T08:02:51.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/money/real-estate-investment-terminology.html</id>
+        <id>https://blog.luhuadong.com/money/real-estate-investment-terminology.html</id>
         <title>房地产投资专业术语</title>
-        <link rel="alternate" href="https://luhuadong.com/money/real-estate-investment-terminology.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/money/real-estate-investment-terminology.html"/>
         <content type="html">&lt;h2 id=&#34;指标&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指标&#34;&gt;#&lt;/a&gt; 指标&lt;/h2&gt;
 &lt;h3 id=&#34;房屋租售比&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#房屋租售比&#34;&gt;#&lt;/a&gt; 房屋租售比&lt;/h3&gt;
 &lt;p&gt;房屋租售比是指每平方米使用面积的月租金与每平方米建筑面积房价之间的比值。国际上用来衡量一个区域房产运行状况良好的租售比一般界定为 1:300 至 1:200 之间。中国由于房价的高企，租金还无法追上房价上涨的步伐，2020 年全国 50 个重点城市的平均租售比为 1:611，远低于国际合理租售比区间水平。&lt;/p&gt;
@@ -440,13 +440,13 @@
         <updated>2023-01-23T09:35:28.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/money/money-pool-model.html</id>
+        <id>https://blog.luhuadong.com/money/money-pool-model.html</id>
         <title>【理财】财富水池模型</title>
-        <link rel="alternate" href="https://luhuadong.com/money/money-pool-model.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/money/money-pool-model.html"/>
         <content type="html">&lt;p&gt;很多人手上有了积蓄以后也不知道怎么理财，如果你也是这样，不妨参考本文介绍的 “财富水池” 模型。&lt;/p&gt;
 &lt;h2 id=&#34;财富水池的概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#财富水池的概念&#34;&gt;#&lt;/a&gt; 财富水池的概念&lt;/h2&gt;
 &lt;p&gt;下面是 “财富水池” 模型的示意图，总共分为 4 个水池，依次是现金池、保险池、目标池、金鹅池。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/money/%E8%B4%A2%E5%AF%8C%E6%B0%B4%E6%B1%A0%E6%A8%A1%E5%9E%8B.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/%E8%B4%A2%E5%AF%8C%E6%B0%B4%E6%B1%A0%E6%A8%A1%E5%9E%8B.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;财富水池的作用是帮助我们在财务和自己的生活之间搭起一座桥，让你的财务很好地支持你各种财务需求。&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;现金池&lt;/strong&gt;：是我们的零钱管家，用于日常消费、超短期支付及储蓄应急准备金等等。&lt;/li&gt;
@@ -470,12 +470,12 @@
 &lt;h3 id=&#34;第2步准备商业险的资金填入保险池&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第2步准备商业险的资金填入保险池&#34;&gt;#&lt;/a&gt; 第 2 步：准备商业险的资金，填入保险池&lt;/h3&gt;
 &lt;p&gt;记住：&lt;strong&gt;财务安全是优先于财务成长的&lt;/strong&gt;。也就是说，相比于投资，下一个等待我们去满足的需求就是保障需求，即需要优先填满保险池。&lt;/p&gt;
 &lt;p&gt;对于打工人来说，除了社保医保，强烈建议额外购买商业保险进行补充，尽可能覆盖所有潜在风险。商业保险的种类很多，一般关注重疾险、医疗险、意外险、寿险这四大险种即可。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/money/%E5%9B%9B%E5%A4%A7%E9%99%A9%E7%A7%8D%E7%AE%80%E5%8D%95%E5%AF%B9%E6%AF%94.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/%E5%9B%9B%E5%A4%A7%E9%99%A9%E7%A7%8D%E7%AE%80%E5%8D%95%E5%AF%B9%E6%AF%94.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;保险池的具体配置也是因人而异，我们建议你预留家庭年收入 5%-8%，最多不要超过 10% 的钱，作为你每年的保障投入。这个金额是一个目前比较普遍，也相对科学的保费支出比例，既可以选到相对充足的保障，又不会对家庭经济带来过大的压力。&lt;/p&gt;
 &lt;h3 id=&#34;第3步在目标基金池中投入你5年内的目标&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第3步在目标基金池中投入你5年内的目标&#34;&gt;#&lt;/a&gt; 第 3 步：在目标基金池中投入你 5 年内的目标&lt;/h3&gt;
 &lt;p&gt;目标基金池的作用是帮助你实现未来五年内想要完成的目标。因此根据这个需求，建议你首先在这个目标池中，梳理出目标背后需要的财务支持。&lt;/p&gt;
 &lt;p&gt;根据 SMART 原则，一个合理的理财目标必须包括 5 个要素：明确性、可测量、可行性、现实性和时效性。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/money/SMART%E5%8E%9F%E5%88%99.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/SMART%E5%8E%9F%E5%88%99.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;第4步产品匹配目标池&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第4步产品匹配目标池&#34;&gt;#&lt;/a&gt; 第 4 步：产品匹配目标池&lt;/h3&gt;
 &lt;p&gt;接下来，为了更好地实现以上目标，我们需要根据上一步制定的目标来寻找与目标池匹配的理财产品。&lt;/p&gt;
 &lt;p&gt;一般来说，期限越短，越刚性的目标，越适合投资低风险的固定收益类的产品，比如风险等级在 R2 以下的银行理财。比如，6 个月之后的孩子学费，你就可以分别选择 6 个月的低风险固定收益产品。再比如 1 年后要买房交首付，需要 30 万，那么可以一次拿出 30 万，选择一款 1 年期，预期收益率为 4% 的低风险银行理财产品。而对于期限较长、比较有弹性的目标，你就可以选择一些风险稍高，但收益率也更高的产品。&lt;/p&gt;
@@ -486,15 +486,15 @@
 &lt;p&gt;在日常工作生活中，我们可能会有一笔钱，一时半会不知道能做什么用。比如发了一笔年终奖，或者结婚彩礼，如果我们已经把前面 3 个池安排妥当，那么剩余的钱就可以流到我们的金鹅池当中，用于长期投资，获取更长远的财富增值。&lt;/p&gt;
 &lt;p&gt;对于金鹅池是如何投资，范围就非常广泛了：包括股票、基金、黄金等等。具体要买些什么，要结合你对理财知识的熟悉程度，以及风险承受能力等等综合评定。一般来说，由于这个池子的钱可以用作长期投资，我们就可以适当投资一些更高风险，但长期能够产生更高收益的产品，比如股票类基金。&lt;/p&gt;
 &lt;p&gt;但必须强调的是，&lt;strong&gt;不懂不投&lt;/strong&gt;是最基本的原则。&lt;/p&gt;
-&lt;img src=&#34;/images/money/金鹅下蛋.jpg&#34; style=&#34;zoom:40%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/金鹅下蛋.jpg&#34; style=&#34;zoom:40%;&#34; /&gt;
 </content>
         <category term="理财" />
         <updated>2023-01-22T17:34:38.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/money/price-earning-ratio.html</id>
+        <id>https://blog.luhuadong.com/money/price-earning-ratio.html</id>
         <title>【股票】市盈率估值法</title>
-        <link rel="alternate" href="https://luhuadong.com/money/price-earning-ratio.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/money/price-earning-ratio.html"/>
         <content type="html">&lt;h2 id=&#34;怎么看股价便宜还是贵&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#怎么看股价便宜还是贵&#34;&gt;#&lt;/a&gt; 怎么看股价便宜还是贵？&lt;/h2&gt;
 &lt;p&gt;怎么看股价是便宜还是贵？答案是 —— &lt;strong&gt;估值&lt;/strong&gt;。估值是指对企业或股权内在价值的评估。&lt;/p&gt;
 &lt;p&gt;很多新手刚开始学买股票的时候，看到不同价格的股票，往往会犯一个共同的错误：以为 2、3 元的低价股，比几百块的高价股便宜。例如工商银行一股股价是 5 元多，买 100 股才 500 多块，而茅台一股股价是 1000 多元，买 100 股要 10 万多，是不是工商银行的股票比茅台要便宜呢？&lt;/p&gt;
@@ -512,7 +512,7 @@
 &lt;p&gt;&lt;strong&gt;所以你可以把市盈率理解为「回本期限」，假设一家企业的盈利水平不变，一笔投资需要多少年能收回成本。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;由于市盈率计算起来特别方便，理解起来也不难，所以成为大家快速评估公司价值的流行方法。&lt;/p&gt;
 &lt;p&gt;一些行情软件和财经网站都会提供市盈率的信息，我们可以很方便地查到。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/money/%E5%B8%82%E7%9B%88%E7%8E%87%E7%A4%BA%E4%BE%8B.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/%E5%B8%82%E7%9B%88%E7%8E%87%E7%A4%BA%E4%BE%8B.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;（数据来源：雪球，统计时间：2020-03-16）&lt;/p&gt;
 &lt;h2 id=&#34;三种市盈率&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#三种市盈率&#34;&gt;#&lt;/a&gt; 三种市盈率&lt;/h2&gt;
 &lt;p&gt;在具体查找的时候，我们通常会看到 3 种不同的市盈率：&lt;strong&gt;静态市盈率&lt;/strong&gt;、&lt;strong&gt;滚动市盈率&lt;/strong&gt;（TTM）和&lt;strong&gt;动态市盈率&lt;/strong&gt;。&lt;/p&gt;
@@ -542,7 +542,7 @@
 &lt;p&gt;假如一家公司当前市盈率低于平均水平，股价相对低估；市盈率高于平均水平，则说明股价高估。&lt;/p&gt;
 &lt;p&gt;【实际案例】&lt;/p&gt;
 &lt;p&gt;还是以贵州茅台为例，它当前的市盈率是 32 倍左右，而它最近 5 年的平均市盈率是 27 倍左右，当前市盈率，略高于平均水平，股价略微高估。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/money/%E5%B8%82%E7%9B%88%E7%8E%87%E7%A4%BA%E4%BE%8B2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/%E5%B8%82%E7%9B%88%E7%8E%87%E7%A4%BA%E4%BE%8B2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;（数据来源：亿牛网，统计时间：2015-2020 年）&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2）横向比较&lt;/strong&gt;&lt;/p&gt;
 </content>
@@ -551,9 +551,9 @@
         <updated>2023-01-22T17:03:18.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/money/advice-for-upcoming-stock-trading.html</id>
+        <id>https://blog.luhuadong.com/money/advice-for-upcoming-stock-trading.html</id>
         <title>送给即将入市股民的忠告</title>
-        <link rel="alternate" href="https://luhuadong.com/money/advice-for-upcoming-stock-trading.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/money/advice-for-upcoming-stock-trading.html"/>
         <content type="html">&lt;p&gt;投资的本质是你对这个世界的认知变现，而阅读就是帮助我们提升认知的捷径。希望大家能够通过持续学习和阅读，实现更自由的人生！&lt;/p&gt;
 &lt;p&gt;一个合格股民的必备条件包括：&lt;/p&gt;
 &lt;ul&gt;
@@ -576,17 +576,17 @@
 &lt;li&gt;&lt;strong&gt;慢&lt;/strong&gt;：傲慢。是否曾经抓到一两个涨停板或者做顺了几个单子就傲慢？&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;淡定地看待涨跌，涨就等卖点，跌就等买点。心态和节奏不对的时候，请停止操作，休息一阵子，不操作就不会损失。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/money/stock-trading-mentality.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/stock-trading-mentality.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="股票" />
         <category term="理财" />
         <updated>2023-01-22T16:07:22.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/money/stock-market-basic-knowledge.html</id>
+        <id>https://blog.luhuadong.com/money/stock-market-basic-knowledge.html</id>
         <title>股票入门基础知识</title>
-        <link rel="alternate" href="https://luhuadong.com/money/stock-market-basic-knowledge.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/money/stock.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/money/stock-market-basic-knowledge.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/stock.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;股票是什么&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#股票是什么&#34;&gt;#&lt;/a&gt; 股票是什么&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;股票&lt;/strong&gt;（stock）又称为 &lt;strong&gt;资本存货&lt;/strong&gt;（capital stock），是股份有限公司在筹集资本时向出资人发行的股份凭证。&lt;/p&gt;
 &lt;p&gt;发行股票的原因是该股份公司需要筹集长期资金，以进行研发、生产、市场推广或扩大经营等生产活动。因此将股票发给投资者作为公司资本的部分&lt;strong&gt;所有权凭证&lt;/strong&gt;，拥有股票的人即为&lt;strong&gt;股东&lt;/strong&gt;，可以此获得&lt;strong&gt;股利&lt;/strong&gt;（股票股利）或 / 且&lt;strong&gt;股息&lt;/strong&gt;（现金股利），并分享公司成长或交易市场波动带来的利润；但也要共同承担公司运作错误所带来的风险。&lt;/p&gt;

@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>成为自由人 • Posts by &#34;好好住&#34; category</title>
-        <link>https://luhuadong.com</link>
+        <link>https://blog.luhuadong.com</link>
         <description>阿基米东的成长笔记</description>
         <language>zh-CN</language>
         <pubDate>Fri, 15 Oct 2021 14:07:39 +0800</pubDate>
@@ -13,15 +13,15 @@
         <category>商业</category>
         <category>创业</category>
         <category>摄影</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
@@ -38,8 +38,8 @@
         <category>自律</category>
         <category>思维模型</category>
         <category>健康</category>
-        <category>Hexo</category>
         <category>徒步</category>
+        <category>Hexo</category>
         <category>家居</category>
         <category>科普</category>
         <category>环保</category>
@@ -70,9 +70,9 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
+        <category>地铁</category>
         <category>股票</category>
         <category>理财</category>
         <category>保险</category>
@@ -105,20 +105,20 @@
         <category>零废弃</category>
         <category>低碳</category>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/household/user-manual-collection.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/household/user-manual-collection.html</guid>
             <title>家居说明书、用户手册合集</title>
-            <link>https://luhuadong.com/household/user-manual-collection.html</link>
+            <link>https://blog.luhuadong.com/household/user-manual-collection.html</link>
             <category>家居</category>
             <pubDate>Fri, 15 Oct 2021 14:07:39 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;家具&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#家具&#34;&gt;#&lt;/a&gt; 家具&lt;/h2&gt;
 &lt;h3 id=&#34;弹簧床垫&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#弹簧床垫&#34;&gt;#&lt;/a&gt; 弹簧床垫&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;/images/household/manual-mattress-20211015-small.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/household/manual-mattress-20211015-small.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次使用前&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;新床垫刚使用时感觉可能偏硬，建议给你的身体一个月的时间去逐渐适应新床垫，同时也让新床垫更贴合你的身体。为了获得舒适的体验，一款合适的枕头也不可或缺。请确保拥有一款适合你也适合你的床垫的枕头。包装成卷的床垫打开后可以直接使用，但通常需要 3、4 天更好地恢复原来的形状、长度和厚度。新材料刚打开包装时都可能会有特殊气味，这种气味将随着时间逐渐消散。将产品置于通风良好的环境，以及使用吸尘器也能更快地帮助消除此气味。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;保养和清洁&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;将床垫与床垫保护垫、床褥一起使用，更方便清洗，清洁卫生。建议使用吸尘器清洁床垫，更有效清除尘螨。使用床垫清洁剂，能有效清除污渍。请勿弯折床垫，否则可能会导致床垫内部结构损坏。经过长时间的使用，再好的床垫舒适性也会递减，尘螨也会逐渐累积，因此我们还是建议你每隔 8-10 年更换新的床垫。&lt;/p&gt;
 &lt;h3 id=&#34;画架&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#画架&#34;&gt;#&lt;/a&gt; 画架&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;/images/household/manual-easel-20211015-small.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/household/manual-easel-20211015-small.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;家电&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#家电&#34;&gt;#&lt;/a&gt; 家电&lt;/h2&gt;
 &lt;h3 id=&#34;嵌入式食具消毒柜&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#嵌入式食具消毒柜&#34;&gt;#&lt;/a&gt; 嵌入式食具消毒柜&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;主要参数：&lt;/strong&gt;&lt;/p&gt;
@@ -147,7 +147,7 @@
 &lt;li&gt;净重：23kg&lt;/li&gt;
 &lt;li&gt;外形尺寸：597mm x 450mm x 640mm&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;/images/household/Canbo-XDZ100-EX011S-size.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/household/Canbo-XDZ100-EX011S-size.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;注意事项：&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;定期使用，每周至少使用一次，可有效避免细菌滋生。&lt;/li&gt;
@@ -170,25 +170,25 @@
 &lt;/li&gt;
 &lt;li&gt;注意：选定功能进入工作 30 秒后，自动开启童锁功能，此时锁住「电源」键以外的所有按键，直至工作完成。如需解除童锁，则长按「电源」键两秒。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;/images/household/Canbo-XDZ100-EX011S-button.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/household/Canbo-XDZ100-EX011S-button.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;** 安装时间：** 首次安装于 2021 年 11 月 06 日&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/household/nail-free-wall-decoration-tools.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/household/nail-free-wall-decoration-tools.html</guid>
             <title>【推荐】家庭装修的免打孔、免钉墙神器（实用工具、安装方法）</title>
-            <link>https://luhuadong.com/household/nail-free-wall-decoration-tools.html</link>
+            <link>https://blog.luhuadong.com/household/nail-free-wall-decoration-tools.html</link>
             <category>家居</category>
             <pubDate>Thu, 14 Oct 2021 20:28:54 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;免钉胶&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#免钉胶&#34;&gt;#&lt;/a&gt; 免钉胶&lt;/h2&gt;
 &lt;p&gt;免钉胶是由树脂原料合成的，是不含甲醛、无异味的粘合剂。理论上可以和任何材料粘结，无气味，不伤皮肤，并且永远不会变黑、发霉。免钉胶在干固后具有超强的粘结能力。适合瓷砖、玻璃、金属、木材等墙面使用。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/household/%E5%85%8D%E9%92%89%E8%83%B6.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/household/%E5%85%8D%E9%92%89%E8%83%B6.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;背胶磁条&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#背胶磁条&#34;&gt;#&lt;/a&gt; 背胶磁条&lt;/h2&gt;
 &lt;p&gt;背胶磁条就是背面有粘胶的软磁条。软磁条是很柔软的，可以用美工刀或剪刀进行裁剪，在 DIY 用品制作中是非常方便实用的配件。例如 DIY 冰箱贴、货架标识牌等等需要灵活粘贴的物件。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/household/%E8%83%8C%E8%83%B6%E7%A3%81%E6%9D%A1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/household/%E8%83%8C%E8%83%B6%E7%A3%81%E6%9D%A1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;魔术胶带&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#魔术胶带&#34;&gt;#&lt;/a&gt; 魔术胶带&lt;/h2&gt;
 &lt;p&gt;魔术胶带本体为亚克力胶凝聚而成，通过 ROHS 环保测试，可安心使用。具备即撕即用、撕除无痕、持久强粘、透明美观、水洗重复使用等特色。可用在不掉灰墙面，瓷砖、镜面、木头、金属、塑料等光洁的表面。例如将插线板、温度计等小物件贴在墙上，避免使用钉子破坏墙体。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/household/%E9%AD%94%E6%9C%AF%E8%83%B6%E5%B8%A6.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/household/%E9%AD%94%E6%9C%AF%E8%83%B6%E5%B8%A6.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;黏土胶&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#黏土胶&#34;&gt;#&lt;/a&gt; 黏土胶&lt;/h2&gt;
 &lt;p&gt;黏土胶有时也称为无痕胶，可用于将较轻的物品固定住，例如将相框贴在墙面上。它的特点是不易留痕、不损墙面。适合瓷砖、玻璃、金属、木材、白灰墙、壁纸等墙面。&lt;/p&gt;
 &lt;p&gt;由于其成分主要为黏土，因此使用是需要注意方法：&lt;/p&gt;
@@ -198,13 +198,13 @@
 &lt;li&gt;粘在物品的背面或底部；&lt;/li&gt;
 &lt;li&gt;缓慢用力将物品压靠黏土及粘贴面，粘牢即可。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;/images/household/%E9%BB%8F%E5%9C%9F%E8%83%B6.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/household/%E9%BB%8F%E5%9C%9F%E8%83%B6.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;3m无痕贴&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3m无痕贴&#34;&gt;#&lt;/a&gt; 3M 无痕贴&lt;/h2&gt;
 &lt;p&gt;3M 无痕贴即 3M 泡棉双面胶，适用于多种墙面（瓷砖、乳胶漆、金属墙面等），可粘贴各类挂钩、厨具置物架、无框画、相框、门牌等等。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;3M 胶是美国 3M 公司（工程师 Richard Drew）发明的胶粘剂，广泛应用于电脑、手机、通讯、家用电器、视听设备、汽车等产品中。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;/images/household/3M%E6%97%A0%E7%97%95%E8%B4%B4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/household/3M%E6%97%A0%E7%97%95%E8%B4%B4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;使用方法：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;彻底清洁被粘部位表面，去除油污、水渍以及灰尘等；&lt;/li&gt;
@@ -220,13 +220,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/household/electric-drill.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/household/electric-drill.html</guid>
             <title>【科普】电钻及钻头种类</title>
-            <link>https://luhuadong.com/household/electric-drill.html</link>
+            <link>https://blog.luhuadong.com/household/electric-drill.html</link>
             <category>家居</category>
             <category>科普</category>
             <pubDate>Thu, 14 Oct 2021 20:27:10 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/household/electric-drill-cover.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/household/electric-drill-cover.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;电钻（Electric drill）就是利用电作为动力的钻孔机具，常用于建筑装修、机械加工、木工、家电维修等领域，是需求量最大的电动工具之一。&lt;/p&gt;
 &lt;h2 id=&#34;电钻分类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#电钻分类&#34;&gt;#&lt;/a&gt; 电钻分类&lt;/h2&gt;
 &lt;p&gt;根据用途不同，可以将电钻分为三类：手电钻、冲击钻、锤钻。&lt;/p&gt;
@@ -385,41 +385,41 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/household/the-starry-night-wallpapers.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/household/the-starry-night-wallpapers.html</guid>
             <title>The Starry Night《星夜》墙纸/窗帘</title>
-            <link>https://luhuadong.com/household/the-starry-night-wallpapers.html</link>
+            <link>https://blog.luhuadong.com/household/the-starry-night-wallpapers.html</link>
             <category>家居</category>
             <pubDate>Thu, 30 Sep 2021 23:30:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;这几天没上班，结果正经事没做多少，几乎天天在弄家里装修 / 装饰的事。看起来很小的事，其实弄下来也蛮累的，尤其是没有人一起讨论，大事小事都要自己一个人做决定，购置家电、定制家具等等，还有我的小实验室的设计。由于是阳光房，其中两面都是玻璃窗，所以并不太好弄。&lt;/p&gt;
 &lt;p&gt;首先就是遮光性的考虑，为了有一定的人文气息和科技风格，我决定一面窗户采用《星夜》卷帘的设计，另一面窗户采用纯色百叶窗设计。大致 P 了张示意图 &lt;span class=&#34;github-emoji&#34; alias=&#34;joy&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f602.png?v8&#34;&gt;😂&lt;/span&gt;&lt;/p&gt;
-&lt;img src=&#34;/images/household/my-house-lab-20210930.jpeg&#34; width=&#34;600&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/household/my-house-lab-20210930.jpeg&#34; width=&#34;600&#34; /&gt;
 &lt;p&gt;于是在 &lt;a href=&#34;http://wallpaperswide.com/the_starry_night-wallpapers.html&#34;&gt;http://wallpaperswide.com/the_starry_night-wallpapers.html&lt;/a&gt; 下载了一张 2560x1600 的《星夜》，去掉了右下角的水印，微调了色调，就得到了下面这张图。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/painting/the_starry_night-wallpaper-2560x1600_mh1633019796303.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/painting/the_starry_night-wallpaper-2560x1600_mh1633019796303.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;真是十分期待最终成品的效果！&lt;/p&gt;
 &lt;p&gt;成果展示 &amp;gt;&amp;gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/household/my-house-lab-20211014.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/household/my-house-lab-20211014.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;嗯哈，还行吧？&lt;/p&gt;
 &lt;hr /&gt;
 &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=971699996&amp;bvid=BV1Sp4y1p7Ga&amp;cid=298002906&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/household/%E5%AE%A4%E5%86%85%E8%AE%BE%E8%AE%A1%E5%8F%82%E8%80%83.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/household/%E5%AE%A4%E5%86%85%E8%AE%BE%E8%AE%A1%E5%8F%82%E8%80%83.html</guid>
             <title>室内设计参考</title>
-            <link>https://luhuadong.com/household/%E5%AE%A4%E5%86%85%E8%AE%BE%E8%AE%A1%E5%8F%82%E8%80%83.html</link>
+            <link>https://blog.luhuadong.com/household/%E5%AE%A4%E5%86%85%E8%AE%BE%E8%AE%A1%E5%8F%82%E8%80%83.html</link>
             <category>家居</category>
             <pubDate>Wed, 29 Sep 2021 17:50:30 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;飘窗书台&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#飘窗书台&#34;&gt;#&lt;/a&gt; 飘窗书台&lt;/h2&gt;
-&lt;img src=&#34;/images/household/design-001.jpg&#34; width=500 /&gt;
-&lt;img src=&#34;/images/household/design-002.jpg&#34; width=500 /&gt;
-&lt;img src=&#34;/images/household/design-003.jpg&#34; width=500 /&gt;
-&lt;img src=&#34;/images/household/design-004.jpg&#34; width=500 /&gt;
-&lt;img src=&#34;/images/household/design-005.jpg&#34; width=500 /&gt; ]]></description>
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/household/design-001.jpg&#34; width=500 /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/household/design-002.jpg&#34; width=500 /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/household/design-003.jpg&#34; width=500 /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/household/design-004.jpg&#34; width=500 /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/household/design-005.jpg&#34; width=500 /&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/household/%E5%AE%B6%E7%94%B5%E8%83%BD%E6%95%88%E7%AD%89%E7%BA%A7.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/household/%E5%AE%B6%E7%94%B5%E8%83%BD%E6%95%88%E7%AD%89%E7%BA%A7.html</guid>
             <title>【科普】家电能效等级</title>
-            <link>https://luhuadong.com/household/%E5%AE%B6%E7%94%B5%E8%83%BD%E6%95%88%E7%AD%89%E7%BA%A7.html</link>
+            <link>https://blog.luhuadong.com/household/%E5%AE%B6%E7%94%B5%E8%83%BD%E6%95%88%E7%AD%89%E7%BA%A7.html</link>
             <category>家居</category>
             <category>能源</category>
             <pubDate>Tue, 28 Sep 2021 00:47:37 +0800</pubDate>
@@ -434,7 +434,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;能效标识&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#能效标识&#34;&gt;#&lt;/a&gt; 能效标识&lt;/h2&gt;
 &lt;p&gt;常见的家电（例如空调、冰箱、洗衣机）的能效等级是用 “中国能效标识”（China Energy Label）来标示的。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/household/china-energy-label-5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/household/china-energy-label-5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;不同家电的能效比是不一样的。以空调为例，空调的能效比实际上就是 “制冷（热）量与输出功率” 的比值，数值越大意味着同等制冷气量，消耗的功率越小即越省电。通俗地说，空调能效就是消耗同样多的电所产生的冷气 / 暖气有多少，能效越高的空调越省电。所以，在选购空调时，除了关注功率和匹数，空调能效也是衡量空调性能优劣的重要参数。&lt;/p&gt;
 &lt;p&gt;空调能效等级和能效比的关系如下：&lt;/p&gt;
 &lt;ul&gt;
@@ -451,9 +451,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/household/%E7%A9%BA%E8%B0%83%E5%8C%B9%E6%95%B0%E4%B8%8E%E9%9D%A2%E7%A7%AF.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/household/%E7%A9%BA%E8%B0%83%E5%8C%B9%E6%95%B0%E4%B8%8E%E9%9D%A2%E7%A7%AF.html</guid>
             <title>空调匹数与面积</title>
-            <link>https://luhuadong.com/household/%E7%A9%BA%E8%B0%83%E5%8C%B9%E6%95%B0%E4%B8%8E%E9%9D%A2%E7%A7%AF.html</link>
+            <link>https://blog.luhuadong.com/household/%E7%A9%BA%E8%B0%83%E5%8C%B9%E6%95%B0%E4%B8%8E%E9%9D%A2%E7%A7%AF.html</link>
             <category>家居</category>
             <pubDate>Mon, 27 Sep 2021 02:16:10 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;空调匹数是什么意思&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#空调匹数是什么意思&#34;&gt;#&lt;/a&gt; 空调匹数是什么意思&lt;/h2&gt;
@@ -593,9 +593,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/household/%E5%AE%9C%E5%AE%B6%E6%AD%A3%E5%9C%A8%E5%85%A8%E5%8A%9B%E6%89%93%E9%80%A0%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%8F%AF%E6%8C%81%E7%BB%AD%E7%9A%84%E6%9C%AA%E6%9D%A5.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/household/%E5%AE%9C%E5%AE%B6%E6%AD%A3%E5%9C%A8%E5%85%A8%E5%8A%9B%E6%89%93%E9%80%A0%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%8F%AF%E6%8C%81%E7%BB%AD%E7%9A%84%E6%9C%AA%E6%9D%A5.html</guid>
             <title>宜家正在全力打造一个更可持续的未来</title>
-            <link>https://luhuadong.com/household/%E5%AE%9C%E5%AE%B6%E6%AD%A3%E5%9C%A8%E5%85%A8%E5%8A%9B%E6%89%93%E9%80%A0%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%8F%AF%E6%8C%81%E7%BB%AD%E7%9A%84%E6%9C%AA%E6%9D%A5.html</link>
+            <link>https://blog.luhuadong.com/household/%E5%AE%9C%E5%AE%B6%E6%AD%A3%E5%9C%A8%E5%85%A8%E5%8A%9B%E6%89%93%E9%80%A0%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%8F%AF%E6%8C%81%E7%BB%AD%E7%9A%84%E6%9C%AA%E6%9D%A5.html</link>
             <category>家居</category>
             <category>环保</category>
             <category>可持续</category>
@@ -606,7 +606,7 @@
 &lt;p&gt;我们 “为大众创造更加美好的日常生活” 的愿景也意味着为受我们业务直接影响的人们和社区创造更加美好的生活。从我们的员工、供应商到世界上最穷困社区里的孩子和家庭 —— 我们所做的一切都致力于促进平等、多样性和对人权的尊重。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;不愧是我喜欢的家居品牌！&lt;span class=&#34;github-emoji&#34; alias=&#34;heart&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8&#34;&gt;❤&lt;/span&gt;&lt;/p&gt;
-&lt;img src=&#34;/images/household/ikea-20210108-01.jpeg&#34; width=300 /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/household/ikea-20210108-01.jpeg&#34; width=300 /&gt;
 &lt;p&gt;所以，本文将收集宜家的一些环保家具和设计理念，供大家学习～&lt;/p&gt;
 &lt;h2 id=&#34;jokkmokk-约克马克桌椅&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#jokkmokk-约克马克桌椅&#34;&gt;#&lt;/a&gt; JOKKMOKK 约克马克（桌椅）&lt;/h2&gt;
 &lt;p&gt;一桌四椅由松木制成，表面使用水性漆处理。通过与世界自然基金会等国际机构的合作，我们正确保更多的木材来自可持续经营的森林，做到物美价廉的产品也能健康和环保。&lt;/p&gt;
@@ -626,7 +626,7 @@
 &lt;p&gt;该产品所采用的棉花减少了种植过程的用水、化学肥料和化学农药，同时增加了农民的收入。这样，我们可以减少对环境的影响。&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;宜家致力于为整个地球带来积极影响。因此，我们希望在 2030 年前实现所有产品的材料均为可回收或可再生材料，并以负责任的方式采购。&lt;/p&gt;
-&lt;img src=&#34;/images/household/ikea-20210108-02.jpeg&#34; width=600 /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/household/ikea-20210108-02.jpeg&#34; width=600 /&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;益于人类，益于地球&lt;/strong&gt;&lt;br /&gt;
 &lt;strong&gt; People + Planet&lt;/strong&gt;&lt;/p&gt;
@@ -634,9 +634,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/household/%E6%9C%AA%E6%9D%A5%E5%9F%8E%E5%85%A5%E4%BD%8F%E6%8C%87%E5%8D%97.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/household/%E6%9C%AA%E6%9D%A5%E5%9F%8E%E5%85%A5%E4%BD%8F%E6%8C%87%E5%8D%97.html</guid>
             <title>未来城入住指南 | 清远碧桂园</title>
-            <link>https://luhuadong.com/household/%E6%9C%AA%E6%9D%A5%E5%9F%8E%E5%85%A5%E4%BD%8F%E6%8C%87%E5%8D%97.html</link>
+            <link>https://blog.luhuadong.com/household/%E6%9C%AA%E6%9D%A5%E5%9F%8E%E5%85%A5%E4%BD%8F%E6%8C%87%E5%8D%97.html</link>
             <category>家居</category>
             <pubDate>Sun, 29 Nov 2020 10:07:38 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;不小心在清远碧桂园未来城买了个小房子，后来发现在这边生活不是很便利（起码目前是这样）。所以就建了一个《未来城入住指南》，主要收集关于在未来城周边衣食住行的信息，反正我自己要了解，就顺便整理一下方便大家啦！&lt;/p&gt;

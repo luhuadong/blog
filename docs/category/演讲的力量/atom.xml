@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://luhuadong.com</id>
+    <id>https://blog.luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;演讲的力量&#34; category</title>
-    <link href="https://luhuadong.com" />
+    <link href="https://blog.luhuadong.com" />
     <updated>2023-03-02T04:56:58.000Z</updated>
     <category term="名言" />
     <category term="奋斗" />
@@ -10,15 +10,15 @@
     <category term="商业" />
     <category term="创业" />
     <category term="摄影" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
@@ -35,8 +35,8 @@
     <category term="自律" />
     <category term="思维模型" />
     <category term="健康" />
-    <category term="Hexo" />
     <category term="徒步" />
+    <category term="Hexo" />
     <category term="家居" />
     <category term="科普" />
     <category term="环保" />
@@ -67,9 +67,9 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
+    <category term="地铁" />
     <category term="股票" />
     <category term="理财" />
     <category term="保险" />
@@ -102,9 +102,9 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/speech/grit-the-power-of-passion-and-perseverance.html</id>
+        <id>https://blog.luhuadong.com/speech/grit-the-power-of-passion-and-perseverance.html</id>
         <title>【TED】坚韧不拔：激情和毅力的力量</title>
-        <link rel="alternate" href="https://luhuadong.com/speech/grit-the-power-of-passion-and-perseverance.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/speech/grit-the-power-of-passion-and-perseverance.html"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;演讲题目：Grit: The power of passion and perseverance&lt;/li&gt;
 &lt;li&gt;演讲者：Angela Lee Duckworth&lt;/li&gt;
@@ -123,9 +123,9 @@
         <updated>2023-03-02T04:56:58.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/speech/steve-jobs-2005-stanford-commencement-speech.html</id>
+        <id>https://blog.luhuadong.com/speech/steve-jobs-2005-stanford-commencement-speech.html</id>
         <title>乔布斯：斯坦福大学 2005 毕业演讲</title>
-        <link rel="alternate" href="https://luhuadong.com/speech/steve-jobs-2005-stanford-commencement-speech.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/speech/steve-jobs-2005-stanford-commencement-speech.html"/>
         <content type="html">&lt;h2 id=&#34;演讲视频&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#演讲视频&#34;&gt;#&lt;/a&gt; 演讲视频&lt;/h2&gt;
 &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=17203668&amp;bvid=BV1oW411h7Ea&amp;cid=28116082&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;演讲全文&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#演讲全文&#34;&gt;#&lt;/a&gt; 演讲全文&lt;/h2&gt;
@@ -205,9 +205,9 @@
         <updated>2022-10-07T03:44:57.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/speech/ted-you-dont-need-more-than-two-years.html</id>
+        <id>https://blog.luhuadong.com/speech/ted-you-dont-need-more-than-two-years.html</id>
         <title>【TED】改变自己，只需要两年时间</title>
-        <link rel="alternate" href="https://luhuadong.com/speech/ted-you-dont-need-more-than-two-years.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/speech/ted-you-dont-need-more-than-two-years.html"/>
         <content type="html">&lt;h2 id=&#34;视频-you-dont-need-more-than-two-years&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#视频-you-dont-need-more-than-two-years&#34;&gt;#&lt;/a&gt; 视频 You don&#39;t Need More Than Two Years&lt;/h2&gt;
 &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=883417381&amp;bvid=BV1TK4y1b77M&amp;cid=199198207&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;hr /&gt;
@@ -287,9 +287,9 @@
         <updated>2021-09-07T14:47:18.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/speech/ted-why-30-is-not-the-new-20.html</id>
+        <id>https://blog.luhuadong.com/speech/ted-why-30-is-not-the-new-20.html</id>
         <title>【TED】20岁到30岁，是你最不可挥霍的光阴</title>
-        <link rel="alternate" href="https://luhuadong.com/speech/ted-why-30-is-not-the-new-20.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/speech/ted-why-30-is-not-the-new-20.html"/>
         <content type="html">&lt;h2 id=&#34;视频&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#视频&#34;&gt;#&lt;/a&gt; 视频&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Why 30 is not the new 20&lt;/strong&gt;&lt;/p&gt;
 &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=54802233&amp;bvid=BV1B4411K7Rb&amp;cid=95852081&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;

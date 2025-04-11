@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>成为自由人 • Posts by &#34;一起学摄影&#34; category</title>
-        <link>https://luhuadong.com</link>
+        <link>https://blog.luhuadong.com</link>
         <description>阿基米东的成长笔记</description>
         <language>zh-CN</language>
         <pubDate>Fri, 13 Sep 2024 14:51:47 +0800</pubDate>
@@ -13,15 +13,15 @@
         <category>商业</category>
         <category>创业</category>
         <category>摄影</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
@@ -38,8 +38,8 @@
         <category>自律</category>
         <category>思维模型</category>
         <category>健康</category>
-        <category>Hexo</category>
         <category>徒步</category>
+        <category>Hexo</category>
         <category>家居</category>
         <category>科普</category>
         <category>环保</category>
@@ -70,9 +70,9 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
+        <category>地铁</category>
         <category>股票</category>
         <category>理财</category>
         <category>保险</category>
@@ -105,12 +105,12 @@
         <category>零废弃</category>
         <category>低碳</category>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/camera/photography-glossary.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/camera/photography-glossary.html</guid>
             <title>摄影术语入门（摄影名词解释）</title>
-            <link>https://luhuadong.com/camera/photography-glossary.html</link>
+            <link>https://blog.luhuadong.com/camera/photography-glossary.html</link>
             <category>摄影</category>
             <pubDate>Fri, 13 Sep 2024 14:51:47 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;../../images/camera/photography-banner-01.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/camera/photography-banner-01.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;拍摄模式camera-modes&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#拍摄模式camera-modes&#34;&gt;#&lt;/a&gt; 拍摄模式（Camera Modes）&lt;/h2&gt;
 &lt;p&gt;相机通常预设多种拍摄模式用于控制光圈、快门和 ISO 感光度，例如全自动、光圈优先、快门优先、程序模式和手动模式等。建议新手学习并掌握光圈优先、快门优先和手动模式，它们可以覆盖大部分的拍摄场景。&lt;/p&gt;
 &lt;ul&gt;
@@ -224,12 +224,12 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/camera/sony-zv-1-m2-manual.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/camera/sony-zv-1-m2-manual.html</guid>
             <title>索尼 Sony ZV-1 M2 相机使用指南</title>
-            <link>https://luhuadong.com/camera/sony-zv-1-m2-manual.html</link>
+            <link>https://blog.luhuadong.com/camera/sony-zv-1-m2-manual.html</link>
             <category>摄影</category>
             <pubDate>Thu, 12 Sep 2024 22:06:18 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;../../images/camera/sony-zv-1-m2-banner.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/camera/sony-zv-1-m2-banner.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;照相模式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#照相模式&#34;&gt;#&lt;/a&gt; 照相模式&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;智能自动（ &lt;code&gt;i&lt;/code&gt; ）&lt;/strong&gt;：自动识别场景的特点并拍摄静态影像。&lt;/li&gt;

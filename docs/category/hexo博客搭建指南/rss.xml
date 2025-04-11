@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>成为自由人 • Posts by &#34;hexo博客搭建指南&#34; category</title>
-        <link>https://luhuadong.com</link>
+        <link>https://blog.luhuadong.com</link>
         <description>阿基米东的成长笔记</description>
         <language>zh-CN</language>
         <pubDate>Tue, 01 Nov 2022 17:11:04 +0800</pubDate>
@@ -13,15 +13,15 @@
         <category>商业</category>
         <category>创业</category>
         <category>摄影</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
@@ -38,8 +38,8 @@
         <category>自律</category>
         <category>思维模型</category>
         <category>健康</category>
-        <category>Hexo</category>
         <category>徒步</category>
+        <category>Hexo</category>
         <category>家居</category>
         <category>科普</category>
         <category>环保</category>
@@ -70,9 +70,9 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
+        <category>地铁</category>
         <category>股票</category>
         <category>理财</category>
         <category>保险</category>
@@ -105,9 +105,9 @@
         <category>零废弃</category>
         <category>低碳</category>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/hexo/hexo-comments-giscus.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/hexo/hexo-comments-giscus.html</guid>
             <title>Hexo 评论系统（Giscus）</title>
-            <link>https://luhuadong.com/hexo/hexo-comments-giscus.html</link>
+            <link>https://blog.luhuadong.com/hexo/hexo-comments-giscus.html</link>
             <category>Hexo</category>
             <pubDate>Tue, 01 Nov 2022 17:11:04 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;giscus 是一个由 GitHub Discussions 驱动的评论系统（A comments system powered by GitHub Discussions）。让访客借助 GitHub 在你的网站上留下评论和反应吧！&lt;/p&gt;
@@ -121,24 +121,24 @@
 &lt;li&gt;你的 GitHub 已安装 &lt;a href=&#34;https://github.com/apps/giscus&#34;&gt;giscus&lt;/a&gt; app，否则访客将无法评论和回应。&lt;/li&gt;
 &lt;li&gt;在你的仓库中启用 Discussions 功能（参考 &lt;a href=&#34;https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/enabling-or-disabling-github-discussions-for-a-repository&#34;&gt;这里&lt;/a&gt;）。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;/images/hexo/giscus-install.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/hexo/giscus-install.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;hexo-配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo-配置&#34;&gt;#&lt;/a&gt; Hexo 配置&lt;/h2&gt;
 &lt;p&gt;在你的 Hexo 博客目录中执行以下命令，安装 hexo-next-giscus 插件。&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;命令行&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;npm&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; hexo-next-giscus &lt;span class=&#34;token parameter variable&#34;&gt;--save&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;然后在 Hexo 或者 theme 的 _config.yml 配置文件添加如下内容：&lt;/p&gt;
 &lt;figure class=&#34;highlight yaml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;span&gt;配置&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;giscus&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;enable&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;true&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;repo&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;# Github repository name&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;repo_id&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;# Github repository id&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;category&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;# Github discussion category&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;category_id&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;# Github discussion category id&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token comment&#34;&gt;# Available values: pathname | url | title | og:title&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;mapping&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; pathname&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token comment&#34;&gt;# Available values: 0 | 1 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;reactions_enabled&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   &lt;span class=&#34;token comment&#34;&gt;# Available values: 0 | 1 &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;emit_metadata&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token comment&#34;&gt;# Available values: light | dark | dark_high_contrast | transparent_dark | preferred-color-scheme&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;theme&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; light&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token comment&#34;&gt;# Available values: en | zh-C&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;lang&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; en&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token comment&#34;&gt;# Available value: anonymous&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;crossorigin&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; anonymous&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;giscus-配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#giscus-配置&#34;&gt;#&lt;/a&gt; giscus 配置&lt;/h2&gt;
 &lt;p&gt;在 &lt;a href=&#34;https://giscus.app/zh-CN&#34;&gt;https://giscus.app&lt;/a&gt; 页面根据你的个人喜好勾选 giscus 配置项，进行配置，会生成一个配置脚本。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/hexo/giscus-settings.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/hexo/giscus-settings.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;参考该脚本内容修改 _config.yml 文件的 giscus 配置项。&lt;/p&gt;
 &lt;h2 id=&#34;部署&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#部署&#34;&gt;#&lt;/a&gt; 部署&lt;/h2&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;命令行&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo clean&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo generate&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo server&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;浏览器打开 &lt;a href=&#34;http://localhost:4000&#34;&gt;http://localhost:4000&lt;/a&gt;，在文章末尾可以看到 giscus 评论区：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/hexo/giscus-ok.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/hexo/giscus-ok.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;现在，你可以开始评论啦！&lt;span class=&#34;github-emoji&#34; alias=&#34;smile&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8&#34;&gt;😄&lt;/span&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/hexo/hexo-google-adsense.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/hexo/hexo-google-adsense.html</guid>
             <title>Hexo 接入谷歌广告</title>
-            <link>https://luhuadong.com/hexo/hexo-google-adsense.html</link>
+            <link>https://blog.luhuadong.com/hexo/hexo-google-adsense.html</link>
             <category>Hexo</category>
             <pubDate>Wed, 10 Mar 2021 08:20:30 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;前提条件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前提条件&#34;&gt;#&lt;/a&gt; 前提条件&lt;/h2&gt;
@@ -170,17 +170,17 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/hexo/hexo-seo.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/hexo/hexo-seo.html</guid>
             <title>Hexo SEO 优化</title>
-            <link>https://luhuadong.com/hexo/hexo-seo.html</link>
+            <link>https://blog.luhuadong.com/hexo/hexo-seo.html</link>
             <category>Hexo</category>
             <pubDate>Wed, 10 Mar 2021 08:09:30 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;生成网站地图sitemap&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生成网站地图sitemap&#34;&gt;#&lt;/a&gt; 生成网站地图（sitemap）&lt;/h2&gt;
 &lt;h3 id=&#34;安装插件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装插件&#34;&gt;#&lt;/a&gt; 安装插件&lt;/h3&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;命令行&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;npm&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; hexo-generator-sitemap &lt;span class=&#34;token parameter variable&#34;&gt;--save&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;npm&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; hexo-generator-baidu-sitemap &lt;span class=&#34;token parameter variable&#34;&gt;--save&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;百度：&lt;a href=&#34;https://ziyuan.baidu.com/linksubmit/index&#34;&gt;https://ziyuan.baidu.com/linksubmit/index&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;谷歌：&lt;a href=&#34;https://www.google.com/webmasters/&#34;&gt;https://www.google.com/webmasters/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/hexo/google-search-set-dns.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/hexo/google-search-set-dns-02.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/hexo/google-search-set-dns.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/hexo/google-search-set-dns-02.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;参考&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#参考&#34;&gt;#&lt;/a&gt; 参考&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://hoxis.github.io/Hexo+Next%20SEO%E4%BC%98%E5%8C%96.html&#34;&gt;Hexo 博客 Next 主题 SEO 优化方法&lt;/a&gt;&lt;/li&gt;
@@ -188,9 +188,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/hexo/hexo-version-update.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/hexo/hexo-version-update.html</guid>
             <title>Hexo 版本更新</title>
-            <link>https://luhuadong.com/hexo/hexo-version-update.html</link>
+            <link>https://blog.luhuadong.com/hexo/hexo-version-update.html</link>
             <category>Hexo</category>
             <pubDate>Wed, 10 Mar 2021 07:55:30 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;更新-hexo&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#更新-hexo&#34;&gt;#&lt;/a&gt; 更新 Hexo&lt;/h2&gt;
@@ -198,9 +198,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/hexo/hexo-support-reward.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/hexo/hexo-support-reward.html</guid>
             <title>Hexo 添加赞赏</title>
-            <link>https://luhuadong.com/hexo/hexo-support-reward.html</link>
+            <link>https://blog.luhuadong.com/hexo/hexo-support-reward.html</link>
             <category>Hexo</category>
             <pubDate>Wed, 10 Mar 2021 07:49:30 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;下面以 NexT 主题为例，为 Hexo 博客添加赞赏功能。&lt;/p&gt;
@@ -215,7 +215,7 @@
 &lt;p&gt;重新编译发布 Hexo 博客，刷新网页，可以看到文章末尾增加了 “赞赏” 按钮，点击按钮将出现收款二维码。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;/images/hexo/hexo-next-reward.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/hexo/hexo-next-reward.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;参考&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#参考&#34;&gt;#&lt;/a&gt; 参考&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://blog.csdn.net/wugenqiang/article/details/89046078&#34;&gt;Hexo 的 NexT 主题打赏功能&lt;/a&gt;&lt;/li&gt;
@@ -223,9 +223,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/hexo/hexo-support-album.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/hexo/hexo-support-album.html</guid>
             <title>Hexo 相册功能</title>
-            <link>https://luhuadong.com/hexo/hexo-support-album.html</link>
+            <link>https://blog.luhuadong.com/hexo/hexo-support-album.html</link>
             <category>Hexo</category>
             <pubDate>Wed, 10 Mar 2021 07:33:30 +0800</pubDate>
             <description><![CDATA[ &lt;ul&gt;
@@ -242,9 +242,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/hexo/hexo-fancybox.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/hexo/hexo-fancybox.html</guid>
             <title>Hexo 图片预览</title>
-            <link>https://luhuadong.com/hexo/hexo-fancybox.html</link>
+            <link>https://blog.luhuadong.com/hexo/hexo-fancybox.html</link>
             <category>Hexo</category>
             <pubDate>Wed, 10 Mar 2021 07:29:30 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;如果 Hexo 博客系统中有较多图片，那么通常需要实现图片点击预览，以便读者放大浏览图片。在 Hexo 中，我们可以使用 fancybox 插件来添加图片点击预览功能。&lt;/p&gt;
@@ -262,9 +262,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/hexo/hexo-support-emoji.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/hexo/hexo-support-emoji.html</guid>
             <title>Hexo 支持表情</title>
-            <link>https://luhuadong.com/hexo/hexo-support-emoji.html</link>
+            <link>https://blog.luhuadong.com/hexo/hexo-support-emoji.html</link>
             <category>Hexo</category>
             <pubDate>Wed, 10 Mar 2021 07:25:20 +0800</pubDate>
             <description><![CDATA[ &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;命令行&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;npm&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; hexo-filter-emoji&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;在 _config.yml 中添加：&lt;/p&gt;
@@ -277,9 +277,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/hexo/hexo-math-formulas.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/hexo/hexo-math-formulas.html</guid>
             <title>Hexo 数学公式</title>
-            <link>https://luhuadong.com/hexo/hexo-math-formulas.html</link>
+            <link>https://blog.luhuadong.com/hexo/hexo-math-formulas.html</link>
             <category>Hexo</category>
             <pubDate>Wed, 10 Mar 2021 07:18:20 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;添加-mathjax&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#添加-mathjax&#34;&gt;#&lt;/a&gt; 添加 MathJax&lt;/h2&gt;
@@ -292,9 +292,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/hexo/hexo-video.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/hexo/hexo-video.html</guid>
             <title>Hexo 嵌入视频</title>
-            <link>https://luhuadong.com/hexo/hexo-video.html</link>
+            <link>https://blog.luhuadong.com/hexo/hexo-video.html</link>
             <category>Hexo</category>
             <pubDate>Wed, 10 Mar 2021 07:15:20 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;嵌入b站视频&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#嵌入b站视频&#34;&gt;#&lt;/a&gt; 嵌入 B 站视频&lt;/h2&gt;
@@ -431,9 +431,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/hexo/hexo-music.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/hexo/hexo-music.html</guid>
             <title>Hexo 添加音乐</title>
-            <link>https://luhuadong.com/hexo/hexo-music.html</link>
+            <link>https://blog.luhuadong.com/hexo/hexo-music.html</link>
             <category>Hexo</category>
             <pubDate>Wed, 10 Mar 2021 07:12:20 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Markdown 没有提供音频的语法支持，不过我们可以在页面中直接添加 html 代码实现音乐的添加。例如：&lt;/p&gt;
@@ -459,9 +459,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/hexo/hexo-search.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/hexo/hexo-search.html</guid>
             <title>Hexo 添加搜索</title>
-            <link>https://luhuadong.com/hexo/hexo-search.html</link>
+            <link>https://blog.luhuadong.com/hexo/hexo-search.html</link>
             <category>Hexo</category>
             <pubDate>Wed, 10 Mar 2021 07:10:20 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;在使用 Hexo 博客时，如果文章较多，就会发现分类和标签已经很难快速找到所需要的文章内容了。这时候就需要为 Hexo 博客系统添加本站的搜索功能。&lt;/p&gt;
@@ -496,7 +496,7 @@
 &lt;figure class=&#34;highlight yaml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;local_search&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token key atrule&#34;&gt;enable&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;true&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h3 id=&#34;问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#问题&#34;&gt;#&lt;/a&gt; 问题&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;上传 GitHub Pages 后无法使用搜索功能？&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;表现：Local Search 一直在转圈圈&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/hexo/hexo-local-search-not-ok.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/hexo/hexo-local-search-not-ok.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;这种情况有可能是 XML 解析不正确，比如字符有问题。一种简单的解决方法是使用 json 替代 xml 格式。修改  &lt;code&gt;_config.yaml&lt;/code&gt;  文件 search 部分，重新编译即可。&lt;/p&gt;
 &lt;figure class=&#34;highlight yaml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# hexo-generator-searchdb&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;search&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;path&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; search.json&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;field&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; post&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;format&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; html&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;limit&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;10000&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;content&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;true&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;基于-algolia-搜索&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基于-algolia-搜索&#34;&gt;#&lt;/a&gt; 基于 Algolia 搜索&lt;/h2&gt;
 &lt;h3 id=&#34;安装插件-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装插件-2&#34;&gt;#&lt;/a&gt; 安装插件&lt;/h3&gt;
@@ -545,9 +545,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/hexo/hexo-comments.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/hexo/hexo-comments.html</guid>
             <title>Hexo 评论系统</title>
-            <link>https://luhuadong.com/hexo/hexo-comments.html</link>
+            <link>https://blog.luhuadong.com/hexo/hexo-comments.html</link>
             <category>Hexo</category>
             <pubDate>Tue, 09 Mar 2021 17:10:20 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;由于 Hexo 博客系统是静态博客，所以它本身无法支持评论等动态的功能。不过，有很多第三方的评论系统都可以通过添加 JS 代码的方式让 Hexo 博客支持评论功能。&lt;/p&gt;
@@ -566,15 +566,15 @@
 &lt;p&gt;注意：如果你使用的是自定义域名，还需要填写 serverURLs 项，该值可在 &lt;strong&gt;设置 -&amp;gt; 应用凭证&lt;/strong&gt; 中找到。&lt;/p&gt;
 &lt;h3 id=&#34;valine-评论区&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#valine-评论区&#34;&gt;#&lt;/a&gt; Valine 评论区&lt;/h3&gt;
 &lt;p&gt;一切顺利的话，你将会在 Hexo 博客文章末尾看到如下评论区。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/hexo/hexo-valine.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/hexo/hexo-valine.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;添加-disqus-评论系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#添加-disqus-评论系统&#34;&gt;#&lt;/a&gt; 添加 Disqus 评论系统&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;hexo-comments-giscus.html&#34;&gt;Hexo 评论系统（Giscus）&lt;/a&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/hexo/hexo-permalink.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/hexo/hexo-permalink.html</guid>
             <title>Hexo 固定链接</title>
-            <link>https://luhuadong.com/hexo/hexo-permalink.html</link>
+            <link>https://blog.luhuadong.com/hexo/hexo-permalink.html</link>
             <category>Hexo</category>
             <pubDate>Tue, 09 Mar 2021 16:10:20 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;大家知道 hexo 默认的链接是 &lt;a href=&#34;http://xxx.yy.com/2021/07/25/hello-world&#34;&gt;http://xxx.yy.com/2021/07/25/hello-world&lt;/a&gt; 这种类型的，这源于站点目录下的配置 _config.yml 里的 permalink 配置。这种默认配置的缺点就是一般文件名是中文，导致 url 链接里有中文出现，这会造成很多问题，如使用 gitment，也不利于 seo。另外就是年月日都会有分隔符。&lt;/p&gt;
@@ -587,9 +587,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/hexo/hexo-generate-deploy.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/hexo/hexo-generate-deploy.html</guid>
             <title>Hexo 编译发布</title>
-            <link>https://luhuadong.com/hexo/hexo-generate-deploy.html</link>
+            <link>https://blog.luhuadong.com/hexo/hexo-generate-deploy.html</link>
             <category>Hexo</category>
             <pubDate>Tue, 09 Mar 2021 16:08:19 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;一般我们都会使用  &lt;code&gt;hexo new &amp;lt;title&amp;gt;&lt;/code&gt;  来建立文章，这种建立方法会将新文章建立在  &lt;code&gt;source/_posts&lt;/code&gt;  目录下，当使用  &lt;code&gt;hexo generate&lt;/code&gt;  编译 markdown 文件时，会将其 HTML 结果编译在  &lt;code&gt;public&lt;/code&gt;  目录下，之后  &lt;code&gt;hexo deploy&lt;/code&gt;  将会把  &lt;code&gt;public&lt;/code&gt;  目录下所有文章部署到 GitHub，这是我们熟悉的 Hexo 流程。&lt;/p&gt;
@@ -602,9 +602,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/hexo/hexo-new-article.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/hexo/hexo-new-article.html</guid>
             <title>Hexo 创建文章</title>
-            <link>https://luhuadong.com/hexo/hexo-new-article.html</link>
+            <link>https://blog.luhuadong.com/hexo/hexo-new-article.html</link>
             <category>Hexo</category>
             <pubDate>Tue, 09 Mar 2021 16:05:19 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;创建文章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#创建文章&#34;&gt;#&lt;/a&gt; 创建文章&lt;/h2&gt;
@@ -638,9 +638,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/hexo/hexo-configuration.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/hexo/hexo-configuration.html</guid>
             <title>Hexo 配置</title>
-            <link>https://luhuadong.com/hexo/hexo-configuration.html</link>
+            <link>https://blog.luhuadong.com/hexo/hexo-configuration.html</link>
             <category>Hexo</category>
             <pubDate>Tue, 09 Mar 2021 16:03:19 +0800</pubDate>
             <description><![CDATA[ &lt;ul&gt;
@@ -663,9 +663,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/hexo/hexo-themes.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/hexo/hexo-themes.html</guid>
             <title>Hexo 主题推荐</title>
-            <link>https://luhuadong.com/hexo/hexo-themes.html</link>
+            <link>https://blog.luhuadong.com/hexo/hexo-themes.html</link>
             <category>Hexo</category>
             <pubDate>Tue, 09 Mar 2021 16:02:19 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Hexo 博客系统的主题有很多选择，你可以在 &lt;a href=&#34;https://hexo.io/themes/&#34;&gt;这里&lt;/a&gt; 找到它们。如果你愿意，你还可以自己动手编写一个属于你的主题。&lt;/p&gt;
@@ -676,21 +676,21 @@
 &lt;li&gt;GitHub：&lt;a href=&#34;https://github.com/next-theme/hexo-theme-next&#34;&gt;https://github.com/next-theme/hexo-theme-next&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;项目官网：&lt;a href=&#34;https://theme-next.iissnan.com&#34;&gt;https://theme-next.iissnan.com&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;/images/hexo/hexo-theme-next.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/hexo/hexo-theme-next.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;fluid&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#fluid&#34;&gt;#&lt;/a&gt; Fluid&lt;/h2&gt;
 &lt;p&gt;Fluid 一款 Material Design 风格的 Hexo 主题，由 Fluid-dev 负责开发与维护。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;GitHub：&lt;a href=&#34;https://github.com/fluid-dev/hexo-theme-fluid&#34;&gt;https://github.com/fluid-dev/hexo-theme-fluid&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;项目官网：&lt;a href=&#34;https://hexo.fluid-dev.com&#34;&gt;https://hexo.fluid-dev.com&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;/images/hexo/hexo-theme-fluid.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/hexo/hexo-theme-fluid.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;butterfly&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#butterfly&#34;&gt;#&lt;/a&gt; Butterfly&lt;/h2&gt;
 &lt;p&gt;Butterfly 是 Jerry 在 &lt;a href=&#34;https://github.com/Molunerfinn/hexo-theme-melody&#34;&gt;hexo-theme-melody&lt;/a&gt; 主题的基础上进行开发，支持多种美化魔改、多功能组件及静态部署集成的 Hexo 主题。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;GitHub：&lt;a href=&#34;https://github.com/jerryc127/hexo-theme-butterfly&#34;&gt;https://github.com/jerryc127/hexo-theme-butterfly&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;项目官网：&lt;a href=&#34;https://butterfly.js.org&#34;&gt;https://butterfly.js.org&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;/images/hexo/hexo-theme-butterfly.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/hexo/hexo-theme-butterfly.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;shoka&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#shoka&#34;&gt;#&lt;/a&gt; Shoka&lt;/h2&gt;
 &lt;p&gt;Shoka 是一个有趣的 Hexo 主题，中文名为 “书架”，可以说是为了笔记阅读而生的主题。Shoka 对 Markdown 的支持很好，并且有很好看的渲染样式。&lt;/p&gt;
 &lt;ul&gt;
@@ -720,9 +720,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/hexo/hexo-commands.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/hexo/hexo-commands.html</guid>
             <title>Hexo 命令</title>
-            <link>https://luhuadong.com/hexo/hexo-commands.html</link>
+            <link>https://blog.luhuadong.com/hexo/hexo-commands.html</link>
             <category>Hexo</category>
             <pubDate>Tue, 09 Mar 2021 16:02:09 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;创建新博客&lt;/p&gt;
@@ -732,9 +732,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/hexo/hexo-installation.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/hexo/hexo-installation.html</guid>
             <title>Hexo 安装</title>
-            <link>https://luhuadong.com/hexo/hexo-installation.html</link>
+            <link>https://blog.luhuadong.com/hexo/hexo-installation.html</link>
             <category>Hexo</category>
             <pubDate>Tue, 09 Mar 2021 15:59:09 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Hexo 的安装方法很简单，但它依赖 Node.js 和 Git，因此需要先安装这些应用程序。&lt;/p&gt;
@@ -765,12 +765,12 @@
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;命令行&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token builtin class-name&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#39;PATH=&#34;$PATH:./node_modules/.bin&#34;&#39;&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;&gt;&gt;&lt;/span&gt; ~/.profile&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/hexo/hexo-intro.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/hexo/hexo-intro.html</guid>
             <title>Hexo 简介</title>
-            <link>https://luhuadong.com/hexo/hexo-intro.html</link>
+            <link>https://blog.luhuadong.com/hexo/hexo-intro.html</link>
             <category>Hexo</category>
             <pubDate>Tue, 09 Mar 2021 15:57:09 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/hexo/hexo-logo.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/hexo/hexo-logo.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Hexo&lt;/strong&gt; 是一个快速、简洁且高效的博客框架。Hexo 基于 Node.js 实现，并使用 &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt;（或其他渲染引擎）解析文章，可以帮助用户在几秒内生成静态网页。配合 Hexo 主题，就可以生成许多酷炫靓丽的博客网页。&lt;/p&gt;
 &lt;p&gt;Hexo 框架具有如下特性：&lt;/p&gt;
 &lt;ul&gt;

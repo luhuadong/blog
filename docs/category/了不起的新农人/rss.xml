@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>成为自由人 • Posts by &#34;了不起的新农人&#34; category</title>
-        <link>https://luhuadong.com</link>
+        <link>https://blog.luhuadong.com</link>
         <description>阿基米东的成长笔记</description>
         <language>zh-CN</language>
         <pubDate>Fri, 29 Oct 2021 17:48:17 +0800</pubDate>
@@ -13,15 +13,15 @@
         <category>商业</category>
         <category>创业</category>
         <category>摄影</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
@@ -38,8 +38,8 @@
         <category>自律</category>
         <category>思维模型</category>
         <category>健康</category>
-        <category>Hexo</category>
         <category>徒步</category>
+        <category>Hexo</category>
         <category>家居</category>
         <category>科普</category>
         <category>环保</category>
@@ -70,9 +70,9 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
+        <category>地铁</category>
         <category>股票</category>
         <category>理财</category>
         <category>保险</category>
@@ -105,12 +105,12 @@
         <category>零废弃</category>
         <category>低碳</category>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/farm/mushroom.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/farm/mushroom.html</guid>
             <title>蘑菇种类及其生长条件</title>
-            <link>https://luhuadong.com/farm/mushroom.html</link>
+            <link>https://blog.luhuadong.com/farm/mushroom.html</link>
             <category>种植</category>
             <pubDate>Fri, 29 Oct 2021 17:48:17 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/farm/mushroom-types.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/farm/mushroom-types.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;蘑菇生长四要素&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#蘑菇生长四要素&#34;&gt;#&lt;/a&gt; 蘑菇生长四要素&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;湿度&lt;/strong&gt;&lt;br /&gt;
@@ -188,7 +188,7 @@
 &lt;li&gt;出菇方法：水培 / 土培&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
-&lt;img src=&#34;/images/farm/mushroom-ldb.jpeg&#34; width=&#34;480&#34;&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/farm/mushroom-ldb.jpeg&#34; width=&#34;480&#34;&gt;
  ]]></description>
         </item>
     </channel>

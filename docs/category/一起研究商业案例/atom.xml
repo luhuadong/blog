@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://luhuadong.com</id>
+    <id>https://blog.luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;一起研究商业案例&#34; category</title>
-    <link href="https://luhuadong.com" />
+    <link href="https://blog.luhuadong.com" />
     <updated>2024-07-05T16:23:27.000Z</updated>
     <category term="名言" />
     <category term="奋斗" />
@@ -10,15 +10,15 @@
     <category term="商业" />
     <category term="创业" />
     <category term="摄影" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
@@ -35,8 +35,8 @@
     <category term="自律" />
     <category term="思维模型" />
     <category term="健康" />
-    <category term="Hexo" />
     <category term="徒步" />
+    <category term="Hexo" />
     <category term="家居" />
     <category term="科普" />
     <category term="环保" />
@@ -67,9 +67,9 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
+    <category term="地铁" />
     <category term="股票" />
     <category term="理财" />
     <category term="保险" />
@@ -102,10 +102,10 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/business/metroman.html</id>
+        <id>https://blog.luhuadong.com/business/metroman.html</id>
         <title>地铁通（MetroMan）商业案例分析</title>
-        <link rel="alternate" href="https://luhuadong.com/business/metroman.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/business/metroman-banner.png&#34; alt=&#34;中国地铁通（MetroMan）&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/business/metroman.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/business/metroman-banner.png&#34; alt=&#34;中国地铁通（MetroMan）&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;研究背景&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#研究背景&#34;&gt;#&lt;/a&gt; 研究背景&lt;/h2&gt;
 &lt;p&gt;我在买车之前经常乘坐地铁出行，去到不同城市，如果有地铁也会以地铁出行作为优先选择。因此在我的博客中收集了许多城市的地铁线路图，也是在这个过程中，我发现各城市地铁官方的线路图居然不容易找到（也许是有意为之），反而找到了许多个人或组织独立绘制的地铁线路图，其中一个就是 MetroMan 地铁通（其他竞品还有：轻地铁 ChinMetro、Metro Hub 等）。&lt;/p&gt;
 &lt;p&gt;由于网上收集的地铁线路图设计风格、清晰度等都参差不齐，因此我也产生了自己绘制地铁线路图的想法。在尝试绘制第一张地铁线路图的时候，我就发现如果使用现有的软件工具，例如 Drawio、Sketch、PS、AI 等，其实都挺费时间和精力的。另外，绘制的时候还需要对目标城市做一些了解，比如有什么山川、河流呀，还有目前在建的地铁线路等等。（我一边画图一边骂各地的地铁部门，怎么这么抠搜，连官方的地铁线路图都不舍得公开出来！？）&lt;/p&gt;
@@ -119,7 +119,7 @@
 &lt;li&gt;日本铁路通 —— 日本旅游交通换乘全攻略&lt;/li&gt;
 &lt;li&gt;高铁通 —— 全国高铁查询实时雷达追踪&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;/images/business/metroman-apps.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/business/metroman-apps.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;我在 Similarweb 看了一下 MetroMan 网站的访问量等数据，2024 年 6 月份的总访问量为 7.6 万，网站的世界排名是 75 万左右。另外，也大致看了 MetroMan 在其他社交媒体平台上的粉丝数量，截止 2024 年 7 月 7 日，微博有 2 万粉，小红书有 1.4 万粉，Instagram 和 Facebook 均只有数百个粉丝，这两个海外的平台也好久没更新了。总体来说，虽然地铁出行的用户体量非常大，但是 MetroMan 看起来更像是一个小众产品。&lt;/p&gt;
 &lt;h2 id=&#34;网站技术方案&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网站技术方案&#34;&gt;#&lt;/a&gt; 网站技术方案&lt;/h2&gt;
 &lt;p&gt;MetroMan 的网站功能比较简单，主要提供地铁线路图和高铁图的在线浏览，同时引导用户下载 App，就没有其他功能了。&lt;/p&gt;
@@ -127,7 +127,7 @@
 &lt;p&gt;可以大致推断，网页版确实没有其他功能了，主要就是用于查询和浏览各个城市的地铁线路图。&lt;/p&gt;
 &lt;h2 id=&#34;地铁通-app&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#地铁通-app&#34;&gt;#&lt;/a&gt; 地铁通 App&lt;/h2&gt;
 &lt;p&gt;为了进一步分析，我下载并安装了安卓版的 MetroMan 地铁通。具体的功能有地铁换乘查询、地铁线路图和地图展示、各地铁站站点信息查询。其中，站点信息做得非常细致，每个站点的时刻表都可以查询得到。由于各个城市的地铁运营单位不一样，因此可以想象 MetroMan 开发团队还是做了很多工作的。&lt;/p&gt;
-&lt;img src=&#34;/images/business/metroman-details-01.jpg&#34; width=&#34;400px&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/business/metroman-details-01.jpg&#34; width=&#34;400px&#34; /&gt;
 &lt;p&gt;另外，MetroMan 地铁通还提供了微信小程序，不过功能相对 App 来说更少，并且广告更多。&lt;/p&gt;
 &lt;h2 id=&#34;总结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h2&gt;
 &lt;p&gt;作为一个小众产品，我觉得 MetroMan 已经做到极致了，MetroMan 团队为全国 51 个城市绘制了精美的地铁线路图（我认为甚至比官方的图还漂亮），还有全国高铁线路图。同时，MetroMan 团队还记录了所有地铁站点的时刻表信息、换乘信息等数据。如果说收集这些数据还不算很困难，顶多就是花时间干体力活，但是后续的数据更新也是一个大问题，因为需要持续跟踪各城市的地铁运维动态。&lt;/p&gt;
@@ -145,10 +145,10 @@
         <updated>2024-07-05T16:23:27.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/business/xiaoyuzhoufm.html</id>
+        <id>https://blog.luhuadong.com/business/xiaoyuzhoufm.html</id>
         <title>「小宇宙」的发展历程与启发</title>
-        <link rel="alternate" href="https://luhuadong.com/business/xiaoyuzhoufm.html"/>
-        <content type="html">&lt;img src=&#34;/images/business/xiaoyuzhoufm-logo.png&#34; width=&#34;300&#34; /&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/business/xiaoyuzhoufm.html"/>
+        <content type="html">&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/business/xiaoyuzhoufm-logo.png&#34; width=&#34;300&#34; /&gt;
 &lt;h2 id=&#34;产品简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#产品简介&#34;&gt;#&lt;/a&gt; 产品简介&lt;/h2&gt;
 &lt;p&gt;「小宇宙」是即刻团队推出一款中文播客 App，于 2020 年 3 月正式上线。有网友评价：“小宇宙是国内目前最轻量化、最纯粹、最便捷的播客播放 App，没有之一”。&lt;/p&gt;
 &lt;p&gt;播客是一种数字媒体，指一系列的音频、影片、电子电台或文字档以列表形式经互联网发布，然后听众经由电子设备订阅该列表以下载或流当中的电子文件，从而接收内容。&lt;/p&gt;
@@ -177,10 +177,10 @@
         <updated>2024-04-06T03:52:14.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/business/dejavu.html</id>
+        <id>https://blog.luhuadong.com/business/dejavu.html</id>
         <title>多抓鱼（dejavu）发展历程与启发</title>
-        <link rel="alternate" href="https://luhuadong.com/business/dejavu.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/business/dejavu-banner.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/business/dejavu.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/business/dejavu-banner.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h2&gt;
 &lt;p&gt;「多抓鱼」是一个主营图书和耐用消费品二手循环服务的平台，年销售额已经过亿元。在循环经济快速发展的当下，成为一个亮眼的二手物品交易平台。&lt;/p&gt;
 &lt;p&gt;slogan：&lt;strong&gt;真正的好东西值得买两次&lt;/strong&gt;&lt;/p&gt;
@@ -212,10 +212,10 @@
         <updated>2024-04-06T02:32:14.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/business/foxit-software.html</id>
+        <id>https://blog.luhuadong.com/business/foxit-software.html</id>
         <title>福昕 PDF 发展历程与启发</title>
-        <link rel="alternate" href="https://luhuadong.com/business/foxit-software.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/business/foxit.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/business/foxit-software.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/business/foxit.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;做 PDF 软件那个福昕公司去年（2020 年）九月在科创板上市。发行价为 238.53 元，发行 1204 万股，募集资金总额 28.6 亿元。收盘价为 309.27 元，较发行价上涨 29.66%，当日福昕软件市值为 148.88 亿元。&lt;/p&gt;
 &lt;p&gt;一向在国内十分低调的福昕 PDF 进入了我的视野 —— 啊，原来福昕 PDF 已经发展得这么大啦！（全球第二大 PDF 电子文档技术提供商，第一大恐怕是 Adobe 吧）&lt;strong&gt;才发现原来单纯做 PDF 软件也能做到百亿规模，这很值得我们学习和研究。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;根据招股书显示，福昕软件控股股东、实际控制人为熊雨前，占股 51.22%。熊雨前先生 1970 年出生，拥有美国永久居留权，毕业于中国科学技术大学计算机科学与技术专业，大学本科学历。1990 年 7 月至 1994 年 12 月任中国科学院北京天文台（现为 “中国科学院国家天文台”）研究实习员。&lt;/p&gt;
@@ -224,11 +224,11 @@
 &lt;p&gt;PDF 是一种可移植的文档格式，最初由 Adobe 公司制定，在全球各机构广泛应用，以简化文档安全快速交换、节省纸张，已广泛应用于电子图书、产品说明、公司文告、网络资料、电子邮件等。&lt;/p&gt;
 &lt;p&gt;正是熊雨前带领团队潜心科研攻关，福昕逐步打破了由巨头 Adobe 一家垄断多年的 PDF 文档解决方案市场。如今，全球有数千万用户使用了福昕的产品；花旗、美国国家银行等国外大多数银行是福昕的客户；韩国三星的上千万部手机嵌入了福昕文档浏览软件；美国国家核实验室、西门子公司、IBM 公司也使用了福昕的技术。&lt;/p&gt;
 &lt;p&gt;经过多年的打磨和市场推广，福昕已经有比较好的变现模式。目前的 PDF 产品主要面向企业及专业人士销售。而普通消费者人群主要是靠免费版的阅读器来赚口碑。据透露，目前福昕软件 90% 以上的收入来自国外市场，这其中又有 80% 的收入集中在企业级市场。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/business/foxit-company.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/business/foxit-company.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;现在的福昕软件公司位于福州软件园山头的一栋别墅里，&lt;strong&gt;已是全国最大、全球第二的 PDF 电子文档技术解决方案开发商和供应商&lt;/strong&gt;。在软件园里，很多 IT 公司的员工，尽管并不认识熊雨前，但对名为 Foxit Reader 的 PDF 阅读器却很熟悉，因为他们都在用这款全球市场最流行的免费下载软件。&lt;/p&gt;
 &lt;h2 id=&#34;亚马逊入股&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#亚马逊入股&#34;&gt;#&lt;/a&gt; 亚马逊入股&lt;/h2&gt;
 &lt;p&gt;2011 年的亚马逊急于解决一个大麻烦 —— 用户对 Kindle 上 PDF 的阅读体验已经怨声载道。技术供应商 Adobe 此前将源代码给到了亚马逊调优，但最终也没能解决问题。它在移动平台上的表现不佳。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/business/pdf-to-kindle.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/business/pdf-to-kindle.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;这一年，亚马逊发现了福昕软件。亚马逊很激动，熊雨前也是。前者的 Kindle 有着巨大的全球出货量，加上同样海量的 Kindle APP，这是一个全球罕有的授权客户。为此，熊雨前特意为亚马逊准备了一份数百万美元每年的授权费报价 —— 这和福昕当时的年利润相当。&lt;/p&gt;
 &lt;p&gt;此时，熊雨前大致清楚一个事实：在全球范围内、在移动平台上，福昕解析和显示 PDF 的技术领先于市场。此前福昕曾在只有 4M 内存的三星手机上，实现了流畅的 PDF 阅读功能。纵观全球市场，熊雨前还没有发现第二家能够实现它的技术供应商。&lt;/p&gt;
 &lt;p&gt;所以，在第一轮价格谈判破裂，亚马逊决定展开招标时，熊雨前根本就没去了解招标信息。此后，亚马逊的招标如熊雨前所料的失败了。这一次，亚马逊负责 Kindle 业务的副总裁出面参与了第二次谈判，严肃面对。&lt;/p&gt;
@@ -245,7 +245,7 @@
 &lt;p&gt;早年技术成熟后，出售技术授权一直是福昕最重要的利润来源。这让销售变得非常简单，却也隐患重重 —— 技术上游挣钱最少且天花板低，如果不能在市场追平之前实现产品化和方案化，仅依靠技术授权获利的福昕，迟早将要面对可见的利润下滑。&lt;/p&gt;
 &lt;p&gt;关于是否要把技术开源给谷歌，福昕公司内部进行了激烈讨论。熊雨前很清楚，当时的情景和四年前亚马逊要求入股一样，如果福昕不开源，谷歌同样会依靠重金汇集全球高水平技术团队，自研出可能同样出色的技术产品。那将是又一份亚马逊曾经的 “第二套方案”，福昕也会 “再次” 面对一个自己 “亲手培育” 出来的，谷歌级的竞争对手。&lt;/p&gt;
 &lt;p&gt;作为 “赠品”，在作出开源的决定之后，熊雨前也有了一个可以让他骄傲一辈子的荣耀 —— 福昕开源给谷歌的代码，是中国人目前在全球贡献的最受欢迎的开源代码！今天全球所有 Chrome 用户在浏览器上打开 PDF 时，甚至在所有谷歌产品上应用 PDF 时，背后的源技术供应商都是福昕。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/business/chrome-foxit-pdf.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/business/chrome-foxit-pdf.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;这次合作的结果是 Google 推出一个名为 &lt;a href=&#34;https://opensource.google/projects/pdfium&#34;&gt;PDFium&lt;/a&gt; 的开源项目（仓库地址：&lt;a href=&#34;https://pdfium.googlesource.com/pdfium/&#34;&gt;https://pdfium.googlesource.com/pdfium/&lt;/a&gt;），目前已成为 Chrome 浏览器的 PDF 渲染引擎组件。&lt;/p&gt;
 &lt;h2 id=&#34;云安全文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#云安全文档&#34;&gt;#&lt;/a&gt; 云安全文档&lt;/h2&gt;
 &lt;p&gt;一个文档的全生命周期包括：生成、转换、显示、编辑、搜索、打印、存储、签章、表单、保护、安全分发管理等等。&lt;/p&gt;
@@ -265,13 +265,13 @@
         <updated>2021-11-13T08:18:03.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/business/lixiang.html</id>
+        <id>https://blog.luhuadong.com/business/lixiang.html</id>
         <title>理想汽车发展历程与启发</title>
-        <link rel="alternate" href="https://luhuadong.com/business/lixiang.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/business/lixiang.html"/>
         <content type="html">&lt;h2 id=&#34;创始人故事&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#创始人故事&#34;&gt;#&lt;/a&gt; 创始人故事&lt;/h2&gt;
 &lt;p&gt;李想出生于 1981 年，土生土长的石家庄人。李想幼时在河北省石家庄跟着奶奶长大，高中没念完就辍学了。他一直对科技充满兴趣，也喜爱尝试新产品。20 世纪 90 年代，十几岁的李想开始为科技网站撰写产品测评文章，18 岁时便创办了自己的网站泡泡网（&lt;a href=&#34;http://m.pcpop.com/&#34;&gt;PCpop.com&lt;/a&gt;）。这个新网站很快就收到了访问，但没有得到回报，因为在石家庄没有收入机会。2001 年底，李想决定搬到北京。后来这家公司取得了成功，成为中国知名度最高的电子产品测评网站之一，年收入达到数百万美元。&lt;/p&gt;
 &lt;p&gt;但李想的志向不限于此。23 岁时，他剥离了泡泡网的汽车业务并创立了汽车信息门户网站&lt;a href=&#34;https://www.autohome.com.cn/&#34;&gt;汽车之家&lt;/a&gt;。汽车之家一开始只是与 &lt;a href=&#34;http://Edmunds.com&#34;&gt;Edmunds.com&lt;/a&gt; 类似的测评网站，但后来发展成为综合性的网上交易平台，既独立发布新闻和测评报告，也为经销商和生产商建立了可获取大量消费者数据的渠道。汽车之家很快便成为中国最受信赖的汽车资讯平台，并发展成为一家利润丰厚的企业。2013 年 12 月，汽车之家在纽约证交所上市，通过 IPO 筹得 1.33 亿美元，公司估值达 32 亿美元，为李想带来巨大的财富。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/business/lixiang-banner.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/business/lixiang-banner.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;和马斯克一样，李想也是位亲力亲为的 CEO。在汽车之家，他亲自试驾并测评了许多款汽车。他是一位硅谷式的商业巨头，首先是极客，其次才是商人。中国千禧一代对李想仰慕不已，在他们眼中，李想是一位白手起家的成功者，敢于违背中国的教育制度去追求他的梦想。和中国许多其他知名商人不同，李想穿着休闲，行事低调，有意规避贾跃亭或周鸿祎等人的自我推销路数。&lt;/p&gt;
 &lt;h2 id=&#34;理想汽车&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#理想汽车&#34;&gt;#&lt;/a&gt; 理想汽车&lt;/h2&gt;
 &lt;p&gt;车和家正式成立于 2015 年 7 月，由汽车之家创始人李想创立，后更名为理想汽车。&lt;/p&gt;
@@ -290,9 +290,9 @@
         <updated>2021-11-01T08:18:51.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/business/zhihu.html</id>
+        <id>https://blog.luhuadong.com/business/zhihu.html</id>
         <title>知乎（zhihu）发展历程与启发</title>
-        <link rel="alternate" href="https://luhuadong.com/business/zhihu.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/business/zhihu.html"/>
         <content type="html">&lt;p&gt;知乎，是中国当前非常优秀的互联网问答社区。作为一个问答社区，知乎的年访问量就达到了 30 亿，根据 Alexa 统计，知乎全球排名 187，中国排名 36。在 2021 年更是以 347 亿的市值上市。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;知乎是中国互联网上效率最高的文字类产品，它的赞同机制、内容发现机制，可以让用户在极快的速度内，以最高的效率寻找到答案。&lt;/li&gt;
@@ -300,7 +300,7 @@
 &lt;li&gt;知乎始终坚持把用户价值放在第一位，保持开放解决问题的心态，照顾每一个使用产品的用户，坚持用户体验第一，坚持激发普通人的潜能。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;创始人故事&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#创始人故事&#34;&gt;#&lt;/a&gt; 创始人故事&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;/images/business/zhihu-founder-zhouyuan.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/business/zhihu-founder-zhouyuan.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;1980 年，周源出生在一个贵阳的小康之家，他的父母分别是新闻工作者和教师，这让他从小的生活就充满了书香氛围。1996 年，周源顺利考上成都理工大学的计算机系，并在本科毕业之后继续读研。2003 年获得东南大学软件工程专业的硕士学位。&lt;/p&gt;
 &lt;p&gt;21 世纪初，计算机对于中国来说还是个新鲜事物，因此像周源这样的计算机人才十分抢手。毕业之后，周源来到上海一家做超市软件开发的公司工作，负责软件数据库方面的工作。能够以软件工程师的身份，在上海这样一座大城市里的软件公司上班，在那个年代绝对是令人羡慕的职业。计算机尚未大规模普及的 2003 年，程序员可是一个风光的身份。&lt;/p&gt;
 &lt;p&gt;但周源并不满足于此，他虽然在工作上得心应手，但每日与代码为伴的生活让他逐渐对这份工作感到了厌烦。在写了两年超时软件代码之后，他决定辞职。或许是出于身为新闻工作者的父亲对他的影响，周源离开了上海，来到了北京。在北京当地的一家互联网相关的杂志社当了一名记者。专门去采访和报道那些科技公司和这些公司的首席信息官。在当记者的这两年里，周源发现了一个让他心动的现象。那就是像腾讯、百度、阿里巴巴等互联网企业正如雨后春笋一般在中国发展，并且事业也越做越大。周源看在眼里，心中不免对此颇为向往。他心想自己做过程序员，也当过互联网方面的记者，如果能够在网络上建立一个科技爱好者和从业者交流的网站，或许会有很多人喜欢。&lt;/p&gt;
@@ -343,16 +343,16 @@
         <updated>2021-10-11T08:58:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/business/costco.html</id>
+        <id>https://blog.luhuadong.com/business/costco.html</id>
         <title>好市多（Costco）发展历程与启发</title>
-        <link rel="alternate" href="https://luhuadong.com/business/costco.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/business/costco.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/business/costco.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/business/costco.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;好市多（Costco）是全球第三大零售商，仅次于沃尔玛（Walmart）和亚马逊（Amazon），同时它也全球第一大连锁零售型、会员制仓储式量贩店（Warehouse club）。2022 年，Costco 的销售额达到 2230 亿美元，拥有 30.4 万名员工，全球会员数量超过 1 亿人。&lt;/p&gt;
 &lt;h2 id=&#34;起源&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#起源&#34;&gt;#&lt;/a&gt; 起源&lt;/h2&gt;
 &lt;p&gt;追溯历史，Costco 最早起源于 1976 年在美国加州圣地亚哥成立的 Price Club 公司。Price Club 是全球第一家会员制的仓储批发卖场，最初以服务小型企业为主，后来为服务更广大的消费群众，开放供一般个人购买。&lt;/p&gt;
 &lt;p&gt;第一家好市多卖场（Costco Wholesale）是在 1983 年成立于华盛顿州西雅图市，短短 6 年时间，年营业额就从 0 成长到 30 亿美元。&lt;/p&gt;
 &lt;p&gt;这两家成功的公司于 1993 年合并成为普来胜（PriceCostco）公司，合并后一共拥有 206 家卖场，全年营业额约 160 亿美元。1997 年，PriceCostco 正式更名为 Costco 好市多股份有限公司。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../images/business/costco-history.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/business/costco-history.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;目前好市多的卖场遍及北美、墨西哥、英国、澳洲、新西兰、西班牙、冰岛、法国、瑞典、日本、韩国以及中国等地区。&lt;/p&gt;
 &lt;p&gt;Costco 在 1997 年便在中国台湾省高雄市开设门店，取名 “好市多”。目前整个台湾地区共有 14 家门店，分布于台北、桃园、新竹、台中、嘉義、台南及高雄等地。&lt;/p&gt;
 &lt;p&gt;而中国大陆第一家门店直到 2019 年才在上海开设，并取名为 “开市客”。截至 2024 年 7 月，Costco 在中国大陆一共有 7 家门店，其中，上海 2 家，浙江宁波和杭州各 1 家，江苏苏州和南京各 1 家，以及深圳 1 家。&lt;/p&gt;
@@ -371,23 +371,23 @@
         <updated>2021-10-07T02:59:19.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/business/boutique-store.html</id>
+        <id>https://blog.luhuadong.com/business/boutique-store.html</id>
         <title>「买手店」是什么意思？</title>
-        <link rel="alternate" href="https://luhuadong.com/business/boutique-store.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/business/boutique-store.html"/>
         <content type="html">&lt;p&gt;想了解什么是 “买手店”，首先要知道什么是 “买手”？&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;买手&lt;/strong&gt;（Buyer）一词源于 20 世纪 60 年代的欧洲，是一种职业。按照国际上的通行说法，指那些往返于世界各地，时常关注各种最新信息，手中掌握大批量订单，不停地和各种供应商联系，并且组织货源进入市场，满足各种消费者不同的需求的人。常见于时尚行业，因此有时也被称为 “时尚宠儿”。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;买手店&lt;/strong&gt;就是指那些以买手式经营的店铺。与单一品牌销售方式不同，买手式经营的核心是买手，买手的品味、审美、风格、款式有时候是凌驾于品牌之上的。因此，买手店也称为 “品牌集合店” 或 “多品牌店”，对应的英文有 “Specialty Store”、“Boutique Store”、“Mutli-brands Store”。&lt;/p&gt;
 &lt;p&gt;不过，“多品牌店” 这样的称呼不太容易彰显出它的特点，因为像百货公司这些本身也是 “多品牌” 销售的。买手店与之不同的是，虽然也可能是品牌庞杂，但审美品位专一，专为小众和品位鲜明的消费者服务。例如以目标顾客独特的时尚观念和趣味为基准，挑选不同品牌的时装、饰品、珠宝、皮包、鞋子、化妆品等商品，融合在一起的店面。&lt;/p&gt;
 &lt;p&gt;好的买手店，除了有精选的商品，还能提升客户的体验度与粘度。如果说百货公司是 “通用型” 的杂货铺，那么买手店就是 “垂直型” 的精品店。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/business/Boutique-Store.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/business/Boutique-Store.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="商业" />
         <updated>2021-07-17T10:45:09.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/business/second-hand-shop.html</id>
+        <id>https://blog.luhuadong.com/business/second-hand-shop.html</id>
         <title>「中古店」是什么意思？</title>
-        <link rel="alternate" href="https://luhuadong.com/business/second-hand-shop.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/business/second-hand-shop.html"/>
         <content type="html">&lt;p&gt;“中古”（ちゅうこ）一词来源于日本，是 “旧货”、“二手” 的意思。所以，“中古店” 就是二手商店、跳蚤市场的意思。&lt;/p&gt;
 &lt;p&gt;不过，中古在日本一般是指奢侈品级别的物品，比如使用过的 LV、Chanel、Hermes、菲拉格慕、Burberry 等国际一线品牌的包包，就称为 “中古包”。&lt;/p&gt;
 &lt;p&gt;日本中古行业将成色都分四个级别：&lt;/p&gt;
@@ -398,7 +398,7 @@
 &lt;li&gt;C 是后一档大部分 C 类都偏旧。但是 C 档里往往藏着高性价比好货，因为很多有缺配件的物品也会定义成 C, 例如暗扣坏掉，背带丢失等等。如果成色不错还是值得入手，然后找一家专业奢侈品箱包维修的地方稍微维修一下还是能正常使用，但是价格就十分划算啦！&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;由于中古包属于特殊商品，售出后如果退回需要从新鉴定真伪和重新定价。很难操作，所以几乎所有中古店出售的物品都不能够退换的。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/business/%E4%B8%AD%E5%8F%A4%E5%BA%97.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/business/%E4%B8%AD%E5%8F%A4%E5%BA%97.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;当然，日本的中古店也不是仅有包包，还有一些服饰、鞋子、耳饰等，以及电子产品、家电等都有。你甚至可以把中古店理解为 “当铺”，只要你能想到的没有中古店没有的。&lt;/p&gt;
 &lt;p&gt;实际上，日本的中古商店有两种，一是以营利为目的的民间二手货店，另一种是政府福利机构附设的二手货中心，后者是政府为提倡环保意识、增加残疾人就业机会、服务市民而建造的大型交换地，在这里，从一般市民家庭处理出来的家电、家具、车得到翻新，并以非常低廉的价格再次出售。&lt;/p&gt;
 &lt;p&gt;日本人很注重诚信，对贩卖假货的法律很是严格，并且每个中古店都会有专业的品牌鉴定师，寄售体系也很完善，寄卖的人需要提供个人的身份证明和住址，一旦出现问题能够直接追溯到货主本人，这样会有一个完整的体系保证商品的质量。而且在日本的正规中古店，它们必须在公安局备案监督才能开店。&lt;/p&gt;
@@ -408,10 +408,10 @@
         <updated>2021-07-17T10:34:44.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/business/deli.html</id>
+        <id>https://blog.luhuadong.com/business/deli.html</id>
         <title>得力（deli）发展历程与启发</title>
-        <link rel="alternate" href="https://luhuadong.com/business/deli.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/business/deli-logo.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/business/deli.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/business/deli-logo.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;相信很多人都用过得力的文具，基本上你用到的所有文具都可以找到得力品牌。发展至今，得力的产品已经超越办公领域，在仪器仪表、智能设备领域也初具规模。&lt;/p&gt;
 &lt;h2 id=&#34;创始人故事&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#创始人故事&#34;&gt;#&lt;/a&gt; 创始人故事&lt;/h2&gt;
 &lt;p&gt;1981 年，娄甫君就开始为国有企业生产金属零配件，但为别人加工得到的利润相当微薄。随着改革开放进一步深入，娄甫君不愿为别人打工的想法也越来越强烈，跃跃欲试的他不断寻找着改革带来的商机，在捕捉市场信息的同时，娄甫君逐渐意识到办公文具消费市场将快速扩大，改革开放后将拥有一个非常巨大的文具市场，但国内文具行业产品缺乏创新、功能单一、涉及呆板，销售不力等现状却普遍存在，娄甫君觉得既然要选择文具行业发展，就得从改变这些现状中大作文章。经过大量调查研究，1992 年娄甫君关闭了别人眼里红火的加工厂，用当时积累的 100 万元成立了 “宁波新时代文具有限公司”，并把产品品牌定为 “环球”，这个品名，暗含了他的梦想，希望以品质出众的产品销售到世界各地，开辟文具行业新天地。&lt;/p&gt;
@@ -432,17 +432,17 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;总结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h2&gt;
 &lt;p&gt;其实我是在选购焊台的时候才开始关注得力的，因为发现得力居然也有做焊台，就觉得好神奇。因为原来一直以为得力跟晨光之类的文具企业一样，只做文具类的产品。没想到得力还做了很多五金工具、测量工具、仪器仪表、电子电工工具等等。刚好我在筹备家里的创客空间，所以就顺势买了一些得力工具。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/business/deli-tools.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/business/deli-tools.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;得力工具之所以让我感到兴奋，是因为它的色彩搭配，准确来说，它让我立马想到&lt;a href=&#34;https://www.fluke.com.cn/&#34;&gt;福禄克&lt;/a&gt;仪表。用过福禄克仪表的朋友都知道，它超贵！在价格上和国产的仪器仪表相差几十倍，当然人家的产品确实做得很用心。所以，我很希望在仪表工具领域能有几个优秀的国产品牌，而不只是做低廉工具。我认为得力有这个潜力，虽然得力工具现在在高端仪器仪表领域还比较空白，但值得期待。&lt;/p&gt;
 </content>
         <category term="商业" />
         <updated>2021-05-30T11:01:02.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/business/muji.html</id>
+        <id>https://blog.luhuadong.com/business/muji.html</id>
         <title>无印良品（MUJI）发展历程与启发</title>
-        <link rel="alternate" href="https://luhuadong.com/business/muji.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/business/MUJI-store.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/business/muji.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/business/MUJI-store.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;说到「无印良品」就会想到它那简约朴素的产品设计，这种简朴不仅是产品本身或色彩搭配上的，还包括它的包装设计。这在过度包装的时代里，给环保主义者一种舒服的感觉。就算不买东西，偶尔到 MUJI 店铺里坐一会，也是一种放松。&lt;/p&gt;
 &lt;h2 id=&#34;设计理念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设计理念&#34;&gt;#&lt;/a&gt; 设计理念&lt;/h2&gt;
 &lt;p&gt;1980 年无印良品诞生于日本，主推服装、生活杂货、食品等各类商品。无印良品是指 “没有名字的优良商品”。&lt;/p&gt;

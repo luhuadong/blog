@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://luhuadong.com</id>
+    <id>https://blog.luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;幸福&#34; tag</title>
-    <link href="https://luhuadong.com" />
+    <link href="https://blog.luhuadong.com" />
     <updated>2021-09-04T03:48:17.000Z</updated>
     <category term="名言" />
     <category term="奋斗" />
@@ -10,15 +10,15 @@
     <category term="商业" />
     <category term="创业" />
     <category term="摄影" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
@@ -35,8 +35,8 @@
     <category term="自律" />
     <category term="思维模型" />
     <category term="健康" />
-    <category term="Hexo" />
     <category term="徒步" />
+    <category term="Hexo" />
     <category term="家居" />
     <category term="科普" />
     <category term="环保" />
@@ -67,9 +67,9 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
+    <category term="地铁" />
     <category term="股票" />
     <category term="理财" />
     <category term="保险" />
@@ -102,14 +102,14 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/reading/ten-conditions-of-happiness.html</id>
+        <id>https://blog.luhuadong.com/reading/ten-conditions-of-happiness.html</id>
         <title>新幸福的十大标准</title>
-        <link rel="alternate" href="https://luhuadong.com/reading/ten-conditions-of-happiness.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/reading/ten-conditions-of-happiness.html"/>
         <content type="html">&lt;p&gt;记得小学语文课本有一篇文章 ——《幸福是什么》，当时没看懂。直到最近，感觉自己不太幸福，所以重新读了这篇文章。文章其实很短，讲三个牧羊的小孩在树林里清理一口老泉，善举感动了森林里的智慧女神，简单的对话引发了孩子们对幸福的思考。后来三个孩子选择了不同的人生道路，十年后在小井旁相遇了，他们都明白了什么是幸福 —— &lt;strong&gt;幸福要靠劳动，要靠很好地尽自己的义务，做出对人们有益的事情。&lt;/strong&gt;&lt;/p&gt;
-&lt;img src=&#34;/images/static/what-happiness-is.jpg&#34; alt=&#34;幸福&#34; title=&#34;幸福是什么？&#34; width=600 /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/what-happiness-is.jpg&#34; alt=&#34;幸福&#34; title=&#34;幸福是什么？&#34; width=600 /&gt;
 &lt;p&gt;虽然文章给出了幸福的含义，就是脚踏实地、做个对社会有价值的人。但感觉还是比较空泛，缺少了一些深度和行动指导。毕竟只是一篇小学生课文，目的只是引发大家思考而已。&lt;/p&gt;
 &lt;p&gt;于是，我想起了《&lt;a href=&#34;https://union-click.jd.com/jdc?e=&amp;amp;p=JF8BAMkJK1olXgIAU1dYCUsfA18IGFIRWwUCVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXVpbC0sWHDZNRwYlBUF0PA0Jazx1eCcKRDxCGW9RUAc-TkcbM244G1oUXwMCUFtfDnsnA2g4TTUVXAcDVV9VCEoSM244G1wXXA4DVVZbDkkWBV8PG1IlAEJQDhYIWAhFS184K1glbTYCZF1tSiUSCm1YT1xHXQdVUQxYC0gTCzsOElNBXFQABgpZW0IWCl8KGloRVDY&#34;&gt;少即是多：北欧自由生活意见&lt;/a&gt;》这本书里面提到的 “新幸福的十大标准” 概念。&lt;/p&gt;
-&lt;img src=&#34;/images/static/new-happiness-define-01.jpeg&#34; title=&#34;新幸福的十大标准&#34; width=480 /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/new-happiness-define-01.jpeg&#34; title=&#34;新幸福的十大标准&#34; width=480 /&gt;
 &lt;p&gt;管理学大师彼得・德鲁克曾经说过 “It you can’t measure it, you can’t manage it”（你如果无法度量它，就无法管理它）。我在想 —— 我们能否对幸福进行有效管理呢？如果能对幸福进行度量，那是不是就能看到迈向幸福的光明大道？&lt;/p&gt;
 &lt;p&gt;幸福是一种主观感受，确实难以度量，而 “新幸福的十大标准” 可以理解为是一种度量幸福的方法和指标。那我们就来试试，看看能够通过逐步靠近这十个条件来获得幸福。&lt;/p&gt;
 &lt;p&gt;下面将结合书中的解释以及个人理解，详细介绍这十条幸福标准。&lt;/p&gt;
@@ -173,36 +173,36 @@
         <updated>2021-09-04T03:48:17.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/journal/20210830.html</id>
+        <id>https://blog.luhuadong.com/journal/20210830.html</id>
         <title>平淡生活里的琐碎幸福</title>
-        <link rel="alternate" href="https://luhuadong.com/journal/20210830.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/journal/20210830.html"/>
         <content type="html">&lt;p&gt;最近在尝试双城生活，因为听说北欧民众幸福感强的一个原因是他们普遍拥有双城生活，工作时在较为方便的繁华都市，休闲时则远离城市喧嚣。在两种截然不同的环境中切换，能够让自己的世界变得开阔，要是总在一个地方待着，生活难免会变得枯燥。&lt;/p&gt;
-&lt;img src=&#34;/images/diary/2021-08-30_road.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/2021-08-30_road.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
 &lt;p&gt;周一，虽然前一晚又晚睡了，但早上还是早早醒来，简单地吃了个早饭，然后准备前往高铁站。高铁站离我住的地方很近，十分钟车程就到了。嘻嘻～没有迟到，这是一次优雅的乘车体验。明媚的阳光透过玻璃洒满了整个车厢，让人变得温暖起来，让我不禁想说一句：“早上好”！&lt;/p&gt;
-&lt;img src=&#34;/images/diary/2021-08-30_railway.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/2021-08-30_railway.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
 &lt;p&gt;很快，就到了广州。不过，今天的目的地不是公司，而是诊所，因为今天要做一次术后半年的复诊。得益于诊疗技术的提升和这半年来的呵护，康复情况不错。医生说：“你还很年轻，术后恢复较快，血流改道很成功，大隐静脉保住了！” 自己的身体自己最了解，虽然复诊结果是意料之中的，但还是按耐不住内心的激动 —— Yeah，我还可以为祖国健康工作五十年。虽然这些年饱受静脉曲张和神经性皮炎的困扰，但还是要感谢它们，让我对痛苦有了超强的忍耐力，这是成长路上重要的一环。&lt;/p&gt;
-&lt;img src=&#34;/images/diary/2021-08-30_clinic.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/2021-08-30_clinic.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
 &lt;p&gt;短暂的欢愉背后，是漫长一生的步步为营。人活一世，最后拼的都是健康，而好好吃饭，是人生最低成本的保险。于是，临近中午时分，我来到了附近一家蔬食餐厅。餐厅的特色是纯素的煲仔饭，“煲仔饭是广州的特色名菜，而纯素煲仔饭仅此一家” 老板自豪地说道。老板师从出家师父，潜心修炼，功夫不负有心人，经过多年研发，终于制作出一系列口感、味道极佳的纯素煲仔饭。我个人还是蛮喜欢的，尤其周末看了《The Game Changers》之后，vegan 的念头又在我心中重燃起来了，所以我现在正在学习素食营养搭配的知识。&lt;/p&gt;
-&lt;img src=&#34;/images/diary/2021-08-30_lunch.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/2021-08-30_lunch.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
 &lt;p&gt;最近这半年，我搬到了广州的最南端生活，因为我想每天都能看见大海，海阔天空能让人的心变宽，星辰大海能让人静下心来思考。偶尔站在窗边远眺，望着码头繁忙的景象，生活也燃起了熊熊斗志。&lt;/p&gt;
-&lt;img src=&#34;/images/diary/2021-08-30_sea-02.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/2021-08-30_sea-02.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
 &lt;p&gt;小区有一个篮球场，不过人超少，刚搬过来的时候，哪怕是周末，通常也只有我一个人在练球。为了促进腿部血流改道，我把每天打球半小时列入了康复训练列表。这半年打球的天数可能比我过去五年还多，也重燃了我心中的体育梦。&lt;/p&gt;
-&lt;img src=&#34;/images/diary/2021-08-30_basketball-01.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/2021-08-30_basketball-01.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
 &lt;p&gt;后来慢慢地，找到了一起打球的小伙伴，甚至有了约定俗成的比赛日，而我也成了临时队长。如果说体育是生活的调节剂，能促进身心健康发展；那么篮球对我来说就是一种社交方式，能帮助融入当地社区，建立良好的人际关系。&lt;/p&gt;
-&lt;img src=&#34;/images/diary/2021-08-30_basketball-03.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/2021-08-30_basketball-03.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
 &lt;p&gt;由于地处南亚热带季风性海洋气候，加上小区地广人稀，到了夏天，果树就纷纷结出果实来，有莲雾、芒果、荔枝、李子、龙眼、菠萝蜜...... 惊喜之余，让人感受到大自然的神奇。这些水果不需要花钱买，只要你能摘到就可以吃，仿佛回到了原始社会。让人不禁思考：消费社会带给我们的便利，而为了维持这种便利，我们每天都要忙碌工作，这真的值得吗？&lt;/p&gt;
-&lt;img src=&#34;/images/diary/2021-08-30_tree.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/2021-08-30_tree.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
 &lt;p&gt;说到工作，这半年在一家环保科技公司上班，参与了一款智能环保数采仪的设计，下个月就要在深圳宝安部署落地了。这是一个很经典的物联网应用场景，对我来说，能参与底层系统驱动和部分应用程序开发，不仅提升了物联网智能设备的设计能力，也加深了对环境监测领域的了解，从不同视角看待环保这件事。虽然本质上来说，它只是一家科技企业，恰巧从事环保设备研发而已，但却是我迈向身心对齐的重要一步。&lt;/p&gt;
-&lt;img src=&#34;/images/diary/k37-device-framework.png&#34; style=&#34;zoom:70%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/k37-device-framework.png&#34; style=&#34;zoom:70%;&#34; /&gt;
 &lt;p&gt;不可否认，“环保” 已经成为我生命中不可磨灭的一部分。作为一名重度环保强迫症患者，我平常会尽量控制自己，不流露出来。可又觉得很痛苦，美好的事情没有办法和身边的朋友分享，会带来一种强烈的挫败感和孤独感，这也是我接下来要着力解决的。&lt;/p&gt;
-&lt;img src=&#34;/images/diary/2021-08-30_fruits.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/2021-08-30_fruits.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
 &lt;p&gt;篮球场上经常被迫打 4、5 号位，时间一长，球风就变得比较硬朗，有一天晚上在练习投篮，可能是被我投篮时的压腕动作迷住了，队友竟和我说：“没想到 Captain 卢也有温柔的一面啊！？” 想想也是挺神奇的，不同阶段认识的朋友，对我的印象和评价会有十分巨大的差别。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/diary/Shoot-a-Basketball-Step-11.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/Shoot-a-Basketball-Step-11.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;有的说我太瘦，有的说我强壮，有的说我文静，有的说我话痨，有的说我直爽，有的说我磨叽，有的说我内向，有的说我外向，有的说我随和，有的说我强势，还有的说我长得像女孩...... 想想也合理，人的成长是一个动态变化的过程，哪能用一两个标签所限定，只是力求在不同场合找到一种最适合自己的生存方式罢了。标签往往是是非善恶分明的，可世上的许多事却不是非黑即白的。&lt;/p&gt;
-&lt;img src=&#34;/images/diary/2021-08-30_street.jpeg&#34; style=&#34;zoom:40%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/2021-08-30_street.jpeg&#34; style=&#34;zoom:40%;&#34; /&gt;
 &lt;p&gt;小时候总是很在意别人对自己的看法，后来又变得不在乎甚至我行我素了，其实这两种方式都不太好。不过，这也许是成长的必经过程吧，最近在学习接收别人的意见，学习更好地与人相处。希望自己不随波逐流、也不妄自菲薄，能够找到一种和自己、和他人相处都舒适的方式。更重要的是，达到身心对齐、内外一致，这样才能拥有一颗强大的内心去迎接未来的挑战。&lt;/p&gt;
 &lt;p&gt;人们常说，三十而立。可这只是孔夫子对自己人生的一段总结，并不足以证明三十立或不立对未来发展的必然影响。只要我们保持善良、保持学习、保持成长，年龄只是一个数字而已。每个人都有他的时区，用适合自己的方式认真做事就可以了，Great things take time！幸运的是，我找到了自己喜欢的事情，每天做一点点，慢一点，再慢一点。&lt;/p&gt;
-&lt;img src=&#34;/images/diary/2021-08-30_sea-03.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/2021-08-30_sea-03.jpeg&#34; style=&#34;zoom:30%;&#34; /&gt;
 &lt;p&gt;夏季的海风夹杂着淡淡的咸味，正如平淡的生活里也充满了琐碎的幸福。每一个小的善举，每一句鼓励的话语，都使我们坚定不移地走下去，让生活变得幸福一点，让世界变得美好一点。&lt;/p&gt;
 </content>
         <category term="成长" />

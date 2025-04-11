@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://luhuadong.com</id>
+    <id>https://blog.luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;一起看影片&#34; category</title>
-    <link href="https://luhuadong.com" />
+    <link href="https://blog.luhuadong.com" />
     <updated>2024-07-22T07:41:25.000Z</updated>
     <category term="名言" />
     <category term="奋斗" />
@@ -10,15 +10,15 @@
     <category term="商业" />
     <category term="创业" />
     <category term="摄影" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
@@ -35,8 +35,8 @@
     <category term="自律" />
     <category term="思维模型" />
     <category term="健康" />
-    <category term="Hexo" />
     <category term="徒步" />
+    <category term="Hexo" />
     <category term="家居" />
     <category term="科普" />
     <category term="环保" />
@@ -67,9 +67,9 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
+    <category term="地铁" />
     <category term="股票" />
     <category term="理财" />
     <category term="保险" />
@@ -102,10 +102,10 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/movies/free-solo.html</id>
+        <id>https://blog.luhuadong.com/movies/free-solo.html</id>
         <title>【纪录片】徒手攀岩 Free Solo（2018）</title>
-        <link rel="alternate" href="https://luhuadong.com/movies/free-solo.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/movie/free-solo-hero2.jpg&#34; alt=&#34;徒手攀岩&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/movies/free-solo.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/movie/free-solo-hero2.jpg&#34; alt=&#34;徒手攀岩&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;影片简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#影片简介&#34;&gt;#&lt;/a&gt; 影片简介&lt;/h2&gt;
 &lt;p&gt;《徒手攀岩》是我很喜欢的一部纪录片，它的英文原名是《Free Solo》，Free Solo 就是无保护攀岩，是攀岩运动中最危险、最极限的一种。&lt;/p&gt;
 &lt;p&gt;这部纪录片是由金国威（Jimmy Chin）和他的妻子伊丽莎白・柴・瓦沙瑞莉（Elizabeth Chai Vasarhelyi）联合执导的纪录片。该片于 2018 年 8 月 31 日在美国上映，于 2019 年 9 月 6 日在中国上映。该片记录了美国攀岩大师亚历克斯・霍诺德（Alex Honnold）2017 年 6 月 3 日无辅助徒手攻克美国约塞米蒂国家公园 3000 英尺高的酋长岩（El Capitan）的全过程，共用时 3 小时 56 分钟，片中将 3 小时 56 分的实际攀岩浓缩为十多分钟。&lt;/p&gt;
@@ -123,9 +123,9 @@
         <updated>2024-07-22T07:41:25.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/movies/steve-jobs-the-lost-interview.html</id>
+        <id>https://blog.luhuadong.com/movies/steve-jobs-the-lost-interview.html</id>
         <title>【纪录片】史蒂夫·乔布斯：遗失的访谈</title>
-        <link rel="alternate" href="https://luhuadong.com/movies/steve-jobs-the-lost-interview.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/movies/steve-jobs-the-lost-interview.html"/>
         <content type="html">&lt;p&gt;1995 年《书呆子的胜利》节目时采访了乔布斯，当年的节目只用了很小一段采访，然而九十年代末采访母带从伦敦运往美国的途中遗失，这导致多年来人们一直以为再也看不到完整的采访。然而在 2012 年，导演 Paul Sen 在车库里发现了一份 VHS 拷贝，因此重新制作了这部纪录片《史蒂夫・乔布斯：遗失的访谈》（Steve Jobs: The Lost Interview）。&lt;/p&gt;
 &lt;p&gt;我们知道，乔布斯生前很少接受电视采访，如此精彩的访谈更是罕见。它记录了乔布斯的坦率、非凡的魅力和独特的视野。影片对乔布斯的采访几乎一刀未剪，大部分内容是首次公布于世，非常值得一看！&lt;/p&gt;
 &lt;p&gt;采访背景：1985 年乔布斯被他自己引荐的 CEO John Sculley 排挤出苹果。接受采访时，乔布斯正在经营他离开苹果后创办的 NeXT 公司，18 个月后苹果收购了 NeXT，又过了半年，乔布斯重掌苹果。&lt;/p&gt;
@@ -136,9 +136,9 @@
         <updated>2024-07-22T06:16:07.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/movies/rudy-1993.html</id>
+        <id>https://blog.luhuadong.com/movies/rudy-1993.html</id>
         <title>【电影】追梦赤子心（Rudy）</title>
-        <link rel="alternate" href="https://luhuadong.com/movies/rudy-1993.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/movies/rudy-1993.html"/>
         <content type="html">&lt;p&gt;电影《追梦赤子心》的英文原名是《Rudy》，该影片改编自丹尼尔・鲁迪的真人真事。鲁迪全家都对橄榄球赛非常狂热，也是圣母大学队的忠实拥护者。高中毕业本想去圣母大学的鲁迪却因为成绩不好而放弃，毕业后进入了钢铁厂工作。22 岁生日，好友送了他一件印有圣母大学字样的外套，并鼓励他去实现自己的梦想。好友在钢铁厂的意外死亡打击了鲁迪，他抛下了本已谈婚论嫁的女友，踏上了前往圣母大学的火车。进入大学以后，他学习、锻炼都格外刻苦，凭借顽强的斗志，被教练选入了校队的替补阵营，但他一直没有机会上场比赛。 终于在一场重要比赛的关键时刻替补出场，帮助球队拿下了比赛。出现在现场的父母和家人也兴奋不已。&lt;/p&gt;
 &lt;iframe src=&#34;//player.bilibili.com/player.html?isOutside=true&amp;aid=25845646&amp;bvid=BV1ns411579V&amp;cid=44169549&amp;p=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 </content>
@@ -147,9 +147,9 @@
         <updated>2024-07-22T05:54:53.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/movies/who-killed-the-electric-car.html</id>
+        <id>https://blog.luhuadong.com/movies/who-killed-the-electric-car.html</id>
         <title>【纪录片】谁消灭了电动汽车（Who Killed the Electric Car?）</title>
-        <link rel="alternate" href="https://luhuadong.com/movies/who-killed-the-electric-car.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/movies/who-killed-the-electric-car.html"/>
         <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=289405784&amp;bvid=BV1Wf4y167N8&amp;cid=304238328&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;这是一部 2006 年上映的纪录片，该片探讨了电池电动车，特别是通用汽车的 EV1 电动车的产生、有限商业化及随后的消亡。剖析电动汽车在该时代死去的原因，将责任不仅归咎于消费者和汽车生产商，还归咎于布什政府和石油业。&lt;/p&gt;
 </content>
@@ -157,9 +157,9 @@
         <updated>2021-11-01T04:52:47.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/movies/revenge-of-the-electric-car.html</id>
+        <id>https://blog.luhuadong.com/movies/revenge-of-the-electric-car.html</id>
         <title>【纪录片】电动汽车的复仇（Revenge of the Electric Car）</title>
-        <link rel="alternate" href="https://luhuadong.com/movies/revenge-of-the-electric-car.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/movies/revenge-of-the-electric-car.html"/>
         <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=414110662&amp;bvid=BV1aV411z7VL&amp;cid=218525092&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;这部 2011 年拍摄的纪录片讲述了特斯拉（Tesla Motors）如何历尽艰辛挺过金融危机，深入探讨全球电动汽车复苏的景象。&lt;/p&gt;
 </content>
@@ -167,9 +167,9 @@
         <updated>2021-11-01T03:41:36.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/movies/The-Story-of-Aaron-Swartz.html</id>
+        <id>https://blog.luhuadong.com/movies/The-Story-of-Aaron-Swartz.html</id>
         <title>【纪录片】互联网之子（Aaron Swartz）</title>
-        <link rel="alternate" href="https://luhuadong.com/movies/The-Story-of-Aaron-Swartz.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/movies/The-Story-of-Aaron-Swartz.html"/>
         <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=16549975&amp;bvid=BV1rx411V75r&amp;cid=26994578&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 </content>
         <category term="互联网" />
@@ -178,9 +178,9 @@
         <updated>2021-03-05T17:43:41.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/movies/revolution-os.html</id>
+        <id>https://blog.luhuadong.com/movies/revolution-os.html</id>
         <title>【纪录片】操作系统革命（Revolution OS）</title>
-        <link rel="alternate" href="https://luhuadong.com/movies/revolution-os.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/movies/revolution-os.html"/>
         <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=796140504&amp;bvid=BV1iC4y187nT&amp;cid=235560964&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;非常经典的有关自由软件运动的纪录片&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.revolution-os.com&#34;&gt;http://www.revolution-os.com&lt;/a&gt;&lt;/p&gt;
@@ -191,9 +191,9 @@
         <updated>2020-06-17T06:43:59.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/movies/patent-absurdity.html</id>
+        <id>https://blog.luhuadong.com/movies/patent-absurdity.html</id>
         <title>【纪录片】软件专利的荒谬性（Patent Absurdity）</title>
-        <link rel="alternate" href="https://luhuadong.com/movies/patent-absurdity.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/movies/patent-absurdity.html"/>
         <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=15221360&amp;bvid=BV1sx411u7qy&amp;cid=24774214&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;官网：&lt;a href=&#34;http://patentabsurdity.com/watch.html&#34;&gt;http://patentabsurdity.com/watch.html&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -214,9 +214,9 @@
         <updated>2020-04-05T06:36:34.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/movies/code-rush.html</id>
+        <id>https://blog.luhuadong.com/movies/code-rush.html</id>
         <title>【纪录片】代码奔腾（Code Rush）</title>
-        <link rel="alternate" href="https://luhuadong.com/movies/code-rush.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/movies/code-rush.html"/>
         <content type="html">&lt;p&gt;《Code Rush》是 David Winton 导演于 1998 年至 2000 年间拍摄的纪录片，记录了硅谷的 Netscape 工程师们将浏览器源代码开源，成立 Mozilla 项目的经历；同时 Netscape 也正经历被 AOL 并购的过程。本片描绘了 Netscape 的工程师们，牺牲日常生活与家庭，努力防止他们的公司倒闭的经历。&lt;/p&gt;
 &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=15989846&amp;bvid=BV1rx411E7oW&amp;cid=26090372&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;blockquote&gt;
@@ -229,9 +229,9 @@
         <updated>2020-02-03T06:45:49.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/movies/dead-poets-society.html</id>
+        <id>https://blog.luhuadong.com/movies/dead-poets-society.html</id>
         <title>【电影】死亡诗社（Dead Poets Society）</title>
-        <link rel="alternate" href="https://luhuadong.com/movies/dead-poets-society.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/movies/dead-poets-society.html"/>
         <content type="html">&lt;h2 id=&#34;电影简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#电影简介&#34;&gt;#&lt;/a&gt; 电影简介&lt;/h2&gt;
 &lt;p&gt;《死亡诗社》是美国 1989 年上映的一部剧情电影，影片展示了关于守旧与创新、现实与浪漫、新人与老人两股势力的较量。每次看都会勾起我心中的波澜，反思现在的生活，变得有力量。&lt;/p&gt;
 &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=10112142&amp;bvid=BV1rx411U7xi&amp;cid=16708703&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;

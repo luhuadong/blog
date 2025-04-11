@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://luhuadong.com</id>
+    <id>https://blog.luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;一起健身呀&#34; category</title>
-    <link href="https://luhuadong.com" />
+    <link href="https://blog.luhuadong.com" />
     <updated>2020-03-28T11:00:13.000Z</updated>
     <category term="名言" />
     <category term="奋斗" />
@@ -10,15 +10,15 @@
     <category term="商业" />
     <category term="创业" />
     <category term="摄影" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
@@ -35,8 +35,8 @@
     <category term="自律" />
     <category term="思维模型" />
     <category term="健康" />
-    <category term="Hexo" />
     <category term="徒步" />
+    <category term="Hexo" />
     <category term="家居" />
     <category term="科普" />
     <category term="环保" />
@@ -67,9 +67,9 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
+    <category term="地铁" />
     <category term="股票" />
     <category term="理财" />
     <category term="保险" />
@@ -102,11 +102,11 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/fitness/kegel-exercise.html</id>
+        <id>https://blog.luhuadong.com/fitness/kegel-exercise.html</id>
         <title>凯格尔运动，具体训练步骤</title>
-        <link rel="alternate" href="https://luhuadong.com/fitness/kegel-exercise.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/fitness/kegel-exercise.html"/>
         <content type="html">&lt;p&gt;凯格尔运动（Kegel Exercise）是 1948 年美国著名妇产科医生阿诺・凯格尔医生发明的，最初用来帮助产后女性的盆底修复，预防阴道松弛和压力性尿失禁，后来被男科医生发现可以明显提高男性的性功能。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/fitness/kegel-exercise-001.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/fitness/kegel-exercise-001.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;凯格尔运动相对比较复杂，是训练和强化骨盆盆底肌肉群功能的综合运动。具体步骤如下：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;首先要准确找到骨盆盆底肌肉群。（男性在排尿时突然憋尿，帮助你憋尿的肌肉群就是骨盆盆底肌肉群；女性的寻找过程更加方便，将中指、食指同时伸入阴道，用力收缩肛门，手指感受到来自阴道壁压力的地方就是骨盆盆底肌肉群聚集的地方。）&lt;/li&gt;
@@ -120,11 +120,11 @@
         <updated>2020-03-28T11:00:13.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/fitness/warm-up.html</id>
+        <id>https://blog.luhuadong.com/fitness/warm-up.html</id>
         <title>运动训练前的必备热身运动</title>
-        <link rel="alternate" href="https://luhuadong.com/fitness/warm-up.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/fitness/warm-up.html"/>
         <content type="html">&lt;p&gt;热身运动是任何运动训练的重要组成部分，热身的重要性在于可以避免运动损伤的发生。减少损伤的风险系数。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/fitness/warm-up.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/fitness/warm-up.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;附体育课的热身运动&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#附体育课的热身运动&#34;&gt;#&lt;/a&gt; 附：体育课的热身运动&lt;/h2&gt;
 &lt;p&gt;（从上往下）&lt;/p&gt;
 &lt;ol&gt;
@@ -145,9 +145,9 @@
         <updated>2019-10-03T08:01:57.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/fitness/fitness-basics.html</id>
+        <id>https://blog.luhuadong.com/fitness/fitness-basics.html</id>
         <title>健身基础入门</title>
-        <link rel="alternate" href="https://luhuadong.com/fitness/fitness-basics.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/fitness/fitness-basics.html"/>
         <content type="html">&lt;h2 id=&#34;健身笔记&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#健身笔记&#34;&gt;#&lt;/a&gt; 健身笔记&lt;/h2&gt;
 &lt;h3 id=&#34;体测&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#体测&#34;&gt;#&lt;/a&gt; 体测&lt;/h3&gt;
 &lt;p&gt;明确目标&lt;/p&gt;

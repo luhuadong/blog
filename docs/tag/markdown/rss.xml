@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>成为自由人 • Posts by &#34;markdown&#34; tag</title>
-        <link>https://luhuadong.com</link>
+        <link>https://blog.luhuadong.com</link>
         <description>阿基米东的成长笔记</description>
         <language>zh-CN</language>
         <pubDate>Fri, 27 Jan 2023 03:53:41 +0800</pubDate>
@@ -13,15 +13,15 @@
         <category>商业</category>
         <category>创业</category>
         <category>摄影</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
@@ -38,8 +38,8 @@
         <category>自律</category>
         <category>思维模型</category>
         <category>健康</category>
-        <category>Hexo</category>
         <category>徒步</category>
+        <category>Hexo</category>
         <category>家居</category>
         <category>科普</category>
         <category>环保</category>
@@ -70,9 +70,9 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
+        <category>地铁</category>
         <category>股票</category>
         <category>理财</category>
         <category>保险</category>
@@ -105,12 +105,12 @@
         <category>零废弃</category>
         <category>低碳</category>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/markdown/markdown-to-wechat.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/markdown/markdown-to-wechat.html</guid>
             <title>将 Markdown 格式文章发布到微信公众号</title>
-            <link>https://luhuadong.com/markdown/markdown-to-wechat.html</link>
+            <link>https://blog.luhuadong.com/markdown/markdown-to-wechat.html</link>
             <category>Markdown</category>
             <pubDate>Fri, 27 Jan 2023 03:53:41 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/md/markdown-to-wechat-banner.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/md/markdown-to-wechat-banner.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;如果你和我一样，平时习惯使用 Markdown 写作，当我们想把文章发布到微信公众号或知乎等平台时，就会发现挺麻烦的，尤其是排版方面，因为它们并不支持 Markdown 格式。&lt;/p&gt;
 &lt;p&gt;那有没有简单高效的办法呢？答案是有的！&lt;/p&gt;
 &lt;p&gt;你可以借助&lt;strong&gt;微信公众号 Markdown 在线编辑器&lt;/strong&gt;，将写好的 Markdown 文章粘贴过去，调整排版主题，即可生成适合微信公众号或知乎风格的文章。&lt;/p&gt;
@@ -126,31 +126,31 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/markdown/markdown-sequence-diagram.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/markdown/markdown-sequence-diagram.html</guid>
             <title>学会用 Markdown 画时序图</title>
-            <link>https://luhuadong.com/markdown/markdown-sequence-diagram.html</link>
+            <link>https://blog.luhuadong.com/markdown/markdown-sequence-diagram.html</link>
             <category>Markdown</category>
             <pubDate>Sat, 13 Mar 2021 11:30:18 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;很快更新...&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/markdown/markdown-flow-chart.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/markdown/markdown-flow-chart.html</guid>
             <title>学会用 Markdown 画流程图</title>
-            <link>https://luhuadong.com/markdown/markdown-flow-chart.html</link>
+            <link>https://blog.luhuadong.com/markdown/markdown-flow-chart.html</link>
             <category>Markdown</category>
             <pubDate>Sat, 13 Mar 2021 11:29:27 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;很快更新...&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/markdown/markdown-formulas-expression.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/markdown/markdown-formulas-expression.html</guid>
             <title>一次搞定 Markdown 公式表达</title>
-            <link>https://luhuadong.com/markdown/markdown-formulas-expression.html</link>
+            <link>https://blog.luhuadong.com/markdown/markdown-formulas-expression.html</link>
             <category>Markdown</category>
             <pubDate>Sat, 13 Mar 2021 11:29:04 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;在前面《&lt;a href=&#34;https://luhuadong.blog.csdn.net/article/details/114498117&#34;&gt;了解常用 Markdown 扩展语法&lt;/a&gt;》简单介绍了如何在 Markdown 中插入数学公式，关于这个话题还是蛮有趣的。尤其在专业领域，常常需要引入公式进行论证，如何呈现印刷级别的公式就很重要啦！好在 Markdown 扩展语法支持 LaTeX 公式表达，并且有像 MathJax 这样优秀的工具渲染 LaTeX 数学表达式。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/md/LaTeX_in_Markdown.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/md/LaTeX_in_Markdown.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;MathJax 是一个跨浏览器的 JavaScript 库，它使用 MathML、LaTeX 和 ASCIIMathML 标记在 Web 浏览器中显示数学符号。MathJax 项目始于 2009 年，是早期 JavaScript 数学格式化库 jsMath 的继承者，由美国数学学会管理。MathJax 是在 Apache 许可证下发布的开源软件，GitHub 地址是 &lt;a href=&#34;https://github.com/mathjax/MathJax&#34;&gt;https://github.com/mathjax/MathJax&lt;/a&gt; 。&lt;/p&gt;
 &lt;p&gt;LaTeX 则是一个对数学公式进行排版的系统。他们的关系如下：&lt;/p&gt;
 &lt;figure class=&#34;highlight mermaid&#34;&gt;&lt;figcaption data-lang=&#34;mermaid&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;graph&lt;/span&gt; LR&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;A&lt;span class=&#34;token text string&#34;&gt;[LaTeX表达式]&lt;/span&gt; &lt;span class=&#34;token arrow operator&#34;&gt;--&gt;&lt;/span&gt; &lt;span class=&#34;token label property&#34;&gt;|MathJax|&lt;/span&gt; B&lt;span class=&#34;token text string&#34;&gt;[优美的公式]&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;额，这一节其实跟 Markdown 没太大关系 &lt;span class=&#34;github-emoji&#34; alias=&#34;joy&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f602.png?v8&#34;&gt;😂&lt;/span&gt;&lt;/p&gt;
@@ -480,9 +480,9 @@ M834 80h400000v40h-400000z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/markdown/markdown-emoji.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/markdown/markdown-emoji.html</guid>
             <title>俏皮的 Markdown Emoji 表情</title>
-            <link>https://luhuadong.com/markdown/markdown-emoji.html</link>
+            <link>https://blog.luhuadong.com/markdown/markdown-emoji.html</link>
             <category>Markdown</category>
             <pubDate>Sun, 07 Mar 2021 23:07:08 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;strong&gt;【Markdown 从入门到精通】&lt;/strong&gt;&lt;/p&gt;
@@ -506,7 +506,7 @@ things that are NOT jokes, given current trends.  For this, use
 &lt;p&gt;之后开始出现各种不同形式的符号，比如  &lt;code&gt;:-o&lt;/code&gt;  表示惊讶， &lt;code&gt;ORZ&lt;/code&gt;  表示低头下跪等等。虽然符号表情需要把头逆时针转 90 度才能看懂，但在 BP 机时代给人们带来了许多快乐，现在仍然有许多人在使用（包括我）。&lt;/p&gt;
 &lt;h3 id=&#34;span-classgithub-emoji-aliastwo-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode0032-20e3pngv82️⃣span-emoji绘文字&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#span-classgithub-emoji-aliastwo-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode0032-20e3pngv82️⃣span-emoji绘文字&#34;&gt;#&lt;/a&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;two&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0032-20e3.png?v8&#34;&gt;2️⃣&lt;/span&gt; &lt;strong&gt;Emoji（绘文字）&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;基于 ASCII 的符号表情所能表达的内容有限，并且输入符号的体验并不是很好。日本移动通讯运营商 NTT DOCOMO 的工程师栗田穣崇在 1999 年设计了一套 12x12 像素的图形化表情。虽然今天我们所用的 emoji 与最初的相比已有了翻天覆地的变化，但都离不开栗田穣崇为 emoji 创造的原始基因。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/md/20210307230335427.jpg&#34; alt=&#34;最早的 emoji 表情&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/md/20210307230335427.jpg&#34; alt=&#34;最早的 emoji 表情&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Emoji 一词并不是栗田穣崇创造出来的，而是日语中早就存在的。大概是江户年代起就有将类似 emoji 的图形符号当做文字来用的历史了。e 是日文汉字「絵」（图画的意思），moji 是「文字」，所以 emoji，也称作绘文字。而 kao 是「颜」（脸的意思），所以 kaomoji 就是颜文字。&lt;/p&gt;
 &lt;p&gt;全世界第一个 Emoji 表情 &lt;span class=&#34;github-emoji&#34; alias=&#34;heart&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8&#34;&gt;❤&lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&#34;span-classgithub-emoji-aliasthree-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode0033-20e3pngv83️⃣span-emoji-统一码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#span-classgithub-emoji-aliasthree-style-fallback-srchttpsgithubgithubassetscomimagesiconsemojiunicode0033-20e3pngv83️⃣span-emoji-统一码&#34;&gt;#&lt;/a&gt; &lt;span class=&#34;github-emoji&#34; alias=&#34;three&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/0033-20e3.png?v8&#34;&gt;3️⃣&lt;/span&gt; &lt;strong&gt;Emoji 统一码&lt;/strong&gt;&lt;/h3&gt;
@@ -514,7 +514,7 @@ things that are NOT jokes, given current trends.  For this, use
 &lt;p&gt;此前 emoji 仅在日本流行，直到 2011 年，苹果在 iPhone 系统中加入一套 Apple Color Emoji 后，emoji 才真正开始火爆，涌入全球用户的屏幕中，成为当今数字通讯中的一种新形式，逐渐成为一门世界通用语言。&lt;/p&gt;
 &lt;p&gt;Emoji 仍在不断发展，Unicode 8.0 就加入了 5 个修饰符，用来调节人形表情的肤色。&lt;/p&gt;
 &lt;p&gt;Unicode 10.0 版本的部分 emoji 编码如下：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/md/20210307230405868.png&#34; alt=&#34;Unicode 10.0 版本的部分 emoji 编码&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/md/20210307230405868.png&#34; alt=&#34;Unicode 10.0 版本的部分 emoji 编码&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;在-markdown-中使用-emoji&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#在-markdown-中使用-emoji&#34;&gt;#&lt;/a&gt; 在 Markdown 中使用 Emoji&lt;/h2&gt;
 &lt;p&gt;&lt;span class=&#34;github-emoji&#34; alias=&#34;star&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/2b50.png?v8&#34;&gt;⭐&lt;/span&gt; 重点：有两种方法可以将 emoji 表情符号添加到 Markdown 文档&lt;/p&gt;
 &lt;ol&gt;
@@ -545,9 +545,9 @@ things that are NOT jokes, given current trends.  For this, use
 &lt;br/&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/markdown/markdown-extended-syntax.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/markdown/markdown-extended-syntax.html</guid>
             <title>了解常用 Markdown 扩展语法</title>
-            <link>https://luhuadong.com/markdown/markdown-extended-syntax.html</link>
+            <link>https://blog.luhuadong.com/markdown/markdown-extended-syntax.html</link>
             <category>Markdown</category>
             <pubDate>Sun, 07 Mar 2021 21:04:54 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;strong&gt;【Markdown 从入门到精通】&lt;/strong&gt;&lt;/p&gt;
@@ -624,9 +624,9 @@ things that are NOT jokes, given current trends.  For this, use
 &lt;br/&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/markdown/markdown-basic-syntax.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/markdown/markdown-basic-syntax.html</guid>
             <title>快速了解 Markdown 基础语法</title>
-            <link>https://luhuadong.com/markdown/markdown-basic-syntax.html</link>
+            <link>https://blog.luhuadong.com/markdown/markdown-basic-syntax.html</link>
             <category>Markdown</category>
             <pubDate>Sun, 07 Mar 2021 17:40:13 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;strong&gt;【Markdown 从入门到精通】&lt;/strong&gt;&lt;/p&gt;
@@ -754,9 +754,9 @@ things that are NOT jokes, given current trends.  For this, use
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/markdown/markdown-editor.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/markdown/markdown-editor.html</guid>
             <title>盘点好用的 Markdown 编辑器</title>
-            <link>https://luhuadong.com/markdown/markdown-editor.html</link>
+            <link>https://blog.luhuadong.com/markdown/markdown-editor.html</link>
             <category>Markdown</category>
             <pubDate>Sun, 07 Mar 2021 13:06:56 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;strong&gt;【Markdown 从入门到精通】&lt;/strong&gt;&lt;/p&gt;
@@ -869,22 +869,22 @@ things that are NOT jokes, given current trends.  For this, use
 &lt;h2 id=&#34;typora&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#typora&#34;&gt;#&lt;/a&gt; Typora&lt;/h2&gt;
 &lt;p&gt;打开 Typora 的官网 &lt;a href=&#34;https://typora.io&#34;&gt;https://typora.io&lt;/a&gt;，点击 Download 标签，对于 Windows 和 macOS 用户，直接下载安装包进行安装即可。对于 Linux 用户稍微复杂一些，比如 Ubuntu 用户可以执行如下命令进行安装或更新。&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;命令行&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# or run:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys BA300B7755AFCFAE&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;wget&lt;/span&gt; &lt;span class=&#34;token parameter variable&#34;&gt;-qO&lt;/span&gt; - https://typora.io/linux/public-key.asc &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;sudo&lt;/span&gt; apt-key &lt;span class=&#34;token function&#34;&gt;add&lt;/span&gt; -&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# add Typora&#39;s repository&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;sudo&lt;/span&gt; add-apt-repository &lt;span class=&#34;token string&#34;&gt;&#39;deb https://typora.io/linux ./&#39;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;sudo&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;apt-get&lt;/span&gt; update&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# install typora&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;sudo&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;apt-get&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; typora&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;Typora 非常简洁，提供流畅的即时预览界面，而不是分栏设计，可以让你在一个屏幕上看到更多内容，甚至忘记自己在写 Markdown。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/md/20210307130330755.png&#34; alt=&#34;在这里插入图片描述&#34; title=&#34;Typora 编辑器&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/md/20210307130330755.png&#34; alt=&#34;在这里插入图片描述&#34; title=&#34;Typora 编辑器&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;vs-code&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vs-code&#34;&gt;#&lt;/a&gt; VS Code&lt;/h2&gt;
 &lt;p&gt;打开 VS Code 的官网 &lt;a href=&#34;https://code.visualstudio.com&#34;&gt;https://code.visualstudio.com&lt;/a&gt; 下载对应平台的安装包，进行安装即可。也可以在系统的应用商店找到，直接安装。&lt;/p&gt;
 &lt;p&gt;唯一值得提醒的是，如何安装 Markdown 插件，并且启动预览界面。&lt;/p&gt;
 &lt;p&gt;点击左侧栏的 Extensions 图标，输入 Markdown 进行搜索。由于 VS Code 支持第三方插件，因此你会看到许多不同的 Markdown 插件，我们安装第一个 Markdown All in One 即可，点击 Install 进行安装。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/md/20210307130354210.png&#34; alt=&#34;在这里插入图片描述&#34; title=&#34;安装 Markdown All in One 插件&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/md/20210307130354210.png&#34; alt=&#34;在这里插入图片描述&#34; title=&#34;安装 Markdown All in One 插件&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;安装完成后打开或新建一个 .md 文档，在编辑区的右上角可以看到几个小按钮，点击中间那个 preview 即可实时预览 Markdown 渲染后的效果。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/md/20210307130407531.png&#34; alt=&#34;在这里插入图片描述&#34; title=&#34;点击中间的 preview 按钮&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/md/20210307130420679.png&#34; alt=&#34;在这里插入图片描述&#34; title=&#34;VS Code 渲染 Markdown 效果&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/md/20210307130407531.png&#34; alt=&#34;在这里插入图片描述&#34; title=&#34;点击中间的 preview 按钮&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/md/20210307130420679.png&#34; alt=&#34;在这里插入图片描述&#34; title=&#34;VS Code 渲染 Markdown 效果&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;好啦，关于 Markdown 编辑器的选择与安装就先到这里了，下一节我们正式开始学习 Markdown 的语法。&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/markdown/markdown-intro.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/markdown/markdown-intro.html</guid>
             <title>三分钟成为 Markdown 专家</title>
-            <link>https://luhuadong.com/markdown/markdown-intro.html</link>
+            <link>https://blog.luhuadong.com/markdown/markdown-intro.html</link>
             <category>Markdown</category>
             <pubDate>Sun, 07 Mar 2021 00:32:03 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;strong&gt;【Markdown 从入门到精通】&lt;/strong&gt;&lt;/p&gt;
@@ -895,17 +895,17 @@ things that are NOT jokes, given current trends.  For this, use
 &lt;li&gt;Markdown 不是什么？&lt;/li&gt;
 &lt;li&gt;为什么使用 Markdown？&lt;/li&gt;
 &lt;/ol&gt;
-&lt;img src=&#34;/images/md/20210304185234809.png&#34; width=200 /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/md/20210304185234809.png&#34; width=200 /&gt;
 &lt;h2 id=&#34;markdown-是什么&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdown-是什么&#34;&gt;#&lt;/a&gt; Markdown 是什么&lt;/h2&gt;
 &lt;p&gt;Markdown 是一种轻量级标记语言。别被「标记语言」这个词吓到，其实就是用一些足够简单的符号作为标记来对文本内容进行修饰。比如像下面这张图，左边就是用 Markdown 进行标记的文本，右边是经过渲染后呈现给用户的效果。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/md/markdown_show.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/md/markdown_show.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Markdown 简史&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/Markdown&#34;&gt;Markdown&lt;/a&gt; 最早在 2004 年由著名科技博客 &lt;a href=&#34;https://daringfireball.net/&#34;&gt;Daring Fireball&lt;/a&gt; 的作者 &lt;a href=&#34;https://daringfireball.net/projects/markdown/&#34;&gt;John Gruber&lt;/a&gt; 所发布，并与 &lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83%E8%8C%A8&#34;&gt;Aaron Swartz&lt;/a&gt;（互联网之子）共同完成语法设计与实现。因此 Markdown 从诞生之初就是为了更方便地进行互联网写作，也许是由于大家受够了 HTML 复杂的标签和糟糕的写作体验，Markdown 很快就在互联网上广泛流传开来。到 2014 年，已经出现了由多种语言编写的数十种 Markdown 实现，造成了许多不同的 Markdown 规范和兼容问题（Markdown-like language）。为了解决该问题，&lt;a href=&#34;jgm@berkeley.edu&#34;&gt;John MacFarlane&lt;/a&gt; 等人成立了 &lt;a href=&#34;https://commonmark.org/&#34;&gt;CommonMark&lt;/a&gt; 项目，旨在为 Markdown 提供一个具体、无歧义的语法规范。从一定程度上来说，CommonMark 已经成为了 Markdown 语法规范的事实标准。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;现在，你知道 Markdown 是什么了吧？&lt;/p&gt;
 &lt;p&gt;Markdown 有两层含义，一是对文本格式的规范性约束（也就是轻量级标签语言）；二是完成 text-to-html 过程的工具（也就是背后默默奉献的 Markdown 解释器，通常集成在 Markdown 编辑器中）。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/md/text-to-html.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/md/text-to-html.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;markdown-不是什么&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdown-不是什么&#34;&gt;#&lt;/a&gt; Markdown 不是什么&lt;/h2&gt;
 &lt;p&gt;随着 Markdown 的流行，有些小伙伴会产生一些误解，为了让大家在真正使用之前对 Markdown 有一个正确的认知。我觉得还是有必要捋一捋 Markdown 不是什么。&lt;/p&gt;
 &lt;p&gt;Markdown 不是用来替代 HTML。虽然 Markdown 的目标是转换成 HTML，但并不是为了取代 HTML。虽然 HTML 的语法复杂、标签繁多，但它已经形成工业标准，有其存在的重要价值。&lt;/p&gt;
@@ -927,9 +927,9 @@ things that are NOT jokes, given current trends.  For this, use
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/markdown/csdn-markdown.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/markdown/csdn-markdown.html</guid>
             <title>CSDN 博客的 Markdown 语法</title>
-            <link>https://luhuadong.com/markdown/csdn-markdown.html</link>
+            <link>https://blog.luhuadong.com/markdown/csdn-markdown.html</link>
             <category>Markdown</category>
             <pubDate>Thu, 16 May 2019 17:27:58 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;ul class=&#34;toc&#34;&gt;
@@ -1007,7 +1007,7 @@ things that are NOT jokes, given current trends.  For this, use
 &lt;p&gt;2&lt;sup&gt;10&lt;/sup&gt; 运算结果是 1024.&lt;/p&gt;
 &lt;figure class=&#34;highlight markdown&#34;&gt;&lt;figcaption data-lang=&#34;markdown&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token italic&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;token content&#34;&gt;强调文本&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;*&lt;/span&gt;&lt;/span&gt; &lt;span class=&#34;token italic&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;_&lt;/span&gt;&lt;span class=&#34;token content&#34;&gt;强调文本&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;_&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token bold&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;**&lt;/span&gt;&lt;span class=&#34;token content&#34;&gt;加粗文本&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;**&lt;/span&gt;&lt;/span&gt; &lt;span class=&#34;token bold&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;__&lt;/span&gt;&lt;span class=&#34;token content&#34;&gt;加粗文本&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;__&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;==标记文本==&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token strike&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;~~&lt;/span&gt;&lt;span class=&#34;token content&#34;&gt;删除文本&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;~~&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token blockquote punctuation&#34;&gt;&gt;&lt;/span&gt; 引用文本&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;H&lt;span class=&#34;token strike&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;~&lt;/span&gt;&lt;span class=&#34;token content&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;~&lt;/span&gt;&lt;/span&gt;O is是液体。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;2^10^ 运算结果是 1024.&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;插入链接与图片&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#插入链接与图片&#34;&gt;#&lt;/a&gt; 插入链接与图片&lt;/h2&gt;
 &lt;p&gt;链接: &lt;a href=&#34;https://mp.csdn.net&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;图片: &lt;img src=&#34;/images/md/13e682841f7171467bfc801dc99269bb.png&#34; alt=&#34;Alt&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;图片: &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/md/13e682841f7171467bfc801dc99269bb.png&#34; alt=&#34;Alt&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;当然，我们为了让用户更加便捷，我们增加了图片拖拽功能。&lt;/p&gt;
 &lt;figure class=&#34;highlight markdown&#34;&gt;&lt;figcaption data-lang=&#34;markdown&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;链接: &lt;span class=&#34;token url&#34;&gt;[&lt;span class=&#34;token content&#34;&gt;link&lt;/span&gt;](&lt;span class=&#34;token url&#34;&gt;https://mp.csdn.net&lt;/span&gt;)&lt;/span&gt;.&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;图片: &lt;span class=&#34;token url&#34;&gt;&lt;span class=&#34;token operator&#34;&gt;!&lt;/span&gt;[&lt;span class=&#34;token content&#34;&gt;Alt&lt;/span&gt;](&lt;span class=&#34;token url&#34;&gt;https://avatar.csdn.net/7/7/B/1_ralf_hx163com.jpg&lt;/span&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;带尺寸的图片: ![Alt](https://avatar.csdn.net/7/7/B/1_ralf_hx163com.jpg =30x30)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;居中的图片: &lt;span class=&#34;token url&#34;&gt;&lt;span class=&#34;token operator&#34;&gt;!&lt;/span&gt;[&lt;span class=&#34;token content&#34;&gt;Alt&lt;/span&gt;](&lt;span class=&#34;token url&#34;&gt;https://avatar.csdn.net/7/7/B/1_ralf_hx163com.jpg#pic_center&lt;/span&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;居中并且带尺寸的图片: ![Alt](https://avatar.csdn.net/7/7/B/1_ralf_hx163com.jpg#pic_center =30x30)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;如何插入一段漂亮的代码片&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#如何插入一段漂亮的代码片&#34;&gt;#&lt;/a&gt; 如何插入一段漂亮的代码片&lt;/h2&gt;
 &lt;p&gt;去&lt;a href=&#34;https://mp.csdn.net/configure&#34;&gt;博客设置&lt;/a&gt;页面，选择一款你喜欢的代码片高亮样式，下面展示同样高亮的  &lt;code&gt;代码片&lt;/code&gt; .&lt;/p&gt;

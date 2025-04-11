@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>成为自由人 • Posts by &#34;比赛 &amp; 活动&#34; category</title>
-        <link>https://luhuadong.com</link>
+        <link>https://blog.luhuadong.com</link>
         <description>阿基米东的成长笔记</description>
         <language>zh-CN</language>
         <pubDate>Mon, 18 Jul 2022 15:04:11 +0800</pubDate>
@@ -13,15 +13,15 @@
         <category>商业</category>
         <category>创业</category>
         <category>摄影</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
@@ -38,8 +38,8 @@
         <category>自律</category>
         <category>思维模型</category>
         <category>健康</category>
-        <category>Hexo</category>
         <category>徒步</category>
+        <category>Hexo</category>
         <category>家居</category>
         <category>科普</category>
         <category>环保</category>
@@ -70,9 +70,9 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
+        <category>地铁</category>
         <category>股票</category>
         <category>理财</category>
         <category>保险</category>
@@ -105,14 +105,14 @@
         <category>零废弃</category>
         <category>低碳</category>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/contest/aws-serverless-for-good-2022.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/contest/aws-serverless-for-good-2022.html</guid>
             <title>亚马逊 Serverless For Good - 2022 编程挑战赛</title>
-            <link>https://luhuadong.com/contest/aws-serverless-for-good-2022.html</link>
+            <link>https://blog.luhuadong.com/contest/aws-serverless-for-good-2022.html</link>
             <category>创客</category>
             <category>比赛</category>
             <category>科技向善</category>
             <pubDate>Mon, 18 Jul 2022 15:04:11 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/contest/aws-serverless-for-good-2022.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/contest/aws-serverless-for-good-2022.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;大赛简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#大赛简介&#34;&gt;#&lt;/a&gt; 大赛简介&lt;/h2&gt;
 &lt;p&gt;能源与气候危机愈演愈烈之下，可持续发展成为全球共识。互联网自然不能置身事外。技术人，如何用手中的一行行代码，守护 “绿色” 星球，让人类社会更加美好。充分利用 Serverless（无服务器）是减少能源消耗、践行低碳绝佳的方式之一。&lt;/p&gt;
 &lt;p&gt;Serverless 是一种云原生开发模型，能够让应用在远程托管的执行环境中按需运行，无需维护操作系统，从而提高资源利用率、降低成本、加速创新。&lt;/p&gt;
@@ -151,14 +151,14 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/contest/seeed-iot-in-the-wild-2022.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/contest/seeed-iot-in-the-wild-2022.html</guid>
             <title>矽递科技 IoT Into the Wild 大赛 2022</title>
-            <link>https://luhuadong.com/contest/seeed-iot-in-the-wild-2022.html</link>
+            <link>https://blog.luhuadong.com/contest/seeed-iot-in-the-wild-2022.html</link>
             <category>创客</category>
             <category>比赛</category>
             <category>科技向善</category>
             <pubDate>Wed, 08 Jun 2022 15:31:03 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/contest/iot-in-the-wild-2022-01.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/contest/iot-in-the-wild-2022-01.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;大赛介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#大赛介绍&#34;&gt;#&lt;/a&gt; 大赛介绍&lt;/h2&gt;
 &lt;p&gt;由 Seeed 联合社区伙伴在 Hakster 上发起的：IoT Into the Wild 大赛今天正式上线！欢迎参与！&lt;/p&gt;
 &lt;p&gt;赛程安排：&lt;/p&gt;
@@ -171,7 +171,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;五大挑战&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#五大挑战&#34;&gt;#&lt;/a&gt; 五大挑战&lt;/h2&gt;
 &lt;p&gt;In this Contest, you can focus on making easy-to-deploy AIoT solutions that can contribute to tackling any of the following Challenges or challenge topics. There are 5 Challenges in total, among which you can freely choose to concentrate on topics of one Challenge or combine several Challenges that are specified in this Contest. &lt;strong&gt;Make sure to mention the specific Challenge and challenge topics in your project submission.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/contest/iot-in-the-wild-2022-03.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/contest/iot-in-the-wild-2022-03.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Challenge 1: Climate Crisis Prevention/Mitigation&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Global warming&lt;/li&gt;
@@ -209,7 +209,7 @@
 &lt;li&gt;Sustainable food supply chain management&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;赛事合作方&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#赛事合作方&#34;&gt;#&lt;/a&gt; 赛事合作方&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;/images/contest/iot-in-the-wild-2022-04.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/contest/iot-in-the-wild-2022-04.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;相关链接&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#相关链接&#34;&gt;#&lt;/a&gt; 相关链接&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.hackster.io/contests/iotinthewild&#34;&gt;https://www.hackster.io/contests/iotinthewild&lt;/a&gt;&lt;/li&gt;
@@ -217,13 +217,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/contest/rt-thread-lvgl-gui-2022.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/contest/rt-thread-lvgl-gui-2022.html</guid>
             <title>RT-Thread + LVGL 嵌入式 GUI 挑战赛 2022</title>
-            <link>https://luhuadong.com/contest/rt-thread-lvgl-gui-2022.html</link>
+            <link>https://blog.luhuadong.com/contest/rt-thread-lvgl-gui-2022.html</link>
             <category>创客</category>
             <category>比赛</category>
             <pubDate>Wed, 04 May 2022 07:32:31 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/contest/rt-thread-lvgl-gui-2022.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/contest/rt-thread-lvgl-gui-2022.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;大赛介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#大赛介绍&#34;&gt;#&lt;/a&gt; 大赛介绍&lt;/h2&gt;
 &lt;p&gt;RT-Thread 社区联合 LVGL 社区及合作伙伴新唐科技、意法半导体、NXP 半导体正式开启嵌入式 GUI 挑战赛。&lt;/p&gt;
 &lt;p&gt;赛程安排：&lt;/p&gt;
@@ -248,13 +248,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/contest/stm32-maker-faire-2020.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/contest/stm32-maker-faire-2020.html</guid>
             <title>2020 STM32 创客秀大赛</title>
-            <link>https://luhuadong.com/contest/stm32-maker-faire-2020.html</link>
+            <link>https://blog.luhuadong.com/contest/stm32-maker-faire-2020.html</link>
             <category>创客</category>
             <category>比赛</category>
             <pubDate>Fri, 20 Nov 2020 23:42:19 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/contest/stm32-maker-faire-2020.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/contest/stm32-maker-faire-2020.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;第一次参加 STM32 创客秀，选了自由组，最终闯入了决赛，去了一趟上海，拿了个二等奖。也认识了很多创客伙伴，见了一些认识好久的网友，还是挺奇妙的！&lt;/p&gt;
 &lt;h2 id=&#34;作品介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#作品介绍&#34;&gt;#&lt;/a&gt; 作品介绍&lt;/h2&gt;
 &lt;p&gt;基于 STM32 和 RT-Thread 实现的空气质量监测设备，搭配 Web 服务端和微信小程序，可实现数据存储、分析，实时查看。&lt;/p&gt;
@@ -274,12 +274,12 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/contest/eetree-funpack.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/contest/eetree-funpack.html</guid>
             <title>Funpack 一起免费玩转开发板</title>
-            <link>https://luhuadong.com/contest/eetree-funpack.html</link>
+            <link>https://blog.luhuadong.com/contest/eetree-funpack.html</link>
             <category>创客</category>
             <pubDate>Thu, 01 Oct 2020 23:31:49 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/contest/funpack-banner-2-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/contest/funpack-banner-2-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Funpack 是 &lt;a href=&#34;https://class.eetree.cn/&#34;&gt;硬禾学堂&lt;/a&gt; 和 &lt;a href=&#34;https://getiot.tech/dictionary/digikey&#34;&gt;得捷电子&lt;/a&gt; 联合推出的开发板评测活动，通过在指定时间内完成任务，一起玩转开发板，并获得与板卡等额的现金奖励。&lt;/p&gt;
 &lt;p&gt;Funpack 第一期在 2020 年 9 月 1 日发布，板卡是一款基于 STM32MP1 系列通用处理器的单板计算机 —— 来自 Seeed 科技的 &lt;a href=&#34;https://wiki.seeedstudio.com/ODYSSEY-STM32MP157C/&#34;&gt;ODYSSEY – STM32MP157C&lt;/a&gt; 开发板。为期一个月，鼓励参与者将项目开源、编写教程，以及拍摄演示视频。获得参与者的一致好评，我已经参加&lt;a href=&#34;https://space.bilibili.com/410684166/channel/seriesdetail?sid=454009&#34;&gt;好多期&lt;/a&gt;了！&lt;/p&gt;
 &lt;p&gt;目前已经进行到第三季啦，点击&lt;a href=&#34;https://www.eetree.cn/page/digikey-funpack&#34;&gt;这里&lt;/a&gt;可以了解更多关于 Funpack 活动的信息。&lt;/p&gt;
@@ -317,13 +317,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/contest/rt-thread-application-innovation-2020.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/contest/rt-thread-application-innovation-2020.html</guid>
             <title>RT-Thread 应用创新设计大赛 2020</title>
-            <link>https://luhuadong.com/contest/rt-thread-application-innovation-2020.html</link>
+            <link>https://blog.luhuadong.com/contest/rt-thread-application-innovation-2020.html</link>
             <category>创客</category>
             <category>比赛</category>
             <pubDate>Wed, 01 Apr 2020 23:55:48 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/contest/rt-thread-2020-banner.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/contest/rt-thread-2020-banner.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;大赛要求&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#大赛要求&#34;&gt;#&lt;/a&gt; 大赛要求&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;开发者基于 RT-Thread 开发物联网创新型应用或者终端产品。&lt;/li&gt;

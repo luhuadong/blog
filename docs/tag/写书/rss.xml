@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>成为自由人 • Posts by &#34;写书&#34; tag</title>
-        <link>https://luhuadong.com</link>
+        <link>https://blog.luhuadong.com</link>
         <description>阿基米东的成长笔记</description>
         <language>zh-CN</language>
         <pubDate>Fri, 29 Jan 2021 19:33:45 +0800</pubDate>
@@ -13,15 +13,15 @@
         <category>商业</category>
         <category>创业</category>
         <category>摄影</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
@@ -38,8 +38,8 @@
         <category>自律</category>
         <category>思维模型</category>
         <category>健康</category>
-        <category>Hexo</category>
         <category>徒步</category>
+        <category>Hexo</category>
         <category>家居</category>
         <category>科普</category>
         <category>环保</category>
@@ -70,9 +70,9 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
+        <category>地铁</category>
         <category>股票</category>
         <category>理财</category>
         <category>保险</category>
@@ -105,13 +105,13 @@
         <category>零废弃</category>
         <category>低碳</category>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/20210129.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/journal/20210129.html</guid>
             <title>《开源指北》之我和开源的故事</title>
-            <link>https://luhuadong.com/journal/20210129.html</link>
+            <link>https://blog.luhuadong.com/journal/20210129.html</link>
             <category>开源</category>
             <category>写书</category>
             <pubDate>Fri, 29 Jan 2021 19:33:45 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/journal/20210129192536884.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20210129192536884.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;【开源指北 1.0 发布】和你做过最酷的事，就是一起「写书」&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;去年参加的《&lt;a href=&#34;https://gitee.com/opensource-guide&#34;&gt;开源指北&lt;/a&gt;》编写计划最近正式发布啦！&lt;/p&gt;
 &lt;p&gt;我大概是最早加入该项目的非官方成员之一，因为我几乎每天都会登陆 Gitee 网站，在去年十月中旬就看到该项目的招募计划，然后就领取了第一章第一节的编写任务 —— &lt;a href=&#34;https://gitee.com/gitee-community/opensource-guide/issues/I1TTMC&#34;&gt;初识开源： 什么是开源？&lt;/a&gt;，接下来两个月里又陆陆续续补充了其他章节的内容。（文章末尾看到「阿基米东」的就是啦～）&lt;/p&gt;
@@ -125,11 +125,11 @@
 &lt;p&gt;说回这个《开源指北》，是一个不错的项目！项目背景是在动荡的国际形势通过开源软件的方式增强中国基础软件的实力，因此在开源中国和开放原子基金会的支持下，以开源的形式编写一份给开源新手的保姆级开源百科，并以在线文档的形式对外开放阅读和持续迭代。&lt;/p&gt;
 &lt;p&gt;虽说我早已是自由和开源软件的忠实拥趸，但真的写书的时候才感到压力，于是我又重新阅读相关书籍和网络资料，希望写出来的东西是正确、严谨，并且有趣的。&lt;/p&gt;
 &lt;p&gt;说实话，教比学更难，也更有趣！我在这个过程中，学到了不少东西，比如加深了对开源软件概念、开源社区治理、组织架构、开源软件商业化的理解，也认识到了一些有趣的贡献者、扩充了知识面。更有趣的是，《开源指北》项目本身就是以这种形式在进行，还在上大学的时候，我就曾无数次想象用开源方式写书这件事情。我觉得教科书是最应该采用开源形式持续维护的，以集体贡献、公开的评审的方式决定教科书的内容，教给孩子们正确的知识、培养孩子们独立思考、合作分享的能力。&lt;/p&gt;
-&lt;img src=&#34;/images/journal/20210129193115151.jpg&#34; width=&#34;600&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20210129193115151.jpg&#34; width=&#34;600&#34; /&gt;
 &lt;p&gt;前面说了，我接触电脑很晚，学习编程更晚。不过我觉得幸运的是，我接触电脑不久就进入了 Linux 的世界，学习编程不久就学会了 Git 魔法工具。最近 5 年，我已经将 Ubuntu 变成了我的主力系统，将 Git 相关工具变成的我的资料库，加上各种 SaaS 云服务，能帮助我在不断成长的同时保持轻装上阵，而不是处处受限。这也是我常常建议大家，无论是否是开发者，都应该了解开源软件和开源协作方式的原因。&lt;/p&gt;
 &lt;p&gt;世界上有两种知识，一种是你知道的，一种是你知道在哪里能找到的。在现代分工如此精细的社会框架下，许多时候我们都是站在前人的肩膀上前进，这时候你知道在哪里能找到你想要的东西的能力就变得很重要了！而这恰恰是 Linux 哲学和开源协作模式能给我们带来的。懂的人，将会变得越来越厉害。&lt;/p&gt;
 &lt;p&gt;希望这份保姆级的《&lt;a href=&#34;https://gitee.com/opensource-guide&#34;&gt;开源指北&lt;/a&gt;》能带你进入一个新的世界！释放你的创造力～&lt;/p&gt;
-&lt;img src=&#34;/images/journal/20210129193133537.png&#34; width=&#34;400&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20210129193133537.png&#34; width=&#34;400&#34; /&gt;
  ]]></description>
         </item>
     </channel>

@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://luhuadong.com</id>
+    <id>https://blog.luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;自由&#34; tag</title>
-    <link href="https://luhuadong.com" />
+    <link href="https://blog.luhuadong.com" />
     <updated>2021-03-05T17:43:41.000Z</updated>
     <category term="名言" />
     <category term="奋斗" />
@@ -10,15 +10,15 @@
     <category term="商业" />
     <category term="创业" />
     <category term="摄影" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
@@ -35,8 +35,8 @@
     <category term="自律" />
     <category term="思维模型" />
     <category term="健康" />
-    <category term="Hexo" />
     <category term="徒步" />
+    <category term="Hexo" />
     <category term="家居" />
     <category term="科普" />
     <category term="环保" />
@@ -67,9 +67,9 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
+    <category term="地铁" />
     <category term="股票" />
     <category term="理财" />
     <category term="保险" />
@@ -102,9 +102,9 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/movies/The-Story-of-Aaron-Swartz.html</id>
+        <id>https://blog.luhuadong.com/movies/The-Story-of-Aaron-Swartz.html</id>
         <title>【纪录片】互联网之子（Aaron Swartz）</title>
-        <link rel="alternate" href="https://luhuadong.com/movies/The-Story-of-Aaron-Swartz.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/movies/The-Story-of-Aaron-Swartz.html"/>
         <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=16549975&amp;bvid=BV1rx411V75r&amp;cid=26994578&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 </content>
         <category term="互联网" />
@@ -113,9 +113,9 @@
         <updated>2021-03-05T17:43:41.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/movies/revolution-os.html</id>
+        <id>https://blog.luhuadong.com/movies/revolution-os.html</id>
         <title>【纪录片】操作系统革命（Revolution OS）</title>
-        <link rel="alternate" href="https://luhuadong.com/movies/revolution-os.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/movies/revolution-os.html"/>
         <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=796140504&amp;bvid=BV1iC4y187nT&amp;cid=235560964&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;非常经典的有关自由软件运动的纪录片&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.revolution-os.com&#34;&gt;http://www.revolution-os.com&lt;/a&gt;&lt;/p&gt;
@@ -126,9 +126,9 @@
         <updated>2020-06-17T06:43:59.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/movies/patent-absurdity.html</id>
+        <id>https://blog.luhuadong.com/movies/patent-absurdity.html</id>
         <title>【纪录片】软件专利的荒谬性（Patent Absurdity）</title>
-        <link rel="alternate" href="https://luhuadong.com/movies/patent-absurdity.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/movies/patent-absurdity.html"/>
         <content type="html">&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=15221360&amp;bvid=BV1sx411u7qy&amp;cid=24774214&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;官网：&lt;a href=&#34;http://patentabsurdity.com/watch.html&#34;&gt;http://patentabsurdity.com/watch.html&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -149,9 +149,9 @@
         <updated>2020-04-05T06:36:34.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/movies/dead-poets-society.html</id>
+        <id>https://blog.luhuadong.com/movies/dead-poets-society.html</id>
         <title>【电影】死亡诗社（Dead Poets Society）</title>
-        <link rel="alternate" href="https://luhuadong.com/movies/dead-poets-society.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/movies/dead-poets-society.html"/>
         <content type="html">&lt;h2 id=&#34;电影简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#电影简介&#34;&gt;#&lt;/a&gt; 电影简介&lt;/h2&gt;
 &lt;p&gt;《死亡诗社》是美国 1989 年上映的一部剧情电影，影片展示了关于守旧与创新、现实与浪漫、新人与老人两股势力的较量。每次看都会勾起我心中的波澜，反思现在的生活，变得有力量。&lt;/p&gt;
 &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=10112142&amp;bvid=BV1rx411U7xi&amp;cid=16708703&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;

@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://luhuadong.com</id>
+    <id>https://blog.luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;英语短文&#34; tag</title>
-    <link href="https://luhuadong.com" />
+    <link href="https://blog.luhuadong.com" />
     <updated>2024-02-02T20:04:19.000Z</updated>
     <category term="名言" />
     <category term="奋斗" />
@@ -10,15 +10,15 @@
     <category term="商业" />
     <category term="创业" />
     <category term="摄影" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
@@ -35,8 +35,8 @@
     <category term="自律" />
     <category term="思维模型" />
     <category term="健康" />
-    <category term="Hexo" />
     <category term="徒步" />
+    <category term="Hexo" />
     <category term="家居" />
     <category term="科普" />
     <category term="环保" />
@@ -67,9 +67,9 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
+    <category term="地铁" />
     <category term="股票" />
     <category term="理财" />
     <category term="保险" />
@@ -102,10 +102,10 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/english/life-is-a-short-journey.html</id>
+        <id>https://blog.luhuadong.com/english/life-is-a-short-journey.html</id>
         <title>【英语短文】Life is a short journey</title>
-        <link rel="alternate" href="https://luhuadong.com/english/life-is-a-short-journey.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/journal/20240203-205516.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/english/life-is-a-short-journey.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20240203-205516.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;原文&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#原文&#34;&gt;#&lt;/a&gt; 原文&lt;/h2&gt;
 &lt;p&gt;You work 8 hours to live 4.&lt;/p&gt;
 &lt;p&gt;You work 6 days to enjoy 1.&lt;/p&gt;
@@ -131,9 +131,9 @@
         <updated>2024-02-02T20:04:19.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/english/time-is-priceless.html</id>
+        <id>https://blog.luhuadong.com/english/time-is-priceless.html</id>
         <title>时间是免费的，也是无价的（英文）</title>
-        <link rel="alternate" href="https://luhuadong.com/english/time-is-priceless.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/english/time-is-priceless.html"/>
         <content type="html">&lt;div class=&#34;tab&#34; data-id=&#34;id2&#34; data-title=&#34;英文&#34;&gt;
 &lt;p&gt;What&#39;s the biggest mistake we make in life?&lt;/p&gt;
 &lt;p&gt;The answer is you think you have time.&lt;/p&gt;
@@ -160,9 +160,9 @@
         <updated>2023-10-14T14:26:41.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/english/how-do-people-get-destroyed.html</id>
+        <id>https://blog.luhuadong.com/english/how-do-people-get-destroyed.html</id>
         <title>人是怎么废掉的（英文）</title>
-        <link rel="alternate" href="https://luhuadong.com/english/how-do-people-get-destroyed.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/english/how-do-people-get-destroyed.html"/>
         <content type="html">&lt;div class=&#34;tab&#34; data-id=&#34;id2&#34; data-title=&#34;英文&#34;&gt;
 &lt;div class=&#34;note danger no-icon&#34;&gt;
 &lt;p&gt;&lt;strong&gt;How do people get destroyed?&lt;/strong&gt;&lt;/p&gt;
@@ -202,10 +202,10 @@
         <updated>2023-10-12T16:59:16.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/english/essay-grow-great-by-dreams.html</id>
+        <id>https://blog.luhuadong.com/english/essay-grow-great-by-dreams.html</id>
         <title>因梦想而伟大（Grow Great by Dreams）</title>
-        <link rel="alternate" href="https://luhuadong.com/english/essay-grow-great-by-dreams.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/english/Woodrow-Wilson-Quote-We-grow-great-by-dreams-All-big-men-are.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/english/essay-grow-great-by-dreams.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/english/Woodrow-Wilson-Quote-We-grow-great-by-dreams-All-big-men-are.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;The question was once asked of a highly successful businessman, &amp;quot;How have you done so much in your lifetime?&amp;quot;&lt;/p&gt;
 &lt;p&gt;He replied, &amp;quot;I have dreamed. I have turned my mind loose to imagine what I wanted to do. Then I have gone to bed and thought about my dreams. In the night I dreamt about my dreams. And when I awoke in the morning, I saw the way to make my dreams real. While other people were saying, &#39;You can&#39;t do that, it is impossible,&#39; I was well on my way to achieving what I wanted.&amp;quot; As Woodrow Wilson, 28th President of the U.S., said: &amp;quot;We grow great by dreams. All big men are dreamers.&amp;quot;&lt;/p&gt;
 &lt;p&gt;They see things in the soft haze of a spring day, or in the red fire on a long winter&#39;s evening. Some of us let these dreams die, but others nourish and protect them; nourish them through bad days until they bring them to the sunshine and light which comes always to those who sincerely hope that their dreams will come true.&lt;/p&gt;
@@ -217,16 +217,16 @@
 &lt;p&gt;他们在春天的薄雾或冬夜的篝火里辨清事物。我们有些人让梦想消失，但有些人却培养、保护它们；在生命低潮时仍然培养它们直到看到太阳和光明，而这些只属于那些真诚希望实现梦想的人们。&lt;/p&gt;
 &lt;p&gt;所以，请不要让别人偷走你的梦想，或者让他们对你说梦想太遥不可及。&lt;/p&gt;
 &lt;p&gt;“唱你的歌，做你的梦，给你的希望以希望，给你的祈祷以祈祷。”&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/english/your_dreams_are_calling_you.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/english/your_dreams_are_calling_you.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="英语短文" />
         <updated>2023-04-28T13:08:44.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/english/Do-You-Know-My-Work.html</id>
+        <id>https://blog.luhuadong.com/english/Do-You-Know-My-Work.html</id>
         <title>【英语短文】Do You Know My Work?</title>
-        <link rel="alternate" href="https://luhuadong.com/english/Do-You-Know-My-Work.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/english/5330466-ca67995160e3bade.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/english/Do-You-Know-My-Work.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/english/5330466-ca67995160e3bade.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;原文&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#原文&#34;&gt;#&lt;/a&gt; 原文&lt;/h2&gt;
 &lt;p&gt;One night a hotel caught fire, and the people who were staying in it ran out in their night clothes.&lt;/p&gt;
 &lt;p&gt;Two men stood outside and looked at the fire.&lt;/p&gt;
@@ -250,10 +250,10 @@
         <updated>2017-04-23T08:07:09.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/english/Good-News-and-Bad-News.html</id>
+        <id>https://blog.luhuadong.com/english/Good-News-and-Bad-News.html</id>
         <title>【英语短文】Good News and Bad News</title>
-        <link rel="alternate" href="https://luhuadong.com/english/Good-News-and-Bad-News.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/english/5330466-3124174d11fb3404.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/english/Good-News-and-Bad-News.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/english/5330466-3124174d11fb3404.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;原文&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#原文&#34;&gt;#&lt;/a&gt; 原文&lt;/h2&gt;
 &lt;p&gt;An artist asked the gallery owner if there had been any interest in his paintings currently on display.&lt;/p&gt;
 &lt;p&gt;&amp;quot;I&#39;ve got good news and bad news.&amp;quot; the owner replied.&lt;/p&gt;
@@ -276,10 +276,10 @@
         <updated>2017-04-23T07:45:30.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/english/Why-is-He-Howling.html</id>
+        <id>https://blog.luhuadong.com/english/Why-is-He-Howling.html</id>
         <title>【英语短文】Why is He Howling</title>
-        <link rel="alternate" href="https://luhuadong.com/english/Why-is-He-Howling.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/english/5330466-fce3ca819a884a67.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/english/Why-is-He-Howling.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/english/5330466-fce3ca819a884a67.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;原文&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#原文&#34;&gt;#&lt;/a&gt; 原文&lt;/h2&gt;
 &lt;p&gt;Dentist: Please stop howling. I haven&#39;t even touched your tooth yet.&lt;/p&gt;
 &lt;p&gt;Patient: I know, but you are standing on my foot !&lt;/p&gt;
@@ -303,10 +303,10 @@
         <updated>2017-04-23T07:28:13.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/english/Roses-for-My-Wife.html</id>
+        <id>https://blog.luhuadong.com/english/Roses-for-My-Wife.html</id>
         <title>【英语短文】Roses for My Wife</title>
-        <link rel="alternate" href="https://luhuadong.com/english/Roses-for-My-Wife.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/english/5330466-f627560b9003bad7.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/english/Roses-for-My-Wife.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/english/5330466-f627560b9003bad7.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;原文&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#原文&#34;&gt;#&lt;/a&gt; 原文&lt;/h2&gt;
 &lt;p&gt;On the way home one night, I spotted some fresh-cut roses outside a florist&#39;s shop. After selecting a dozen and entering the shop, I was greeted by a young saleswoman.&lt;/p&gt;
 &lt;p&gt;&amp;quot;Are these for your wife, sir?&amp;quot; she asked.&lt;/p&gt;
@@ -338,10 +338,10 @@
         <updated>2017-04-23T07:15:12.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/english/The-First-Day-as-a-Taxi-Driver.html</id>
+        <id>https://blog.luhuadong.com/english/The-First-Day-as-a-Taxi-Driver.html</id>
         <title>【英语短文】The First Day as a Taxi Driver</title>
-        <link rel="alternate" href="https://luhuadong.com/english/The-First-Day-as-a-Taxi-Driver.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/english/5330466-97bba3c9b3c751c7.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/english/The-First-Day-as-a-Taxi-Driver.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/english/5330466-97bba3c9b3c751c7.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;原文&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#原文&#34;&gt;#&lt;/a&gt; 原文&lt;/h2&gt;
 &lt;p&gt;A taxi passenger tapped the driver on the  shoulder to ask him a question. The driver screamed, lost control of the car, nearly hit a bus, went up on the footpath, and stopped centimertres from a shop window.&lt;/p&gt;
 &lt;p&gt;The driver said, &amp;quot;Look, mate, don&#39;t ever do that again. You scared the daylights out of me!&amp;quot; The passenger apologized and said, &amp;quot;I didn&#39;t realize that a little tap would scare you so much.&amp;quot; The driver replied, &amp;quot;Sorry, it&#39;s not really your fault. Today is my first day as a cab driver. I&#39;ve been driving a funeral van for the last 25 years.&amp;quot;&lt;/p&gt;
@@ -359,10 +359,10 @@
         <updated>2017-04-04T03:08:40.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/english/Which-Woman.html</id>
+        <id>https://blog.luhuadong.com/english/Which-Woman.html</id>
         <title>【英语短文】Which Woman</title>
-        <link rel="alternate" href="https://luhuadong.com/english/Which-Woman.html"/>
-        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/english/5330466-0c5da467b03ee2e7.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://blog.luhuadong.com/english/Which-Woman.html"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/english/5330466-0c5da467b03ee2e7.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;原文&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#原文&#34;&gt;#&lt;/a&gt; 原文&lt;/h2&gt;
 &lt;p&gt;One evening I drove my husband&#39;s car to the shopping mall.&lt;/p&gt;
 &lt;p&gt;On my return, I noticed that how dusty the outside of his car was and cleaned it up a bit. when I finally entered the house, I called out, &amp;quot;The woman who loves you the most in the world just cleaned your headlights and windshield.&amp;quot;&lt;/p&gt;

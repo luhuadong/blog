@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>成为自由人 • Posts by &#34;程序员&#34; tag</title>
-        <link>https://luhuadong.com</link>
+        <link>https://blog.luhuadong.com</link>
         <description>阿基米东的成长笔记</description>
         <language>zh-CN</language>
         <pubDate>Fri, 28 Oct 2022 15:26:07 +0800</pubDate>
@@ -13,15 +13,15 @@
         <category>商业</category>
         <category>创业</category>
         <category>摄影</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
@@ -38,8 +38,8 @@
         <category>自律</category>
         <category>思维模型</category>
         <category>健康</category>
-        <category>Hexo</category>
         <category>徒步</category>
+        <category>Hexo</category>
         <category>家居</category>
         <category>科普</category>
         <category>环保</category>
@@ -70,9 +70,9 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
+        <category>地铁</category>
         <category>股票</category>
         <category>理财</category>
         <category>保险</category>
@@ -105,9 +105,9 @@
         <category>零废弃</category>
         <category>低碳</category>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/interviewer-s-trouble.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/interviewer-s-trouble.html</guid>
             <title>面试官的烦恼：可持续的优秀团队</title>
-            <link>https://luhuadong.com/career/interviewer-s-trouble.html</link>
+            <link>https://blog.luhuadong.com/career/interviewer-s-trouble.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Fri, 28 Oct 2022 15:26:07 +0800</pubDate>
@@ -136,16 +136,16 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/20220712.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/journal/20220712.html</guid>
             <title>成为 LVGL 贡献者了</title>
-            <link>https://luhuadong.com/journal/20220712.html</link>
+            <link>https://blog.luhuadong.com/journal/20220712.html</link>
             <category>程序员</category>
             <category>开源</category>
             <category>日记</category>
             <pubDate>Tue, 12 Jul 2022 19:33:50 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;今天在折腾&lt;a href=&#34;https://www.nuvoton.com&#34;&gt;新唐科技&lt;/a&gt;（nuvoTon）提供的 &lt;a href=&#34;https://getiot.tech/numaker/numaker-hmi-n9h30-intro.html&#34;&gt;NuMaker-HMI-N9H30&lt;/a&gt; 开发板时，准备编译 RT-Thread 的 BSP 包，添加了 LVGL 软件包，下载了交叉编译工具链...... 一顿操作猛如虎，结果出现了好一些 Bug！比如下面这个：&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;命令行&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;CC packages/LVGL-latest/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.o&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;packages/LVGL-latest/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c:5:10: fatal error: lvgl/lvgl.h: No such &lt;span class=&#34;token function&#34;&gt;file&lt;/span&gt; or directory&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; &lt;span class=&#34;token comment&#34;&gt;#include &#34;lvgl/lvgl.h&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;          ^~~~~~~~~~~~~&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;compilation terminated.&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;跟着查了代码，发现头文件确实没处理好，于是顺手修复了 Bug 并且提交了合并请求（&lt;a href=&#34;https://github.com/lvgl/lvgl/pull/3477&#34;&gt;PR #3477&lt;/a&gt;）。几个小时后，&lt;a href=&#34;https://github.com/lvgl/lvgl&#34;&gt;LVGL&lt;/a&gt; 项目的创始人 &lt;a href=&#34;https://github.com/kisvegabor&#34;&gt;Gabor Kiss-Vamosi&lt;/a&gt; 合并了我的提交，开心！就这样，我成为了 LVGL 开源项目的第 263 位贡献者。&lt;/p&gt;
-&lt;img src=&#34;/images/journal/20220712_lvgl_contributor.png&#34; width=800 /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/20220712_lvgl_contributor.png&#34; width=800 /&gt;
 &lt;p&gt;后来，我又发现了 RT-Thread 软件包中的一个 Bug，居然隐藏了 LVGL 的版本选择，导致 NuMaker-HMI-N9H30 没法使用 BSP 包中要求的 v8.2.0 版本。于是，我又顺手修复了 Bug 并且向 RT-Thread 的 &lt;a href=&#34;https://github.com/RT-Thread/packages&#34;&gt;packages&lt;/a&gt; 仓库提交了合并请求（&lt;a href=&#34;https://github.com/RT-Thread/packages/pull/1300&#34;&gt;PR #1300&lt;/a&gt;）。&lt;/p&gt;
 &lt;p&gt;软件工程是一项很细致的工作，稍不注意或者考虑不周，很容易就产生 Bug。虽然这两个 Bug 都是小问题，但是如果初学者碰到了，就会很疑惑 —— 开源软件怎么这么多 bug？也不知道怎么解决，然后可能就不用了。&lt;/p&gt;
 &lt;p&gt;看到 Bug 尽量修复，是一名开源软件工程师的基本修养！希望开源生态越来越好啦～&lt;/p&gt;
@@ -157,20 +157,20 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/how-to-be-a-good-mentor.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/how-to-be-a-good-mentor.html</guid>
             <title>如何做好职场导师，帮助新人成长</title>
-            <link>https://luhuadong.com/career/how-to-be-a-good-mentor.html</link>
+            <link>https://blog.luhuadong.com/career/how-to-be-a-good-mentor.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Sat, 09 Jul 2022 08:18:25 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/career/mentor-cover-01.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/career/mentor-cover-01.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;故事背景&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#故事背景&#34;&gt;#&lt;/a&gt; 故事背景&lt;/h2&gt;
 &lt;p&gt;最近我在职场上的角色有些变化，以前都是作为最底层的程序员，完成别人指派的工作（被摁在地上摩擦）。现在其实也是程序员，也要写代码，不过多了其他一些任务和职责。其中一个任务就是作为新人（应届生）的导师，制定培养计划，帮助他们顺利进入职场，为公司发光发热。一开始我是拒绝的，因为最近真的有点忙，而且我社恐。。。其实吧，在以前的公司也带过应届生，不过是平级的关系，也不用制定培养计划，跟着做项目就行了，做不好就骂。但是现在变成了上下级的关系，其实我内心挺忐忑的，要是把人家小朋友骂跑了或者带坏了怎么办？而且这事又很难体现在我的绩效上面，毕竟赚钱要紧呀。&lt;/p&gt;
 &lt;p&gt;后来跟我的上级聊，跟我的朋友聊，我才开始慢慢接受了这个任务。在过去很长一段时间里，我一直处于成长和学习的状态，我感觉自己还需要别人赋能帮助我实现我的想法，而不是我为别人赋能。不过上周五项目阶段性复盘的时候，看到大家把我写在了 “最感谢的人” 一栏，还是挺意外的，原来我也能这么轻易地为别人赋能，帮助大家更高效地完成工作。我的朋友说：“很多优秀的架构师、优秀的 Team Leader、优秀的 Mentor 差不多就是 30 岁这个年纪冒出来的，你要勇敢地接受这个挑战！”&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/career/mentor-cover-02.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/career/mentor-cover-02.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;故事发展&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#故事发展&#34;&gt;#&lt;/a&gt; 故事发展&lt;/h2&gt;
 &lt;p&gt;现在，应届生已经入职一周了。上周公司举办了一个简单的拜师仪式，还要导师们为他们每个人选一本书，手写一张卡片作为见面礼，老尴尬了。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/career/Asensing_20220705.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/career/Asensing_20220705.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;新人来到部门的第一天，我组织了一个会议，介绍了我们事业部的情况以及现在做的产品，系统的架构以及用到的一些技术。同时了解了一下他们的基本情况，以便于制定未来六个月试用期的工作目标和培养计划。然后临时给了一些资料和学习任务，让新同学这几天先学习一下。&lt;/p&gt;
 &lt;p&gt;其实我现在还有点不适应，一方面感觉新人还是有点拘谨，我还要想办法搞好关系，这并不是我擅长的。另一方面感觉学校培养的毕业生水平还是暂时无法满足企业的用人需求，所以要非常认真地去对待他们的培养计划。可能是因为在开源社区和创客圈混久了，看到很多优秀的 95 后甚至 00 后，我以为现在的年轻人应该都很有想法、有目标、有强劲的学习动力，现在看来应该还是少数吧。&lt;/p&gt;
 &lt;p&gt;如果在 20 多岁的时候就能找到了自己热爱的事物，其实已经领先一大步了。&lt;/p&gt;
@@ -211,9 +211,9 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/remote-companies.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/remote-companies.html</guid>
             <title>支持远程办公的公司</title>
-            <link>https://luhuadong.com/career/remote-companies.html</link>
+            <link>https://blog.luhuadong.com/career/remote-companies.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Thu, 09 Jun 2022 14:13:12 +0800</pubDate>
@@ -322,9 +322,9 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/reading/soft-skills.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/reading/soft-skills.html</guid>
             <title>《软技能——代码之外的生存指南》读书笔记</title>
-            <link>https://luhuadong.com/reading/soft-skills.html</link>
+            <link>https://blog.luhuadong.com/reading/soft-skills.html</link>
             <category>程序员</category>
             <category>读书笔记</category>
             <pubDate>Tue, 10 May 2022 09:12:45 +0800</pubDate>
@@ -369,7 +369,7 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
 &lt;p&gt;（未完待续）&lt;/p&gt;
 &lt;h2 id=&#34;学习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习&#34;&gt;#&lt;/a&gt; 学习&lt;/h2&gt;
 &lt;h3 id=&#34;十步学习法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#十步学习法&#34;&gt;#&lt;/a&gt; 十步学习法&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;/images/reading/%E5%8D%81%E6%AD%A5%E5%AD%A6%E4%B9%A0%E6%B3%95.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/reading/%E5%8D%81%E6%AD%A5%E5%AD%A6%E4%B9%A0%E6%B3%95.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;更多 &amp;gt;&amp;gt; &lt;a href=&#34;https://luhuadong.com/reading/soft-skills.html&#34;&gt;十步学习法（学习 - 实践 - 掌握 - 教授）&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;生产力&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生产力&#34;&gt;#&lt;/a&gt; 生产力&lt;/h2&gt;
 &lt;p&gt;（未完待续）&lt;/p&gt;
@@ -382,15 +382,15 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/the-three-most-dangerous-concepts-of-career.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/the-three-most-dangerous-concepts-of-career.html</guid>
             <title>最危害程序员职业生涯的三大观念</title>
-            <link>https://luhuadong.com/career/the-three-most-dangerous-concepts-of-career.html</link>
+            <link>https://blog.luhuadong.com/career/the-three-most-dangerous-concepts-of-career.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Mon, 23 Mar 2020 18:48:08 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;蓦然回首自己做软件开发这个行业已经十年了，这十年中我获得了很多，技术能力、培训、出国、大公司的经历，还有很多很好的朋友。但再仔细一想，这十年中我至少浪费了五年时间，这五年可以足够让自己成长为一个优秀的程序员，可惜我错过了，我用这五年时间和很多程序员一样在困惑和迷茫中找不到出路！&lt;/p&gt;
 &lt;p&gt;路其实一直都在那里，只是我们看不到而已！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/career/20200323184559651.jpg&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/career/20200323184559651.jpg&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;以前我一直被公司和技术牵着走，并不是自己在选择技术，而是不自觉地被推到了这个位置上。想想有多少人对于自己将来要从事的职业和技术类型进行过深入思考和比较呢？当我跳出编码后，我开始思考和程序及程序员职业生涯相关的问题，最后发现，影响我们走入今天的困局的竟然是一些我们常常挂在嘴边的话（观念）。今天，就为大家指出这几个重要的可能是你已经习以为常的观念，希望大家深入的思考一下这些观念对你的危害。如果你还年轻，刚从事软件开发这行没多久，也希望指出这些问题能让你跳过一些误区，不要像我一样多浪费五年时间。&lt;/p&gt;
 &lt;h2 id=&#34;观念一-别管我我只想一个人安静地写代码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#观念一-别管我我只想一个人安静地写代码&#34;&gt;#&lt;/a&gt; 观念一： “别管我，我只想一个人安静地写代码！”&lt;/h2&gt;
 &lt;p&gt;是不是每天想安安静静地写代码时，IM 窗口或者 Email 总会不合时宜地弹出各种提示，一会要开会啦一会要讨论需求了，再一会测试又来和你理论 Bug 了。世界这么喧嚣，还让不让人安静地写代码了？“别管我，我只想一个人安静地写代码”，这句话道出了多少程序员的心声啊，我们都想 “静静”！不过今天我要告诉你，这种想法是多么的错误，并且严重影响了你职来生涯的发展。&lt;/p&gt;
@@ -431,13 +431,13 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/programmers-law-of-survival.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/programmers-law-of-survival.html</guid>
             <title>程序员生存定律</title>
-            <link>https://luhuadong.com/career/programmers-law-of-survival.html</link>
+            <link>https://blog.luhuadong.com/career/programmers-law-of-survival.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Tue, 22 Oct 2019 18:23:45 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/career/hello-world.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/career/hello-world.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;声明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#声明&#34;&gt;#&lt;/a&gt; 声明&lt;/h2&gt;
 &lt;p&gt;本文由「理想流」原创，本人整理后重新发布，版权归原作者所有。另外，我已把完整的 PDF 文档放在百度网盘，有需要的小伙伴可以下载。&lt;/p&gt;
 &lt;p&gt;链接: &lt;a href=&#34;https://pan.baidu.com/s/1n8cEXY3UuNeNMlxhhCdNiA&#34;&gt;https://pan.baidu.com/s/1n8cEXY3UuNeNMlxhhCdNiA&lt;/a&gt; 提取码:  &lt;code&gt;8mry&lt;/code&gt;&lt;/p&gt;
@@ -2404,7 +2404,7 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
 &lt;p&gt;我比较真诚的希望要入行或者入行不久的人用点心思读读这书，绝对会赚回你读它的时间，我自己一边写也常一边感叹，这事要早点明白就好了。&lt;/p&gt;
 &lt;p&gt;对于程序员而言，过去这二十年其实是好几代人，求伯君他们是一代，任正非的华为等是一代，马云、马化腾、李彦宏的 BAT 是一代，移动互联网又是一代。之所以说他们是一代是因为他们都分别的经历了自己的高速成长期，对程序员而言赶上没赶上这个高速成长期，结果完全不同。而我碰到的人里面有华为前一百号员工，但早早离开的，有莫名其妙从比较牛的外企出来加入了一个叫百度的鸟公司，接下来百度上市，一下子拉开和辛苦奋斗的群众的距离的。这人生还真是很奇妙的，而要想增加抓住这类机会的几率，无疑的要解决好内功和选择的问题，谁能说这问题不重要呢？&lt;/p&gt;
 &lt;p&gt;再接下来会把这个书做个 pdf 版出来，方便大家阅读，请稍后。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/career/come-on.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/career/come-on.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;hr class=&#34;footnotes-sep&#34; /&gt;
 &lt;section class=&#34;footnotes&#34;&gt;
 &lt;ol class=&#34;footnotes-list&#34;&gt;
@@ -2417,9 +2417,9 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/2019-new-it-careers.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/2019-new-it-careers.html</guid>
             <title>2019年新增13个新型工程技术人员职业</title>
-            <link>https://luhuadong.com/career/2019-new-it-careers.html</link>
+            <link>https://blog.luhuadong.com/career/2019-new-it-careers.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Mon, 13 May 2019 22:35:42 +0800</pubDate>
@@ -2573,9 +2573,9 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/dont-kill-self-career.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/dont-kill-self-career.html</guid>
             <title>大龄码农是如何把自己逼死的</title>
-            <link>https://luhuadong.com/career/dont-kill-self-career.html</link>
+            <link>https://blog.luhuadong.com/career/dont-kill-self-career.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Thu, 10 Jan 2019 18:11:46 +0800</pubDate>
@@ -2613,9 +2613,9 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/how-to-prevent-programmers-from-getting-bored-with-work.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/how-to-prevent-programmers-from-getting-bored-with-work.html</guid>
             <title>如何让你的程序员不要厌倦工作</title>
-            <link>https://luhuadong.com/career/how-to-prevent-programmers-from-getting-bored-with-work.html</link>
+            <link>https://blog.luhuadong.com/career/how-to-prevent-programmers-from-getting-bored-with-work.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Wed, 10 Oct 2018 15:09:01 +0800</pubDate>
@@ -2683,9 +2683,9 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/workplace-notes-for-programmers.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/workplace-notes-for-programmers.html</guid>
             <title>程序员职场须知</title>
-            <link>https://luhuadong.com/career/workplace-notes-for-programmers.html</link>
+            <link>https://blog.luhuadong.com/career/workplace-notes-for-programmers.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Sat, 22 Sep 2018 18:12:55 +0800</pubDate>
@@ -2706,9 +2706,9 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/the-right-way-to-take-it-training.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/the-right-way-to-take-it-training.html</guid>
             <title>参加IT培训的正确心态</title>
-            <link>https://luhuadong.com/career/the-right-way-to-take-it-training.html</link>
+            <link>https://blog.luhuadong.com/career/the-right-way-to-take-it-training.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Wed, 17 Jan 2018 15:46:22 +0800</pubDate>
@@ -2747,13 +2747,13 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
 &lt;/ul&gt;
 &lt;h2 id=&#34;后记&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#后记&#34;&gt;#&lt;/a&gt; 后记&lt;/h2&gt;
 &lt;p&gt;与其整天考虑该不该参加 IT 培训，该不该当程序员，不如好好了解自己，想想怎么提升自己的能力，提升自己的认知水平，努力完善自己，创造美好的东西。否则，当了程序员又怎么样？&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../images/career/coding.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../images/career/coding.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/be-a-successful-embedded-system-engineer.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/be-a-successful-embedded-system-engineer.html</guid>
             <title>做个成功的嵌入式系统工程师</title>
-            <link>https://luhuadong.com/career/be-a-successful-embedded-system-engineer.html</link>
+            <link>https://blog.luhuadong.com/career/be-a-successful-embedded-system-engineer.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Thu, 12 Oct 2017 17:11:33 +0800</pubDate>
@@ -2792,22 +2792,22 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/journal/20170612.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/journal/20170612.html</guid>
             <title>从高考到程序员——我一直在寻找答案</title>
-            <link>https://luhuadong.com/journal/20170612.html</link>
+            <link>https://blog.luhuadong.com/journal/20170612.html</link>
             <category>程序员</category>
             <category>总结</category>
             <pubDate>Mon, 12 Jun 2017 01:18:22 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;我曾是少年&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#我曾是少年&#34;&gt;#&lt;/a&gt; 我曾是少年&lt;/h2&gt;
 &lt;p&gt;我从小生活在小乡镇上，除了课本，一台电视机和外公出船带回来的二手书就是我了解世界的所有途径。外婆年轻的时候在合作社当过会计，所以小学四年级以前的数学都是她给我辅导的，每天晚上她还会给我削好第二天要用的铅笔。长大一点之后我可以独自出门了，我的世界也开始变大了。镇上没有图书馆，只有寥寥可数的几家店有书卖，大多数也是辅导类书籍，我和一个朋友就经常到那几家店看书，因为只看不买，被赶走也是经常发生的事情。但有一家店从来不赶我们走，店主阿姨允许我们看书，就这样我在她那里看了很多课外书，比如：十万个为什么、上下五千年、孙子兵法等等，还有一些关于国家地理、恐龙、太空、动漫等等的书籍。多年以后回想起来，这些经历确实对我的世界观、人生观、价值观造成了影响。&lt;/p&gt;
 &lt;p&gt;如果说小学、初中的我是老师心目中标准的好学生，高中的我就是一个另类的学生。我觉得我是喜欢学习知识这个过程，而不是为了追求成绩或奖励（那时候也确实没有人会给我奖励），所以一直以来没有太看重考试成绩。因为镇上没有高中，直到初中三年级我才知道原来要准备考高中，于是不小心考上了我们市里最好的高中。高中的一切对于我来说实在太新奇了，那里有标准的 400 米跑道、有图书馆、有学生社团...... 简直就是 “刘姥姥进大观园”。总的来说，高中生活还是挺美好。但是我不习惯晚自习，因为教室的灯光会影响我的视力，简直是如坐针毡的感觉。那时候真的很佩服一些同学能坚持一整晚的自习，接着周末还要参加补习班。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/journal/d01ca2c1f646d098ca5f63c84c28e89b.png&#34; alt=&#34;这里写图片描述&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/d01ca2c1f646d098ca5f63c84c28e89b.png&#34; alt=&#34;这里写图片描述&#34; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;图 1. 我的高中 —— 瑞峰书院&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;在高中学到了很多东西，因为想在校运会上拿奖牌而开始练习长跑；学会了打篮球和排球；加入了动漫社，设计了班徽和八十周年校庆的 Logo；加入了班主任的兴趣小组，玩了把电烙铁和一些电子元器件，第一次听到 “单片机” 这个词；几乎没使用过电脑的我，第一次上机写 VB 程序，写得头晕目眩；因为对化学实验感兴趣，曾花了两周时间去实验室养硫酸铜晶体（可漂亮呢，可惜我当时的手机不能拍照）；还写过一篇《人类不需要国家》的文章，不过当时老师同学们似乎不感兴趣（这篇文章并没有反动的意味，而是论述为什么会出现国家，没有国家的形态社会能否有条不紊地运转下去等论点，有点共产主义的味道吧，后来发现有些观点跟易中天、尤瓦尔・赫拉利他们的观点还挺相似的）。&lt;/p&gt;
 &lt;p&gt;是的，正如你所见，对很多家长来说，我就是不务正业，根本就没有把心思花在学习上。有一次阶段考试成绩很差，刚好打球弄伤脚了，那是我爸第一次骂我，他说 “花那么多时间去打球，以后能靠打球吃饭吗？你看你现在的成绩有多差，以后别打球了！” 所以后来我还是随大流，进入高考备考状态了。整个高中生涯，班里五十多名学生，我考过第一名，也考过四十多名。其实除了语文和英语一直没有质的提高之外，其他学科的成绩都挺好的，所以在选文理科的时候还纠结过，我想这也是高考制度不合理的一个地方吧。高考有多苦，每一个经历过的人都知道！那么，我就苦中作乐吧！我喜欢把高考当成一场游戏，我们要做的就是了解规则，清楚自己的处境，了解自己的优缺点，然后制定策略，争取多拿积分。既然是游戏，那么控制权就不在我们手里，也不会完全公平公正。想明白了这点之后，我也不用过于执着了。我还是比较喜欢随性一些，后来想参加奥赛，就选了当时最喜欢的生物和化学，因为不是从高一开始就加入奥赛班，所以后来我只能厚着脸皮进去听课，当然也不招人待见，毕竟是插班生也是竞争对手嘛。功夫不负有心人，后来的结果也是挺好的。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/journal/b16bbe30c61bdaff75eba766b2e41270.png&#34; alt=&#34;这里写图片描述&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/b16bbe30c61bdaff75eba766b2e41270.png&#34; alt=&#34;这里写图片描述&#34; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;图 2. 高中时期为数不多的奖项&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2819,7 +2819,7 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
 &lt;p&gt;大学还是在五彩缤纷的生活中带点考试周的紧张和间歇性的迷茫中度过。在电子协会的时候，我开始跟着师兄和郭天祥的教材玩 51 单片机，跟着书上过了一遍实验，也焊过一些电路板。后来和几个同学组队参加一些科技竞赛，比如电子设计大赛、飞思卡尔智能汽车比赛，然而连校内选拔都没通过，更别说获奖了。反倒是在学校内部的各种比赛（比如阳光长跑、医疗知识、环保知识、漫画设计、广告设计... 之类）中拿了不少的奖项，这使我一度怀疑自己是不是不适合搞技术。&lt;/p&gt;
 &lt;p&gt;至于职业规划，其实那时候并没有想太多，我们专业的同学很多是奔着供电局的铁饭碗去的。我一来不感兴趣，二来没有关系，结合当时研究硬件比较多，也跟着我们专业的教授做过一些项目，想着毕业后也许会找一份画 PCB 的工作，或者做体育文化产业去了。&lt;/p&gt;
 &lt;p&gt;是的，你没看错，是体育文化产业。上面提到，我那时候是橄榄球协会的会长，平常要招新、组织训练、参加比赛，偶尔还要客串当裁判（后来考了裁判员证，成为了国内早期的一批橄榄球裁判员）。因为这项运动被很多人误解，所以招新进度很慢，甚至有些时候是在比赛开场前才凑够人数的。我们打的是 7 人橄榄球赛，正常来说，橄榄球队需要进攻组、防守组和特勤组，而我们有好几场比赛都只有 7 名队员，也就是说我们不能受伤，也不需要攻防轮转...... 那段时期压力真的好大，还好最后我们坚持下来了，有更多的学生加入我们的队伍。后面也一起参加了很多比赛，当然，受伤是不可避免的，但是不能打败你的，只会让你变得更强。总的来说，我觉得橄榄球挺好玩的，而且也很适合中国人玩。上几张图吧：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/journal/ca6f0d99907c2a33597fcc847b77fd0b.png&#34; alt=&#34;这里写图片描述&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/ca6f0d99907c2a33597fcc847b77fd0b.png&#34; alt=&#34;这里写图片描述&#34; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;图 3. 橄榄球协会时期&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2871,16 +2871,16 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
 理直气壮地活着&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;祝愿大家都能找到自己的人生答案！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/journal/5b78d37a55c0ead7b724bf1fc7c213f7.png&#34; alt=&#34;这里写图片描述&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/5b78d37a55c0ead7b724bf1fc7c213f7.png&#34; alt=&#34;这里写图片描述&#34; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;图 4. 勇往直前&lt;/p&gt;
 &lt;/blockquote&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/my-open-source-journey.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/my-open-source-journey.html</guid>
             <title>我的开源之旅</title>
-            <link>https://luhuadong.com/career/my-open-source-journey.html</link>
+            <link>https://blog.luhuadong.com/career/my-open-source-journey.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Thu, 27 Oct 2016 18:58:00 +0800</pubDate>
@@ -2901,9 +2901,9 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/the-transformation-of-embedded-engineers-under-iot.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/the-transformation-of-embedded-engineers-under-iot.html</guid>
             <title>论物联网浪潮下嵌入式工程师的转型</title>
-            <link>https://luhuadong.com/career/the-transformation-of-embedded-engineers-under-iot.html</link>
+            <link>https://blog.luhuadong.com/career/the-transformation-of-embedded-engineers-under-iot.html</link>
             <category>程序员</category>
             <category>职场</category>
             <category>物联网</category>
@@ -2921,9 +2921,9 @@ LVGL 是一个免费的开源嵌入式图形库，它提供创建嵌入式 GUI �
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/career/the-importance-of-knowledge-management.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/career/the-importance-of-knowledge-management.html</guid>
             <title>知识管理的重要性</title>
-            <link>https://luhuadong.com/career/the-importance-of-knowledge-management.html</link>
+            <link>https://blog.luhuadong.com/career/the-importance-of-knowledge-management.html</link>
             <category>程序员</category>
             <category>职场</category>
             <pubDate>Sun, 25 Sep 2016 00:14:03 +0800</pubDate>

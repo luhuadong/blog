@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>成为自由人 • Posts by &#34;股票&#34; tag</title>
-        <link>https://luhuadong.com</link>
+        <link>https://blog.luhuadong.com</link>
         <description>阿基米东的成长笔记</description>
         <language>zh-CN</language>
         <pubDate>Mon, 11 Nov 2024 23:52:48 +0800</pubDate>
@@ -13,15 +13,15 @@
         <category>商业</category>
         <category>创业</category>
         <category>摄影</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
@@ -38,8 +38,8 @@
         <category>自律</category>
         <category>思维模型</category>
         <category>健康</category>
-        <category>Hexo</category>
         <category>徒步</category>
+        <category>Hexo</category>
         <category>家居</category>
         <category>科普</category>
         <category>环保</category>
@@ -70,9 +70,9 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
+        <category>地铁</category>
         <category>股票</category>
         <category>理财</category>
         <category>保险</category>
@@ -105,9 +105,9 @@
         <category>零废弃</category>
         <category>低碳</category>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/money/stock-investment-strategy-swing-trading.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/money/stock-investment-strategy-swing-trading.html</guid>
             <title>股票交易策略：做T</title>
-            <link>https://luhuadong.com/money/stock-investment-strategy-swing-trading.html</link>
+            <link>https://blog.luhuadong.com/money/stock-investment-strategy-swing-trading.html</link>
             <category>股票</category>
             <category>理财</category>
             <pubDate>Mon, 11 Nov 2024 23:52:48 +0800</pubDate>
@@ -142,10 +142,10 @@
 &lt;p&gt;做 T 时不宜投入过多资金，以免因判断失误造成较大损失。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;:::tip&lt;/p&gt;
+&lt;div class=&#34;note default&#34;&gt;
 &lt;p&gt;MACD（指数平滑异同移动平均线）是由 Gerald Appel 在 1979 年提出的一种趋势跟踪的动量指标。&lt;/p&gt;
 &lt;p&gt;KDJ（随机指标）是一个用于分析市场短期趋势的技术指标。KDJ 反映了价格变化的强度，超买和超卖的信号。但在剧烈波动的市场中，KDJ 不一定有效。&lt;/p&gt;
-&lt;p&gt;:::&lt;/p&gt;
+&lt;/div&gt;
 &lt;h2 id=&#34;做-t-的风险&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#做-t-的风险&#34;&gt;#&lt;/a&gt; 做 T 的风险&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -191,13 +191,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/money/exchange-or-over-the-counter.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/money/exchange-or-over-the-counter.html</guid>
             <title>场内交易和场外交易是什么意思？有什么区别？</title>
-            <link>https://luhuadong.com/money/exchange-or-over-the-counter.html</link>
+            <link>https://blog.luhuadong.com/money/exchange-or-over-the-counter.html</link>
             <category>股票</category>
             <category>理财</category>
             <pubDate>Tue, 23 Jul 2024 18:31:35 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/money/exchange-or-over-the-counter-banner.png&#34; alt=&#34;场内交易和场外交易&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/exchange-or-over-the-counter-banner.png&#34; alt=&#34;场内交易和场外交易&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;最近有朋友问我，在支付宝上买入基金和通过证券账户买入基金有什么不一样？在支付宝上操作就挺方便的，为什么还要这么麻烦开通证券账户呢？&lt;/p&gt;
 &lt;p&gt;这其实呀，就是场内交易和场外交易的区别。&lt;/p&gt;
 &lt;h2 id=&#34;场内交易&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#场内交易&#34;&gt;#&lt;/a&gt; 场内交易&lt;/h2&gt;
@@ -252,13 +252,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/money/primary-and-secondary-market.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/money/primary-and-secondary-market.html</guid>
             <title>一级市场和二级市场是什么意思？有什么区别？</title>
-            <link>https://luhuadong.com/money/primary-and-secondary-market.html</link>
+            <link>https://blog.luhuadong.com/money/primary-and-secondary-market.html</link>
             <category>股票</category>
             <category>理财</category>
             <pubDate>Thu, 18 Jul 2024 16:10:00 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/money/primary-market-and-secondary-market.png&#34; alt=&#34;一级市场和二级市场&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/primary-market-and-secondary-market.png&#34; alt=&#34;一级市场和二级市场&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;基本概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基本概念&#34;&gt;#&lt;/a&gt; 基本概念&lt;/h2&gt;
 &lt;p&gt;首先，我们要先明确一下 “市场” 的概念。一般来说，市场就是发生交易的地方，比如说菜市场就是可以买卖蔬果肉蛋奶的地方。那我们这里讲的 “市场” 其实就是指金融市场，金融市场是一个总称，它包括了经营货币资金借款、外汇买卖、有价证券交易、债券和股票的发行、黄金等贵金属买卖场所。&lt;/p&gt;
 &lt;p&gt;我们还经常听到 “股票市场”、“证券交易市场” 等名称，但这些都不够准确，它们是一个更狭窄的概念。除此之外，还有外汇市场、黄金市场、债权市场等等。实际上，股票交易的市场已经是二级市场了，因为它是发生在投资人和投资人之间的交易。下面我们详细介绍一级市场和二级市场的概念和区别。&lt;/p&gt;
@@ -287,9 +287,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/money/price-earning-ratio.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/money/price-earning-ratio.html</guid>
             <title>【股票】市盈率估值法</title>
-            <link>https://luhuadong.com/money/price-earning-ratio.html</link>
+            <link>https://blog.luhuadong.com/money/price-earning-ratio.html</link>
             <category>股票</category>
             <category>理财</category>
             <pubDate>Mon, 23 Jan 2023 01:03:18 +0800</pubDate>
@@ -310,7 +310,7 @@
 &lt;p&gt;&lt;strong&gt;所以你可以把市盈率理解为「回本期限」，假设一家企业的盈利水平不变，一笔投资需要多少年能收回成本。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;由于市盈率计算起来特别方便，理解起来也不难，所以成为大家快速评估公司价值的流行方法。&lt;/p&gt;
 &lt;p&gt;一些行情软件和财经网站都会提供市盈率的信息，我们可以很方便地查到。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/money/%E5%B8%82%E7%9B%88%E7%8E%87%E7%A4%BA%E4%BE%8B.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/%E5%B8%82%E7%9B%88%E7%8E%87%E7%A4%BA%E4%BE%8B.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;（数据来源：雪球，统计时间：2020-03-16）&lt;/p&gt;
 &lt;h2 id=&#34;三种市盈率&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#三种市盈率&#34;&gt;#&lt;/a&gt; 三种市盈率&lt;/h2&gt;
 &lt;p&gt;在具体查找的时候，我们通常会看到 3 种不同的市盈率：&lt;strong&gt;静态市盈率&lt;/strong&gt;、&lt;strong&gt;滚动市盈率&lt;/strong&gt;（TTM）和&lt;strong&gt;动态市盈率&lt;/strong&gt;。&lt;/p&gt;
@@ -340,15 +340,15 @@
 &lt;p&gt;假如一家公司当前市盈率低于平均水平，股价相对低估；市盈率高于平均水平，则说明股价高估。&lt;/p&gt;
 &lt;p&gt;【实际案例】&lt;/p&gt;
 &lt;p&gt;还是以贵州茅台为例，它当前的市盈率是 32 倍左右，而它最近 5 年的平均市盈率是 27 倍左右，当前市盈率，略高于平均水平，股价略微高估。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/money/%E5%B8%82%E7%9B%88%E7%8E%87%E7%A4%BA%E4%BE%8B2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/%E5%B8%82%E7%9B%88%E7%8E%87%E7%A4%BA%E4%BE%8B2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;（数据来源：亿牛网，统计时间：2015-2020 年）&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2）横向比较&lt;/strong&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/money/advice-for-upcoming-stock-trading.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/money/advice-for-upcoming-stock-trading.html</guid>
             <title>送给即将入市股民的忠告</title>
-            <link>https://luhuadong.com/money/advice-for-upcoming-stock-trading.html</link>
+            <link>https://blog.luhuadong.com/money/advice-for-upcoming-stock-trading.html</link>
             <category>股票</category>
             <category>理财</category>
             <pubDate>Mon, 23 Jan 2023 00:07:22 +0800</pubDate>
@@ -374,17 +374,17 @@
 &lt;li&gt;&lt;strong&gt;慢&lt;/strong&gt;：傲慢。是否曾经抓到一两个涨停板或者做顺了几个单子就傲慢？&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;淡定地看待涨跌，涨就等卖点，跌就等买点。心态和节奏不对的时候，请停止操作，休息一阵子，不操作就不会损失。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/money/stock-trading-mentality.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/stock-trading-mentality.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/money/stock-market-basic-knowledge.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/money/stock-market-basic-knowledge.html</guid>
             <title>股票入门基础知识</title>
-            <link>https://luhuadong.com/money/stock-market-basic-knowledge.html</link>
+            <link>https://blog.luhuadong.com/money/stock-market-basic-knowledge.html</link>
             <category>股票</category>
             <category>理财</category>
             <pubDate>Sun, 22 Jan 2023 22:49:59 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/money/stock.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/stock.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;股票是什么&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#股票是什么&#34;&gt;#&lt;/a&gt; 股票是什么&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;股票&lt;/strong&gt;（stock）又称为 &lt;strong&gt;资本存货&lt;/strong&gt;（capital stock），是股份有限公司在筹集资本时向出资人发行的股份凭证。&lt;/p&gt;
 &lt;p&gt;发行股票的原因是该股份公司需要筹集长期资金，以进行研发、生产、市场推广或扩大经营等生产活动。因此将股票发给投资者作为公司资本的部分&lt;strong&gt;所有权凭证&lt;/strong&gt;，拥有股票的人即为&lt;strong&gt;股东&lt;/strong&gt;，可以此获得&lt;strong&gt;股利&lt;/strong&gt;（股票股利）或 / 且&lt;strong&gt;股息&lt;/strong&gt;（现金股利），并分享公司成长或交易市场波动带来的利润；但也要共同承担公司运作错误所带来的风险。&lt;/p&gt;

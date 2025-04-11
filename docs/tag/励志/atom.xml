@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://luhuadong.com</id>
+    <id>https://blog.luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;励志&#34; tag</title>
-    <link href="https://luhuadong.com" />
+    <link href="https://blog.luhuadong.com" />
     <updated>2024-07-22T05:54:53.000Z</updated>
     <category term="名言" />
     <category term="奋斗" />
@@ -10,15 +10,15 @@
     <category term="商业" />
     <category term="创业" />
     <category term="摄影" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
@@ -35,8 +35,8 @@
     <category term="自律" />
     <category term="思维模型" />
     <category term="健康" />
-    <category term="Hexo" />
     <category term="徒步" />
+    <category term="Hexo" />
     <category term="家居" />
     <category term="科普" />
     <category term="环保" />
@@ -67,9 +67,9 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
+    <category term="地铁" />
     <category term="股票" />
     <category term="理财" />
     <category term="保险" />
@@ -102,9 +102,9 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/movies/rudy-1993.html</id>
+        <id>https://blog.luhuadong.com/movies/rudy-1993.html</id>
         <title>【电影】追梦赤子心（Rudy）</title>
-        <link rel="alternate" href="https://luhuadong.com/movies/rudy-1993.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/movies/rudy-1993.html"/>
         <content type="html">&lt;p&gt;电影《追梦赤子心》的英文原名是《Rudy》，该影片改编自丹尼尔・鲁迪的真人真事。鲁迪全家都对橄榄球赛非常狂热，也是圣母大学队的忠实拥护者。高中毕业本想去圣母大学的鲁迪却因为成绩不好而放弃，毕业后进入了钢铁厂工作。22 岁生日，好友送了他一件印有圣母大学字样的外套，并鼓励他去实现自己的梦想。好友在钢铁厂的意外死亡打击了鲁迪，他抛下了本已谈婚论嫁的女友，踏上了前往圣母大学的火车。进入大学以后，他学习、锻炼都格外刻苦，凭借顽强的斗志，被教练选入了校队的替补阵营，但他一直没有机会上场比赛。 终于在一场重要比赛的关键时刻替补出场，帮助球队拿下了比赛。出现在现场的父母和家人也兴奋不已。&lt;/p&gt;
 &lt;iframe src=&#34;//player.bilibili.com/player.html?isOutside=true&amp;aid=25845646&amp;bvid=BV1ns411579V&amp;cid=44169549&amp;p=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 </content>
@@ -113,9 +113,9 @@
         <updated>2024-07-22T05:54:53.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/speech/grit-the-power-of-passion-and-perseverance.html</id>
+        <id>https://blog.luhuadong.com/speech/grit-the-power-of-passion-and-perseverance.html</id>
         <title>【TED】坚韧不拔：激情和毅力的力量</title>
-        <link rel="alternate" href="https://luhuadong.com/speech/grit-the-power-of-passion-and-perseverance.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/speech/grit-the-power-of-passion-and-perseverance.html"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;演讲题目：Grit: The power of passion and perseverance&lt;/li&gt;
 &lt;li&gt;演讲者：Angela Lee Duckworth&lt;/li&gt;
@@ -134,9 +134,9 @@
         <updated>2023-03-02T04:56:58.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/speech/steve-jobs-2005-stanford-commencement-speech.html</id>
+        <id>https://blog.luhuadong.com/speech/steve-jobs-2005-stanford-commencement-speech.html</id>
         <title>乔布斯：斯坦福大学 2005 毕业演讲</title>
-        <link rel="alternate" href="https://luhuadong.com/speech/steve-jobs-2005-stanford-commencement-speech.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/speech/steve-jobs-2005-stanford-commencement-speech.html"/>
         <content type="html">&lt;h2 id=&#34;演讲视频&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#演讲视频&#34;&gt;#&lt;/a&gt; 演讲视频&lt;/h2&gt;
 &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=17203668&amp;bvid=BV1oW411h7Ea&amp;cid=28116082&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;演讲全文&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#演讲全文&#34;&gt;#&lt;/a&gt; 演讲全文&lt;/h2&gt;

@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>成为自由人 • Posts by &#34;气象爱好者&#34; tag</title>
-        <link>https://luhuadong.com</link>
+        <link>https://blog.luhuadong.com</link>
         <description>阿基米东的成长笔记</description>
         <language>zh-CN</language>
         <pubDate>Mon, 07 Oct 2019 15:26:39 +0800</pubDate>
@@ -13,15 +13,15 @@
         <category>商业</category>
         <category>创业</category>
         <category>摄影</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
@@ -38,8 +38,8 @@
         <category>自律</category>
         <category>思维模型</category>
         <category>健康</category>
-        <category>Hexo</category>
         <category>徒步</category>
+        <category>Hexo</category>
         <category>家居</category>
         <category>科普</category>
         <category>环保</category>
@@ -70,9 +70,9 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
+        <category>地铁</category>
         <category>股票</category>
         <category>理财</category>
         <category>保险</category>
@@ -105,9 +105,9 @@
         <category>零废弃</category>
         <category>低碳</category>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/geography/meteorology-basic.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/geography/meteorology-basic.html</guid>
             <title>【科普】气象基础知识</title>
-            <link>https://luhuadong.com/geography/meteorology-basic.html</link>
+            <link>https://blog.luhuadong.com/geography/meteorology-basic.html</link>
             <category>气象爱好者</category>
             <pubDate>Mon, 07 Oct 2019 15:26:39 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;读懂天气用语&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#读懂天气用语&#34;&gt;#&lt;/a&gt; 读懂天气用语&lt;/h2&gt;

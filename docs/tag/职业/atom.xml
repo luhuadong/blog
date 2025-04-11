@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://luhuadong.com</id>
+    <id>https://blog.luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;职业&#34; tag</title>
-    <link href="https://luhuadong.com" />
+    <link href="https://blog.luhuadong.com" />
     <updated>2023-03-06T10:34:01.000Z</updated>
     <category term="名言" />
     <category term="奋斗" />
@@ -10,15 +10,15 @@
     <category term="商业" />
     <category term="创业" />
     <category term="摄影" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
@@ -35,8 +35,8 @@
     <category term="自律" />
     <category term="思维模型" />
     <category term="健康" />
-    <category term="Hexo" />
     <category term="徒步" />
+    <category term="Hexo" />
     <category term="家居" />
     <category term="科普" />
     <category term="环保" />
@@ -67,9 +67,9 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
+    <category term="地铁" />
     <category term="股票" />
     <category term="理财" />
     <category term="保险" />
@@ -102,9 +102,9 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/jobs/indie-hacker.html</id>
+        <id>https://blog.luhuadong.com/jobs/indie-hacker.html</id>
         <title>独立创客（Indie hacker）</title>
-        <link rel="alternate" href="https://luhuadong.com/jobs/indie-hacker.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/jobs/indie-hacker.html"/>
         <content type="html">&lt;h2 id=&#34;什么是-indie-hacker&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么是-indie-hacker&#34;&gt;#&lt;/a&gt; 什么是 Indie hacker&lt;/h2&gt;
 &lt;p&gt;Indie hacker 中文翻译过来是 “独立经营的黑客” 的意思，不过我更喜欢称为 “独立创客”，或者 “独立开发者”。独立创客不等同于 “自由职业”，无论有没有 “正经” 工作，只有他们在尝试独立经营自己的产品，都可以称为 Indie hacker。他们当中，有的白天上班，晚上写 side project；有的辞职在家，全心全意经营自己的产品。&lt;/p&gt;
 &lt;h2 id=&#34;indie-hacker-在追求什么&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#indie-hacker-在追求什么&#34;&gt;#&lt;/a&gt; Indie hacker 在追求什么&lt;/h2&gt;
@@ -128,9 +128,9 @@
         <updated>2023-03-06T10:34:01.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/jobs/remote-working-jobs.html</id>
+        <id>https://blog.luhuadong.com/jobs/remote-working-jobs.html</id>
         <title>寻找远程工作的网站平台</title>
-        <link rel="alternate" href="https://luhuadong.com/jobs/remote-working-jobs.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/jobs/remote-working-jobs.html"/>
         <content type="html">&lt;h2 id=&#34;github&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#github&#34;&gt;#&lt;/a&gt; GitHub&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/LinuxSuRen/remote-jobs-in-china&#34;&gt;remote-jobs-in-china：支持远程办公的中国公司&lt;/a&gt;&lt;/li&gt;
@@ -174,9 +174,9 @@
         <updated>2023-01-24T07:47:11.000Z</updated>
     </entry>
     <entry>
-        <id>https://luhuadong.com/jobs/personal-development-coach.html</id>
+        <id>https://blog.luhuadong.com/jobs/personal-development-coach.html</id>
         <title>如何成为一名「个人成长教练」</title>
-        <link rel="alternate" href="https://luhuadong.com/jobs/personal-development-coach.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/jobs/personal-development-coach.html"/>
         <content type="html">&lt;h2 id=&#34;是什么&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#是什么&#34;&gt;#&lt;/a&gt; 是什么？&lt;/h2&gt;
 &lt;p&gt;个人成长教练，英文为 Personal Development Coach，Self Development Coach，或者是 Life Coach。&lt;/p&gt;
 &lt;p&gt;个人成长教练实际上就是把教练的一些自身的素质和沟通习惯，在结合客户自身愿景的基础上，能够陪伴客户突破重重阻碍，最终成为那个他想要成为的自己。&lt;/p&gt;

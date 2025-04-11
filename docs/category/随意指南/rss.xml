@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>成为自由人 • Posts by &#34;随意指南&#34; category</title>
-        <link>https://luhuadong.com</link>
+        <link>https://blog.luhuadong.com</link>
         <description>阿基米东的成长笔记</description>
         <language>zh-CN</language>
         <pubDate>Sat, 08 Jun 2024 10:12:38 +0800</pubDate>
@@ -13,15 +13,15 @@
         <category>商业</category>
         <category>创业</category>
         <category>摄影</category>
-        <category>城市规划</category>
-        <category>地理</category>
-        <category>城市</category>
         <category>程序员</category>
         <category>职场</category>
         <category>管理</category>
         <category>人生</category>
         <category>工作</category>
         <category>物联网</category>
+        <category>城市规划</category>
+        <category>地理</category>
+        <category>城市</category>
         <category>Python</category>
         <category>教孩子学编程</category>
         <category>创客</category>
@@ -38,8 +38,8 @@
         <category>自律</category>
         <category>思维模型</category>
         <category>健康</category>
-        <category>Hexo</category>
         <category>徒步</category>
+        <category>Hexo</category>
         <category>家居</category>
         <category>科普</category>
         <category>环保</category>
@@ -70,9 +70,9 @@
         <category>日记</category>
         <category>月报</category>
         <category>读书笔记</category>
-        <category>地铁</category>
         <category>Markdown</category>
         <category>计划</category>
+        <category>地铁</category>
         <category>股票</category>
         <category>理财</category>
         <category>保险</category>
@@ -105,12 +105,12 @@
         <category>零废弃</category>
         <category>低碳</category>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/guide/how-to-apply-for-unemployment-benefits.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/guide/how-to-apply-for-unemployment-benefits.html</guid>
             <title>裁员后如何申领失业金（广州）</title>
-            <link>https://luhuadong.com/guide/how-to-apply-for-unemployment-benefits.html</link>
+            <link>https://blog.luhuadong.com/guide/how-to-apply-for-unemployment-benefits.html</link>
             <category>指南</category>
             <pubDate>Sat, 08 Jun 2024 10:12:38 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/guide/unemployment-benefits.jpg&#34; alt=&#34;裁员后如何申领失业金&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/guide/unemployment-benefits.jpg&#34; alt=&#34;裁员后如何申领失业金&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;失业金领取条件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#失业金领取条件&#34;&gt;#&lt;/a&gt; 失业金领取条件&lt;/h2&gt;
 &lt;p&gt;失业人员同时符合下列条件的，可以领取失业保险金，并按照规定享受其他失业保险待遇：&lt;/p&gt;
 &lt;ol&gt;
@@ -158,9 +158,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/guide/how-to-start-a-podcast.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/guide/how-to-start-a-podcast.html</guid>
             <title>如何开始创建一个播客节目</title>
-            <link>https://luhuadong.com/guide/how-to-start-a-podcast.html</link>
+            <link>https://blog.luhuadong.com/guide/how-to-start-a-podcast.html</link>
             <category>指南</category>
             <pubDate>Sun, 17 Mar 2024 14:46:12 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;硬件设备&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#硬件设备&#34;&gt;#&lt;/a&gt; 硬件设备&lt;/h2&gt;
@@ -202,9 +202,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/guide/how-to-wake-up-at-5am-every-day.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/guide/how-to-wake-up-at-5am-every-day.html</guid>
             <title>如何做到每天清晨五点起床</title>
-            <link>https://luhuadong.com/guide/how-to-wake-up-at-5am-every-day.html</link>
+            <link>https://blog.luhuadong.com/guide/how-to-wake-up-at-5am-every-day.html</link>
             <category>指南</category>
             <category>自律</category>
             <pubDate>Fri, 30 Jun 2023 13:00:42 +0800</pubDate>
@@ -392,9 +392,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/guide/change-yourself-with-a-little-restraint.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/guide/change-yourself-with-a-little-restraint.html</guid>
             <title>从一点小小的克制开始改变自己</title>
-            <link>https://luhuadong.com/guide/change-yourself-with-a-little-restraint.html</link>
+            <link>https://blog.luhuadong.com/guide/change-yourself-with-a-little-restraint.html</link>
             <category>人生</category>
             <category>指南</category>
             <category>自律</category>
@@ -453,9 +453,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/guide/10-things-help-you-start-new-life.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/guide/10-things-help-you-start-new-life.html</guid>
             <title>有助于开启全新人生的十件小事</title>
-            <link>https://luhuadong.com/guide/10-things-help-you-start-new-life.html</link>
+            <link>https://blog.luhuadong.com/guide/10-things-help-you-start-new-life.html</link>
             <category>人生</category>
             <category>指南</category>
             <pubDate>Mon, 03 Oct 2022 16:37:17 +0800</pubDate>
@@ -513,9 +513,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/guide/how-to-use-network-proxy-on-ubuntu.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/guide/how-to-use-network-proxy-on-ubuntu.html</guid>
             <title>如何在 Ubuntu 中使用网络代理</title>
-            <link>https://luhuadong.com/guide/how-to-use-network-proxy-on-ubuntu.html</link>
+            <link>https://blog.luhuadong.com/guide/how-to-use-network-proxy-on-ubuntu.html</link>
             <category>指南</category>
             <pubDate>Thu, 14 Jul 2022 19:33:44 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;第1步找一个-vpn&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第1步找一个-vpn&#34;&gt;#&lt;/a&gt; 第 1 步：找一个 VPN&lt;/h2&gt;
@@ -528,7 +528,7 @@
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;命令行&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;sudo&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;apt&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; libfuse2&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;第3步配置网络代理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第3步配置网络代理&#34;&gt;#&lt;/a&gt; 第 3 步：配置网络代理&lt;/h2&gt;
 &lt;p&gt;点击菜单栏中的 “连接 -&amp;gt; 添加”，工具提供了多种添加方式，比较方便的是扫描二维码或者导入 URL 自动识别，然后再 “手动” 修改特定参数，比如本地端口号。&lt;/p&gt;
 &lt;p&gt;然后点击工具栏第一个 “连接” 图标，如无意外，现在你已经连接到网络代理了。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/guide/Shadowsock-Qt5-3.0.1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/guide/Shadowsock-Qt5-3.0.1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;第4步在终端使用代理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第4步在终端使用代理&#34;&gt;#&lt;/a&gt; 第 4 步：在终端使用代理&lt;/h2&gt;
 &lt;p&gt;为了能在 Shell 终端使用网络代理，我们需要配置一些环境变量。为方便起见，我在这里设置了  &lt;code&gt;ALL_PROXY&lt;/code&gt;  变量，并且在～/.bashrc 文件设置了别名。&lt;/p&gt;
 &lt;p&gt;将下面两行命令添加到～/.bashrc 文件即可。值得一提的是，我这里使用的本地端口是 23333，你要根据自己的情况进行修改。&lt;/p&gt;
@@ -538,18 +538,18 @@
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;命令行&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ &lt;span class=&#34;token function&#34;&gt;curl&lt;/span&gt; cip.cc&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;IP	&lt;span class=&#34;token builtin class-name&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;60.249&lt;/span&gt;.1.178&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;地址	&lt;span class=&#34;token builtin class-name&#34;&gt;:&lt;/span&gt; 中国  台湾  台中市&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;运营商	&lt;span class=&#34;token builtin class-name&#34;&gt;:&lt;/span&gt; cht.com.tw&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;数据二	&lt;span class=&#34;token builtin class-name&#34;&gt;:&lt;/span&gt; 台湾省 &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt; 中华电信&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;HiNet&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;数据中心&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;数据三	&lt;span class=&#34;token builtin class-name&#34;&gt;:&lt;/span&gt; 中国台湾 &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt; 中华电信&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;URL	&lt;span class=&#34;token builtin class-name&#34;&gt;:&lt;/span&gt; http://www.cip.cc/60.249.1.178&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;如果命令执行失败，可以加  &lt;code&gt;-v&lt;/code&gt;  选项查看详细信息，即：&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;命令行&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;curl&lt;/span&gt; &lt;span class=&#34;token parameter variable&#34;&gt;-v&lt;/span&gt; cip.cc&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;第5步在浏览器中使用代理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第5步在浏览器中使用代理&#34;&gt;#&lt;/a&gt; 第 5 步：在浏览器中使用代理&lt;/h2&gt;
 &lt;p&gt;以 Firefox 浏览器为例，打开设置页面，找到 “网络设置” 栏目，选择 “手动配置代理”，如下所示。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/guide/Firefox-network-proxy.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/guide/Firefox-network-proxy.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;现在，你应该可以在浏览器中访问 &lt;a href=&#34;https://google.com&#34;&gt;google.com&lt;/a&gt; 了。&lt;/p&gt;
 &lt;h2 id=&#34;第6步在系统中使用代理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第6步在系统中使用代理&#34;&gt;#&lt;/a&gt; 第 6 步：在系统中使用代理&lt;/h2&gt;
 &lt;p&gt;打开 Ubuntu 系统的 “设置” 工具，选择 “网络”，你会看到 “网络代理” 一栏，正常情况下处于关闭状态。切换到 “手动” 状态，填写本地网络代理的 IP 和端口信息，如下所示。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/guide/Ubuntu-network-proxy-setting.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/guide/Ubuntu-network-proxy-setting.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;好了，就这样。&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/guide/how-to-renew-a-resident-identity-card.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/guide/how-to-renew-a-resident-identity-card.html</guid>
             <title>如何换领居民身份证</title>
-            <link>https://luhuadong.com/guide/how-to-renew-a-resident-identity-card.html</link>
+            <link>https://blog.luhuadong.com/guide/how-to-renew-a-resident-identity-card.html</link>
             <category>指南</category>
             <pubDate>Tue, 12 Oct 2021 16:23:20 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;身份证还有两个月就要到期了，十年好像一眨眼就过去一样，让人感慨万分。每天打开支付宝、券商 App 之类的应用，都在提醒我 —— “赶紧去换领身份证啊！”&lt;/p&gt;
@@ -560,7 +560,7 @@
 &lt;li&gt;回户籍所在地换证&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;没想到还挺周到的，居然支持跨市办理了！不过，需要额外提供一些证明资料，还是有点麻烦。于是我就决定趁国庆假期回家一起办了，由于市区距离户籍所在地还有 70 多公里，所以我选择了第 2 种方式 —— 市内跨区办理。这样既不需要开证明材料，也不需要回村里一趟，是个便捷的选择。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/guide/renew-id-card-01.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/guide/renew-id-card-01.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;而且我还发现市区有提供 “自助终端机” 办理，良好市民只需要刷身份证就可以进去了，旁边还有一台自助拍照终端机。&lt;/p&gt;
 &lt;p&gt;整个办理流程也很简单：&lt;/p&gt;
 &lt;ul&gt;
@@ -576,32 +576,32 @@
 &lt;/ul&gt;
 &lt;p&gt;一波操作下来，不用半小时即可完成。不过由于这个办理点的自助拍照终端机没有启用，所以需要另外找照相馆（也许就是为了照顾附近照相馆的生意吧）。&lt;/p&gt;
 &lt;p&gt;费用的话，包括拍照的费用 25 元，办证工本费 20 元，以及邮政快递费 18 元（可选，默认到付），支持微信支付。&lt;/p&gt;
-&lt;img src=&#34;/images/guide/renew-id-card-02.jpeg&#34; width=&#34;400&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/guide/renew-id-card-02.jpeg&#34; width=&#34;400&#34; /&gt;
 &lt;p&gt;除了拍照环节不太满意，整个过程还是挺便捷的，毕竟早已进入数字化时代了。相信下一个十年一定会更便捷！加油 &lt;span class=&#34;github-emoji&#34; alias=&#34;running&#34; style=&#34;&#34; fallback-src=&#34;https://github.githubassets.com/images/icons/emoji/unicode/1f3c3.png?v8&#34;&gt;🏃&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;对了，广东的小伙伴可以在 “粤省事” 查看办理进度。&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://luhuadong.com/guide/fobo.html</guid>
+            <guid isPermalink="true">https://blog.luhuadong.com/guide/fobo.html</guid>
             <title>有选择困难症怎么办？三个步骤帮你治好</title>
-            <link>https://luhuadong.com/guide/fobo.html</link>
+            <link>https://blog.luhuadong.com/guide/fobo.html</link>
             <category>指南</category>
             <category>思维模型</category>
             <pubDate>Sun, 18 Apr 2021 12:27:44 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/guide/FOBO.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/guide/FOBO.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;「&lt;strong&gt;FOBO&lt;/strong&gt;」是 “Fear Of Better Options” 的缩写，即 “更佳选择恐惧症”，也就是我们常说的 “选择困难症”。&lt;/p&gt;
 &lt;p&gt;这世上到处都有 “重大选择”，有些在过去很简单的选择，比如去哪吃饭，买什么东西... 现在都得仔细斟酌。科技只是让这一问题变得更为明显。&lt;/p&gt;
 &lt;p&gt;FOBO 会让你过于认真地思考问题，这种过度认真会对你的生活和工作产生负面影响。你的犹豫不决，会浪费你宝贵的时间和精力。幸好 FOBO 是可以被克服的。秘诀是：&lt;strong&gt;在做出每一个决定前，你都要确定该选项的风险大小，这样你也能因此制定抉择策略。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;归结起来，你只要面临三类决定 —— 高风险、低风险、无风险。&lt;/p&gt;
 &lt;h2 id=&#34;无风险选项&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#无风险选项&#34;&gt;#&lt;/a&gt; 无风险选项&lt;/h2&gt;
 &lt;p&gt;首先来看无风险（No Stakes）选项，生活中有些细节，永远没有正确答案，几小时后你甚至不会记得你做出了这个决定。一个很好的例子就是选择看什么节目，电视节目成千上万，足以让你迷失其中，但不管你选择哪个节目，都不会有什么后果。无风险决定的关键在于&lt;strong&gt;听天由命&lt;/strong&gt;，比如说，你可以将选择精简为两种，然后通过掷硬币来帮你做决定。&lt;/p&gt;
-&lt;img src=&#34;/images/guide/fobo-no-stakes.jpg&#34; width=&#34;600&#34;&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/guide/fobo-no-stakes.jpg&#34; width=&#34;600&#34;&gt;
 &lt;h2 id=&#34;低风险选项&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#低风险选项&#34;&gt;#&lt;/a&gt; 低风险选项&lt;/h2&gt;
 &lt;p&gt;然后来看看低风险（Low Stakes）选项，这些决定会有后果，但后果不严重。这些选项的结果大多可以接受，很多生活中的日常，比如买哪台打印机、订哪家酒店，这些在本质上都是低风险决定。这些决定需要你做出思考，但就算做错也没啥大不了，你过几周可能就会忘记此事。你也可以再玩一次 “听天由命”，但你会想要认真思考一番，因为毕竟还是存在风险。这一次你可以&lt;strong&gt;听 “人” 由命&lt;/strong&gt;，先设下一些基本标准，然后请他人提出建议，并听从这些建议。&lt;/p&gt;
-&lt;img src=&#34;/images/guide/fobo-low-stakes.jpeg&#34; width=&#34;600&#34;&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/guide/fobo-low-stakes.jpeg&#34; width=&#34;600&#34;&gt;
 &lt;h2 id=&#34;高风险选项&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#高风险选项&#34;&gt;#&lt;/a&gt; 高风险选项&lt;/h2&gt;
 &lt;p&gt;现在你把无风险和低风险选项都解决了，你已经把时间和空间都腾给了高风险（High Stakes）选项。例如 “在哪里买房”、“找哪份工作” 等问题，因为风险高，你必定想做出正确决定。首先&lt;strong&gt;凭直觉选出一个最佳选项&lt;/strong&gt;，然后将其他选项与该最佳选择进行&lt;strong&gt;逐一比较&lt;/strong&gt;，从两个选项中选出一个并淘汰另一个。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/guide/fobo-high-stakes.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/guide/fobo-high-stakes.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;这里有一个避开 FOBO 的秘诀，&lt;strong&gt;不要让已被淘汰的选项再次出现！&lt;/strong&gt; 如果你不停地 “复活” 淘汰选项，你将陷入纠结之中。重复刚才的步骤直到你得出最终选择，如果你遵循这一流程，你通常能靠自己做出选择，除非你遇到的情况相当罕见。如果是这样的话，你不妨把最终决定权交由一群可靠的、你信任的人，这些人还需要有能力就此话题向你提供指导意见，人数不要超过 5 人，而且最好是奇数，因为一旦出现平票状况，就会有人一锤定音。&lt;/p&gt;
 &lt;h2 id=&#34;最后&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#最后&#34;&gt;#&lt;/a&gt; 最后&lt;/h2&gt;
 &lt;p&gt;现在你已经做出了选择，但还剩下一个挑战，就是执行这一选择，&lt;strong&gt;努力让它成为真正的最佳选择&lt;/strong&gt;。&lt;/p&gt;

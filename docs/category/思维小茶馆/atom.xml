@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://luhuadong.com</id>
+    <id>https://blog.luhuadong.com</id>
     <title>成为自由人 • Posts by &#34;思维小茶馆&#34; category</title>
-    <link href="https://luhuadong.com" />
+    <link href="https://blog.luhuadong.com" />
     <updated>2024-09-23T09:24:19.000Z</updated>
     <category term="名言" />
     <category term="奋斗" />
@@ -10,15 +10,15 @@
     <category term="商业" />
     <category term="创业" />
     <category term="摄影" />
-    <category term="城市规划" />
-    <category term="地理" />
-    <category term="城市" />
     <category term="程序员" />
     <category term="职场" />
     <category term="管理" />
     <category term="人生" />
     <category term="工作" />
     <category term="物联网" />
+    <category term="城市规划" />
+    <category term="地理" />
+    <category term="城市" />
     <category term="Python" />
     <category term="教孩子学编程" />
     <category term="创客" />
@@ -35,8 +35,8 @@
     <category term="自律" />
     <category term="思维模型" />
     <category term="健康" />
-    <category term="Hexo" />
     <category term="徒步" />
+    <category term="Hexo" />
     <category term="家居" />
     <category term="科普" />
     <category term="环保" />
@@ -67,9 +67,9 @@
     <category term="日记" />
     <category term="月报" />
     <category term="读书笔记" />
-    <category term="地铁" />
     <category term="Markdown" />
     <category term="计划" />
+    <category term="地铁" />
     <category term="股票" />
     <category term="理财" />
     <category term="保险" />
@@ -102,9 +102,9 @@
     <category term="零废弃" />
     <category term="低碳" />
     <entry>
-        <id>https://luhuadong.com/thinking/sam-altman-36-life-lessons-before-age-30.html</id>
+        <id>https://blog.luhuadong.com/thinking/sam-altman-36-life-lessons-before-age-30.html</id>
         <title>Sam Altman 的 36 条人生建议</title>
-        <link rel="alternate" href="https://luhuadong.com/thinking/sam-altman-36-life-lessons-before-age-30.html"/>
+        <link rel="alternate" href="https://blog.luhuadong.com/thinking/sam-altman-36-life-lessons-before-age-30.html"/>
         <content type="html">&lt;p&gt;本文分享 ChatGPT 创始人 Sam Altman 在 30 岁之前学到的 36 条人生教训，&lt;a href=&#34;https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short&#34;&gt;原文&lt;/a&gt;发表于 2015 年，不过现在阅读仍然对许多年轻人有帮助。&lt;/p&gt;
 &lt;p&gt;1985 年出生的 Sam Altman 在写这 36 条人生教训时，刚满三十岁，此时的他是 Y Combinator 这家著名创投公司的 CEO。朋友问他这十年来所经历的一切，有没有一些人生建议可以分享...... 于是他洋洋洒洒写了这个清单，一共 36 条，涉及家庭、友谊、职业、金钱、生活态度等多个方面。&lt;/p&gt;
 &lt;div class=&#34;note default&#34;&gt;
