@@ -9,6 +9,7 @@
     <category term="信息世界" />
     <category term="商业" />
     <category term="创业" />
+    <category term="摄影" />
     <category term="城市规划" />
     <category term="地理" />
     <category term="城市" />
@@ -20,7 +21,6 @@
     <category term="物联网" />
     <category term="Python" />
     <category term="教孩子学编程" />
-    <category term="摄影" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -106,7 +106,7 @@
         <title>我的 PFE 和人生五事</title>
         <link rel="alternate" href="https://luhuadong.com/me/my-big-five-for-life.html"/>
         <content type="html">&lt;p&gt;2024 年 9 月 12 日下午，我在给自己和女友制作电子名片，我决定在名片背面写下我的 PFE 和人生五事。为此，我思考了一个下午，写下了第一版本的人生五事。我不确定这个版本以后会不会改动，也许会有一些微调吧，但大方向应该不变，因为我已经比较确定自己想成为什么样的人，想要什么样的生活了。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/me/my-big-five-for-life-2024.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../images/me/my-big-five-for-life-2024.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;提示：PFE 是 Purpose For Existing 的缩写，即 “我为什么而活？”、“我存在的意义是什么？”。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -208,7 +208,7 @@
         <id>https://luhuadong.com/me/focus-open-source-projects.html</id>
         <title>我重点关注和参与的开源项目</title>
         <link rel="alternate" href="https://luhuadong.com/me/focus-open-source-projects.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/me/opensource-banner.jpg&#34; alt=&#34;开源软件项目&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/me/opensource-banner.jpg&#34; alt=&#34;开源软件项目&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;这里记录我本人平常比较关注的或者正在参与的一些开源软件（Open Source Software）项目。&lt;/p&gt;
 &lt;p&gt;我本人的 GitHub 地址是 &lt;a href=&#34;https://github.com/luhuadong&#34;&gt;https://github.com/luhuadong&lt;/a&gt;。&lt;/p&gt;
 &lt;h2 id=&#34;操作系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#操作系统&#34;&gt;#&lt;/a&gt; 操作系统&lt;/h2&gt;
@@ -409,7 +409,7 @@
         <link rel="alternate" href="https://luhuadong.com/me/a-maker.html"/>
         <content type="html">&lt;p&gt;会员编号：CHSZ2022061387&lt;/p&gt;
 &lt;p&gt;自我介绍：2014 年毕业于广东工业大学电气工程及其自动化专业，在校期间曾任广工猎鹰橄榄球队队长。毕业后先后参与过工业机器人、通信终端、物联网等相关产品的研发工作，目前在广州从事汽车智能驾驶方面的研究。热爱开源文化，曾参与编写《&lt;a href=&#34;https://oschina.gitee.io/opensource-guide/&#34;&gt;开源指北&lt;/a&gt;》电子书，熟悉 Arduino、树莓派等各类开源硬件，曾为 Linux、RT-Thread、LVGL 等多个开源软件项目贡献代码，并荣获 2020 年度 RT-Thread 开源社区杰出贡献奖。CSDN 博主「&lt;a href=&#34;https://blog.csdn.net/lu_embedded&#34;&gt;阿基米东&lt;/a&gt;」，总阅读量超过 300 万，同时也是「&lt;a href=&#34;https://getiot.tech/&#34;&gt;人人都懂物联网&lt;/a&gt;」网站站长，旨在促进公平教育和终身学习。生活中是一名环保主义者，也是零废弃联盟等多家 NGO 机构的核心志愿者，致力于推动 SDGs 可持续发展目标的实现。&lt;/p&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/lu_202205.jpeg&#34; width=&#34;200&#34; /&gt;</content>
+&lt;img src=&#34;/images/lu_202205.jpeg&#34; width=&#34;200&#34; /&gt;</content>
         <category term="创客" />
         <updated>2022-06-29T17:09:11.000Z</updated>
     </entry>
@@ -417,7 +417,7 @@
         <id>https://luhuadong.com/me/my-career.html</id>
         <title>职业地图</title>
         <link rel="alternate" href="https://luhuadong.com/me/my-career.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/my-career-map.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/my-career-map.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="人生" />
         <updated>2021-09-24T03:21:45.000Z</updated>
@@ -426,7 +426,7 @@
         <id>https://luhuadong.com/me/my-keyword.html</id>
         <title>人生关键字</title>
         <link rel="alternate" href="https://luhuadong.com/me/my-keyword.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/my-keyword.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/my-keyword.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="人生" />
         <updated>2020-06-24T03:21:01.000Z</updated>

@@ -12,6 +12,7 @@
         <category>信息世界</category>
         <category>商业</category>
         <category>创业</category>
+        <category>摄影</category>
         <category>城市规划</category>
         <category>地理</category>
         <category>城市</category>
@@ -23,7 +24,6 @@
         <category>物联网</category>
         <category>Python</category>
         <category>教孩子学编程</category>
-        <category>摄影</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
@@ -157,7 +157,7 @@
 &lt;p&gt;它说明如果被过分引申，任何深刻的寓意都会被减弱。即 “铺得越广，摊得越薄”。&lt;/p&gt;
 &lt;h2 id=&#34;果酱定律&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#果酱定律&#34;&gt;#&lt;/a&gt; 果酱定律&lt;/h2&gt;
 &lt;p&gt;果酱定律：&lt;strong&gt;只要还有颗粒，草莓酱就永远都不会被涂抹得过薄。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/principle/Strawberry-Jam.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../images/principle/Strawberry-Jam.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;启示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#启示&#34;&gt;#&lt;/a&gt; 启示&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;草莓酱定律：朋友越多，每个朋友的交情也越淡；&lt;/li&gt;
@@ -177,7 +177,7 @@
             <pubDate>Thu, 15 Jun 2023 01:49:30 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;什么是长尾理论&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么是长尾理论&#34;&gt;#&lt;/a&gt; 什么是长尾理论&lt;/h2&gt;
 &lt;p&gt;长尾理论（The Long Tail Effect）这一概念最早是由《连线》杂志主编克里斯・安德森（Chris Anderson）在 2004 年十月的《长尾》一文中最早提出，用来描述诸如亚马逊和 Netflix 之类网站的商业和经济模式。他认为，“如果把足够多的非热门产品组合到一起，实际上就可以形成一个堪与热门市场相匹敌的大市场。”&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/principle/the-long-tail.gif&#34; alt=&#34;长尾理论&#34; title=&#34;长尾理论&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../images/principle/the-long-tail.gif&#34; alt=&#34;长尾理论&#34; title=&#34;长尾理论&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;举例来说，我们常用的汉字实际上不多，但因出现频次高，所以这些为数不多的汉字占据了上图红色区域；绝大部分的汉字难得一用，它们就属于那长长的蓝尾。 Chris 认为，只要存储和流通的渠道足够大，需求不旺或销量不佳的产品共同占据的市场份额就可以和那些数量不多的热卖品所占据的市场份额相匹敌甚至更大。&lt;/p&gt;
 &lt;p&gt;“长尾” 实际上是统计学中幂律（Power Laws）和帕累托分布（Pareto）特征的一个口语化表达。&lt;/p&gt;
 &lt;h2 id=&#34;长尾理论的启示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#长尾理论的启示&#34;&gt;#&lt;/a&gt; 长尾理论的启示&lt;/h2&gt;
@@ -191,13 +191,13 @@
 &lt;li&gt;长，说明这些市场虽小，但数量众多。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;巨大的微小市场，却也占据了市场中客观的份额 —— 这就是长尾的思想。&lt;/p&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/principle/the-long-tail-example-01.jpg&#34; title=&#34;长尾市场&#34; width=&#34;600&#34; /&gt;
+&lt;img src=&#34;../../images/principle/the-long-tail-example-01.jpg&#34; title=&#34;长尾市场&#34; width=&#34;600&#34; /&gt;
 &lt;p&gt;通过对市场的细分，企业集中力量于某个特定的目标市场，或严格针对一个细分市场，或重点经营一个产品和服务，创造出产品和服务优势。&lt;/p&gt;
 &lt;h2 id=&#34;长尾理论的应用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#长尾理论的应用&#34;&gt;#&lt;/a&gt; 长尾理论的应用&lt;/h2&gt;
 &lt;p&gt;在国内的搜索引擎优化行业，一直有人在争论长尾理论是对 “&lt;a href=&#34;pareto-principle.html&#34;&gt;二八定律&lt;/a&gt;” 的一个颠覆。例如，我们在做 SEO 的时候，应该按照 “二八法则” 把主要精力放在主要关键词上，还是按照 “长尾理论” 把关键词进行极度扩展呢？&lt;/p&gt;
 &lt;p&gt;在&lt;a href=&#34;https://www.seo.com.cn/Search-engine-optimization-28.html&#34;&gt;搜索引擎优化 (SEO) 与二八法则&lt;/a&gt;这篇文章中，思亿欧阐述了基于 “二八法则” 的流量结构是不安全的，应该致力于寻找 “二八法则” 与 “长尾理论” 的结合点来进行搜索引擎优化项目。&lt;/p&gt;
 &lt;p&gt;长尾理论对于搜索引擎优化中的关键词策略非常有用。即虽然少数核心关键词或通用关键词可以为网站带来可能超过一半的访问量，但那些搜索人数不多然而非常明确的关键词的总和 —— 即长尾关键词同样能为网站带来可观的访问量，并且这些长尾关键词检索所形成的顾客转化率更高，往往也大大高于通用关键词的转化率。&lt;/p&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/principle/long-tail-seo-strategy.png&#34; title=&#34;长尾理论在搜索引擎优化中的应用&#34; width=&#34;600&#34; /&gt;
+&lt;img src=&#34;../../images/principle/long-tail-seo-strategy.png&#34; title=&#34;长尾理论在搜索引擎优化中的应用&#34; width=&#34;600&#34; /&gt;
  ]]></description>
         </item>
         <item>
@@ -208,7 +208,7 @@
             <pubDate>Thu, 15 Jun 2023 01:48:11 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;什么是木桶原理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么是木桶原理&#34;&gt;#&lt;/a&gt; 什么是木桶原理&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;木桶原理&lt;/strong&gt;（Cannikin law 或 Buckets effect），又称 “木桶效应”、“短板理论” 或 “木桶短板管理理论”。其核心内容为：一只木桶盛水的多少，并不取决于桶壁上最高的那块木块，而恰恰取决于桶壁上最短的那块。&lt;/p&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/principle/cannikin-law.png&#34; title=&#34;木桶效应（Law of the minimum）&#34; width=&#34;400&#34; /&gt;
+&lt;img src=&#34;../../images/principle/cannikin-law.png&#34; title=&#34;木桶效应（Law of the minimum）&#34; width=&#34;400&#34; /&gt;
 &lt;p&gt;根据木桶原理，可以有两个推论：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;只有桶壁上的所有木板都足够高，那木桶才能盛满水。&lt;/li&gt;
@@ -246,7 +246,7 @@
 &lt;li&gt;事情往往会向你所想到的不好的方向发展，只要有这个可能性。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;比如你衣袋里有两把钥匙，一把是你房间的，一把是汽车的，如果你现在想拿出车钥匙，会发生什么？是的，你往往是拿错了房间钥匙。&lt;/p&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/principle/murphys-law.jpg&#34; title=&#34;这就是著名的“墨菲定律”&#34; width=&#34;400&#34; /&gt;
+&lt;img src=&#34;../../images/principle/murphys-law.jpg&#34; title=&#34;这就是著名的“墨菲定律”&#34; width=&#34;400&#34; /&gt;
 &lt;p&gt;有些人真的觉得做什么事都不顺，而这世界总在跟他作对。但事实可能只是因为抹了果酱的那一面较具重量，才让它先落地朝下。&lt;/p&gt;
 &lt;h2 id=&#34;墨菲定律的起源&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#墨菲定律的起源&#34;&gt;#&lt;/a&gt; 墨菲定律的起源&lt;/h2&gt;
 &lt;p&gt;墨菲是美国爱德华兹空军基地的上尉工程师。1949 年，他和他的上司斯塔普少校，在一次火箭减速超重试验中，因仪器失灵发生了事故。墨菲发现，测量仪表被一个技术人员装反了。由此，他得出的教训是：如果做某项工作有多种方法，而其中有一种方法将导致事故，那么一定有人会按这种方法去做。&lt;/p&gt;
@@ -339,7 +339,7 @@
             <description><![CDATA[ &lt;h2 id=&#34;什么是二八定律&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么是二八定律&#34;&gt;#&lt;/a&gt; 什么是二八定律&lt;/h2&gt;
 &lt;p&gt;二八定律 / 八二定律，又称为帕累托法则（Pareto principle）、80/20 法则、关键少数法则。由意大利经济学家帕累托（Vilfredo Pareto）在洛桑大学发现的。&lt;/p&gt;
 &lt;p&gt;二八定律最直观的表述是：约仅有 20% 的因素影响 80% 的结果。即在所有变因中，最重要的仅有 20%，虽然剩余的 80% 占了多数，影响的幅度却远低于 “关键的少数”。例如：世界上大约 20% 的人拥有了 80% 的财富、意大利约有 80％ 的土地由 20％ 的人口所有、80% 的豌豆产量来自 20% 的植株等等。&lt;/p&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/principle/pareto-rule-explained.jpg&#34; title=&#34;帕累托法则&#34; width=&#34;400&#34; /&gt;
+&lt;img src=&#34;../../images/principle/pareto-rule-explained.jpg&#34; title=&#34;帕累托法则&#34; width=&#34;400&#34; /&gt;
 &lt;h2 id=&#34;二八定律的启示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二八定律的启示&#34;&gt;#&lt;/a&gt; 二八定律的启示&lt;/h2&gt;
 &lt;p&gt;除了在经济学领域，二八定律也可以应用于其他领域，如时间管理、销售和市场营销等。&lt;/p&gt;
 &lt;p&gt;在日常工作和生活中，善用二八定律可以帮助我们取得成功。例如：&lt;/p&gt;

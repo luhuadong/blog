@@ -12,6 +12,7 @@
         <category>信息世界</category>
         <category>商业</category>
         <category>创业</category>
+        <category>摄影</category>
         <category>城市规划</category>
         <category>地理</category>
         <category>城市</category>
@@ -23,7 +24,6 @@
         <category>物联网</category>
         <category>Python</category>
         <category>教孩子学编程</category>
-        <category>摄影</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
@@ -128,7 +128,7 @@
 &lt;/ol&gt;
 &lt;p&gt;这个思维模型的好处是可以帮助你排除短期情绪波动的干扰，迫使你更具备大局观去思考问题，思考你实际想要怎么样的未来，而不是你目前前进的方向通往的未来。帮助你领悟在你的一生中，什么才是重要的，而什么是不重要的。&lt;/p&gt;
 &lt;p&gt;实际上，遗憾是一项强大的因素，可能比世上所有的积极情绪更能说明问题，从而帮助你更好地做出决策。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/principle/TheRegretMinimizationFramwork.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/principle/TheRegretMinimizationFramwork.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
@@ -138,20 +138,20 @@
             <category>指南</category>
             <category>思维模型</category>
             <pubDate>Sun, 18 Apr 2021 12:27:44 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/guide/FOBO.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/guide/FOBO.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;「&lt;strong&gt;FOBO&lt;/strong&gt;」是 “Fear Of Better Options” 的缩写，即 “更佳选择恐惧症”，也就是我们常说的 “选择困难症”。&lt;/p&gt;
 &lt;p&gt;这世上到处都有 “重大选择”，有些在过去很简单的选择，比如去哪吃饭，买什么东西... 现在都得仔细斟酌。科技只是让这一问题变得更为明显。&lt;/p&gt;
 &lt;p&gt;FOBO 会让你过于认真地思考问题，这种过度认真会对你的生活和工作产生负面影响。你的犹豫不决，会浪费你宝贵的时间和精力。幸好 FOBO 是可以被克服的。秘诀是：&lt;strong&gt;在做出每一个决定前，你都要确定该选项的风险大小，这样你也能因此制定抉择策略。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;归结起来，你只要面临三类决定 —— 高风险、低风险、无风险。&lt;/p&gt;
 &lt;h2 id=&#34;无风险选项&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#无风险选项&#34;&gt;#&lt;/a&gt; 无风险选项&lt;/h2&gt;
 &lt;p&gt;首先来看无风险（No Stakes）选项，生活中有些细节，永远没有正确答案，几小时后你甚至不会记得你做出了这个决定。一个很好的例子就是选择看什么节目，电视节目成千上万，足以让你迷失其中，但不管你选择哪个节目，都不会有什么后果。无风险决定的关键在于&lt;strong&gt;听天由命&lt;/strong&gt;，比如说，你可以将选择精简为两种，然后通过掷硬币来帮你做决定。&lt;/p&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/guide/fobo-no-stakes.jpg&#34; width=&#34;600&#34;&gt;
+&lt;img src=&#34;/images/guide/fobo-no-stakes.jpg&#34; width=&#34;600&#34;&gt;
 &lt;h2 id=&#34;低风险选项&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#低风险选项&#34;&gt;#&lt;/a&gt; 低风险选项&lt;/h2&gt;
 &lt;p&gt;然后来看看低风险（Low Stakes）选项，这些决定会有后果，但后果不严重。这些选项的结果大多可以接受，很多生活中的日常，比如买哪台打印机、订哪家酒店，这些在本质上都是低风险决定。这些决定需要你做出思考，但就算做错也没啥大不了，你过几周可能就会忘记此事。你也可以再玩一次 “听天由命”，但你会想要认真思考一番，因为毕竟还是存在风险。这一次你可以&lt;strong&gt;听 “人” 由命&lt;/strong&gt;，先设下一些基本标准，然后请他人提出建议，并听从这些建议。&lt;/p&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/guide/fobo-low-stakes.jpeg&#34; width=&#34;600&#34;&gt;
+&lt;img src=&#34;/images/guide/fobo-low-stakes.jpeg&#34; width=&#34;600&#34;&gt;
 &lt;h2 id=&#34;高风险选项&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#高风险选项&#34;&gt;#&lt;/a&gt; 高风险选项&lt;/h2&gt;
 &lt;p&gt;现在你把无风险和低风险选项都解决了，你已经把时间和空间都腾给了高风险（High Stakes）选项。例如 “在哪里买房”、“找哪份工作” 等问题，因为风险高，你必定想做出正确决定。首先&lt;strong&gt;凭直觉选出一个最佳选项&lt;/strong&gt;，然后将其他选项与该最佳选择进行&lt;strong&gt;逐一比较&lt;/strong&gt;，从两个选项中选出一个并淘汰另一个。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/guide/fobo-high-stakes.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/guide/fobo-high-stakes.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;这里有一个避开 FOBO 的秘诀，&lt;strong&gt;不要让已被淘汰的选项再次出现！&lt;/strong&gt; 如果你不停地 “复活” 淘汰选项，你将陷入纠结之中。重复刚才的步骤直到你得出最终选择，如果你遵循这一流程，你通常能靠自己做出选择，除非你遇到的情况相当罕见。如果是这样的话，你不妨把最终决定权交由一群可靠的、你信任的人，这些人还需要有能力就此话题向你提供指导意见，人数不要超过 5 人，而且最好是奇数，因为一旦出现平票状况，就会有人一锤定音。&lt;/p&gt;
 &lt;h2 id=&#34;最后&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#最后&#34;&gt;#&lt;/a&gt; 最后&lt;/h2&gt;
 &lt;p&gt;现在你已经做出了选择，但还剩下一个挑战，就是执行这一选择，&lt;strong&gt;努力让它成为真正的最佳选择&lt;/strong&gt;。&lt;/p&gt;
@@ -210,15 +210,15 @@
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;列出最主要的考量因素，比如城市房价、当地气候、行业前景、薪资待遇、工作内容、工作环境、企业文化、发展空间等等，然后给每个考量因素设置权重。权重的设置可以按照分数打分（比如 1-10 分），也可以按照百分制设置不同的权重。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/WADM_demo_01.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/static/WADM_demo_01.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;然后分别给两份工作打分（这个分数和权重无关）。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/WADM_demo_02.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/static/WADM_demo_02.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;最后拿权重乘以每个选项的得分，并且加总算出总分。（可以用 Excel 或者 Numbers 里的  &lt;code&gt;SUMPRODUCT&lt;/code&gt;  函数得出总分）。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/WADM_demo_03.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/static/WADM_demo_03.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;由于工作 B 的总分更高，表明它更符合你的预期，所以你的最终选择也就不难了。&lt;/p&gt;
@@ -228,7 +228,7 @@
 &lt;p&gt;使用 WADM 方法的难点在于需要你列出最主要的考量因素，根据你的情况设置权重，并为每个选项给出合理的分数。因此需要你对自己以及问题所处的情况有一个良好的认知，才能得出更客观的答案。&lt;/p&gt;
 &lt;p&gt;最后，想要灵活运用 WCCA 和 WADM 决策方法，还需要你在日常生活中多加训练，不断总结，形成一套适合自己的决策思维模型。加油哦！&lt;/p&gt;
 &lt;br&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/static/我决定去上班.jpg&#34; width=600 /&gt; ]]></description>
+&lt;img src=&#34;/images/static/我决定去上班.jpg&#34; width=600 /&gt; ]]></description>
         </item>
     </channel>
 </rss>

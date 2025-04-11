@@ -9,6 +9,7 @@
     <category term="信息世界" />
     <category term="商业" />
     <category term="创业" />
+    <category term="摄影" />
     <category term="城市规划" />
     <category term="地理" />
     <category term="城市" />
@@ -20,7 +21,6 @@
     <category term="物联网" />
     <category term="Python" />
     <category term="教孩子学编程" />
-    <category term="摄影" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -105,7 +105,7 @@
         <id>https://luhuadong.com/money/auto-insurance.html</id>
         <title>汽车保险种类这么多，怎么买比较省钱？</title>
         <link rel="alternate" href="https://luhuadong.com/money/auto-insurance.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/auto-insurance-banner.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/money/auto-insurance-banner.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;最近又到了一年一度购买车险的时候，有好多车险业务员都主动联系我了。不过有些价格相差还挺大的，而且保险项目真的让人看得头大，所以今天来捋一捋车险里面的项目分别保哪些东西？值不值得买？怎么买比较划算？&lt;/p&gt;
 &lt;p&gt;车险通常包含交强险、车船税、商业车险等几部分，其中商业车险又包含车损险、第三者责任险等。下面我们逐一介绍这些保险及其保障内容和注意事项。&lt;/p&gt;
 &lt;h2 id=&#34;交强险&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#交强险&#34;&gt;#&lt;/a&gt; 交强险&lt;/h2&gt;

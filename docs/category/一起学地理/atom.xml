@@ -9,6 +9,7 @@
     <category term="信息世界" />
     <category term="商业" />
     <category term="创业" />
+    <category term="摄影" />
     <category term="城市规划" />
     <category term="地理" />
     <category term="城市" />
@@ -20,7 +21,6 @@
     <category term="物联网" />
     <category term="Python" />
     <category term="教孩子学编程" />
-    <category term="摄影" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -105,7 +105,7 @@
         <id>https://luhuadong.com/geography/time-and-timezone-list.html</id>
         <title>时间和世界时区</title>
         <link rel="alternate" href="https://luhuadong.com/geography/time-and-timezone-list.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/science/timezone-map.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/science/timezone-map.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;UTC&lt;/li&gt;
 &lt;li&gt;GMT&lt;/li&gt;

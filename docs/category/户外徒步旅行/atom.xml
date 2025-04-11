@@ -9,6 +9,7 @@
     <category term="信息世界" />
     <category term="商业" />
     <category term="创业" />
+    <category term="摄影" />
     <category term="城市规划" />
     <category term="地理" />
     <category term="城市" />
@@ -20,7 +21,6 @@
     <category term="物联网" />
     <category term="Python" />
     <category term="教孩子学编程" />
-    <category term="摄影" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -105,7 +105,7 @@
         <id>https://luhuadong.com/hiking/hiking-tips-for-beginners.html</id>
         <title>给徒步新手的十条建议</title>
         <link rel="alternate" href="https://luhuadong.com/hiking/hiking-tips-for-beginners.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/hiking/hiking-banner-01.webp&#34; alt=&#34;&#34; title=&#34;图片来源：www.explore.com，拍摄者：Sera Parris&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/hiking/hiking-banner-01.webp&#34; alt=&#34;&#34; title=&#34;图片来源：www.explore.com，拍摄者：Sera Parris&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;我最近开始尝试徒步旅行，为什么是徒步呢？因为徒步是一种适合大部分人身体机能的锻炼方式，同时也是一种了解自己、接触大自然的方式，还有很重要的一点，徒步旅行（通常）是免费的。相比于花钱闷在健身房里，显然徒步是一种更有趣的户外活动，每个新的徒步旅程都是一段不一样的体验。&lt;/p&gt;
 &lt;p&gt;我知道，对于徒步新手来说，你可能会感到有点害怕，就像我刚开始接触徒步的时候一样。因此，我整理了一份简短的指南，希望可以帮助你开始你的徒步旅行。&lt;/p&gt;
 &lt;h2 id=&#34;第一条提前做计划检查天气&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一条提前做计划检查天气&#34;&gt;#&lt;/a&gt; 第一条：提前做计划，检查天气&lt;/h2&gt;

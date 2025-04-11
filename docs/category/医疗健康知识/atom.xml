@@ -9,6 +9,7 @@
     <category term="信息世界" />
     <category term="商业" />
     <category term="创业" />
+    <category term="摄影" />
     <category term="城市规划" />
     <category term="地理" />
     <category term="城市" />
@@ -20,7 +21,6 @@
     <category term="物联网" />
     <category term="Python" />
     <category term="教孩子学编程" />
-    <category term="摄影" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -105,7 +105,7 @@
         <id>https://luhuadong.com/healthy/bilirubin.html</id>
         <title>胆红素偏高意味着什么？</title>
         <link rel="alternate" href="https://luhuadong.com/healthy/bilirubin.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/healthy/BIlirubin-Test.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;../../images/healthy/BIlirubin-Test.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;胆红素是什么&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#胆红素是什么&#34;&gt;#&lt;/a&gt; 胆红素是什么&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;胆红素&lt;/strong&gt;（Bilirubin）是胆色素的一种，是人类胆汁的主要色素，呈橙黄色。它是体内血红素的主要代谢产物，有毒性，可对大脑和神经系统引起不可逆的损害，但也有抗氧化剂功能，可以抑制亚油酸和磷脂的氧化。胆红素是临床上判定黄疸的重要依据，也是肝功能的重要指标。&lt;/p&gt;
 &lt;h2 id=&#34;胆红素检测指标&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#胆红素检测指标&#34;&gt;#&lt;/a&gt; 胆红素检测指标&lt;/h2&gt;
@@ -133,7 +133,7 @@
         <link rel="alternate" href="https://luhuadong.com/healthy/eosinophil.html"/>
         <content type="html">&lt;h2 id=&#34;什么是嗜酸性粒细胞&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么是嗜酸性粒细胞&#34;&gt;#&lt;/a&gt; 什么是嗜酸性粒细胞&lt;/h2&gt;
 &lt;p&gt;嗜酸性粒细胞（Eosinophil）是粒细胞系统中的重要组成部分，由骨髓干细胞所产生的，嗜酸性粒细胞具有吞噬的作用，可以吞噬多种物质，比如酵母细胞，吞噬抗原、细菌。嗜酸性粒细胞呈圆形，直径 13~15 μm。胞质内充满粗大、整齐、均匀、紧密排列的砖红色或鲜红色嗜酸性颗粒，折光性强。细胞核的形状与嗜中性白细胞相似，通常有 2~3 叶，呈眼镜状，深紫色。那么它具体长的怎样呢？下面这张图就是嗜酸性粒细胞真实的样子。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/healthy/eosinophil-immune-system-medical.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/healthy/eosinophil-immune-system-medical.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;嗜酸性粒细胞生物学&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#嗜酸性粒细胞生物学&#34;&gt;#&lt;/a&gt; 嗜酸性粒细胞生物学&lt;/h2&gt;
 &lt;p&gt;嗜酸性粒细胞属于粒细胞系白细胞，粒细胞系还包括中性粒细胞和嗜碱性粒细胞。尚不完全清楚嗜酸性粒细胞的生理功能，但可能参与了宿主对感染的免疫应答、组织重塑、肿瘤监测，以及其他免疫细胞的维持。在骨髓中，嗜酸性粒细胞会在 IL-5、IL-3 和粒巨细胞集落刺激因子（granulocyte-macrophage colony-stimulating factor, GM-CSF）的作用下发育并分化。&lt;/p&gt;
 &lt;p&gt;通常认为，外周血嗜酸性粒细胞绝对计数（等于白细胞总数乘以嗜酸性粒细胞的百分比）正常值为 0-500/μL（&amp;lt; 0.5×109/L）。通过白细胞的百分比来定义正常范围不当，因为不同人种的中性粒细胞绝对计数值存有差异，并且会显著影响嗜酸性粒细胞的百分比。此外，据报道，就同一个体而言，一天中不同时候和不同日子里血液嗜酸性粒细胞计数均可不同，健康志愿者和有嗜酸性粒细胞疾病的个体均如此。但不同研究的结果并不一致，并且嗜酸性粒细胞计数的差异极少大到足以影响治疗。&lt;/p&gt;
@@ -197,7 +197,7 @@
         <title>【急救知识】CPR 心肺复苏术</title>
         <link rel="alternate" href="https://luhuadong.com/healthy/cpr.html"/>
         <content type="html">&lt;p&gt;&lt;strong&gt;心肺复苏术&lt;/strong&gt;（Cardiopulmonary Resuscitation, 简称 CPR）是针对心脏病突发、溺水、触电等各种原因导致的心脏骤停患者，主要包括&lt;strong&gt;胸外按压&lt;/strong&gt;和&lt;strong&gt;人工呼吸&lt;/strong&gt;，供给心脑重要脏器血流和氧气。大量实践表明，心跳停止 4 分钟内进行心肺复苏，患者救活率可达到 50％，而超过这一时间，被救活的希望就很渺茫。因此被称为 “黄金抢救四分钟”。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/healthy/news_cpr_covid.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/healthy/news_cpr_covid.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;步骤&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#步骤&#34;&gt;#&lt;/a&gt; 步骤&lt;/h2&gt;
 &lt;p&gt;CPR 的步骤及要点如下：&lt;/p&gt;
 &lt;ol&gt;
@@ -210,13 +210,13 @@
 &lt;/ol&gt;
 &lt;h2 id=&#34;图示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#图示&#34;&gt;#&lt;/a&gt; 图示&lt;/h2&gt;
 &lt;p&gt;寻找胸部按压点&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/healthy/CPR-01.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/healthy/CPR-01.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;胸外按压&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/healthy/cpr-compressions.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/healthy/cpr-compressions.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;打开气道&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/healthy/cpr-airway.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/healthy/cpr-airway.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;人工呼吸&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/healthy/cpr-breathing.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/healthy/cpr-breathing.webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;references&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#references&#34;&gt;#&lt;/a&gt; References&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.mayoclinic.org/first-aid/first-aid-cpr/basics/art-20056600&#34;&gt;Cardiopulmonary resuscitation (CPR): First aid&lt;/a&gt;&lt;/li&gt;

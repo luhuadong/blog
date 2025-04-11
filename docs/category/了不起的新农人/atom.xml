@@ -9,6 +9,7 @@
     <category term="信息世界" />
     <category term="商业" />
     <category term="创业" />
+    <category term="摄影" />
     <category term="城市规划" />
     <category term="地理" />
     <category term="城市" />
@@ -20,7 +21,6 @@
     <category term="物联网" />
     <category term="Python" />
     <category term="教孩子学编程" />
-    <category term="摄影" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -105,7 +105,7 @@
         <id>https://luhuadong.com/farm/mushroom.html</id>
         <title>蘑菇种类及其生长条件</title>
         <link rel="alternate" href="https://luhuadong.com/farm/mushroom.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/farm/mushroom-types.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/farm/mushroom-types.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;蘑菇生长四要素&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#蘑菇生长四要素&#34;&gt;#&lt;/a&gt; 蘑菇生长四要素&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;湿度&lt;/strong&gt;&lt;br /&gt;
@@ -183,7 +183,7 @@
 &lt;li&gt;出菇方法：水培 / 土培&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/farm/mushroom-ldb.jpeg&#34; width=&#34;480&#34;&gt;
+&lt;img src=&#34;/images/farm/mushroom-ldb.jpeg&#34; width=&#34;480&#34;&gt;
 </content>
         <category term="种植" />
         <updated>2021-10-29T09:48:17.000Z</updated>

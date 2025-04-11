@@ -12,6 +12,7 @@
         <category>信息世界</category>
         <category>商业</category>
         <category>创业</category>
+        <category>摄影</category>
         <category>城市规划</category>
         <category>地理</category>
         <category>城市</category>
@@ -23,7 +24,6 @@
         <category>物联网</category>
         <category>Python</category>
         <category>教孩子学编程</category>
-        <category>摄影</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
@@ -111,7 +111,7 @@
             <category>修身</category>
             <category>读书笔记</category>
             <pubDate>Wed, 07 Aug 2024 23:51:34 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/reading/the-big-five-for-life-banner.jpg&#34; alt=&#34;人生五事（The big five for life）&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;../../images/reading/the-big-five-for-life-banner.jpg&#34; alt=&#34;人生五事（The big five for life）&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;《人生五事》是由约翰・史崔勒基（John P. Strelecky）创作的一本书，英文原名为《The Big Five for Life》。这本书通过一个引人入胜的故事，探讨了人生目标和意义的深刻问题。&lt;/p&gt;
 &lt;h2 id=&#34;内容概要&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#内容概要&#34;&gt;#&lt;/a&gt; 内容概要&lt;/h2&gt;
 &lt;p&gt;故事围绕两个人物展开 —— 乔和托马斯。乔是一位在工作和生活中感到迷茫的普通员工，而托马斯则是他所在公司的创始人和领导者，通过与托马斯的互动和学习，乔逐渐找到了自己的人生目标和方向。&lt;/p&gt;
@@ -134,7 +134,7 @@
 &lt;p&gt;我把手伸进背包，从里面抽出一张名片：“这是我的联系方式，保持联络。”&lt;/p&gt;
 &lt;p&gt;她接过去看了一眼，然后翻到名片背面：“嘿，这上面有你的人生五事和 PFE。”&lt;/p&gt;
 &lt;p&gt;“对啊。和托马斯共事的每个人都会在名片背面印上这些。这样可以有效地提醒我们为什么要行当下所行之事，而且与他人会面时，可以让对方觉得我们与众不同。对方总是会问这是什么意思，然后我们就会进行一场难以忘怀的探讨。”&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;../../images/reading/the-big-five-for-life-example.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../images/reading/the-big-five-for-life-example.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;小结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小结&#34;&gt;#&lt;/a&gt; 小结&lt;/h2&gt;
 &lt;p&gt;《人生五事》通过简单易懂的故事和哲理，鼓励读者反思自己的人生目标和意义。书中的理念不仅适用于个人成长和发展，也对企业管理和团队建设具有重要的启示。&lt;/p&gt;
@@ -156,7 +156,7 @@
             <category>修身</category>
             <category>读书笔记</category>
             <pubDate>Sun, 24 Jul 2022 19:49:34 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/reading/the-miracle-morning.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/reading/the-miracle-morning.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;无论你是在精神、身体、财务、人际关系或者其他方面面临危机，事实都一再证明，“神奇的早起” 就是你的雪中炭和及时雨，它能助你跨过貌似无法逾越的高山，让你在电光火石之间创造属于自己的奇迹。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;改变自己最快的方式就是：早起 + 密集做事&lt;/p&gt;
@@ -411,7 +411,7 @@
             <category>成长</category>
             <category>修身</category>
             <pubDate>Sun, 14 Mar 2021 00:57:47 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/rethink.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/rethink.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;center&gt;你今天过得怎么样？&lt;/center&gt;
 &lt;center&gt;你最近过得怎么样？&lt;/center&gt;
 &lt;center&gt;你这一生过得怎么样？&lt;/center&gt;
@@ -426,12 +426,12 @@
             <category>修身</category>
             <category>读书笔记</category>
             <pubDate>Tue, 27 Nov 2018 10:28:16 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/book/cover-the-autobiography-of-benjamin-franklin.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/book/cover-the-autobiography-of-benjamin-franklin.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;《&lt;a href=&#34;https://s.click.taobao.com/t?e=m%3D2%26s%3DVpXGOH4sNVkcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67n7V8AnswFe%2B18u9BjgaVz6nFi3wFBXvYUtYIXyQ5%2BdaGX93X4IFTwPx%2FVncyXNiWXW0BscCR%2FBjdZr7RBnLmJomXO35yxsaccvUU99q9KO5hgQhA1Jq3XJ99iMgOKhMS7v6t%2Bff2FWpomfkDJRs%2BhU%3D&amp;amp;scm=null&amp;amp;pvid=null&amp;amp;app_pvid=59590_11.22.235.196_684_1633490199334&amp;amp;ptl=floorId%3A17741&amp;amp;originalFloorId%3A17741&amp;amp;app_pvid%3A59590_11.22.235.196_684_1633490199334&amp;amp;union_lens=lensId%3APUB%401633490106%40212ba35f_08a7_17c5398f977_68c1%400237lDkxQMvbPQTHnIebJQU6&#34;&gt;富兰克林自传&lt;/a&gt;》这本书其实是本杰明・富兰克林写给儿子威廉・富兰克林的家书。所以这部书的创作时间很长，从 1771 年动笔，到 1788 年完成，前后经历了 17 年。也正因如此，阅读本书时，会给人一种代入感，就好像一位长辈在给你分享他的成长经历一样，富含睿智与哲理，又不失真实性。虽然和写书的年代相差两百多年，却依然能给人启发和鼓舞！&lt;/p&gt;
 &lt;p&gt;阅读本书，给我的感觉是一次伟大而有趣的心灵对话，常读常新，祝愿大家都能收获一份人生修养的智慧。&lt;/p&gt;
 &lt;h2 id=&#34;时间管理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#时间管理&#34;&gt;#&lt;/a&gt; 时间管理&lt;/h2&gt;
 &lt;p&gt;本杰明・富兰克林虽然出身贫寒，只念过两年书，却有着传奇的一生。之所以能取得这么大的成就，其中一个原因就是他出色的时间管理能力。我们来看一下他的 “手帐” —— 24 小时日程表。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/book/Benjamin_Franklin_Time_Schedule.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/book/Benjamin_Franklin_Time_Schedule.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;是不是有种似曾相识的感觉？好像在某些手账本和时间管理 App 上看过类似的设计，哈哈哈～&lt;/p&gt;
 &lt;p&gt;一日之计在于晨，清晨时光贵如金，想必 5 点起床的富兰克林深谙此道！&lt;/p&gt;
 &lt;h2 id=&#34;13-种品德&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#13-种品德&#34;&gt;#&lt;/a&gt; 13 种品德&lt;/h2&gt;

@@ -9,6 +9,7 @@
     <category term="信息世界" />
     <category term="商业" />
     <category term="创业" />
+    <category term="摄影" />
     <category term="城市规划" />
     <category term="地理" />
     <category term="城市" />
@@ -20,7 +21,6 @@
     <category term="物联网" />
     <category term="Python" />
     <category term="教孩子学编程" />
-    <category term="摄影" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -114,7 +114,7 @@
         <id>https://luhuadong.com/recipes/curry-potatoes.html</id>
         <title>【素食菜谱】咖喱蔬菜大杂烩</title>
         <link rel="alternate" href="https://luhuadong.com/recipes/curry-potatoes.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/vegan/curry-potatoes.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/vegan/curry-potatoes.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;食材：&lt;/p&gt;
 &lt;p&gt;素咖喱块、土豆、胡萝卜、西兰花、油豆腐、豌豆、板栗、植物油、食盐。&lt;/p&gt;
 &lt;p&gt;步骤：&lt;/p&gt;
@@ -132,7 +132,7 @@
         <id>https://luhuadong.com/recipes/vegetable-stew-with-tomatoes.html</id>
         <title>【素食菜谱】番茄炖蔬菜</title>
         <link rel="alternate" href="https://luhuadong.com/recipes/vegetable-stew-with-tomatoes.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/vegan/vegetable-stew-with-tomatoes.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/vegan/vegetable-stew-with-tomatoes.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;食材：&lt;/p&gt;
 &lt;p&gt;西红柿 1-2 个、豆腐半块、腐竹泡发 200 克、金针菇 1 把、娃娃菜约 150 克、木耳 5 朵、生姜适量、食用油约 25 克、盐 1/3 茶匙、素耗油 1 勺、素高鲜	1/3 茶匙、生抽 1 勺、淀粉水（1 勺淀粉 + 1/3 碗清水）。&lt;/p&gt;
 &lt;p&gt;步骤：&lt;/p&gt;
@@ -157,7 +157,7 @@
         <id>https://luhuadong.com/recipes/sauteed-celery-with-dried-tofu-slices.html</id>
         <title>【素食菜谱】芹菜炒香干</title>
         <link rel="alternate" href="https://luhuadong.com/recipes/sauteed-celery-with-dried-tofu-slices.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/vegan/sauteed-celery-with-dried-tofu-slices.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/vegan/sauteed-celery-with-dried-tofu-slices.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;水芹菜是一种水生保健蔬菜，生拌炒食皆可，且风味独特。水芹菜营养丰富，含有多种人体不可缺少的营养物质。中医认为，水芹菜的功效为清热利水、化痰下气、祛瘀止带、解毒消肿，并有健脾和胃、消食导滞、利尿、止血、降血压、抗肝炎、抗心律失常、抗菌、治疗失眠等作用。&lt;/p&gt;
 &lt;p&gt;食材：&lt;/p&gt;
 &lt;p&gt;水芹菜一小把、香干（豆腐干）3-4 块、食盐适量、香油少许。&lt;/p&gt;
@@ -177,7 +177,7 @@
         <id>https://luhuadong.com/recipes/chinese-yam-in-hot-toffee.html</id>
         <title>【素食菜谱】拔丝山药</title>
         <link rel="alternate" href="https://luhuadong.com/recipes/chinese-yam-in-hot-toffee.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/vegan/chinese-yam-in-hot-toffee.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/vegan/chinese-yam-in-hot-toffee.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;食材：&lt;/p&gt;
 &lt;p&gt;山药 500 克、白糖 150 克、玉米淀粉适量、油适量、白米醋少许、白芝麻 8 克。&lt;/p&gt;
 &lt;p&gt;步骤：&lt;/p&gt;
@@ -199,7 +199,7 @@
         <id>https://luhuadong.com/recipes/candied-sweet-potatoes.html</id>
         <title>【素食菜谱】拔丝地瓜</title>
         <link rel="alternate" href="https://luhuadong.com/recipes/candied-sweet-potatoes.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/vegan/candied-sweet-potatoes.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/vegan/candied-sweet-potatoes.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;本文介绍非油炸拔丝地瓜的做法。&lt;/p&gt;
 &lt;p&gt;食材：&lt;/p&gt;
 &lt;p&gt;地瓜 500 克、白糖 150 克、玉米淀粉适量、油适量、白米醋少许、白芝麻 8 克。&lt;/p&gt;
@@ -219,7 +219,7 @@
         <id>https://luhuadong.com/recipes/di-san-xian.html</id>
         <title>【素食菜谱】地三鲜</title>
         <link rel="alternate" href="https://luhuadong.com/recipes/di-san-xian.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/vegan/di-san-xian.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/vegan/di-san-xian.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;地三鲜是东北菜中最经典的一道素菜，也是一道超级下饭菜。用土豆、茄子、青椒，这三种新鲜又普通的蔬菜，烧出一道让人百吃不厌、色香味无敌的家常菜肴。也许很多人发现，自己在家做的地三鲜怎么都不如餐馆做的好吃，不仅茄子暗黑，而且土豆硬芯，这是因为没有掌握做好这道菜的关键 —— 炸。&lt;/p&gt;
 &lt;p&gt;食材：&lt;/p&gt;
 &lt;p&gt;茄子（长）1 个、青椒 2 个、土豆 2 个、淀粉 2 勺、盐适量、生抽 3 勺、老抽 1 勺、耗油 1 勺、白糖 1 勺。&lt;/p&gt;
@@ -242,7 +242,7 @@
         <id>https://luhuadong.com/recipes/eight-treasure-congee.html</id>
         <title>【素食菜谱】八宝粥</title>
         <link rel="alternate" href="https://luhuadong.com/recipes/eight-treasure-congee.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/vegan/eight-treasure-congee.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/vegan/eight-treasure-congee.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;八宝又名腊八粥、佛粥，是一种在腊八节用由多种食材熬制的粥，也是我国的传统节日食品。早在南宋时期，文人周密所撰的《武林旧事》就曾记载：“用胡桃、松子、乳覃、柿、栗之类作粥，谓之腊八粥”。&lt;/p&gt;
 &lt;p&gt;八宝粥的材料主要包含谷类、豆类和干果类。常见的八宝粥是由大米、糯米、黑米、红枣、花生、莲子、百合、红豆组成，但很多时候，八宝粥可不止八宝，还会添加绿豆、桃仁、桂圆等。因此，八宝粥富含氨基酸、淀粉、植物蛋白，具有健脾养胃，消滞减肥，益气安神的功效。&lt;/p&gt;
 &lt;p&gt;食材：&lt;/p&gt;
@@ -261,7 +261,7 @@
         <id>https://luhuadong.com/recipes/vegetarian-dumplings.html</id>
         <title>【素食菜谱】素饺子</title>
         <link rel="alternate" href="https://luhuadong.com/recipes/vegetarian-dumplings.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/vegan/dumplings.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/vegan/dumplings.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;由于饺子皮没有太大区别，因此素饺子的重点就在于 “馅料”，它的全名也就是 “素馅饺子”。&lt;/p&gt;
 &lt;h2 id=&#34;馅料制作&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#馅料制作&#34;&gt;#&lt;/a&gt; 馅料制作&lt;/h2&gt;
 &lt;p&gt;我收集了一些常见的素饺子馅料的食材，包括：韭菜、韭黄、木耳、香菇、胡萝卜、沙葛、西葫芦、大白菜、芹菜、紫菜、粉丝、豆腐、马蹄、玉米......&lt;/p&gt;
@@ -329,7 +329,7 @@
         <id>https://luhuadong.com/recipes/eggplant-and-green-beans.html</id>
         <title>【素食菜谱】茄子豆角</title>
         <link rel="alternate" href="https://luhuadong.com/recipes/eggplant-and-green-beans.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/vegan/%E8%8C%84%E5%AD%90%E8%B1%86%E8%A7%92.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/vegan/%E8%8C%84%E5%AD%90%E8%B1%86%E8%A7%92.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;茄子豆角是许多餐馆都有的一道菜，豆角富含维生素 B、维生素 C、植物蛋白质、磷脂以及微量元素，茄子则是为数不多的紫色蔬菜之一，它的紫皮富含维生素 E。两者搭配起来还是蛮好看、美味、营养的。&lt;/p&gt;
 &lt;p&gt;茄子豆角这道菜也是我转素食后给自己做的第一道菜。&lt;/p&gt;
 &lt;h2 id=&#34;准备食材&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#准备食材&#34;&gt;#&lt;/a&gt; 准备食材&lt;/h2&gt;
@@ -411,7 +411,7 @@
 &lt;p&gt;&lt;strong&gt;豇豆&lt;/strong&gt;（学名：Vigna unguiculata），俗称角豆、姜豆、带豆、挂豆角。豇豆分为长豇豆和饭豇两种，属豆科植物。豇豆属豆科一年生植物。茎有矮性、半蔓性和蔓性三种。南方栽培以蔓性为主，矮性次之。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;四季豆&lt;/strong&gt;是芸豆的别名，菜豆是豆科菜豆种的栽培品种，为一年生草本植物。北方多叫眉豆，在浙江兰溪也叫眉豆。又叫菜豆，芸扁豆，四月豆等，在浙江衢州叫做清明豆，在四川及一些华中地区叫做四季豆，是餐桌上的常见蔬菜之一。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/vegan/%E8%B1%86%E8%A7%92%E7%A7%8D%E7%B1%BB.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/vegan/%E8%B1%86%E8%A7%92%E7%A7%8D%E7%B1%BB.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;常见食用油沸点：大豆油 257℃、玉米油 246℃、花生油 226℃、芝麻油 215℃。所以油温六成热，大概就是豆油 154℃，玉米油 147℃、花生油 135℃、芝麻油 129℃。&lt;/p&gt;
 &lt;/blockquote&gt;

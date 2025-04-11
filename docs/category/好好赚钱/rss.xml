@@ -5,13 +5,14 @@
         <link>https://luhuadong.com</link>
         <description>阿基米东的成长笔记</description>
         <language>zh-CN</language>
-        <pubDate>Wed, 24 Jul 2024 19:58:44 +0800</pubDate>
-        <lastBuildDate>Wed, 24 Jul 2024 19:58:44 +0800</lastBuildDate>
+        <pubDate>Mon, 11 Nov 2024 23:52:48 +0800</pubDate>
+        <lastBuildDate>Mon, 11 Nov 2024 23:52:48 +0800</lastBuildDate>
         <category>名言</category>
         <category>奋斗</category>
         <category>信息世界</category>
         <category>商业</category>
         <category>创业</category>
+        <category>摄影</category>
         <category>城市规划</category>
         <category>地理</category>
         <category>城市</category>
@@ -23,7 +24,6 @@
         <category>物联网</category>
         <category>Python</category>
         <category>教孩子学编程</category>
-        <category>摄影</category>
         <category>创客</category>
         <category>比赛</category>
         <category>科技向善</category>
@@ -105,12 +105,98 @@
         <category>零废弃</category>
         <category>低碳</category>
         <item>
+            <guid isPermalink="true">https://luhuadong.com/money/stock-investment-strategy-swing-trading.html</guid>
+            <title>股票交易策略：做T</title>
+            <link>https://luhuadong.com/money/stock-investment-strategy-swing-trading.html</link>
+            <category>股票</category>
+            <category>理财</category>
+            <pubDate>Mon, 11 Nov 2024 23:52:48 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;strong&gt;在 A 股市场中，做 T 是一种常见的交易策略。&lt;/strong&gt; 做 T 指的是在一个交易日内，对同一只股票进行先买后卖或先卖后买的操作，以赚取差价。下面我们来详细了解一下 A 股做 T 的操作方法、技巧以及风险。&lt;/p&gt;
+&lt;h2 id=&#34;操作方法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#操作方法&#34;&gt;#&lt;/a&gt; 操作方法&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;先卖后买&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果投资者判断某只股票当天可能会下跌，那么可以先卖出手中持有的部分股票，待股价下跌到一定程度后再买回相同数量的股票，从而实现做 T。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;先买后卖&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;当投资者认为某只股票当天有上涨的趋势时，可以先买入一定数量的股票，待股价上涨到一定价位后，再卖出之前买入的相同数量的股票。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;做-t-的技巧&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#做-t-的技巧&#34;&gt;#&lt;/a&gt; 做 T 的技巧&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;观察分时走势&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;通过分析股票的分时图，把握股价的波动规律，选择合适的买卖点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;结合技术指标&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如 MACD、KDJ 等指标，辅助判断股票的走势，提高做 T 的成功率。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;关注成交量&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;成交量的变化往往能反映出市场的交易活跃程度和资金动向。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;控制仓位&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;做 T 时不宜投入过多资金，以免因判断失误造成较大损失。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;:::tip&lt;/p&gt;
+&lt;p&gt;MACD（指数平滑异同移动平均线）是由 Gerald Appel 在 1979 年提出的一种趋势跟踪的动量指标。&lt;/p&gt;
+&lt;p&gt;KDJ（随机指标）是一个用于分析市场短期趋势的技术指标。KDJ 反映了价格变化的强度，超买和超卖的信号。但在剧烈波动的市场中，KDJ 不一定有效。&lt;/p&gt;
+&lt;p&gt;:::&lt;/p&gt;
+&lt;h2 id=&#34;做-t-的风险&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#做-t-的风险&#34;&gt;#&lt;/a&gt; 做 T 的风险&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;踏空风险&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果卖出股票后股价持续上涨，可能导致无法买回，从而错失后续的上涨收益。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;套牢风险&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;买入股票后股价下跌，可能会使投资者陷入套牢的困境。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;交易成本风险&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;频繁做 T 会增加交易手续费和印花税等成本。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;技术分析失误风险&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;技术指标并非绝对准确，可能会因分析失误导致做 T 失败。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;下面以一个简单的表格来对比做 T 成功和失败的情况：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;情况&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;收益&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;风险&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;做 T 成功&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;降低成本，增加收益&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;可能错过后续更大涨幅&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;做 T 失败&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;增加成本，减少收益&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;可能陷入深度套牢&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;总之，做 T 是一种较为复杂的交易策略，需要投资者具备丰富的市场经验、敏锐的判断力和良好的风险控制能力。在实际操作中，投资者应根据自身的风险承受能力和投资目标谨慎选择。&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">https://luhuadong.com/money/auto-insurance.html</guid>
             <title>汽车保险种类这么多，怎么买比较省钱？</title>
             <link>https://luhuadong.com/money/auto-insurance.html</link>
             <category>保险</category>
             <pubDate>Wed, 24 Jul 2024 19:58:44 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/auto-insurance-banner.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/money/auto-insurance-banner.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;最近又到了一年一度购买车险的时候，有好多车险业务员都主动联系我了。不过有些价格相差还挺大的，而且保险项目真的让人看得头大，所以今天来捋一捋车险里面的项目分别保哪些东西？值不值得买？怎么买比较划算？&lt;/p&gt;
 &lt;p&gt;车险通常包含交强险、车船税、商业车险等几部分，其中商业车险又包含车损险、第三者责任险等。下面我们逐一介绍这些保险及其保障内容和注意事项。&lt;/p&gt;
 &lt;h2 id=&#34;交强险&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#交强险&#34;&gt;#&lt;/a&gt; 交强险&lt;/h2&gt;
@@ -197,7 +283,7 @@
             <category>股票</category>
             <category>理财</category>
             <pubDate>Tue, 23 Jul 2024 18:31:35 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/exchange-or-over-the-counter-banner.png&#34; alt=&#34;场内交易和场外交易&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/money/exchange-or-over-the-counter-banner.png&#34; alt=&#34;场内交易和场外交易&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;最近有朋友问我，在支付宝上买入基金和通过证券账户买入基金有什么不一样？在支付宝上操作就挺方便的，为什么还要这么麻烦开通证券账户呢？&lt;/p&gt;
 &lt;p&gt;这其实呀，就是场内交易和场外交易的区别。&lt;/p&gt;
 &lt;h2 id=&#34;场内交易&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#场内交易&#34;&gt;#&lt;/a&gt; 场内交易&lt;/h2&gt;
@@ -258,7 +344,7 @@
             <category>股票</category>
             <category>理财</category>
             <pubDate>Thu, 18 Jul 2024 16:10:00 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/primary-market-and-secondary-market.png&#34; alt=&#34;一级市场和二级市场&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/money/primary-market-and-secondary-market.png&#34; alt=&#34;一级市场和二级市场&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;基本概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基本概念&#34;&gt;#&lt;/a&gt; 基本概念&lt;/h2&gt;
 &lt;p&gt;首先，我们要先明确一下 “市场” 的概念。一般来说，市场就是发生交易的地方，比如说菜市场就是可以买卖蔬果肉蛋奶的地方。那我们这里讲的 “市场” 其实就是指金融市场，金融市场是一个总称，它包括了经营货币资金借款、外汇买卖、有价证券交易、债券和股票的发行、黄金等贵金属买卖场所。&lt;/p&gt;
 &lt;p&gt;我们还经常听到 “股票市场”、“证券交易市场” 等名称，但这些都不够准确，它们是一个更狭窄的概念。除此之外，还有外汇市场、黄金市场、债权市场等等。实际上，股票交易的市场已经是二级市场了，因为它是发生在投资人和投资人之间的交易。下面我们详细介绍一级市场和二级市场的概念和区别。&lt;/p&gt;
@@ -499,7 +585,7 @@
             <description><![CDATA[ &lt;p&gt;很多人手上有了积蓄以后也不知道怎么理财，如果你也是这样，不妨参考本文介绍的 “财富水池” 模型。&lt;/p&gt;
 &lt;h2 id=&#34;财富水池的概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#财富水池的概念&#34;&gt;#&lt;/a&gt; 财富水池的概念&lt;/h2&gt;
 &lt;p&gt;下面是 “财富水池” 模型的示意图，总共分为 4 个水池，依次是现金池、保险池、目标池、金鹅池。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/%E8%B4%A2%E5%AF%8C%E6%B0%B4%E6%B1%A0%E6%A8%A1%E5%9E%8B.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/money/%E8%B4%A2%E5%AF%8C%E6%B0%B4%E6%B1%A0%E6%A8%A1%E5%9E%8B.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;财富水池的作用是帮助我们在财务和自己的生活之间搭起一座桥，让你的财务很好地支持你各种财务需求。&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;现金池&lt;/strong&gt;：是我们的零钱管家，用于日常消费、超短期支付及储蓄应急准备金等等。&lt;/li&gt;
@@ -523,12 +609,12 @@
 &lt;h3 id=&#34;第2步准备商业险的资金填入保险池&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第2步准备商业险的资金填入保险池&#34;&gt;#&lt;/a&gt; 第 2 步：准备商业险的资金，填入保险池&lt;/h3&gt;
 &lt;p&gt;记住：&lt;strong&gt;财务安全是优先于财务成长的&lt;/strong&gt;。也就是说，相比于投资，下一个等待我们去满足的需求就是保障需求，即需要优先填满保险池。&lt;/p&gt;
 &lt;p&gt;对于打工人来说，除了社保医保，强烈建议额外购买商业保险进行补充，尽可能覆盖所有潜在风险。商业保险的种类很多，一般关注重疾险、医疗险、意外险、寿险这四大险种即可。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/%E5%9B%9B%E5%A4%A7%E9%99%A9%E7%A7%8D%E7%AE%80%E5%8D%95%E5%AF%B9%E6%AF%94.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/money/%E5%9B%9B%E5%A4%A7%E9%99%A9%E7%A7%8D%E7%AE%80%E5%8D%95%E5%AF%B9%E6%AF%94.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;保险池的具体配置也是因人而异，我们建议你预留家庭年收入 5%-8%，最多不要超过 10% 的钱，作为你每年的保障投入。这个金额是一个目前比较普遍，也相对科学的保费支出比例，既可以选到相对充足的保障，又不会对家庭经济带来过大的压力。&lt;/p&gt;
 &lt;h3 id=&#34;第3步在目标基金池中投入你5年内的目标&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第3步在目标基金池中投入你5年内的目标&#34;&gt;#&lt;/a&gt; 第 3 步：在目标基金池中投入你 5 年内的目标&lt;/h3&gt;
 &lt;p&gt;目标基金池的作用是帮助你实现未来五年内想要完成的目标。因此根据这个需求，建议你首先在这个目标池中，梳理出目标背后需要的财务支持。&lt;/p&gt;
 &lt;p&gt;根据 SMART 原则，一个合理的理财目标必须包括 5 个要素：明确性、可测量、可行性、现实性和时效性。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/SMART%E5%8E%9F%E5%88%99.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/money/SMART%E5%8E%9F%E5%88%99.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;第4步产品匹配目标池&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第4步产品匹配目标池&#34;&gt;#&lt;/a&gt; 第 4 步：产品匹配目标池&lt;/h3&gt;
 &lt;p&gt;接下来，为了更好地实现以上目标，我们需要根据上一步制定的目标来寻找与目标池匹配的理财产品。&lt;/p&gt;
 &lt;p&gt;一般来说，期限越短，越刚性的目标，越适合投资低风险的固定收益类的产品，比如风险等级在 R2 以下的银行理财。比如，6 个月之后的孩子学费，你就可以分别选择 6 个月的低风险固定收益产品。再比如 1 年后要买房交首付，需要 30 万，那么可以一次拿出 30 万，选择一款 1 年期，预期收益率为 4% 的低风险银行理财产品。而对于期限较长、比较有弹性的目标，你就可以选择一些风险稍高，但收益率也更高的产品。&lt;/p&gt;
@@ -539,7 +625,7 @@
 &lt;p&gt;在日常工作生活中，我们可能会有一笔钱，一时半会不知道能做什么用。比如发了一笔年终奖，或者结婚彩礼，如果我们已经把前面 3 个池安排妥当，那么剩余的钱就可以流到我们的金鹅池当中，用于长期投资，获取更长远的财富增值。&lt;/p&gt;
 &lt;p&gt;对于金鹅池是如何投资，范围就非常广泛了：包括股票、基金、黄金等等。具体要买些什么，要结合你对理财知识的熟悉程度，以及风险承受能力等等综合评定。一般来说，由于这个池子的钱可以用作长期投资，我们就可以适当投资一些更高风险，但长期能够产生更高收益的产品，比如股票类基金。&lt;/p&gt;
 &lt;p&gt;但必须强调的是，&lt;strong&gt;不懂不投&lt;/strong&gt;是最基本的原则。&lt;/p&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/金鹅下蛋.jpg&#34; style=&#34;zoom:40%;&#34; /&gt;
+&lt;img src=&#34;/images/money/金鹅下蛋.jpg&#34; style=&#34;zoom:40%;&#34; /&gt;
  ]]></description>
         </item>
         <item>
@@ -566,7 +652,7 @@
 &lt;p&gt;&lt;strong&gt;所以你可以把市盈率理解为「回本期限」，假设一家企业的盈利水平不变，一笔投资需要多少年能收回成本。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;由于市盈率计算起来特别方便，理解起来也不难，所以成为大家快速评估公司价值的流行方法。&lt;/p&gt;
 &lt;p&gt;一些行情软件和财经网站都会提供市盈率的信息，我们可以很方便地查到。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/%E5%B8%82%E7%9B%88%E7%8E%87%E7%A4%BA%E4%BE%8B.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/money/%E5%B8%82%E7%9B%88%E7%8E%87%E7%A4%BA%E4%BE%8B.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;（数据来源：雪球，统计时间：2020-03-16）&lt;/p&gt;
 &lt;h2 id=&#34;三种市盈率&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#三种市盈率&#34;&gt;#&lt;/a&gt; 三种市盈率&lt;/h2&gt;
 &lt;p&gt;在具体查找的时候，我们通常会看到 3 种不同的市盈率：&lt;strong&gt;静态市盈率&lt;/strong&gt;、&lt;strong&gt;滚动市盈率&lt;/strong&gt;（TTM）和&lt;strong&gt;动态市盈率&lt;/strong&gt;。&lt;/p&gt;
@@ -596,7 +682,7 @@
 &lt;p&gt;假如一家公司当前市盈率低于平均水平，股价相对低估；市盈率高于平均水平，则说明股价高估。&lt;/p&gt;
 &lt;p&gt;【实际案例】&lt;/p&gt;
 &lt;p&gt;还是以贵州茅台为例，它当前的市盈率是 32 倍左右，而它最近 5 年的平均市盈率是 27 倍左右，当前市盈率，略高于平均水平，股价略微高估。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/%E5%B8%82%E7%9B%88%E7%8E%87%E7%A4%BA%E4%BE%8B2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/money/%E5%B8%82%E7%9B%88%E7%8E%87%E7%A4%BA%E4%BE%8B2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;（数据来源：亿牛网，统计时间：2015-2020 年）&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2）横向比较&lt;/strong&gt;&lt;/p&gt;
  ]]></description>
@@ -630,7 +716,7 @@
 &lt;li&gt;&lt;strong&gt;慢&lt;/strong&gt;：傲慢。是否曾经抓到一两个涨停板或者做顺了几个单子就傲慢？&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;淡定地看待涨跌，涨就等卖点，跌就等买点。心态和节奏不对的时候，请停止操作，休息一阵子，不操作就不会损失。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/stock-trading-mentality.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/money/stock-trading-mentality.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
@@ -640,7 +726,7 @@
             <category>股票</category>
             <category>理财</category>
             <pubDate>Sun, 22 Jan 2023 22:49:59 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/stock.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;/images/money/stock.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;股票是什么&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#股票是什么&#34;&gt;#&lt;/a&gt; 股票是什么&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;股票&lt;/strong&gt;（stock）又称为 &lt;strong&gt;资本存货&lt;/strong&gt;（capital stock），是股份有限公司在筹集资本时向出资人发行的股份凭证。&lt;/p&gt;
 &lt;p&gt;发行股票的原因是该股份公司需要筹集长期资金，以进行研发、生产、市场推广或扩大经营等生产活动。因此将股票发给投资者作为公司资本的部分&lt;strong&gt;所有权凭证&lt;/strong&gt;，拥有股票的人即为&lt;strong&gt;股东&lt;/strong&gt;，可以此获得&lt;strong&gt;股利&lt;/strong&gt;（股票股利）或 / 且&lt;strong&gt;股息&lt;/strong&gt;（现金股利），并分享公司成长或交易市场波动带来的利润；但也要共同承担公司运作错误所带来的风险。&lt;/p&gt;
@@ -722,7 +808,7 @@
 &lt;p&gt;因为一生的支出规律是基本可以模拟的，我们可以发现：第一个支出高峰期是 30 岁～35 岁，这一阶段的主要指出是成家立室；第二个高峰期是 50 岁左右，上有老下有小，年幼的孩子长大外出求学、父母进入老年；第三个高峰是漫长的养老考验。&lt;/p&gt;
 &lt;p&gt;对于普通人来说，花钱有一些避不开的羁绊：年轻的时候没收入，求学和生活的钱由父母出，年纪大了也必然要把钱花在子女身上；60 岁以后，收入来源减少，如果没存购三十年的养老金，就需要子女的支持，相反如果我们老了还能养活自己，那子女在中年时的压力就会小很多。&lt;/p&gt;
 &lt;p&gt;以你这一代人为参照标准，上下各一代人，共三代人的收支情况互为因果，决定了你能花多少钱。如果上一代的积累很多，30 岁的人买房、买车的消费压力就会小；如果下一代的收入高，退休后 30 年的生命质量就会高。反之，上一代的压力也可能会传导到第三代。不是只考虑时间或者只考虑自己就可以放心花钱的。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/money/money-intergenerational-transmission.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/money/money-intergenerational-transmission.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;在各种排列组合中：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;蓝色的组合对你这一代最有利；而黄色的组合对你最不利。&lt;/li&gt;

@@ -9,6 +9,7 @@
     <category term="信息世界" />
     <category term="商业" />
     <category term="创业" />
+    <category term="摄影" />
     <category term="城市规划" />
     <category term="地理" />
     <category term="城市" />
@@ -20,7 +21,6 @@
     <category term="物联网" />
     <category term="Python" />
     <category term="教孩子学编程" />
-    <category term="摄影" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -105,12 +105,12 @@
         <id>https://luhuadong.com/journal/20240406.html</id>
         <title>32岁才发现，原来我可以什么都不做</title>
         <link rel="alternate" href="https://luhuadong.com/journal/20240406.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/2024/20240412_223005.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/journal/2024/20240412_223005.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;32 岁了，工作快满十年了，这些年有什么长进吗？成熟了吗？快乐了吗？麻木了吗？&lt;/p&gt;
 &lt;h2 id=&#34;事业和爱情&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#事业和爱情&#34;&gt;#&lt;/a&gt; 事业和爱情&lt;/h2&gt;
 &lt;p&gt;事业和爱情，一直是这几年困扰我的问题。一直在追寻有意义的工作和无条件的爱，却一直找不到。&lt;/p&gt;
 &lt;p&gt;2 月底，春萍她说她和别人谈恋爱了。过了几天，我还是有点不死心，后来她给我发了一段话：&lt;/p&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/2024/20240311_chunping.jpg&#34; width=&#34;200&#34; /&gt;
+&lt;img src=&#34;/images/journal/2024/20240311_chunping.jpg&#34; width=&#34;200&#34; /&gt;
 &lt;p&gt;这段话把我看哭，刚看了前面两句就哭了，没法看下去。后来缓了一段时间，终于看完了，然后把关闭了二狗 App，也开始重新审视自己在过去一段感情中的得与失。&lt;/p&gt;
 &lt;p&gt;我一直没能百分百投入到这段感情，一直找原因，我以为......&lt;/p&gt;
 &lt;p&gt;事业太大，需要慢慢做，还是先找对象结婚吧。&lt;/p&gt;
@@ -138,7 +138,7 @@
         <content type="html">&lt;h2 id=&#34;什么事&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么事&#34;&gt;#&lt;/a&gt; 什么事？&lt;/h2&gt;
 &lt;p&gt;最近工作上的事情让我特别焦虑，因为对现在这份工作的前景产生了动摇，在六月底提出离职申请后，工作氛围也有点尴尬。领导们也找我聊过好几次，现在走也不是，不走也不是，还是挺让人焦虑的。上周五答应领导留下来继续干，起码今年不走，但是周末又有点动摇了，因为哪怕今年不走，明年可能也会走，还是会面临一样的难题。&lt;/p&gt;
 &lt;p&gt;至于离职后，目前的想法是加入 openEuler 团队，参与 openEuler Embedded 版本的开发和维护。所以今天画了个图帮助整理和思考。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/2023%E5%B9%B4%E5%B7%A5%E4%BD%9C%E9%80%89%E6%8B%A9%E5%92%8C%E7%9B%AE%E6%A0%87.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/journal/2023%E5%B9%B4%E5%B7%A5%E4%BD%9C%E9%80%89%E6%8B%A9%E5%92%8C%E7%9B%AE%E6%A0%87.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;主要还是工作方向上的原因，自动驾驶最近有点冷，激光雷达就更加冷了，而且导远进入激光雷达行业晚了点，很难抢占前装市场，后装市场又太小太杂。而我吧，刚好在这里承担各种杂乱的工作（上位机、SDK、ROS、RK3588 平台、IMU 运动补偿、点云处理、算法集成、标定软件开发、产测软件开发、视觉识别...），真的很无语，而且交付周期很紧，每天都感觉自己像是外包的一样，今天干完不知道明天又有什么新需求，无法沉淀下来。&lt;/p&gt;
 &lt;p&gt;而另外一边，做开源软件一直是我非常感兴趣的事，尤其是做操作系统，所以觉得是一个很不错的机会。同时技术方向专一，如果我的目标是成为一名技术专家的话，是很适合长期发展的方向。&lt;/p&gt;
 &lt;h2 id=&#34;后续如何&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#后续如何&#34;&gt;#&lt;/a&gt; 后续如何？&lt;/h2&gt;
@@ -226,7 +226,7 @@
 &lt;p&gt;可弟弟执意留下。哥哥就对弟弟说 “既然你喜欢，就留下好了，我还要去找我喜欢的人。”&lt;/p&gt;
 &lt;p&gt;于是弟弟就辞别了哥哥，到当地打听求婚的习俗。当地人告诉他求婚要送牛的，普通的女孩只需要送一两头牛，贤惠漂亮的女孩要送多些，也就是说四五头。最多的是送九头牛，这样的女孩是非常优秀的，很少见这里，根本就没有人送过九头牛。&lt;/p&gt;
 &lt;p&gt;结果弟弟买了九头牛，浩浩荡荡地赶着牛群去求婚了。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/wisdom/nine-cows.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/wisdom/nine-cows.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;敲开女孩家的门时，女孩的父亲出来了，扶着门框吃惊的问：“年轻人有什么事？”&lt;/p&gt;
 &lt;p&gt;弟弟说：“老伯伯，我看上了你家的女儿，我赶着牛来是求婚的。”&lt;/p&gt;
 &lt;p&gt;老人说：“你求婚也用不着赶这么多牛来，我家女儿只是一个普通人，最多只要三四头牛就行了。你送这么多牛来是不对的，如果我收下了，邻居会笑话的。”&lt;/p&gt;
@@ -281,7 +281,7 @@
         <id>https://luhuadong.com/journal/20230201.html</id>
         <title>打工的目的只有一个</title>
         <link rel="alternate" href="https://luhuadong.com/journal/20230201.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/journal/%E6%89%93%E5%B7%A5%E6%80%9D%E8%80%83.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/journal/%E6%89%93%E5%B7%A5%E6%80%9D%E8%80%83.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;整个 2022 年，我几乎都在加班，深度参与了公司从零到一打造的产品，为多个软件项目写下了第一行代码，也因此绩效拉满，拿下了年度优秀员工奖。&lt;/p&gt;
 &lt;p&gt;说出来你们可能不信，这是我工作八年来，第一次获得优秀员工奖。但就工作内容而言，研发部分变化并不大，还是一样写代码、写文档、做测试，相比于前两份工作经历，这些工作在创业团队中得到了放大，除个人能力以外，企业文化是其中一个很重要的原因。除此之外，我还陆续承担了 Git 仓库管家、导师、面试官等工作，积累了一些管理经验和教训，包括技术管理、项目管理、时间管理、人才培养、品牌建设。&lt;/p&gt;
 &lt;p&gt;同事们说我太卷，我说是因为不想躺平，打工就要有打工的态度！好好利用公司的平台，在这里多学点东西。如果项目成功了，跟着公司上一个台阶；如果项目不成功，也是为自己未来的事业打基础。&lt;/p&gt;
@@ -429,10 +429,10 @@
         <id>https://luhuadong.com/journal/20210315.html</id>
         <title>丑苹果</title>
         <link rel="alternate" href="https://luhuadong.com/journal/20210315.html"/>
-        <content type="html">&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/ugly-apple-01.jpeg&#34; width=600 /&gt;
+        <content type="html">&lt;img src=&#34;/images/diary/ugly-apple-01.jpeg&#34; width=600 /&gt;
 &lt;p&gt;35 块买了一箱丑苹果，为了放苹果，收拾了一下，终于腾出了小餐桌。苹果虽然丑了点，却包裹着一颗超甜的冰糖心，突然有点心疼丑果。好像人类社会也一样，不仅要有实力，还要懂得自我营销才行。&lt;/p&gt;
 &lt;p&gt;以前租房子只会整理两次，第一次是搬进去那天，第二次是搬走那天，现在才发现原来整理东西真的会解压，整理物品的同时也在整理人生。周末删了几十个群、几千张照片和躺在硬盘里的那堆过期代码...... 那些曾经以为是资产的东西，原来是负债。嗯，还是简单一点好。&lt;/p&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/diary/ugly-apple-02.jpeg&#34; width=600 /&gt;
+&lt;img src=&#34;/images/diary/ugly-apple-02.jpeg&#34; width=600 /&gt;
 </content>
         <category term="思考" />
         <updated>2021-03-14T16:47:09.000Z</updated>

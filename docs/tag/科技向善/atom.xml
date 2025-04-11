@@ -9,6 +9,7 @@
     <category term="信息世界" />
     <category term="商业" />
     <category term="创业" />
+    <category term="摄影" />
     <category term="城市规划" />
     <category term="地理" />
     <category term="城市" />
@@ -20,7 +21,6 @@
     <category term="物联网" />
     <category term="Python" />
     <category term="教孩子学编程" />
-    <category term="摄影" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -105,7 +105,7 @@
         <id>https://luhuadong.com/contest/aws-serverless-for-good-2022.html</id>
         <title>亚马逊 Serverless For Good - 2022 编程挑战赛</title>
         <link rel="alternate" href="https://luhuadong.com/contest/aws-serverless-for-good-2022.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/contest/aws-serverless-for-good-2022.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/contest/aws-serverless-for-good-2022.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;大赛简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#大赛简介&#34;&gt;#&lt;/a&gt; 大赛简介&lt;/h2&gt;
 &lt;p&gt;能源与气候危机愈演愈烈之下，可持续发展成为全球共识。互联网自然不能置身事外。技术人，如何用手中的一行行代码，守护 “绿色” 星球，让人类社会更加美好。充分利用 Serverless（无服务器）是减少能源消耗、践行低碳绝佳的方式之一。&lt;/p&gt;
 &lt;p&gt;Serverless 是一种云原生开发模型，能够让应用在远程托管的执行环境中按需运行，无需维护操作系统，从而提高资源利用率、降低成本、加速创新。&lt;/p&gt;
@@ -151,7 +151,7 @@
         <id>https://luhuadong.com/contest/seeed-iot-in-the-wild-2022.html</id>
         <title>矽递科技 IoT Into the Wild 大赛 2022</title>
         <link rel="alternate" href="https://luhuadong.com/contest/seeed-iot-in-the-wild-2022.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/contest/iot-in-the-wild-2022-01.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/contest/iot-in-the-wild-2022-01.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;大赛介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#大赛介绍&#34;&gt;#&lt;/a&gt; 大赛介绍&lt;/h2&gt;
 &lt;p&gt;由 Seeed 联合社区伙伴在 Hakster 上发起的：IoT Into the Wild 大赛今天正式上线！欢迎参与！&lt;/p&gt;
 &lt;p&gt;赛程安排：&lt;/p&gt;
@@ -164,7 +164,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;五大挑战&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#五大挑战&#34;&gt;#&lt;/a&gt; 五大挑战&lt;/h2&gt;
 &lt;p&gt;In this Contest, you can focus on making easy-to-deploy AIoT solutions that can contribute to tackling any of the following Challenges or challenge topics. There are 5 Challenges in total, among which you can freely choose to concentrate on topics of one Challenge or combine several Challenges that are specified in this Contest. &lt;strong&gt;Make sure to mention the specific Challenge and challenge topics in your project submission.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/contest/iot-in-the-wild-2022-03.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/contest/iot-in-the-wild-2022-03.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Challenge 1: Climate Crisis Prevention/Mitigation&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Global warming&lt;/li&gt;
@@ -202,7 +202,7 @@
 &lt;li&gt;Sustainable food supply chain management&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;赛事合作方&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#赛事合作方&#34;&gt;#&lt;/a&gt; 赛事合作方&lt;/h2&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/contest/iot-in-the-wild-2022-04.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/contest/iot-in-the-wild-2022-04.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;相关链接&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#相关链接&#34;&gt;#&lt;/a&gt; 相关链接&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.hackster.io/contests/iotinthewild&#34;&gt;https://www.hackster.io/contests/iotinthewild&lt;/a&gt;&lt;/li&gt;

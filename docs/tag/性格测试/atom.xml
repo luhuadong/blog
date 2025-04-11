@@ -9,6 +9,7 @@
     <category term="信息世界" />
     <category term="商业" />
     <category term="创业" />
+    <category term="摄影" />
     <category term="城市规划" />
     <category term="地理" />
     <category term="城市" />
@@ -20,7 +21,6 @@
     <category term="物联网" />
     <category term="Python" />
     <category term="教孩子学编程" />
-    <category term="摄影" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -105,7 +105,7 @@
         <id>https://luhuadong.com/relationship/mbti-personality-test.html</id>
         <title>MBTI 性格测试与 16 型人格分析</title>
         <link rel="alternate" href="https://luhuadong.com/relationship/mbti-personality-test.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/relationship/MBTI-banner.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/relationship/MBTI-banner.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;MBTI 是一种经典的人格类型测评工具，它是基于心理分析家卡尔・荣格的书籍《心理类型》衍生而来的。通过对个体心理偏好的测试和分析，可以帮助个体理解自己和彼此的认知与决策倾向。&lt;/p&gt;
 &lt;p&gt;如今，MBTI 已经成为全球通用的一种人格分类方法，被广泛应用于商业、军事、教育等各个领域，在人们的日常社交、职业选择、情感沟通等方面起到良好的促进作用。&lt;/p&gt;
 &lt;h2 id=&#34;mbti-测试的起源&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mbti-测试的起源&#34;&gt;#&lt;/a&gt; MBTI 测试的起源&lt;/h2&gt;

@@ -9,6 +9,7 @@
     <category term="信息世界" />
     <category term="商业" />
     <category term="创业" />
+    <category term="摄影" />
     <category term="城市规划" />
     <category term="地理" />
     <category term="城市" />
@@ -20,7 +21,6 @@
     <category term="物联网" />
     <category term="Python" />
     <category term="教孩子学编程" />
-    <category term="摄影" />
     <category term="创客" />
     <category term="比赛" />
     <category term="科技向善" />
@@ -4902,7 +4902,7 @@
         <id>https://luhuadong.com/english/dialog-meal-replacements.html</id>
         <title>【英语对话】Meal replacements</title>
         <link rel="alternate" href="https://luhuadong.com/english/dialog-meal-replacements.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/english/Meal_replacements.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/english/Meal_replacements.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;vocabulary&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vocabulary&#34;&gt;#&lt;/a&gt; vocabulary&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -5059,7 +5059,7 @@
         <id>https://luhuadong.com/english/dialog-ordering-food-at-a-restaurant.html</id>
         <title>【英语对话】Ordering food at a restaurant</title>
         <link rel="alternate" href="https://luhuadong.com/english/dialog-ordering-food-at-a-restaurant.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/english/Ordering_food_at_a_restaurant.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/english/Ordering_food_at_a_restaurant.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;vocabulary&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vocabulary&#34;&gt;#&lt;/a&gt; vocabulary&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -5713,7 +5713,7 @@
         <id>https://luhuadong.com/english/quick-spoken-english-travel-hospital.html</id>
         <title>【速成口语】旅游英语 —— 医院</title>
         <link rel="alternate" href="https://luhuadong.com/english/quick-spoken-english-travel-hospital.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/english/not-feeling-well.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/english/not-feeling-well.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;预约和挂号&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#预约和挂号&#34;&gt;#&lt;/a&gt; 预约和挂号&lt;/h2&gt;
 &lt;h3 id=&#34;场景1&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#场景1&#34;&gt;#&lt;/a&gt; 场景 1&lt;/h3&gt;
 &lt;blockquote&gt;
@@ -5821,7 +5821,7 @@
         <id>https://luhuadong.com/english/quick-spoken-english-travel-bank.html</id>
         <title>【速成口语】旅游英语 —— 银行</title>
         <link rel="alternate" href="https://luhuadong.com/english/quick-spoken-english-travel-bank.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/english/bank-ICBC.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/english/bank-ICBC.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;存取款&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#存取款&#34;&gt;#&lt;/a&gt; 存 / 取款&lt;/h2&gt;
 &lt;h3 id=&#34;场景1&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#场景1&#34;&gt;#&lt;/a&gt; 场景 1&lt;/h3&gt;
 &lt;blockquote&gt;
@@ -6152,7 +6152,7 @@
         <id>https://luhuadong.com/english/quick-spoken-english-travel-post-office.html</id>
         <title>【速成口语】旅游英语 —— 邮局</title>
         <link rel="alternate" href="https://luhuadong.com/english/quick-spoken-english-travel-post-office.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/english/send-postcards.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/english/send-postcards.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;寄信或明信片&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#寄信或明信片&#34;&gt;#&lt;/a&gt; 寄信或明信片&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;When will the post office open?&lt;br /&gt;
@@ -6375,7 +6375,7 @@
         <id>https://luhuadong.com/english/quick-spoken-english-travel-traffic.html</id>
         <title>【速成口语】旅游英语 —— 交通</title>
         <link rel="alternate" href="https://luhuadong.com/english/quick-spoken-english-travel-traffic.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/english/chiang-mai.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/english/chiang-mai.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;问路&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#问路&#34;&gt;#&lt;/a&gt; 问路&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Excuse me. How do I get to the Sheng Li Hotel?&lt;br /&gt;
@@ -6665,7 +6665,7 @@
         <id>https://luhuadong.com/english/quick-spoken-english-travel-stay.html</id>
         <title>【速成口语】旅游英语 —— 住宿</title>
         <link rel="alternate" href="https://luhuadong.com/english/quick-spoken-english-travel-stay.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/english/amsterdam-stayokay.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/english/amsterdam-stayokay.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;预订房间&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#预订房间&#34;&gt;#&lt;/a&gt; 预订房间&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Good afternoon, Friendship Hotel.&lt;br /&gt;
@@ -7114,7 +7114,7 @@
         <id>https://luhuadong.com/english/quick-spoken-english-travel-ticket.html</id>
         <title>【速成口语】旅游英语 —— 旅行</title>
         <link rel="alternate" href="https://luhuadong.com/english/quick-spoken-english-travel-ticket.html"/>
-        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/images/english/sanya-airport.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;&lt;img src=&#34;/images/english/sanya-airport.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;预订交通工具&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#预订交通工具&#34;&gt;#&lt;/a&gt; 预订交通工具&lt;/h2&gt;
 &lt;h3 id=&#34;实用句子&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实用句子&#34;&gt;#&lt;/a&gt; 实用句子&lt;/h3&gt;
 &lt;blockquote&gt;

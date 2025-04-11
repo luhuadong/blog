@@ -9,7 +9,7 @@
             "url": "https://luhuadong.com/geography/time-and-timezone-list.html",
             "title": "时间和世界时区",
             "date_published": "2021-09-16T02:11:09.000Z",
-            "content_html": "<p><img loading=\"lazy\" data-src=\"/images/science/timezone-map.png\" alt=\"\" /></p>\n<ul>\n<li>UTC</li>\n<li>GMT</li>\n<li>CST</li>\n<li>PST</li>\n</ul>\n<p><a href=\"https://24timezones.com\">https://24timezones.com</a></p>\n",
+            "content_html": "<p><img src=\"/images/science/timezone-map.png\" alt=\"\" /></p>\n<ul>\n<li>UTC</li>\n<li>GMT</li>\n<li>CST</li>\n<li>PST</li>\n</ul>\n<p><a href=\"https://24timezones.com\">https://24timezones.com</a></p>\n",
             "tags": [
                 "地理"
             ]

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 HTML_SRC_DIR=public
-HTML_SRC_DIR2=../blog/public
+HTML_SRC_DIR2=../blog/hexo/public
 TARGET_DIR=docs
 
 if [ -d ${HTML_SRC_DIR} ]; then
